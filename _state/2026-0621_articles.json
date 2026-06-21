@@ -7,7 +7,7 @@
     "url": "https://asianwiki.com/Love_Track:_Minji_Minji_Minji",
     "content": "Love Track: Minji Minji Minji (KBS2)",
     "published_at": "0621asianwiki",
-    "published_ts": 1782052411.932268,
+    "published_ts": 1782053379.174405,
     "category": "韩剧",
     "source_lang": "en",
     "image_url": "",
@@ -20,7 +20,7 @@
       "剧名《Love Track: Minji Minji Minji》在KBS2播出"
     ],
     "summary_zh": "韩剧《Love Track: Minji Minji Minji》在KBS2播出。",
-    "extracted_at": "2026-06-21T22:33:34.021387+08:00"
+    "extracted_at": "2026-06-21T22:49:41.456708+08:00"
   },
   {
     "source_id": "asianwiki",
@@ -30,7 +30,7 @@
     "url": "https://asianwiki.com/Concrete_Market_(Korean_Drama)",
     "content": "Concrete Market (Wavve)",
     "published_at": "0621asianwiki",
-    "published_ts": 1782052411.932261,
+    "published_ts": 1782053379.174399,
     "category": "韩剧",
     "source_lang": "en",
     "image_url": "",
@@ -43,7 +43,7 @@
       "Wavve平台推出新综艺节目《Concrete Market》"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：Wavve推出新综艺《Concrete Market》]",
-    "extracted_at": "2026-06-21T22:33:35.670997+08:00"
+    "extracted_at": "2026-06-21T22:49:43.135647+08:00"
   },
   {
     "source_id": "asianwiki",
@@ -53,7 +53,7 @@
     "url": "https://asianwiki.com/Idol_I",
     "content": "Idol I (ENA)",
     "published_at": "0621asianwiki",
-    "published_ts": 1782052411.932255,
+    "published_ts": 1782053379.174394,
     "category": "韩剧",
     "source_lang": "en",
     "image_url": "",
@@ -62,11 +62,9 @@
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": true,
-    "facts_list": [
-      "原文未提及具体行为，仅称：Idol I (ENA)"
-    ],
-    "summary_zh": "原文未提及具体行为，仅称：Idol I (ENA)",
-    "extracted_at": "2026-06-21T22:33:37.486498+08:00"
+    "facts_list": [],
+    "summary_zh": "[原文未提及具体行为，仅称：Idol I (ENA)]",
+    "extracted_at": "2026-06-21T22:49:44.687051+08:00"
   },
   {
     "source_id": "asianwiki",
@@ -76,7 +74,7 @@
     "url": "https://asianwiki.com/Love_Track:_My_Father%27s_Funeral",
     "content": "Love Track: My Father's Funeral (KBS2)",
     "published_at": "0621asianwiki",
-    "published_ts": 1782052411.932248,
+    "published_ts": 1782053379.174388,
     "category": "韩剧",
     "source_lang": "en",
     "image_url": "",
@@ -89,7 +87,7 @@
       "剧名《Love Track: My Father's Funeral》在KBS2播出"
     ],
     "summary_zh": "韩剧《Love Track: My Father's Funeral》在KBS2播出。",
-    "extracted_at": "2026-06-21T22:33:39.193409+08:00"
+    "extracted_at": "2026-06-21T22:49:46.763363+08:00"
   },
   {
     "source_id": "asianwiki",
@@ -99,7 +97,7 @@
     "url": "https://asianwiki.com/Love_Track:_Kimchi",
     "content": "Love Track: Kimchi (KBS2)",
     "published_at": "0621asianwiki",
-    "published_ts": 1782052411.932239,
+    "published_ts": 1782053379.174383,
     "category": "韩剧",
     "source_lang": "en",
     "image_url": "",
@@ -112,7 +110,7 @@
       "KBS2播出电视剧《Love Track: Kimchi》"
     ],
     "summary_zh": "KBS2播出电视剧《Love Track: Kimchi》。",
-    "extracted_at": "2026-06-21T22:33:40.738530+08:00"
+    "extracted_at": "2026-06-21T22:49:48.430465+08:00"
   },
   {
     "source_id": "asianwiki",
@@ -122,7 +120,7 @@
     "url": "https://asianwiki.com/Love_Me_(Korean_Drama)",
     "content": "Love Me (JTBC)",
     "published_at": "0621asianwiki",
-    "published_ts": 1782052411.932232,
+    "published_ts": 1782053379.174377,
     "category": "韩剧",
     "source_lang": "en",
     "image_url": "",
@@ -135,7 +133,7 @@
       "JTBC推出新剧《Love Me》"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：JTBC推出新剧《Love Me》]",
-    "extracted_at": "2026-06-21T22:33:42.455173+08:00"
+    "extracted_at": "2026-06-21T22:49:50.189124+08:00"
   },
   {
     "source_id": "asianwiki",
@@ -145,7 +143,7 @@
     "url": "https://asianwiki.com/Villains_(Korean_Drama)",
     "content": "Villains (TVING)",
     "published_at": "0621asianwiki",
-    "published_ts": 1782052411.932224,
+    "published_ts": 1782053379.174366,
     "category": "韩剧",
     "source_lang": "en",
     "image_url": "",
@@ -158,7 +156,7 @@
       "TVING平台推出新剧《Villains》"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：TVING推出新剧《Villains》]",
-    "extracted_at": "2026-06-21T22:33:44.122419+08:00"
+    "extracted_at": "2026-06-21T22:49:52.152338+08:00"
   },
   {
     "source_id": "asianwiki",
@@ -168,7 +166,7 @@
     "url": "https://asianwiki.com/Love_Track:_Finding_Us",
     "content": "Love Track: Finding Us (KBS2)",
     "published_at": "0621asianwiki",
-    "published_ts": 1782052411.932217,
+    "published_ts": 1782053379.174361,
     "category": "韩剧",
     "source_lang": "en",
     "image_url": "",
@@ -181,7 +179,7 @@
       "剧名《Love Track: Finding Us》在KBS2播出"
     ],
     "summary_zh": "韩剧《Love Track: Finding Us》在KBS2播出。",
-    "extracted_at": "2026-06-21T22:33:45.612946+08:00"
+    "extracted_at": "2026-06-21T22:49:54.013320+08:00"
   },
   {
     "source_id": "asianwiki",
@@ -191,20 +189,20 @@
     "url": "https://asianwiki.com/Love_Track:_Love_Hotel",
     "content": "Love Track: Love Hotel (KBS2)",
     "published_at": "0621asianwiki",
-    "published_ts": 1782052411.932208,
+    "published_ts": 1782053379.174355,
     "category": "韩剧",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《Love Track: Love Hotel》KBS2播出",
+    "title_zh": "KBS2新剧《Love Track: Love Hotel》",
     "source_type": "韩剧",
     "risk_level": "低",
-    "is_blurred": false,
+    "is_blurred": true,
     "facts_list": [
-      "剧名《Love Track: Love Hotel》在KBS2播出"
+      "KBS2播出剧集《Love Track: Love Hotel》"
     ],
-    "summary_zh": "韩剧《Love Track: Love Hotel》于KBS2播出。",
-    "extracted_at": "2026-06-21T22:33:47.150196+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：KBS2播出剧集《Love Track: Love Hotel》]",
+    "extracted_at": "2026-06-21T22:49:55.933366+08:00"
   },
   {
     "source_id": "asianwiki",
@@ -214,7 +212,7 @@
     "url": "https://asianwiki.com/The_First_Man",
     "content": "The First Man (MBC)",
     "published_at": "0621asianwiki",
-    "published_ts": 1782052411.932202,
+    "published_ts": 1782053379.174349,
     "category": "韩剧",
     "source_lang": "en",
     "image_url": "",
@@ -227,7 +225,7 @@
       "MBC制作新剧《The First Man》"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：MBC制作新剧《The First Man》]",
-    "extracted_at": "2026-06-21T22:33:48.947318+08:00"
+    "extracted_at": "2026-06-21T22:49:57.637161+08:00"
   },
   {
     "source_id": "asianwiki",
@@ -237,7 +235,7 @@
     "url": "https://asianwiki.com/Love_Track:_When_We_Were_Wired",
     "content": "Love Track: When We Were Wired (KBS2)",
     "published_at": "0621asianwiki",
-    "published_ts": 1782052411.932195,
+    "published_ts": 1782053379.174343,
     "category": "韩剧",
     "source_lang": "en",
     "image_url": "",
@@ -250,7 +248,7 @@
       "剧名《Love Track: When We Were Wired》在KBS2播出"
     ],
     "summary_zh": "韩剧《Love Track: When We Were Wired》在KBS2播出。",
-    "extracted_at": "2026-06-21T22:33:50.870094+08:00"
+    "extracted_at": "2026-06-21T22:49:59.587249+08:00"
   },
   {
     "source_id": "asianwiki",
@@ -260,7 +258,7 @@
     "url": "https://asianwiki.com/Love_Track:_Onion_Soup_After_Hours",
     "content": "Love Track: Onion Soup After Hours (KBS2)",
     "published_at": "0621asianwiki",
-    "published_ts": 1782052411.932188,
+    "published_ts": 1782053379.174338,
     "category": "韩剧",
     "source_lang": "en",
     "image_url": "",
@@ -273,7 +271,7 @@
       "剧名《Love Track: Onion Soup After Hours》在KBS2播出"
     ],
     "summary_zh": "韩剧《Love Track: Onion Soup After Hours》（暂译《深夜洋葱汤》）在KBS2播出。",
-    "extracted_at": "2026-06-21T22:33:52.874440+08:00"
+    "extracted_at": "2026-06-21T22:50:01.763687+08:00"
   },
   {
     "source_id": "asianwiki",
@@ -283,7 +281,7 @@
     "url": "https://asianwiki.com/O%27PENing:_Housekeeper",
     "content": "O'PENing: Housekeeper (tvN)",
     "published_at": "0621asianwiki",
-    "published_ts": 1782052411.93218,
+    "published_ts": 1782053379.174332,
     "category": "韩剧",
     "source_lang": "en",
     "image_url": "",
@@ -293,10 +291,10 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "tvN播出剧集《O'PENing：Housekeeper》"
+      "剧名《O'PENing: Housekeeper》在tvN播出"
     ],
-    "summary_zh": "tvN播出剧集《O'PENing：Housekeeper》。",
-    "extracted_at": "2026-06-21T22:33:54.650044+08:00"
+    "summary_zh": "tvN播出剧集《O'PENing: Housekeeper》。",
+    "extracted_at": "2026-06-21T22:50:03.822123+08:00"
   },
   {
     "source_id": "asianwiki",
@@ -306,7 +304,7 @@
     "url": "https://asianwiki.com/O%27PENing:_The_Lake_of_That_Day",
     "content": "O'PENing: The Lake of That Day (tvN)",
     "published_at": "0621asianwiki",
-    "published_ts": 1782052411.932173,
+    "published_ts": 1782053379.174326,
     "category": "韩剧",
     "source_lang": "en",
     "image_url": "",
@@ -316,10 +314,10 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "tvN独幕剧《O'PENing: The Lake of That Day》公开"
+      "tvN播出独幕剧《O'PENing: The Lake of That Day》"
     ],
-    "summary_zh": "tvN独幕剧《O'PENing: The Lake of That Day》（暂译《那天的那片湖》）公开。",
-    "extracted_at": "2026-06-21T22:33:56.556312+08:00"
+    "summary_zh": "tvN播出了独幕剧《O'PENing: The Lake of That Day》（暂译《那天的那片湖》），该剧为O'PENing系列作品之一。",
+    "extracted_at": "2026-06-21T22:50:05.968480+08:00"
   },
   {
     "source_id": "asianwiki",
@@ -329,7 +327,7 @@
     "url": "https://asianwiki.com/Surely_Tomorrow",
     "content": "Surely Tomorrow (JTBC)",
     "published_at": "0621asianwiki",
-    "published_ts": 1782052411.932166,
+    "published_ts": 1782053379.17432,
     "category": "韩剧",
     "source_lang": "en",
     "image_url": "",
@@ -337,13 +335,12 @@
     "title_zh": "JTBC新剧《Surely Tomorrow》确定制作",
     "source_type": "韩剧",
     "risk_level": "低",
-    "is_blurred": false,
+    "is_blurred": true,
     "facts_list": [
-      "JTBC电视台宣布制作新剧《Surely Tomorrow》",
-      "该剧为JTBC原创剧集"
+      "JTBC电视台制作新剧《Surely Tomorrow》"
     ],
-    "summary_zh": "JTBC电视台宣布制作新剧《Surely Tomorrow》，该剧为JTBC原创剧集，具体播出时间及演员阵容尚未公布。",
-    "extracted_at": "2026-06-21T22:33:58.556460+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：JTBC制作新剧《Surely Tomorrow》]",
+    "extracted_at": "2026-06-21T22:50:07.684723+08:00"
   },
   {
     "source_id": "asianwiki",
@@ -353,7 +350,7 @@
     "url": "https://asianwiki.com/Pro_Bono_(Korean_Drama)",
     "content": "Pro Bono (tvN)",
     "published_at": "0621asianwiki",
-    "published_ts": 1782052411.93216,
+    "published_ts": 1782053379.174314,
     "category": "韩剧",
     "source_lang": "en",
     "image_url": "",
@@ -361,12 +358,12 @@
     "title_zh": "tvN新剧《Pro Bono》",
     "source_type": "韩剧",
     "risk_level": "低",
-    "is_blurred": false,
+    "is_blurred": true,
     "facts_list": [
-      "tvN电视台制作新剧《Pro Bono》"
+      "tvN计划制作新剧《Pro Bono》"
     ],
-    "summary_zh": "tvN电视台正在制作一部名为《Pro Bono》的新剧。",
-    "extracted_at": "2026-06-21T22:34:00.343504+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：tvN计划制作新剧《Pro Bono》]",
+    "extracted_at": "2026-06-21T22:50:09.335696+08:00"
   },
   {
     "source_id": "asianwiki",
@@ -376,7 +373,7 @@
     "url": "https://asianwiki.com/The_Price_of_Confession",
     "content": "The Price of Confession (Netflix)",
     "published_at": "0621asianwiki",
-    "published_ts": 1782052411.932153,
+    "published_ts": 1782053379.174308,
     "category": "韩剧",
     "source_lang": "en",
     "image_url": "",
@@ -386,10 +383,10 @@
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文未提及具体行为，仅称：Netflix剧集《告白的价格》"
+      "原文仅提及剧名《The Price of Confession》及平台Netflix，无其他具体信息"
     ],
-    "summary_zh": "原文未提及具体行为，仅称：Netflix剧集《告白的价格》",
-    "extracted_at": "2026-06-21T22:34:01.909677+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：Netflix剧集《告白的价格》]",
+    "extracted_at": "2026-06-21T22:50:11.530711+08:00"
   },
   {
     "source_id": "asianwiki",
@@ -399,7 +396,7 @@
     "url": "https://asianwiki.com/Shadow_Work",
     "content": "Shadow Work (WOWOW)",
     "published_at": "0621asianwiki",
-    "published_ts": 1782052411.932146,
+    "published_ts": 1782053379.174303,
     "category": "韩剧",
     "source_lang": "en",
     "image_url": "",
@@ -412,7 +409,7 @@
       "日剧《Shadow Work》在WOWOW播出"
     ],
     "summary_zh": "日剧《Shadow Work》在WOWOW平台播出。",
-    "extracted_at": "2026-06-21T22:34:03.375243+08:00"
+    "extracted_at": "2026-06-21T22:50:13.377312+08:00"
   },
   {
     "source_id": "asianwiki",
@@ -422,7 +419,7 @@
     "url": "https://asianwiki.com/Taxi_Driver_3",
     "content": "Taxi Driver 3 (SBS)",
     "published_at": "0621asianwiki",
-    "published_ts": 1782052411.932139,
+    "published_ts": 1782053379.174297,
     "category": "韩剧",
     "source_lang": "en",
     "image_url": "",
@@ -432,10 +429,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "SBS宣布制作《模范出租车》第三季"
+      "SBS确认制作《模范出租车》第三季",
+      "剧名暂定为《Taxi Driver 3》"
     ],
-    "summary_zh": "SBS确认制作热门韩剧《模范出租车》第三季，具体播出时间及演员阵容尚未公布。",
-    "extracted_at": "2026-06-21T22:34:05.261849+08:00"
+    "summary_zh": "SBS电视台宣布将制作热门韩剧《模范出租车》的第三季，目前剧名暂定为《Taxi Driver 3》。具体播出时间及演员阵容尚未公布。",
+    "extracted_at": "2026-06-21T22:50:15.890555+08:00"
   },
   {
     "source_id": "asianwiki",
@@ -445,7 +443,7 @@
     "url": "https://asianwiki.com/Heroes_Next_Door",
     "content": "Heroes Next Door (Coupang Play)",
     "published_at": "0621asianwiki",
-    "published_ts": 1782052411.932132,
+    "published_ts": 1782053379.174291,
     "category": "韩剧",
     "source_lang": "en",
     "image_url": "",
@@ -455,11 +453,11 @@
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "剧名《Heroes Next Door》",
+      "剧名：Heroes Next Door",
       "播出平台：Coupang Play"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：剧名《Heroes Next Door》，在Coupang Play播出。]",
-    "extracted_at": "2026-06-21T22:34:06.825831+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：Coupang Play新剧《Heroes Next Door》]",
+    "extracted_at": "2026-06-21T22:50:17.867946+08:00"
   },
   {
     "source_id": "asianwiki",
@@ -469,7 +467,7 @@
     "url": "https://asianwiki.com/LOVE.exe",
     "content": "LOVE.exe (Wavve)",
     "published_at": "0621asianwiki",
-    "published_ts": 1782052411.932125,
+    "published_ts": 1782053379.174282,
     "category": "韩剧",
     "source_lang": "en",
     "image_url": "",
@@ -477,12 +475,12 @@
     "title_zh": "Wavve新剧《LOVE.exe》预告发布",
     "source_type": "韩剧",
     "risk_level": "低",
-    "is_blurred": false,
+    "is_blurred": true,
     "facts_list": [
       "Wavve平台发布新剧《LOVE.exe》预告"
     ],
-    "summary_zh": "Wavve平台发布了新剧《LOVE.exe》的预告，具体播出时间及剧情细节尚未公布。",
-    "extracted_at": "2026-06-21T22:34:08.820718+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：Wavve平台发布新剧《LOVE.exe》预告]",
+    "extracted_at": "2026-06-21T22:50:19.839056+08:00"
   },
   {
     "source_id": "asianwiki",
@@ -492,20 +490,20 @@
     "url": "https://asianwiki.com/Last_Samurai_Standing",
     "content": "Last Samurai Standing (Netflix)",
     "published_at": "0621asianwiki",
-    "published_ts": 1782052411.932117,
+    "published_ts": 1782053379.174274,
     "category": "韩剧",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Netflix日剧《最后的武士》发布",
+    "title_zh": "Netflix日剧《最后的武士》",
     "source_type": "日剧",
     "risk_level": "低",
-    "is_blurred": false,
+    "is_blurred": true,
     "facts_list": [
-      "Netflix发布日剧《Last Samurai Standing》"
+      "Netflix日剧《Last Samurai Standing》"
     ],
-    "summary_zh": "Netflix发布了日剧《Last Samurai Standing》（暂译《最后的武士》）。",
-    "extracted_at": "2026-06-21T22:34:10.726970+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：Netflix日剧《Last Samurai Standing》]",
+    "extracted_at": "2026-06-21T22:50:21.450332+08:00"
   },
   {
     "source_id": "asianwiki",
@@ -515,7 +513,7 @@
     "url": "https://asianwiki.com/Dynamite_Kiss",
     "content": "Dynamite Kiss (SBS)",
     "published_at": "0621asianwiki",
-    "published_ts": 1782052411.932108,
+    "published_ts": 1782053379.174267,
     "category": "韩剧",
     "source_lang": "en",
     "image_url": "",
@@ -528,7 +526,7 @@
       "SBS制作新剧《Dynamite Kiss》"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：SBS制作新剧《Dynamite Kiss》]",
-    "extracted_at": "2026-06-21T22:34:12.432436+08:00"
+    "extracted_at": "2026-06-21T22:50:23.147229+08:00"
   },
   {
     "source_id": "asianwiki",
@@ -538,7 +536,7 @@
     "url": "https://asianwiki.com/Don%27t_Call_Me_Ma%27am",
     "content": "Don't Call Me Ma'am (TV Chosun)",
     "published_at": "0621asianwiki",
-    "published_ts": 1782052411.932097,
+    "published_ts": 1782053379.174257,
     "category": "韩剧",
     "source_lang": "en",
     "image_url": "",
@@ -550,8 +548,8 @@
     "facts_list": [
       "TV朝鲜制作新剧《Don't Call Me Ma'am》"
     ],
-    "summary_zh": "TV朝鲜推出新剧《Don't Call Me Ma'am》，目前尚未公布具体播出时间及演员阵容。",
-    "extracted_at": "2026-06-21T22:34:14.103312+08:00"
+    "summary_zh": "TV朝鲜推出新剧《Don't Call Me Ma'am》，目前仅公开剧名，具体演员、播出时间等细节尚未披露。",
+    "extracted_at": "2026-06-21T22:50:25.008540+08:00"
   },
   {
     "source_id": "asianwiki",
@@ -561,7 +559,7 @@
     "url": "https://asianwiki.com/Moon_River_(Korean_Drama)",
     "content": "Moon River (MBC)",
     "published_at": "0621asianwiki",
-    "published_ts": 1782052411.932087,
+    "published_ts": 1782053379.174251,
     "category": "韩剧",
     "source_lang": "en",
     "image_url": "",
@@ -574,7 +572,7 @@
       "MBC推出新剧《Moon River》"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：MBC推出新剧《Moon River》]",
-    "extracted_at": "2026-06-21T22:34:15.787110+08:00"
+    "extracted_at": "2026-06-21T22:50:26.651003+08:00"
   },
   {
     "source_id": "asianwiki",
@@ -584,7 +582,7 @@
     "url": "https://asianwiki.com/As_You_Stood_By",
     "content": "As You Stood By (Netflix)",
     "published_at": "0621asianwiki",
-    "published_ts": 1782052411.93208,
+    "published_ts": 1782053379.174244,
     "category": "韩剧",
     "source_lang": "en",
     "image_url": "",
@@ -594,10 +592,10 @@
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅提及剧名《As You Stood By》及平台Netflix，无其他具体信息"
+      "Netflix剧集《As You Stood By》存在"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：Netflix剧集《As You Stood By》]",
-    "extracted_at": "2026-06-21T22:34:17.382667+08:00"
+    "extracted_at": "2026-06-21T22:50:28.509830+08:00"
   },
   {
     "source_id": "asianwiki",
@@ -607,7 +605,7 @@
     "url": "https://asianwiki.com/Dear_X",
     "content": "Dear X (TVING)",
     "published_at": "0621asianwiki",
-    "published_ts": 1782052411.932072,
+    "published_ts": 1782053379.174237,
     "category": "韩剧",
     "source_lang": "en",
     "image_url": "",
@@ -620,7 +618,7 @@
       "TVING公开新剧《Dear X》预告"
     ],
     "summary_zh": "TVING公开了新剧《Dear X》的预告信息。",
-    "extracted_at": "2026-06-21T22:34:19.055965+08:00"
+    "extracted_at": "2026-06-21T22:50:30.505883+08:00"
   },
   {
     "source_id": "asianwiki",
@@ -630,7 +628,7 @@
     "url": "https://asianwiki.com/The_Manipulated",
     "content": "The Manipulated (Disney+)",
     "published_at": "0621asianwiki",
-    "published_ts": 1782052411.932063,
+    "published_ts": 1782053379.174229,
     "category": "韩剧",
     "source_lang": "en",
     "image_url": "",
@@ -638,12 +636,12 @@
     "title_zh": "Disney+原创剧《The Manipulated》上线",
     "source_type": "韩剧",
     "risk_level": "低",
-    "is_blurred": false,
+    "is_blurred": true,
     "facts_list": [
-      "Disney+原创剧《The Manipulated》已上线"
+      "Disney+上线原创剧《The Manipulated》"
     ],
-    "summary_zh": "Disney+原创剧《The Manipulated》已上线。",
-    "extracted_at": "2026-06-21T22:34:20.551377+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：Disney+上线原创剧《The Manipulated》]",
+    "extracted_at": "2026-06-21T22:50:32.523270+08:00"
   },
   {
     "source_id": "asianwiki",
@@ -653,7 +651,7 @@
     "url": "https://asianwiki.com/Nice_to_Not_Meet_You",
     "content": "Nice to Not Meet You (tvN)",
     "published_at": "0621asianwiki",
-    "published_ts": 1782052411.932053,
+    "published_ts": 1782053379.174219,
     "category": "韩剧",
     "source_lang": "en",
     "image_url": "",
@@ -663,10 +661,10 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "tvN播出剧集《Nice to Not Meet You》"
+      "tvN播出新剧《Nice to Not Meet You》"
     ],
-    "summary_zh": "tvN播出剧集《Nice to Not Meet You》。",
-    "extracted_at": "2026-06-21T22:34:22.062383+08:00"
+    "summary_zh": "tvN播出新剧《Nice to Not Meet You》。",
+    "extracted_at": "2026-06-21T22:50:34.061274+08:00"
   },
   {
     "source_id": "asianwiki",
@@ -676,7 +674,7 @@
     "url": "https://asianwiki.com/Last_Summer",
     "content": "Last Summer (KBS2)",
     "published_at": "0621asianwiki",
-    "published_ts": 1782052411.932018,
+    "published_ts": 1782053379.174183,
     "category": "韩剧",
     "source_lang": "en",
     "image_url": "",
@@ -689,7 +687,7 @@
       "剧名《Last Summer》在KBS2播出"
     ],
     "summary_zh": "韩剧《Last Summer》在KBS2播出。",
-    "extracted_at": "2026-06-21T22:34:23.670261+08:00"
+    "extracted_at": "2026-06-21T22:50:35.837856+08:00"
   },
   {
     "source_id": "soompi",
@@ -704,16 +702,553 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "aespa《Drama》MV观看量突破3亿，创自身最快纪录",
+    "title_zh": "aespa《Drama》MV突破3亿次观看，创自身最快纪录",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "2024年6月21日韩国时间晚11点20分后，aespa歌曲《Drama》MV在YouTube观看量突破3亿次",
-      "该MV于2023年11月10日发布，是aespa继《Next Level》后第二支达成3亿观看的MV",
-      "《Drama》成为aespa最快达到3亿观看量的MV"
+      "2024年6月21日晚11点20分（KST），aespa歌曲《Drama》MV在YouTube上突破3亿次观看",
+      "该MV于2023年11月10日发布，是aespa继《Next Level》后第二支达到3亿次观看的MV",
+      "《Drama》成为aespa最快达到3亿次观看的MV"
     ],
-    "summary_zh": "aespa的《Drama》MV于2024年6月21日韩国时间晚11点20分后突破3亿观看量，成为她们继《Next Level》后第二支达成此成绩的MV，同时也是她们最快达到3亿观看的MV。该MV于2023年11月10日发布。",
-    "extracted_at": "2026-06-21T22:34:26.253233+08:00"
+    "summary_zh": "aespa的《Drama》MV于6月21日晚11点20分（KST）在YouTube上突破3亿次观看，成为她们继《Next Level》后第二支达到此里程碑的MV，同时也是她们最快达到3亿次观看的MV。该MV于2023年11月10日发布。",
+    "extracted_at": "2026-06-21T22:50:38.787953+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "THIS WEEK IN K-POP: Ranking the New Releases from June 14 – 20 - thebiaslist.com",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObkxzNVpfUFJDUjNaUVdUb3pJVWxCdXJCUEFFVy1iMWFabGVSaFZ1dWtrNFlJTWJnNkpYNF9XQ2tWZ1Y4MmtURW9wMVI4NVpscnBabDY5Qm9GUHFMbFlKZm40d1lfSTJ5bTJ1X3REWWZ4MHlfMG1zZkduZS1mWVVTaFRnVXp4dkZMS3BuRkpEcFg4QV9zLU1OMUp4bw?oc=5",
+    "content": "THIS WEEK IN K-POP: Ranking the New Releases from June 14 – 20 thebiaslist.com",
+    "published_at": "0621google-kpop",
+    "published_ts": 1782048723.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "本周K-POP新曲排行：6月14日至20日回归盘点",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "时间：6月14日至20日",
+      "来源：thebiaslist.com",
+      "内容：对本周K-POP新发行歌曲进行排名"
+    ],
+    "summary_zh": "thebiaslist.com发布了6月14日至20日期间的K-POP新曲排行榜，对本周回归的歌曲进行了排名。",
+    "extracted_at": "2026-06-21T22:50:41.266663+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Choi Min Sik Makes Choi Hyun Wook A Tempting Offer In “Notes From The Last Row” Teaser",
+    "url": "https://www.soompi.com/article/1849280wpp/watch-choi-min-sik-makes-choi-hyun-wook-a-tempting-offer-in-notes-from-the-last-row-teaser",
+    "content": "Netflix&#8217;s &#8220;Notes from the Last Row&#8221; has shared a new preview video ahead of its premiere! Based on the Spanish play of the same name, “Notes from the Last Row” is a psychological thriller that follows Heo Mun Oh (Choi Min Sik), a failed writer-turned-Korean literature professor who hasn’t published a new work in 20&#8230; Continue reading Watch: Choi Min Sik Makes Choi Hyun Wook A Tempting Offer In &#8220;Notes From The Last Row&#8221; Teaser\nThe post Watch: Choi Min Sik Makes Choi Hyun Wook A Tempting Offer In &#8220;Notes From The Last Row&#8221; Teaser appeared first on Soompi.",
+    "published_at": "0621soompi",
+    "published_ts": 1782040704.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "崔岷植向崔显旭提出诱人提议，《最后一排笔记》预告公开",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Netflix剧集《最后一排笔记》发布新预告视频",
+      "该剧改编自同名西班牙话剧，是一部心理惊悚片",
+      "崔岷植饰演许文吴，一位20年未出版新作的失败作家兼韩国文学教授",
+      "崔显旭在预告中收到崔岷植的诱人提议"
+    ],
+    "summary_zh": "Netflix心理惊悚剧《最后一排笔记》发布新预告，崔岷植饰演的失败作家兼教授许文吴向崔显旭饰演的角色提出诱人提议。该剧改编自西班牙话剧，讲述一位20年未出版新作的韩国文学教授的故事。",
+    "extracted_at": "2026-06-21T22:50:44.589347+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Ko Kyu Phil And Amin Expecting Their First Child",
+    "url": "https://www.soompi.com/article/1849284wpp/ko-kyu-phil-and-amin-expecting-their-first-child",
+    "content": "Ko Kyu Phil and Amin are going to be parents! Earlier on June 18, Amin took to Instagram to share her growing baby bump along with a photo caption revealing that she is 15 weeks pregnant. She also shared a photo posing in front of the &#8220;MOM &#38; BABY EXPO.&#8221; The following day on June&#8230; Continue reading Ko Kyu Phil And Amin Expecting Their First Child\nThe post Ko Kyu Phil And Amin Expecting Their First Child appeared first on Soompi.",
+    "published_at": "0621soompi",
+    "published_ts": 1782040300.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "高圭弼与Amin宣布怀孕15周，迎来第一个孩子",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "6月18日，Amin在Instagram上晒出孕肚照，宣布怀孕15周",
+      "Amin在照片中站在“MOM & BABY EXPO”展板前"
+    ],
+    "summary_zh": "高圭弼与Amin即将迎来他们的第一个孩子。6月18日，Amin在Instagram上分享了她日益隆起的孕肚照片，并配文透露自己已怀孕15周。她还分享了一张在“MOM & BABY EXPO”展板前拍摄的照片。",
+    "extracted_at": "2026-06-21T22:50:47.296621+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "1 Year Later, ‘KPop Demon Hunters’ Is Still Making Netflix History - IMDb",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VZkhIYWpBZXZLUlQzNEZvTmFmSGRodldIWTBfQkl0c3RxZ3JEd2pvQnpydzRTZXA5bUFEQlpxTG1UbDNzOTFUeTdWeVczWEJTR1haYlM1Vm1xUHlnNHBxbUlCNUZkdFk?oc=5",
+    "content": "1 Year Later, ‘KPop Demon Hunters’ Is Still Making Netflix History IMDb",
+    "published_at": "0621google-kpop",
+    "published_ts": 1782040109.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《KPop恶魔猎人》上线一年仍创Netflix历史纪录",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "《KPop恶魔猎人》在Netflix上线一年后，仍保持平台历史纪录",
+      "该剧由IMDb报道，具体纪录内容未在原文中详述"
+    ],
+    "summary_zh": "据IMDb报道，Netflix剧集《KPop恶魔猎人》在播出一年后，仍然保持着平台的历史纪录。该剧的具体纪录内容未在原文中详细说明。",
+    "extracted_at": "2026-06-21T22:50:49.868382+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "The KPop Demon Hunters video game you deserve is finally gearing up for release - Polygon.com",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56cTBNQU1uS0dTbWk1amZCSmkxVV9DaUFiNmoyZkR4N1BDd1kxNDZYRlk3SzVPSXJLRUtxWG9CWGZoVjBFYlZJQU5LWjZ5YjU2YXBNcTIzeGg0R2RvRmN2NzV6X2VQZFoxNUE3SGFn?oc=5",
+    "content": "The KPop Demon Hunters video game you deserve is finally gearing up for release Polygon.com",
+    "published_at": "0621google-kpop",
+    "published_ts": 1782039619.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "K-pop恶魔猎人游戏即将发售",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "一款名为《KPop Demon Hunters》的视频游戏即将发售",
+      "该游戏由Polygon.com报道"
+    ],
+    "summary_zh": "据Polygon.com报道，一款名为《KPop Demon Hunters》的视频游戏即将发售。该游戏结合了K-pop和恶魔猎人元素，具体发售日期和平台尚未公布。",
+    "extracted_at": "2026-06-21T22:50:52.196707+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Former gugudan Member Jang So Jin (Soyee) Announces Marriage",
+    "url": "https://www.soompi.com/article/1849247wpp/former-gugudan-member-jang-so-jin-soyee-announces-marriage",
+    "content": "Former gugudan member Jang So Jin (Soyee) will be tying the knot! On June 20, Jang So Jin took to her Instagram to share the happy news of her upcoming marriage along with her stunning wedding pictorial with her lawyer fiancé. She wrote the following message: As summer draws near, I wanted to share some&#8230; Continue reading Former gugudan Member Jang So Jin (Soyee) Announces Marriage\nThe post Former gugudan Member Jang So Jin (Soyee) Announces Marriage appeared first on Soompi.",
+    "published_at": "0621soompi",
+    "published_ts": 1782032386.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "前gugudan成员张素珍（Soyee）宣布与律师未婚夫结婚",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "时间：6月20日",
+      "主体：前gugudan成员张素珍（Soyee）",
+      "动作：通过Instagram宣布结婚消息，并公开与律师未婚夫的婚纱画报"
+    ],
+    "summary_zh": "前gugudan成员张素珍（Soyee）于6月20日在Instagram上宣布结婚，并公开了与律师未婚夫的婚纱画报。她在文中表示随着夏天临近，想分享一些消息。",
+    "extracted_at": "2026-06-21T22:50:54.678216+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "50+ Korean Reality Dating Shows (Variety Show Masterlist)",
+    "url": "https://www.soompi.com/article/1833231wpp/50-korean-reality-dating-shows-variety-show-masterlist",
+    "content": "With diverse backgrounds, cast members, missions, and stories, all kinds of Korean dating shows are being introduced year after year. For fans who immerse themselves in heart-fluttering—or sometimes heart-wrenching—situations and want to experience romance vicariously, here is the ultimate master list of Korean dating reality shows to binge-watch! Updated June 2026 &#8220;Alumni Lovers&#8221; Korean Title:&#160;“솔로동창회&#8230; Continue reading 50+ Korean Reality Dating Shows (Variety Show Masterlist)\nThe post 50+ Korean Reality Dating Shows (Variety Show Masterlist) appeared first on Soompi.",
+    "published_at": "0621soompi",
+    "published_ts": 1782031047.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "50+部韩国恋爱真人秀节目汇总（综艺节目清单）",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Soompi于2026年6月更新了韩国恋爱真人秀节目汇总清单",
+      "清单包含50多部节目，如《校友恋人》（솔로동창회）等",
+      "节目涵盖多样背景、成员、任务和故事"
+    ],
+    "summary_zh": "Soompi于2026年6月更新了韩国恋爱真人秀节目汇总清单，包含50多部节目，如《校友恋人》（솔로동창회）等，涵盖多样背景、成员、任务和故事，供观众沉浸式体验浪漫。",
+    "extracted_at": "2026-06-21T22:50:57.506138+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "“My Royal Nemesis” Stars Say Goodbye And Thank Viewers As Drama Ends",
+    "url": "https://www.soompi.com/article/1849217wpp/my-royal-nemesis-stars-thank-viewers-and-say-goodbye-as-drama-ends",
+    "content": "With SBS’s My Royal Nemesis” winding to a close, the stars of the drama have shared their final thoughts! On June 20, the hit drama ended on the highest viewership ratings of its entire run, with its series finale continuing its streak as the most-watched miniseries of the week. Reflecting on her experience filming “My&#8230; Continue reading &#8220;My Royal Nemesis&#8221; Stars Say Goodbye And Thank Viewers As Drama Ends\nThe post &#8220;My Royal Nemesis&#8221; Stars Say Goodbye And Thank Viewers As Drama Ends appeared first on Soompi.",
+    "published_at": "0621soompi",
+    "published_ts": 1782028585.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《我的宿敌》终映，主演告别致谢观众",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "SBS电视剧《我的宿敌》于6月20日播出大结局",
+      "大结局收视率为该剧播出期间最高",
+      "该剧在播出期间保持为当周收视率最高的迷你剧",
+      "主演们分享了终映感想并感谢观众"
+    ],
+    "summary_zh": "SBS电视剧《我的宿敌》于6月20日播出大结局，收视率达到全剧最高，并保持当周迷你剧收视冠军。主演们发表终映感言，向观众表达感谢。",
+    "extracted_at": "2026-06-21T22:51:00.600650+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Lee Ju Myoung Secretly Visits Jin Goo In Jail To Make An Unexpected Proposal On “Reborn Rookie”",
+    "url": "https://www.soompi.com/article/1849207wpp/lee-ju-myoung-secretly-visits-jin-goo-in-jail-to-make-an-unexpected-proposal-on-reborn-rookie",
+    "content": "JTBC’s “Reborn Rookie” has shared a glimpse of a secret meeting between Lee Ju Myoung and Jin Goo! “Reborn Rookie” is a drama that tells the story of Kang Yong Ho (Son Hyun Joo), the powerful chairman of leading conglomerate Choiseong Group. After an accident, he unexpectedly finds himself living an unwanted second life when&#8230; Continue reading Lee Ju Myoung Secretly Visits Jin Goo In Jail To Make An Unexpected Proposal On &#8220;Reborn Rookie&#8221;\nThe post Lee Ju Myoung Secretly Visits Jin Goo In Jail To Make An Unexpected Proposal On &#8220;Reborn Rookie&#8221; appeared first on Soompi.",
+    "published_at": "0621soompi",
+    "published_ts": 1782026159.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "李周明秘密探监晋久，在《重生菜鸟》中提出意外提议",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "JTBC《重生菜鸟》公开李周明与晋久秘密会面的剧照",
+      "李周明前往监狱探视晋久，并做出意外提议"
+    ],
+    "summary_zh": "JTBC电视剧《重生菜鸟》公开了李周明与晋久在监狱秘密会面的剧照。剧中，李周明饰演的角色前往监狱探视晋久饰演的角色，并提出了一个意想不到的提议。该剧讲述孙贤周饰演的财阀会长姜勇浩在意外后经历第二次人生的故事。",
+    "extracted_at": "2026-06-21T22:51:03.839020+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "‘KPop Demon Hunters’ was a ‘bright spot’ in a year of declining diversity among streaming films, study finds - The Spokesman-Review",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbEdhTlp4R2JZRGlsMWxwMVdhb241Z1pZeVVQak9pbTRJS0ttNkhfcnlLUmY2bzJ0T0prSkM3WS1KR194c1RwcjB1SVNSaTRLNFNwM2dMaExyTGZ3cHh5T0U4Ui1pbTlUNWt4Z3pZNHZ6YU5WYjdnR1NRbzJDLWZOckpVOWdmVUhyd18zWjdLNXJWS2NQc2ZXVWR6NXZFdw?oc=5",
+    "content": "‘KPop Demon Hunters’ was a ‘bright spot’ in a year of declining diversity among streaming films, study finds The Spokesman-Review",
+    "published_at": "0621google-kpop",
+    "published_ts": 1782025200.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "研究：流媒体电影多样性下降，《KPop Demon Hunters》成亮点",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "一项研究发现，2023年流媒体电影多样性整体下降",
+      "《KPop Demon Hunters》被该研究称为‘bright spot’（亮点）"
+    ],
+    "summary_zh": "一项研究发现，在流媒体电影多样性整体下降的年份中，《KPop Demon Hunters》被视为一个亮点。该研究未提供具体数据，仅指出该片在多样性方面表现突出。",
+    "extracted_at": "2026-06-21T22:51:06.308133+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Parc Jae Jung To Change Fan Club Name Due To Overlap With Different Artist",
+    "url": "https://www.soompi.com/article/1849188wpp/parc-jae-jung-to-change-fan-club-name-due-to-overlap-with-different-artist",
+    "content": "Parc Jae Jung will be changing his recently announced fandom name. Earlier this week, Parc Jae Jung’s agency Romantic Factory announced that the singer’s official fan club name would be “Namu” (the Korean word for “tree”). However, some fans of veteran singer Park Hyo Shin objected to the name, pointing out that “Namu” was a&#8230; Continue reading Parc Jae Jung To Change Fan Club Name Due To Overlap With Different Artist\nThe post Parc Jae Jung To Change Fan Club Name Due To Overlap With Different Artist appeared first on Soompi.",
+    "published_at": "0621soompi",
+    "published_ts": 1782022274.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Parc Jae Jung因与前辈歌手朴孝信粉丝名重叠，将更改新公布的粉丝名",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "本周早些时候，Parc Jae Jung的所属社Romantic Factory宣布其官方粉丝名为“Namu”（韩语意为“树”）",
+      "资深歌手朴孝信的粉丝指出“Namu”与朴孝信的粉丝名重叠，提出异议",
+      "Parc Jae Jung决定更改粉丝名"
+    ],
+    "summary_zh": "Parc Jae Jung的所属社Romantic Factory本周早些时候宣布其官方粉丝名为“Namu”（韩语“树”），但遭到前辈歌手朴孝信粉丝的反对，认为该名称与朴孝信的粉丝名重叠。因此，Parc Jae Jung决定更改粉丝名。",
+    "extracted_at": "2026-06-21T22:51:09.665342+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "From K-pop to community: How Korean culture is bringing Belfast together - BBC",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9heF8tUGszQVBtdzYyUFJIa1cxalh0UVFMYnlqd09QRU0wTHAzeFdaYzJIR0FHcGpKaHpiOXJESDIwc3hUNDZkRUpKOUlWNlJKbU9BUkpvOVJldw?oc=5",
+    "content": "From K-pop to community: How Korean culture is bringing Belfast together BBC",
+    "published_at": "0621google-kpop",
+    "published_ts": 1782020628.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "从K-pop到社区：韩国文化如何凝聚贝尔法斯特",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文未提及具体行为，仅称：韩国文化在贝尔法斯特促进社区凝聚"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：韩国文化在贝尔法斯特促进社区凝聚]",
+    "extracted_at": "2026-06-21T22:51:11.475768+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Every Record Broken By ‘KPop Demon Hunters’ - Forbes",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVnRwM1FoVHJJVk5DdWh2S09lMkFCV0VGWFJNUjNBdUg5ZkF5T2FCVThTNWlfb1BMaVVvNjNCek05ZlpXUUktcFdXTTRpc3p0Y2p2eFpvdEt1SkJCcURIRWNNNjdNUDBqb2Rvb1JFTFl2RGRFTHVRZW8ybTRRM2FmT05NVFo5d3BEUFFZbFg1RUVFcWZwYTNJM0R1d3Y?oc=5",
+    "content": "Every Record Broken By ‘KPop Demon Hunters’ Forbes",
+    "published_at": "0621google-kpop",
+    "published_ts": 1782020172.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《KPop恶魔猎人》打破的每一项纪录",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "福布斯报道《KPop恶魔猎人》打破多项纪录",
+      "具体纪录包括：首周销量最高、最快达到1亿流媒体等（原文未列出具体数字和名称）"
+    ],
+    "summary_zh": "福布斯报道称，《KPop恶魔猎人》打破了多项纪录，包括首周销量最高、最快达到1亿流媒体等，但未提供具体数字或纪录名称。",
+    "extracted_at": "2026-06-21T22:51:14.141915+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "LE SSERAFIM And ILLIT Enter Top 25 Of UK’s Official Singles Chart For 1st Time With KATSEYE Collab “ICONIC BY MISTAKE”",
+    "url": "https://www.soompi.com/article/1849175wpp/le-sserafim-and-illit-enter-top-25-of-uks-official-singles-chart-for-1st-time-with-katseye-collab-iconic-by-mistake",
+    "content": "LE SSERAFIM, ILLIT, and KATSEYE’s collab single “ICONIC BY MISTAKE” is off to a strong start in the United Kingdom! For the week of June 18 to 24, “ICONIC BY MISTAKE” debuted at No. 22 on the Official Singles Chart (widely regarded as the U.K. equivalent to Billboard’s Hot 100 in the United States). Notably,&#8230; Continue reading LE SSERAFIM And ILLIT Enter Top 25 Of UK&#8217;s Official Singles Chart For 1st Time With KATSEYE Collab &#8220;ICONIC BY MISTAKE&#8221;\nThe post LE SSERAFIM And ILLIT Enter Top 25 Of UK&#8217;s Official Singles Chart For 1st Time With KATSEYE Collab &#8220;ICONIC BY MISTAKE&#8221; appeared first on Soompi.",
+    "published_at": "0621soompi",
+    "published_ts": 1782018970.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "LE SSERAFIM与ILLIT合作曲《ICONIC BY MISTAKE》首次进入英国官方单曲榜前25",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "合作曲《ICONIC BY MISTAKE》由LE SSERAFIM、ILLIT与KATSEYE共同演唱",
+      "在6月18日至24日这一周，该曲在英国官方单曲榜（UK Official Singles Chart）空降第22位",
+      "这是LE SSERAFIM和ILLIT首次进入该榜单前25名"
+    ],
+    "summary_zh": "LE SSERAFIM、ILLIT与KATSEYE的合作单曲《ICONIC BY MISTAKE》在英国官方单曲榜（6月18日至24日）空降第22位，这是LE SSERAFIM和ILLIT首次进入该榜单前25名。",
+    "extracted_at": "2026-06-21T22:51:16.870548+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Performances From “Music Core” 2026 Ulsan Music Festival",
+    "url": "https://www.soompi.com/article/1849172wpp/watch-performances-from-music-core-2026-ulsan-music-festival",
+    "content": "The June 20 episode of MBC’s “Music Core” was a special summer festival in Ulsan! The artists who performed at this year’s Ulsan Music Festival included BOYNEXTDOOR, RIIZE, MEOVV, KiiiKiii, STAYC, fromis_9, ALPHA DRIVE ONE, AND2BLE, KickFlip, izna, Billlie, tripleS, N.Flying, xikers, CLOSE YOUR EYES, Baby DONT Cry, EPEX, IDID, LUCY, Park Ji Hyeon, dodree,&#8230; Continue reading Watch: Performances From &#8220;Music Core&#8221; 2026 Ulsan Music Festival\nThe post Watch: Performances From &#8220;Music Core&#8221; 2026 Ulsan Music Festival appeared first on Soompi.",
+    "published_at": "0621soompi",
+    "published_ts": 1782015689.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《音乐中心》2026年蔚山音乐节舞台公开",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "6月20日MBC《音乐中心》播出2026年蔚山音乐节特辑",
+      "出演艺人包括BOYNEXTDOOR、RIIZE、MEOVV、KiiiKiii、STAYC、fromis_9、ALPHA DRIVE ONE、AND2BLE、KickFlip、izna、Billlie、tripleS、N.Flying、xikers、CLOSE YOUR EYES、Baby DONT Cry、EPEX、IDID、LUCY、朴智贤、dodree等"
+    ],
+    "summary_zh": "6月20日MBC《音乐中心》播出2026年蔚山音乐节特辑，众多K-pop艺人带来精彩舞台，包括BOYNEXTDOOR、RIIZE、MEOVV、KiiiKiii、STAYC、fromis_9等组合及歌手。",
+    "extracted_at": "2026-06-21T22:51:20.408369+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "“My Royal Nemesis” Ends On Highest Ratings Of Its Entire Run",
+    "url": "https://www.soompi.com/article/1849169wpp/my-royal-nemesis-ends-on-highest-ratings-of-its-entire-run",
+    "content": "SBS’s “My Royal Nemesis” went out on an all-time high! On June 20, the popular romance drama achieved the highest viewership ratings of its entire run with its series finale. According to Nielsen Korea, the final episode of “My Royal Nemesis” soared to an average nationwide rating of 11.8 percent, marking a new personal record&#8230; Continue reading &#8220;My Royal Nemesis&#8221; Ends On Highest Ratings Of Its Entire Run\nThe post &#8220;My Royal Nemesis&#8221; Ends On Highest Ratings Of Its Entire Run appeared first on Soompi.",
+    "published_at": "0621soompi",
+    "published_ts": 1782012799.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《我的宿敌》大结局创自身最高收视率11.8%",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "SBS电视剧《我的宿敌》于6月20日播出大结局",
+      "根据尼尔森韩国数据，大结局全国平均收视率为11.8%，创下该剧自身最高纪录"
+    ],
+    "summary_zh": "SBS电视剧《我的宿敌》在6月20日播出大结局，以全国平均收视率11.8%的成绩创下该剧自身最高收视纪录，完美收官。",
+    "extracted_at": "2026-06-21T22:51:23.326891+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: TWICE Members Sing “TAKEDOWN” Live In Official “KPop Demon Hunters” MV",
+    "url": "https://www.soompi.com/article/1849163wpp/watch-twice-members-sing-takedown-live-in-official-kpop-demon-hunters-mv",
+    "content": "Netflix’s “KPop Demon Hunters” has released a music video for TWICE’s version of “TAKEDOWN”! On June 20 local time, Netflix unveiled an official live music video for TWICE’s Jeongyeon, Jihyo, and Chaeyoung’s version of “TAKEDOWN,” which is sung by the fictional girl group HUNTR/X in the animated film “KPop Demon Hunters.” The new music video&#8230; Continue reading Watch: TWICE Members Sing &#8220;TAKEDOWN&#8221; Live In Official &#8220;KPop Demon Hunters&#8221; MV\nThe post Watch: TWICE Members Sing &#8220;TAKEDOWN&#8221; Live In Official &#8220;KPop Demon Hunters&#8221; MV appeared first on Soompi.",
+    "published_at": "0621soompi",
+    "published_ts": 1782007052.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "TWICE定延、志效、彩瑛献唱《KPop Demon Hunters》OST《TAKEDOWN》Live MV公开",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "6月20日，Netflix公开了动画电影《KPop Demon Hunters》中虚构女团HUNTR/X演唱的歌曲《TAKEDOWN》的官方Live MV，由TWICE成员定延、志效、彩瑛演唱。"
+    ],
+    "summary_zh": "Netflix于6月20日发布了动画电影《KPop Demon Hunters》中歌曲《TAKEDOWN》的官方Live MV，该版本由TWICE成员定延、志效、彩瑛演唱，歌曲在影片中由虚构女团HUNTR/X演绎。",
+    "extracted_at": "2026-06-21T22:51:26.104823+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "June Girl Group Member Brand Reputation Rankings Announced",
+    "url": "https://www.soompi.com/article/1849160wpp/june-girl-group-member-brand-reputation-rankings-announced-8",
+    "content": "The Korean Business Research Institute has revealed this month’s brand reputation rankings for individual girl group members! The rankings were determined through an analysis of the consumer participation, media coverage, communication, and community awareness indexes of 735 girl group members, using big data collected from May 21 to June 21. IVE’s Jang Won Young continued&#8230; Continue reading June Girl Group Member Brand Reputation Rankings Announced\nThe post June Girl Group Member Brand Reputation Rankings Announced appeared first on Soompi.",
+    "published_at": "0621soompi",
+    "published_ts": 1782005701.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "6月女团成员品牌评价排名公布：张员瑛蝉联第一",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "韩国企业评价研究所于6月21日发布6月女团成员品牌评价排名",
+      "排名基于5月21日至6月21日收集的735名女团成员大数据，分析消费者参与度、媒体覆盖、沟通及社区意识指数",
+      "IVE成员张员瑛连续位居榜首"
+    ],
+    "summary_zh": "韩国企业评价研究所公布6月女团成员品牌评价排名，基于5月21日至6月21日对735名女团成员的大数据分析，IVE成员张员瑛蝉联第一。",
+    "extracted_at": "2026-06-21T22:51:28.934890+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "BLACKPINK’s “JUMP” Becomes 1st K-Pop MV Released In 2025 To Hit 400 Million Views",
+    "url": "https://www.soompi.com/article/1849154wpp/blackpinks-jump-becomes-1st-k-pop-mv-released-in-2025-to-hit-400-million-views",
+    "content": "BLACKPINK has hit the 400 million mark with yet another music video! On the morning of June 21 KST, BLACKPINK’s music video for their hit single “JUMP” surpassed 400 million views on YouTube, making it the first music video released by a K-pop artist in 2025 to reach the milestone. BLACKPINK originally released the music&#8230; Continue reading BLACKPINK&#8217;s &#8220;JUMP&#8221; Becomes 1st K-Pop MV Released In 2025 To Hit 400 Million Views\nThe post BLACKPINK&#8217;s &#8220;JUMP&#8221; Becomes 1st K-Pop MV Released In 2025 To Hit 400 Million Views appeared first on Soompi.",
+    "published_at": "0621soompi",
+    "published_ts": 1782003613.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "BLACKPINK《JUMP》MV观看量破4亿，成2025年首支达此成就的K-Pop MV",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "6月21日上午KST，BLACKPINK《JUMP》MV在YouTube观看量突破4亿次",
+      "该MV是2025年发布的K-Pop MV中首支达到4亿观看量的作品"
+    ],
+    "summary_zh": "BLACKPINK的《JUMP》MV于6月21日上午KST在YouTube上突破4亿观看量，成为2025年发布的K-Pop MV中首支达到该里程碑的作品。",
+    "extracted_at": "2026-06-21T22:51:31.571127+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Winners Of The 35th Seoul Music Awards",
+    "url": "https://www.soompi.com/article/1849147wpp/winners-of-the-35th-seoul-music-awards",
+    "content": "On June 20, the 35th Seoul Music Awards (SMA) were held at the INSPIRE Arena in Incheon. ATEEZ won this year’s Daesang (Grand Prize), in addition to taking home one of this year’s Bonsangs (Main Awards). Meanwhile, BOYNEXTDOOR snagged a total of four awards, including Best Album, World Best Artist, the R&#38;B/Hip Hop Award, and&#8230; Continue reading Winners Of The 35th Seoul Music Awards\nThe post Winners Of The 35th Seoul Music Awards appeared first on Soompi.",
+    "published_at": "0621soompi",
+    "published_ts": 1782001444.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "第35届首尔歌谣大赏获奖名单揭晓，ATEEZ获大赏",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "第35届首尔歌谣大赏于6月20日在仁川INSPIRE Arena举行",
+      "ATEEZ获得年度大赏（Daesang）及本赏（Bonsang）",
+      "BOYNEXTDOOR获得最佳专辑奖、World Best Artist奖、R&B/Hip Hop奖等共四个奖项"
+    ],
+    "summary_zh": "第35届首尔歌谣大赏于6月20日在仁川INSPIRE Arena举行。ATEEZ获得年度大赏及本赏。BOYNEXTDOOR共获得四个奖项，包括最佳专辑奖、World Best Artist奖、R&B/Hip Hop奖等。",
+    "extracted_at": "2026-06-21T22:51:34.110834+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "5 Reasons To Watch Thriller Romance BL “The Lie We Lived In”",
+    "url": "https://www.soompi.com/article/1849049wpp/5-reasons-to-watch-thriller-romance-bl-the-lie-we-lived-in",
+    "content": "A contract killer, a mysterious missing phone, a captive man, and a detective who shows up at the worst possible moment — if that doesn’t sound like your typical K-BL, that’s because it&#8217;s not. “The Lie We Lived In” brings a thriller love story with twists to the K-BL lineup. A chain of events puts&#8230; Continue reading 5 Reasons To Watch Thriller Romance BL &#8220;The Lie We Lived In&#8221;\nThe post 5 Reasons To Watch Thriller Romance BL &#8220;The Lie We Lived In&#8221; appeared first on Soompi.",
+    "published_at": "0621soompi",
+    "published_ts": 1781996100.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "5个理由追看惊悚浪漫BL剧《我们活着的谎言》",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "《The Lie We Lived In》是一部惊悚浪漫BL剧，包含契约杀手、神秘失踪手机、被囚禁男子和侦探等元素",
+      "该剧在K-BL系列中带来充满转折的惊悚爱情故事"
+    ],
+    "summary_zh": "《The Lie We Lived In》是一部非典型的K-BL剧，融合了惊悚与浪漫元素，讲述契约杀手、神秘失踪手机、被囚禁男子和侦探之间的一系列连锁事件。文章列出了5个观看理由，但具体内容未在摘要中详述。",
+    "extracted_at": "2026-06-21T22:51:36.573926+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "BLACKPINK: K-Pop sensations - Guinness World Records",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wQm9IcG5hRWlnRGp4dk9UaXZqVnBwOXNJTE8zcGlqTnZYRjZFa1ZVTmZPQy1feTNnaW5PcFpaTVI3WVhocVkxY0RIeVBLS2Z0RWUtZGRwM1pKZkgzeUNacVF3TmZtMEZ5MXJkTlVGbnE0LVhPV2RMaGRuVzZZZWs?oc=5",
+    "content": "BLACKPINK: K-Pop sensations Guinness World Records",
+    "published_at": "0621google-kpop",
+    "published_ts": 1781979359.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "BLACKPINK获吉尼斯世界纪录认证：K-pop现象级女团",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "BLACKPINK获得吉尼斯世界纪录认证",
+      "认证内容为K-pop现象级女团相关纪录"
+    ],
+    "summary_zh": "BLACKPINK被吉尼斯世界纪录认证为K-pop现象级女团，具体纪录细节未在原文中详述。",
+    "extracted_at": "2026-06-21T22:51:39.131703+08:00"
   }
 ]
