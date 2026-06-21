@@ -145,10 +145,18 @@ class SSGRenderer:
         if not data_file.exists():
             return []
         try:
-            return json.loads(data_file.read_text("utf-8"))
+            articles = json.loads(data_file.read_text("utf-8"))
         except Exception as e:
             logger.error(f"读取数据失败: {e}")
             return []
+
+        # ── 渲染层三次校验：published_at 必须匹配当日 MMDD ──
+        today_mmdd = today_key()[5:7] + today_key()[7:9]  # "0621"
+        filtered = [a for a in articles if a.get("published_at", "")[:4] == today_mmdd]
+        skipped = len(articles) - len(filtered)
+        if skipped:
+            logger.info(f"渲染层拦截 {skipped} 篇非当日文章（JSON中共{len(articles)}篇）")
+        return filtered
 
     def _scan_dates(self) -> list[str]:
         dates = []

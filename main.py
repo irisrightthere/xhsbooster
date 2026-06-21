@@ -100,14 +100,27 @@ def run_pipeline(dry_run: bool = False) -> int:
 
     logger.info(f"🤖 提炼完成: {len(enriched)} 篇（失败 {failed} 篇）")
 
-    # ── Step 3: 存储 JSON ────────────────────────────
+    # ── Step 3: 存储 JSON（含二次日期校验）────────────
+    today_mmdd = now_cst().strftime("%m%d")
+    validated = []
+    storage_skipped = 0
+    for art in enriched:
+        pub_at = art.get("published_at", "")
+        if pub_at[:4] == today_mmdd:
+            validated.append(art)
+        else:
+            storage_skipped += 1
+            logger.warning(f"存储层拦截非当日文章: {pub_at} | {art.get('title','')[:40]}")
+    if storage_skipped:
+        logger.info(f"存储层过滤: 拦截 {storage_skipped} 篇非当日文章")
+
     STATE_DIR.mkdir(parents=True, exist_ok=True)
     state_file = STATE_DIR / f"{date_str}_articles.json"
     state_file.write_text(
-        json.dumps(enriched, ensure_ascii=False, indent=2),
+        json.dumps(validated, ensure_ascii=False, indent=2),
         "utf-8",
     )
-    logger.info(f"💾 存储: {state_file}")
+    logger.info(f"💾 存储: {state_file} ({len(validated)} 篇)")
 
     # ── Step 4: 飞书推送 ─────────────────────────────
     notifier = FeishuNotifier()

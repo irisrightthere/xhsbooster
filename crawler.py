@@ -110,6 +110,9 @@ class Crawler:
 
         dup_count = len(all_articles) - len(new_articles)
         logger.info(f"去重后 {len(new_articles)} 新 · 过滤 {dup_count} 重复（缓存 {len(self.dedup)} 条）")
+
+        # ── 按发布时间降序排列（新→旧）──
+        new_articles.sort(key=lambda a: a.published_ts, reverse=True)
         return new_articles
 
     # ── 分发 ────────────────────────────────────────
