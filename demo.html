@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>xhsbooster — UI Demo v9</title>
+<style>
+/* ══════════════════════════════════════════════════════════════
+   xhsbooster — UI Demo v9
+   极致收敛、低对比度、温和紫调脉冲
+   ══════════════════════════════════════════════════════════════ */
+:root {
+  --bg: #0B0F19; --surface: #161F30; --border: rgba(255,255,255,0.03);
+  --text: #D1D9E6; --text2: #6C7D93;
+  --accent: #B3C0FB; --accent-hover: #D6DFFF;
+  --highlight-text: #B3C0FB;
+  --highlight-bg: rgba(179, 192, 251, 0.08);
+  --risk-high-text: #92B594; --risk-high-bg: rgba(146, 181, 148, 0.08); --risk-high-border: rgba(146, 181, 148, 0.2);
+  --risk-mid-text: #BDB294; --risk-mid-bg: rgba(189, 178, 148, 0.08); --risk-mid-border: rgba(189, 178, 148, 0.2);
+  --risk-low-text: #6C7D93; --risk-low-bg: rgba(255, 255, 255, 0.03); --risk-low-border: rgba(255, 255, 255, 0.08);
+  --pulse-color: #bfa0ff;
+  --drawer-bg: rgba(11, 15, 25, 0.9);
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font: 14px/1.6 -apple-system, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  background: var(--bg); color: var(--text); overflow-x: hidden; }
+
+/* ═══ Header ═══ */
+.report-header { max-width: 720px; margin: 0 auto; padding: 24px 0 16px; }
+.eyebrow { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.2em; color: var(--text2); font-weight: 500; }
+.report-title { font-size: 2.2rem; font-weight: 700; margin: 0.4rem 0 0.6rem; letter-spacing: -0.02em; line-height: 1.1; }
+.archive-link { display: inline-block; margin-bottom: 0.5rem; font-size: 0.85rem; color: var(--text2);
+  text-decoration: none; border-bottom: 1px dashed rgba(179, 192, 251, 0.2); padding-bottom: 1px; cursor: pointer; }
+.archive-link:hover { color: var(--accent); border-bottom-style: solid; }
+
+/* ═══ Tabs ═══ */
+.tab-bar { max-width: 720px; margin: 0 auto; display: flex; gap: 0;
+  border-bottom: 1px solid var(--border); overflow-x: auto; }
+.tab-btn { padding: 12px 20px; border: none; background: none; cursor: pointer;
+  font-size: 13px; color: var(--text2); border-bottom: 2px solid transparent;
+  margin-bottom: -1px; white-space: nowrap; font-family: inherit; transition: .15s; }
+.tab-btn:hover { color: var(--text); }
+.tab-btn.active { color: var(--accent); border-bottom-color: var(--accent); }
+.tab-count { font-size: 11px; color: var(--text2); margin-left: 4px; }
+.tab-btn.active .tab-count { color: var(--accent); }
+
+/* ═══ Content ═══ */
+.content { max-width: 720px; margin: 0 auto; padding: 20px 0; }
+.tab-panel { display: none; }
+.tab-panel.active { display: block; }
+
+/* ═══ Card ═══ */
+.card { background: var(--surface); border: 1px solid var(--border); border-radius: 8px;
+  padding: 20px 24px; margin-bottom: 14px; transition: .15s; }
+.card:hover { border-color: rgba(255,255,255,0.05); }
+
+/* ── 标题行：NEW 点 + 标题 ── */
+.card-head { display: flex; align-items: flex-start; gap: 8px; margin-bottom: 10px; }
+.card-title { font-size: 17px; font-weight: 700; line-height: 1.5; flex: 1; }
+.card-title a { color: var(--text); text-decoration: none; }
+.card-title a:hover { color: var(--accent); }
+
+/* ── NEW 温和紫调脉冲（慢呼吸 3.5s）── */
+.pulse-dot { display: inline-flex; align-items: center; gap: 5px; flex-shrink: 0; margin-top: 5px; }
+.dot { width: 5px; height: 5px; background: var(--pulse-color); border-radius: 50%;
+  box-shadow: 0 0 6px rgba(191, 160, 255, 0.6);
+  animation: muted-pulse-glow 3.5s infinite ease-in-out; }
+@keyframes muted-pulse-glow {
+  0%, 100% { opacity: 0.4; transform: scale(0.95); box-shadow: 0 0 4px rgba(191, 160, 255, 0.3); }
+  50% { opacity: 1; transform: scale(1.1); box-shadow: 0 0 10px rgba(191, 160, 255, 0.8); }
+}
+.new-label { font-size: 10px; font-weight: 700; color: var(--pulse-color); letter-spacing: 0.1em; }
+
+/* ── Meta ── */
+.card-meta { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; font-size: 13px; }
+.meta-source { color: var(--text2); font-weight: 500; }
+.meta-date { color: var(--text2); font-family: "SF Mono","Menlo",monospace; }
+
+/* ── 风险标签 ── */
+.risk-tag { font-size: 10px; font-weight: 500; padding: 2px 8px; border-radius: 4px;
+  border: 1px solid; letter-spacing: 0.05em; line-height: 1.4; }
+.risk-high { color: var(--risk-high-text); background: var(--risk-high-bg); border-color: var(--risk-high-border); }
+.risk-mid { color: var(--risk-mid-text); background: var(--risk-mid-bg); border-color: var(--risk-mid-border); }
+.risk-low { color: var(--risk-low-text); background: var(--risk-low-bg); border-color: var(--risk-low-border); }
+
+/* ── 分隔 ── */
+.card-sep { border: none; border-top: 1px solid var(--border); margin: 12px 0; }
+
+/* ── 摘要（高亮统一为淡紫灰）── */
+.card-summary { font-size: 14px; color: var(--text2); line-height: 1.75; }
+.card-summary em { font-style: normal; font-weight: 500;
+  color: var(--highlight-text); background: var(--highlight-bg);
+  padding: 1px 5px; border-radius: 3px; }
+
+/* ── Footer ── */
+.card-footer { display: flex; gap: 14px; margin-top: 14px; align-items: center; }
+.btn-view { color: var(--accent); text-decoration: none; font-size: 12px;
+  border-bottom: 1px dashed rgba(179, 192, 251, 0.3); padding-bottom: 1px;
+  transition: .15s; cursor: pointer; }
+.btn-view:hover { color: var(--accent-hover); }
+.btn-match { padding: 5px 16px; border: 1px solid rgba(179, 192, 251, 0.3); border-radius: 4px;
+  background: rgba(179, 192, 251, 0.15); color: var(--accent); font-weight: 500;
+  cursor: pointer; font-size: 11px; font-family: inherit; transition: .2s; }
+.btn-match:hover { background: rgba(179, 192, 251, 0.25); color: #fff; }
+
+/* ═══ Drawer ═══ */
+.drawer-overlay { position: fixed; inset: 0; background: rgba(0,0,0,.4);
+  z-index: 99; opacity: 0; pointer-events: none; transition: opacity .25s; }
+.drawer-overlay.open { opacity: 1; pointer-events: auto; }
+.drawer { position: fixed; top: 0; left: 0; width: 300px; height: 100%;
+  background: var(--drawer-bg); backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
+  z-index: 100; transform: translateX(-100%); transition: transform .25s ease; overflow-y: auto;
+  border-right: 1px solid rgba(179, 192, 251, 0.08); }
+.drawer.open { transform: translateX(0); }
+.drawer-header { padding: 20px; border-bottom: 1px solid rgba(255,255,255,0.04);
+  display: flex; justify-content: space-between; align-items: center; }
+.drawer-header h2 { font-size: 16px; color: var(--text2); }
+.drawer-close { background: none; border: none; color: var(--text2); cursor: pointer;
+  font-size: 20px; padding: 4px 8px; border-radius: 4px; transition: .15s; }
+.drawer-close:hover { color: var(--accent); }
+.drawer-list { list-style: none; padding: 12px; }
+.drawer-list li { margin-bottom: 2px; }
+.drawer-list a { display: block; padding: 8px 12px; color: var(--text2); text-decoration: none;
+  border-radius: 6px; font-size: 13px; transition: .15s; }
+.drawer-list a:hover { background: rgba(179, 192, 251, 0.06); color: var(--accent); }
+
+/* ═══ Toast ═══ */
+.toast { position: fixed; bottom: 30px; left: 50%; transform: translateX(-50%);
+  background: rgba(179, 192, 251, 0.25); color: #fff; padding: 8px 20px;
+  border-radius: 20px; font-size: 13px; z-index: 200;
+  backdrop-filter: blur(10px); animation: toastAnim 2s ease; }
+@keyframes toastAnim { 0%{opacity:0} 15%{opacity:1} 70%{opacity:1} 100%{opacity:0} }
+</style>
+</head>
+<body>
+
+<header class="report-header">
+  <span class="eyebrow">🍠 xhsbooster</span>
+  <h1 class="report-title">2026-06-22</h1>
+  <a class="archive-link" onclick="toggleDrawer()">← 往期回顾</a>
+</header>
+
+<div class="tab-bar" id="tabBar">
+  <button class="tab-btn active" data-sid="soompi">[Soompi]<span class="tab-count">4</span></button>
+  <button class="tab-btn" data-sid="google">[Google News]<span class="tab-count">2</span></button>
+  <button class="tab-btn" data-sid="asianwiki">[AsianWiki]<span class="tab-count">2</span></button>
+</div>
+
+<div class="content" id="content">
+
+  <div class="tab-panel active" data-sid="soompi">
+
+    <div class="card">
+      <div class="card-head">
+        <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+        <div class="card-title"><a href="#" target="_blank">Ailee 所属社公开否认怀孕传闻，称"毫无根据"，将对散布虚假信息者采取法律措施</a></div>
+      </div>
+      <div class="card-meta">
+        <span class="meta-source">Soompi</span><span class="meta-date">· 06-22</span>
+        <span class="risk-tag risk-high">争议·高</span>
+      </div>
+      <hr class="card-sep">
+      <div class="card-summary">歌手 Ailee 所属社于22日发表官方声明，<em>全盘否认</em>近期网络流传的怀孕传闻，表示"相关内容<em>完全失实</em>"，并已委托法务团队对最初散布者提起<em>名誉毁损诉讼</em>。</div>
+      <div class="card-footer">
+        <a href="#" target="_blank" class="btn-view">查看原文 ↗</a>
+        <button class="btn-match" onclick="copyDraft(this)" data-copy="Ailee 否认怀孕传闻...">匹配模板</button>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-head">
+        <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+        <div class="card-title"><a href="#" target="_blank">Sana 回应"内衣造型"争议："是舞台服装的一部分，并无不妥"</a></div>
+      </div>
+      <div class="card-meta">
+        <span class="meta-source">Soompi</span><span class="meta-date">· 06-22</span>
+        <span class="risk-tag risk-mid">舆论·中</span>
+      </div>
+      <hr class="card-sep">
+      <div class="card-summary">TWICE Sana 于21日在粉丝沟通平台回应了近期围绕演唱会造型的讨论，表示"造型团队<em>基于舞台效果的专业判断</em>，希望粉丝不要过度解读"。</div>
+      <div class="card-footer">
+        <a href="#" target="_blank" class="btn-view">查看原文 ↗</a>
+        <button class="btn-match" onclick="copyDraft(this)" data-copy="Sana 回应造型争议...">匹配模板</button>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-head">
+        <div class="card-title"><a href="#" target="_blank">LE SSERAFIM 和 ILLIT 进入英国官方单曲榜 Top 25</a></div>
+      </div>
+      <div class="card-meta">
+        <span class="meta-source">Soompi</span><span class="meta-date">· 06-22</span>
+        <span class="risk-tag risk-low">榜单·低</span>
+      </div>
+      <hr class="card-sep">
+      <div class="card-summary">据英国官方排行榜公司数据，LE SSERAFIM 新曲<em>首次进入 UK Official Singles Chart 前25位</em>，位列第22名。</div>
+      <div class="card-footer">
+        <a href="#" target="_blank" class="btn-view">查看原文 ↗</a>
+        <button class="btn-match" onclick="copyDraft(this)" data-copy="LE SSERAFIM 进入英国榜单...">匹配模板</button>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-head">
+        <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+        <div class="card-title"><a href="#" target="_blank">RESCENE 宣布发行特别单曲《Pretty Girl》，6月30日公开</a></div>
+      </div>
+      <div class="card-meta">
+        <span class="meta-source">Soompi</span><span class="meta-date">· 06-22</span>
+        <span class="risk-tag risk-low">回归·低</span>
+      </div>
+      <hr class="card-sep">
+      <div class="card-summary">女团 RESCENE 于22日通过官方 SNS 公开预告照，宣布将于<em>6月30日下午6时</em>发行特别单曲《Pretty Girl》。</div>
+      <div class="card-footer">
+        <a href="#" target="_blank" class="btn-view">查看原文 ↗</a>
+        <button class="btn-match" onclick="copyDraft(this)" data-copy="RESCENE 发行单曲...">匹配模板</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="tab-panel" data-sid="google">
+    <div class="card">
+      <div class="card-head">
+        <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+        <div class="card-title"><a href="#" target="_blank">BLACKPINK 被吉尼斯世界纪录认证为"K-Pop 最具影响力女团"</a></div>
+      </div>
+      <div class="card-meta">
+        <span class="meta-source">Google News</span><span class="meta-date">· 06-22</span>
+        <span class="risk-tag risk-low">数据·低</span>
+      </div>
+      <hr class="card-sep">
+      <div class="card-summary">吉尼斯世界纪录官方发布专题，认证 BLACKPINK 为<em>"K-Pop Sensations"</em>，列出<em>7项世界纪录</em>。</div>
+      <div class="card-footer">
+        <a href="#" target="_blank" class="btn-view">查看原文 ↗</a>
+        <button class="btn-match" onclick="copyDraft(this)" data-copy="BLACKPINK 吉尼斯纪录...">匹配模板</button>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-head">
+        <div class="card-title"><a href="#" target="_blank">第35届首尔歌谣大赏完整获奖名单公布，aespa 获大赏</a></div>
+      </div>
+      <div class="card-meta">
+        <span class="meta-source">Google News</span><span class="meta-date">· 06-22</span>
+        <span class="risk-tag risk-low">行业·低</span>
+      </div>
+      <hr class="card-sep">
+      <div class="card-summary">第35届首尔歌谣大赏于21日晚在首尔举行。<em>aespa 获大赏</em>，NewJeans 和 SEVENTEEN 分获本赏。</div>
+      <div class="card-footer">
+        <a href="#" target="_blank" class="btn-view">查看原文 ↗</a>
+        <button class="btn-match" onclick="copyDraft(this)" data-copy="首尔歌谣大赏...">匹配模板</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="tab-panel" data-sid="asianwiki">
+    <div class="card">
+      <div class="card-head">
+        <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+        <div class="card-title"><a href="#" target="_blank">SBS《Taxi Driver 3》定档 11 月 21 日，李帝勋回归</a></div>
+      </div>
+      <div class="card-meta">
+        <span class="meta-source">AsianWiki</span><span class="meta-date">· 06-22</span>
+        <span class="risk-tag risk-low">排期·低</span>
+      </div>
+      <hr class="card-sep">
+      <div class="card-summary">SBS 金土剧《Taxi Driver 3》定于<em>2026年11月21日</em>首播。本季将<em>深入跨国犯罪组织</em>，动作戏规模升级。</div>
+      <div class="card-footer">
+        <a href="#" target="_blank" class="btn-view">查看原文 ↗</a>
+        <button class="btn-match" onclick="copyDraft(this)" data-copy="Taxi Driver 3 定档...">匹配模板</button>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-head">
+        <div class="card-title"><a href="#" target="_blank">Netflix《The Price of Confession》定档 12 月 5 日</a></div>
+      </div>
+      <div class="card-meta">
+        <span class="meta-source">AsianWiki</span><span class="meta-date">· 06-22</span>
+        <span class="risk-tag risk-low">排期·低</span>
+      </div>
+      <hr class="card-sep">
+      <div class="card-summary">Netflix 原创韩剧定于<em>2026年12月5日</em>上线。全度妍、金高银主演。</div>
+      <div class="card-footer">
+        <a href="#" target="_blank" class="btn-view">查看原文 ↗</a>
+        <button class="btn-match" onclick="copyDraft(this)" data-copy="The Price of Confession 定档...">匹配模板</button>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<div class="drawer-overlay" id="overlay" onclick="toggleDrawer()"></div>
+<div class="drawer" id="drawer">
+  <div class="drawer-header">
+    <h2>📅 往期回顾</h2>
+    <button class="drawer-close" onclick="toggleDrawer()">✕</button>
+  </div>
+  <ul class="drawer-list">
+    <li><a href="#">2026-06-22</a></li><li><a href="#">2026-06-21</a></li><li><a href="#">2026-06-20</a></li>
+    <li><a href="#">2026-06-19</a></li><li><a href="#">2026-06-18</a></li><li><a href="#">2026-06-17</a></li>
+  </ul>
+</div>
+
+<script>
+document.getElementById('tabBar').addEventListener('click', function(e) {
+  var btn = e.target.closest('.tab-btn');
+  if (!btn) return;
+  var sid = btn.dataset.sid;
+  this.querySelectorAll('.tab-btn').forEach(function(b){ b.classList.remove('active'); });
+  btn.classList.add('active');
+  document.querySelectorAll('.tab-panel').forEach(function(p){ p.classList.remove('active'); });
+  var panel = document.querySelector('.tab-panel[data-sid="' + sid + '"]');
+  if (panel) panel.classList.add('active');
+});
+function toggleDrawer() {
+  document.getElementById('drawer').classList.toggle('open');
+  document.getElementById('overlay').classList.toggle('open');
+}
+function copyDraft(btn) {
+  navigator.clipboard.writeText(btn.dataset.copy).then(function() {
+    var toast = document.createElement('div');
+    toast.className = 'toast';
+    toast.textContent = '✅ 已复制，粘贴到 Obsidian 提炼助手';
+    document.body.appendChild(toast);
+    setTimeout(function(){ toast.remove(); }, 2000);
+  });
+}
+</script>
+</body>
+</html>
