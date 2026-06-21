@@ -71,6 +71,19 @@ body { font: 15px/1.6 -apple-system, "PingFang SC", "Hiragino Sans GB", "Microso
 .archive-list .size { font-size: 13px; color: var(--text2); }
 .archive-meta { font-size: 13px; color: var(--text2); margin-bottom: 20px; }
 
+/* 卡片尾部按钮 */
+.card-footer { display: flex; gap: 10px; margin-top: 12px; align-items: center; }
+.btn-link { color: var(--text2); text-decoration: none; font-size: 13px; }
+.btn-link:hover { color: var(--accent); }
+.btn-draft { padding: 4px 12px; border: 1px solid var(--accent); border-radius: 14px;
+  background: none; color: var(--accent); cursor: pointer; font-size: 12px;
+  font-family: inherit; transition: .15s; }
+.btn-draft:hover { background: var(--accent); color: #fff; }
+.toast { position: fixed; bottom: 30px; left: 50%; transform: translateX(-50%);
+  background: var(--accent); color: #fff; padding: 8px 20px; border-radius: 20px;
+  font-size: 13px; z-index: 999; animation: fadeInOut 2s ease; }
+@keyframes fadeInOut { 0%{opacity:0} 15%{opacity:1} 70%{opacity:1} 100%{opacity:0} }
+
 .empty-state { text-align: center; padding: 40px; color: var(--text2); }
 footer { text-align: center; padding: 30px 0 20px; font-size: 12px; color: var(--text2);
   border-top: 1px solid var(--border); margin-top: 30px; }
@@ -82,6 +95,17 @@ footer a { color: var(--accent); text-decoration: none; }
 # ═══════════════════════════════════════════════════════════════
 
 JS = r"""
+function copyDraft(btn) {
+  var text = btn.dataset.copy;
+  navigator.clipboard.writeText(text).then(function() {
+    var toast = document.createElement('div');
+    toast.className = 'toast';
+    toast.textContent = '✅ 已复制到剪贴板，粘贴到 Obsidian 提炼助手';
+    document.body.appendChild(toast);
+    setTimeout(function(){ toast.remove(); }, 2000);
+  });
+}
+
 document.addEventListener('DOMContentLoaded', function() {
   document.querySelectorAll('.tab-bar').forEach(function(bar) {
     bar.addEventListener('click', function(e) {
@@ -213,6 +237,15 @@ class SSGRenderer:
         if summary:
             html += '  <hr class="separator">\n'
             html += f'  <div class="summary">{summary}</div>\n'
+
+        # 卡片尾部按钮
+        html += '  <div class="card-footer">\n'
+        html += f'    <a href="{url}" target="_blank" rel="noopener" class="btn-link">🔗 查看原文</a>\n'
+        # 一键生成草稿：复制到剪贴板（转义引号防止 HTML 属性断裂）
+        import html as _html
+        copy_text = _html.escape(f"{title}\\n来源：{source_name}\\n日期：{date_display}\\n摘要：{summary}", quote=True)
+        html += f'    <button class="btn-draft" onclick="copyDraft(this)" data-copy="{copy_text}">📝 一键生成草稿</button>\n'
+        html += '  </div>\n'
         html += '</div>\n'
         return html
 
