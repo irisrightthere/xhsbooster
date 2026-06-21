@@ -79,6 +79,21 @@ class Crawler:
             except Exception as e:
                 logger.error(f"[{sid}] 失败: {e}")
 
+        # ── CST 当日过滤 ──
+        from datetime import datetime, timezone as tz, timedelta
+        cst = tz(timedelta(hours=8))
+        today_start = datetime.now(cst).replace(hour=0, minute=0, second=0, microsecond=0).timestamp()
+        today_end = today_start + 86400
+
+        filtered = []
+        for art in all_articles:
+            if today_start <= art.published_ts < today_end:
+                filtered.append(art)
+        skipped = len(all_articles) - len(filtered)
+        if skipped:
+            logger.info(f"日期过滤: 跳过 {skipped} 篇非当日文章")
+        all_articles = filtered
+
         # 去重 + is_new 标记
         new_articles = []
         for art in all_articles:
