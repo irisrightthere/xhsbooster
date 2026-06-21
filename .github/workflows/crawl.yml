@@ -55,6 +55,9 @@ jobs:
           key: xhs-state-${{ github.run_number }}
           restore-keys: xhs-state-
 
+      - name: Clear dedup cache
+        run: rm -f gh-pages/_state/dedup.db
+
       - name: Run pipeline
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
