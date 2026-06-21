@@ -1,0 +1,19 @@
+# 环境变量（含 API key）
+.env
+.env.local
+
+# Python
+__pycache__/
+*.pyc
+
+# 输出
+gh-pages/
+
+# 日志
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store

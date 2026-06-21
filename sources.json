@@ -1,0 +1,32 @@
+[
+  {
+    "id": "soompi",
+    "name": "Soompi",
+    "type": "rss",
+    "url": "https://www.soompi.com/feed",
+    "category": "韩娱",
+    "enabled": true,
+    "max_items": 30,
+    "notes": "韩国娱乐最大英文资讯站，K-pop/韩剧/综艺全覆盖"
+  },
+  {
+    "id": "koreaboo",
+    "name": "Koreaboo",
+    "type": "rss",
+    "url": "https://www.koreaboo.com/feed",
+    "category": "韩娱",
+    "enabled": true,
+    "max_items": 20,
+    "notes": "K-pop 英文资讯，偏粉丝向"
+  },
+  {
+    "id": "allkpop",
+    "name": "allkpop",
+    "type": "rss",
+    "url": "https://www.allkpop.com/feed",
+    "category": "韩娱",
+    "enabled": false,
+    "max_items": 20,
+    "notes": "K-pop 八卦资讯，量大但有噪音，默认关闭"
+  }
+]

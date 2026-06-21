@@ -1,0 +1,4 @@
+feedparser>=6.0
+httpx>=0.25
+python-dateutil>=2.8
+python-frontmatter>=1.0
