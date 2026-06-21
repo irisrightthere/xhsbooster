@@ -17,9 +17,16 @@
 * { box-sizing: border-box; margin: 0; padding: 0; }
 body { font: 15px/1.6 -apple-system, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
   background: var(--bg); color: var(--text); max-width: 720px; margin: 0 auto; padding: 20px; }
-header { text-align: center; padding: 32px 0 20px; border-bottom: 2px solid var(--accent); margin-bottom: 24px; }
-header h1 { font-size: 28px; color: var(--accent); }
-header .date { font-size: 13px; color: var(--text2); margin-top: 4px; }
+/* ── DailyBrief 风格 Header ── */
+.report-header { margin-bottom: 1.25rem; }
+.eyebrow { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.2em;
+  color: var(--text2); font-weight: 500; }
+.report-title { font-size: 2.2rem; font-weight: 700; margin: 0.4rem 0 0.6rem;
+  letter-spacing: -0.02em; line-height: 1.1; color: var(--text); }
+.archive-link { display: inline-block; margin-bottom: 1rem; font-size: 0.85rem;
+  color: var(--text2); text-decoration: none; border-bottom: 1px dashed var(--border);
+  padding-bottom: 1px; }
+.archive-link:hover { color: var(--accent); border-bottom-style: solid; }
 
 /* 源胶囊 Tab */
 .tab-bar { display: flex; gap: 8px; margin-bottom: 20px; flex-wrap: wrap; }
@@ -61,87 +68,327 @@ footer a { color: var(--accent); text-decoration: none; }
 </style>
 </head>
 <body>
-<header><h1>🍠 xhsbooster</h1><div class="date">2026-06-21 · 韩娱资讯</div></header>
+<header class="report-header"><span class="eyebrow">🍠 xhsbooster</span><h1 class="report-title">2026-06-21</h1><a class="archive-link" href="archive.html">← 往期回顾</a></header>
 <div class="tab-bar">
-  <button class="tab-btn active" data-sid="soompi">Soompi (2)</button>
-  <button class="tab-btn" data-sid="google-kpop">Google News (5)</button>
+  <button class="tab-btn active" data-sid="soompi">Soompi (1)</button>
+  <button class="tab-btn" data-sid="asianwiki">AsianWiki (30)</button>
 </div>
 <div class="tab-panel active" data-sid="soompi">
 <div class="card">
-  <h3><a href="https://www.soompi.com/article/1849280wpp/watch-choi-min-sik-makes-choi-hyun-wook-a-tempting-offer-in-notes-from-the-last-row-teaser" target="_blank" rel="noopener">崔岷植向崔显旭提出诱人提议，《最后一排的笔记》预告公开</a></h3>
+  <h3><a href="https://www.soompi.com/article/1849299wpp/aespas-drama-becomes-their-fastest-mv-to-hit-300-million-views" target="_blank" rel="noopener">aespa《Drama》MV观看量突破3亿，创自身最快纪录</a></h3>
   <div class="meta">
     <span class="badge-new">NEW</span>
     <span>Soompi</span>
     <span>· 0621soompi</span>
   </div>
   <hr class="separator">
-  <div class="summary">Netflix心理惊悚剧《最后一排的笔记》发布新预告，崔岷植饰演的许文五向崔显旭饰演的角色提出诱人提议。该剧改编自西班牙话剧，讲述一位20年未出版新作的失败作家兼韩国文学教授的故事。</div>
+  <div class="summary">aespa的《Drama》MV于2024年6月21日韩国时间晚11点20分后突破3亿观看量，成为她们继《Next Level》后第二支达成此成绩的MV，同时也是她们最快达到3亿观看的MV。该MV于2023年11月10日发布。</div>
 </div>
+</div>
+<div class="tab-panel" data-sid="asianwiki">
 <div class="card">
-  <h3><a href="https://www.soompi.com/article/1849284wpp/ko-kyu-phil-and-amin-expecting-their-first-child" target="_blank" rel="noopener">高圭弼与Amin宣布怀孕，Amin晒孕肚照</a></h3>
+  <h3><a href="https://asianwiki.com/Love_Track:_Minji_Minji_Minji" target="_blank" rel="noopener">《Love Track: Minji Minji Minji》KBS2播出</a></h3>
   <div class="meta">
     <span class="badge-new">NEW</span>
-    <span>Soompi</span>
-    <span>· 0621soompi</span>
+    <span>AsianWiki</span>
+    <span>· 0621asianwiki</span>
   </div>
   <hr class="separator">
-  <div class="summary">高圭弼与Amin即将迎来第一个孩子。6月18日，Amin在Instagram上分享孕肚照，透露已怀孕15周，并附上在“MOM & BABY EXPO”展板前的照片。</div>
-</div>
-</div>
-<div class="tab-panel" data-sid="google-kpop">
-<div class="card">
-  <h3><a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxObkxzNVpfUFJDUjNaUVdUb3pJVWxCdXJCUEFFVy1iMWFabGVSaFZ1dWtrNFlJTWJnNkpYNF9XQ2tWZ1Y4MmtURW9wMVI4NVpscnBabDY5Qm9GUHFMbFlKZm40d1lfSTJ5bTJ1X3REWWZ4MHlfMG1zZkduZS1mWVVTaFRnVXp4dkZMS3BuRkpEcFg4QV9zLU1OMUp4bw?oc=5" target="_blank" rel="noopener">本周K-POP新曲排行：6月14日至20日回归盘点</a></h3>
-  <div class="meta">
-    <span class="badge-new">NEW</span>
-    <span>Google News</span>
-    <span>· 0621google-kpop</span>
-  </div>
-  <hr class="separator">
-  <div class="summary">thebiaslist.com发布了6月14日至20日期间的K-POP新曲排行榜，对本周回归的歌曲进行了排名。</div>
+  <div class="summary">韩剧《Love Track: Minji Minji Minji》在KBS2播出。</div>
 </div>
 <div class="card">
-  <h3><a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VZkhIYWpBZXZLUlQzNEZvTmFmSGRodldIWTBfQkl0c3RxZ3JEd2pvQnpydzRTZXA5bUFEQlpxTG1UbDNzOTFUeTdWeVczWEJTR1haYlM1Vm1xUHlnNHBxbUlCNUZkdFk?oc=5" target="_blank" rel="noopener">《KPop恶魔猎人》上线一年仍创Netflix历史纪录</a></h3>
+  <h3><a href="https://asianwiki.com/Concrete_Market_(Korean_Drama)" target="_blank" rel="noopener">Wavve推出新综艺《Concrete Market》</a></h3>
   <div class="meta">
     <span class="badge-new">NEW</span>
-    <span>Google News</span>
-    <span>· 0621google-kpop</span>
+    <span>AsianWiki</span>
+    <span>· 0621asianwiki</span>
   </div>
   <hr class="separator">
-  <div class="summary">据IMDb报道，韩剧《KPop恶魔猎人》上线一年后仍在Netflix创造历史纪录，具体数据未提及。</div>
+  <div class="summary">[原文未提及具体行为，仅称：Wavve推出新综艺《Concrete Market》]</div>
 </div>
 <div class="card">
-  <h3><a href="https://news.google.com/rss/articles/CBMibkFVX3lxTE56cTBNQU1uS0dTbWk1amZCSmkxVV9DaUFiNmoyZkR4N1BDd1kxNDZYRlk3SzVPSXJLRUtxWG9CWGZoVjBFYlZJQU5LWjZ5YjU2YXBNcTIzeGg0R2RvRmN2NzV6X2VQZFoxNUE3SGFn?oc=5" target="_blank" rel="noopener">K-pop恶魔猎人游戏即将发布</a></h3>
+  <h3><a href="https://asianwiki.com/Idol_I" target="_blank" rel="noopener">偶像I（ENA）</a></h3>
   <div class="meta">
     <span class="badge-new">NEW</span>
-    <span>Google News</span>
-    <span>· 0621google-kpop</span>
+    <span>AsianWiki</span>
+    <span>· 0621asianwiki</span>
   </div>
   <hr class="separator">
-  <div class="summary">据Polygon.com报道，一款名为《KPop Demon Hunters》的视频游戏即将发布。该游戏结合了K-pop和恶魔猎人元素，具体发行日期和平台尚未公布。</div>
+  <div class="summary">原文未提及具体行为，仅称：Idol I (ENA)</div>
 </div>
 <div class="card">
-  <h3><a href="https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKR1dkZE4zaUZ2SVA0dHRVVHVkZGx1LTFlamNyTk5mdTg4dTBZMEw0OWVpRVI0QktDVzhibElPZmR4RmlFWDJxYk1QeUkycmVTc2pteTlJVQ?oc=5" target="_blank" rel="noopener">Secret组合携新曲回归，主打怀旧与革新</a></h3>
+  <h3><a href="https://asianwiki.com/Love_Track:_My_Father%27s_Funeral" target="_blank" rel="noopener">《爱的追踪：父亲的葬礼》KBS2播出</a></h3>
   <div class="meta">
     <span class="badge-new">NEW</span>
-    <span>Google News</span>
-    <span>· 0621google-kpop</span>
+    <span>AsianWiki</span>
+    <span>· 0621asianwiki</span>
   </div>
   <hr class="separator">
-  <div class="summary">据《韩国先驱报》报道，韩国女团Secret在最新回归中主打怀旧与革新概念，试图通过唤起粉丝回忆的同时展现全新音乐风格。</div>
+  <div class="summary">韩剧《Love Track: My Father's Funeral》在KBS2播出。</div>
 </div>
 <div class="card">
-  <h3><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE9heF8tUGszQVBtdzYyUFJIa1cxalh0UVFMYnlqd09QRU0wTHAzeFdaYzJIR0FHcGpKaHpiOXJESDIwc3hUNDZkRUpKOUlWNlJKbU9BUkpvOVJldw?oc=5" target="_blank" rel="noopener">从K-pop到社区：韩国文化如何凝聚贝尔法斯特</a></h3>
+  <h3><a href="https://asianwiki.com/Love_Track:_Kimchi" target="_blank" rel="noopener">KBS2新剧《Love Track: Kimchi》</a></h3>
   <div class="meta">
     <span class="badge-new">NEW</span>
-    <span>Google News</span>
-    <span>· 0621google-kpop</span>
+    <span>AsianWiki</span>
+    <span>· 0621asianwiki</span>
   </div>
   <hr class="separator">
-  <div class="summary">原文未提及具体行为，仅称：韩国文化在贝尔法斯特促进社区凝聚</div>
+  <div class="summary">KBS2播出电视剧《Love Track: Kimchi》。</div>
+</div>
+<div class="card">
+  <h3><a href="https://asianwiki.com/Love_Me_(Korean_Drama)" target="_blank" rel="noopener">JTBC新剧《Love Me》引发关注</a></h3>
+  <div class="meta">
+    <span class="badge-new">NEW</span>
+    <span>AsianWiki</span>
+    <span>· 0621asianwiki</span>
+  </div>
+  <hr class="separator">
+  <div class="summary">[原文未提及具体行为，仅称：JTBC推出新剧《Love Me》]</div>
+</div>
+<div class="card">
+  <h3><a href="https://asianwiki.com/Villains_(Korean_Drama)" target="_blank" rel="noopener">TVING新剧《Villains》公开</a></h3>
+  <div class="meta">
+    <span class="badge-new">NEW</span>
+    <span>AsianWiki</span>
+    <span>· 0621asianwiki</span>
+  </div>
+  <hr class="separator">
+  <div class="summary">[原文未提及具体行为，仅称：TVING推出新剧《Villains》]</div>
+</div>
+<div class="card">
+  <h3><a href="https://asianwiki.com/Love_Track:_Finding_Us" target="_blank" rel="noopener">《Love Track: Finding Us》KBS2播出</a></h3>
+  <div class="meta">
+    <span class="badge-new">NEW</span>
+    <span>AsianWiki</span>
+    <span>· 0621asianwiki</span>
+  </div>
+  <hr class="separator">
+  <div class="summary">韩剧《Love Track: Finding Us》在KBS2播出。</div>
+</div>
+<div class="card">
+  <h3><a href="https://asianwiki.com/Love_Track:_Love_Hotel" target="_blank" rel="noopener">《Love Track: Love Hotel》KBS2播出</a></h3>
+  <div class="meta">
+    <span class="badge-new">NEW</span>
+    <span>AsianWiki</span>
+    <span>· 0621asianwiki</span>
+  </div>
+  <hr class="separator">
+  <div class="summary">韩剧《Love Track: Love Hotel》于KBS2播出。</div>
+</div>
+<div class="card">
+  <h3><a href="https://asianwiki.com/The_First_Man" target="_blank" rel="noopener">MBC新剧《The First Man》</a></h3>
+  <div class="meta">
+    <span class="badge-new">NEW</span>
+    <span>AsianWiki</span>
+    <span>· 0621asianwiki</span>
+  </div>
+  <hr class="separator">
+  <div class="summary">[原文未提及具体行为，仅称：MBC制作新剧《The First Man》]</div>
+</div>
+<div class="card">
+  <h3><a href="https://asianwiki.com/Love_Track:_When_We_Were_Wired" target="_blank" rel="noopener">《Love Track: When We Were Wired》KBS2播出</a></h3>
+  <div class="meta">
+    <span class="badge-new">NEW</span>
+    <span>AsianWiki</span>
+    <span>· 0621asianwiki</span>
+  </div>
+  <hr class="separator">
+  <div class="summary">韩剧《Love Track: When We Were Wired》在KBS2播出。</div>
+</div>
+<div class="card">
+  <h3><a href="https://asianwiki.com/Love_Track:_Onion_Soup_After_Hours" target="_blank" rel="noopener">《深夜洋葱汤》KBS2播出</a></h3>
+  <div class="meta">
+    <span class="badge-new">NEW</span>
+    <span>AsianWiki</span>
+    <span>· 0621asianwiki</span>
+  </div>
+  <hr class="separator">
+  <div class="summary">韩剧《Love Track: Onion Soup After Hours》（暂译《深夜洋葱汤》）在KBS2播出。</div>
+</div>
+<div class="card">
+  <h3><a href="https://asianwiki.com/O%27PENing:_Housekeeper" target="_blank" rel="noopener">tvN新剧《O'PENing：管家》</a></h3>
+  <div class="meta">
+    <span class="badge-new">NEW</span>
+    <span>AsianWiki</span>
+    <span>· 0621asianwiki</span>
+  </div>
+  <hr class="separator">
+  <div class="summary">tvN播出剧集《O'PENing：Housekeeper》。</div>
+</div>
+<div class="card">
+  <h3><a href="https://asianwiki.com/O%27PENing:_The_Lake_of_That_Day" target="_blank" rel="noopener">tvN独幕剧《那天的那片湖》公开</a></h3>
+  <div class="meta">
+    <span class="badge-new">NEW</span>
+    <span>AsianWiki</span>
+    <span>· 0621asianwiki</span>
+  </div>
+  <hr class="separator">
+  <div class="summary">tvN独幕剧《O'PENing: The Lake of That Day》（暂译《那天的那片湖》）公开。</div>
+</div>
+<div class="card">
+  <h3><a href="https://asianwiki.com/Surely_Tomorrow" target="_blank" rel="noopener">JTBC新剧《Surely Tomorrow》确定制作</a></h3>
+  <div class="meta">
+    <span class="badge-new">NEW</span>
+    <span>AsianWiki</span>
+    <span>· 0621asianwiki</span>
+  </div>
+  <hr class="separator">
+  <div class="summary">JTBC电视台宣布制作新剧《Surely Tomorrow》，该剧为JTBC原创剧集，具体播出时间及演员阵容尚未公布。</div>
+</div>
+<div class="card">
+  <h3><a href="https://asianwiki.com/Pro_Bono_(Korean_Drama)" target="_blank" rel="noopener">tvN新剧《Pro Bono》</a></h3>
+  <div class="meta">
+    <span class="badge-new">NEW</span>
+    <span>AsianWiki</span>
+    <span>· 0621asianwiki</span>
+  </div>
+  <hr class="separator">
+  <div class="summary">tvN电视台正在制作一部名为《Pro Bono》的新剧。</div>
+</div>
+<div class="card">
+  <h3><a href="https://asianwiki.com/The_Price_of_Confession" target="_blank" rel="noopener">Netflix剧集《告白的价格》</a></h3>
+  <div class="meta">
+    <span class="badge-new">NEW</span>
+    <span>AsianWiki</span>
+    <span>· 0621asianwiki</span>
+  </div>
+  <hr class="separator">
+  <div class="summary">原文未提及具体行为，仅称：Netflix剧集《告白的价格》</div>
+</div>
+<div class="card">
+  <h3><a href="https://asianwiki.com/Shadow_Work" target="_blank" rel="noopener">日剧《Shadow Work》在WOWOW播出</a></h3>
+  <div class="meta">
+    <span class="badge-new">NEW</span>
+    <span>AsianWiki</span>
+    <span>· 0621asianwiki</span>
+  </div>
+  <hr class="separator">
+  <div class="summary">日剧《Shadow Work》在WOWOW平台播出。</div>
+</div>
+<div class="card">
+  <h3><a href="https://asianwiki.com/Taxi_Driver_3" target="_blank" rel="noopener">《模范出租车3》确定制作，SBS新季来袭</a></h3>
+  <div class="meta">
+    <span class="badge-new">NEW</span>
+    <span>AsianWiki</span>
+    <span>· 0621asianwiki</span>
+  </div>
+  <hr class="separator">
+  <div class="summary">SBS确认制作热门韩剧《模范出租车》第三季，具体播出时间及演员阵容尚未公布。</div>
+</div>
+<div class="card">
+  <h3><a href="https://asianwiki.com/Heroes_Next_Door" target="_blank" rel="noopener">《Heroes Next Door》Coupang Play新剧</a></h3>
+  <div class="meta">
+    <span class="badge-new">NEW</span>
+    <span>AsianWiki</span>
+    <span>· 0621asianwiki</span>
+  </div>
+  <hr class="separator">
+  <div class="summary">[原文未提及具体行为，仅称：剧名《Heroes Next Door》，在Coupang Play播出。]</div>
+</div>
+<div class="card">
+  <h3><a href="https://asianwiki.com/LOVE.exe" target="_blank" rel="noopener">Wavve新剧《LOVE.exe》预告发布</a></h3>
+  <div class="meta">
+    <span class="badge-new">NEW</span>
+    <span>AsianWiki</span>
+    <span>· 0621asianwiki</span>
+  </div>
+  <hr class="separator">
+  <div class="summary">Wavve平台发布了新剧《LOVE.exe》的预告，具体播出时间及剧情细节尚未公布。</div>
+</div>
+<div class="card">
+  <h3><a href="https://asianwiki.com/Last_Samurai_Standing" target="_blank" rel="noopener">Netflix日剧《最后的武士》发布</a></h3>
+  <div class="meta">
+    <span class="badge-new">NEW</span>
+    <span>AsianWiki</span>
+    <span>· 0621asianwiki</span>
+  </div>
+  <hr class="separator">
+  <div class="summary">Netflix发布了日剧《Last Samurai Standing》（暂译《最后的武士》）。</div>
+</div>
+<div class="card">
+  <h3><a href="https://asianwiki.com/Dynamite_Kiss" target="_blank" rel="noopener">SBS新剧《Dynamite Kiss》</a></h3>
+  <div class="meta">
+    <span class="badge-new">NEW</span>
+    <span>AsianWiki</span>
+    <span>· 0621asianwiki</span>
+  </div>
+  <hr class="separator">
+  <div class="summary">[原文未提及具体行为，仅称：SBS制作新剧《Dynamite Kiss》]</div>
+</div>
+<div class="card">
+  <h3><a href="https://asianwiki.com/Don%27t_Call_Me_Ma%27am" target="_blank" rel="noopener">TV朝鲜新剧《Don't Call Me Ma'am》</a></h3>
+  <div class="meta">
+    <span class="badge-new">NEW</span>
+    <span>AsianWiki</span>
+    <span>· 0621asianwiki</span>
+  </div>
+  <hr class="separator">
+  <div class="summary">TV朝鲜推出新剧《Don't Call Me Ma'am》，目前尚未公布具体播出时间及演员阵容。</div>
+</div>
+<div class="card">
+  <h3><a href="https://asianwiki.com/Moon_River_(Korean_Drama)" target="_blank" rel="noopener">MBC新剧《Moon River》引发关注</a></h3>
+  <div class="meta">
+    <span class="badge-new">NEW</span>
+    <span>AsianWiki</span>
+    <span>· 0621asianwiki</span>
+  </div>
+  <hr class="separator">
+  <div class="summary">[原文未提及具体行为，仅称：MBC推出新剧《Moon River》]</div>
+</div>
+<div class="card">
+  <h3><a href="https://asianwiki.com/As_You_Stood_By" target="_blank" rel="noopener">Netflix剧集《As You Stood By》</a></h3>
+  <div class="meta">
+    <span class="badge-new">NEW</span>
+    <span>AsianWiki</span>
+    <span>· 0621asianwiki</span>
+  </div>
+  <hr class="separator">
+  <div class="summary">[原文未提及具体行为，仅称：Netflix剧集《As You Stood By》]</div>
+</div>
+<div class="card">
+  <h3><a href="https://asianwiki.com/Dear_X" target="_blank" rel="noopener">TVING新剧《Dear X》公开预告</a></h3>
+  <div class="meta">
+    <span class="badge-new">NEW</span>
+    <span>AsianWiki</span>
+    <span>· 0621asianwiki</span>
+  </div>
+  <hr class="separator">
+  <div class="summary">TVING公开了新剧《Dear X》的预告信息。</div>
+</div>
+<div class="card">
+  <h3><a href="https://asianwiki.com/The_Manipulated" target="_blank" rel="noopener">Disney+原创剧《The Manipulated》上线</a></h3>
+  <div class="meta">
+    <span class="badge-new">NEW</span>
+    <span>AsianWiki</span>
+    <span>· 0621asianwiki</span>
+  </div>
+  <hr class="separator">
+  <div class="summary">Disney+原创剧《The Manipulated》已上线。</div>
+</div>
+<div class="card">
+  <h3><a href="https://asianwiki.com/Nice_to_Not_Meet_You" target="_blank" rel="noopener">tvN新剧《Nice to Not Meet You》</a></h3>
+  <div class="meta">
+    <span class="badge-new">NEW</span>
+    <span>AsianWiki</span>
+    <span>· 0621asianwiki</span>
+  </div>
+  <hr class="separator">
+  <div class="summary">tvN播出剧集《Nice to Not Meet You》。</div>
+</div>
+<div class="card">
+  <h3><a href="https://asianwiki.com/Last_Summer" target="_blank" rel="noopener">《Last Summer》KBS2播出</a></h3>
+  <div class="meta">
+    <span class="badge-new">NEW</span>
+    <span>AsianWiki</span>
+    <span>· 0621asianwiki</span>
+  </div>
+  <hr class="separator">
+  <div class="summary">韩剧《Last Summer》在KBS2播出。</div>
 </div>
 </div>
 
-<footer>xhsbooster · 韩娱资讯自动化 · DeepSeek 驱动 · <a href="archive.html">历史归档</a></footer>
+<footer>xhsbooster · 韩娱资讯自动化 · DeepSeek 驱动 · <a href="archive.html">往期回顾</a></footer>
 <script>
 document.addEventListener('DOMContentLoaded', function() {
   document.querySelectorAll('.tab-bar').forEach(function(bar) {
