@@ -1,4 +1,4 @@
-name: xhs发发发 定时抓取
+name: xhsbooster 定时抓取
 
 on:
   schedule:

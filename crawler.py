@@ -1,5 +1,5 @@
 """
-xhs发发发 — 多源爬虫（RSS + Web 双通道）
+xhsbooster — 多源爬虫（RSS + Web 双通道）
 参考 DailyBrief 分发模式：sources.json → type 路由 → 专用解析器。
 """
 import json

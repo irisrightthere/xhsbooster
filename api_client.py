@@ -1,5 +1,5 @@
 """
-xhs发发发 — DeepSeek API 客户端
+xhsbooster — DeepSeek API 客户端
 封装 deepseek-v4（提取/分类）和 deepseek-v4-pro（深度改写）调用。
 """
 import json

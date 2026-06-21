@@ -1,5 +1,5 @@
 """
-xhs发发发 — SQLite 去重管理器
+xhsbooster — SQLite 去重管理器
 MD5(url) 主键，自动 is_new 标记，72h 自动清理。
 """
 import sqlite3
