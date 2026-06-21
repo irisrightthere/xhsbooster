@@ -48,17 +48,13 @@ class FeishuNotifier:
             return self.notify_heartbeat()
 
         ts = now_cst().strftime("%Y-%m-%d %H:%M CST")
-        lines = [f"📅 {ts}", f"🏄🏻‍♀️ 韩娱速报：本轮抓取 {len(articles)} 篇新内容", ""]
+        lines = [f"📅 {ts}", f"🏄🏻‍♀️ 现在速报：https://irisrightthere.github.io/xhsbooster/", ""]
 
         for i, art in enumerate(articles, 1):
             title = art.get("title_zh", art.get("title", "无标题"))
             summary = art.get("summary_zh", "")[:100]
-            risk = art.get("risk_level", "低")
-            source = art.get("source_name", art.get("source_id", ""))
 
-            # 高风险标红
-            prefix = "[⚠️高危塌房] " if risk == "高" else ""
-            lines.append(f"{i}. {prefix}[{source}] {title}")
+            lines.append(f"{i}. {title}")
             if summary:
                 lines.append(f"   📝 {summary}")
             lines.append("")
