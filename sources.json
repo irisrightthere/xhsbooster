@@ -29,7 +29,7 @@
     "l1_tab": "日娱",
     "category": "日剧",
     "source_lang": "en",
-    "enabled": true,
+    "enabled": false,
     "max_items": 30
   },
   {
@@ -40,7 +40,7 @@
     "l1_tab": "日娱",
     "category": "日剧",
     "source_lang": "ja",
-    "enabled": true,
+    "enabled": false,
     "max_items": 15
   },
   {
