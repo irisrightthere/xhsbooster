@@ -6,6 +6,7 @@
     "url": "https://www.soompi.com/feed",
     "l1_tab": "韩娱",
     "category": "韩娱",
+    "source_lang": "en",
     "enabled": true,
     "max_items": 30
   },
@@ -16,6 +17,7 @@
     "url": "https://news.google.com/rss/search?q=K-pop+OR+K-drama&hl=en-US",
     "l1_tab": "韩娱",
     "category": "韩娱",
+    "source_lang": "en",
     "enabled": true,
     "max_items": 30
   },
@@ -26,6 +28,7 @@
     "url": "https://news.google.com/rss/search?q=J-drama+OR+Anime&hl=en-US",
     "l1_tab": "日娱",
     "category": "日剧",
+    "source_lang": "en",
     "enabled": true,
     "max_items": 30
   },
@@ -36,6 +39,7 @@
     "url": "https://www.oricon.co.jp/news/",
     "l1_tab": "日娱",
     "category": "日剧",
+    "source_lang": "ja",
     "enabled": true,
     "max_items": 15
   },
@@ -46,6 +50,7 @@
     "url": "https://asianwiki.com/Main_Page",
     "l1_tab": "韩娱",
     "category": "韩剧",
+    "source_lang": "en",
     "enabled": true,
     "max_items": 30
   }

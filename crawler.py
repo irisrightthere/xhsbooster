@@ -35,6 +35,7 @@ class RawArticle:
     published_at: str = ""    # "0621soompi" 格式
     published_ts: float = 0   # Unix 时间戳（北京时间）
     category: str = "韩娱"
+    source_lang: str = "en"   # ja / ko / en
     image_url: str = ""
     is_new: bool = True
 
@@ -187,6 +188,7 @@ class Crawler:
             published_at=pub_display,
             published_ts=pub_ts,
             category=source.get("category", "韩娱"),
+            source_lang=source.get("source_lang", "en"),
             image_url=thumbnail,
         )
 
@@ -260,6 +262,7 @@ class Crawler:
                 published_at=pub_display,
                 published_ts=pub_ts,
                 category=source.get("category", "日剧"),
+                source_lang=source.get("source_lang", "ja"),
                 image_url=img_url,
             ))
         return articles
@@ -324,6 +327,7 @@ class Crawler:
                 published_at=pub_display,
                 published_ts=pub_ts,
                 category="韩剧",
+                source_lang=source.get("source_lang", "en"),
             ))
 
         return articles
