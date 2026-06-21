@@ -178,15 +178,16 @@ class Crawler:
 
         content = self._strip_html(content)
 
+        # 优先用原始 published 字符串（保留时区信息），parse失败再降级
         published = ""
-        if hasattr(entry, 'published_parsed') and entry.published_parsed:
+        if hasattr(entry, 'published') and entry.published:
+            published = str(entry.published)
+        elif hasattr(entry, 'published_parsed') and entry.published_parsed:
             try:
                 dt = datetime(*entry.published_parsed[:6])
                 published = dt.isoformat()
             except Exception:
                 pass
-        if not published and hasattr(entry, 'published'):
-            published = str(entry.published)
 
         pub_display, pub_ts = normalize_to_cst(published, source.get("id", ""), source.get("source_lang", "en"))
 

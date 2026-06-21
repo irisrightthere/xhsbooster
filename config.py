@@ -116,9 +116,14 @@ def normalize_to_cst(published_str: str, source_id: str = "", source_lang: str =
 
     from dateutil import parser as dateparser
     try:
-        dt_utc = dateparser.parse(cleaned, ignoretz=True)
-        dt_utc = dt_utc.replace(tzinfo=tz.utc)
-        dt_cst = dt_utc.astimezone(CST)
+        # 保留原始时区信息，不再强制假设 UTC
+        dt_parsed = dateparser.parse(cleaned)
+        if dt_parsed is None:
+            raise ValueError("无法解析时间")
+        # 如果字符串未包含时区，默认按 UTC 处理（RSS 标准）
+        if dt_parsed.tzinfo is None:
+            dt_parsed = dt_parsed.replace(tzinfo=tz.utc)
+        dt_cst = dt_parsed.astimezone(CST)
         display = f"{dt_cst.strftime('%m%d')}{source_id}"
         return display, dt_cst.timestamp()
     except Exception:

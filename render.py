@@ -27,9 +27,16 @@ CSS = r"""
 * { box-sizing: border-box; margin: 0; padding: 0; }
 body { font: 15px/1.6 -apple-system, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
   background: var(--bg); color: var(--text); max-width: 720px; margin: 0 auto; padding: 20px; }
-header { text-align: center; padding: 32px 0 20px; border-bottom: 2px solid var(--accent); margin-bottom: 24px; }
-header h1 { font-size: 28px; color: var(--accent); }
-header .date { font-size: 13px; color: var(--text2); margin-top: 4px; }
+/* ── DailyBrief 风格 Header ── */
+.report-header { margin-bottom: 1.25rem; }
+.eyebrow { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.2em;
+  color: var(--text2); font-weight: 500; }
+.report-title { font-size: 2.2rem; font-weight: 700; margin: 0.4rem 0 0.6rem;
+  letter-spacing: -0.02em; line-height: 1.1; color: var(--text); }
+.archive-link { display: inline-block; margin-bottom: 1rem; font-size: 0.85rem;
+  color: var(--text2); text-decoration: none; border-bottom: 1px dashed var(--border);
+  padding-bottom: 1px; }
+.archive-link:hover { color: var(--accent); border-bottom-style: solid; }
 
 /* 源胶囊 Tab */
 .tab-bar { display: flex; gap: 8px; margin-bottom: 20px; flex-wrap: wrap; }
@@ -156,7 +163,7 @@ class SSGRenderer:
         sids = list(grouped.keys())
 
         date_display = f"{date_str[:4]}-{date_str[5:7]}-{date_str[7:9]}"
-        body = f'<header><h1>🍠 xhsbooster</h1><div class="date">{date_display} · 韩娱资讯</div></header>\n'
+        body = f'<header class="report-header"><span class="eyebrow">🍠 xhsbooster</span><h1 class="report-title">{date_display}</h1><a class="archive-link" href="archive.html">← 往期回顾</a></header>\n'
 
         if not grouped:
             body += '<div class="empty-state">📭 暂无内容</div>'
@@ -217,7 +224,7 @@ class SSGRenderer:
     # ── 归档（DailyBrief 风格）───────────────────
 
     def _render_archive(self, dates: list[str]) -> str:
-        body = '<header><h1>📦 历史归档</h1></header>\n'
+        body = '<header class="report-header"><span class="eyebrow">📦 往期回顾</span><h1 class="report-title">Archive</h1><a class="archive-link" href="index.html">← 返回首页</a></header>\n'
         body += f'<p class="archive-meta">{len(dates)} 份报告 · 最新在前 · 生成于 {today_key()}</p>\n'
 
         if not dates:
@@ -244,7 +251,7 @@ class SSGRenderer:
 </head>
 <body>
 {body}
-<footer>xhsbooster · 韩娱资讯自动化 · DeepSeek 驱动 · <a href="archive.html">历史归档</a></footer>
+<footer>xhsbooster · 韩娱资讯自动化 · DeepSeek 驱动 · <a href="archive.html">往期回顾</a></footer>
 <script>{JS}</script>
 </body>
 </html>"""
