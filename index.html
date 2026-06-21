@@ -1,0 +1,1749 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>xhsbooster · 2026-06-21</title>
+<style>
+:root {
+  --bg: #fffdf7; --card: #ffffff; --text: #2c2416; --text2: #6b5e4a;
+  --accent: #ff6b35; --accent2: #ff8c5a; --border: #e8e0d5;
+  --tag-bg: #f5efe4; --new-badge: #ff4444; --risk-high: #dc2626;
+  --shadow: 0 1px 3px rgba(0,0,0,.06);
+}
+@media (prefers-color-scheme: dark) {
+  :root { --bg: #1a1814; --card: #24211b; --text: #e8e0d5; --text2: #a09682;
+    --border: #3a3428; --tag-bg: #2a2620; --shadow: 0 1px 3px rgba(0,0,0,.3); }
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font: 15px/1.6 -apple-system, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  background: var(--bg); color: var(--text); max-width: 960px; margin: 0 auto; padding: 20px; }
+header { text-align: center; padding: 32px 0 20px; border-bottom: 2px solid var(--accent); margin-bottom: 24px; }
+header h1 { font-size: 28px; color: var(--accent); }
+header .date { font-size: 13px; color: var(--text2); margin-top: 4px; }
+
+/* ── L1 大类标签（大字 + 底线高亮）── */
+.l1-bar { display: flex; gap: 24px; border-bottom: 2px solid var(--border); margin-bottom: 12px; }
+.l1-btn { padding: 10px 24px; border: none; background: none; cursor: pointer;
+  font-size: 15px; font-weight: 700; color: var(--text2);
+  border-bottom: 3px solid transparent; margin-bottom: -2px; transition: .15s; }
+.l1-btn:hover, .l1-btn.active { color: var(--accent); border-bottom-color: var(--accent); }
+
+/* ── L2 源胶囊（小字 + 圆角背景）── */
+.l2-bar { display: flex; gap: 8px; margin: 12px 0 20px; padding-left: 8px; flex-wrap: wrap; }
+.l2-btn { padding: 5px 14px; border: none; border-radius: 14px; cursor: pointer;
+  font-size: 12px; color: var(--text2); background: var(--tag-bg); transition: .15s; }
+.l2-btn:hover { background: var(--border); }
+.l2-btn.active { background: var(--accent); color: #fff; }
+
+/* ── 面板 ── */
+.l1-panel { display: none; }
+.l1-panel.active { display: block; }
+.l2-panel { display: none; }
+.l2-panel.active { display: block; }
+
+/* ── 卡片 ── */
+.card { background: var(--card); border: 1px solid var(--border); border-radius: 10px;
+  padding: 18px 20px; margin-bottom: 14px; box-shadow: var(--shadow); position: relative; }
+.card h3 { font-size: 16px; margin-bottom: 6px; }
+.card h3 a { color: var(--text); text-decoration: none; }
+.card h3 a:hover { color: var(--accent); }
+.card .meta { font-size: 12px; color: var(--text2); margin-bottom: 8px; display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+.card .summary { font-size: 14px; color: var(--text); line-height: 1.7; }
+.card .facts { margin-top: 10px; padding: 10px 14px; background: var(--tag-bg); border-radius: 6px; font-size: 13px; }
+.card .facts li { margin-left: 16px; margin-bottom: 4px; }
+
+/* Badges */
+.badge { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 11px; font-weight: 600; }
+.badge-new { background: var(--new-badge); color: #fff; animation: blink 1.2s ease-in-out infinite; }
+.badge-risk-high { background: var(--risk-high); color: #fff; }
+.badge-risk-mid { background: #f59e0b; color: #fff; }
+.badge-risk-low { background: #10b981; color: #fff; }
+@keyframes blink { 0%,100%{opacity:1} 50%{opacity:.4} }
+
+/* Archive */
+.pagination { display: flex; gap: 10px; justify-content: center; margin: 30px 0; flex-wrap: wrap; }
+.pagination a, .pagination span { padding: 8px 16px; border: 1px solid var(--border); border-radius: 6px;
+  text-decoration: none; color: var(--accent); font-size: 14px; }
+.pagination a:hover { background: var(--accent); color: #fff; }
+.pagination .current { background: var(--accent); color: #fff; }
+footer { text-align: center; padding: 30px 0 20px; font-size: 12px; color: var(--text2); border-top: 1px solid var(--border); margin-top: 30px; }
+.empty-state { text-align: center; padding: 40px; color: var(--text2); }
+</style>
+</head>
+<body>
+<header><h1>🍠 xhsbooster</h1><div class="date">2026-06-21 · 韩日娱资讯</div></header>
+<div class="l1-bar">
+  <button class="l1-btn active" data-l1="韩娱">韩娱 (60)</button>
+  <button class="l1-btn" data-l1="日娱">日娱 (45)</button>
+</div>
+<div class="l1-panel active" data-l1="韩娱">
+<div class="l2-bar">
+  <button class="l2-btn active" data-sid="soompi">Soompi (30)</button>
+  <button class="l2-btn" data-sid="google-kpop">Google News (30)</button>
+</div>
+<div class="l2-panel active" data-sid="soompi">
+<div class="card">
+  <h3><a href="https://www.soompi.com/article/1849247wpp/former-gugudan-member-jang-so-jin-soyee-announces-marriage" target="_blank" rel="noopener">前gugudan成员张素珍（Soyee）宣布结婚</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Soompi</span>
+    <span>· 0621soompi</span>
+  </div>
+  <div class="summary">前gugudan成员张素珍（Soyee）于6月20日在Instagram上宣布结婚，并公开了与律师未婚夫的婚纱画报。</div>
+  <ul class="facts">
+    <li>时间：6月20日</li>
+    <li>主体：前gugudan成员张素珍（Soyee）</li>
+    <li>动作：通过Instagram宣布结婚消息，并公开与律师未婚夫的婚纱画报</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://www.soompi.com/article/1833231wpp/50-korean-reality-dating-shows-variety-show-masterlist" target="_blank" rel="noopener">50+部韩国恋爱真人秀节目汇总清单（持续更新）</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Soompi</span>
+    <span>· 0621soompi</span>
+  </div>
+  <div class="summary">Soompi网站发布了一份韩国恋爱真人秀节目汇总清单，收录了50多部节目，包括《校友恋人》等，为观众提供观看指南。</div>
+  <ul class="facts">
+    <li>截至2026年6月，Soompi网站发布了一份包含50多部韩国恋爱真人秀节目的汇总清单</li>
+    <li>清单中提及节目《校友恋人》（韩文名：솔로동창회）</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://www.soompi.com/article/1849217wpp/my-royal-nemesis-stars-thank-viewers-and-say-goodbye-as-drama-ends" target="_blank" rel="noopener">《我的宿敌》终映，主演感谢观众告别</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩剧</span>
+    <span>· Soompi</span>
+    <span>· 0621soompi</span>
+  </div>
+  <div class="summary">SBS电视剧《我的宿敌》于6月20日播出大结局，收视率创下该剧自身最高纪录，并延续了当周迷你剧收视冠军的势头。主演们纷纷发表终映感言，感谢观众的支持与陪伴。</div>
+  <ul class="facts">
+    <li>SBS电视剧《我的宿敌》于6月20日播出大结局</li>
+    <li>大结局收视率为该剧播出期间最高，并保持当周迷你剧收视冠军</li>
+    <li>主演们分享了终映感想并感谢观众</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://www.soompi.com/article/1849207wpp/lee-ju-myoung-secretly-visits-jin-goo-in-jail-to-make-an-unexpected-proposal-on-reborn-rookie" target="_blank" rel="noopener">李周明秘密探监晋久，在《重生菜鸟》中提出意外提案</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩剧</span>
+    <span>· Soompi</span>
+    <span>· 0621soompi</span>
+  </div>
+  <div class="summary">JTBC《重生菜鸟》公开新剧照，李周明秘密前往监狱探视晋久，并提出一个意想不到的提案。该剧讲述财阀会长姜勇浩（孙贤周饰）在事故后意外获得第二次人生的故事。</div>
+  <ul class="facts">
+    <li>JTBC《重生菜鸟》公开李周明与晋久秘密会面的剧照</li>
+    <li>李周明在监狱中向晋久提出意外提案</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://www.soompi.com/article/1849188wpp/parc-jae-jung-to-change-fan-club-name-due-to-overlap-with-different-artist" target="_blank" rel="noopener">Parc Jae Jung因与朴孝信粉丝名重叠，将更改官方粉丝俱乐部名称</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Soompi</span>
+    <span>· 0621soompi</span>
+  </div>
+  <div class="summary">Parc Jae Jung的所属社Romantic Factory本周早些时候宣布其官方粉丝俱乐部名称为“Namu”（韩语“树”），但部分朴孝信的粉丝指出该名称与朴孝信的粉丝名重叠，因此Parc Jae Jung决定更改粉丝俱乐部名称。</div>
+  <ul class="facts">
+    <li>本周早些时候，Parc Jae Jung的所属社Romantic Factory宣布其官方粉丝俱乐部名称为“Namu”（韩语意为“树”）</li>
+    <li>部分资深歌手朴孝信的粉丝提出反对，指出“Namu”与朴孝信的粉丝名重叠</li>
+    <li>Parc Jae Jung将因此更改粉丝俱乐部名称</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://www.soompi.com/article/1849175wpp/le-sserafim-and-illit-enter-top-25-of-uks-official-singles-chart-for-1st-time-with-katseye-collab-iconic-by-mistake" target="_blank" rel="noopener">LE SSERAFIM、ILLIT与KATSEYE合作曲《ICONIC BY MISTAKE》首次进入英国官方单曲榜前25</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Soompi</span>
+    <span>· 0621soompi</span>
+  </div>
+  <div class="summary">LE SSERAFIM、ILLIT与KATSEYE的合作单曲《ICONIC BY MISTAKE》在英国官方单曲榜（6月18日至24日周榜）空降第22位，标志着三组艺人首次进入该榜单前25名。</div>
+  <ul class="facts">
+    <li>合作单曲《ICONIC BY MISTAKE》在6月18日至24日周榜中，于英国官方单曲榜（Official Singles Chart）空降第22位</li>
+    <li>这是LE SSERAFIM、ILLIT和KATSEYE首次进入该榜单前25名</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://www.soompi.com/article/1849172wpp/watch-performances-from-music-core-2026-ulsan-music-festival" target="_blank" rel="noopener">《音乐中心》2026年蔚山音乐节舞台公开</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Soompi</span>
+    <span>· 0621soompi</span>
+  </div>
+  <div class="summary">MBC《音乐中心》于6月20日播出2026年蔚山音乐节特辑，众多K-pop艺人带来精彩舞台，包括BOYNEXTDOOR、RIIZE、MEOVV、KiiiKiii、STAYC、fromis_9等组合及歌手。</div>
+  <ul class="facts">
+    <li>2026年6月20日，MBC《音乐中心》播出蔚山夏季音乐节特辑</li>
+    <li>出演艺人包括BOYNEXTDOOR、RIIZE、MEOVV、KiiiKiii、STAYC、fromis_9、ALPHA DRIVE ONE、AND2BLE、KickFlip、izna、Billlie、tripleS、N.Flying、xikers、CLOSE YOUR EYES、Baby DONT Cry、EPEX、IDID、LUCY、朴智贤、dodree等</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://www.soompi.com/article/1849169wpp/my-royal-nemesis-ends-on-highest-ratings-of-its-entire-run" target="_blank" rel="noopener">《我的宿敌》大结局创自身最高收视率</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩剧</span>
+    <span>· Soompi</span>
+    <span>· 0621soompi</span>
+  </div>
+  <div class="summary">SBS电视剧《我的宿敌》在6月20日播出大结局，以全国平均收视率11.8%创下该剧自身最高纪录，完美收官。</div>
+  <ul class="facts">
+    <li>SBS电视剧《我的宿敌》于6月20日播出大结局</li>
+    <li>根据尼尔森韩国数据，最后一集全国平均收视率为11.8%，创下该剧自身最高纪录</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://www.soompi.com/article/1849163wpp/watch-twice-members-sing-takedown-live-in-official-kpop-demon-hunters-mv" target="_blank" rel="noopener">TWICE定延、志效、彩瑛献唱《KPop Demon Hunters》OST《TAKEDOWN》MV公开</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Soompi</span>
+    <span>· 0621soompi</span>
+  </div>
+  <div class="summary">Netflix于6月20日发布了动画电影《KPop Demon Hunters》的官方现场MV，其中TWICE成员定延、志效、彩瑛演唱了片中虚构女团HUNTR/X的歌曲《TAKEDOWN》。</div>
+  <ul class="facts">
+    <li>6月20日，Netflix公开了动画电影《KPop Demon Hunters》中虚构女团HUNTR/X演唱的歌曲《TAKEDOWN》的官方现场MV，由TWICE成员定延、志效、彩瑛演唱。</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://www.soompi.com/article/1849160wpp/june-girl-group-member-brand-reputation-rankings-announced-8" target="_blank" rel="noopener">6月女团成员品牌评价榜出炉：张员瑛蝉联第一</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Soompi</span>
+    <span>· 0621soompi</span>
+  </div>
+  <div class="summary">韩国企业评价研究所公布6月女团成员品牌声誉排名，基于5月21日至6月21日对735名女团成员的大数据分析，IVE成员张员瑛蝉联第一。</div>
+  <ul class="facts">
+    <li>韩国企业评价研究所于6月21日发布6月女团成员品牌评价排名</li>
+    <li>数据基于5月21日至6月21日收集的735名女团成员的大数据，分析消费者参与度、媒体覆盖、沟通和社区意识指数</li>
+    <li>IVE成员张员瑛连续位居榜首</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://www.soompi.com/article/1849154wpp/blackpinks-jump-becomes-1st-k-pop-mv-released-in-2025-to-hit-400-million-views" target="_blank" rel="noopener">BLACKPINK《JUMP》MV观看量破4亿，成2025年首支达此成就的K-Pop MV</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Soompi</span>
+    <span>· 0621soompi</span>
+  </div>
+  <div class="summary">BLACKPINK的热门单曲《JUMP》MV于6月21日上午韩国时间在YouTube上突破4亿观看量，成为2025年发布的K-Pop MV中首支达到该里程碑的作品。</div>
+  <ul class="facts">
+    <li>6月21日上午KST，BLACKPINK《JUMP》MV在YouTube观看量突破4亿次</li>
+    <li>该MV是2025年发布的K-Pop MV中首支达到4亿观看量的作品</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://www.soompi.com/article/1849147wpp/winners-of-the-35th-seoul-music-awards" target="_blank" rel="noopener">第35届首尔歌谣大赏获奖名单揭晓：ATEEZ获大赏，BOYNEXTDOOR揽四奖</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Soompi</span>
+    <span>· 0621soompi</span>
+  </div>
+  <div class="summary">第35届首尔歌谣大赏于6月20日在仁川INSPIRE Arena举行。ATEEZ获得本届大赏及一个本赏。BOYNEXTDOOR共获得四个奖项，包括最佳专辑奖、World Best Artist奖、R&B/Hip Hop奖等。</div>
+  <ul class="facts">
+    <li>第35届首尔歌谣大赏于6月20日在仁川INSPIRE Arena举行</li>
+    <li>ATEEZ获得本届大赏（Daesang）及一个本赏（Bonsang）</li>
+    <li>BOYNEXTDOOR共获得四个奖项：最佳专辑奖、World Best Artist奖、R&B/Hip Hop奖</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://www.soompi.com/article/1849049wpp/5-reasons-to-watch-thriller-romance-bl-the-lie-we-lived-in" target="_blank" rel="noopener">5大看点！悬疑爱情BL剧《我们活着的谎言》推荐</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩剧</span>
+    <span>· Soompi</span>
+    <span>· 0621soompi</span>
+  </div>
+  <div class="summary">《The Lie We Lived In》是一部非典型的韩式BL剧，融合了悬疑与爱情元素，讲述契约杀手、神秘失踪手机、被囚禁男子和侦探之间的一系列连锁事件。文章列出了5个观看理由，但具体内容未在摘要中展开。</div>
+  <ul class="facts">
+    <li>《The Lie We Lived In》是一部悬疑爱情BL剧，剧情包含契约杀手、神秘失踪手机、被囚禁男子和侦探等元素。</li>
+    <li>该剧在K-BL剧集中加入悬疑爱情故事和反转情节。</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://www.soompi.com/article/1849124wpp/lim-ji-yeon-risks-her-life-to-save-heo-nam-jun-in-my-royal-nemesis-finale" target="_blank" rel="noopener">林智妍为救许南俊冒生命危险，《我的宿敌》大结局</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩剧</span>
+    <span>· Soompi</span>
+    <span>· 0620soompi</span>
+  </div>
+  <div class="summary">SBS《我的宿敌》大结局中，林智妍饰演的申瑞丽为救许南俊饰演的角色冒生命危险。该剧是一部浪漫喜剧，讲述挣扎女演员被朝鲜时代恶女灵魂附身的故事。</div>
+  <ul class="facts">
+    <li>SBS《我的宿敌》是一部浪漫喜剧，林智妍饰演申瑞丽，一个被朝鲜时代恶女灵魂附身的挣扎女演员</li>
+    <li>大结局中林智妍为救许南俊冒生命危险</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://www.soompi.com/article/1849116wpp/lee-jun-young-attracts-the-attention-of-his-companys-power-players-in-reborn-rookie" target="_blank" rel="noopener">李准基在《重生新人》中吸引公司高层注意</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩剧</span>
+    <span>· Soompi</span>
+    <span>· 0620soompi</span>
+  </div>
+  <div class="summary">李准基在JTBC新剧《重生新人》中饰演关键角色，吸引了公司高层的注意。该剧讲述Choiseong集团会长姜勇浩（孙贤周饰）在事故后意外获得第二次人生的故事，李准基的角色成为继承权争夺战的核心人物。</div>
+  <ul class="facts">
+    <li>李准基在JTBC电视剧《重生新人》中饰演关键角色，卷入激烈的继承权争夺战</li>
+    <li>该剧讲述Choiseong集团会长姜勇浩（孙贤周饰）在事故后意外获得第二次人生的故事</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://www.soompi.com/article/1849090wpp/wild-sing-surpasses-1-million-moviegoers" target="_blank" rel="noopener">《狂野之声》上映18天内突破百万观影人次</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Soompi</span>
+    <span>· 0620soompi</span>
+  </div>
+  <div class="summary">韩国电影《狂野之声》上映18天内突破百万观影人次。据韩国电影振兴委员会6月20日上午8时KST数据，该片累计观影人次达1,013,519人，自6月3日上映以来表现强劲。</div>
+  <ul class="facts">
+    <li>韩国电影振兴委员会于6月20日上午8时KST宣布，《狂野之声》累计观影人次达1,013,519人</li>
+    <li>该片于6月3日上映，用时不到18天突破百万</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://www.soompi.com/article/1849081wpp/evan-heeseung-announces-official-fan-club-name" target="_blank" rel="noopener">EVAN（HEESEUNG）官宣粉丝名“EVER”</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Soompi</span>
+    <span>· 0620soompi</span>
+  </div>
+  <div class="summary">6月20日KST，BELIFT LAB宣布EVAN（原ENHYPEN成员HEESEUNG）的官方粉丝俱乐部名称为“EVER”。该名称由“EVAN”的“EV”和“forevER”的“ER”组合而成，寓意“彼此相伴，永恒不变”。</div>
+  <ul class="facts">
+    <li>6月20日KST，BELIFT LAB宣布EVAN（原ENHYPEN成员HEESEUNG）的官方粉丝俱乐部名称为“EVER”</li>
+    <li>“EVER”由“EVAN”的“EV”和“forevER”的“ER”组合而成，寓意“彼此相伴，永恒不变”</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://www.soompi.com/article/1848730wpp/3-heartwarming-moments-from-the-finale-of-the-legend-of-kitchen-soldier" target="_blank" rel="noopener">《厨神传说》大结局3个暖心瞬间：士兵忠诚与情谊</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩剧</span>
+    <span>· Soompi</span>
+    <span>· 0620soompi</span>
+  </div>
+  <div class="summary">《厨神传说》大结局展现了士兵们对江临哨所及彼此的忠诚。姜成宰（朴志训饰）指出士兵们收到劣质食材和食物，并得到排长赵艺琳（韩东饰）的支持。文章列举了三个暖心瞬间，但具体细节未在摘要中展开。</div>
+  <ul class="facts">
+    <li>《厨神传说》最终集以士兵对江临哨所及彼此的忠诚收尾</li>
+    <li>姜成宰（朴志训饰）揭露士兵食材质量低劣，获排长赵艺琳（韩东饰）支持</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://www.soompi.com/article/1849075wpp/fifties-professionals-soars-to-its-highest-ratings-yet-my-royal-nemesis-heads-into-finale-at-no-1" target="_blank" rel="noopener">《五十岁专业人士》收视创新高，《我的宿敌》结局前夕稳居榜首</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩剧</span>
+    <span>· Soompi</span>
+    <span>· 0620soompi</span>
+  </div>
+  <div class="summary">MBC动作喜剧《五十岁专业人士》于6月19日创下自身最高收视纪录，全国平均收视率达5.6%。同时，SBS剧集《我的宿敌》在迎来大结局前仍稳居同时段收视榜首。</div>
+  <ul class="facts">
+    <li>MBC《五十岁专业人士》6月19日全国平均收视率5.6%，创自身最高纪录</li>
+    <li>SBS《我的宿敌》在结局前夕仍位居同时段收视第一</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://www.soompi.com/article/1849068wpp/june-boy-group-member-brand-reputation-rankings-announced-8" target="_blank" rel="noopener">6月男团成员品牌评价排名公开：防弹少年团智旻蝉联第一</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Soompi</span>
+    <span>· 0620soompi</span>
+  </div>
+  <div class="summary">韩国企业评价研究所公布6月男团成员品牌评价排名，基于5月20日至6月20日收集的755名男团成员大数据，分析消费者参与度、媒体覆盖、沟通及社区意识指数。防弹少年团成员智旻继续位居第一。</div>
+  <ul class="facts">
+    <li>韩国企业评价研究所于6月20日发布6月男团成员品牌评价排名</li>
+    <li>分析对象为755名男团成员，数据采集自5月20日至6月20日</li>
+    <li>评价指标包括消费者参与度、媒体覆盖、沟通及社区意识指数</li>
+    <li>防弹少年团成员智旻蝉联榜首</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://www.soompi.com/article/1849051wpp/twices-cheer-up-becomes-their-5th-mv-to-hit-600-million-views" target="_blank" rel="noopener">TWICE《CHEER UP》MV观看量突破6亿，成为组合第五支达成此纪录的MV</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Soompi</span>
+    <span>· 0620soompi</span>
+  </div>
+  <div class="summary">6月20日上午KST，TWICE热门歌曲《CHEER UP》的MV在YouTube上观看量突破6亿次，成为组合继《TT》《What is Love?》等之后第五支达成此纪录的MV。</div>
+  <ul class="facts">
+    <li>6月20日上午KST，TWICE《CHEER UP》MV在YouTube观看量突破6亿次</li>
+    <li>这是TWICE继《TT》《What is Love?》等之后第五支达成6亿观看量的MV</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://www.soompi.com/article/1849032wpp/katseyes-gnarly-becomes-their-2nd-mv-to-hit-200-million-views" target="_blank" rel="noopener">KATSEYE《Gnarly》MV观看量突破2亿，成为组合第二支达成此成绩的MV</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Soompi</span>
+    <span>· 0619soompi</span>
+  </div>
+  <div class="summary">KATSEYE的《Gnarly》MV于2025年6月19日韩国时间约10时38分在YouTube上观看量突破2亿次，成为组合继《Touch》之后第二支达成此成绩的MV。该MV最初于2025年4月30日发布。</div>
+  <ul class="facts">
+    <li>2025年6月19日韩国时间约10时38分，KATSEYE的《Gnarly》MV在YouTube上观看量突破2亿次</li>
+    <li>该MV于2025年4月30日发布</li>
+    <li>这是KATSEYE继《Touch》之后第二支观看量达2亿的MV</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://www.soompi.com/article/1849027wpp/unb-hints-at-reunion-project-with-exciting-new-teaser" target="_blank" rel="noopener">UNB时隔五年发布新预告，暗示重组项目</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Soompi</span>
+    <span>· 0619soompi</span>
+  </div>
+  <div class="summary">UNB可能即将重组！6月19日晚8点KST，UNB在X（原Twitter）上发布意外帖子，这是自2019年1月正式结束团体活动以来首次更新社交媒体。预告图包含UNB标志及文字“REBORN · REBOOT · REUNITE”，引发重组猜测。</div>
+  <ul class="facts">
+    <li>UNB于6月19日晚8点KST在X（原Twitter）发布新帖，为2019年1月正式结束团体活动后首次更新社交媒体</li>
+    <li>预告图包含UNB标志及文字“REBORN · REBOOT · REUNITE”，引发重组猜测</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://www.soompi.com/article/1849023wpp/boynextdoor-takes-1st-win-for-viral-on-music-bank" target="_blank" rel="noopener">BOYNEXTDOOR凭《VIRAL》获《音乐银行》初一位</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Soompi</span>
+    <span>· 0619soompi</span>
+  </div>
+  <div class="summary">BOYNEXTDOOR凭借新主打曲《VIRAL》在KBS 2TV《音乐银行》中获得首个音乐节目一位。尽管6月19日节目未播出新一期，但官方网站在K-Chart中公布了本周冠军，BOYNEXTDOOR以14,877分的总成绩胜出。</div>
+  <ul class="facts">
+    <li>BOYNEXTDOOR凭借新曲《VIRAL》在KBS 2TV《音乐银行》获得初一位</li>
+    <li>6月19日《音乐银行》未播出新一期，但通过官网公布本周冠军</li>
+    <li>BOYNEXTDOOR以总计14,877分在Music Bank K-Chart中胜出</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://www.soompi.com/article/1849020wpp/8turns-kyungmin-to-sit-out-upcoming-album-promotions-to-focus-on-recovery" target="_blank" rel="noopener">8TURN成员Kyungmin因胃溃疡康复将缺席新专辑活动</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Soompi</span>
+    <span>· 0619soompi</span>
+  </div>
+  <div class="summary">8TURN成员Kyungmin因胃溃疡引发的复杂健康问题，自4月起暂停活动。6月19日，所属社MNH Entertainment更新其状况，宣布他将缺席接下来的新专辑宣传，以专注康复。</div>
+  <ul class="facts">
+    <li>Kyungmin因胃溃疡导致复杂健康问题，4月起暂停活动</li>
+    <li>6月19日，所属社MNH Entertainment更新其状况，宣布他将缺席新专辑宣传以专注康复</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://www.soompi.com/article/1848997wpp/namkoong-min-and-lee-seol-face-the-greatest-despair-of-their-lives-in-the-husband" target="_blank" rel="noopener">南宫珉李雪在《丈夫》中面临人生最大绝望</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩剧</span>
+    <span>· Soompi</span>
+    <span>· 0619soompi</span>
+  </div>
+  <div class="summary">韩剧《丈夫》公开了新剧照，展现南宫珉和李雪饰演的角色面临人生最大绝望的场景。该剧讲述姜泰柱（南宫珉饰）在离婚前夕妻子被绑架，与危险罪犯展开绝望斗争的故事。</div>
+  <ul class="facts">
+    <li>《丈夫》公开了令人心碎的新剧照</li>
+    <li>剧情：南宫珉饰演的姜泰柱在离婚前夕妻子被绑架，与危险罪犯展开绝望斗争</li>
+    <li>新剧照捕捉了姜泰柱和Go Se Yoon（李雪饰）的绝望瞬间</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://www.soompi.com/article/1848988wpp/rescene-announces-release-of-special-single-pretty-girl" target="_blank" rel="noopener">RESCENE宣布7月8日发行特别单曲《Pretty Girl》</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Soompi</span>
+    <span>· 0619soompi</span>
+  </div>
+  <div class="summary">韩国女团RESCENE于6月19日公开预告海报，宣布将于7月8日下午6点（KST）发行特别单曲《Pretty Girl》。此前组合曾透露新作将是一首翻唱曲，具体细节尚未正式公布。</div>
+  <ul class="facts">
+    <li>6月19日，RESCENE公开了特别单曲《Pretty Girl》的预告海报</li>
+    <li>该单曲将于7月8日下午6点（KST）发行</li>
+    <li>此前RESCENE曾预告下一首作品为翻唱曲</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://www.soompi.com/article/1848983wpp/xlov-announces-dates-and-cities-for-asia-tour-serving-x" target="_blank" rel="noopener">XLOV 亚洲巡演“Serving-X”公布首波日程，首尔起跑</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Soompi</span>
+    <span>· 0619soompi</span>
+  </div>
+  <div class="summary">XLOV于6月19日公布了亚洲巡演“Serving-X”的首波日程和地点。巡演将于7月18日至19日在首尔拉开帷幕，随后前往东京、香港、台北、新加坡和大阪。更多城市和日期将后续公布。</div>
+  <ul class="facts">
+    <li>6月19日，XLOV公布亚洲巡演“Serving-X”首波日程</li>
+    <li>巡演将于7月18日至19日在首尔启动</li>
+    <li>后续城市包括东京、香港、台北、新加坡、大阪</li>
+    <li>更多城市和日期将后续公布</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://www.soompi.com/article/1848973wpp/hani-takes-on-countless-responsibilities-after-her-family-falls-on-hard-times-in-love-on-the-menu" target="_blank" rel="noopener">EXID哈尼新剧《爱情菜单》剧照公开，饰演家庭变故后扛起责任的坚强女性</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩剧</span>
+    <span>· Soompi</span>
+    <span>· 0619soompi</span>
+  </div>
+  <div class="summary">EXID成员哈尼（安喜延）主演的新剧《爱情菜单》公开首波剧照。该剧是一部家庭浪漫剧，讲述分手8年的恋人重逢后，拼凑破碎家庭、创造温暖的故事。哈尼在剧中饰演因家庭变故承担起无数责任的角色。</div>
+  <ul class="facts">
+    <li>EXID成员哈尼（安喜延）主演新剧《爱情菜单》首波剧照公开</li>
+    <li>该剧讲述分手8年的恋人重逢后，拼凑破碎家庭、创造温暖的故事</li>
+    <li>哈尼在剧中饰演因家庭变故承担起无数责任的角色</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://www.soompi.com/article/1848962wpp/watch-nam-joo-hyuk-and-roh-yoon-seo-battle-resentful-spirits-in-a-cursed-palace-in-the-east-palace" target="_blank" rel="noopener">Netflix《东宫》公开新海报预告，南柱赫卢允瑞对抗怨灵</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩剧</span>
+    <span>· Soompi</span>
+    <span>· 0619soompi</span>
+  </div>
+  <div class="summary">Netflix新剧《东宫》公开新海报和预告片。该剧由南柱赫和卢允瑞主演，讲述能穿越鬼界的具天与能听见鬼魂声音的宫女生刚被国王召唤，在诅咒的宫殿中对抗怨灵的故事。</div>
+  <ul class="facts">
+    <li>Netflix新剧《东宫》公开新海报和预告片</li>
+    <li>该剧讲述能穿越鬼界的具天（南柱赫饰）与能听见鬼魂声音的宫女生刚（卢允瑞饰）被国王召唤的故事</li>
+  </ul>
+</div>
+</div>
+<div class="l2-panel" data-sid="google-kpop">
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQalZxTzVIaXlaRG9GYXBUZXRoVEdRdl9PMDlEd2Q5ZEVuSWFIQVQwTTlLSHlMc0gyU25kMXRteE4xVHB1SUpKM3pkSVNZNEkyMDVvRkg1Yy1iUDBkZndZdHpBX1BwaVpTeEEzMWRmeExGSnJIT1Vlb1d3YUZJSUxQUFZIdkc?oc=5" target="_blank" rel="noopener">《KPop Demon Hunters》在Netflix全球前十榜单停留52周</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Google News</span>
+    <span>· 0618google-kpop</span>
+  </div>
+  <div class="summary">Netflix宣布，《KPop Demon Hunters》已正式在Netflix全球Top 10榜单中停留52周，持续展现其全球热度。</div>
+  <ul class="facts">
+    <li>《KPop Demon Hunters》在Netflix全球Top 10榜单中累计停留52周</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMib0FVX3lxTE81VWltN2lmRlBGU3NCdE9sOHpsOFJNbnZ6U0FVNS1IZTJRNnVFaTFFbmxfbHBYSERlMDFKZGNsejRyS2ZrSU9lYUJCT0RwLVNJcDl2aG1ldEZRTm5ZdmhtTUFhV05tVTdFNWcwYWQ0dw?oc=5" target="_blank" rel="noopener">MLB.com推出KPop Demon Hunters Night活动</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Google News</span>
+    <span>· 0619google-kpop</span>
+  </div>
+  <div class="summary">原文未提及具体行为，仅称：MLB.com举办KPop Demon Hunters Night活动</div>
+  <ul class="facts">
+    <li>原文未提及具体行为，仅称：MLB.com举办KPop Demon Hunters Night活动</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxOVnRwM1FoVHJJVk5DdWh2S09lMkFCV0VGWFJNUjNBdUg5ZkF5T2FCVThTNWlfb1BMaVVvNjNCek05ZlpXUUktcFdXTTRpc3p0Y2p2eFpvdEt1SkJCcURIRWNNNjdNUDBqb2Rvb1JFTFl2RGRFTHVRZW8ybTRRM2FmT05NVFo5d3BEUFFZbFg1RUVFcWZwYTNJM0R1d3Y?oc=5" target="_blank" rel="noopener">《KPop Demon Hunters》打破多项纪录</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Google News</span>
+    <span>· 0621google-kpop</span>
+  </div>
+  <div class="summary">原文未提及具体行为，仅称：该作品打破了多项纪录</div>
+  <ul class="facts">
+    <li>原文未提及具体行为，仅称：该作品打破了多项纪录</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxNcTVoN3dRdmp1UWh0VXUwVEVxYXktUThzWU1HRk9XZmZnaE80ZWdlWDRSTXZmNEZDcmN3ZVloeTZrRzQwOFNubllVZ0hWZHFyTFVXbnY1UE1wVEVaRHdXQkpjSFJSVVpMMmpoUkJrbnY4X1ZHbUFvRzZ2bXZFbW9TbGhzdG9RRzlfNDBuX29zQnpwQUhFaFJ0WEt1R0ZZck5DcEVGcFFRTGs0ek1KY2tHTUpTLVFieGM?oc=5" target="_blank" rel="noopener">《KPop Demon Hunters》创纪录成功满一周年</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Google News</span>
+    <span>· 0619google-kpop</span>
+  </div>
+  <div class="summary">据《Animation Magazine》报道，动画《KPop Demon Hunters》庆祝其创纪录的'Golden'成功满一周年。</div>
+  <ul class="facts">
+    <li>动画《KPop Demon Hunters》庆祝其创纪录成功满一周年</li>
+    <li>该动画在《Animation Magazine》中被报道为'Golden'级别的成功</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxNam44X0psd3M1Y1F2b2ZxNEhQNmhZaDl0MVVIUkxZSnFSb2V2NjY2aERCdWFIUGZDRW9mS3ZzS1JSdy1HZVNxTTV3TXpzWUptbnFwZ1phWUxQdzl1LU5uc2ozbXk0UjJacjRMWDdTdmpKWU1BS0FPaU11Tk5rY0dxSVJQZTJvQjd0cVRUYm5NMWpwLURhWEpCNWt0OG5YLWY4WEE?oc=5" target="_blank" rel="noopener">Netflix House达拉斯、费城店将推出《KPop Demon Hunters》体验</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Google News</span>
+    <span>· 0618google-kpop</span>
+  </div>
+  <div class="summary">据Variety报道，Netflix House在达拉斯和费城的门店将推出《KPop Demon Hunters》体验活动。该活动具体内容尚未公布，但预计将结合K-pop与奇幻元素。</div>
+  <ul class="facts">
+    <li>Netflix House在达拉斯和费城的门店将推出《KPop Demon Hunters》相关体验</li>
+    <li>该消息由Variety报道</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE0wQm9IcG5hRWlnRGp4dk9UaXZqVnBwOXNJTE8zcGlqTnZYRjZFa1ZVTmZPQy1feTNnaW5PcFpaTVI3WVhocVkxY0RIeVBLS2Z0RWUtZGRwM1pKZkgzeUNacVF3TmZtMEZ5MXJkTlVGbnE0LVhPV2RMaGRuVzZZZWs?oc=5" target="_blank" rel="noopener">BLACKPINK获吉尼斯世界纪录认证</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Google News</span>
+    <span>· 0621google-kpop</span>
+  </div>
+  <div class="summary">BLACKPINK被吉尼斯世界纪录认证为K-pop现象级组合。</div>
+  <ul class="facts">
+    <li>BLACKPINK获得吉尼斯世界纪录认证</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxPbEdhTlp4R2JZRGlsMWxwMVdhb241Z1pZeVVQak9pbTRJS0ttNkhfcnlLUmY2bzJ0T0prSkM3WS1KR194c1RwcjB1SVNSaTRLNFNwM2dMaExyTGZ3cHh5T0U4Ui1pbTlUNWt4Z3pZNHZ6YU5WYjdnR1NRbzJDLWZOckpVOWdmVUhyd18zWjdLNXJWS2NQc2ZXVWR6NXZFdw?oc=5" target="_blank" rel="noopener">流媒体电影多样性下降，韩娱题材《KPop Demon Hunters》成亮点</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Google News</span>
+    <span>· 0621google-kpop</span>
+  </div>
+  <div class="summary">一项关于流媒体电影多样性的研究发现，2023年整体多样性有所下降，但韩娱题材电影《KPop Demon Hunters》被视为一个'亮点'。该研究未提供具体数据或详细分析，仅指出该片在多样性方面表现突出。</div>
+  <ul class="facts">
+    <li>一项研究发现，2023年流媒体电影多样性整体下降</li>
+    <li>《KPop Demon Hunters》被该研究称为'亮点'</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxNOHA4Rkp5N3VmejZzcFNIeGk5c3VyLU5qVWpsZ0hWdlg2dk9MSmx1V21LM2k4VnVSMTRuLXNoQkc1Ny1qSFkzNnJiY01HTzQ3czA4NlBqaDJrMWlWTkVFSGtWT3RXaUlnWnRLVzlxWUVuVTZYTEhqYjN0TWw5QVpVTktJT25HbDNROVFqVFJUV29xUHVDQ0RvQk5tN1FtcWNNQUlfclRUSV8tUG9BR1dZ?oc=5" target="_blank" rel="noopener">乐高推出K-pop恶魔猎人套装，粉丝期待已久</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Google News</span>
+    <span>· 0618google-kpop</span>
+  </div>
+  <div class="summary">乐高推出了粉丝期待已久的K-pop恶魔猎人套装，文章介绍了如何获取该套装。</div>
+  <ul class="facts">
+    <li>乐高发布了K-pop恶魔猎人套装</li>
+    <li>该套装是粉丝期待已久的产品</li>
+    <li>文章提供了获取该套装的方式</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMibkFVX3lxTFBVREFWMHhJZ1BsNUM3TW9zTlpKdVQ4QlkzUE04V1BmWlM0aU8tbWtWV1ZpbUlvVzVZUDlGQktJd0ZOLXdvTU9ZV3NSYmR2OUNwTi0xNTdHYTB6QVRUMURiTElTdENRWEo3VVhHRjd3?oc=5" target="_blank" rel="noopener">HUNTR/X将亮相MLB KPop Demon Hunters之夜</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Google News</span>
+    <span>· 0619google-kpop</span>
+  </div>
+  <div class="summary">HUNTR/X将参加由Netflix组织的MLB KPop Demon Hunters Nights活动。</div>
+  <ul class="facts">
+    <li>HUNTR/X将参与MLB KPop Demon Hunters Nights活动</li>
+    <li>该活动由Netflix组织</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMie0FVX3lxTE5zVXlVZ3BiU1pIeXBSdThTNjk2T1lwZVdPdGI5UTJWUU1iR3lpWUdqelFObHNZc0Y4d1Ezem1aZFo5V3RYU0FIU3B6OHU0d3Vtb1FETTFSQmx6SjRoY0tkY01WV2tFNVRmMWJTSEpQNk5rdjBYRHI0Q1p2dw?oc=5" target="_blank" rel="noopener">MLB.com 举办 KPop Demon Hunters Day 活动</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Google News</span>
+    <span>· 0619google-kpop</span>
+  </div>
+  <div class="summary">原文未提及具体行为，仅称：MLB.com 举办 KPop Demon Hunters Day 活动</div>
+  <ul class="facts">
+    <li>原文未提及具体行为，仅称：MLB.com 举办 KPop Demon Hunters Day 活动</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxOSXBsQjRCLW5yN3hZQTEwVnhiU2swUENoV3oyMVlMUDZrdmV5LVh0NU81bFo3ZVQtRG55Rk1xVTBFRktlS2M2TnBzQjNseGxscGF1Y25NRmpYa0NkWFdaWEs4cXpLYzNWVkluLTNtVHhsZEVISmVhRi1KWUQwOEJvblhCMXJnNlJqR1ZVNC1qeElWNGt2TU10ZEtXWkdCOXcwZDZCeWF3?oc=5" target="_blank" rel="noopener">《KPop Demon Hunters》创下Netflix最终收视纪录</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Google News</span>
+    <span>· 0619google-kpop</span>
+  </div>
+  <div class="summary">据福布斯报道，韩娱作品《KPop Demon Hunters》在Netflix上创下了其最终的收视纪录，具体数据未在原文中详细说明。</div>
+  <ul class="facts">
+    <li>《KPop Demon Hunters》在Netflix上创下最终收视纪录</li>
+    <li>该纪录由福布斯报道确认</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxPS0ZxWnNVSnVGNDhHaVZneThHQ2tVT0x2bVhkaXdJeXRMVGpaZGt4QUdsc2NjVjFoNkdDRV9idU9IaGlHbzI2LXljOVg4TUh0ZWlRUzlNRHRTU0dfMVp6bVBZMm41T1EyMlZUazVuVUJiZ0dSNm9zYlFJOXp4YVNRRHE0dnRkblkzYlZsWmlCVQ?oc=5" target="_blank" rel="noopener">Netflix独家揭秘：《KPop恶魔猎人》如何成为年度爆款</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Google News</span>
+    <span>· 0618google-kpop</span>
+  </div>
+  <div class="summary">Variety独家报道，Netflix原创剧集《KPop恶魔猎人》在平台上线一年内成为爆款，但报道未提供具体收视数据或播放量，仅称其为'blockbuster'。</div>
+  <ul class="facts">
+    <li>Variety独家报道，Netflix原创剧集《KPop恶魔猎人》在平台上线一年内成为爆款</li>
+    <li>报道未提供具体收视数据或播放量，仅称其为'blockbuster'</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE5nay0tSU5fRjc0R1pJZTJlT2RpbjYzLUlEQnFYaXBjOE9mZ1dTQks0cDFSLV9rOVM4d3hodXdXeWY1cmNZMXcxamtHYndaVjFWQkdkaHBBenUwV05Fdkk5OUxqekIwamp0WUhWTTZfdVBQVjcwbG5veTJXNjh6YVU?oc=5" target="_blank" rel="noopener">Netflix上线《KPop Demon Hunters》跟唱版</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Google News</span>
+    <span>· 0617google-kpop</span>
+  </div>
+  <div class="summary">Netflix宣布《KPop Demon Hunters》的跟唱版现已上线。</div>
+  <ul class="facts">
+    <li>Netflix上线《KPop Demon Hunters》跟唱版</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxNOC1uay1GbEQzNzNOSUktODZBdlVXbElQa1JQbmJRODhDMllFWlZIdTRKalJIRmFWX1lHRlpZUkpGQ2pLci13SlRqYmltWmVXWVA5WjdKOG5NbFpCNW1VTFB4bWoxOWtndWlPTVhJMkxjS2VJdTVuMGE4cU9LZDdUREJGYjlUaU1weEllRm9jMno3X0ZfdS1yVVVVdmlEOUhmZHQ3REh4R0tDX1UzRXc?oc=5" target="_blank" rel="noopener">Vans推出《Kpop Demon Hunters》系列，灵感来自热门歌曲《Golden》</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Google News</span>
+    <span>· 0617google-kpop</span>
+  </div>
+  <div class="summary">Vans推出了名为《Kpop Demon Hunters》的新系列，该系列的设计灵感来源于热门歌曲《Golden》。</div>
+  <ul class="facts">
+    <li>Vans发布《Kpop Demon Hunters》系列</li>
+    <li>该系列灵感来自热门歌曲《Golden》</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxOUzhiZE5xUkhxSmlBRXFvakZ0UlQ3bXM3c0FWNDlLZkVGWnJnMjAta1ZYeTRqeVdOaWRzci1PNDY0VUlMQ0dQSWVYdzRNeXBsOEgzZC1zazk0VTJrWVJSUDJtMV83T1h1dnp3TVUwR1pCUVpmeC1KT194ZV93T0I0Y09JVy1nZ29GaDFBdlhqVDNSR2pMczYxT2VFWTRfc0JxcjBoUWEwc19sRThHNFRXOTVoUGdUMW1qZm51TC1ER0VhVS1Oa1FR?oc=5" target="_blank" rel="noopener">美泰《KPop Demon Hunters》粉丝选角恶魔Jinu玩偶开启预售</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Google News</span>
+    <span>· 0618google-kpop</span>
+  </div>
+  <div class="summary">美泰公司宣布，其《KPop Demon Hunters》系列中由粉丝投票选出的恶魔Jinu玩偶现已开启预售。该玩偶是粉丝参与选角的结果，具体预售渠道和价格未在原文中提及。</div>
+  <ul class="facts">
+    <li>美泰公司推出《KPop Demon Hunters》系列恶魔Jinu玩偶</li>
+    <li>该玩偶由粉丝投票选出</li>
+    <li>玩偶已开启预售</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMic0FVX3lxTFBZTDdzOTJKMU00LTZhbjFuQVhFaTBrQXdDNUJMcldwd0J6OFh0MHBvcHA4NGRxdFpZR2Q4eXpZRVBsVlNkb1NxOENZVnZIZHZhRkRmMElWeks5S2o3M1BaWGVjTExBeFNxQ3ZZYXdrMUowZTg?oc=5" target="_blank" rel="noopener">Netflix《KPop恶魔猎人》数据解析</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩剧</span>
+    <span>· Google News</span>
+    <span>· 0618google-kpop</span>
+  </div>
+  <div class="summary">[原文未提及具体行为，仅称：Netflix剧集《KPop恶魔猎人》通过数据讲述故事]</div>
+  <ul class="facts">
+    <li>原文未提及具体行为，仅称：Netflix剧集《KPop恶魔猎人》通过数据讲述故事</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxQc3lqQ2lhOGgwcnZVcjh5MElfb2ZLejBPcmtkWTgzQXY3M0hqaGpDTEdGZ3JLMUphMXYyRFR5SXd2V090VXVEYkVOODBfWWhzUGttUENraGRKcEFaMl9CZmpVSWkxaUQzTzAtLXcwSXNydVpnTHNRUEVDLVF5Z1hEZV9lTk9NZkE?oc=5" target="_blank" rel="noopener">Netflix《KPop恶魔猎人》官方漫画套装首曝</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Google News</span>
+    <span>· 0617google-kpop</span>
+  </div>
+  <div class="summary">Netflix首次公开了《KPop恶魔猎人》官方漫画套装的外观预览，该套装是Netflix原创作品的衍生商品。</div>
+  <ul class="facts">
+    <li>Netflix发布《KPop恶魔猎人》官方漫画套装首张预览图</li>
+    <li>该漫画套装为Netflix原创作品衍生商品</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMifEFVX3lxTFB0Qi1KOFRuQUEteUdGSHRTQ3lMRmpycjUxT0hRY2hlUlpOM2VaN0MzenVHSktxOUxHbnVKdXZidnoydUhKdW1xRWFnZXpQSlQ2MU5LZDYtWkpRbGFVN0JYNTRyRTdQOVM1Vi1ld09Qc2xEUUFFRjdNR3V3NUg?oc=5" target="_blank" rel="noopener">Netflix推出《KPop Demon Hunters》官方周边商品</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Google News</span>
+    <span>· 0617google-kpop</span>
+  </div>
+  <div class="summary">Netflix为《KPop Demon Hunters》推出了官方周边商品，供粉丝购买。</div>
+  <ul class="facts">
+    <li>Netflix为《KPop Demon Hunters》推出官方周边商品</li>
+    <li>周边商品面向粉丝销售</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE5XRGZXRWx4QnFFVm9tOVh2VERDWEJwMC1vYTJjS0NYR1p6TW5HTXBUZkFObk1WUzZhNmNSZHExQUo3T1ctWTB1Qjl3S1loanZqWE5NYmRrT2RIOW1ZVFRpWnh3b2IwS19JV3AzWTFKQ21HazZ6c2dwS0lNZm9sS28?oc=5" target="_blank" rel="noopener">Netflix《KPop Demon Hunters》Derpy Tiger与Sussie Bird乐高套装开启预购</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Google News</span>
+    <span>· 0615google-kpop</span>
+  </div>
+  <div class="summary">Netflix宣布《KPop Demon Hunters》中Derpy Tiger和Sussie Bird的乐高套装现已开放预购。该套装包含两个角色，具体价格和发售日期未在原文中提及。</div>
+  <ul class="facts">
+    <li>Netflix推出《KPop Demon Hunters》主题乐高套装</li>
+    <li>套装包含Derpy Tiger和Sussie Bird两个角色</li>
+    <li>该乐高套装现已开放预购</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMifEFVX3lxTE5GaTQ1NVI3dmgzVXhuM1ppMHVjVDV6ZURQaEdacGNTaXpaWkd3QWJ3Z2RPVTA1S0pmM0JERUY3NG00bHVoemFVdWVfcVBTYkV0NnhIVHFjSGZoMnpBd2d4TTdqRVdkcWlrN3pUZUJNd04yMldDNDhKNk04ZzM?oc=5" target="_blank" rel="noopener">Netflix新剧《东宫》雇佣斩鬼剑士解除恐怖诅咒</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩剧</span>
+    <span>· Google News</span>
+    <span>· 0618google-kpop</span>
+  </div>
+  <div class="summary">Netflix发布新剧《东宫》，剧情讲述东宫雇佣一位斩鬼剑士来解除一个恐怖诅咒的故事。</div>
+  <ul class="facts">
+    <li>Netflix发布新剧《东宫》剧情：东宫雇佣斩鬼剑士解除恐怖诅咒</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BTDJmbE9PWTZWUWxxbjhoMlZTMmZSanZDV2h0LXpvM05JOGFWMlQ4SkU5NDFmblVickJ0bUdnZWpEQU5odk9VMnJ2TTc1dkxwQUZiUm9pVnBneXVhZkZ3d2dZNDdIZw?oc=5" target="_blank" rel="noopener">一年前，K-pop恶魔猎人拯救世界</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Google News</span>
+    <span>· 0620google-kpop</span>
+  </div>
+  <div class="summary">[原文未提及具体行为，仅称：一年前，K-pop恶魔猎人拯救了世界]</div>
+  <ul class="facts">
+    <li>原文未提及具体行为，仅称：一年前，K-pop恶魔猎人拯救了世界</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ3BMRHZjZy1pbm83TUgtVFh3aUNvTFRnbEd3ZUdFN2hhbi1nek5lQ3MtLTdWRGFZRzB1S1ZqdlpzOWhIbzNobEkxa3hmbl91OVBuRkExRnRLVWhMTEhxblZfTmhhM25PTDlpQnVFZ05ILXQ3eUVIcEg4S3VqaHh1TVlUSEFEUQ?oc=5" target="_blank" rel="noopener">Netflix House将推出'KPop Demon Hunters'沉浸式体验</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Google News</span>
+    <span>· 0619google-kpop</span>
+  </div>
+  <div class="summary">Netflix House宣布将在King of Prussia Mall推出'KPop Demon Hunters'沉浸式体验项目，该体验基于Netflix原创内容，具体细节尚未公布。</div>
+  <ul class="facts">
+    <li>Netflix House将在King of Prussia Mall推出'KPop Demon Hunters'体验项目</li>
+    <li>该体验基于Netflix原创内容，具体形式未详细说明</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxOUnJScHhNemhDS1Q0dTlxR1BZMkE1cEFBQkhDdjVyZ0Q3TDAzSXBQMFE5cTh1eGM1NW1KcTJiTFM4dUZEZHY3cTJpSjNMenF0R2Q5ZTBwUVV3dmxDT2lfeFR3RW5fRnFRVXEyN2pKLVBaa01UQVRwTkstajdXaVR3WlNTUlV1Rm01REFULVphMA?oc=5" target="_blank" rel="noopener">《KPop Demon Hunters》在Netflix前十榜单停留一整年</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Google News</span>
+    <span>· 0619google-kpop</span>
+  </div>
+  <div class="summary">据Deadline报道，韩剧《KPop Demon Hunters》已在Netflix全球前十榜单中停留一整年，自上线以来持续位列每周Top 10，展现了其长期的全球热度。</div>
+  <ul class="facts">
+    <li>《KPop Demon Hunters》在Netflix全球前十榜单中连续停留一年</li>
+    <li>该剧集自上线以来持续位列Netflix每周Top 10</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxNNC13NGxwaGY1OHl3NC1MU1VBbGNiZlRxSDZnZFVsbmhiNlJJMXZIeGRYeDU5ZENndUYwbmR2ZzhzLWVIWlBvMDJyV1dKTVU2WWtnQ2E5LS16cU1kUkRMeFpiVjY2ZUFKenI1Mld6djgtb0hFVGVtOW9nWnJJNVVPMXFwOTBNOVMwdUFNYjJBb0VGNEN6X3B3QWF0VVA0bVFN?oc=5" target="_blank" rel="noopener">《KPop恶魔猎人》编剧在创作电影期间公开双性恋身份</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Google News</span>
+    <span>· 0616google-kpop</span>
+  </div>
+  <div class="summary">电影《KPop恶魔猎人》的编剧在创作该片期间公开了自己的双性恋身份，该消息由媒体Autostraddle报道。</div>
+  <ul class="facts">
+    <li>电影《KPop恶魔猎人》的编剧在创作该片期间公开了自己的双性恋身份</li>
+    <li>该消息由媒体Autostraddle报道</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcksxQzhEcnJoV0pva0hJam5Cbml3aHhNZkhVcldtU29QYlVtQUw2QXgyUjgtTHBZT2pkUFZtQ3pDRW00dnU2WFZKMExrYVQyVTk4UFI2YmNhNUZxeUJXYzRHb280emw1RFhpNDVqOU55VHBOS1RoZkJ3RTBKRlNqdzMtVVNNRGNGWUg3dGU5dVVSQ0pIR215TkRtUHVwbVpkUF9DTGFLbjk0MjBra0doT2J6UzNvb09ZbUhv?oc=5" target="_blank" rel="noopener">《KPop: Demon Hunters》创Netflix历史，连续一年位居前十</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Google News</span>
+    <span>· 0617google-kpop</span>
+  </div>
+  <div class="summary">据What's on Netflix报道，韩剧《KPop: Demon Hunters》在Netflix全球前十榜单中连续停留一年，创下平台历史纪录，成为Netflix上持续上榜时间最长的剧集之一。</div>
+  <ul class="facts">
+    <li>《KPop: Demon Hunters》在Netflix全球前十榜单中连续停留一年，创下平台历史纪录</li>
+    <li>该剧集在Netflix上的持续表现被What's on Netflix报道</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUkV4dFJJbERrTkJHOFpaaGVlS29oeEVXOV9Pcy1pS3pVTWhsczljUVlnLVM0azFjNzMyTk44Qmo3c0RmdWhraElHZHhEUVBlSEFQejU3YmRDYlZROVIyc2JUd3VOT2p6QXZvcGxXUVFjYU4wNC13N0I3dFpJV2FscWRvWnVybVJUWnBObEJsSTdNVThxcm5QUXNzbFl6U0RIdUtvZEFzbjZsSTg5dXdTNjhNeC05ajJzY3dIRVo2YTl2UQ?oc=5" target="_blank" rel="noopener">Netflix电影《KPop Demon Hunters》上映一周年：创下平台历史最高观看纪录</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Google News</span>
+    <span>· 0621google-kpop</span>
+  </div>
+  <div class="summary">Netflix电影《KPop Demon Hunters》在上映一周年之际，被确认为该平台历史上观看量最高的电影，取得了前所未有的成功。</div>
+  <ul class="facts">
+    <li>Netflix电影《KPop Demon Hunters》上映一周年</li>
+    <li>该片成为Netflix平台史上观看量最高的电影</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxQWldFRXo2YmxFQ2dpcHZvcUl1Tm9RTFNyUS1oWlM5THpiaGZZSENIY1F6QXM3Rkdia2JkZ2hhMXVTTlB6V1I2c0hsVGN3enhobjR6cmItQzVoYWJHVEZmZDFGaDVDQUI5cmdhYnZlUnIzWFpRWEl5ZWxvUWFLYjA3WjFIWGVmZ0Z2UWltRkxQQ0xMdlJldmo2UWgtMDRIUnV3czlVWHhnejdpZnBYYjZzRNIBtgFBVV95cUxNbEVKVVl4cF9FLTJLSmJfVW03YmRTeTVfYUxBQ2xXNXlJNjhmYmRVbHduMmlRcUttMk9fWXpzR09Jb3A0VndiV3F0dWJIcXdPbEZnWllJYlozd1BNVWZocF9BRnVuQ2FUdkNTYzh3TjBNTkIxeEhGQnJUc0hrT2s1RFpnb2VmUXdYZkNJTHR5elRYTmVNZDNfdm5OTkdoQk5iY2FXMmtmZXNqNjNjeGJPV0hDbnRjUQ?oc=5" target="_blank" rel="noopener">Netflix 宣布推出《KPop Demon Hunters》沉浸式体验</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Google News</span>
+    <span>· 0619google-kpop</span>
+  </div>
+  <div class="summary">Netflix 宣布将推出名为《KPop Demon Hunters》的沉浸式体验，具体细节尚未公布。该消息由 UPI.com 报道。</div>
+  <ul class="facts">
+    <li>Netflix 宣布推出《KPop Demon Hunters》沉浸式体验</li>
+    <li>该体验由 UPI.com 报道</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxNMExleXZKczhPRU00M2t3RE1lSnZ3NHFOeHA3eVpsd3dqbTRVU2F6X2NwMWtLZkl4RUxNRnBWcEdLTllOZFFBcGtkb1VHeG52YWxqcGNkZ2lMSDllTThubUVJdlpmRl9tVndGbUFPR0s0Z01GUFU2LW52MWpVd1loc3ZZbFVYM2RCN25YSkFSVFg5ZW5UZDZN?oc=5" target="_blank" rel="noopener">K-pop歌手Yves谈新曲《Nail》：过去的我会为现在的我感到骄傲</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Google News</span>
+    <span>· 0620google-kpop</span>
+  </div>
+  <div class="summary">K-pop歌手Yves在接受amNewYork采访时，谈及新曲《Nail》带来的治愈与成长。她表示，如果过去的自己能看到现在的自己，会感到骄傲。</div>
+  <ul class="facts">
+    <li>K-pop歌手Yves接受amNewYork采访，谈及新曲《Nail》</li>
+    <li>Yves表示：'如果过去的Yves能看到现在的我，她会为我感到骄傲'</li>
+    <li>Yves通过《Nail》反思治愈与成长</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxQV3BvOWFiTTNjVG1pMnFwMk96elh2TkVSTXF6cmg2VTdubnhBQkZrU2dwb3A5Si1FTWNNakhHaTdZZnVQSkltZFVMTXNFNHdZOV9ZT0VTb2NmMk5fUXZhVjNKaUpHMDEwcnd6VGVGZng5dm4tRjZGUWhzSGlYT0pQendOampFRGxuUmpBUmhOc2NfQQ?oc=5" target="_blank" rel="noopener">Netflix动画《KPop Demon Hunters》创纪录成平台史上最大作品</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Google News</span>
+    <span>· 0618google-kpop</span>
+  </div>
+  <div class="summary">Netflix宣布其动画电影《KPop Demon Hunters》成为平台史上最大作品，打破了多项纪录。原文未提供具体数据或细节。</div>
+  <ul class="facts">
+    <li>Netflix动画电影《KPop Demon Hunters》成为平台史上最大作品</li>
+    <li>该片打破了多项纪录，具体数字未在原文中提及</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMiekFVX3lxTFBTSXd2OW9YYUZZNVU3UnRlOTNVQUZXeFlLRHloeW9nNk1ZUGRkSzJvX2pWMzQ0TllrYk1hcnFxdnhod2VFUktEZDJkdHpsZ0dWamNIcW5BR0dxUWJBN2lnQTNSUWN2bGhPU0N2eTV0dDMtRGtldjJoRmln?oc=5" target="_blank" rel="noopener">HUNTR/X与Saja Boys推出限量版KPop恶魔猎人麦片</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Google News</span>
+    <span>· 0611google-kpop</span>
+  </div>
+  <div class="summary">HUNTR/X与Saja Boys联合推出了一款限量版KPop恶魔猎人主题麦片，该产品与Netflix有关联。</div>
+  <ul class="facts">
+    <li>HUNTR/X与Saja Boys合作推出限量版KPop恶魔猎人麦片</li>
+    <li>该麦片与Netflix相关</li>
+  </ul>
+</div>
+</div>
+</div>
+<div class="l1-panel" data-l1="日娱">
+<div class="l2-bar">
+  <button class="l2-btn active" data-sid="google-jdrama">Google News (30)</button>
+  <button class="l2-btn" data-sid="oricon">Oricon News (15)</button>
+</div>
+<div class="l2-panel active" data-sid="google-jdrama">
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxOQXRleHNRYkZFWDM5TGdWbjBNVC1uWGtmYXp0dmw1bnJsZWFzRU5QeVh1SEh0U2lLU2ZLVk1qcENJVWUzWVhyUkNwU2xRNVRodFVQSUI5c2VCQUZzRHZ6RWg4aDY2STRnMnNOOHVjTFFIVDdvRU9pdjc0RkJTNFRadEJObHRVVWFrRTZ3OU50dWI?oc=5" target="_blank" rel="noopener">Bellolandia发布《Electro Andes》预告片，即将在安锡国际动画节首映</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Google News</span>
+    <span>· 0621google-jdrama</span>
+  </div>
+  <div class="summary">Bellolandia发布了动画作品《Electro Andes》的预告片，该片即将在安锡国际动画节（Annecy）进行首映。</div>
+  <ul class="facts">
+    <li>Bellolandia发布了《Electro Andes》的预告片</li>
+    <li>该片即将在安锡国际动画节（Annecy）首次亮相</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVEY4ZERxQmpFWVlESzBRcnd2WXktaXkxLUhGQjgzUkxEOWFOQjUxZDJuZjdfSjNhU2FWZUFTVVdEUjktczlxYWhaNUo1RDRuQjFCYXpkWkd1bnJpVm51X0puZmRNRkt2SXRwLVRZR3RWcGZMcUt1SmoxcHdER0FaQ0JlV1VVXzZuQ2tPakQ1dkpVNEdDNnVkaFJJWmIta2pQSy16cjl1QjQ?oc=5" target="_blank" rel="noopener">《Akane-banashi》第二季动画定档2027年1月，Crunchyroll播出</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>日剧</span>
+    <span>· Google News</span>
+    <span>· 0620google-jdrama</span>
+  </div>
+  <div class="summary">《Akane-banashi》第二季动画宣布制作，定档2027年1月，将在Crunchyroll平台播出。</div>
+  <ul class="facts">
+    <li>《Akane-banashi》第二季动画宣布制作</li>
+    <li>定档2027年1月播出</li>
+    <li>由Crunchyroll平台播出</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxOeDdQMnkwbVZadTduWjRfNUhQc0d4X2lmRWNuTDN5bzJid3JyNkJxN0loaTBseE5ZUU9HSmN5bXVQZXl3ZVI3YVNjLXJVTGNXOXBHOGN1ZXFlblZZalIwUmNDM2Y4bmJfRWZjcjJGbEFYWGdoTkxUaHZUcUtFcXUtODNwamxyZTM4NjAzdzBXYw?oc=5" target="_blank" rel="noopener">MAPPA 15周年发布会公布三部Netflix动画新作进展</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>日剧</span>
+    <span>· Google News</span>
+    <span>· 0619google-jdrama</span>
+  </div>
+  <div class="summary">在MAPPA成立15周年发布会上，Netflix公布了三部即将推出的动画新作的最新进展。这些作品的具体名称和更新细节尚未披露，但发布会为粉丝提供了期待的新内容。</div>
+  <ul class="facts">
+    <li>MAPPA在15周年发布会上公布了Netflix三部动画新作的更新信息</li>
+    <li>具体作品名称及更新内容未在原文中详细说明</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxQYUsyZW9UZjFyN2xnb0lCZER1dzltY0FtWE43NHlWQVZUejBnbG5UNjlRcGtuOEdrVzZaWl82S1Jld1ZNVTVVem9UdVNiOEV2Nnc0Z3B3M2xMNTBTWURIOVBaa3BoYU1wUV9USDhWbURGbjF0V01VeVQ1VWxwNlQ4LVh4NVljSFJZZy1MWjNPM2Rld2FlZ1dMdGNzOGZoNGU2aTBlRjY1WQ?oc=5" target="_blank" rel="noopener">导演小出卓史谈原创动画《Goodbye, Lara》</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>日剧</span>
+    <span>· Google News</span>
+    <span>· 0621google-jdrama</span>
+  </div>
+  <div class="summary">导演小出卓史在Dead Rhetoric的采访中，讨论了即将推出的原创动画《Goodbye, Lara》。</div>
+  <ul class="facts">
+    <li>导演小出卓史接受Dead Rhetoric采访，讨论原创动画《Goodbye, Lara》</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxQeW83VGxFLTMtWVptMU5KZmF4dkVNZ09RQjhYajA1c3RVYXdsak5pQ0JYRUtKMWV2cXhJX3NqZXJxZV82YW1DYnlBOEx4N0N2YWJDTFBWd05CUUdXWFVHWVk4bXlTaEN4WXVFWmxRT3N5VWtmczJrcWlJdGdWeUtCYnpiczVLWnM?oc=5" target="_blank" rel="noopener">MAPPA成立15周年发布多部新作预告</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>日剧</span>
+    <span>· Google News</span>
+    <span>· 0621google-jdrama</span>
+  </div>
+  <div class="summary">日本动画工作室MAPPA在成立15周年之际，通过官方活动发布了多部新作预告，包括《咒术回战》续集、《进击的巨人》最终季等，引发粉丝期待。</div>
+  <ul class="facts">
+    <li>MAPPA在成立15周年活动中发布了多部新作预告</li>
+    <li>具体作品包括《咒术回战》续集、《进击的巨人》最终季等</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxNUUt0ZUNDUEdjbG5wdG1qai1JM1NvRFRZdkNTLWdTb19fcE5SM3BLOUV3aUVJR1VPRmVjbldrWE9FdWp2SUFzNUtDTlI3X0RRVVFTNWkyb3p2Q3oteUQ5NXRhU3ZuV1otZl9WSXctWGNZa0d1bmI2aUl0eEJsZjFNM3Z30gGHAUFVX3lxTE12X0lzMU1ITTNjbWxVSHdwWFZEV2xuT3pYbVlQSG9Hc0ptRGVTT0tJLWZTSmxSbDROaGg4WFZrTTFFckFfdjgzeGg5dkdZaXZOaE1QUU5nSG1wSjZBODloZXBMZm04Y1BsRHg4Y2RzdVpDRURYSE4wdGd2YzgtWVdIcXVzekZjcw?oc=5" target="_blank" rel="noopener">《The Splash》第8集：漫画与动漫 - WNCT</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>日剧</span>
+    <span>· Google News</span>
+    <span>· 0621google-jdrama</span>
+  </div>
+  <div class="summary">原文未提及具体行为，仅称：The Splash Episode 8: Manga and Anime - WNCT</div>
+  <ul class="facts">
+    <li>原文未提及具体行为，仅称：The Splash Episode 8: Manga and Anime - WNCT</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxOQkxMYUVBYjF5ZEpzeklLLU83LXNxZHk0dC1UcmtLNGUwSmhQbGJXZjViYy15VTIzWDlWUHNJcTllbEFTZExpZk5WR2o4RkduYV9BcUJPNEdudU5qczVEdGZnS3ZaYkFuTFdVTVFrYlBzSlFqcGhXUzJMbkhJQUxFZnk5X3RFOFdBSVE?oc=5" target="_blank" rel="noopener">《Akane-banashi》团队专访：Anime Herald对话幕后主创</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>日剧</span>
+    <span>· Google News</span>
+    <span>· 0621google-jdrama</span>
+  </div>
+  <div class="summary">Anime Herald近日发布了与《Akane-banashi》团队的专访，深入探讨了该作品的创作背景、角色设计及制作过程中的趣事。团队分享了从漫画到动画的改编思路，以及如何通过声音和画面呈现落语艺术的魅力。</div>
+  <ul class="facts">
+    <li>Anime Herald发布了对《Akane-banashi》团队的专访</li>
+    <li>专访内容涉及作品创作、角色设计等幕后细节</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxPQlRjejJTNkMxanlFdE1NcnpWWEJLUW0zZVZTVDhESlVfX09GRFF4TERaaTNJUmZLa3lFeC01ZDlOMnZma19WWlJubUZGQVVDVDUyVTFELVp1R0ROVGpObnJNSzVtU0ZMLXZFbm1jQzVhSXRYcWdlRDZ0N3l4S0E1UDY0M0dOaDZLM0d1RFFvTG5veFl6dzBJY0Jpcw?oc=5" target="_blank" rel="noopener">10部适合与女友共赏的动漫推荐，非动漫迷也会爱上</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>日剧</span>
+    <span>· Google News</span>
+    <span>· 0618google-jdrama</span>
+  </div>
+  <div class="summary">Polygon.com发布了一篇推荐文章，列出了10部适合与女友一起观看的动漫，这些作品即使是非动漫迷也会喜欢。文章旨在为情侣提供共同观影的选择，但未具体列出动漫名称或详细理由。</div>
+  <ul class="facts">
+    <li>Polygon.com发布文章推荐10部动漫，适合与女友一起观看，即使非动漫迷也会喜欢</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxNRS1ibEZKSlNGVG5sQTlxU1hfbFM0R0thYklWTlJSS2ExRFl4bW5qMnBGcDQtcjlhWVg5UjVxVHZYMWF3Rm5PV3JhMlQyVk95aklQUFc1TkJkd0duYThSckM5ZllnQ1RXZEU4TzBvdVBiemZCQk5QUmFINkx5cTlxT3MzRzlnclRsSWRKQl92eWJqLWNDbUVXM1hmR191RGVEaVN1TldmSFZzbEM2QU5paDZvakRmVUZxWTNBSHQxZmlObEpRN3dV?oc=5" target="_blank" rel="noopener">《战姬与蛮王》动画最终决战预告片与视觉图公开</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>日剧</span>
+    <span>· Google News</span>
+    <span>· 0620google-jdrama</span>
+  </div>
+  <div class="summary">动画《战姬与蛮王》公开了最终决战的预告片和视觉图，该内容由Crunchyroll发布。</div>
+  <ul class="facts">
+    <li>动画《战姬与蛮王》公开了最终决战的预告片和视觉图</li>
+    <li>该预告片和视觉图由Crunchyroll发布</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxPckFVSUMwSHVvVzd6VGp4SWVMdEtJeXk3ZlNLYzNLZmV0aVpOcE11VkZqcllwQUJaeEo0RkdWcDI0eGVqdnFfcDlGcjNMQWRXak45N1dxWjZIeGFKSmlFV0RzOUt4YzN4Sl84dFl5clBRSjFTMFJBY0ZQQ3lxSnZXcUNzZElFZ2NKbGJwTXFTN2R0dw?oc=5" target="_blank" rel="noopener">Crunchyroll 2026年夏季动画阵容公布</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>日剧</span>
+    <span>· Google News</span>
+    <span>· 0618google-jdrama</span>
+  </div>
+  <div class="summary">[原文未提及具体行为，仅称：Crunchyroll宣布了2026年夏季动画阵容]</div>
+  <ul class="facts">
+    <li>Crunchyroll宣布了2026年夏季动画阵容</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSGJ3Z3lwNmdnSTRYd3Q1SFljVTNmdUxmWFZ3N0hmelJpLUI1RHRFMTc4R3hPS3RmMjFSX0Y2QXV6TDZXMm9BTENDWWNLd0ZmeWFWbnk3TnpMalliekVvdW9RenVSaHVSVjhiQVY0RngzLUlqbzlRNGJ1OFdaQzZnZGpKVnlvNDk0OUpLcE5qREtqd2N1ZzlpcFVYVF9TbGE4X0VtTkF5QmxVWUtPckxSOE1JX19JYzU5dDgyYmpTWjNRSUtDeC11NEdTdnFzLUxIbTFteA?oc=5" target="_blank" rel="noopener">《HELL MODE》第二季动画公开新声优、召唤兽及片尾曲演唱者</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>日剧</span>
+    <span>· Google News</span>
+    <span>· 0619google-jdrama</span>
+  </div>
+  <div class="summary">《HELL MODE》第二季动画公开了新的声优阵容、召唤兽以及片尾曲演唱者信息。</div>
+  <ul class="facts">
+    <li>《HELL MODE》第二季动画公开新声优阵容</li>
+    <li>公开新召唤兽信息</li>
+    <li>公开片尾曲演唱者</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxPSm1JS0tMdUF1WUlPVGl0ZzllN05tNUh4LWtfS3BjTTB5V2NxQWNmWFdpUWlNZlpUR0U2WWxaLXlxZmFtbTJqQ1BQSWRpTVNTbmNOa3lvNi05NUt0YWVraE9tT2s4eENNUGNzanZ4MUNJa1VHekNqbTdydVNESGtZTnp4U3dnRUROTEpDSFRjc3BrZVVic3ZXcTV5VDFSWE42aFRMV3V3RU5ka1QwREM0bHp2MTlCSGIyNXVlYllYRGl3TEJXZEpHb1Q2RQ?oc=5" target="_blank" rel="noopener">《魔法少女奈叶EXCEEDS Gun Blaze Vengeance》动画公开新预告</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>日剧</span>
+    <span>· Google News</span>
+    <span>· 0621google-jdrama</span>
+  </div>
+  <div class="summary">《魔法少女奈叶EXCEEDS Gun Blaze Vengeance》动画公开了新预告，该预告由Crunchyroll发布。</div>
+  <ul class="facts">
+    <li>《魔法少女奈叶EXCEEDS Gun Blaze Vengeance》动画公开新预告</li>
+    <li>预告片由Crunchyroll发布</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUjVUMzdKaXExZ0Q3Xy1sMXRDSkFueVE5ajUtLXBUTF9XU040QlZDZDNSVDd1dWotY0pnNlY5UDNZMDE0ZlByVVplUkY4WWNoYlVsUHd0WmNjbktUREVKSmwtVjNqR25KMGNwbXdFY2hMUFZNYjhib1Y3RDBJanZGUExkVlUwYmJjZ2QwWmhMS21VbVJQeDl0STNYWndPRVhuQ3l2T0hIbUVaUDlwbHo2cnF5bWIxM2hhMm1HZGNVakdEZw?oc=5" target="_blank" rel="noopener">《乱马1/2》第三季动画发布新预告，更多武术疯狂场面曝光</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>日剧</span>
+    <span>· Google News</span>
+    <span>· 0619google-jdrama</span>
+  </div>
+  <div class="summary">《乱马1/2》第三季动画通过Crunchyroll发布新预告，展示了更多武术疯狂场面，引发粉丝期待。</div>
+  <ul class="facts">
+    <li>《乱马1/2》第三季动画发布新预告</li>
+    <li>预告片展示了更多武术疯狂场面</li>
+    <li>该预告由Crunchyroll发布</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxOUm5yV2VHbUM1U2RhRy1EeXVmek50enlXQklXTllER3czc0NMVHllOS1fSGlYYmdsM2RXdWJyTW81MGdDUnVwdkkwSlJFVFR2QlBvVEJ1RVhsV0cyVUNlLVBLUFlnNThlN1pSY3VHd3JUYXF2WElISzBQdHBVVDVUMnJrUEpvd05EWXg1V0JGS3lWX0pxX2FjSG5Yd2RuVkQtR052ZWFYUXJmQmJaZFpFWURWOUlwU0lOVFBvR3VsNzAyYjFrY1RsbGljcw?oc=5" target="_blank" rel="noopener">《世界最强后卫》动画新预告公开主题曲演唱者</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>日剧</span>
+    <span>· Google News</span>
+    <span>· 0618google-jdrama</span>
+  </div>
+  <div class="summary">动画《世界最强后卫》通过新预告片公布了主题曲的演唱者，该预告由Crunchyroll发布。</div>
+  <ul class="facts">
+    <li>动画《世界最强后卫》发布新预告</li>
+    <li>预告中公开了主题曲演唱者信息</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLXNaT2tTSTViVXJZN0owS3BIdWRwajM0ZXhJTnpVS1Zzc1g0M3pPVlR2S0J5X3lzNFktelBpMmlLb2dmcTRRYkxaa0NtSkU3akN6Ni1TVDdteExmcTFiU19Sd2VDNW9QZnFON0JNeVZRaGowS3BnM0oxN21tQm5NV1FGWkJQN0pOeDdDcEppLWtQM09zbFRuY0llRC1Bc0txT1ZYcjNfMlhMYTQ?oc=5" target="_blank" rel="noopener">动画《愤怒女士的复仇指南》追加两位声优</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>日剧</span>
+    <span>· Google News</span>
+    <span>· 0619google-jdrama</span>
+  </div>
+  <div class="summary">动画《A Livid Lady's Guide to Getting Even》（暂译：愤怒女士的复仇指南）通过Crunchyroll公布了两位追加声优的信息。</div>
+  <ul class="facts">
+    <li>动画《A Livid Lady's Guide to Getting Even》宣布追加两位声优</li>
+    <li>该消息由Crunchyroll发布</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ3BqREg2ekVwakZXSnJnYjRqNUZ6bUMyY0M2UldVQ3F2ZE9SazJsSVluS3NxWkRkOWlIbjJEaHFySHJxckJYZ0tQNTZQS0Z0c2NtZVVPb1hrVHJZaEVOZmR1ZHREZzRqYXBsU1VPZFFUc2RMWG5jNWJSNDFEalUwT0FiMWxFVzgxUG9od1l2T0NQYUNJVnRnaFpubkZJY2FTWlcxM3oxNl9PVFA1ZW9TcVhMTFFFQU01RlR6N1B4SGxtQQ?oc=5" target="_blank" rel="noopener">《电锯人》暗杀篇动画公开第二弹预告</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>日剧</span>
+    <span>· Google News</span>
+    <span>· 0619google-jdrama</span>
+  </div>
+  <div class="summary">《电锯人》暗杀篇动画公开了第二弹预告片，该预告由Crunchyroll发布。</div>
+  <ul class="facts">
+    <li>《电锯人》暗杀篇动画公开第二弹预告片</li>
+    <li>预告片由Crunchyroll发布</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxPZV92UnhEMnYzb1dJM0xTX1BUZzJ1QVRYYVdhNXlsZk0tT0xBcGtvWXlZYXhjc21NTHBSSExqZU5XeldFS1gweTJTN0dESkNvMzE1LTg4b1RxSXRiQ05vclBTR1FfT2E3WWhIV25BdVh1YmNBLXpfMExfZzJUS3d6dWozUGNHbGd1azJkTU9R?oc=5" target="_blank" rel="noopener">Crunchyroll 2026年夏季动画配音阵容公布：BLACK TORCH、无职转生第三季等</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>日剧</span>
+    <span>· Google News</span>
+    <span>· 0618google-jdrama</span>
+  </div>
+  <div class="summary">Crunchyroll 公布了2026年夏季动画配音阵容，包括《BLACK TORCH》和《无职转生：到了异世界就拿出真本事》第三季等作品。</div>
+  <ul class="facts">
+    <li>Crunchyroll 公布了2026年夏季动画配音阵容</li>
+    <li>包括《BLACK TORCH》和《无职转生：到了异世界就拿出真本事》第三季</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxQVHFrZHRlMEw2dWZ0T2dGZ0xSbnVIWTNNMGJEc01HT2JTei1HODFZemlhb0NoUlRqcDc5Qk1aNTBBNFZKTTJ2VEE2ekYxTllqbXVtTU9IejJGRjlBaUhnSmswWmc0d2JEWERfdkVVSVJhY25zdzg4RUpVVTFZbkI0dUVscWxvR21GZ1BFYzZmRHMzMm8?oc=5" target="_blank" rel="noopener">aespa谈新专辑并公开十大最爱动漫</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>韩娱</span>
+    <span>· Google News</span>
+    <span>· 0619google-jdrama</span>
+  </div>
+  <div class="summary">aespa在Crunchyroll的采访中讨论了他们的新专辑，并分享了他们最喜欢的十大动漫作品。</div>
+  <ul class="facts">
+    <li>aespa在Crunchyroll采访中讨论新专辑</li>
+    <li>aespa公开了他们的十大最爱动漫列表</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxQaE41cUNOVDJOQWNKQnNnQ095cjVUUU9YMUFBeGVxUnNVS0x1eU1tVk1ydXQ4bGh0VzZvN0otbGFLUmNac3hjeTRMN0pXOTh3RlFpVGZxVW9oZkVmNGtNOVZfODBEdWdNSEV2V3pydTQwZ1M5TGlUMmg4TTNuZ1VrVWVCei03aExQVGMySTY3cHo2YW9OMFpoTVZFTUQ4UFB6SjRTZEV0bmtOSVhLa0gxbg?oc=5" target="_blank" rel="noopener">《Goodbye, Lara》动画公开新视觉图、预告及追加声优</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>日剧</span>
+    <span>· Google News</span>
+    <span>· 0620google-jdrama</span>
+  </div>
+  <div class="summary">动画《Goodbye, Lara》于近日公开了新的视觉图、预告片以及追加声优阵容，具体播出时间尚未公布。</div>
+  <ul class="facts">
+    <li>动画《Goodbye, Lara》公开新视觉图</li>
+    <li>动画《Goodbye, Lara》公开新预告</li>
+    <li>动画《Goodbye, Lara》追加声优阵容</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxQSzdYYnpLMmphYVR5WEdSX1FKNzFNaDUwU2U3QzNwWENoNXRGeXcyd0pKS203WkZvdUkxckR4QWlqMkVUV2twTTBsd0g3X0RMMGUxcDB0UU9yMTVIeEJjU183WjJIMHFidGp1MVBMcWJiNl9mYXBFeE54S2tmLUx1OUJRWGRsUXZ2RnM2cWlzY2t3akFK?oc=5" target="_blank" rel="noopener">原创动画《Jimoto Saiko!》公开预告片与视觉图</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>日剧</span>
+    <span>· Google News</span>
+    <span>· 0619google-jdrama</span>
+  </div>
+  <div class="summary">原创动画《Jimoto Saiko!》通过Crunchyroll公开了首支预告片与视觉图，具体播出时间及制作阵容尚未公布。</div>
+  <ul class="facts">
+    <li>动画《Jimoto Saiko!》公开了预告片与视觉图</li>
+    <li>该信息由Crunchyroll发布</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTGZURVRQV2d5eURLQWQyeUVSM0dEUnc4NXpxWGFQaVpxMjlzbGVjc2RvN2EtcHNoWjNjbHFEY21sa2VrUmlPWmhZM0trMFBJQU5CZThkVE41cTJoTDR5c2V1ZkVSTTBYOW9ocTZCY0ZxcEJSYmQ0VUFyQnVQNFdUS1Y0b2c3TWJJ?oc=5" target="_blank" rel="noopener">动画《Beat & Motion》发布预告片及视觉图，定档2027年播出</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>日剧</span>
+    <span>· Google News</span>
+    <span>· 0619google-jdrama</span>
+  </div>
+  <div class="summary">动画《Beat & Motion》发布了预告片和视觉图，确认将于2027年首播。该消息由Crunchyroll报道。</div>
+  <ul class="facts">
+    <li>动画《Beat & Motion》发布了预告片和视觉图</li>
+    <li>该动画定于2027年首播</li>
+    <li>由Crunchyroll报道</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxNeDNvWHpNTmhVaUY0Z3U2YUhyVERPSU5QSXQ2c2FfdXZENHlySXROdWJRQzNkZWdqd29ITFBSNmQ0MHh0NGNDR2NGeXVNYjZMWERrVVVya1AxXzNVemI3N1VRd1ZaN2VFbV9ENS1MLTRNeEwyREVkbUlyckQ3THpyN0lzMk9xdEVIWGZsMkVqc2VReEhoT1pj?oc=5" target="_blank" rel="noopener">《攻壳机动队》动画发布正式预告，即将在Crunchyroll首播</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>日剧</span>
+    <span>· Google News</span>
+    <span>· 0616google-jdrama</span>
+  </div>
+  <div class="summary">《攻壳机动队》动画发布了正式预告，该作品即将在Crunchyroll平台首播。</div>
+  <ul class="facts">
+    <li>《攻壳机动队》动画发布正式预告</li>
+    <li>该动画即将在Crunchyroll平台首播</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNbF81cUFKNlYyejRiRWgwbERPaFVPZl9qOFRoempaR0E0aEtGZWFVYy03bEZKdWNlZXhpWXE2eF9GeElMTDBGYW1qbzQ3bVh1ai1jVnlfQ05RU2VBN3QyV3RjZVdWb2NJUEI5eEJSUkFYUTdiX0dIa1U1c3VBVjZINF90QjE?oc=5" target="_blank" rel="noopener">Netflix新动画《缎带英雄》大胆改编手冢治虫《缎带骑士》</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>日剧</span>
+    <span>· Google News</span>
+    <span>· 0618google-jdrama</span>
+  </div>
+  <div class="summary">Netflix宣布推出新动画《缎带英雄》，该作品是对手冢治虫经典漫画《缎带骑士》的大胆新改编。</div>
+  <ul class="facts">
+    <li>Netflix推出新动画《缎带英雄》，改编自手冢治虫的《缎带骑士》</li>
+    <li>该作品被描述为对原作的'大胆新诠释'</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxOR2JzUU1odlc0QUFoM0pscnBHanBla1hXMVdrd28ySHAwblQyUkVDeHJTYThNazA4X2xlTDRnTXdXMjJiSk9UVEh2SkpJdnVTeFRZanNxRjRHMi14Zzc2V2FNZ3RwV2RfQTkyaHlUTnFpLThlaW5hNTZscS1FRjE1OTBad2ZBZmhUcVhoYXgzNnpUYjBnM2UydEZ3YkYtTFRETWtIemZka0dKNW5Fdk5CdDBR?oc=5" target="_blank" rel="noopener">《咒术回战》第四季动画发布先导预告</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>日剧</span>
+    <span>· Google News</span>
+    <span>· 0619google-jdrama</span>
+  </div>
+  <div class="summary">《咒术回战》第四季动画发布了先导预告，该预告由Crunchyroll发布。</div>
+  <ul class="facts">
+    <li>《咒术回战》第四季动画发布先导预告</li>
+    <li>预告片由Crunchyroll发布</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxPREZHa1hnM3luSy1yb19Oemk2dnRMOUdYM3lMZmR5VWZqSEVPVWx4LVEyVHJUNmhUMFJpaE5DZGZLNnJPU3ByNFB1MmUyajFSNXVPbDdCRU91cEhiaFpDbUF4dUZqemItcTdYOTNsMUFQQnNEQ3lFTzZ4NDRMTDdqcjBIcjMzWnB5ckZKdzgyZGZLZDQ?oc=5" target="_blank" rel="noopener">《异兽魔都》第三季动画发布新预告，混乱升级</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>日剧</span>
+    <span>· Google News</span>
+    <span>· 0619google-jdrama</span>
+  </div>
+  <div class="summary">《异兽魔都》第三季动画发布新预告视频，由Crunchyroll发布，预告片承诺更多混乱场面。</div>
+  <ul class="facts">
+    <li>《异兽魔都》第三季动画发布新预告视频</li>
+    <li>预告片由Crunchyroll发布</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxNQUU2ZkdxR0ZUOFBnMVBTYlZqdXByV0RqX3VKdWFUOW5VSnRVQzdTT0hMVVJKOE04ZWRnckk3Zm12X0xSbmZkb0FfNjRzeXN5ZXQ0RzBRRm8zRllaa09fcUM0UXB5djlXUDQ4SmFlUjNlTUV1VTQtT0s0V2VnUk1iVlN1UUd1MWV5dWxrMHRtNkhkMnhndEk2Y1hBN20zNExmck4tX0M1eUZwQWVH?oc=5" target="_blank" rel="noopener">《Kanan小姐超可爱》第二季动画制作决定，Crunchyroll播出</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>日剧</span>
+    <span>· Google News</span>
+    <span>· 0621google-jdrama</span>
+  </div>
+  <div class="summary">动画《Mistress Kanan is Devilishly Easy》（暂译：Kanan小姐超可爱）宣布制作第二季，将在Crunchyroll平台播出。</div>
+  <ul class="facts">
+    <li>动画《Mistress Kanan is Devilishly Easy》（暂译：Kanan小姐超可爱）第二季制作决定</li>
+    <li>播出平台为Crunchyroll</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPZHdLWEt2OTJRdFNNaFBSeHZpMUVvcUtEYmxzOUVnSjlWX0ZoWlBkME9QRmFKT0RFV1VUT2xTMDRyZFdtMjV1dGw2MUM0OGdGR3FRLXFFaXp3aUY4Z25rOGFUZGllbXBsTzh2VDgtelNXZW9yQ3RTM3NSM2RVSE0tUTFja0ljX05mOUNlVEtnVWUwNTBIeUlGVFliN1Y3c0JUMEUtX1VwVTF1cERt?oc=5" target="_blank" rel="noopener">《神乐钵》动画公布锻刀匠六平国重配音阵容</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>日剧</span>
+    <span>· Google News</span>
+    <span>· 0619google-jdrama</span>
+  </div>
+  <div class="summary">动画《神乐钵》宣布了角色六平国重的配音阵容，该角色由知名声优出演。具体配音演员信息由Crunchyroll发布。</div>
+  <ul class="facts">
+    <li>动画《神乐钵》公布角色六平国重的配音演员</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JTnl5cmZnajZzNnVNekgwSGozYVFOMWplZjl2VE1qbnY5OWZCUm5kSHBSR29uSjBCalVzODN5TzdJYW9QOXVoaWRUWUYtcHA5UjBEbnNzeTQ4bUg5bmJwT29ZUXY?oc=5" target="_blank" rel="noopener">喜欢《我独自升级》？推荐8部必看动漫，第3部让你惊艳</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>日剧</span>
+    <span>· Google News</span>
+    <span>· 0621google-jdrama</span>
+  </div>
+  <div class="summary">Polygon.com发布文章，为喜欢《我独自升级》的观众推荐8部动漫，其中第3部被特别强调会令人惊艳。</div>
+  <ul class="facts">
+    <li>Polygon.com发布文章推荐8部动漫，针对喜欢《我独自升级》的观众</li>
+    <li>文章特别强调第3部推荐作品将令人惊艳</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxQVEdORjllUjV1blgyRWRVbHB3RUN2Z0M4MmRHZWJGUUhkM1p3Mk1GSHktUFFqa1pmZWhrQklnLV91d1JHOGxHNENaMTZpRFVZM0dvRlB1QXB2UFRDQmdHVndaYUlaSHRZdUZuc1JlMVNhUWUzb0dmbkxTVGlIak96TnYzcG1XQXBYQ2trYXhjX3JQOWw2QkZv?oc=5" target="_blank" rel="noopener">MAPPA 15周年活动公布《电锯人》《咒术回战》等新消息</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>日剧</span>
+    <span>· Google News</span>
+    <span>· 0619google-jdrama</span>
+  </div>
+  <div class="summary">MAPPA在其15周年纪念活动上公布了关于《电锯人》《咒术回战》等作品的新消息，但具体细节未在原文中披露。</div>
+  <ul class="facts">
+    <li>MAPPA在15周年纪念活动上公布了《电锯人》《咒术回战》等作品的新消息</li>
+    <li>具体新消息内容未在原文中详细说明</li>
+  </ul>
+</div>
+<div class="card">
+  <h3><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU0JqRERnemRxVlRGWFAyX1FDWWloNUhSZ3RUS0dCSV9Yc0xPTUNnVmU4VjE2RmIzdV9zUE1GTmpfeFdSWnFnUzc1QlVCSGdRRjhfNkg1a1ZJSVNIU2FIRUdORGtMZmpBLVFPOUdUNG1BRGhJSkpSbVh3V1gyUjVwZTFLbjJmV2kxV2NDc1Z6SVdWbEptdDNyWjFVb1FjaWVORzBLbEVvTlVmUQ?oc=5" target="_blank" rel="noopener">《伪恋天使》动画公开预告片与视觉图</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>日剧</span>
+    <span>· Google News</span>
+    <span>· 0619google-jdrama</span>
+  </div>
+  <div class="summary">动画《Fall in Love, You False Angels》（暂译《伪恋天使》）公开了预告片与视觉图，相关信息由Crunchyroll发布。</div>
+  <ul class="facts">
+    <li>动画《Fall in Love, You False Angels》公开了预告片与视觉图</li>
+    <li>该信息由Crunchyroll发布</li>
+  </ul>
+</div>
+</div>
+<div class="l2-panel" data-sid="oricon">
+<div class="card">
+  <img src="https://contents.oricon.co.jp/pc/img/_parts/icon/label-local03.png" style="float:right;width:80px;height:80px;object-fit:cover;border-radius:6px;margin-left:12px;" loading="lazy" alt="">
+  <h3><a href="https://www.oricon.co.jp/news/2462793/" target="_blank" rel="noopener">草彅刚首度海外YouTube拍摄访釜山，韩网友赞其“第一代韩流日本艺人”</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>日娱</span>
+    <span>· Oricon News</span>
+    <span>· 0621oricon</span>
+  </div>
+  <div class="summary">日本艺人草彅刚在其官方YouTube频道发布了首次海外拍摄的视频，记录了他访问韩国釜山的行程。该视频引发韩国网友热议，有网友称赞他是“第一代喜欢韩国的日本艺人”，并表达感动之情。</div>
+  <ul class="facts">
+    <li>草彅刚在其官方YouTube频道公开了首次海外拍摄内容，地点为韩国釜山</li>
+    <li>韩国网友反应热烈，称其为“第一代喜欢韩国的日本艺人”并表达感动</li>
+  </ul>
+</div>
+<div class="card">
+  <img src="https://contents.oricon.co.jp/pc/img/_parts/icon/label-local03.png" style="float:right;width:80px;height:80px;object-fit:cover;border-radius:6px;margin-left:12px;" loading="lazy" alt="">
+  <h3><a href="https://www.oricon.co.jp/news/2462798/" target="_blank" rel="noopener">NHK足球官推预告本田圭佑将发布重要消息，引发热议</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>日剧</span>
+    <span>· Oricon News</span>
+    <span>· 0621oricon</span>
+  </div>
+  <div class="summary">2026年6月21日，NHK足球官方X账号发布推文，预告本田圭佑将在瑞典战主解说中发布重要通知，推文中“重要通知”的重复表述引发网友热议。</div>
+  <ul class="facts">
+    <li>2026年6月21日，NHK足球官方X账号更新，标题为“瑞典战主解说 本田圭佑先生的重要通知”</li>
+    <li>该推文因“重要通知”的重复表述引发网友广泛反响</li>
+  </ul>
+</div>
+<div class="card">
+  <img src="https://contents.oricon.co.jp/pc/img/_parts/icon/label-local03.png" style="float:right;width:80px;height:80px;object-fit:cover;border-radius:6px;margin-left:12px;" loading="lazy" alt="">
+  <h3><a href="https://www.oricon.co.jp/news/2462586/" target="_blank" rel="noopener">《魔法少女奈叶》8年新作PV解禁，新角色篠宫真奈由上坂堇配音</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>日剧</span>
+    <span>· Oricon News</span>
+    <span>· 0621oricon</span>
+  </div>
+  <div class="summary">2026年6月21日，《魔法少女奈叶》系列时隔8年的全新电视动画《魔法少女奈叶 EXCEE...》公开了PV，并宣布新角色篠宫真奈由上坂堇配音。</div>
+  <ul class="facts">
+    <li>2026年6月21日，《魔法少女奈叶》系列8年来的全新电视动画《魔法少女奈叶 EXCEE...》公开PV</li>
+    <li>新角色篠宫真奈由上坂堇配音</li>
+  </ul>
+</div>
+<div class="card">
+  <img src="https://contents.oricon.co.jp/pc/img/_parts/icon/label-local03.png" style="float:right;width:80px;height:80px;object-fit:cover;border-radius:6px;margin-left:12px;" loading="lazy" alt="">
+  <h3><a href="https://www.oricon.co.jp/news/2462796/" target="_blank" rel="noopener">上田绮世父亲节梅开二度，模特妻子晒娃握父亲应援物</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>日娱</span>
+    <span>· Oricon News</span>
+    <span>· 0621oricon</span>
+  </div>
+  <div class="summary">2026年6月21日，日本国家队前锋上田绮世在世界杯预选赛中攻入两球。同日，其妻子、模特由布菜月在Instagram更新动态，庆祝父亲节并提及丈夫的进球表现，还晒出0岁孩子紧握父亲应援物的照片。</div>
+  <ul class="facts">
+    <li>2026年6月21日，日本国家队前锋上田绮世在世界杯预选赛中攻入两球</li>
+    <li>同日，上田绮世的妻子、模特由布菜月在Instagram更新动态，庆祝父亲节并提及丈夫的进球表现</li>
+    <li>由布菜月晒出0岁孩子紧握父亲应援物（アクスタ）的照片</li>
+  </ul>
+</div>
+<div class="card">
+  <img src="https://contents.oricon.co.jp/pc/img/_parts/icon/label-local03.png" style="float:right;width:80px;height:80px;object-fit:cover;border-radius:6px;margin-left:12px;" loading="lazy" alt="">
+  <h3><a href="https://www.oricon.co.jp/news/2462524/" target="_blank" rel="noopener">中岛健人出演《专业排行榜》大谈《铁臂阿童木》主题歌兴奋不已</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>日娱</span>
+    <span>· Oricon News</span>
+    <span>· 0621oricon</span>
+  </div>
+  <div class="summary">歌手兼演员中岛健人将于2026年6月22日20:55出演TBS系节目《专业排行榜》。他在节目中谈及自己喜爱的《铁臂阿童木》主题歌，表示从中感受到日本文化，并展现出对动漫的热爱。</div>
+  <ul class="facts">
+    <li>中岛健人将于2026年6月22日20:55出演TBS系节目《专业排行榜》</li>
+    <li>中岛健人在节目中表达了对《铁臂阿童木》主题歌的喜爱，称感受到日本文化</li>
+  </ul>
+</div>
+<div class="card">
+  <img src="https://contents.oricon.co.jp/pc/img/_parts/icon/label-local03.png" style="float:right;width:80px;height:80px;object-fit:cover;border-radius:6px;margin-left:12px;" loading="lazy" alt="">
+  <h3><a href="https://www.oricon.co.jp/news/2462784/" target="_blank" rel="noopener">Mrs. GREEN APPLE在MUSIC AWARDS JAPAN 2026斩获5项大奖</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>日娱</span>
+    <span>· Oricon News</span>
+    <span>· 0621oricon</span>
+  </div>
+  <div class="summary">Mrs. GREEN APPLE在6月13日举行的日本最大国际音乐奖MUSIC AWARDS JAPAN 2026上，以团队形式共获得5个奖项。</div>
+  <ul class="facts">
+    <li>Mrs. GREEN APPLE在6月13日举行的MUSIC AWARDS JAPAN 2026颁奖礼上获得5个奖项</li>
+    <li>该奖项是日本国内最大规模的国际音乐奖</li>
+  </ul>
+</div>
+<div class="card">
+  <img src="https://contents.oricon.co.jp/pc/img/_parts/icon/label-local03.png" style="float:right;width:80px;height:80px;object-fit:cover;border-radius:6px;margin-left:12px;" loading="lazy" alt="">
+  <h3><a href="https://www.oricon.co.jp/news/2462790/" target="_blank" rel="noopener">西日本首台加密货币ATM将在大阪天王寺MIO登场，支持买卖及现金提取</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>日剧</span>
+    <span>· Oricon News</span>
+    <span>· 0621oricon</span>
+  </div>
+  <div class="summary">COINHUB与JR西日本SC开发达成协议，将在商业设施天王寺MIO设置西日本首台加密货币ATM，支持加密货币的购买、出售及现金提取功能。</div>
+  <ul class="facts">
+    <li>COINHUB与JR西日本SC开发达成协议，将在商业设施天王寺MIO设置西日本首台加密货币ATM</li>
+    <li>该ATM支持加密货币的购买、出售及现金提取功能</li>
+  </ul>
+</div>
+<div class="card">
+  <img src="https://contents.oricon.co.jp/pc/img/_parts/icon/label-local03.png" style="float:right;width:80px;height:80px;object-fit:cover;border-radius:6px;margin-left:12px;" loading="lazy" alt="">
+  <h3><a href="https://www.oricon.co.jp/news/2462787/" target="_blank" rel="noopener">长友佑都晒日本队世界杯合影，球迷感动落泪</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>日娱</span>
+    <span>· Oricon News</span>
+    <span>· 0621oricon</span>
+  </div>
+  <div class="summary">日本时间2026年6月21日，日本队在2026年世界杯中以4-0战胜突尼斯队。长友佑都在社交媒体上发布了球队的集体合影，引发网友感动评论“哭了”。</div>
+  <ul class="facts">
+    <li>日本时间2026年6月21日，日本队在2026年世界杯中以4-0战胜突尼斯队</li>
+    <li>长友佑都在社交媒体上发布了球队的集体合影</li>
+    <li>网友评论称“哭了”</li>
+  </ul>
+</div>
+<div class="card">
+  <img src="https://contents.oricon.co.jp/pc/img/_parts/icon/label-local03.png" style="float:right;width:80px;height:80px;object-fit:cover;border-radius:6px;margin-left:12px;" loading="lazy" alt="">
+  <h3><a href="https://www.oricon.co.jp/news/2462788/" target="_blank" rel="noopener">岩井勇气曝与18岁差女友交往时，其父母要求“要交往就请吃饭”</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>日娱</span>
+    <span>· Oricon News</span>
+    <span>· 0621oricon</span>
+  </div>
+  <div class="summary">搞笑组合ハライチ成员岩井勇气（39岁）在20日播出的TBS综艺《人生最高餐厅》中透露，与18岁差女友奥森皋月交往时，其父母曾要求“要交往的话，就请吃饭”。</div>
+  <ul class="facts">
+    <li>搞笑组合ハライチ成员岩井勇气（39岁）在20日播出的TBS综艺《人生最高餐厅》中透露，与18岁差女友奥森皋月交往时，其父母曾要求“要交往的话，就请吃饭”。</li>
+    <li>岩井勇气与奥森皋月年龄相差18岁，奥森当时18岁。</li>
+  </ul>
+</div>
+<div class="card">
+  <img src="https://contents.oricon.co.jp/pc/img/_parts/icon/label-local03.png" style="float:right;width:80px;height:80px;object-fit:cover;border-radius:6px;margin-left:12px;" loading="lazy" alt="">
+  <h3><a href="https://www.oricon.co.jp/news/2462218/" target="_blank" rel="noopener">《有吉》节目预告：Taka&Toshi·Toshi挑战宝可梦冠军之路</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>日娱</span>
+    <span>· Oricon News</span>
+    <span>· 0621oricon</span>
+  </div>
+  <div class="summary">《有吉ぃぃeeeee!》将于2026年6月21日22:00在东京电视台播出，本期节目主题为Taka&Toshi组合的Toshi挑战成为宝可梦冠军。</div>
+  <ul class="facts">
+    <li>节目《有吉ぃぃeeeee!》将于2026年6月21日22:00在东京电视台播出</li>
+    <li>本期内容为Taka&Toshi组合的Toshi挑战成为宝可梦冠军</li>
+  </ul>
+</div>
+<div class="card">
+  <img src="https://contents.oricon.co.jp/pc/img/_parts/icon/label-local03.png" style="float:right;width:80px;height:80px;object-fit:cover;border-radius:6px;margin-left:12px;" loading="lazy" alt="">
+  <h3><a href="https://www.oricon.co.jp/news/2462782/" target="_blank" rel="noopener">鱼韵乐团《新宝岛》Dragons Mix完整版MV公开，收录中日龙队春训及比赛影像</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>日娱</span>
+    <span>· Oricon News</span>
+    <span>· 0621oricon</span>
+  </div>
+  <div class="summary">2026年6月21日，日本职业棒球队中日龙队公开了鱼韵乐团2019年歌曲《新宝岛》改编版《新宝岛（Dragons Mix）》的完整版MV，其中包含了春季训练及官方比赛的影像。</div>
+  <ul class="facts">
+    <li>2026年6月21日，日本职业棒球队中日龙队公开了鱼韵乐团2019年歌曲《新宝岛》改编版《新宝岛（Dragons Mix）》的完整版MV</li>
+    <li>MV中包含了春季训练及官方比赛的影像</li>
+  </ul>
+</div>
+<div class="card">
+  <img src="https://contents.oricon.co.jp/pc/img/_parts/icon/label-local03.png" style="float:right;width:80px;height:80px;object-fit:cover;border-radius:6px;margin-left:12px;" loading="lazy" alt="">
+  <h3><a href="https://www.oricon.co.jp/news/2462783/" target="_blank" rel="noopener">《恶之华》公开幕后照，ano长发出镜获赞</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>日剧</span>
+    <span>· Oricon News</span>
+    <span>· 0621oricon</span>
+  </div>
+  <div class="summary">东京电视台播出的日剧《恶之华》官方X账号于6月21日更新了幕后照，艺人ano以长发造型出镜，引发粉丝热议，评论称“长发也很适合”“长发的ano酱太可爱了”。</div>
+  <ul class="facts">
+    <li>2026年6月21日，东京电视台播出的日剧《恶之华》官方X账号更新了幕后照</li>
+    <li>照片中艺人ano以长发造型亮相</li>
+    <li>粉丝反响包括“长发也很适合”“长发的ano酱太可爱了”等评论</li>
+  </ul>
+</div>
+<div class="card">
+  <img src="https://contents.oricon.co.jp/pc/img/_parts/icon/label-local03.png" style="float:right;width:80px;height:80px;object-fit:cover;border-radius:6px;margin-left:12px;" loading="lazy" alt="">
+  <h3><a href="https://www.oricon.co.jp/news/2462528/" target="_blank" rel="noopener">井之原快彦谈高桥海人与猪狩苍弥同期对决：感慨颇深</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>日剧</span>
+    <span>· Oricon News</span>
+    <span>· 0621oricon</span>
+  </div>
+  <div class="summary">井之原快彦在21日播出的日本电视台节目《ライターズ！》中，谈及高桥海人与猪狩苍弥的同期对决，表示“感慨颇深”。该节目由匿名撰稿人采访艺人，挖掘其真实面貌。</div>
+  <ul class="facts">
+    <li>井之原快彦在节目《ライターズ！》中提及高桥海人与猪狩苍弥的同期对决</li>
+    <li>节目于2026年6月21日深夜1点在日本电视台播出</li>
+  </ul>
+</div>
+<div class="card">
+  <img src="https://contents.oricon.co.jp/pc/img/_parts/icon/label-local03.png" style="float:right;width:80px;height:80px;object-fit:cover;border-radius:6px;margin-left:12px;" loading="lazy" alt="">
+  <h3><a href="https://www.oricon.co.jp/news/2462533/" target="_blank" rel="noopener">剧场版《TOKYO MER》追加卡司解禁，小手伸也、フォンチー、伊藤淳史穿制服登场</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>日剧</span>
+    <span>· Oricon News</span>
+    <span>· 0621oricon</span>
+  </div>
+  <div class="summary">2026年6月21日，剧场版《TOKYO MER〜走る緊急救命室〜CAPITAL CRISIS》追加卡司解禁，小手伸也、フォンチー、伊藤淳史以制服造型登场。该片由铃木亮平主演，为系列第3部剧场版，定于8月21日上映。</div>
+  <ul class="facts">
+    <li>2026年6月21日，剧场版《TOKYO MER〜走る緊急救命室〜CAPITAL CRISIS》追加卡司解禁</li>
+    <li>追加演员包括小手伸也、フォンチー、伊藤淳史，三人以制服造型亮相</li>
+    <li>该片由铃木亮平主演，为系列第3部剧场版，定于2026年8月21日上映</li>
+  </ul>
+</div>
+<div class="card">
+  <img src="https://contents.oricon.co.jp/pc/img/_parts/icon/label-local03.png" style="float:right;width:80px;height:80px;object-fit:cover;border-radius:6px;margin-left:12px;" loading="lazy" alt="">
+  <h3><a href="https://www.oricon.co.jp/news/2462685/" target="_blank" rel="noopener">叶加濑太郎出演《闲聊007》推荐最爱拉面，嘉宾惊叹其品味</a></h3>
+  <div class="meta">
+    <span class="badge badge-new">NEW</span>
+    <span class="badge badge-risk-low">风险:低</span>
+    <span>日娱</span>
+    <span>· Oricon News</span>
+    <span>· 0621oricon</span>
+  </div>
+  <div class="summary">小提琴家叶加濑太郎将于6月22日晚9点出演日本电视台《闲聊007》节目，届时将向观众推荐自己喜爱的拉面。嘉宾かずあっきぃ对叶加濑的选择表示惊叹，称其品味独特。</div>
+  <ul class="facts">
+    <li>小提琴家叶加濑太郎将于6月22日（周一）晚9点出演日本电视台综艺节目《闲聊007》</li>
+    <li>节目中叶加濑太郎将介绍自己推荐的拉面，嘉宾かずあっきぃ称赞其选择独特</li>
+  </ul>
+</div>
+</div>
+</div>
+
+<footer>xhsbooster · 韩日娱资讯自动化 · DeepSeek 驱动 · <a href="archive.html" style="color:var(--accent)">历史归档</a></footer>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // ── L1 切换 → L2 整行替换 ──
+  document.querySelectorAll('.l1-bar').forEach(function(bar) {
+    bar.addEventListener('click', function(e) {
+      var btn = e.target.closest('.l1-btn');
+      if (!btn) return;
+      var l1Id = btn.dataset.l1;
+
+      // L1 active
+      bar.querySelectorAll('.l1-btn').forEach(function(b){ b.classList.remove('active'); });
+      btn.classList.add('active');
+
+      // 显示对应 L1 面板
+      document.querySelectorAll('.l1-panel').forEach(function(p){ p.classList.remove('active'); });
+      var panel = document.querySelector('.l1-panel[data-l1="' + l1Id + '"]');
+      if (panel) {
+        panel.classList.add('active');
+        // 自动选中第一个 L2
+        var firstL2 = panel.querySelector('.l2-btn');
+        if (firstL2) firstL2.click();
+      }
+    });
+  });
+
+  // ── L2 切换 ──
+  document.querySelectorAll('.l2-bar').forEach(function(bar) {
+    bar.addEventListener('click', function(e) {
+      var btn = e.target.closest('.l2-btn');
+      if (!btn) return;
+      var sid = btn.dataset.sid;
+
+      bar.querySelectorAll('.l2-btn').forEach(function(b){ b.classList.remove('active'); });
+      btn.classList.add('active');
+
+      // 在同一个 L1 panel 内切换 L2
+      var l1Panel = btn.closest('.l1-panel');
+      l1Panel.querySelectorAll('.l2-panel').forEach(function(p){ p.classList.remove('active'); });
+      var l2Panel = l1Panel.querySelector('.l2-panel[data-sid="' + sid + '"]');
+      if (l2Panel) l2Panel.classList.add('active');
+    });
+  });
+});
+</script>
+</body>
+</html>

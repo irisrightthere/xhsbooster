@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>xhsbooster · 历史归档</title>
+<style>
+:root {
+  --bg: #fffdf7; --card: #ffffff; --text: #2c2416; --text2: #6b5e4a;
+  --accent: #ff6b35; --accent2: #ff8c5a; --border: #e8e0d5;
+  --tag-bg: #f5efe4; --new-badge: #ff4444; --risk-high: #dc2626;
+  --shadow: 0 1px 3px rgba(0,0,0,.06);
+}
+@media (prefers-color-scheme: dark) {
+  :root { --bg: #1a1814; --card: #24211b; --text: #e8e0d5; --text2: #a09682;
+    --border: #3a3428; --tag-bg: #2a2620; --shadow: 0 1px 3px rgba(0,0,0,.3); }
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font: 15px/1.6 -apple-system, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  background: var(--bg); color: var(--text); max-width: 960px; margin: 0 auto; padding: 20px; }
+header { text-align: center; padding: 32px 0 20px; border-bottom: 2px solid var(--accent); margin-bottom: 24px; }
+header h1 { font-size: 28px; color: var(--accent); }
+header .date { font-size: 13px; color: var(--text2); margin-top: 4px; }
+
+/* ── L1 大类标签（大字 + 底线高亮）── */
+.l1-bar { display: flex; gap: 24px; border-bottom: 2px solid var(--border); margin-bottom: 12px; }
+.l1-btn { padding: 10px 24px; border: none; background: none; cursor: pointer;
+  font-size: 15px; font-weight: 700; color: var(--text2);
+  border-bottom: 3px solid transparent; margin-bottom: -2px; transition: .15s; }
+.l1-btn:hover, .l1-btn.active { color: var(--accent); border-bottom-color: var(--accent); }
+
+/* ── L2 源胶囊（小字 + 圆角背景）── */
+.l2-bar { display: flex; gap: 8px; margin: 12px 0 20px; padding-left: 8px; flex-wrap: wrap; }
+.l2-btn { padding: 5px 14px; border: none; border-radius: 14px; cursor: pointer;
+  font-size: 12px; color: var(--text2); background: var(--tag-bg); transition: .15s; }
+.l2-btn:hover { background: var(--border); }
+.l2-btn.active { background: var(--accent); color: #fff; }
+
+/* ── 面板 ── */
+.l1-panel { display: none; }
+.l1-panel.active { display: block; }
+.l2-panel { display: none; }
+.l2-panel.active { display: block; }
+
+/* ── 卡片 ── */
+.card { background: var(--card); border: 1px solid var(--border); border-radius: 10px;
+  padding: 18px 20px; margin-bottom: 14px; box-shadow: var(--shadow); position: relative; }
+.card h3 { font-size: 16px; margin-bottom: 6px; }
+.card h3 a { color: var(--text); text-decoration: none; }
+.card h3 a:hover { color: var(--accent); }
+.card .meta { font-size: 12px; color: var(--text2); margin-bottom: 8px; display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+.card .summary { font-size: 14px; color: var(--text); line-height: 1.7; }
+.card .facts { margin-top: 10px; padding: 10px 14px; background: var(--tag-bg); border-radius: 6px; font-size: 13px; }
+.card .facts li { margin-left: 16px; margin-bottom: 4px; }
+
+/* Badges */
+.badge { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 11px; font-weight: 600; }
+.badge-new { background: var(--new-badge); color: #fff; animation: blink 1.2s ease-in-out infinite; }
+.badge-risk-high { background: var(--risk-high); color: #fff; }
+.badge-risk-mid { background: #f59e0b; color: #fff; }
+.badge-risk-low { background: #10b981; color: #fff; }
+@keyframes blink { 0%,100%{opacity:1} 50%{opacity:.4} }
+
+/* Archive */
+.pagination { display: flex; gap: 10px; justify-content: center; margin: 30px 0; flex-wrap: wrap; }
+.pagination a, .pagination span { padding: 8px 16px; border: 1px solid var(--border); border-radius: 6px;
+  text-decoration: none; color: var(--accent); font-size: 14px; }
+.pagination a:hover { background: var(--accent); color: #fff; }
+.pagination .current { background: var(--accent); color: #fff; }
+footer { text-align: center; padding: 30px 0 20px; font-size: 12px; color: var(--text2); border-top: 1px solid var(--border); margin-top: 30px; }
+.empty-state { text-align: center; padding: 40px; color: var(--text2); }
+</style>
+</head>
+<body>
+<header><h1>📦 历史归档</h1></header>
+
+<footer>xhsbooster · 韩日娱资讯自动化 · DeepSeek 驱动 · <a href="archive.html" style="color:var(--accent)">历史归档</a></footer>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // ── L1 切换 → L2 整行替换 ──
+  document.querySelectorAll('.l1-bar').forEach(function(bar) {
+    bar.addEventListener('click', function(e) {
+      var btn = e.target.closest('.l1-btn');
+      if (!btn) return;
+      var l1Id = btn.dataset.l1;
+
+      // L1 active
+      bar.querySelectorAll('.l1-btn').forEach(function(b){ b.classList.remove('active'); });
+      btn.classList.add('active');
+
+      // 显示对应 L1 面板
+      document.querySelectorAll('.l1-panel').forEach(function(p){ p.classList.remove('active'); });
+      var panel = document.querySelector('.l1-panel[data-l1="' + l1Id + '"]');
+      if (panel) {
+        panel.classList.add('active');
+        // 自动选中第一个 L2
+        var firstL2 = panel.querySelector('.l2-btn');
+        if (firstL2) firstL2.click();
+      }
+    });
+  });
+
+  // ── L2 切换 ──
+  document.querySelectorAll('.l2-bar').forEach(function(bar) {
+    bar.addEventListener('click', function(e) {
+      var btn = e.target.closest('.l2-btn');
+      if (!btn) return;
+      var sid = btn.dataset.sid;
+
+      bar.querySelectorAll('.l2-btn').forEach(function(b){ b.classList.remove('active'); });
+      btn.classList.add('active');
+
+      // 在同一个 L1 panel 内切换 L2
+      var l1Panel = btn.closest('.l1-panel');
+      l1Panel.querySelectorAll('.l2-panel').forEach(function(p){ p.classList.remove('active'); });
+      var l2Panel = l1Panel.querySelector('.l2-panel[data-sid="' + sid + '"]');
+      if (l2Panel) l2Panel.classList.add('active');
+    });
+  });
+});
+</script>
+</body>
+</html>
