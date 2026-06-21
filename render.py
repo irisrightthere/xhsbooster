@@ -192,19 +192,24 @@ class SSGRenderer:
         url = art.get("url", "#")
         summary = art.get("summary_zh", "")
         source_name = art.get("source_name", "")
-        published_at = art.get("published_at", "")
+        published_ts = art.get("published_ts", 0)
         is_new = art.get("is_new", False)
+
+        # 日期格式 2026-06-21
+        from datetime import datetime, timezone, timedelta
+        cst = timezone(timedelta(hours=8))
+        date_display = datetime.fromtimestamp(published_ts, tz=cst).strftime("%Y-%m-%d") if published_ts else ""
 
         html = '<div class="card">\n'
         # 标题
         html += f'  <h3><a href="{url}" target="_blank" rel="noopener">{title}</a></h3>\n'
-        # 源, 时间
+        # [NEW] [源] [日期]
         html += '  <div class="meta">\n'
         if is_new:
             html += '    <span class="badge-new">NEW</span>\n'
-        html += f'    <span>{source_name}</span>\n'
-        if published_at:
-            html += f'    <span>· {published_at}</span>\n'
+        html += f'    <span>[{source_name}]</span>\n'
+        if date_display:
+            html += f'    <span>[{date_display}]</span>\n'
         html += '  </div>\n'
         # 分隔 + 摘要
         if summary:
