@@ -170,7 +170,7 @@ class Crawler:
         if not published and hasattr(entry, 'published'):
             published = str(entry.published)
 
-        pub_display, pub_ts = normalize_to_cst(published, source.get("id", ""))
+        pub_display, pub_ts = normalize_to_cst(published, source.get("id", ""), source.get("source_lang", "en"))
 
         thumbnail = ""
         if hasattr(entry, 'media_thumbnail'):
@@ -243,7 +243,7 @@ class Crawler:
                 break
 
             full_url = "https://www.oricon.co.jp" + href
-            pub_display, pub_ts = normalize_to_cst("", source.get("id", ""))
+            pub_display, pub_ts = normalize_to_cst("", source.get("id", ""), source.get("source_lang", "en"))
 
             # 尝试找同卡片内的图片
             img_url = ""
@@ -315,7 +315,7 @@ class Crawler:
             if station:
                 content += f" ({station})"
 
-            pub_display, pub_ts = normalize_to_cst("", source.get("id", ""))
+            pub_display, pub_ts = normalize_to_cst("", source.get("id", ""), source.get("source_lang", "en"))
 
             articles.append(RawArticle(
                 source_id=source.get("id", ""),

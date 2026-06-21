@@ -231,18 +231,26 @@ class DeepSeekClient:
 
     # ── 业务方法 ───────────────────────────────────────
 
-    def extract_and_classify(self, text: str, title: str = "") -> Optional[dict]:
+    def extract_and_classify(self, text: str, title: str = "", source_lang: str = "en") -> Optional[dict]:
         """
         Module 1 核心：翻译 + 分类 + 事实提取。
         使用 deepseek-v4，JSON mode，temperature=0.1。
+        source_lang: 源语言 (ja/ko/en)，动态注入 System Prompt。
         """
         if not self.api_key:
             logger.error("无法调用 API：DEEPSEEK_API_KEY 未设置")
             return None
 
+        # 源语言名称映射
+        lang_names = {"ja": "日语", "ko": "韩语", "en": "英语"}
+        lang_hint = lang_names.get(source_lang, "外语")
+
+        # 动态注入源语言
+        dynamic_prompt = SYSTEM_EXTRACT + f"\n\n## 当前任务\n你正在处理一篇源语言为 {lang_hint} 的资讯。请特别注意该语言的专有名词、日期格式和文化语境，精确翻译为中文。"
+
         user = f"标题：{title}\n\n原文内容：\n{text[:3000]}"
         raw = self._call(
-            system_prompt=SYSTEM_EXTRACT,
+            system_prompt=dynamic_prompt,
             user_content=user,
             model=DEEPSEEK_V4,
             temperature=TEMPERATURE_EXTRACT,

@@ -92,18 +92,31 @@ def md5_hash(text: str) -> str:
     """MD5 哈希（用于去重）"""
     return hashlib.md5(text.strip().lower().encode()).hexdigest()
 
-def normalize_to_cst(published_str: str, source_id: str = "") -> tuple[str, float]:
+def normalize_to_cst(published_str: str, source_id: str = "", source_lang: str = "en") -> tuple[str, float]:
     """
     将任意时间字符串 → 北京时间。
+    支持语言特定格式：ja(日本年号/年月日), ko(오전/오후), en(标准格式)。
     返回: (display_str, unix_ts)
       display_str: "0621soompi" 格式
       unix_ts: Unix 时间戳
     """
+    import re
+    from datetime import timezone as tz
+
+    cleaned = published_str.strip()
+    if not cleaned:
+        ts = now_cst().timestamp()
+        return f"{now_cst().strftime('%m%d')}{source_id}", ts
+
+    # ── 语言特定预处理 ──
+    if source_lang == "ja":
+        cleaned = _clean_japanese_time(cleaned)
+    elif source_lang == "ko":
+        cleaned = _clean_korean_time(cleaned)
+
     from dateutil import parser as dateparser
     try:
-        dt_utc = dateparser.parse(published_str, ignoretz=True)
-        # 假设输入为 UTC，转为 CST
-        from datetime import timezone as tz
+        dt_utc = dateparser.parse(cleaned, ignoretz=True)
         dt_utc = dt_utc.replace(tzinfo=tz.utc)
         dt_cst = dt_utc.astimezone(CST)
         display = f"{dt_cst.strftime('%m%d')}{source_id}"
@@ -112,6 +125,36 @@ def normalize_to_cst(published_str: str, source_id: str = "") -> tuple[str, floa
         ts = now_cst().timestamp()
         display = f"{now_cst().strftime('%m%d')}{source_id}"
         return display, ts
+
+
+def _clean_japanese_time(text: str) -> str:
+    """处理日本年号和特殊日期格式"""
+    import re
+    # 令和X年 → 2019+X-1 年
+    reiwa = re.search(r'令和(\d+)年', text)
+    if reiwa:
+        year = 2019 + int(reiwa.group(1)) - 1
+        text = text.replace(reiwa.group(0), f'{year}年')
+    # 平成X年 → 1989+X-1 年
+    heisei = re.search(r'平成(\d+)年', text)
+    if heisei:
+        year = 1989 + int(heisei.group(1)) - 1
+        text = text.replace(heisei.group(0), f'{year}年')
+    # 昭和X年 → 1926+X-1 年
+    showa = re.search(r'昭和(\d+)年', text)
+    if showa:
+        year = 1926 + int(showa.group(1)) - 1
+        text = text.replace(showa.group(0), f'{year}年')
+    return text
+
+
+def _clean_korean_time(text: str) -> str:
+    """处理韩语 시간/오전/오후 格式"""
+    import re
+    # 오전 = AM, 오후 = PM
+    text = re.sub(r'오전', 'AM', text)
+    text = re.sub(r'오후', 'PM', text)
+    return text
 
 def safe_filename(title: str, max_len: int = 60) -> str:
     """将标题转为安全文件名"""

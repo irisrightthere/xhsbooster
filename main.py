@@ -75,7 +75,7 @@ def run_pipeline(dry_run: bool = False) -> int:
 
     for art in articles:
         logger.info(f"🤖 提炼: [{art.source_name}] {art.title[:60]}")
-        result = client.extract_and_classify(art.content, art.title)
+        result = client.extract_and_classify(art.content, art.title, art.source_lang)
         if result:
             # 合并原始元数据
             enriched.append({
