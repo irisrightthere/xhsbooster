@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-xhs发发发 — 云端主编排器
+xhsbooster — 云端主编排器
 用法:
   python main.py run          # 全流程：抓取 → 提炼 → 存储 → 推送 → 渲染
   python main.py dry-run      # 仅抓取，不调 API（验证源可用性）
@@ -46,7 +46,7 @@ def run_pipeline(dry_run: bool = False) -> int:
     5. HTML 渲染
     """
     date_str = today_key()
-    logger.info(f"═══ xhs发发发 管道启动 · {date_str} ═══")
+    logger.info(f"═══ xhsbooster 管道启动 · {date_str} ═══")
 
     # ── Step 1: 抓取 ─────────────────────────────────
     crawler = Crawler()
@@ -138,7 +138,7 @@ def render_command(rebuild_all: bool = False) -> int:
 # ═══════════════════════════════════════════════════════════════
 
 def main():
-    parser = argparse.ArgumentParser(description="xhs发发发 — 韩娱资讯自动化系统")
+    parser = argparse.ArgumentParser(description="xhsbooster — 韩娱资讯自动化系统")
     sub = parser.add_subparsers(dest="command", help="子命令")
 
     # run

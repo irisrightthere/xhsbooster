@@ -1,10 +1,20 @@
 """
-xhs发发发 — 全局配置（云端 + 本地共享）
+xhsbooster — 全局配置（云端 + 本地共享）
 """
 import os
 import hashlib
 from pathlib import Path
 from datetime import datetime, timezone, timedelta
+
+# 自动加载 .env 文件（本地测试用，GitHub Actions 用 secrets）
+_env_path = Path(__file__).resolve().parent / ".env"
+if _env_path.exists():
+    with open(_env_path) as f:
+        for line in f:
+            line = line.strip()
+            if line and not line.startswith("#") and "=" in line:
+                key, val = line.split("=", 1)
+                os.environ.setdefault(key.strip(), val.strip())
 
 # ═══ 时区 ═══
 CST = timezone(timedelta(hours=8))  # 北京时间
@@ -31,7 +41,7 @@ SOURCES_FILE = CLOUD_ROOT / "sources.json"
 
 # 本地 Obsidian 路径（仅 Layer 2 使用）
 OBSIDIAN_VAULT = Path(os.environ.get("OBSIDIAN_VAULT_PATH", os.path.expanduser("~/iris")))
-LOCAL_PROJECT = OBSIDIAN_VAULT / "🚀-项目" / "xhs发发发"
+LOCAL_PROJECT = OBSIDIAN_VAULT / "🚀-项目" / "xhsbooster"
 DIR_WORKBENCH = LOCAL_PROJECT / "00_工作台"
 DIR_NEWS = LOCAL_PROJECT / "01_📰资讯源"
 DIR_CARDS = LOCAL_PROJECT / "02_🧩事实卡片"
@@ -54,7 +64,7 @@ TEMPERATURE_REWRITE = 0.5    # 深度文案改写：需要文采但不能虚构
 # ═══ 去重 ═══
 DEDUP_WINDOW_HOURS = 72                     # 滑动窗口
 DEDUP_TITLE_SIMILARITY_THRESHOLD = 0.85     # 标题相似度阈值
-SEEN_URLS_FILE = STATE_DIR / "seen_urls.json"
+DEDUP_DB_PATH = STATE_DIR / "dedup.db"      # SQLite 去重数据库
 
 # ═══ 爬虫 ═══
 CRAWL_TIMEOUT = 30          # 单次请求超时（秒）
@@ -77,6 +87,31 @@ def title_hash(title: str) -> str:
     import re
     cleaned = re.sub(r'\s+', ' ', title.strip().lower())
     return hashlib.sha256(cleaned.encode()).hexdigest()[:16]
+
+def md5_hash(text: str) -> str:
+    """MD5 哈希（用于去重）"""
+    return hashlib.md5(text.strip().lower().encode()).hexdigest()
+
+def normalize_to_cst(published_str: str, source_id: str = "") -> tuple[str, float]:
+    """
+    将任意时间字符串 → 北京时间。
+    返回: (display_str, unix_ts)
+      display_str: "0621soompi" 格式
+      unix_ts: Unix 时间戳
+    """
+    from dateutil import parser as dateparser
+    try:
+        dt_utc = dateparser.parse(published_str, ignoretz=True)
+        # 假设输入为 UTC，转为 CST
+        from datetime import timezone as tz
+        dt_utc = dt_utc.replace(tzinfo=tz.utc)
+        dt_cst = dt_utc.astimezone(CST)
+        display = f"{dt_cst.strftime('%m%d')}{source_id}"
+        return display, dt_cst.timestamp()
+    except Exception:
+        ts = now_cst().timestamp()
+        display = f"{now_cst().strftime('%m%d')}{source_id}"
+        return display, ts
 
 def safe_filename(title: str, max_len: int = 60) -> str:
     """将标题转为安全文件名"""

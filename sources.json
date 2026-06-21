@@ -4,29 +4,49 @@
     "name": "Soompi",
     "type": "rss",
     "url": "https://www.soompi.com/feed",
+    "l1_tab": "韩娱",
     "category": "韩娱",
     "enabled": true,
-    "max_items": 30,
-    "notes": "韩国娱乐最大英文资讯站，K-pop/韩剧/综艺全覆盖"
+    "max_items": 30
   },
   {
-    "id": "koreaboo",
-    "name": "Koreaboo",
+    "id": "google-kpop",
+    "name": "Google News",
     "type": "rss",
-    "url": "https://www.koreaboo.com/feed",
+    "url": "https://news.google.com/rss/search?q=K-pop+OR+K-drama&hl=en-US",
+    "l1_tab": "韩娱",
     "category": "韩娱",
     "enabled": true,
-    "max_items": 20,
-    "notes": "K-pop 英文资讯，偏粉丝向"
+    "max_items": 30
   },
   {
-    "id": "allkpop",
-    "name": "allkpop",
+    "id": "google-jdrama",
+    "name": "Google News",
     "type": "rss",
-    "url": "https://www.allkpop.com/feed",
-    "category": "韩娱",
-    "enabled": false,
-    "max_items": 20,
-    "notes": "K-pop 八卦资讯，量大但有噪音，默认关闭"
+    "url": "https://news.google.com/rss/search?q=J-drama+OR+Anime&hl=en-US",
+    "l1_tab": "日娱",
+    "category": "日剧",
+    "enabled": true,
+    "max_items": 30
+  },
+  {
+    "id": "oricon",
+    "name": "Oricon News",
+    "type": "web",
+    "url": "https://www.oricon.co.jp/news/",
+    "l1_tab": "日娱",
+    "category": "日剧",
+    "enabled": true,
+    "max_items": 15
+  },
+  {
+    "id": "asianwiki",
+    "name": "AsianWiki",
+    "type": "web",
+    "url": "https://asianwiki.com/Main_Page",
+    "l1_tab": "韩娱",
+    "category": "韩剧",
+    "enabled": true,
+    "max_items": 30
   }
 ]
