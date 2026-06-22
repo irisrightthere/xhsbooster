@@ -6,96 +6,983 @@
 <title>xhsbooster · 2026-06-22</title>
 <style>
 :root {
-  --bg: #fffdf7; --card: #ffffff; --text: #2c2416; --text2: #6b5e4a;
-  --accent: #ff6b35; --border: #e8e0d5; --tag-bg: #f5efe4;
-  --new-badge: #dc2626; --shadow: 0 1px 3px rgba(0,0,0,.06);
-}
-@media (prefers-color-scheme: dark) {
-  :root { --bg: #1a1814; --card: #24211b; --text: #e8e0d5; --text2: #a09682;
-    --border: #3a3428; --tag-bg: #2a2620; --shadow: 0 1px 3px rgba(0,0,0,.3); }
+  --bg: #0B0F19; --surface: #161F30; --border: rgba(255,255,255,0.03);
+  --text: #D1D9E6; --text2: #6C7D93;
+  --accent: #B3C0FB; --accent-hover: #D6DFFF;
+  --pulse-color: #bfa0ff;
 }
 * { box-sizing: border-box; margin: 0; padding: 0; }
-body { font: 15px/1.6 -apple-system, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
-  background: var(--bg); color: var(--text); max-width: 720px; margin: 0 auto; padding: 20px; }
-/* ── DailyBrief 风格 Header ── */
-.report-header { margin-bottom: 1.25rem; }
-.eyebrow { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.2em;
-  color: var(--text2); font-weight: 500; }
-.report-title { font-size: 2.2rem; font-weight: 700; margin: 0.4rem 0 0.6rem;
-  letter-spacing: -0.02em; line-height: 1.1; color: var(--text); }
-.archive-link { display: inline-block; margin-bottom: 1rem; font-size: 0.85rem;
-  color: var(--text2); text-decoration: none; border-bottom: 1px dashed var(--border);
-  padding-bottom: 1px; }
+body { font: 14px/1.6 -apple-system, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  background: var(--bg); color: var(--text); overflow-x: hidden; }
+
+/* Header */
+.report-header { max-width: 720px; margin: 0 auto; padding: 24px 0 16px; }
+.eyebrow { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.2em; color: var(--text2); font-weight: 500; }
+.report-title { font-size: 2.2rem; font-weight: 700; margin: 0.4rem 0 0.6rem; letter-spacing: -0.02em; line-height: 1.1; }
+.archive-link { display: inline-block; margin-bottom: 0.5rem; font-size: 0.85rem; color: var(--text2);
+  text-decoration: none; border-bottom: 1px dashed rgba(179,192,251,0.2); padding-bottom: 1px; cursor: pointer; }
 .archive-link:hover { color: var(--accent); border-bottom-style: solid; }
 
-/* 源胶囊 Tab */
-.tab-bar { display: flex; gap: 8px; margin-bottom: 20px; flex-wrap: wrap; }
-.tab-btn { padding: 6px 16px; border: none; border-radius: 14px; cursor: pointer;
-  font-size: 13px; color: var(--text2); background: var(--tag-bg); transition: .15s; }
-.tab-btn:hover { background: var(--border); }
-.tab-btn.active { background: var(--accent); color: #fff; }
+/* Tabs */
+.tab-bar { max-width: 720px; margin: 0 auto; display: flex; gap: 0;
+  border-bottom: 1px solid var(--border); overflow-x: auto; }
+.tab-btn { padding: 12px 20px; border: none; background: none; cursor: pointer;
+  font-size: 13px; color: var(--text2); border-bottom: 2px solid transparent;
+  margin-bottom: -1px; white-space: nowrap; font-family: inherit; transition: .15s; }
+.tab-btn:hover { color: var(--text); }
+.tab-btn.active { color: var(--accent); border-bottom-color: var(--accent); }
+.tab-count { font-size: 11px; color: var(--text2); margin-left: 4px; }
+.tab-btn.active .tab-count { color: var(--accent); }
+
+/* Content */
+.content { max-width: 720px; margin: 0 auto; padding: 20px 0; }
 .tab-panel { display: none; }
 .tab-panel.active { display: block; }
 
-/* 卡片 */
-.card { background: var(--card); border: 1px solid var(--border); border-radius: 10px;
-  padding: 18px 20px; margin-bottom: 14px; box-shadow: var(--shadow); }
-.card h3 { font-size: 16px; margin-bottom: 4px; }
-.card h3 a { color: var(--text); text-decoration: none; }
-.card h3 a:hover { color: var(--accent); }
-.card .meta { font-size: 12px; color: var(--text2); margin-bottom: 6px; }
-.card .separator { border: none; border-top: 1px solid var(--border); margin: 8px 0; }
-.card .summary { font-size: 14px; color: var(--text); line-height: 1.7; }
+/* Card */
+.card { background: var(--surface); border: 1px solid var(--border); border-radius: 8px;
+  padding: 20px 24px; margin-bottom: 14px; transition: .15s; }
+.card:hover { border-color: rgba(255,255,255,0.05); }
 
-/* NEW badge */
-.badge-new { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 11px;
-  font-weight: 600; background: var(--new-badge); color: #fff;
-  animation: blink 1.2s ease-in-out infinite; }
-@keyframes blink { 0%,100%{opacity:1} 50%{opacity:.4} }
+/* NEW 脉冲点 */
+.card-head { display: flex; align-items: flex-start; gap: 8px; margin-bottom: 10px; }
+.card-title { font-size: 17px; font-weight: 700; line-height: 1.5; flex: 1; }
+.card-title a { color: var(--text); text-decoration: none; }
+.card-title a:hover { color: var(--accent); }
+.pulse-dot { display: inline-flex; align-items: center; gap: 5px; flex-shrink: 0; margin-top: 5px; }
+.dot { width: 5px; height: 5px; background: var(--pulse-color); border-radius: 50%;
+  box-shadow: 0 0 6px rgba(191,160,255,0.6);
+  animation: muted-pulse-glow 3.5s infinite ease-in-out; }
+@keyframes muted-pulse-glow {
+  0%,100%{opacity:.4;transform:scale(.95);box-shadow:0 0 4px rgba(191,160,255,.3)}
+  50%{opacity:1;transform:scale(1.1);box-shadow:0 0 10px rgba(191,160,255,.8)}
+}
+.new-label { font-size: 10px; font-weight: 700; color: var(--pulse-color); letter-spacing: .1em; }
+
+/* Meta */
+.card-meta { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; font-size: 13px; }
+.meta-source { color: var(--text2); font-weight: 500; }
+.meta-date { color: var(--text2); font-family: "SF Mono","Menlo",monospace; }
+
+/* Risk tags */
+.risk-tag { font-size: 10px; font-weight: 500; padding: 2px 8px; border-radius: 4px;
+  border: 1px solid; letter-spacing: .05em; }
+.risk-high { color:#92B594; background:rgba(146,181,148,.08); border-color:rgba(146,181,148,.2); }
+.risk-mid { color:#BDB294; background:rgba(189,178,148,.08); border-color:rgba(189,178,148,.2); }
+.risk-low { color:#6C7D93; background:rgba(255,255,255,.03); border-color:rgba(255,255,255,.08); }
+
+/* Separator */
+.card-sep { border: none; border-top: 1px solid var(--border); margin: 12px 0; }
+
+/* Summary */
+.card-summary { font-size: 14px; color: var(--text2); line-height: 1.75; }
+.card-summary em { font-style: normal; font-weight: 500; color: var(--accent);
+  background: rgba(179,192,251,.08); padding: 1px 5px; border-radius: 3px; }
+
+/* Footer */
+.card-footer { display: flex; gap: 14px; margin-top: 14px; align-items: center; }
+.btn-view { color: var(--accent); text-decoration: none; font-size: 12px;
+  border-bottom: 1px dashed rgba(179,192,251,.3); padding-bottom: 1px; transition: .15s; cursor: pointer; }
+.btn-view:hover { color: var(--accent-hover); }
+.btn-match { padding: 5px 16px; border: 1px solid rgba(179,192,251,.3); border-radius: 4px;
+  background: rgba(179,192,251,.15); color: var(--accent); font-weight: 500;
+  cursor: pointer; font-size: 11px; font-family: inherit; transition: .2s; }
+.btn-match:hover { background: rgba(179,192,251,.25); color: #fff; }
+
+/* Drawer */
+.drawer-overlay { position: fixed; inset: 0; background: rgba(0,0,0,.4);
+  z-index: 99; opacity: 0; pointer-events: none; transition: opacity .25s; }
+.drawer-overlay.open { opacity: 1; pointer-events: auto; }
+.drawer { position: fixed; top: 0; left: 0; width: 300px; height: 100%;
+  background: rgba(11,15,25,.9); backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
+  z-index: 100; transform: translateX(-100%); transition: transform .25s ease; overflow-y: auto;
+  border-right: 1px solid rgba(179,192,251,.08); }
+.drawer.open { transform: translateX(0); }
+.drawer-header { padding: 20px; border-bottom: 1px solid rgba(255,255,255,.04);
+  display: flex; justify-content: space-between; align-items: center; }
+.drawer-header h2 { font-size: 16px; color: var(--text2); }
+.drawer-close { background: none; border: none; color: var(--text2); cursor: pointer;
+  font-size: 20px; padding: 4px 8px; border-radius: 4px; transition: .15s; }
+.drawer-close:hover { color: var(--accent); }
+.drawer-list { list-style: none; padding: 12px; }
+.drawer-list li { margin-bottom: 2px; }
+.drawer-list a { display: block; padding: 8px 12px; color: var(--text2); text-decoration: none;
+  border-radius: 6px; font-size: 13px; transition: .15s; }
+.drawer-list a:hover { background: rgba(179,192,251,.06); color: var(--accent); }
+
+/* Toast */
+.toast { position: fixed; bottom: 30px; left: 50%; transform: translateX(-50%);
+  background: rgba(179,192,251,.25); color: #fff; padding: 8px 20px;
+  border-radius: 20px; font-size: 13px; z-index: 200;
+  backdrop-filter: blur(10px); animation: toastAnim 2s ease; }
+@keyframes toastAnim { 0%{opacity:0} 15%{opacity:1} 70%{opacity:1} 100%{opacity:0} }
 
 /* Archive */
 .archive-list { list-style: none; }
 .archive-list li { display: flex; justify-content: space-between; align-items: center;
   padding: 10px 0; border-bottom: 1px solid var(--border); }
 .archive-list a { color: var(--accent); text-decoration: none; font-size: 15px; }
-.archive-list .size { font-size: 13px; color: var(--text2); }
+.archive-list a:hover { color: var(--accent-hover); }
 .archive-meta { font-size: 13px; color: var(--text2); margin-bottom: 20px; }
-
-/* 卡片尾部按钮 */
-.card-footer { display: flex; gap: 10px; margin-top: 12px; align-items: center; }
-.btn-link { color: var(--text2); text-decoration: none; font-size: 13px; }
-.btn-link:hover { color: var(--accent); }
-.btn-draft { padding: 4px 12px; border: 1px solid var(--accent); border-radius: 14px;
-  background: none; color: var(--accent); cursor: pointer; font-size: 12px;
-  font-family: inherit; transition: .15s; }
-.btn-draft:hover { background: var(--accent); color: #fff; }
-.toast { position: fixed; bottom: 30px; left: 50%; transform: translateX(-50%);
-  background: var(--accent); color: #fff; padding: 8px 20px; border-radius: 20px;
-  font-size: 13px; z-index: 999; animation: fadeInOut 2s ease; }
-@keyframes fadeInOut { 0%{opacity:0} 15%{opacity:1} 70%{opacity:1} 100%{opacity:0} }
-
-.empty-state { text-align: center; padding: 40px; color: var(--text2); }
+.empty-state { text-align: center; padding: 60px 20px; color: var(--text2); }
 footer { text-align: center; padding: 30px 0 20px; font-size: 12px; color: var(--text2);
   border-top: 1px solid var(--border); margin-top: 30px; }
 footer a { color: var(--accent); text-decoration: none; }
 </style>
 </head>
 <body>
-<header class="report-header"><span class="eyebrow">🍠 xhsbooster</span><h1 class="report-title">2026-06-22</h1><a class="archive-link" href="archive.html">← 往期回顾</a></header>
-<div class="empty-state">📭 暂无内容</div>
+<div class="drawer-overlay" id="overlay" onclick="toggleDrawer()"></div>
+<div class="drawer" id="drawer">
+  <div class="drawer-header"><h2>📅 往期回顾</h2><button class="drawer-close" onclick="toggleDrawer()">✕</button></div>
+  <ul class="drawer-list">
+  </ul>
+</div>
+<header class="report-header"><span class="eyebrow">🍠 xhsbooster</span><h1 class="report-title">2026-06-22</h1><a class="archive-link" onclick="toggleDrawer()">← 往期回顾</a></header>
+<div class="tab-bar">
+  <button class="tab-btn active" data-sid="soompi">[Soompi]<span class="tab-count">13</span></button>
+  <button class="tab-btn" data-sid="asianwiki">[AsianWiki]<span class="tab-count">30</span></button>
+  <button class="tab-btn" data-sid="google-kpop">[Google News]<span class="tab-count">5</span></button>
+</div>
+<div class="content">
+<div class="tab-panel active" data-sid="soompi">
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://www.soompi.com/article/1849429wpp/lee-dong-wook-kim-hye-joon-and-more-return-stronger-to-take-on-opposing-forces-in-a-shop-for-killers-2" target="_blank" rel="noopener">李栋旭、金慧埈等主演《杀手商店2》公开新剧照，回归对抗敌对势力</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">Soompi</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩剧·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">《杀手商店》第二季公开了新剧照，主演李栋旭、金慧埈等回归，将对抗敌对势力。该剧改编自姜智英的小说，是一部动作剧，讲述郑智安（金慧埈饰）与叔叔郑镇万（李栋旭饰）同住后的故事。</div>
+  <div class="card-footer">
+    <a href="https://www.soompi.com/article/1849429wpp/lee-dong-wook-kim-hye-joon-and-more-return-stronger-to-take-on-opposing-forces-in-a-shop-for-killers-2" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="李栋旭、金慧埈等主演《杀手商店2》公开新剧照，回归对抗敌对势力\n来源：Soompi\n日期：2026-06-22\n摘要：《杀手商店》第二季公开了新剧照，主演李栋旭、金慧埈等回归，将对抗敌对势力。该剧改编自姜智英的小说，是一部动作剧，讲述郑智安（金慧埈饰）与叔叔郑镇万（李栋旭饰）同住后的故事。">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://www.soompi.com/article/1849425wpp/namkoong-min-and-lee-seols-marriage-is-spiraling-towards-catastrophe-in-the-husband" target="_blank" rel="noopener">南宫珉李雪主演KBS新剧《丈夫》公开主海报，婚姻走向危机</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">Soompi</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩剧·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">KBS 2TV新剧《丈夫》公开主海报。该剧为惊悚题材，由南宫珉主演，饰演一名濒临离婚的男子，意外卷入与危险罪犯的殊死搏斗以拯救妻子。海报暗示婚姻关系岌岌可危且复杂。</div>
+  <div class="card-footer">
+    <a href="https://www.soompi.com/article/1849425wpp/namkoong-min-and-lee-seols-marriage-is-spiraling-towards-catastrophe-in-the-husband" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="南宫珉李雪主演KBS新剧《丈夫》公开主海报，婚姻走向危机\n来源：Soompi\n日期：2026-06-22\n摘要：KBS 2TV新剧《丈夫》公开主海报。该剧为惊悚题材，由南宫珉主演，饰演一名濒临离婚的男子，意外卷入与危险罪犯的殊死搏斗以拯救妻子。海报暗示婚姻关系岌岌可危且复杂。">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://www.soompi.com/article/1849419wpp/watch-park-ji-hyun-runs-into-seo-in-guk-during-a-bad-date-in-see-you-at-work-tomorrow-preview" target="_blank" rel="noopener">《明天见》预告：朴智贤相亲遇徐仁国，尴尬场面曝光</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">Soompi</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩剧·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">tvN新剧《明天见》公开首集预告，该剧改编自同名热门网漫，由朴智贤饰演陷入职业倦怠的职场人车智允。预告中，车智允在一次糟糕的相亲中偶遇徐仁国饰演的角色，引发观众期待。</div>
+  <div class="card-footer">
+    <a href="https://www.soompi.com/article/1849419wpp/watch-park-ji-hyun-runs-into-seo-in-guk-during-a-bad-date-in-see-you-at-work-tomorrow-preview" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="《明天见》预告：朴智贤相亲遇徐仁国，尴尬场面曝光\n来源：Soompi\n日期：2026-06-22\n摘要：tvN新剧《明天见》公开首集预告，该剧改编自同名热门网漫，由朴智贤饰演陷入职业倦怠的职场人车智允。预告中，车智允在一次糟糕的相亲中偶遇徐仁国饰演的角色，引发观众期待。">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://www.soompi.com/article/1849413wpp/reborn-rookie-ratings-break-into-double-digits-for-new-all-time-high" target="_blank" rel="noopener">《重生菜鸟》收视率突破两位数，创下新高</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">Soompi</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩剧·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">JTBC电视剧《重生菜鸟》收视率突破两位数，在6月21日创下自身最高纪录。根据尼尔森韩国数据，该剧全国平均收视率达到11.0%，相比之前上涨超过2个百分点。</div>
+  <div class="card-footer">
+    <a href="https://www.soompi.com/article/1849413wpp/reborn-rookie-ratings-break-into-double-digits-for-new-all-time-high" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="《重生菜鸟》收视率突破两位数，创下新高\n来源：Soompi\n日期：2026-06-22\n摘要：JTBC电视剧《重生菜鸟》收视率突破两位数，在6月21日创下自身最高纪录。根据尼尔森韩国数据，该剧全国平均收视率达到11.0%，相比之前上涨超过2个百分点。">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://www.soompi.com/article/1849407wpp/seo-in-guk-and-park-ji-hyun-go-for-drinks-alone-in-see-you-at-work-tomorrow" target="_blank" rel="noopener">徐仁国与朴智贤《明天见》中单独喝酒，关系升级</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">Soompi</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩剧·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">tvN新剧《明天见》改编自热门网漫，由徐仁国和朴智贤主演。剧中两人原本严格的工作关系将发生转变，最新剧照显示他们单独喝酒，暗示关系升级。朴智贤饰演职场人车智允。</div>
+  <div class="card-footer">
+    <a href="https://www.soompi.com/article/1849407wpp/seo-in-guk-and-park-ji-hyun-go-for-drinks-alone-in-see-you-at-work-tomorrow" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="徐仁国与朴智贤《明天见》中单独喝酒，关系升级\n来源：Soompi\n日期：2026-06-22\n摘要：tvN新剧《明天见》改编自热门网漫，由徐仁国和朴智贤主演。剧中两人原本严格的工作关系将发生转变，最新剧照显示他们单独喝酒，暗示关系升级。朴智贤饰演职场人车智允。">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://www.soompi.com/article/1849392wpp/btss-arirang-re-enters-top-10-of-billboard-200-3-months-after-its-release" target="_blank" rel="noopener">BTS专辑《ARIRANG》发行三个月后重返Billboard 200前十</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">Soompi</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩娱·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">BTS的录音室专辑《ARIRANG》在发行三个月后，于当地时间6月21日重新进入Billboard 200专辑榜前十。Billboard官方公布了这一消息，该榜单统计美国最受欢迎的专辑。</div>
+  <div class="card-footer">
+    <a href="https://www.soompi.com/article/1849392wpp/btss-arirang-re-enters-top-10-of-billboard-200-3-months-after-its-release" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="BTS专辑《ARIRANG》发行三个月后重返Billboard 200前十\n来源：Soompi\n日期：2026-06-22\n摘要：BTS的录音室专辑《ARIRANG》在发行三个月后，于当地时间6月21日重新进入Billboard 200专辑榜前十。Billboard官方公布了这一消息，该榜单统计美国最受欢迎的专辑。">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://www.soompi.com/article/1849380wpp/watch-kang-mina-spills-the-tea-on-kiss-scene-with-block-bs-p-o-in-amazing-saturday-preview" target="_blank" rel="noopener">Kang Mina将在《惊人的星期六》预告中爆料与Block B P.O的吻戏</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">Soompi</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩娱·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">在tvN综艺《惊人的星期六》下期预告中，Kang Mina将爆料与Block B成员P.O拍摄吻戏的幕后故事。Seo In Guk和Kang Mina作为嘉宾出演，两人均主演即将播出的电视剧《明天见你》。</div>
+  <div class="card-footer">
+    <a href="https://www.soompi.com/article/1849380wpp/watch-kang-mina-spills-the-tea-on-kiss-scene-with-block-bs-p-o-in-amazing-saturday-preview" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="Kang Mina将在《惊人的星期六》预告中爆料与Block B P.O的吻戏\n来源：Soompi\n日期：2026-06-22\n摘要：在tvN综艺《惊人的星期六》下期预告中，Kang Mina将爆料与Block B成员P.O拍摄吻戏的幕后故事。Seo In Guk和Kang Mina作为嘉宾出演，两人均主演即将播出的电视剧《明天见你》。">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://www.soompi.com/article/1849395wpp/park-ji-hyun-runs-into-her-boss-seo-in-guk-outside-the-office-in-see-you-at-work-tomorrow" target="_blank" rel="noopener">《明天见》剧照：朴智贤与上司徐仁国办公室外偶遇</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">Soompi</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩剧·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">tvN新剧《明天见》公开了徐仁国与朴智贤在办公室外偶遇的剧照。该剧改编自同名热门网漫，是一部浪漫爱情剧，朴智贤饰演职场人车智允。</div>
+  <div class="card-footer">
+    <a href="https://www.soompi.com/article/1849395wpp/park-ji-hyun-runs-into-her-boss-seo-in-guk-outside-the-office-in-see-you-at-work-tomorrow" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="《明天见》剧照：朴智贤与上司徐仁国办公室外偶遇\n来源：Soompi\n日期：2026-06-22\n摘要：tvN新剧《明天见》公开了徐仁国与朴智贤在办公室外偶遇的剧照。该剧改编自同名热门网漫，是一部浪漫爱情剧，朴智贤饰演职场人车智允。">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://www.soompi.com/article/1849367wpp/watch-girls-generations-tiffany-young-dishes-on-married-life-practices-for-yumis-cells-musical-in-the-manager-preview" target="_blank" rel="noopener">少女时代Tiffany Young出演《全知干预视角》预告，分享婚后生活</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">Soompi</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩娱·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">少女时代成员Tiffany Young将出演MBC综艺《全知干预视角》，在最新发布的预告中，她展示了日常生活的片段，包括前往耳鼻喉科就诊，并分享了婚后最喜欢的事情。该期节目将于近期播出。</div>
+  <div class="card-footer">
+    <a href="https://www.soompi.com/article/1849367wpp/watch-girls-generations-tiffany-young-dishes-on-married-life-practices-for-yumis-cells-musical-in-the-manager-preview" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="少女时代Tiffany Young出演《全知干预视角》预告，分享婚后生活\n来源：Soompi\n日期：2026-06-22\n摘要：少女时代成员Tiffany Young将出演MBC综艺《全知干预视角》，在最新发布的预告中，她展示了日常生活的片段，包括前往耳鼻喉科就诊，并分享了婚后最喜欢的事情。该期节目将于近期播出。">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://www.soompi.com/article/1849347wpp/cortiss-greengreen-becomes-their-1st-album-to-chart-for-5-weeks-in-top-50-of-billboard-200" target="_blank" rel="noopener">CORTIS迷你专辑《GREENGREEN》连续5周进入Billboard 200前50名</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">Soompi</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩娱·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">CORTIS的EP《GREENGREEN》本周连续第5周进入Billboard 200专辑榜前50名，成为他们首张在该榜单前50名停留5周的专辑。</div>
+  <div class="card-footer">
+    <a href="https://www.soompi.com/article/1849347wpp/cortiss-greengreen-becomes-their-1st-album-to-chart-for-5-weeks-in-top-50-of-billboard-200" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="CORTIS迷你专辑《GREENGREEN》连续5周进入Billboard 200前50名\n来源：Soompi\n日期：2026-06-22\n摘要：CORTIS的EP《GREENGREEN》本周连续第5周进入Billboard 200专辑榜前50名，成为他们首张在该榜单前50名停留5周的专辑。">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://www.soompi.com/article/1849343wpp/jennie-and-tame-impalas-dracula-soars-to-new-peaks-on-billboards-radio-and-songs-of-the-summer-charts" target="_blank" rel="noopener">Jennie与Tame Impala合作曲《Dracula》在Billboard电台及夏日歌曲榜创下新高</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">Soompi</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩娱·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">BLACKPINK成员Jennie与Tame Impala合作的《Dracula》混音版在美国电台持续升温。本周，该曲在Billboard多个榜单上创下新高，包括Pop Airplay榜第6位及夏日歌曲榜的新峰值，为两位歌手带来新的职业生涯高点。</div>
+  <div class="card-footer">
+    <a href="https://www.soompi.com/article/1849343wpp/jennie-and-tame-impalas-dracula-soars-to-new-peaks-on-billboards-radio-and-songs-of-the-summer-charts" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="Jennie与Tame Impala合作曲《Dracula》在Billboard电台及夏日歌曲榜创下新高\n来源：Soompi\n日期：2026-06-22\n摘要：BLACKPINK成员Jennie与Tame Impala合作的《Dracula》混音版在美国电台持续升温。本周，该曲在Billboard多个榜单上创下新高，包括Pop Airplay榜第6位及夏日歌曲榜的新峰值，为两位歌手带来新的职业生涯高点。">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://www.soompi.com/article/1849336wpp/teach-you-a-lesson-and-my-royal-nemesis-top-most-buzzworthy-drama-and-actor-rankings" target="_blank" rel="noopener">《Teach You a Lesson》与《My Royal Nemesis》登顶本周话题剧集及演员榜</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">Soompi</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩剧·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">本周，Netflix剧集《Teach You a Lesson》在Good Data Corporation的每周话题剧集榜单中升至第1位，同时《My Royal Nemesis》在演员话题榜中表现突出，占据多个上位圈位置。Good Data Corporation通过分析新闻文章、社交媒体、评论等数据确定每周榜单。</div>
+  <div class="card-footer">
+    <a href="https://www.soompi.com/article/1849336wpp/teach-you-a-lesson-and-my-royal-nemesis-top-most-buzzworthy-drama-and-actor-rankings" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="《Teach You a Lesson》与《My Royal Nemesis》登顶本周话题剧集及演员榜\n来源：Soompi\n日期：2026-06-22\n摘要：本周，Netflix剧集《Teach You a Lesson》在Good Data Corporation的每周话题剧集榜单中升至第1位，同时《My Royal Nemesis》在演员话题榜中表现突出，占据多个上位圈位置。Good Data Corporation通过分析新闻文章、社交媒体、评论等数据确定每周榜单。">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://www.soompi.com/article/1849333wpp/cortis-aespa-le-sserafim-stray-kids-meovv-bts-illit-txt-and-more-sweep-top-spots-on-billboard-world-albums-chart" target="_blank" rel="noopener">CORTIS、aespa、LE SSERAFIM、Stray Kids等横扫公告牌世界专辑榜</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">Soompi</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩娱·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">公告牌发布截至6月20日一周的世界专辑榜，CORTIS的EP《GREENGREEN》在发行第六周重回榜首，并连续第五周进入公告牌200强前50名。此外，aespa、LE SSERAFIM、Stray Kids、MEOVV、BTS、ILLIT、TXT等艺人也在榜单上占据高位。</div>
+  <div class="card-footer">
+    <a href="https://www.soompi.com/article/1849333wpp/cortis-aespa-le-sserafim-stray-kids-meovv-bts-illit-txt-and-more-sweep-top-spots-on-billboard-world-albums-chart" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="CORTIS、aespa、LE SSERAFIM、Stray Kids等横扫公告牌世界专辑榜\n来源：Soompi\n日期：2026-06-22\n摘要：公告牌发布截至6月20日一周的世界专辑榜，CORTIS的EP《GREENGREEN》在发行第六周重回榜首，并连续第五周进入公告牌200强前50名。此外，aespa、LE SSERAFIM、Stray Kids、MEOVV、BTS、ILLIT、TXT等艺人也在榜单上占据高位。">匹配模板</button>
+  </div>
+</div>
+</div>
+<div class="tab-panel" data-sid="asianwiki">
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://asianwiki.com/Love_Track:_Minji_Minji_Minji" target="_blank" rel="noopener">《Love Track: Minji Minji Minji》KBS2播出</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">AsianWiki</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩剧·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">韩剧《Love Track: Minji Minji Minji》在KBS2播出。</div>
+  <div class="card-footer">
+    <a href="https://asianwiki.com/Love_Track:_Minji_Minji_Minji" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="《Love Track: Minji Minji Minji》KBS2播出\n来源：AsianWiki\n日期：2026-06-22\n摘要：韩剧《Love Track: Minji Minji Minji》在KBS2播出。">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://asianwiki.com/Concrete_Market_(Korean_Drama)" target="_blank" rel="noopener">Wavve推出新综艺《Concrete Market》</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">AsianWiki</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩娱·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">Wavve平台推出了一档名为《Concrete Market》的新综艺节目。</div>
+  <div class="card-footer">
+    <a href="https://asianwiki.com/Concrete_Market_(Korean_Drama)" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="Wavve推出新综艺《Concrete Market》\n来源：AsianWiki\n日期：2026-06-22\n摘要：Wavve平台推出了一档名为《Concrete Market》的新综艺节目。">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://asianwiki.com/Idol_I" target="_blank" rel="noopener">ENA新剧《Idol I》开播</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">AsianWiki</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩剧·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">ENA电视台新剧《Idol I》已开播。</div>
+  <div class="card-footer">
+    <a href="https://asianwiki.com/Idol_I" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="ENA新剧《Idol I》开播\n来源：AsianWiki\n日期：2026-06-22\n摘要：ENA电视台新剧《Idol I》已开播。">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://asianwiki.com/Love_Track:_My_Father%27s_Funeral" target="_blank" rel="noopener">《爱的追踪：父亲的葬礼》KBS2播出</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">AsianWiki</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩剧·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">韩剧《Love Track: My Father's Funeral》于KBS2播出。</div>
+  <div class="card-footer">
+    <a href="https://asianwiki.com/Love_Track:_My_Father%27s_Funeral" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="《爱的追踪：父亲的葬礼》KBS2播出\n来源：AsianWiki\n日期：2026-06-22\n摘要：韩剧《Love Track: My Father&#x27;s Funeral》于KBS2播出。">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://asianwiki.com/Love_Track:_Kimchi" target="_blank" rel="noopener">KBS2新剧《Love Track: Kimchi》</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">AsianWiki</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩剧·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">KBS2播出新剧《Love Track: Kimchi》。</div>
+  <div class="card-footer">
+    <a href="https://asianwiki.com/Love_Track:_Kimchi" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="KBS2新剧《Love Track: Kimchi》\n来源：AsianWiki\n日期：2026-06-22\n摘要：KBS2播出新剧《Love Track: Kimchi》。">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://asianwiki.com/Love_Me_(Korean_Drama)" target="_blank" rel="noopener">JTBC新剧《Love Me》引发关注</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">AsianWiki</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩剧·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">[原文未提及具体行为，仅称：JTBC推出新剧《Love Me》]</div>
+  <div class="card-footer">
+    <a href="https://asianwiki.com/Love_Me_(Korean_Drama)" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="JTBC新剧《Love Me》引发关注\n来源：AsianWiki\n日期：2026-06-22\n摘要：[原文未提及具体行为，仅称：JTBC推出新剧《Love Me》]">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://asianwiki.com/Villains_(Korean_Drama)" target="_blank" rel="noopener">TVING新剧《Villains》引发关注</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">AsianWiki</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩剧·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">[原文未提及具体行为，仅称：TVING推出新剧《Villains》]</div>
+  <div class="card-footer">
+    <a href="https://asianwiki.com/Villains_(Korean_Drama)" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="TVING新剧《Villains》引发关注\n来源：AsianWiki\n日期：2026-06-22\n摘要：[原文未提及具体行为，仅称：TVING推出新剧《Villains》]">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://asianwiki.com/Love_Track:_Finding_Us" target="_blank" rel="noopener">《Love Track: Finding Us》KBS2播出</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">AsianWiki</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩剧·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">韩剧《Love Track: Finding Us》在KBS2播出。</div>
+  <div class="card-footer">
+    <a href="https://asianwiki.com/Love_Track:_Finding_Us" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="《Love Track: Finding Us》KBS2播出\n来源：AsianWiki\n日期：2026-06-22\n摘要：韩剧《Love Track: Finding Us》在KBS2播出。">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://asianwiki.com/Love_Track:_Love_Hotel" target="_blank" rel="noopener">KBS2新剧《Love Track: Love Hotel》</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">AsianWiki</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩剧·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">[原文未提及具体行为，仅称：KBS2播出剧集《Love Track: Love Hotel》]</div>
+  <div class="card-footer">
+    <a href="https://asianwiki.com/Love_Track:_Love_Hotel" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="KBS2新剧《Love Track: Love Hotel》\n来源：AsianWiki\n日期：2026-06-22\n摘要：[原文未提及具体行为，仅称：KBS2播出剧集《Love Track: Love Hotel》]">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://asianwiki.com/The_First_Man" target="_blank" rel="noopener">MBC新剧《The First Man》</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">AsianWiki</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩剧·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">[原文未提及具体行为，仅称：MBC制作新剧《The First Man》]</div>
+  <div class="card-footer">
+    <a href="https://asianwiki.com/The_First_Man" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="MBC新剧《The First Man》\n来源：AsianWiki\n日期：2026-06-22\n摘要：[原文未提及具体行为，仅称：MBC制作新剧《The First Man》]">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://asianwiki.com/Love_Track:_When_We_Were_Wired" target="_blank" rel="noopener">《Love Track: When We Were Wired》KBS2播出</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">AsianWiki</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩剧·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">韩剧《Love Track: When We Were Wired》在KBS2播出。</div>
+  <div class="card-footer">
+    <a href="https://asianwiki.com/Love_Track:_When_We_Were_Wired" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="《Love Track: When We Were Wired》KBS2播出\n来源：AsianWiki\n日期：2026-06-22\n摘要：韩剧《Love Track: When We Were Wired》在KBS2播出。">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://asianwiki.com/Love_Track:_Onion_Soup_After_Hours" target="_blank" rel="noopener">《深夜洋葱汤》KBS2新剧《爱情轨迹》</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">AsianWiki</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩剧·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">[原文未提及具体行为，仅称：KBS2播出剧集《Love Track: Onion Soup After Hours》]</div>
+  <div class="card-footer">
+    <a href="https://asianwiki.com/Love_Track:_Onion_Soup_After_Hours" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="《深夜洋葱汤》KBS2新剧《爱情轨迹》\n来源：AsianWiki\n日期：2026-06-22\n摘要：[原文未提及具体行为，仅称：KBS2播出剧集《Love Track: Onion Soup After Hours》]">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://asianwiki.com/O%27PENing:_Housekeeper" target="_blank" rel="noopener">tvN独幕剧《O'PENing：管家》</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">AsianWiki</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩剧·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">tvN播出独幕剧《O'PENing: Housekeeper》。</div>
+  <div class="card-footer">
+    <a href="https://asianwiki.com/O%27PENing:_Housekeeper" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="tvN独幕剧《O&#x27;PENing：管家》\n来源：AsianWiki\n日期：2026-06-22\n摘要：tvN播出独幕剧《O&#x27;PENing: Housekeeper》。">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://asianwiki.com/O%27PENing:_The_Lake_of_That_Day" target="_blank" rel="noopener">tvN独幕剧《那天的那片湖》公开</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">AsianWiki</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩剧·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">tvN公开了独幕剧《O'PENing: The Lake of That Day》。</div>
+  <div class="card-footer">
+    <a href="https://asianwiki.com/O%27PENing:_The_Lake_of_That_Day" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="tvN独幕剧《那天的那片湖》公开\n来源：AsianWiki\n日期：2026-06-22\n摘要：tvN公开了独幕剧《O&#x27;PENing: The Lake of That Day》。">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://asianwiki.com/Surely_Tomorrow" target="_blank" rel="noopener">JTBC新剧《Surely Tomorrow》</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">AsianWiki</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩剧·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">[原文未提及具体行为，仅称：JTBC推出新剧《Surely Tomorrow》]</div>
+  <div class="card-footer">
+    <a href="https://asianwiki.com/Surely_Tomorrow" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="JTBC新剧《Surely Tomorrow》\n来源：AsianWiki\n日期：2026-06-22\n摘要：[原文未提及具体行为，仅称：JTBC推出新剧《Surely Tomorrow》]">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://asianwiki.com/Pro_Bono_(Korean_Drama)" target="_blank" rel="noopener">tvN新剧《Pro Bono》</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">AsianWiki</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩剧·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">[原文未提及具体行为，仅称：tvN播出剧集《Pro Bono》]</div>
+  <div class="card-footer">
+    <a href="https://asianwiki.com/Pro_Bono_(Korean_Drama)" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="tvN新剧《Pro Bono》\n来源：AsianWiki\n日期：2026-06-22\n摘要：[原文未提及具体行为，仅称：tvN播出剧集《Pro Bono》]">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://asianwiki.com/The_Price_of_Confession" target="_blank" rel="noopener">Netflix剧集《告白的价格》</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">AsianWiki</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩剧·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">[原文未提及具体行为，仅称：Netflix剧集《告白的价格》]</div>
+  <div class="card-footer">
+    <a href="https://asianwiki.com/The_Price_of_Confession" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="Netflix剧集《告白的价格》\n来源：AsianWiki\n日期：2026-06-22\n摘要：[原文未提及具体行为，仅称：Netflix剧集《告白的价格》]">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://asianwiki.com/Shadow_Work" target="_blank" rel="noopener">日剧《Shadow Work》在WOWOW播出</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">AsianWiki</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">日剧·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">日剧《Shadow Work》在WOWOW平台播出。</div>
+  <div class="card-footer">
+    <a href="https://asianwiki.com/Shadow_Work" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="日剧《Shadow Work》在WOWOW播出\n来源：AsianWiki\n日期：2026-06-22\n摘要：日剧《Shadow Work》在WOWOW平台播出。">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://asianwiki.com/Taxi_Driver_3" target="_blank" rel="noopener">《模范出租车3》确定制作，SBS新季来袭</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">AsianWiki</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩剧·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">SBS电视台确认制作热门韩剧《模范出租车》第三季，具体播出时间及演员阵容尚未公布。</div>
+  <div class="card-footer">
+    <a href="https://asianwiki.com/Taxi_Driver_3" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="《模范出租车3》确定制作，SBS新季来袭\n来源：AsianWiki\n日期：2026-06-22\n摘要：SBS电视台确认制作热门韩剧《模范出租车》第三季，具体播出时间及演员阵容尚未公布。">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://asianwiki.com/Heroes_Next_Door" target="_blank" rel="noopener">《Heroes Next Door》Coupang Play新剧</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">AsianWiki</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩剧·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">[原文未提及具体行为，仅称：Coupang Play新剧《Heroes Next Door》]</div>
+  <div class="card-footer">
+    <a href="https://asianwiki.com/Heroes_Next_Door" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="《Heroes Next Door》Coupang Play新剧\n来源：AsianWiki\n日期：2026-06-22\n摘要：[原文未提及具体行为，仅称：Coupang Play新剧《Heroes Next Door》]">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://asianwiki.com/LOVE.exe" target="_blank" rel="noopener">Wavve新剧《LOVE.exe》公开</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">AsianWiki</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩剧·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">Wavve平台公开了新剧《LOVE.exe》的信息。</div>
+  <div class="card-footer">
+    <a href="https://asianwiki.com/LOVE.exe" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="Wavve新剧《LOVE.exe》公开\n来源：AsianWiki\n日期：2026-06-22\n摘要：Wavve平台公开了新剧《LOVE.exe》的信息。">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://asianwiki.com/Last_Samurai_Standing" target="_blank" rel="noopener">Netflix日剧《最后的武士》</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">AsianWiki</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">日剧·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">[原文未提及具体行为，仅称：Netflix日剧《Last Samurai Standing》]</div>
+  <div class="card-footer">
+    <a href="https://asianwiki.com/Last_Samurai_Standing" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="Netflix日剧《最后的武士》\n来源：AsianWiki\n日期：2026-06-22\n摘要：[原文未提及具体行为，仅称：Netflix日剧《Last Samurai Standing》]">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://asianwiki.com/Dynamite_Kiss" target="_blank" rel="noopener">SBS新剧《Dynamite Kiss》</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">AsianWiki</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩剧·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">[原文未提及具体行为，仅称：SBS制作新剧《Dynamite Kiss》]</div>
+  <div class="card-footer">
+    <a href="https://asianwiki.com/Dynamite_Kiss" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="SBS新剧《Dynamite Kiss》\n来源：AsianWiki\n日期：2026-06-22\n摘要：[原文未提及具体行为，仅称：SBS制作新剧《Dynamite Kiss》]">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://asianwiki.com/Don%27t_Call_Me_Ma%27am" target="_blank" rel="noopener">TV朝鲜新剧《别叫我夫人》</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">AsianWiki</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩剧·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">TV朝鲜电视台推出新剧《Don't Call Me Ma'am》（暂译《别叫我夫人》），目前仅公开剧名，具体演员阵容、播出时间等细节尚未披露。</div>
+  <div class="card-footer">
+    <a href="https://asianwiki.com/Don%27t_Call_Me_Ma%27am" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="TV朝鲜新剧《别叫我夫人》\n来源：AsianWiki\n日期：2026-06-22\n摘要：TV朝鲜电视台推出新剧《Don&#x27;t Call Me Ma&#x27;am》（暂译《别叫我夫人》），目前仅公开剧名，具体演员阵容、播出时间等细节尚未披露。">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://asianwiki.com/Moon_River_(Korean_Drama)" target="_blank" rel="noopener">MBC新剧《Moon River》引发关注</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">AsianWiki</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩剧·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">[原文未提及具体行为，仅称：MBC推出新剧《Moon River》]</div>
+  <div class="card-footer">
+    <a href="https://asianwiki.com/Moon_River_(Korean_Drama)" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="MBC新剧《Moon River》引发关注\n来源：AsianWiki\n日期：2026-06-22\n摘要：[原文未提及具体行为，仅称：MBC推出新剧《Moon River》]">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://asianwiki.com/As_You_Stood_By" target="_blank" rel="noopener">Netflix剧集《As You Stood By》</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">AsianWiki</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩剧·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">原文未提及具体行为，仅称：Netflix剧集《As You Stood By》</div>
+  <div class="card-footer">
+    <a href="https://asianwiki.com/As_You_Stood_By" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="Netflix剧集《As You Stood By》\n来源：AsianWiki\n日期：2026-06-22\n摘要：原文未提及具体行为，仅称：Netflix剧集《As You Stood By》">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://asianwiki.com/Dear_X" target="_blank" rel="noopener">TVING新剧《Dear X》公开预告</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">AsianWiki</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩剧·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">[原文未提及具体行为，仅称：TVING公开新剧《Dear X》预告]</div>
+  <div class="card-footer">
+    <a href="https://asianwiki.com/Dear_X" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="TVING新剧《Dear X》公开预告\n来源：AsianWiki\n日期：2026-06-22\n摘要：[原文未提及具体行为，仅称：TVING公开新剧《Dear X》预告]">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://asianwiki.com/The_Manipulated" target="_blank" rel="noopener">Disney+原创剧《The Manipulated》公开</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">AsianWiki</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩剧·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">[原文未提及具体行为，仅称：Disney+原创剧《The Manipulated》公开]</div>
+  <div class="card-footer">
+    <a href="https://asianwiki.com/The_Manipulated" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="Disney+原创剧《The Manipulated》公开\n来源：AsianWiki\n日期：2026-06-22\n摘要：[原文未提及具体行为，仅称：Disney+原创剧《The Manipulated》公开]">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://asianwiki.com/Nice_to_Not_Meet_You" target="_blank" rel="noopener">tvN新剧《Nice to Not Meet You》</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">AsianWiki</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩剧·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">tvN播出剧集《Nice to Not Meet You》。</div>
+  <div class="card-footer">
+    <a href="https://asianwiki.com/Nice_to_Not_Meet_You" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="tvN新剧《Nice to Not Meet You》\n来源：AsianWiki\n日期：2026-06-22\n摘要：tvN播出剧集《Nice to Not Meet You》。">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://asianwiki.com/Last_Summer" target="_blank" rel="noopener">《Last Summer》KBS2播出</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">AsianWiki</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩剧·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">[原文未提及具体行为，仅称：剧名《Last Summer》在KBS2播出]</div>
+  <div class="card-footer">
+    <a href="https://asianwiki.com/Last_Summer" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="《Last Summer》KBS2播出\n来源：AsianWiki\n日期：2026-06-22\n摘要：[原文未提及具体行为，仅称：剧名《Last Summer》在KBS2播出]">匹配模板</button>
+  </div>
+</div>
+</div>
+<div class="tab-panel" data-sid="google-kpop">
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1dUMxY01hQU1qOExVR1daaHVfelQ2ZGtsX0MzcV93VTRmbW9jNjl5bnhWS1FOY09hb00yOTVLRGJQN3B0VUVLblF6cTY2cjV2Snh6WEhKaw?oc=5" target="_blank" rel="noopener">像K-pop练习生一样跳舞——《韩国先驱报》</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">Google News</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩娱·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">[原文未提及具体行为，仅称：Dance like a K-pop trainee - The Korea Herald]</div>
+  <div class="card-footer">
+    <a href="https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1dUMxY01hQU1qOExVR1daaHVfelQ2ZGtsX0MzcV93VTRmbW9jNjl5bnhWS1FOY09hb00yOTVLRGJQN3B0VUVLblF6cTY2cjV2Snh6WEhKaw?oc=5" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="像K-pop练习生一样跳舞——《韩国先驱报》\n来源：Google News\n日期：2026-06-22\n摘要：[原文未提及具体行为，仅称：Dance like a K-pop trainee - The Korea Herald]">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxOUGY2UzhvdVFlSUgzdmNNZ3cyWURYdWo4al9DNno1dUZoVDBfMkNhY0pqWVN4OFBXZVVpZzA2ZTIzSExsSXFIX1lhLUhvUkZrNThyYzRRVVlTZl9Wc0ZxUzdnM0hPdE9XbVluZS1kZzdBR2hGc3ZJdGQtdFQ0R29Ic2ZEY2U4ZTdKM1J2cTc0THlxQTdsWFFDeG1OSW9YVU1XMmVvb294U2V6TEk4OUgzM3I1ejZ3YmfSAeoBQVVfeXFMUERJMXA1RG9qUzBlSUVrNFhNLWcwMzhwVlhuYjd0WlFrWkVOU1k1UndreUlGRDh3NkV1MUNCdUtSalk0a0RFZWxqOEdKYTA4dllQd0tWX2VtM0tfa3JuLWdoVWpVajRTUERnbkM1T0lBeHV2MDhkU0RCNVRPSEpYaEtrMWk0eThLVThsQUhXVGtKZDBEWVpMRUhET2QzMmM3MFJKSmxtUks2Q1JlSV9GRk45c3l2VUJxTjhiUEpOejZmU3dlakVZaGY0TTkxTDA0SlM4TUFwU0lwenlMUWsyeVBDZmUxTm5YWnR3?oc=5" target="_blank" rel="noopener">塞勒姆将举办K-pop驱魔人表演等多元活动</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">Google News</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩娱·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">原文未提及具体行为，仅称：塞勒姆将举办K-pop驱魔人表演、游戏俱乐部、自闭症策略、殖民民兵等活动。</div>
+  <div class="card-footer">
+    <a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxOUGY2UzhvdVFlSUgzdmNNZ3cyWURYdWo4al9DNno1dUZoVDBfMkNhY0pqWVN4OFBXZVVpZzA2ZTIzSExsSXFIX1lhLUhvUkZrNThyYzRRVVlTZl9Wc0ZxUzdnM0hPdE9XbVluZS1kZzdBR2hGc3ZJdGQtdFQ0R29Ic2ZEY2U4ZTdKM1J2cTc0THlxQTdsWFFDeG1OSW9YVU1XMmVvb294U2V6TEk4OUgzM3I1ejZ3YmfSAeoBQVVfeXFMUERJMXA1RG9qUzBlSUVrNFhNLWcwMzhwVlhuYjd0WlFrWkVOU1k1UndreUlGRDh3NkV1MUNCdUtSalk0a0RFZWxqOEdKYTA4dllQd0tWX2VtM0tfa3JuLWdoVWpVajRTUERnbkM1T0lBeHV2MDhkU0RCNVRPSEpYaEtrMWk0eThLVThsQUhXVGtKZDBEWVpMRUhET2QzMmM3MFJKSmxtUks2Q1JlSV9GRk45c3l2VUJxTjhiUEpOejZmU3dlakVZaGY0TTkxTDA0SlM4TUFwU0lwenlMUWsyeVBDZmUxTm5YWnR3?oc=5" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="塞勒姆将举办K-pop驱魔人表演等多元活动\n来源：Google News\n日期：2026-06-22\n摘要：原文未提及具体行为，仅称：塞勒姆将举办K-pop驱魔人表演、游戏俱乐部、自闭症策略、殖民民兵等活动。">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxNanVaWlU0UFQzQVZLbE8ydTRhWURzMmJXQzFfYTdCYVp4YzdNM21Tb1ZWemR5d2ZFSkZtMlNtRXY2U1FCd1VxS0hKVDhEWEc0RVY4YVJqZ0NTRUIxZ3B3NU02VVNDa2ZDWFFjMTNwTkpyVjd2bnVVUjFfcFJJNkpvMXNjQWpwekJ5Mkp3SHpFSTBJY2dBRHAzUlFTa1pjbzBBLUNYaS01RFA0UQ?oc=5" target="_blank" rel="noopener">IVE奥克兰演唱会创新西兰K-pop纪录</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">Google News</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩娱·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">据Rolling Stone Australia报道，韩国女团IVE在奥克兰演唱会中打破了新西兰K-pop纪录，具体纪录内容未详细说明。</div>
+  <div class="card-footer">
+    <a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxNanVaWlU0UFQzQVZLbE8ydTRhWURzMmJXQzFfYTdCYVp4YzdNM21Tb1ZWemR5d2ZFSkZtMlNtRXY2U1FCd1VxS0hKVDhEWEc0RVY4YVJqZ0NTRUIxZ3B3NU02VVNDa2ZDWFFjMTNwTkpyVjd2bnVVUjFfcFJJNkpvMXNjQWpwekJ5Mkp3SHpFSTBJY2dBRHAzUlFTa1pjbzBBLUNYaS01RFA0UQ?oc=5" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="IVE奥克兰演唱会创新西兰K-pop纪录\n来源：Google News\n日期：2026-06-22\n摘要：据Rolling Stone Australia报道，韩国女团IVE在奥克兰演唱会中打破了新西兰K-pop纪录，具体纪录内容未详细说明。">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxQbW1EZ0NFNjd1VEJIT284YzFWUVF6akp4Z1E0Z25qM2VqWUJKWUoxLWVVUHViTlZ0ZWI3cTJFQjR6T1pSa09YMXRGeGZ1cl85M003ZXU4OHVyZkt4VU9VUHphV215SUxlUVdwRlU0VE13bW9COTY5UWhmaG5GbndzMERxcFhxYXZ3MGJSakhvRHQyYU16VlZYaWQyOA?oc=5" target="_blank" rel="noopener">《KPop Demon Hunters》发行一年后仍在创造历史</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">Google News</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩娱·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">据Cartoon Brew报道，动画《KPop Demon Hunters》在发行一年后，仍在持续创造历史纪录。该作品融合K-pop与奇幻元素，具体成就细节未在原文中详述。</div>
+  <div class="card-footer">
+    <a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxQbW1EZ0NFNjd1VEJIT284YzFWUVF6akp4Z1E0Z25qM2VqWUJKWUoxLWVVUHViTlZ0ZWI3cTJFQjR6T1pSa09YMXRGeGZ1cl85M003ZXU4OHVyZkt4VU9VUHphV215SUxlUVdwRlU0VE13bW9COTY5UWhmaG5GbndzMERxcFhxYXZ3MGJSakhvRHQyYU16VlZYaWQyOA?oc=5" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="《KPop Demon Hunters》发行一年后仍在创造历史\n来源：Google News\n日期：2026-06-22\n摘要：据Cartoon Brew报道，动画《KPop Demon Hunters》在发行一年后，仍在持续创造历史纪录。该作品融合K-pop与奇幻元素，具体成就细节未在原文中详述。">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxPNTBhZnNwRFo4LUNFS1c3cGpXSWozOXlEYkZjdVVLZmQ1VFExaVV2QmtDVFdTRUZZUkdwZTVtbHJLbTQ0aTJuTVl6c0JfZ1Y3OFZGU0hQb0lhNVZ2MzJmdjVpM1RDakdxSnNqeVpLRUZhZlZtczBwYXFmVmtRNk5ocl9ydVpPcU9naUJ0djNJdG1FWC1LNWZBc2RyOTFwNWNUdkN3?oc=5" target="_blank" rel="noopener">K-Pop公司DearU将在纽约联合广场开设旗舰店</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">Google News</span>
+    <span class="meta-date">· 2026-06-22</span>
+    <span class="risk-tag risk-low">韩娱·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">据《纽约邮报》报道，K-Pop公司DearU计划在纽约联合广场开设一家旗舰店。</div>
+  <div class="card-footer">
+    <a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxPNTBhZnNwRFo4LUNFS1c3cGpXSWozOXlEYkZjdVVLZmQ1VFExaVV2QmtDVFdTRUZZUkdwZTVtbHJLbTQ0aTJuTVl6c0JfZ1Y3OFZGU0hQb0lhNVZ2MzJmdjVpM1RDakdxSnNqeVpLRUZhZlZtczBwYXFmVmtRNk5ocl9ydVpPcU9naUJ0djNJdG1FWC1LNWZBc2RyOTFwNWNUdkN3?oc=5" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="K-Pop公司DearU将在纽约联合广场开设旗舰店\n来源：Google News\n日期：2026-06-22\n摘要：据《纽约邮报》报道，K-Pop公司DearU计划在纽约联合广场开设一家旗舰店。">匹配模板</button>
+  </div>
+</div>
+</div>
+</div>
+
 <footer>xhsbooster · 韩娱资讯自动化 · DeepSeek 驱动 · <a href="archive.html">往期回顾</a></footer>
 <script>
 function copyDraft(btn) {
-  var text = btn.dataset.copy;
-  navigator.clipboard.writeText(text).then(function() {
+  navigator.clipboard.writeText(btn.dataset.copy).then(function() {
     var toast = document.createElement('div');
     toast.className = 'toast';
-    toast.textContent = '✅ 已复制到剪贴板，粘贴到 Obsidian 提炼助手';
+    toast.textContent = '✅ 已复制，粘贴到 Obsidian 提炼助手';
     document.body.appendChild(toast);
     setTimeout(function(){ toast.remove(); }, 2000);
   });
 }
-
+function toggleDrawer() {
+  document.getElementById('drawer').classList.toggle('open');
+  document.getElementById('overlay').classList.toggle('open');
+}
 document.addEventListener('DOMContentLoaded', function() {
   document.querySelectorAll('.tab-bar').forEach(function(bar) {
     bar.addEventListener('click', function(e) {
