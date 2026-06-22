@@ -304,7 +304,7 @@ class SSGRenderer:
         return h
 
     def _group_by_source(self, articles: list[dict]) -> dict[str, list[dict]]:
-        order = {"soompi": 0, "asianwiki": 1, "google-kpop": 2, "google-jdrama": 3, "oricon": 4}
+        order = {"soompi": 0, "google-kpop": 1, "asianwiki": 2, "google-jdrama": 3, "oricon": 4}
         grouped: dict[str, list[dict]] = {}
         for art in articles:
             sid = art.get("source_id", "other")
