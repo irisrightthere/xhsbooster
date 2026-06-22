@@ -48,12 +48,14 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Restore state cache
-        uses: actions/cache@v4
-        with:
-          path: gh-pages/_state
-          key: xhs-state-${{ github.run_number }}
-          restore-keys: xhs-state-
+      - name: Restore old state from gh-pages
+        run: |
+          git fetch origin gh-pages 2>/dev/null || true
+          mkdir -p gh-pages/_state
+          # 从 gh-pages 分支拉回旧的 _state 文件（仿 DailyBrief 做法）
+          if git show origin/gh-pages:_state/ >/dev/null 2>&1; then
+            git --work-tree=gh-pages checkout origin/gh-pages -- _state/ 2>/dev/null || true
+          fi
 
       - name: Clear dedup cache
         run: rm -f gh-pages/_state/dedup.db
@@ -69,5 +71,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./gh-pages
-          keep_files: true
-          force_orphan: false
+          keep_files: false
