@@ -336,16 +336,15 @@ class Crawler:
                               tzinfo=__import__('datetime').timezone(__import__('datetime').timedelta(hours=8))).timestamp()
             pub_display = f"{month:02d}{day:02d}{source.get('id', 'asianwiki')}"
 
-            # 详情页抓取
+            # 详情页抓取（快速模式：5s超时，失败不阻塞）
             cast = ""
             summary = ""
             try:
-                dr = cffi_requests.get(drama_url, impersonate="chrome120", timeout=15)
+                dr = cffi_requests.get(drama_url, impersonate="chrome120", timeout=8)
                 if dr.status_code == 200:
-                    # Cast
                     cidx = dr.text.find('id="Cast"')
                     if cidx > 0:
-                        cchunk = dr.text[cidx:cidx+4000]
+                        cchunk = dr.text[cidx:cidx+3000]
                         clinks = re.findall(r'<a\s+href="/[^"]+"[^>]*>([^<]+)</a>', cchunk)
                         seen = set()
                         casts = []
@@ -357,39 +356,30 @@ class Crawler:
                                 if len(casts) >= 4:
                                     break
                         cast = " / ".join(casts)
-                    # Synopsis
                     sidx = dr.text.find('id="Plot_Synopsis')
                     if sidx > 0:
-                        schunk = dr.text[sidx:sidx+5000]
+                        schunk = dr.text[sidx:sidx+4000]
                         pidx = schunk.find('<p>')
                         if pidx > 0:
-                            para = schunk[pidx:pidx+2000]
+                            para = schunk[pidx:pidx+1500]
                             summary = re.sub(r'<[^>]+>', ' ', para)
-                            summary = re.sub(r'\s+', ' ', summary).strip()[:500]
+                            summary = re.sub(r'\s+', ' ', summary).strip()[:400]
             except Exception as e:
-                logger.warning(f"AsianWiki 详情页失败: {drama_url} - {e}")
+                logger.debug(f"AsianWiki 详情页跳过: {title[:30]} - {e}")
 
-            # DeepSeek 翻译
+            # DeepSeek 翻译（仅翻译标题，摘要和Cast异步翻译太慢先跳过）
             title_zh = ""
-            cast_zh = ""
-            summary_zh = ""
+            cast_zh = cast  # 先用英文名
+            summary_zh = summary  # 先用英文摘要
             try:
                 from api_client import get_client
                 client = get_client()
                 if client.api_key:
                     title_zh = (client._call(
-                        system_prompt='将以下韩剧/日剧英文标题翻译为简洁的中文标题。只返回中文标题。',
+                        system_prompt='Translate this K-drama/J-drama title to concise Chinese. Output Chinese only.',
                         user_content=title, temperature=0.1, max_tokens=50) or "").strip()
-                    if cast:
-                        cast_zh = (client._call(
-                            system_prompt='将以下演员英文名翻译为中文名。使用业界通用译名。保持 / 分隔符。只返回中文译文。',
-                            user_content=cast, temperature=0.1, max_tokens=100) or "").strip()
-                    if summary:
-                        summary_zh = (client._call(
-                            system_prompt='将以下英文剧情摘要翻译为简洁流畅的中文。只返回中文译文。',
-                            user_content=summary[:500], temperature=0.1, max_tokens=300) or "").strip()
             except Exception as e:
-                logger.warning(f"DeepSeek 翻译失败: {title} - {e}")
+                logger.debug(f"翻译跳过: {title[:30]} - {e}")
 
             articles.append(RawArticle(
                 source_id=source.get("id", ""),
