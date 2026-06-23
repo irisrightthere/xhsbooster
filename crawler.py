@@ -87,7 +87,8 @@ class Crawler:
 
         filtered = []
         for art in all_articles:
-            if today_start <= art.published_ts < today_end:
+            # AsianWiki 是戏剧排期目录，不按新闻日期过滤
+            if art.source_id == 'asianwiki' or (today_start <= art.published_ts < today_end):
                 filtered.append(art)
         skipped = len(all_articles) - len(filtered)
         if skipped:
@@ -380,19 +381,10 @@ class Crawler:
             except Exception as e:
                 logger.debug(f"AsianWiki 详情页跳过: {title[:30]} - {e}")
 
-            # DeepSeek 翻译（仅翻译标题，摘要和Cast异步翻译太慢先跳过）
+            # 暂不翻译，后续在 main pipeline 统一处理
             title_zh = ""
-            cast_zh = cast  # 先用英文名
-            summary_zh = summary  # 先用英文摘要
-            try:
-                from api_client import get_client
-                client = get_client()
-                if client.api_key:
-                    title_zh = (client._call(
-                        system_prompt='Translate this K-drama/J-drama title to concise Chinese. Output Chinese only.',
-                        user_content=title, temperature=0.1, max_tokens=50) or "").strip()
-            except Exception as e:
-                logger.debug(f"翻译跳过: {title[:30]} - {e}")
+            cast_zh = cast
+            summary_zh = summary
 
             articles.append(RawArticle(
                 source_id=source.get("id", ""),
