@@ -130,6 +130,35 @@ body { font: 14px/1.6 -apple-system, "PingFang SC", "Hiragino Sans GB", "Microso
 .archive-list a { color: var(--accent); text-decoration: none; font-size: 15px; }
 .archive-list a:hover { color: var(--accent-hover); }
 .archive-meta { font-size: 13px; color: var(--text2); margin-bottom: 20px; }
+/* AsianWiki drama cards */
+.drama-card { background: var(--surface); border: 1px solid var(--border); border-radius: 8px;
+  padding: 16px 20px; margin-bottom: 10px; transition: .15s; }
+.drama-card:hover { border-color: rgba(255,255,255,0.06); }
+.drama-date { font-size: 12px; color: var(--accent); margin-bottom: 4px; }
+.drama-title { font-size: 17px; font-weight: 700; margin-bottom: 4px; }
+.drama-title a { color: var(--text); text-decoration: none; }
+.drama-title a:hover { color: var(--accent); }
+.drama-cast { font-size: 12px; color: var(--accent); margin: 4px 0; }
+.drama-summary { font-size: 13px; color: var(--text2); line-height: 1.7; margin: 6px 0; }
+.drama-tags { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 6px; }
+.drama-tag { font-size: 10px; padding: 2px 8px; border-radius: 4px;
+  background: rgba(255,255,255,0.03); color: var(--text2); border: 1px solid rgba(255,255,255,0.06); }
+.drama-tag.platform { color: #92B594; background: rgba(146,181,148,.08); border-color: rgba(146,181,148,.2); }
+
+/* Filters */
+.filter-row { display: flex; gap: 8px; margin-bottom: 8px; flex-wrap: wrap; align-items: center; }
+.filter-label { font-size: 11px; color: var(--text2); margin-right: 4px; white-space: nowrap; }
+.filter-chip { padding: 4px 12px; border-radius: 14px; font-size: 11px; cursor: pointer;
+  border: 1px solid var(--border); background: none; color: var(--text2);
+  font-family: inherit; transition: .15s; white-space: nowrap; }
+.filter-chip:hover { border-color: var(--accent); color: var(--accent); }
+.filter-chip.active { background: var(--accent); color: #0B0F19; border-color: var(--accent); }
+
+/* Month header */
+.month-header { font-size: 15px; font-weight: 700; color: var(--text); margin: 20px 0 10px;
+  padding-bottom: 4px; border-bottom: 1px solid var(--border); display: flex; justify-content: space-between; }
+.month-count { font-size: 12px; color: var(--text2); font-weight: 400; }
+
 .empty-state { text-align: center; padding: 60px 20px; color: var(--text2); }
 footer { text-align: center; padding: 30px 0 20px; font-size: 12px; color: var(--text2);
   border-top: 1px solid var(--border); margin-top: 30px; }
@@ -146,6 +175,83 @@ function copyDraft(btn) {
     setTimeout(function(){ toast.remove(); }, 2000);
   });
 }
+// AsianWiki filters
+function _awFilter(){
+  var all = window._awDramas || [];
+  var r = document.querySelector('.filter-chip[data-aw-region].active');
+  var p = document.querySelector('.filter-chip[data-aw-platform].active');
+  var m = document.querySelector('.filter-chip[data-aw-month].active');
+  var region = r ? r.dataset.awRegion : 'all';
+  var plat = p ? p.dataset.awPlatform : 'all';
+  var month = m ? m.dataset.awMonth : 'all';
+  var jp = ['TBS','TV Asahi','Fuji TV','WOWOW','TV Tokyo','NTV','NHK'];
+  function getRegion(d){ return jp.indexOf(d.platform)>=0 ? '日本' : '韩国'; }
+  var filtered = all.filter(function(d){
+    if (region !== 'all' && getRegion(d) !== region) return false;
+    if (plat !== 'all' && d.platform !== plat) return false;
+    if (month === 'tbd') return d.air_date === '2026年待定' || !d.published_ts;
+    if (month !== 'all') {
+      var dm = new Date(d.published_ts*1000).getMonth()+1;
+      if (dm !== parseInt(month)) return false;
+    }
+    return true;
+  });
+  // Re-render list (call into Python-generated function via inline data)
+  var container = document.getElementById('aw-content');
+  if (!container) return;
+  var cst = 8;
+  var monthNames = ['','1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月'];
+  var groups={}, tbd=[];
+  filtered.forEach(function(d){
+    if (d.air_date === '2026年待定' || !d.published_ts) { tbd.push(d); }
+    else {
+      var dt = new Date(d.published_ts*1000);
+      var key = dt.getFullYear()+'-'+String(dt.getMonth()+1).padStart(2,'0');
+      if (!groups[key]) groups[key]=[];
+      groups[key].push(d);
+    }
+  });
+  var h='';
+  Object.keys(groups).sort().forEach(function(key){
+    var parts=key.split('-');
+    h+='<div class=\"month-header\">📅 '+parts[0]+'年 '+monthNames[parseInt(parts[1])]+' 上映剧集 <span class=\"month-count\">(共 '+groups[key].length+' 部)</span></div>';
+    groups[key].forEach(function(d){
+      h+=_awCard(d, false);
+    });
+  });
+  if(tbd.length){
+    h+='<div class=\"month-header\">📌 2026年待定 <span class=\"month-count\">(共 '+tbd.length+' 部)</span></div>';
+    tbd.forEach(function(d){ h+=_awCard(d, true); });
+  }
+  container.innerHTML = h || '<div class=\"empty-state\">📭 没有匹配的剧集</div>';
+}
+function _awCard(d, isTbd){
+  var jp=['TBS','TV Asahi','Fuji TV','WOWOW','TV Tokyo','NTV','NHK'];
+  var genre = jp.indexOf(d.platform)>=0 ? '日剧' : '韩剧';
+  var fullTitle = d.title + (d.title_zh ? ' | ' + d.title_zh : '');
+  var dateStr = isTbd ? '2026年' : '';
+  if (!isTbd && d.published_ts){
+    var dt = new Date(d.published_ts*1000);
+    dateStr = (dt.getMonth()+1)+'月 '+dt.getDate()+'日';
+  }
+  var h = '<div class=\"drama-card\">';
+  if(dateStr) h += '<div class=\"drama-date\">🗓️ '+dateStr+'</div>';
+  h += '<div class=\"drama-title\"><a href=\"'+d.url+'\" target=\"_blank\">'+fullTitle+'</a></div>';
+  if(d.cast) h += '<div class=\"drama-cast\">Cast: '+d.cast+'</div>';
+  if(d.summary_zh) h += '<div class=\"drama-summary\">'+d.summary_zh+'</div>';
+  h += '<div class=\"drama-tags\"><span class=\"drama-tag platform\">'+d.platform+'</span><span class=\"drama-tag\">'+genre+'</span></div></div>';
+  return h;
+}
+// Bind AsianWiki filter clicks
+document.addEventListener('click', function(e){
+  var chip = e.target.closest('[data-aw-region], [data-aw-platform], [data-aw-month]');
+  if (!chip) return;
+  var attr = chip.dataset.awRegion ? 'aw-region' : (chip.dataset.awPlatform ? 'aw-platform' : 'aw-month');
+  document.querySelectorAll('[data-'+attr+']').forEach(function(c){ c.classList.remove('active'); });
+  chip.classList.add('active');
+  _awFilter();
+});
+
 function toggleDrawer() {
   document.getElementById('drawer').classList.toggle('open');
   document.getElementById('overlay').classList.toggle('open');
@@ -254,8 +360,11 @@ class SSGRenderer:
         for i, sid in enumerate(sids):
             active = ' active' if i == 0 else ''
             body += f'<div class="tab-panel{active}" data-sid="{sid}">\n'
-            for art in grouped[sid]:
-                body += self._render_card(art)
+            if sid == 'asianwiki':
+                body += self._render_asianwiki_panel(grouped[sid])
+            else:
+                for art in grouped[sid]:
+                    body += self._render_card(art)
             body += '</div>\n'
         body += '</div>\n'
 
@@ -301,6 +410,142 @@ class SSGRenderer:
         h += f'    <button class="btn-match" onclick="copyDraft(this)" data-copy="{copy_text}">匹配模板</button>\n'
         h += '  </div>\n'
         h += '</div>\n'
+        return h
+
+    # ── AsianWiki 专属渲染 ──────────────────────────
+
+    def _render_asianwiki_panel(self, articles: list[dict]) -> str:
+        """渲染 AsianWiki 面板：三层筛选 + 按月分组 + 戏剧卡片。"""
+        import json as _json
+
+        # 解析 content JSON 字段
+        dramas = []
+        for art in articles:
+            try:
+                extra = _json.loads(art.get("content", "{}"))
+            except Exception:
+                extra = {}
+            dramas.append({
+                **art,
+                "title_zh": extra.get("title_zh", "") or art.get("title_zh", ""),
+                "cast": extra.get("cast", "") or extra.get("cast_en", ""),
+                "summary_zh": extra.get("summary_zh", "") or extra.get("summary_en", ""),
+                "platform": extra.get("platform", "TBA"),
+                "air_date": extra.get("air_date", ""),
+                "published_ts": art.get("published_ts", 0),
+            })
+
+        # 平台列表
+        platforms = sorted(set(d.get("platform", "TBA") for d in dramas if d.get("platform")))
+
+        # 月份
+        months_in_data = sorted(set(
+            __import__('datetime').datetime.fromtimestamp(d["published_ts"], tz=__import__('datetime').timezone(__import__('datetime').timedelta(hours=8))).month
+            for d in dramas if d["published_ts"] > 0 and d.get("air_date") != "2026年待定"
+        ))
+
+        h = ''
+        # 地区筛选
+        h += '<div class="filter-row"><span class="filter-label">地区:</span>'
+        h += '<button class="filter-chip active" data-aw-region="all">全部</button>'
+        h += '<button class="filter-chip" data-aw-region="韩国">韩国</button>'
+        h += '<button class="filter-chip" data-aw-region="日本">日本</button>'
+        h += '</div>\n'
+
+        # 平台筛选
+        h += '<div class="filter-row"><span class="filter-label">平台:</span>'
+        h += '<button class="filter-chip active" data-aw-platform="all">全部</button>'
+        for p in platforms[:12]:
+            h += f'<button class="filter-chip" data-aw-platform="{p}">{p}</button>'
+        h += '</div>\n'
+
+        # 月份筛选
+        h += '<div class="filter-row"><span class="filter-label">月份:</span>'
+        h += '<button class="filter-chip active" data-aw-month="all">全部</button>'
+        month_names = ['','1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月']
+        for m in months_in_data:
+            h += f'<button class="filter-chip" data-aw-month="{m}">{month_names[m]}</button>'
+        h += '<button class="filter-chip" data-aw-month="tbd">📌 待定</button>'
+        h += '</div>\n'
+
+        h += '<div id="aw-content">'
+        h += self._render_drama_list(dramas)
+        h += '</div>'
+
+        # 内联 JS 数据
+        import json as _json2
+        h += '<script>window._awDramas = ' + _json2.dumps(dramas, ensure_ascii=False) + ';</script>'
+        return h
+
+    def _render_drama_list(self, dramas: list[dict]) -> str:
+        """渲染剧集列表（按月分组）"""
+        from datetime import datetime, timezone, timedelta
+        cst = timezone(timedelta(hours=8))
+        month_names = ['','1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月']
+
+        # 分组
+        groups: dict[str, list] = {}
+        tbd = []
+        for d in dramas:
+            if d.get("air_date") == "2026年待定" or d.get("published_ts", 0) == 0:
+                tbd.append(d)
+            else:
+                dt = datetime.fromtimestamp(d["published_ts"], tz=cst)
+                key = f"{dt.year}-{dt.month:02d}"
+                groups.setdefault(key, []).append(d)
+
+        h = ''
+        for key in sorted(groups):
+            y, m = key.split('-')
+            label = f"{y}年 {month_names[int(m)]}"
+            h += f'<div class="month-header">📅 {label} 上映剧集 <span class="month-count">(共 {len(groups[key])} 部)</span></div>'
+            for d in groups[key]:
+                h += self._render_drama_card(d)
+
+        if tbd:
+            h += f'<div class="month-header">📌 2026年待定 <span class="month-count">(共 {len(tbd)} 部)</span></div>'
+            for d in tbd:
+                h += self._render_drama_card(d, is_tbd=True)
+        return h
+
+    def _render_drama_card(self, d: dict, is_tbd: bool = False) -> str:
+        """渲染单张戏剧卡片"""
+        from datetime import datetime, timezone, timedelta
+        cst = timezone(timedelta(hours=8))
+        title = d.get("title", "")
+        title_zh = d.get("title_zh", "")
+        cast = d.get("cast", "")
+        summary = d.get("summary_zh", "")
+        platform = d.get("platform", "TBA")
+        url = d.get("url", "#")
+
+        # 日期
+        if is_tbd:
+            date_str = "2026年"
+        elif d.get("published_ts", 0) > 0:
+            dt = datetime.fromtimestamp(d["published_ts"], tz=cst)
+            date_str = f"{dt.month}月 {dt.day}日"
+        else:
+            date_str = ""
+
+        # 剧种
+        jp_platforms = ['TBS','TV Asahi','Fuji TV','WOWOW','TV Tokyo','NTV','NHK']
+        genre = "日剧" if platform in jp_platforms else "韩剧"
+
+        full_title = f"{title} | {title_zh}" if title_zh else title
+
+        h = '<div class="drama-card">\n'
+        if date_str:
+            h += f'<div class="drama-date">🗓️ {date_str}</div>\n'
+        h += f'<div class="drama-title"><a href="{url}" target="_blank">{full_title}</a></div>\n'
+        if cast:
+            h += f'<div class="drama-cast">Cast: {cast}</div>\n'
+        if summary:
+            h += f'<div class="drama-summary">{summary}</div>\n'
+        h += '<div class="drama-tags">'
+        h += f'<span class="drama-tag platform">{platform}</span>'
+        h += f'<span class="drama-tag">{genre}</span>'
+        h += '</div>\n</div>\n'
         return h
 
     def _group_by_source(self, articles: list[dict]) -> dict[str, list[dict]]:

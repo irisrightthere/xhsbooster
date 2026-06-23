@@ -295,46 +295,101 @@ class Crawler:
             logger.error("curl_cffi 未安装，无法抓取 AsianWiki")
             return []
 
+        month_map = {'January':1,'February':2,'March':3,'April':4,'May':5,'June':6,
+                     'July':7,'August':8,'September':9,'October':10,'November':11,'December':12}
+        current_year = 2026
+
         try:
-            r = cffi_requests.get(
-                "https://asianwiki.com/Main_Page",
-                impersonate="chrome120",
-                timeout=30,
-            )
+            r = cffi_requests.get("https://asianwiki.com/Main_Page", impersonate="chrome120", timeout=30)
         except Exception as e:
             logger.error(f"AsianWiki 请求失败: {e}")
             return []
-
         if r.status_code != 200:
             logger.error(f"AsianWiki HTTP {r.status_code}")
             return []
 
-        # 提取 Upcoming Dramas 区块
         start = r.text.find('id="Upcoming_Dramas"')
         end = r.text.find('<h2>', start + 100) if start > 0 else -1
         if start < 0 or end < 0:
-            logger.error("AsianWiki 页面结构变化，未找到 Upcoming Dramas")
+            logger.error("AsianWiki 页面结构变化")
             return []
-
         section = r.text[start:end]
 
-        # 解析: * <a href="...">剧名</a> (电视台)
-        pattern = r'\*?\s*<a\s+href="(https://asianwiki\.com/[^"]+)"[^>]*>([^<]+)</a>\s*\(?([^)<\n]*)'
+        # 解析月度排期: "Month Day" + <a href>Title</a> (Station)
+        pattern = r'"([A-Z][a-z]+(?:\s+\d+(?:-\d+)?)?)"\s*<br[^>]*>\s*\*?\s*<a href="(https://asianwiki\.com/[^"]+)">([^<]+)</a>\s*\(?([^)<\n]*)'
         matches = re.findall(pattern, section)
 
         articles = []
-        for drama_url, title, station in matches[:max_items]:
+        for date_str, drama_url, title, station in matches:
             title = title.strip()
             station = station.strip().strip("()").strip()
             if not title:
                 continue
 
-            # 组装内容：剧名 + 电视台
-            content = f"{title}"
-            if station:
-                content += f" ({station})"
+            # 解析日期
+            parts = date_str.split()
+            month = month_map.get(parts[0], 0)
+            if month in (11, 12):
+                continue  # 过滤 2025年
+            day = int(parts[1].split('-')[0]) if len(parts) > 1 else 1
+            pub_ts = datetime(current_year, month, day, 12, 0, 0,
+                              tzinfo=__import__('datetime').timezone(__import__('datetime').timedelta(hours=8))).timestamp()
+            pub_display = f"{month:02d}{day:02d}{source.get('id', 'asianwiki')}"
 
-            pub_display, pub_ts = normalize_to_cst("", source.get("id", ""), source.get("source_lang", "en"))
+            # 详情页抓取
+            cast = ""
+            summary = ""
+            try:
+                dr = cffi_requests.get(drama_url, impersonate="chrome120", timeout=15)
+                if dr.status_code == 200:
+                    # Cast
+                    cidx = dr.text.find('id="Cast"')
+                    if cidx > 0:
+                        cchunk = dr.text[cidx:cidx+4000]
+                        clinks = re.findall(r'<a\s+href="/[^"]+"[^>]*>([^<]+)</a>', cchunk)
+                        seen = set()
+                        casts = []
+                        for c in clinks:
+                            c = c.strip()
+                            if c and c not in seen and len(c) > 1 and 'Cast' not in c and 'Plot' not in c:
+                                seen.add(c)
+                                casts.append(c)
+                                if len(casts) >= 4:
+                                    break
+                        cast = " / ".join(casts)
+                    # Synopsis
+                    sidx = dr.text.find('id="Plot_Synopsis')
+                    if sidx > 0:
+                        schunk = dr.text[sidx:sidx+5000]
+                        pidx = schunk.find('<p>')
+                        if pidx > 0:
+                            para = schunk[pidx:pidx+2000]
+                            summary = re.sub(r'<[^>]+>', ' ', para)
+                            summary = re.sub(r'\s+', ' ', summary).strip()[:500]
+            except Exception as e:
+                logger.warning(f"AsianWiki 详情页失败: {drama_url} - {e}")
+
+            # DeepSeek 翻译
+            title_zh = ""
+            cast_zh = ""
+            summary_zh = ""
+            try:
+                from api_client import get_client
+                client = get_client()
+                if client.api_key:
+                    title_zh = (client._call(
+                        system_prompt='将以下韩剧/日剧英文标题翻译为简洁的中文标题。只返回中文标题。',
+                        user_content=title, temperature=0.1, max_tokens=50) or "").strip()
+                    if cast:
+                        cast_zh = (client._call(
+                            system_prompt='将以下演员英文名翻译为中文名。使用业界通用译名。保持 / 分隔符。只返回中文译文。',
+                            user_content=cast, temperature=0.1, max_tokens=100) or "").strip()
+                    if summary:
+                        summary_zh = (client._call(
+                            system_prompt='将以下英文剧情摘要翻译为简洁流畅的中文。只返回中文译文。',
+                            user_content=summary[:500], temperature=0.1, max_tokens=300) or "").strip()
+            except Exception as e:
+                logger.warning(f"DeepSeek 翻译失败: {title} - {e}")
 
             articles.append(RawArticle(
                 source_id=source.get("id", ""),
@@ -342,13 +397,56 @@ class Crawler:
                 l1_tab=source.get("l1_tab", "韩娱"),
                 title=title,
                 url=drama_url,
-                content=content,
+                content=json.dumps({
+                    "title_zh": title_zh,
+                    "cast": cast_zh or cast,
+                    "cast_en": cast,
+                    "summary_zh": summary_zh or summary,
+                    "summary_en": summary,
+                    "platform": station,
+                    "air_date": date_str,
+                }, ensure_ascii=False),
                 published_at=pub_display,
                 published_ts=pub_ts,
                 category="韩剧",
                 source_lang=source.get("source_lang", "en"),
             ))
 
+        # 也抓 "2026" 待定区块
+        tbd_entries = self._fetch_asianwiki_tbd(cffi_requests, r.text, source)
+        articles.extend(tbd_entries)
+
+        logger.info(f"AsianWiki: {len(articles)} 部 (含{len(tbd_entries)}部待定)")
+        return articles
+
+    def _fetch_asianwiki_tbd(self, cffi_requests, html: str, source: dict) -> list[RawArticle]:
+        """抓取 AsianWiki 2026 待定剧集"""
+        import re as _re
+        pos = html.find('>2026<')
+        if pos < 0:
+            return []
+        chunk = html[pos:pos+3000]
+        titles = _re.findall(r'<a href="(https://asianwiki\.com/[^"]+)"[^>]*>([^<]+)</a>', chunk)
+        seen = set()
+        articles = []
+        for url, title in titles:
+            title = title.strip()
+            if title in seen or len(title) < 2:
+                continue
+            seen.add(title)
+            pub_ts = now_cst().timestamp()
+            articles.append(RawArticle(
+                source_id=source.get("id", ""),
+                source_name=source.get("name", ""),
+                l1_tab=source.get("l1_tab", "韩娱"),
+                title=title,
+                url=url,
+                content=json.dumps({"platform": "TBA", "air_date": "2026年待定"}, ensure_ascii=False),
+                published_at="0000asianwiki",
+                published_ts=pub_ts,
+                category="韩剧",
+                source_lang=source.get("source_lang", "en"),
+            ))
         return articles
 
     # ── 工具 ────────────────────────────────────────
