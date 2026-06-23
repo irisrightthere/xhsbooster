@@ -124,6 +124,35 @@ body { font: 14px/1.6 -apple-system, "PingFang SC", "Hiragino Sans GB", "Microso
 .archive-list a { color: var(--accent); text-decoration: none; font-size: 15px; }
 .archive-list a:hover { color: var(--accent-hover); }
 .archive-meta { font-size: 13px; color: var(--text2); margin-bottom: 20px; }
+/* AsianWiki drama cards */
+.drama-card { background: var(--surface); border: 1px solid var(--border); border-radius: 8px;
+  padding: 16px 20px; margin-bottom: 10px; transition: .15s; }
+.drama-card:hover { border-color: rgba(255,255,255,0.06); }
+.drama-date { font-size: 12px; color: var(--accent); margin-bottom: 4px; }
+.drama-title { font-size: 17px; font-weight: 700; margin-bottom: 4px; }
+.drama-title a { color: var(--text); text-decoration: none; }
+.drama-title a:hover { color: var(--accent); }
+.drama-cast { font-size: 12px; color: var(--accent); margin: 4px 0; }
+.drama-summary { font-size: 13px; color: var(--text2); line-height: 1.7; margin: 6px 0; }
+.drama-tags { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 6px; }
+.drama-tag { font-size: 10px; padding: 2px 8px; border-radius: 4px;
+  background: rgba(255,255,255,0.03); color: var(--text2); border: 1px solid rgba(255,255,255,0.06); }
+.drama-tag.platform { color: #92B594; background: rgba(146,181,148,.08); border-color: rgba(146,181,148,.2); }
+
+/* Filters */
+.filter-row { display: flex; gap: 8px; margin-bottom: 8px; flex-wrap: wrap; align-items: center; }
+.filter-label { font-size: 11px; color: var(--text2); margin-right: 4px; white-space: nowrap; }
+.filter-chip { padding: 4px 12px; border-radius: 14px; font-size: 11px; cursor: pointer;
+  border: 1px solid var(--border); background: none; color: var(--text2);
+  font-family: inherit; transition: .15s; white-space: nowrap; }
+.filter-chip:hover { border-color: var(--accent); color: var(--accent); }
+.filter-chip.active { background: var(--accent); color: #0B0F19; border-color: var(--accent); }
+
+/* Month header */
+.month-header { font-size: 15px; font-weight: 700; color: var(--text); margin: 20px 0 10px;
+  padding-bottom: 4px; border-bottom: 1px solid var(--border); display: flex; justify-content: space-between; }
+.month-count { font-size: 12px; color: var(--text2); font-weight: 400; }
+
 .empty-state { text-align: center; padding: 60px 20px; color: var(--text2); }
 footer { text-align: center; padding: 30px 0 20px; font-size: 12px; color: var(--text2);
   border-top: 1px solid var(--border); margin-top: 30px; }
@@ -139,11 +168,62 @@ footer a { color: var(--accent); text-decoration: none; }
 </div>
 <header class="report-header"><span class="eyebrow">🍠 xhsbooster</span><h1 class="report-title">2026-06-23</h1><a class="archive-link" onclick="toggleDrawer()">← 往期回顾</a></header>
 <div class="tab-bar">
-  <button class="tab-btn active" data-sid="soompi">[Soompi]<span class="tab-count">22</span></button>
-  <button class="tab-btn" data-sid="google-kpop">[Google News]<span class="tab-count">14</span></button>
+  <button class="tab-btn active" data-sid="soompi">[Soompi]<span class="tab-count">25</span></button>
+  <button class="tab-btn" data-sid="google-kpop">[Google News]<span class="tab-count">15</span></button>
 </div>
 <div class="content">
 <div class="tab-panel active" data-sid="soompi">
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://www.soompi.com/article/1849875wpp/watch-hearts2hearts-wows-with-perfect-synchronization-in-lemon-tang-dance-practice-video" target="_blank" rel="noopener">Hearts2Hearts《Lemon Tang》舞蹈练习室视频公开，完美同步引赞叹</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">Soompi</span>
+    <span class="meta-date">· 2026-06-23</span>
+    <span class="risk-tag risk-low">韩娱·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">6月23日，SM娱乐旗下新人女团Hearts2Hearts公开了新迷你专辑同名主打曲《Lemon Tang》的官方舞蹈练习室视频。视频完整呈现了该曲的高能量编舞，成员们以完美的同步表演吸引了关注。</div>
+  <div class="card-footer">
+    <a href="https://www.soompi.com/article/1849875wpp/watch-hearts2hearts-wows-with-perfect-synchronization-in-lemon-tang-dance-practice-video" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="Hearts2Hearts《Lemon Tang》舞蹈练习室视频公开，完美同步引赞叹\n来源：Soompi\n日期：2026-06-23\n摘要：6月23日，SM娱乐旗下新人女团Hearts2Hearts公开了新迷你专辑同名主打曲《Lemon Tang》的官方舞蹈练习室视频。视频完整呈现了该曲的高能量编舞，成员们以完美的同步表演吸引了关注。">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://www.soompi.com/article/1849867wpp/park-se-young-stands-at-the-heart-of-a-familys-deepest-wounds-in-family-register" target="_blank" rel="noopener">朴世荣新剧《家庭登记簿》海报公开，饰演家庭创伤核心人物</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">Soompi</span>
+    <span class="meta-date">· 2026-06-23</span>
+    <span class="risk-tag risk-low">韩剧·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">MBC新日日剧《家庭登记簿》公开两张主海报，朴世荣饰演的角色处于家庭最深创伤的中心。该剧讲述一个从出生就被视为毁掉家庭的孩子，以及一位女性对抗偏见与命运、重获新生的故事。</div>
+  <div class="card-footer">
+    <a href="https://www.soompi.com/article/1849867wpp/park-se-young-stands-at-the-heart-of-a-familys-deepest-wounds-in-family-register" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="朴世荣新剧《家庭登记簿》海报公开，饰演家庭创伤核心人物\n来源：Soompi\n日期：2026-06-23\n摘要：MBC新日日剧《家庭登记簿》公开两张主海报，朴世荣饰演的角色处于家庭最深创伤的中心。该剧讲述一个从出生就被视为毁掉家庭的孩子，以及一位女性对抗偏见与命运、重获新生的故事。">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://www.soompi.com/article/1849861wpp/variety-show-happy-together-announces-return-with-yu-jae-seok-jang-hang-jun-and-yoon-jong-shin" target="_blank" rel="noopener">KBS2《Happy Together》重启，刘在石、张恒俊、尹钟信加盟</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">Soompi</span>
+    <span class="meta-date">· 2026-06-23</span>
+    <span class="risk-tag risk-low">韩娱·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">KBS2人气综艺《Happy Together》宣布重启，更名为《Happy Together: Glad We're Not Alone》（暂译），由刘在石、张恒俊、尹钟信担任主持人。KBS于6月23日公开三张新海报，展示主持人之间的化学反应，并正式宣布首播日期。</div>
+  <div class="card-footer">
+    <a href="https://www.soompi.com/article/1849861wpp/variety-show-happy-together-announces-return-with-yu-jae-seok-jang-hang-jun-and-yoon-jong-shin" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="KBS2《Happy Together》重启，刘在石、张恒俊、尹钟信加盟\n来源：Soompi\n日期：2026-06-23\n摘要：KBS2人气综艺《Happy Together》宣布重启，更名为《Happy Together: Glad We&#x27;re Not Alone》（暂译），由刘在石、张恒俊、尹钟信担任主持人。KBS于6月23日公开三张新海报，展示主持人之间的化学反应，并正式宣布首播日期。">匹配模板</button>
+  </div>
+</div>
 <div class="card">
   <div class="card-head">
     <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
@@ -172,16 +252,16 @@ footer a { color: var(--accent); text-decoration: none; }
     <span class="risk-tag risk-low">韩娱·低</span>
   </div>
   <hr class="card-sep">
-  <div class="card-summary">黄政民、赵寅成、郑好娟近日为宣传新片《HOPE》与ELLE Korea合作拍摄画报并接受采访。影片设定在非军事区附近的Hopo港，黄政民饰演警察分局长Bum Seok，在年轻人报告老虎出没后，他与全村人共同应对这一事件。</div>
+  <div class="card-summary">黄政民、赵寅成、郑好娟近日为电影《HOPE》与ELLE Korea合作拍摄画报并接受采访。该片讲述黄政民饰演的警察分局局长Bum Seok在非军事区附近村庄Hopo Port，因当地青年报告老虎 sightings 而引发的一系列故事。</div>
   <div class="card-footer">
     <a href="https://www.soompi.com/article/1849561wpp/hwang-jung-min-zo-in-sung-and-jung-ho-yeon-talk-about-their-upcoming-film-hope" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
-    <button class="btn-match" onclick="copyDraft(this)" data-copy="黄政民、赵寅成、郑好娟谈新片《HOPE》\n来源：Soompi\n日期：2026-06-23\n摘要：黄政民、赵寅成、郑好娟近日为宣传新片《HOPE》与ELLE Korea合作拍摄画报并接受采访。影片设定在非军事区附近的Hopo港，黄政民饰演警察分局长Bum Seok，在年轻人报告老虎出没后，他与全村人共同应对这一事件。">匹配模板</button>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="黄政民、赵寅成、郑好娟谈新片《HOPE》\n来源：Soompi\n日期：2026-06-23\n摘要：黄政民、赵寅成、郑好娟近日为电影《HOPE》与ELLE Korea合作拍摄画报并接受采访。该片讲述黄政民饰演的警察分局局长Bum Seok在非军事区附近村庄Hopo Port，因当地青年报告老虎 sightings 而引发的一系列故事。">匹配模板</button>
   </div>
 </div>
 <div class="card">
   <div class="card-head">
     <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
-    <div class="card-title"><a href="https://www.soompi.com/article/1849768wpp/watch-namkoong-min-is-desperate-to-rescue-lee-seol-from-kim-dae-myeung-in-the-husband-teaser" target="_blank" rel="noopener">南宫珉新剧《丈夫》预告：拼命从金大明手中救出李雪</a></div>
+    <div class="card-title"><a href="https://www.soompi.com/article/1849768wpp/watch-namkoong-min-is-desperate-to-rescue-lee-seol-from-kim-dae-myeung-in-the-husband-teaser" target="_blank" rel="noopener">南宫珉新剧《丈夫》预告：为救李雪与金大明展开殊死搏斗</a></div>
   </div>
   <div class="card-meta">
     <span class="meta-source">Soompi</span>
@@ -189,16 +269,16 @@ footer a { color: var(--accent); text-decoration: none; }
     <span class="risk-tag risk-low">韩剧·低</span>
   </div>
   <hr class="card-sep">
-  <div class="card-summary">即将播出的韩剧《丈夫》发布新预告，该剧由南宫珉主演，讲述一名濒临离婚的男子为救妻子意外卷入与危险罪犯的殊死搏斗。南宫珉饰演神经外科医生姜泰柱，预告中他拼命从金大明手中救出李雪。</div>
+  <div class="card-summary">即将播出的韩剧《丈夫》发布新预告。该剧是一部惊悚片，由南宫珉主演，饰演一名处于离婚边缘的男子，为救妻子意外卷入与危险罪犯的殊死搏斗。预告中，南宫珉饰演的姜泰柱拼命从金大明饰演的角色手中救出李雪。</div>
   <div class="card-footer">
     <a href="https://www.soompi.com/article/1849768wpp/watch-namkoong-min-is-desperate-to-rescue-lee-seol-from-kim-dae-myeung-in-the-husband-teaser" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
-    <button class="btn-match" onclick="copyDraft(this)" data-copy="南宫珉新剧《丈夫》预告：拼命从金大明手中救出李雪\n来源：Soompi\n日期：2026-06-23\n摘要：即将播出的韩剧《丈夫》发布新预告，该剧由南宫珉主演，讲述一名濒临离婚的男子为救妻子意外卷入与危险罪犯的殊死搏斗。南宫珉饰演神经外科医生姜泰柱，预告中他拼命从金大明手中救出李雪。">匹配模板</button>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="南宫珉新剧《丈夫》预告：为救李雪与金大明展开殊死搏斗\n来源：Soompi\n日期：2026-06-23\n摘要：即将播出的韩剧《丈夫》发布新预告。该剧是一部惊悚片，由南宫珉主演，饰演一名处于离婚边缘的男子，为救妻子意外卷入与危险罪犯的殊死搏斗。预告中，南宫珉饰演的姜泰柱拼命从金大明饰演的角色手中救出李雪。">匹配模板</button>
   </div>
 </div>
 <div class="card">
   <div class="card-head">
     <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
-    <div class="card-title"><a href="https://www.soompi.com/article/1849822wpp/jtbc-responds-to-reports-about-variety-shows-amid-corporate-rehabilitation-process" target="_blank" rel="noopener">JTBC否认公司重整期间停拍综艺传闻</a></div>
+    <div class="card-title"><a href="https://www.soompi.com/article/1849822wpp/jtbc-responds-to-reports-about-variety-shows-amid-corporate-rehabilitation-process" target="_blank" rel="noopener">JTBC否认企业重整期间停拍综艺报道</a></div>
   </div>
   <div class="card-meta">
     <span class="meta-source">Soompi</span>
@@ -206,10 +286,10 @@ footer a { color: var(--accent); text-decoration: none; }
     <span class="risk-tag risk-mid">舆论·中</span>
   </div>
   <hr class="card-sep">
-  <div class="card-summary">JTBC否认了关于公司重整期间停止综艺节目拍摄的报道。此前6月12日，JTBC因未能偿还206亿韩元（约1500万美元）证券化贷款而宣布违约。随后，JoongAng Holdings、Contentree JoongAng、Megabox JoongAng和JoongAng P&I申请了公司重整。</div>
+  <div class="card-summary">JTBC否认了关于在企业重整期间停拍综艺节目的报道。此前6月12日，JTBC因未能偿还206亿韩元（约1500万美元）证券化贷款而宣布违约。随后，JoongAng Holdings、Contentree JoongAng、Megabox JoongAng和JoongAng P&I申请了企业重整。</div>
   <div class="card-footer">
     <a href="https://www.soompi.com/article/1849822wpp/jtbc-responds-to-reports-about-variety-shows-amid-corporate-rehabilitation-process" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
-    <button class="btn-match" onclick="copyDraft(this)" data-copy="JTBC否认公司重整期间停拍综艺传闻\n来源：Soompi\n日期：2026-06-23\n摘要：JTBC否认了关于公司重整期间停止综艺节目拍摄的报道。此前6月12日，JTBC因未能偿还206亿韩元（约1500万美元）证券化贷款而宣布违约。随后，JoongAng Holdings、Contentree JoongAng、Megabox JoongAng和JoongAng P&amp;I申请了公司重整。">匹配模板</button>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="JTBC否认企业重整期间停拍综艺报道\n来源：Soompi\n日期：2026-06-23\n摘要：JTBC否认了关于在企业重整期间停拍综艺节目的报道。此前6月12日，JTBC因未能偿还206亿韩元（约1500万美元）证券化贷款而宣布违约。随后，JoongAng Holdings、Contentree JoongAng、Megabox JoongAng和JoongAng P&amp;I申请了企业重整。">匹配模板</button>
   </div>
 </div>
 <div class="card">
@@ -223,10 +303,10 @@ footer a { color: var(--accent); text-decoration: none; }
     <span class="risk-tag risk-low">韩剧·低</span>
   </div>
   <hr class="card-sep">
-  <div class="card-summary">tvN新剧《明天见》公开最新剧照，徐仁国与朴智贤饰演的角色在画面中即将接吻，令观众心跳加速。该剧改编自同名热门网漫，讲述朴智贤饰演的职场人车智允在职业瓶颈期与徐仁国饰演的角色相遇后展开的浪漫故事。</div>
+  <div class="card-summary">tvN新剧《明天见》公开新剧照，徐仁国与朴智贤饰演的角色即将接吻。该剧改编自同名热门网漫，朴智贤饰演陷入职业瓶颈的职场人车智允。</div>
   <div class="card-footer">
     <a href="https://www.soompi.com/article/1849819wpp/seo-in-guk-and-park-ji-hyun-are-moments-away-from-a-kiss-in-see-you-at-work-tomorrow" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
-    <button class="btn-match" onclick="copyDraft(this)" data-copy="徐仁国与朴智贤新剧《明天见》吻戏前夕剧照公开\n来源：Soompi\n日期：2026-06-23\n摘要：tvN新剧《明天见》公开最新剧照，徐仁国与朴智贤饰演的角色在画面中即将接吻，令观众心跳加速。该剧改编自同名热门网漫，讲述朴智贤饰演的职场人车智允在职业瓶颈期与徐仁国饰演的角色相遇后展开的浪漫故事。">匹配模板</button>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="徐仁国与朴智贤新剧《明天见》吻戏前夕剧照公开\n来源：Soompi\n日期：2026-06-23\n摘要：tvN新剧《明天见》公开新剧照，徐仁国与朴智贤饰演的角色即将接吻。该剧改编自同名热门网漫，朴智贤饰演陷入职业瓶颈的职场人车智允。">匹配模板</button>
   </div>
 </div>
 <div class="card">
@@ -240,16 +320,16 @@ footer a { color: var(--accent); text-decoration: none; }
     <span class="risk-tag risk-low">韩娱·低</span>
   </div>
   <hr class="card-sep">
-  <div class="card-summary">朴宝剑所属社THEBLACKLABEL于6月23日通过官方社交媒体发布公告，更新了对恶意帖子散布者的法律行动进展。</div>
+  <div class="card-summary">朴宝剑所属社THEBLACKLABEL于6月23日通过官方社交媒体发布公告，通报针对恶意帖子散布者的法律行动进展。公告未提及具体案件细节或结果。</div>
   <div class="card-footer">
     <a href="https://www.soompi.com/article/1849798wpp/park-bo-gums-agency-shares-results-of-legal-action-against-malicious-posts" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
-    <button class="btn-match" onclick="copyDraft(this)" data-copy="朴宝剑所属社THEBLACKLABEL公布恶意帖子法律应对进展\n来源：Soompi\n日期：2026-06-23\n摘要：朴宝剑所属社THEBLACKLABEL于6月23日通过官方社交媒体发布公告，更新了对恶意帖子散布者的法律行动进展。">匹配模板</button>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="朴宝剑所属社THEBLACKLABEL公布恶意帖子法律应对进展\n来源：Soompi\n日期：2026-06-23\n摘要：朴宝剑所属社THEBLACKLABEL于6月23日通过官方社交媒体发布公告，通报针对恶意帖子散布者的法律行动进展。公告未提及具体案件细节或结果。">匹配模板</button>
   </div>
 </div>
 <div class="card">
   <div class="card-head">
     <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
-    <div class="card-title"><a href="https://www.soompi.com/article/1849342wpp/3-storms-brewing-in-episodes-7-8-of-love-class-3-that-have-us-nervous" target="_blank" rel="noopener">《Love Class 3》第7-8集：娱乐公司合并、偶像政治、练习生紧张关系等三大风暴令人担忧</a></div>
+    <div class="card-title"><a href="https://www.soompi.com/article/1849342wpp/3-storms-brewing-in-episodes-7-8-of-love-class-3-that-have-us-nervous" target="_blank" rel="noopener">《Love Class 3》第7-8集三大风暴来袭，令人紧张</a></div>
   </div>
   <div class="card-meta">
     <span class="meta-source">Soompi</span>
@@ -257,10 +337,10 @@ footer a { color: var(--accent); text-decoration: none; }
     <span class="risk-tag risk-low">韩剧·低</span>
   </div>
   <hr class="card-sep">
-  <div class="card-summary">《Love Class 3》第7-8集中，娱乐公司合并使四位主角在同一屋檐下工作，加上K-pop偶像政治、练习生紧张关系、神秘嘉宾以及两位成员之间的几乎接吻，剧情变得更加复杂，引发观众担忧。</div>
+  <div class="card-summary">《Love Class 3》第7-8集中，娱乐公司合并使四位主角在同一屋檐下工作，加上K-pop偶像政治、练习生之间的紧张关系、神秘嘉宾的出现，以及两位成员之间几乎接吻的场景，剧情变得更加复杂，令人紧张。</div>
   <div class="card-footer">
     <a href="https://www.soompi.com/article/1849342wpp/3-storms-brewing-in-episodes-7-8-of-love-class-3-that-have-us-nervous" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
-    <button class="btn-match" onclick="copyDraft(this)" data-copy="《Love Class 3》第7-8集：娱乐公司合并、偶像政治、练习生紧张关系等三大风暴令人担忧\n来源：Soompi\n日期：2026-06-23\n摘要：《Love Class 3》第7-8集中，娱乐公司合并使四位主角在同一屋檐下工作，加上K-pop偶像政治、练习生紧张关系、神秘嘉宾以及两位成员之间的几乎接吻，剧情变得更加复杂，引发观众担忧。">匹配模板</button>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="《Love Class 3》第7-8集三大风暴来袭，令人紧张\n来源：Soompi\n日期：2026-06-23\n摘要：《Love Class 3》第7-8集中，娱乐公司合并使四位主角在同一屋檐下工作，加上K-pop偶像政治、练习生之间的紧张关系、神秘嘉宾的出现，以及两位成员之间几乎接吻的场景，剧情变得更加复杂，令人紧张。">匹配模板</button>
   </div>
 </div>
 <div class="card">
@@ -274,10 +354,10 @@ footer a { color: var(--accent); text-decoration: none; }
     <span class="risk-tag risk-low">韩剧·低</span>
   </div>
   <hr class="card-sep">
-  <div class="card-summary">新剧《公寓工作》公开新海报，主演池晟、河允景、朴秉恩、文素利亮相。池晟饰演前Oasis帮老大朴海康，为获取隐藏资金竞选公寓居民委员会会长，并与居民联手揭露腐败。</div>
+  <div class="card-summary">韩剧《公寓工作》公开新海报，主演池晟、河允景、朴秉恩、文素利亮相。池晟饰演前绿洲帮老大朴海康，为获取公寓隐藏资金而竞选居民委员会会长，并与居民联手揭露腐败。该剧聚焦各角色在公寓中的野心与斗争。</div>
   <div class="card-footer">
     <a href="https://www.soompi.com/article/1849706wpp/ji-sung-ha-yun-kyung-park-byung-eun-and-moon-so-ri-harbor-big-desires-in-new-drama-the-apartment-job-poster" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
-    <button class="btn-match" onclick="copyDraft(this)" data-copy="池晟、河允景、朴秉恩、文素利新剧《公寓工作》海报公开，各怀野心\n来源：Soompi\n日期：2026-06-23\n摘要：新剧《公寓工作》公开新海报，主演池晟、河允景、朴秉恩、文素利亮相。池晟饰演前Oasis帮老大朴海康，为获取隐藏资金竞选公寓居民委员会会长，并与居民联手揭露腐败。">匹配模板</button>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="池晟、河允景、朴秉恩、文素利新剧《公寓工作》海报公开，各怀野心\n来源：Soompi\n日期：2026-06-23\n摘要：韩剧《公寓工作》公开新海报，主演池晟、河允景、朴秉恩、文素利亮相。池晟饰演前绿洲帮老大朴海康，为获取公寓隐藏资金而竞选居民委员会会长，并与居民联手揭露腐败。该剧聚焦各角色在公寓中的野心与斗争。">匹配模板</button>
   </div>
 </div>
 <div class="card">
@@ -291,10 +371,10 @@ footer a { color: var(--accent); text-decoration: none; }
     <span class="risk-tag risk-low">韩娱·低</span>
   </div>
   <hr class="card-sep">
-  <div class="card-summary">金敏荷近日接受《ELLE Korea》采访，谈及新片《Hana Korea》。该片改编自真实故事，讲述脱北者惠善（金敏荷饰）在陌生环境中努力前行的故事。金敏荷分享了选择该角色的原因及未来目标。</div>
+  <div class="card-summary">金敏荷近日接受《ELLE Korea》采访，谈及新片《Hana Korea》。该片改编自真实故事，讲述脱北者慧善（金敏荷饰）在陌生环境中努力前行的故事。金敏荷分享了选择该角色的原因及未来目标。</div>
   <div class="card-footer">
     <a href="https://www.soompi.com/article/1849470wpp/kim-min-ha-dishes-on-her-upcoming-film-hana-korea-her-future-goals-and-more" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
-    <button class="btn-match" onclick="copyDraft(this)" data-copy="金敏荷谈新片《Hana Korea》及未来目标\n来源：Soompi\n日期：2026-06-23\n摘要：金敏荷近日接受《ELLE Korea》采访，谈及新片《Hana Korea》。该片改编自真实故事，讲述脱北者惠善（金敏荷饰）在陌生环境中努力前行的故事。金敏荷分享了选择该角色的原因及未来目标。">匹配模板</button>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="金敏荷谈新片《Hana Korea》及未来目标\n来源：Soompi\n日期：2026-06-23\n摘要：金敏荷近日接受《ELLE Korea》采访，谈及新片《Hana Korea》。该片改编自真实故事，讲述脱北者慧善（金敏荷饰）在陌生环境中努力前行的故事。金敏荷分享了选择该角色的原因及未来目标。">匹配模板</button>
   </div>
 </div>
 <div class="card">
@@ -308,10 +388,10 @@ footer a { color: var(--accent); text-decoration: none; }
     <span class="risk-tag risk-low">韩剧·低</span>
   </div>
   <hr class="card-sep">
-  <div class="card-summary">《爱在同步》公开新剧照，姜敏儿与权素贤在剧中围绕金明洙饰演的车恩焕重燃旧日竞争。该剧是一部浪漫喜剧，讲述拒绝共情的女人与共情过多的男人因超自然现象共享情感后成长理解的故事。</div>
+  <div class="card-summary">韩剧《爱在同步》公开新剧照，姜敏儿与权素贤围绕金明洙饰演的角色重燃旧日竞争。该剧是一部浪漫喜剧，讲述拒绝共情的女人与共情过多的男人因超自然现象共享情感后共同成长的故事。</div>
   <div class="card-footer">
     <a href="https://www.soompi.com/article/1849772wpp/kang-min-ah-and-kwon-so-hyun-reignite-an-old-rivalry-around-kim-myung-soo-in-love-in-sync" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
-    <button class="btn-match" onclick="copyDraft(this)" data-copy="姜敏儿与权素贤在《爱在同步》中围绕金明洙重燃旧日竞争\n来源：Soompi\n日期：2026-06-23\n摘要：《爱在同步》公开新剧照，姜敏儿与权素贤在剧中围绕金明洙饰演的车恩焕重燃旧日竞争。该剧是一部浪漫喜剧，讲述拒绝共情的女人与共情过多的男人因超自然现象共享情感后成长理解的故事。">匹配模板</button>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="姜敏儿与权素贤在《爱在同步》中围绕金明洙重燃旧日竞争\n来源：Soompi\n日期：2026-06-23\n摘要：韩剧《爱在同步》公开新剧照，姜敏儿与权素贤围绕金明洙饰演的角色重燃旧日竞争。该剧是一部浪漫喜剧，讲述拒绝共情的女人与共情过多的男人因超自然现象共享情感后共同成长的故事。">匹配模板</button>
   </div>
 </div>
 <div class="card">
@@ -325,16 +405,16 @@ footer a { color: var(--accent); text-decoration: none; }
     <span class="risk-tag risk-low">韩剧·低</span>
   </div>
   <hr class="card-sep">
-  <div class="card-summary">MBC新剧《真正的杀手》（暂定名）公开孔孝真首张剧照。该剧是一部动作剧，讲述一位职场母亲为保护工作与生活平衡而战斗的故事，孔孝真饰演的角色拥有世界上最致命的工作，同时过着普通母亲和传奇杀手的双重生活。</div>
+  <div class="card-summary">MBC新剧《真正的杀手》（暂定名）公开孔孝真首张角色剧照。该剧是一部动作剧，讲述一位职场母亲为保护工作与生活平衡而战斗的故事，孔孝真饰演的角色拥有世界上最致命的职业，过着平凡母亲与传奇杀手的双重生活。</div>
   <div class="card-footer">
     <a href="https://www.soompi.com/article/1849725wpp/kong-hyo-jin-leads-a-dangerous-double-life-as-an-ordinary-mother-and-legendary-assassin-in-new-action-drama" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
-    <button class="btn-match" onclick="copyDraft(this)" data-copy="孔孝真新剧《真正的杀手》首曝剧照，饰演平凡母亲与传奇杀手双重身份\n来源：Soompi\n日期：2026-06-23\n摘要：MBC新剧《真正的杀手》（暂定名）公开孔孝真首张剧照。该剧是一部动作剧，讲述一位职场母亲为保护工作与生活平衡而战斗的故事，孔孝真饰演的角色拥有世界上最致命的工作，同时过着普通母亲和传奇杀手的双重生活。">匹配模板</button>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="孔孝真新剧《真正的杀手》首曝剧照，饰演平凡母亲与传奇杀手双重身份\n来源：Soompi\n日期：2026-06-23\n摘要：MBC新剧《真正的杀手》（暂定名）公开孔孝真首张角色剧照。该剧是一部动作剧，讲述一位职场母亲为保护工作与生活平衡而战斗的故事，孔孝真饰演的角色拥有世界上最致命的职业，过着平凡母亲与传奇杀手的双重生活。">匹配模板</button>
   </div>
 </div>
 <div class="card">
   <div class="card-head">
     <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
-    <div class="card-title"><a href="https://www.soompi.com/article/1849737wpp/kim-so-yeon-and-kim-ji-suks-upcoming-drama-temporarily-halts-filming" target="_blank" rel="noopener">金素妍与金智锡新剧《重拾爱情》因剧本修改暂停拍摄一个月</a></div>
+    <div class="card-title"><a href="https://www.soompi.com/article/1849737wpp/kim-so-yeon-and-kim-ji-suks-upcoming-drama-temporarily-halts-filming" target="_blank" rel="noopener">金素妍与金智硕新剧《重拾爱情》因剧本修改暂停拍摄一个月</a></div>
   </div>
   <div class="card-meta">
     <span class="meta-source">Soompi</span>
@@ -342,10 +422,10 @@ footer a { color: var(--accent); text-decoration: none; }
     <span class="risk-tag risk-low">韩剧·低</span>
   </div>
   <hr class="card-sep">
-  <div class="card-summary">JTBC新剧《重拾爱情》（暂译）制作组于6月23日发布官方声明，宣布因剧本修改暂停拍摄一个月。声明称，剧组将利用这段时间改进剧本，并计划在雨季结束后恢复拍摄。该剧由金素妍和金智锡主演。</div>
+  <div class="card-summary">JTBC新剧《重拾爱情》（暂译）制作组于6月23日发布官方声明，宣布因修改和完善剧本，暂停拍摄一个月。由于当前正值雨季，制作组计划在雨季结束后恢复拍摄。该剧由金素妍和金智硕主演。</div>
   <div class="card-footer">
     <a href="https://www.soompi.com/article/1849737wpp/kim-so-yeon-and-kim-ji-suks-upcoming-drama-temporarily-halts-filming" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
-    <button class="btn-match" onclick="copyDraft(this)" data-copy="金素妍与金智锡新剧《重拾爱情》因剧本修改暂停拍摄一个月\n来源：Soompi\n日期：2026-06-23\n摘要：JTBC新剧《重拾爱情》（暂译）制作组于6月23日发布官方声明，宣布因剧本修改暂停拍摄一个月。声明称，剧组将利用这段时间改进剧本，并计划在雨季结束后恢复拍摄。该剧由金素妍和金智锡主演。">匹配模板</button>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="金素妍与金智硕新剧《重拾爱情》因剧本修改暂停拍摄一个月\n来源：Soompi\n日期：2026-06-23\n摘要：JTBC新剧《重拾爱情》（暂译）制作组于6月23日发布官方声明，宣布因修改和完善剧本，暂停拍摄一个月。由于当前正值雨季，制作组计划在雨季结束后恢复拍摄。该剧由金素妍和金智硕主演。">匹配模板</button>
   </div>
 </div>
 <div class="card">
@@ -376,10 +456,10 @@ footer a { color: var(--accent); text-decoration: none; }
     <span class="risk-tag risk-low">韩娱·低</span>
   </div>
   <hr class="card-sep">
-  <div class="card-summary">K-pop旅行生存综艺《All Or Nothing》确认了出演阵容和播出日程。该节目由李泰京PD执导，在充满历史与神秘感的埃及拍摄，是一档赢家通吃的旅行生存系列。具体阵容和播出时间尚未在原文中详细披露。</div>
+  <div class="card-summary">K-pop旅行生存综艺《All Or Nothing》确认出演阵容及播出日程。该节目由李泰京（《惊人的星期六》等导演）执导，在充满历史与神秘感的埃及拍摄，采用赢家通吃的规则。具体阵容和播出时间已确定，但细节尚未公开。</div>
   <div class="card-footer">
     <a href="https://www.soompi.com/article/1849736wpp/k-pop-travel-variety-show-all-or-nothing-confirms-cast-lineup-and-broadcast-schedule" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
-    <button class="btn-match" onclick="copyDraft(this)" data-copy="K-pop旅行综艺《All Or Nothing》确定出演阵容及播出日程\n来源：Soompi\n日期：2026-06-23\n摘要：K-pop旅行生存综艺《All Or Nothing》确认了出演阵容和播出日程。该节目由李泰京PD执导，在充满历史与神秘感的埃及拍摄，是一档赢家通吃的旅行生存系列。具体阵容和播出时间尚未在原文中详细披露。">匹配模板</button>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="K-pop旅行综艺《All Or Nothing》确定出演阵容及播出日程\n来源：Soompi\n日期：2026-06-23\n摘要：K-pop旅行生存综艺《All Or Nothing》确认出演阵容及播出日程。该节目由李泰京（《惊人的星期六》等导演）执导，在充满历史与神秘感的埃及拍摄，采用赢家通吃的规则。具体阵容和播出时间已确定，但细节尚未公开。">匹配模板</button>
   </div>
 </div>
 <div class="card">
@@ -407,13 +487,13 @@ footer a { color: var(--accent); text-decoration: none; }
   <div class="card-meta">
     <span class="meta-source">Soompi</span>
     <span class="meta-date">· 2026-06-23</span>
-    <span class="risk-tag risk-low">韩娱·低</span>
+    <span class="risk-tag risk-mid">舆论·中</span>
   </div>
   <hr class="card-sep">
-  <div class="card-summary">2026年6月23日，韩国组合ARrC的所属社MYSTIC STORY发布官方通知，宣布ARrC于当日终止团体活动。成员们随后也向粉丝写了亲笔信。</div>
+  <div class="card-summary">2026年6月23日，ARrC的经纪公司MYSTIC STORY发布官方公告，宣布ARrC于当日终止团体活动。随后，成员们也向粉丝写了亲笔信。</div>
   <div class="card-footer">
     <a href="https://www.soompi.com/article/1849758wpp/arrc-announces-disbandment" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
-    <button class="btn-match" onclick="copyDraft(this)" data-copy="ARrC宣布解散，6月23日起终止团体活动\n来源：Soompi\n日期：2026-06-23\n摘要：2026年6月23日，韩国组合ARrC的所属社MYSTIC STORY发布官方通知，宣布ARrC于当日终止团体活动。成员们随后也向粉丝写了亲笔信。">匹配模板</button>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="ARrC宣布解散，6月23日起终止团体活动\n来源：Soompi\n日期：2026-06-23\n摘要：2026年6月23日，ARrC的经纪公司MYSTIC STORY发布官方公告，宣布ARrC于当日终止团体活动。随后，成员们也向粉丝写了亲笔信。">匹配模板</button>
   </div>
 </div>
 <div class="card">
@@ -427,10 +507,10 @@ footer a { color: var(--accent); text-decoration: none; }
     <span class="risk-tag risk-low">韩剧·低</span>
   </div>
   <hr class="card-sep">
-  <div class="card-summary">新剧《爱情菜单》公开河锡辰与哈尼（安喜延）的角色海报，展现孤独感。该剧是一部家庭浪漫剧，讲述分手八年的恋人重逢后，拼凑破碎家庭、创造温暖餐桌的故事。</div>
+  <div class="card-summary">即将播出的韩剧《爱情菜单》公开了新角色海报，主演河锡辰与哈尼（安喜延）在海报中传达出孤独感。该剧是一部家庭浪漫剧，讲述一对在痛苦分手八年后重逢的恋人，重新连接并拼凑破碎家庭，共同创造最温暖的生活餐桌的故事。</div>
   <div class="card-footer">
     <a href="https://www.soompi.com/article/1849686wpp/ha-seok-jin-and-hani-convey-their-loneliness-in-new-drama-love-on-the-menu-posters" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
-    <button class="btn-match" onclick="copyDraft(this)" data-copy="河锡辰与哈尼新剧《爱情菜单》海报展现孤独感\n来源：Soompi\n日期：2026-06-23\n摘要：新剧《爱情菜单》公开河锡辰与哈尼（安喜延）的角色海报，展现孤独感。该剧是一部家庭浪漫剧，讲述分手八年的恋人重逢后，拼凑破碎家庭、创造温暖餐桌的故事。">匹配模板</button>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="河锡辰与哈尼新剧《爱情菜单》海报展现孤独感\n来源：Soompi\n日期：2026-06-23\n摘要：即将播出的韩剧《爱情菜单》公开了新角色海报，主演河锡辰与哈尼（安喜延）在海报中传达出孤独感。该剧是一部家庭浪漫剧，讲述一对在痛苦分手八年后重逢的恋人，重新连接并拼凑破碎家庭，共同创造最温暖的生活餐桌的故事。">匹配模板</button>
   </div>
 </div>
 <div class="card">
@@ -444,16 +524,16 @@ footer a { color: var(--accent); text-decoration: none; }
     <span class="risk-tag risk-low">韩娱·低</span>
   </div>
   <hr class="card-sep">
-  <div class="card-summary">2026年KM Chart Awards（KMA）主办方于6月23日正式宣布，演员姜泰伍和元真儿将担任该颁奖礼的主持人。</div>
+  <div class="card-summary">2023年6月23日，2026年KM Chart Awards主办方正式宣布，演员姜泰伍和元真儿将担任该颁奖礼的主持人。颁奖礼具体日期尚未公布。</div>
   <div class="card-footer">
     <a href="https://www.soompi.com/article/1849726wpp/kang-tae-oh-and-won-ji-an-confirmed-to-host-the-2026-km-chart-awards-kma" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
-    <button class="btn-match" onclick="copyDraft(this)" data-copy="姜泰伍与元真儿确定担任2026年KM Chart Awards主持人\n来源：Soompi\n日期：2026-06-23\n摘要：2026年KM Chart Awards（KMA）主办方于6月23日正式宣布，演员姜泰伍和元真儿将担任该颁奖礼的主持人。">匹配模板</button>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="姜泰伍与元真儿确定担任2026年KM Chart Awards主持人\n来源：Soompi\n日期：2026-06-23\n摘要：2023年6月23日，2026年KM Chart Awards主办方正式宣布，演员姜泰伍和元真儿将担任该颁奖礼的主持人。颁奖礼具体日期尚未公布。">匹配模板</button>
   </div>
 </div>
 <div class="card">
   <div class="card-head">
     <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
-    <div class="card-title"><a href="https://www.soompi.com/article/1849748wpp/watch-enhypen-teases-brand-renewal-with-mood-teaser" target="_blank" rel="noopener">ENHYPEN发布品牌焕新预告视频</a></div>
+    <div class="card-title"><a href="https://www.soompi.com/article/1849748wpp/watch-enhypen-teases-brand-renewal-with-mood-teaser" target="_blank" rel="noopener">ENHYPEN发布品牌焕新氛围预告视频</a></div>
   </div>
   <div class="card-meta">
     <span class="meta-source">Soompi</span>
@@ -461,10 +541,10 @@ footer a { color: var(--accent); text-decoration: none; }
     <span class="risk-tag risk-low">韩娱·低</span>
   </div>
   <hr class="card-sep">
-  <div class="card-summary">ENHYPEN于6月23日发布了品牌焕新的首个氛围预告视频，视频以流畅的影像和特效呈现，预告了品牌更新。更多信息待后续公开。</div>
+  <div class="card-summary">6月23日，ENHYPEN公开了品牌焕新的首个氛围预告视频，视频以流畅的影像和特效呈现，预告了品牌更新。更多信息将陆续公开。</div>
   <div class="card-footer">
     <a href="https://www.soompi.com/article/1849748wpp/watch-enhypen-teases-brand-renewal-with-mood-teaser" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
-    <button class="btn-match" onclick="copyDraft(this)" data-copy="ENHYPEN发布品牌焕新预告视频\n来源：Soompi\n日期：2026-06-23\n摘要：ENHYPEN于6月23日发布了品牌焕新的首个氛围预告视频，视频以流畅的影像和特效呈现，预告了品牌更新。更多信息待后续公开。">匹配模板</button>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="ENHYPEN发布品牌焕新氛围预告视频\n来源：Soompi\n日期：2026-06-23\n摘要：6月23日，ENHYPEN公开了品牌焕新的首个氛围预告视频，视频以流畅的影像和特效呈现，预告了品牌更新。更多信息将陆续公开。">匹配模板</button>
   </div>
 </div>
 <div class="card">
@@ -478,10 +558,10 @@ footer a { color: var(--accent); text-decoration: none; }
     <span class="risk-tag risk-low">韩剧·低</span>
   </div>
   <hr class="card-sep">
-  <div class="card-summary">ENA新剧《Dream to You》公开了一张新海报，展现了黄寅烨与惠利深情拥抱的场景。该剧是一部浪漫喜剧，讲述天才导演禹秀彬（黄寅烨饰）实现梦想后回归，与忘记梦想的记者朱伊在（惠利饰）重逢的故事。</div>
+  <div class="card-summary">ENA新剧《Dream to You》公开新海报，黄寅烨与惠利在海报中深情拥抱。该剧是一部浪漫喜剧，讲述天才导演禹秀彬（黄寅烨饰）实现梦想后回归，与忘记自己梦想的记者朱伊在（惠利饰）重逢的故事。</div>
   <div class="card-footer">
     <a href="https://www.soompi.com/article/1849696wpp/hwang-in-youp-and-hyeri-melt-into-a-heartfelt-embrace-in-new-drama-dream-to-you-poster" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
-    <button class="btn-match" onclick="copyDraft(this)" data-copy="黄寅烨与惠利新剧《Dream to You》海报公开，深情拥抱引期待\n来源：Soompi\n日期：2026-06-23\n摘要：ENA新剧《Dream to You》公开了一张新海报，展现了黄寅烨与惠利深情拥抱的场景。该剧是一部浪漫喜剧，讲述天才导演禹秀彬（黄寅烨饰）实现梦想后回归，与忘记梦想的记者朱伊在（惠利饰）重逢的故事。">匹配模板</button>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="黄寅烨与惠利新剧《Dream to You》海报公开，深情拥抱引期待\n来源：Soompi\n日期：2026-06-23\n摘要：ENA新剧《Dream to You》公开新海报，黄寅烨与惠利在海报中深情拥抱。该剧是一部浪漫喜剧，讲述天才导演禹秀彬（黄寅烨饰）实现梦想后回归，与忘记自己梦想的记者朱伊在（惠利饰）重逢的故事。">匹配模板</button>
   </div>
 </div>
 <div class="card">
@@ -495,10 +575,10 @@ footer a { color: var(--accent); text-decoration: none; }
     <span class="risk-tag risk-low">韩剧·低</span>
   </div>
   <hr class="card-sep">
-  <div class="card-summary">tvN新月火剧《明天见！》于6月22日首播，由徐仁国和朴智贤主演，首播全国平均收视率为4.8%，位居同档期第一。</div>
+  <div class="card-summary">tvN新月火剧《明天见！》于6月22日首播，由徐仁国和朴智贤主演，首播全国平均收视率为4.8%，位居同时段第一。</div>
   <div class="card-footer">
     <a href="https://www.soompi.com/article/1849687wpp/see-you-at-work-tomorrow-premieres-to-no-1-ratings" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
-    <button class="btn-match" onclick="copyDraft(this)" data-copy="《明天见！》首播收视夺冠，全国平均4.8%\n来源：Soompi\n日期：2026-06-23\n摘要：tvN新月火剧《明天见！》于6月22日首播，由徐仁国和朴智贤主演，首播全国平均收视率为4.8%，位居同档期第一。">匹配模板</button>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="《明天见！》首播收视夺冠，全国平均4.8%\n来源：Soompi\n日期：2026-06-23\n摘要：tvN新月火剧《明天见！》于6月22日首播，由徐仁国和朴智贤主演，首播全国平均收视率为4.8%，位居同时段第一。">匹配模板</button>
   </div>
 </div>
 <div class="card">
@@ -523,7 +603,7 @@ footer a { color: var(--accent); text-decoration: none; }
 <div class="card">
   <div class="card-head">
     <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
-    <div class="card-title"><a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd3VSLUFEUTNpZ0ZFdllvTDQ2WGNrbEhsd3N6X0NNN3BCWkhudEtYWFV5ZThDZ0UydFFpTWgtYUs5ajBPbURSbkZBTUs5d1lpSzBSRjI2a1l5RnBoMmtJTjE2dlhUX1FzY1AzS1ZPUmw1ZVBpLUkwSGRQbHJFczkwNllkT3FJZlFxalNneFZXSnBpWHRMaXBPV2NaaHlqRERNalZXb1k5OWhMV1pnU3FwcUNlMzFLaXI5VzJ6NmJPMThZVHdnaVJCQXdSZWVHdV9BWXpJOUpueGRmVlk?oc=5" target="_blank" rel="noopener">风火轮SDCC新品：K-pop恶魔猎人、怪奇物语、壮志凌云主题</a></div>
+    <div class="card-title"><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE54R3JxOGkzSFpxY0U4Z25uM3lneUtTZmVUY0ZqRFlWM0pGcWwzXzdVN2FmOTJpVnU1NXBIbnJFdThjRjJvMHZUV1RzSmhKUWRYNThoQ3Y5SlRMUEFabGk0MEJOcHJ1QkNFalFYR0JqOXNkSFloQVE?oc=5" target="_blank" rel="noopener">MISS A歌曲评分回顾：职业生涯数据盘点</a></div>
   </div>
   <div class="card-meta">
     <span class="meta-source">Google News</span>
@@ -531,16 +611,67 @@ footer a { color: var(--accent); text-decoration: none; }
     <span class="risk-tag risk-low">韩娱·低</span>
   </div>
   <hr class="card-sep">
-  <div class="card-summary">风火轮在圣地亚哥国际动漫展（SDCC）发布了一系列新品，其中包括K-pop恶魔猎人主题车模，以及《怪奇物语》和《壮志凌云》主题车模。</div>
+  <div class="card-summary">[原文未提及具体行为，仅称：thebiaslist.com网站对MISS A的歌曲进行了评分回顾]</div>
   <div class="card-footer">
-    <a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd3VSLUFEUTNpZ0ZFdllvTDQ2WGNrbEhsd3N6X0NNN3BCWkhudEtYWFV5ZThDZ0UydFFpTWgtYUs5ajBPbURSbkZBTUs5d1lpSzBSRjI2a1l5RnBoMmtJTjE2dlhUX1FzY1AzS1ZPUmw1ZVBpLUkwSGRQbHJFczkwNllkT3FJZlFxalNneFZXSnBpWHRMaXBPV2NaaHlqRERNalZXb1k5OWhMV1pnU3FwcUNlMzFLaXI5VzJ6NmJPMThZVHdnaVJCQXdSZWVHdV9BWXpJOUpueGRmVlk?oc=5" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
-    <button class="btn-match" onclick="copyDraft(this)" data-copy="风火轮SDCC新品：K-pop恶魔猎人、怪奇物语、壮志凌云主题\n来源：Google News\n日期：2026-06-23\n摘要：风火轮在圣地亚哥国际动漫展（SDCC）发布了一系列新品，其中包括K-pop恶魔猎人主题车模，以及《怪奇物语》和《壮志凌云》主题车模。">匹配模板</button>
+    <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE54R3JxOGkzSFpxY0U4Z25uM3lneUtTZmVUY0ZqRFlWM0pGcWwzXzdVN2FmOTJpVnU1NXBIbnJFdThjRjJvMHZUV1RzSmhKUWRYNThoQ3Y5SlRMUEFabGk0MEJOcHJ1QkNFalFYR0JqOXNkSFloQVE?oc=5" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="MISS A歌曲评分回顾：职业生涯数据盘点\n来源：Google News\n日期：2026-06-23\n摘要：[原文未提及具体行为，仅称：thebiaslist.com网站对MISS A的歌曲进行了评分回顾]">匹配模板</button>
   </div>
 </div>
 <div class="card">
   <div class="card-head">
     <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
-    <div class="card-title"><a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxNa180UklzOFlKdWlOc1J3a21VMFBmZTJLQzhTUGlfZDYxVHJYRlFrQ19rQVFSa3ZjaTVSZ2lnQlpXNVpyNHBabENrQURQbDdCOFdXdVdkV2VaNVVPSVNIMThkazBVNDlMRnZRYjlmel9YWEtCdUUyaEUzMVJTSExsQ1F5X1hFWHJpdGg5cEpZOEM3eVBkRDJTT2V1VQ?oc=5" target="_blank" rel="noopener">Netflix新医疗韩剧《First Doctor》阵容确定，制作进行中</a></div>
+    <div class="card-title"><a href="https://news.google.com/rss/articles/CBMickFVX3lxTFBkYWlSdVZyX3h6aWxqNlVjVWNTXzYzMDZIaUlsb1pCTS1IZ0VvcmVDS2tKMTRwRVpxXzkwWnJhcXFCUUZ0MTRqaXk2bVZoQnpaY0hzVnpFclExLVVES3dVUDdQTHpQVUJ0ZVNEbW5NM21vdw?oc=5" target="_blank" rel="noopener">VAYONN发布新单曲《Watta Day》</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">Google News</span>
+    <span class="meta-date">· 2026-06-23</span>
+    <span class="risk-tag risk-low">韩娱·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">[原文未提及具体行为，仅称：VAYONN发布新单曲《Watta Day》]</div>
+  <div class="card-footer">
+    <a href="https://news.google.com/rss/articles/CBMickFVX3lxTFBkYWlSdVZyX3h6aWxqNlVjVWNTXzYzMDZIaUlsb1pCTS1IZ0VvcmVDS2tKMTRwRVpxXzkwWnJhcXFCUUZ0MTRqaXk2bVZoQnpaY0hzVnpFclExLVVES3dVUDdQTHpQVUJ0ZVNEbW5NM21vdw?oc=5" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="VAYONN发布新单曲《Watta Day》\n来源：Google News\n日期：2026-06-23\n摘要：[原文未提及具体行为，仅称：VAYONN发布新单曲《Watta Day》]">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://news.google.com/rss/articles/CBMickFVX3lxTE1ZY3pPSE5IOTNxcWNiZVpIM3ItVVloSFNoeHpxQkM5ZDg2VHBpd3R3WWtnbDR5Tk0wcHNaWU82SEc2dzdfZzA5OTdOZ2tiVVRET2gwV1g4VExLbU9DZjMxVWVNTmQwQXF0YTZTSEZBMkMxZw?oc=5" target="_blank" rel="noopener">CLASSy新曲《Tear Drop》发布</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">Google News</span>
+    <span class="meta-date">· 2026-06-23</span>
+    <span class="risk-tag risk-low">韩娱·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">韩国女子组合CLASSy发布了新曲《Tear Drop》，相关资讯来自thebiaslist.com。</div>
+  <div class="card-footer">
+    <a href="https://news.google.com/rss/articles/CBMickFVX3lxTE1ZY3pPSE5IOTNxcWNiZVpIM3ItVVloSFNoeHpxQkM5ZDg2VHBpd3R3WWtnbDR5Tk0wcHNaWU82SEc2dzdfZzA5OTdOZ2tiVVRET2gwV1g4VExLbU9DZjMxVWVNTmQwQXF0YTZTSEZBMkMxZw?oc=5" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="CLASSy新曲《Tear Drop》发布\n来源：Google News\n日期：2026-06-23\n摘要：韩国女子组合CLASSy发布了新曲《Tear Drop》，相关资讯来自thebiaslist.com。">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://news.google.com/rss/articles/CBMic0FVX3lxTE5hWktLekxzbnREQ2JsTlJuVVBpdlNEVHQ0NUNnVW5tTnNrVkFDZk5ZeTZQdzhuaVVYbDNwRUtUb3IyR3cwOTdaMXc4T016cEdlNUV2MjBNNGpTMmNXYWEyWXREQzdzOGVwR3IxRV94QkhhdGM?oc=5" target="_blank" rel="noopener">《名利场》称K-Pop驱动全球文化，Lisa是新式超级巨星</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">Google News</span>
+    <span class="meta-date">· 2026-06-23</span>
+    <span class="risk-tag risk-low">韩娱·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">《名利场》杂志发表文章，指出K-Pop正在驱动全球文化，并将BLACKPINK成员Lisa定义为一种新型超级巨星。文章未提供具体数据或事件细节，仅表达了对Lisa影响力的肯定。</div>
+  <div class="card-footer">
+    <a href="https://news.google.com/rss/articles/CBMic0FVX3lxTE5hWktLekxzbnREQ2JsTlJuVVBpdlNEVHQ0NUNnVW5tTnNrVkFDZk5ZeTZQdzhuaVVYbDNwRUtUb3IyR3cwOTdaMXc4T016cEdlNUV2MjBNNGpTMmNXYWEyWXREQzdzOGVwR3IxRV94QkhhdGM?oc=5" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="《名利场》称K-Pop驱动全球文化，Lisa是新式超级巨星\n来源：Google News\n日期：2026-06-23\n摘要：《名利场》杂志发表文章，指出K-Pop正在驱动全球文化，并将BLACKPINK成员Lisa定义为一种新型超级巨星。文章未提供具体数据或事件细节，仅表达了对Lisa影响力的肯定。">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY242d0R2LWdBaVJvUUstRE5BaVdiTzdUenRaRU9ldXpXaDJsVk9DdkgzWG0wZUl6dklJT1BCcTZpVERaQWo1M21XdWVzWHQ2NzlQeUptNFF5SW9oMWtqSmkzb1F4V1pBWng1ak5xN2EzMWNkaVl6ei1aUXNmUTNjZ3JwMkF4dzdBMUhxeUZ1Q0RrYUNGUXlMbjg4UWEyZ2lLTUl4MUxSRFFwV1NocndfZkVYNUR2ZnpmMHlr0gHAAUFVX3lxTFBjRUdpTUxwVHlMM2xDRXVOUGdwUUh3dEttMWJZcFJyNFZGT09fUmgzS3RKQVVwMlFoTjJqMzg4U1lIaTJHOWNyUDRSV250UlF1YW9qWVRZUUZ3bmZzNVlNdHl0dWhwUk5ld21VWGpfTVVHdEFrdjZlQTZxR1ZOdlRsb3dEcHdLZ0l5Qll5ZVNPak9MNlpCQV9Na0k1YmgyUFVEa2lvSkp1Y2tmWjFVQlpmbXRsZEJ1WjJxanNrOG1UQw?oc=5" target="_blank" rel="noopener">Prime Video韩剧《明天见！》完整播出时间表公开</a></div>
   </div>
   <div class="card-meta">
     <span class="meta-source">Google News</span>
@@ -548,10 +679,44 @@ footer a { color: var(--accent); text-decoration: none; }
     <span class="risk-tag risk-low">韩剧·低</span>
   </div>
   <hr class="card-sep">
-  <div class="card-summary">Netflix新医疗韩剧《First Doctor》演员阵容已确认，制作正在进行中。该剧是一部医疗题材的韩剧，具体播出日期尚未公布。</div>
+  <div class="card-summary">Lifestyle Asia Hong Kong发布了Prime Video韩剧《明天见！》的完整播出时间表。该剧的具体播出日期和集数安排已公布，但原文未提供具体时间点。</div>
+  <div class="card-footer">
+    <a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY242d0R2LWdBaVJvUUstRE5BaVdiTzdUenRaRU9ldXpXaDJsVk9DdkgzWG0wZUl6dklJT1BCcTZpVERaQWo1M21XdWVzWHQ2NzlQeUptNFF5SW9oMWtqSmkzb1F4V1pBWng1ak5xN2EzMWNkaVl6ei1aUXNmUTNjZ3JwMkF4dzdBMUhxeUZ1Q0RrYUNGUXlMbjg4UWEyZ2lLTUl4MUxSRFFwV1NocndfZkVYNUR2ZnpmMHlr0gHAAUFVX3lxTFBjRUdpTUxwVHlMM2xDRXVOUGdwUUh3dEttMWJZcFJyNFZGT09fUmgzS3RKQVVwMlFoTjJqMzg4U1lIaTJHOWNyUDRSV250UlF1YW9qWVRZUUZ3bmZzNVlNdHl0dWhwUk5ld21VWGpfTVVHdEFrdjZlQTZxR1ZOdlRsb3dEcHdLZ0l5Qll5ZVNPak9MNlpCQV9Na0k1YmgyUFVEa2lvSkp1Y2tmWjFVQlpmbXRsZEJ1WjJxanNrOG1UQw?oc=5" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="Prime Video韩剧《明天见！》完整播出时间表公开\n来源：Google News\n日期：2026-06-23\n摘要：Lifestyle Asia Hong Kong发布了Prime Video韩剧《明天见！》的完整播出时间表。该剧的具体播出日期和集数安排已公布，但原文未提供具体时间点。">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd3VSLUFEUTNpZ0ZFdllvTDQ2WGNrbEhsd3N6X0NNN3BCWkhudEtYWFV5ZThDZ0UydFFpTWgtYUs5ajBPbURSbkZBTUs5d1lpSzBSRjI2a1l5RnBoMmtJTjE2dlhUX1FzY1AzS1ZPUmw1ZVBpLUkwSGRQbHJFczkwNllkT3FJZlFxalNneFZXSnBpWHRMaXBPV2NaaHlqRERNalZXb1k5OWhMV1pnU3FwcUNlMzFLaXI5VzJ6NmJPMThZVHdnaVJCQXdSZWVHdV9BWXpJOUpueGRmVlk?oc=5" target="_blank" rel="noopener">风火轮SDCC新品：K-pop恶魔猎人、怪奇物语与壮志凌云</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">Google News</span>
+    <span class="meta-date">· 2026-06-23</span>
+    <span class="risk-tag risk-low">韩娱·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">风火轮在圣地亚哥国际动漫展发布新品，主题包括K-pop恶魔猎人、怪奇物语和壮志凌云。</div>
+  <div class="card-footer">
+    <a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd3VSLUFEUTNpZ0ZFdllvTDQ2WGNrbEhsd3N6X0NNN3BCWkhudEtYWFV5ZThDZ0UydFFpTWgtYUs5ajBPbURSbkZBTUs5d1lpSzBSRjI2a1l5RnBoMmtJTjE2dlhUX1FzY1AzS1ZPUmw1ZVBpLUkwSGRQbHJFczkwNllkT3FJZlFxalNneFZXSnBpWHRMaXBPV2NaaHlqRERNalZXb1k5OWhMV1pnU3FwcUNlMzFLaXI5VzJ6NmJPMThZVHdnaVJCQXdSZWVHdV9BWXpJOUpueGRmVlk?oc=5" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="风火轮SDCC新品：K-pop恶魔猎人、怪奇物语与壮志凌云\n来源：Google News\n日期：2026-06-23\n摘要：风火轮在圣地亚哥国际动漫展发布新品，主题包括K-pop恶魔猎人、怪奇物语和壮志凌云。">匹配模板</button>
+  </div>
+</div>
+<div class="card">
+  <div class="card-head">
+    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
+    <div class="card-title"><a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxNa180UklzOFlKdWlOc1J3a21VMFBmZTJLQzhTUGlfZDYxVHJYRlFrQ19rQVFSa3ZjaTVSZ2lnQlpXNVpyNHBabENrQURQbDdCOFdXdVdkV2VaNVVPSVNIMThkazBVNDlMRnZRYjlmel9YWEtCdUUyaEUzMVJTSExsQ1F5X1hFWHJpdGg5cEpZOEM3eVBkRDJTT2V1VQ?oc=5" target="_blank" rel="noopener">Netflix新医疗韩剧《First Doctor》阵容确定，制作已启动</a></div>
+  </div>
+  <div class="card-meta">
+    <span class="meta-source">Google News</span>
+    <span class="meta-date">· 2026-06-23</span>
+    <span class="risk-tag risk-low">韩剧·低</span>
+  </div>
+  <hr class="card-sep">
+  <div class="card-summary">Netflix新医疗韩剧《First Doctor》演员阵容已确认，制作已启动。该剧为医疗题材，具体播出时间尚未公布。</div>
   <div class="card-footer">
     <a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxNa180UklzOFlKdWlOc1J3a21VMFBmZTJLQzhTUGlfZDYxVHJYRlFrQ19rQVFSa3ZjaTVSZ2lnQlpXNVpyNHBabENrQURQbDdCOFdXdVdkV2VaNVVPSVNIMThkazBVNDlMRnZRYjlmel9YWEtCdUUyaEUzMVJTSExsQ1F5X1hFWHJpdGg5cEpZOEM3eVBkRDJTT2V1VQ?oc=5" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
-    <button class="btn-match" onclick="copyDraft(this)" data-copy="Netflix新医疗韩剧《First Doctor》阵容确定，制作进行中\n来源：Google News\n日期：2026-06-23\n摘要：Netflix新医疗韩剧《First Doctor》演员阵容已确认，制作正在进行中。该剧是一部医疗题材的韩剧，具体播出日期尚未公布。">匹配模板</button>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="Netflix新医疗韩剧《First Doctor》阵容确定，制作已启动\n来源：Google News\n日期：2026-06-23\n摘要：Netflix新医疗韩剧《First Doctor》演员阵容已确认，制作已启动。该剧为医疗题材，具体播出时间尚未公布。">匹配模板</button>
   </div>
 </div>
 <div class="card">
@@ -599,44 +764,10 @@ footer a { color: var(--accent); text-decoration: none; }
     <span class="risk-tag risk-low">韩娱·低</span>
   </div>
   <hr class="card-sep">
-  <div class="card-summary">据《韩国先驱报》报道，K-pop重组潮势头强劲，怀旧成为市场主要驱动力。报道指出，多个二代、三代团体近期宣布重组或回归，利用粉丝的怀旧情绪推动专辑销售和演唱会票房。</div>
+  <div class="card-summary">据《韩国先驱报》报道，K-pop重组潮势头强劲，怀旧成为市场主要驱动力。报道指出，多个二代团和三代团近期宣布重组或回归，利用粉丝怀旧情绪推动销量和流媒体增长。</div>
   <div class="card-footer">
     <a href="https://news.google.com/rss/articles/CBMiV0FVX3lxTE5VQTd6X0lqNnBwamlOdVJpa1dVMW1aamJBRDNlMDc2N2JhN3JxVGRrMC1GR0xBSUdkaWNnVlppSFgwZW1VQmQzY2JjeXp0OTVlQk42b2Vfaw?oc=5" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
-    <button class="btn-match" onclick="copyDraft(this)" data-copy="K-pop重组潮势头强劲，怀旧成市场主要驱动力\n来源：Google News\n日期：2026-06-23\n摘要：据《韩国先驱报》报道，K-pop重组潮势头强劲，怀旧成为市场主要驱动力。报道指出，多个二代、三代团体近期宣布重组或回归，利用粉丝的怀旧情绪推动专辑销售和演唱会票房。">匹配模板</button>
-  </div>
-</div>
-<div class="card">
-  <div class="card-head">
-    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
-    <div class="card-title"><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ1h2QXR5Y1ZYbmV0OWc5a01zY3dlOHBUUUFsZHY3UUw0OFNsZ25Obi1Zckp4cGRIY2FFREJzZWtvYldRZUx5MTlSdExTbjMzV2MwTG5uZ0lreGFjc29rOU80Zk5QdGRlb0R2UDJxQnQwY3JWYzdDWnJSWVluTG9oZi10bGd5YjRxZXNrNkhHdFRveExnNUczNThiUlcwVDhv?oc=5" target="_blank" rel="noopener">Netflix新剧《First Doctor》首曝预告：医疗题材+实力阵容</a></div>
-  </div>
-  <div class="card-meta">
-    <span class="meta-source">Google News</span>
-    <span class="meta-date">· 2026-06-23</span>
-    <span class="risk-tag risk-low">韩剧·低</span>
-  </div>
-  <hr class="card-sep">
-  <div class="card-summary">Netflix即将推出新韩剧《First Doctor》，该剧为医疗题材，讲述医生的故事。目前已知主演阵容强大，但具体演员名单和上线日期尚未公布。更多细节有待后续报道。</div>
-  <div class="card-footer">
-    <a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ1h2QXR5Y1ZYbmV0OWc5a01zY3dlOHBUUUFsZHY3UUw0OFNsZ25Obi1Zckp4cGRIY2FFREJzZWtvYldRZUx5MTlSdExTbjMzV2MwTG5uZ0lreGFjc29rOU80Zk5QdGRlb0R2UDJxQnQwY3JWYzdDWnJSWVluTG9oZi10bGd5YjRxZXNrNkhHdFRveExnNUczNThiUlcwVDhv?oc=5" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
-    <button class="btn-match" onclick="copyDraft(this)" data-copy="Netflix新剧《First Doctor》首曝预告：医疗题材+实力阵容\n来源：Google News\n日期：2026-06-23\n摘要：Netflix即将推出新韩剧《First Doctor》，该剧为医疗题材，讲述医生的故事。目前已知主演阵容强大，但具体演员名单和上线日期尚未公布。更多细节有待后续报道。">匹配模板</button>
-  </div>
-</div>
-<div class="card">
-  <div class="card-head">
-    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
-    <div class="card-title"><a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxOZWhjVlJNTl9nSTllZWZYMWFmbUdGNjcxaXpsN1BfOXAwUnF0RHU5T0JqQy1UVDRUMWI4N1lrT3VSR2thRU5adHE4bERQT19LdVE0MDFWOHF0VkdTbEZNUHZ5YmJhRkphSFpHM2xOYzVBM2tFbXNlRzBjc1RqNy1jbkZGYw?oc=5" target="_blank" rel="noopener">越来越多K-pop练习生在20多岁选择退休</a></div>
-  </div>
-  <div class="card-meta">
-    <span class="meta-source">Google News</span>
-    <span class="meta-date">· 2026-06-23</span>
-    <span class="risk-tag risk-low">韩娱·低</span>
-  </div>
-  <hr class="card-sep">
-  <div class="card-summary">[原文未提及具体行为，仅称：更多有抱负的K-pop偶像在20多岁退休]</div>
-  <div class="card-footer">
-    <a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxOZWhjVlJNTl9nSTllZWZYMWFmbUdGNjcxaXpsN1BfOXAwUnF0RHU5T0JqQy1UVDRUMWI4N1lrT3VSR2thRU5adHE4bERQT19LdVE0MDFWOHF0VkdTbEZNUHZ5YmJhRkphSFpHM2xOYzVBM2tFbXNlRzBjc1RqNy1jbkZGYw?oc=5" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
-    <button class="btn-match" onclick="copyDraft(this)" data-copy="越来越多K-pop练习生在20多岁选择退休\n来源：Google News\n日期：2026-06-23\n摘要：[原文未提及具体行为，仅称：更多有抱负的K-pop偶像在20多岁退休]">匹配模板</button>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="K-pop重组潮势头强劲，怀旧成市场主要驱动力\n来源：Google News\n日期：2026-06-23\n摘要：据《韩国先驱报》报道，K-pop重组潮势头强劲，怀旧成为市场主要驱动力。报道指出，多个二代团和三代团近期宣布重组或回归，利用粉丝怀旧情绪推动销量和流媒体增长。">匹配模板</button>
   </div>
 </div>
 <div class="card">
@@ -667,16 +798,16 @@ footer a { color: var(--accent); text-decoration: none; }
     <span class="risk-tag risk-low">韩娱·低</span>
   </div>
   <hr class="card-sep">
-  <div class="card-summary">美国威奇托市探索广场的穹顶影院将举办一场K-Pop派对活动。</div>
+  <div class="card-summary">威奇托探索广场的穹顶影院将举办一场K-Pop派对，具体时间及详情未提及。</div>
   <div class="card-footer">
     <a href="https://news.google.com/rss/articles/CBMif0FVX3lxTFB4aEJuLThXM29fejNyNXA3dGhJTTVhT0R1WVNITnRmckdWQTh4TVpWdXNiSU0yOGdPcUpHQlJmMmNxV1gwbWNoVjc3ZXVOa3U4U1RLeHZPQWNpYjNjN3dXS2JVX0k5TkEzdkRDVmNTOE16TkRZUlpBcFdkdFlkUUE?oc=5" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
-    <button class="btn-match" onclick="copyDraft(this)" data-copy="威奇托探索广场穹顶影院举办K-Pop派对\n来源：Google News\n日期：2026-06-23\n摘要：美国威奇托市探索广场的穹顶影院将举办一场K-Pop派对活动。">匹配模板</button>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="威奇托探索广场穹顶影院举办K-Pop派对\n来源：Google News\n日期：2026-06-23\n摘要：威奇托探索广场的穹顶影院将举办一场K-Pop派对，具体时间及详情未提及。">匹配模板</button>
   </div>
 </div>
 <div class="card">
   <div class="card-head">
     <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
-    <div class="card-title"><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxOeDJzeUtvcWVVZTBzQ3ZUQkFONUpuaVo5UFJxeWtzZUUzYS1PVnptZ0toV1FfUU1QTjgzVnk3LW9LT3FWLTRxZzVhR2FZbHpZMDVJZmZZY1lDaWE2bGh4U1BzTF9MMG92eUFTcFZrbmpKMkIyN1lid19VVF9uMDNWdGNmeHFzTElnYTJlc19ydmJJaHJBNkM5aEFRNmdDd0JSQVB3bGZHbGpmQTNpcHVSSUNvalcxdw?oc=5" target="_blank" rel="noopener">SDCC 2026：美泰Hot Wheels限定车款联动《怪奇物语》《壮志凌云》及K-pop恶魔猎人</a></div>
+    <div class="card-title"><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxOeDJzeUtvcWVVZTBzQ3ZUQkFONUpuaVo5UFJxeWtzZUUzYS1PVnptZ0toV1FfUU1QTjgzVnk3LW9LT3FWLTRxZzVhR2FZbHpZMDVJZmZZY1lDaWE2bGh4U1BzTF9MMG92eUFTcFZrbmpKMkIyN1lid19VVF9uMDNWdGNmeHFzTElnYTJlc19ydmJJaHJBNkM5aEFRNmdDd0JSQVB3bGZHbGpmQTNpcHVSSUNvalcxdw?oc=5" target="_blank" rel="noopener">SDCC 2026：美泰Hot Wheels独家系列联动《怪奇物语》《壮志凌云》及K-pop恶魔猎人</a></div>
   </div>
   <div class="card-meta">
     <span class="meta-source">Google News</span>
@@ -684,10 +815,10 @@ footer a { color: var(--accent); text-decoration: none; }
     <span class="risk-tag risk-low">韩娱·低</span>
   </div>
   <hr class="card-sep">
-  <div class="card-summary">据comicsbeat.com报道，在2026年圣地亚哥国际动漫展（SDCC）上，美泰将推出Hot Wheels限定车款，联动IP包括《怪奇物语》《壮志凌云》及K-pop恶魔猎人。</div>
+  <div class="card-summary">在SDCC 2026上，美泰将推出Hot Wheels独家系列，联动作品包括《怪奇物语》、《壮志凌云》及K-pop恶魔猎人。</div>
   <div class="card-footer">
     <a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxOeDJzeUtvcWVVZTBzQ3ZUQkFONUpuaVo5UFJxeWtzZUUzYS1PVnptZ0toV1FfUU1QTjgzVnk3LW9LT3FWLTRxZzVhR2FZbHpZMDVJZmZZY1lDaWE2bGh4U1BzTF9MMG92eUFTcFZrbmpKMkIyN1lid19VVF9uMDNWdGNmeHFzTElnYTJlc19ydmJJaHJBNkM5aEFRNmdDd0JSQVB3bGZHbGpmQTNpcHVSSUNvalcxdw?oc=5" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
-    <button class="btn-match" onclick="copyDraft(this)" data-copy="SDCC 2026：美泰Hot Wheels限定车款联动《怪奇物语》《壮志凌云》及K-pop恶魔猎人\n来源：Google News\n日期：2026-06-23\n摘要：据comicsbeat.com报道，在2026年圣地亚哥国际动漫展（SDCC）上，美泰将推出Hot Wheels限定车款，联动IP包括《怪奇物语》《壮志凌云》及K-pop恶魔猎人。">匹配模板</button>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="SDCC 2026：美泰Hot Wheels独家系列联动《怪奇物语》《壮志凌云》及K-pop恶魔猎人\n来源：Google News\n日期：2026-06-23\n摘要：在SDCC 2026上，美泰将推出Hot Wheels独家系列，联动作品包括《怪奇物语》、《壮志凌云》及K-pop恶魔猎人。">匹配模板</button>
   </div>
 </div>
 <div class="card">
@@ -701,10 +832,10 @@ footer a { color: var(--accent); text-decoration: none; }
     <span class="risk-tag risk-low">韩娱·低</span>
   </div>
   <hr class="card-sep">
-  <div class="card-summary">Loungefly品牌近日发布了多款以KPop Demon Hunters为主题的时尚单品，包括背包、钱包等配件。这些新品融合了K-pop元素与奇幻猎魔主题，具体发售日期及价格尚未公布。</div>
+  <div class="card-summary">Loungefly品牌近日发布了多款以KPop Demon Hunters为主题的时尚单品，包括背包、钱包等配件。这些产品设计融合了K-pop元素与恶魔猎人概念，具体发售日期和价格尚未公布。</div>
   <div class="card-footer">
     <a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxOSVVzTFktY0dCRlBrNnVhalVScDZLMF81ZmJnWFRGNUF2YXp5YWRUTGFVTGJ2dTlWbG0wY3hhaTF4V3V5Wkdkbkl1LVdvVWc3U2ZLa3pMRWUxcUtuY3hwWFVRUGlGN1F2b01yZmpNTUthaml0ZGVYb09tM0JybUdSaDJQNlJiVzNpZkxpeGM2LVRjdy10NnViLVRmaDVBV002LVE?oc=5" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
-    <button class="btn-match" onclick="copyDraft(this)" data-copy="Loungefly推出多款KPop Demon Hunters主题时尚单品\n来源：Google News\n日期：2026-06-23\n摘要：Loungefly品牌近日发布了多款以KPop Demon Hunters为主题的时尚单品，包括背包、钱包等配件。这些新品融合了K-pop元素与奇幻猎魔主题，具体发售日期及价格尚未公布。">匹配模板</button>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="Loungefly推出多款KPop Demon Hunters主题时尚单品\n来源：Google News\n日期：2026-06-23\n摘要：Loungefly品牌近日发布了多款以KPop Demon Hunters为主题的时尚单品，包括背包、钱包等配件。这些产品设计融合了K-pop元素与恶魔猎人概念，具体发售日期和价格尚未公布。">匹配模板</button>
   </div>
 </div>
 <div class="card">
@@ -718,44 +849,10 @@ footer a { color: var(--accent); text-decoration: none; }
     <span class="risk-tag risk-low">韩娱·低</span>
   </div>
   <hr class="card-sep">
-  <div class="card-summary">福布斯发布报道，聚焦K-POP组合BOYNEXTDOOR的新曲《HOME》，称其传达了无与伦比的归属感。报道未提及具体数据或事件细节，仅对歌曲主题进行正面评价。</div>
+  <div class="card-summary">福布斯近日发布报道，聚焦K-Pop组合BOYNEXTDOOR的新曲《HOME》，称其传达了无与伦比的归属感。报道未提及具体数据或事件细节，仅对歌曲主题进行正面评价。</div>
   <div class="card-footer">
     <a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxNbkYxUU55d1VVc2FKbTJMMjJubEtUcnJlWnI3ZWxmSFRVT05LOFFSbl91Z2Y2Zm9JZ19jTUptSnI1UUNkNzBZbDBuM19fOEcySUFLQ1JBTkl3ZXctenoyaTdBdWIyRHNIaEQ3YnlCbDdMWm1JaVItLVJXc1JzZTMxd1JpY25jZjJxWlBmanRKTVpWam5SdERkUUlfTElzVDl6dUx0Zw?oc=5" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
-    <button class="btn-match" onclick="copyDraft(this)" data-copy="BOYNEXTDOOR新曲《HOME》获福布斯报道：无与伦比的归属感\n来源：Google News\n日期：2026-06-23\n摘要：福布斯发布报道，聚焦K-POP组合BOYNEXTDOOR的新曲《HOME》，称其传达了无与伦比的归属感。报道未提及具体数据或事件细节，仅对歌曲主题进行正面评价。">匹配模板</button>
-  </div>
-</div>
-<div class="card">
-  <div class="card-head">
-    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
-    <div class="card-title"><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxPTTBVZTZJWVZEdC13SlBNUjVUMDFhTjVuVkkyWXlHcXBSQnJUZFRiRmEwUi1GdkRIcEdReFU3bkdwaWhfWlQ1SFJ5YlFsUlp2b2NyNFVJMWpzcDAtV0lROUFJQklOdFZ6cVNlc1l6a0tUdXBDQnNXTGJWWFBhazc0VnhBV3VDalZRazRMeHZzRlNJOU9vN2FGamd2cUFzaG16Ql9udGRSUQ?oc=5" target="_blank" rel="noopener">ENHYPEN墨西哥快闪店预约指南：步骤详解</a></div>
-  </div>
-  <div class="card-meta">
-    <span class="meta-source">Google News</span>
-    <span class="meta-date">· 2026-06-23</span>
-    <span class="risk-tag risk-low">韩娱·低</span>
-  </div>
-  <hr class="card-sep">
-  <div class="card-summary">Billboard发布指南，介绍如何预约ENHYPEN在墨西哥的官方快闪店。文章详细说明了注册步骤，包括访问指定网站、填写信息、选择时段等，帮助粉丝顺利参与活动。</div>
-  <div class="card-footer">
-    <a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxPTTBVZTZJWVZEdC13SlBNUjVUMDFhTjVuVkkyWXlHcXBSQnJUZFRiRmEwUi1GdkRIcEdReFU3bkdwaWhfWlQ1SFJ5YlFsUlp2b2NyNFVJMWpzcDAtV0lROUFJQklOdFZ6cVNlc1l6a0tUdXBDQnNXTGJWWFBhazc0VnhBV3VDalZRazRMeHZzRlNJOU9vN2FGamd2cUFzaG16Ql9udGRSUQ?oc=5" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
-    <button class="btn-match" onclick="copyDraft(this)" data-copy="ENHYPEN墨西哥快闪店预约指南：步骤详解\n来源：Google News\n日期：2026-06-23\n摘要：Billboard发布指南，介绍如何预约ENHYPEN在墨西哥的官方快闪店。文章详细说明了注册步骤，包括访问指定网站、填写信息、选择时段等，帮助粉丝顺利参与活动。">匹配模板</button>
-  </div>
-</div>
-<div class="card">
-  <div class="card-head">
-    <span class="pulse-dot"><span class="dot"></span><span class="new-label">NEW</span></span>
-    <div class="card-title"><a href="https://news.google.com/rss/articles/CBMiigJBVV95cUxPWWd6RGJ0MHRpMTRXVk53aXBYcFljdVBMR2h6STZTazRyUmxDZXdzRDd5LW1zZWQyRXFnVFFCbEZTQno2VUdSUjRNbU1JRDJkV2FtWTNfTnZJUG1xMHQ3MUwzQXVrU1FQUl90aDZDdVMyQ3VuNlZFLWF1QXZ2TE1BVlVaSHFIRk5YYUF1cVJxNENTZWdLVGZDWWxmUjVnRXdSNnFKVHZJY013U0N1a2RwUXRMbk16RGtlcDRhOWVHTGJkb1c2Nml5dEJOR0pIejJRTE81cTNzLVduWDE1X2thT2FzQmE3LUNJVWtQaTJkZGQyYkVMX29Vb1RPTk1WRXQwTGpvTWFxcTZvdw?oc=5" target="_blank" rel="noopener">新凯尼-波特地区6月24-27日举办K-Pop恶魔猎人日等5场活动</a></div>
-  </div>
-  <div class="card-meta">
-    <span class="meta-source">Google News</span>
-    <span class="meta-date">· 2026-06-23</span>
-    <span class="risk-tag risk-low">韩娱·低</span>
-  </div>
-  <hr class="card-sep">
-  <div class="card-summary">据Community Impact报道，6月24日至27日，美国德克萨斯州新凯尼和波特地区将举办5场活动，其中包括K-Pop恶魔猎人日和Loteria星期四。具体活动细节未在原文中详述。</div>
-  <div class="card-footer">
-    <a href="https://news.google.com/rss/articles/CBMiigJBVV95cUxPWWd6RGJ0MHRpMTRXVk53aXBYcFljdVBMR2h6STZTazRyUmxDZXdzRDd5LW1zZWQyRXFnVFFCbEZTQno2VUdSUjRNbU1JRDJkV2FtWTNfTnZJUG1xMHQ3MUwzQXVrU1FQUl90aDZDdVMyQ3VuNlZFLWF1QXZ2TE1BVlVaSHFIRk5YYUF1cVJxNENTZWdLVGZDWWxmUjVnRXdSNnFKVHZJY013U0N1a2RwUXRMbk16RGtlcDRhOWVHTGJkb1c2Nml5dEJOR0pIejJRTE81cTNzLVduWDE1X2thT2FzQmE3LUNJVWtQaTJkZGQyYkVMX29Vb1RPTk1WRXQwTGpvTWFxcTZvdw?oc=5" target="_blank" rel="noopener" class="btn-view">查看原文 ↗</a>
-    <button class="btn-match" onclick="copyDraft(this)" data-copy="新凯尼-波特地区6月24-27日举办K-Pop恶魔猎人日等5场活动\n来源：Google News\n日期：2026-06-23\n摘要：据Community Impact报道，6月24日至27日，美国德克萨斯州新凯尼和波特地区将举办5场活动，其中包括K-Pop恶魔猎人日和Loteria星期四。具体活动细节未在原文中详述。">匹配模板</button>
+    <button class="btn-match" onclick="copyDraft(this)" data-copy="BOYNEXTDOOR新曲《HOME》获福布斯报道：无与伦比的归属感\n来源：Google News\n日期：2026-06-23\n摘要：福布斯近日发布报道，聚焦K-Pop组合BOYNEXTDOOR的新曲《HOME》，称其传达了无与伦比的归属感。报道未提及具体数据或事件细节，仅对歌曲主题进行正面评价。">匹配模板</button>
   </div>
 </div>
 </div>
@@ -772,6 +869,83 @@ function copyDraft(btn) {
     setTimeout(function(){ toast.remove(); }, 2000);
   });
 }
+// AsianWiki filters
+function _awFilter(){
+  var all = window._awDramas || [];
+  var r = document.querySelector('.filter-chip[data-aw-region].active');
+  var p = document.querySelector('.filter-chip[data-aw-platform].active');
+  var m = document.querySelector('.filter-chip[data-aw-month].active');
+  var region = r ? r.dataset.awRegion : 'all';
+  var plat = p ? p.dataset.awPlatform : 'all';
+  var month = m ? m.dataset.awMonth : 'all';
+  var jp = ['TBS','TV Asahi','Fuji TV','WOWOW','TV Tokyo','NTV','NHK'];
+  function getRegion(d){ return jp.indexOf(d.platform)>=0 ? '日本' : '韩国'; }
+  var filtered = all.filter(function(d){
+    if (region !== 'all' && getRegion(d) !== region) return false;
+    if (plat !== 'all' && d.platform !== plat) return false;
+    if (month === 'tbd') return d.air_date === '2026年待定' || !d.published_ts;
+    if (month !== 'all') {
+      var dm = new Date(d.published_ts*1000).getMonth()+1;
+      if (dm !== parseInt(month)) return false;
+    }
+    return true;
+  });
+  // Re-render list (call into Python-generated function via inline data)
+  var container = document.getElementById('aw-content');
+  if (!container) return;
+  var cst = 8;
+  var monthNames = ['','1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月'];
+  var groups={}, tbd=[];
+  filtered.forEach(function(d){
+    if (d.air_date === '2026年待定' || !d.published_ts) { tbd.push(d); }
+    else {
+      var dt = new Date(d.published_ts*1000);
+      var key = dt.getFullYear()+'-'+String(dt.getMonth()+1).padStart(2,'0');
+      if (!groups[key]) groups[key]=[];
+      groups[key].push(d);
+    }
+  });
+  var h='';
+  Object.keys(groups).sort().forEach(function(key){
+    var parts=key.split('-');
+    h+='<div class=\"month-header\">📅 '+parts[0]+'年 '+monthNames[parseInt(parts[1])]+' 上映剧集 <span class=\"month-count\">(共 '+groups[key].length+' 部)</span></div>';
+    groups[key].forEach(function(d){
+      h+=_awCard(d, false);
+    });
+  });
+  if(tbd.length){
+    h+='<div class=\"month-header\">📌 2026年待定 <span class=\"month-count\">(共 '+tbd.length+' 部)</span></div>';
+    tbd.forEach(function(d){ h+=_awCard(d, true); });
+  }
+  container.innerHTML = h || '<div class=\"empty-state\">📭 没有匹配的剧集</div>';
+}
+function _awCard(d, isTbd){
+  var jp=['TBS','TV Asahi','Fuji TV','WOWOW','TV Tokyo','NTV','NHK'];
+  var genre = jp.indexOf(d.platform)>=0 ? '日剧' : '韩剧';
+  var fullTitle = d.title + (d.title_zh ? ' | ' + d.title_zh : '');
+  var dateStr = isTbd ? '2026年' : '';
+  if (!isTbd && d.published_ts){
+    var dt = new Date(d.published_ts*1000);
+    dateStr = (dt.getMonth()+1)+'月 '+dt.getDate()+'日';
+  }
+  var h = '<div class=\"drama-card\">';
+  if(dateStr) h += '<div class=\"drama-date\">🗓️ '+dateStr+'</div>';
+  h += '<div class=\"drama-title\"><a href=\"'+d.url+'\" target=\"_blank\">'+fullTitle+'</a></div>';
+  if(d.cast) h += '<div class=\"drama-cast\">Cast: '+d.cast+'</div>';
+  if(d.summary_zh) h += '<div class=\"drama-summary\">'+d.summary_zh+'</div>';
+  h += '<div class=\"drama-tags\"><span class=\"drama-tag platform\">'+d.platform+'</span><span class=\"drama-tag\">'+genre+'</span></div></div>';
+  return h;
+}
+// Bind AsianWiki filter clicks
+document.addEventListener('click', function(e){
+  var chip = e.target.closest('[data-aw-region], [data-aw-platform], [data-aw-month]');
+  if (!chip) return;
+  var attr = chip.dataset.awRegion ? 'aw-region' : (chip.dataset.awPlatform ? 'aw-platform' : 'aw-month');
+  document.querySelectorAll('[data-'+attr+']').forEach(function(c){ c.classList.remove('active'); });
+  chip.classList.add('active');
+  _awFilter();
+});
+
 function toggleDrawer() {
   document.getElementById('drawer').classList.toggle('open');
   document.getElementById('overlay').classList.toggle('open');
