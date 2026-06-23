@@ -50,11 +50,14 @@ jobs:
 
       - name: Restore old state from gh-pages
         run: |
-          git fetch origin gh-pages 2>/dev/null || true
+          git fetch origin gh-pages || echo "⚠️ fetch gh-pages failed"
           mkdir -p gh-pages/_state
-          # 从 gh-pages 分支拉回旧的 _state 文件（仿 DailyBrief 做法）
           if git show origin/gh-pages:_state/ >/dev/null 2>&1; then
-            git --work-tree=gh-pages checkout origin/gh-pages -- _state/ 2>/dev/null || true
+            git --work-tree=gh-pages checkout origin/gh-pages -- _state/ || echo "⚠️ checkout failed"
+            echo "Restored _state files:"
+            ls -la gh-pages/_state/ || true
+          else
+            echo "No _state/ on gh-pages yet (first run)"
           fi
 
       - name: Clear dedup cache

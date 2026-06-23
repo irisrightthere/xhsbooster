@@ -289,21 +289,30 @@ class Crawler:
     # ── AsianWiki 解析器 ────────────────────────────
 
     def _fetch_asianwiki(self, source: dict, max_items: int) -> list[RawArticle]:
+        # 双通道：优先 curl_cffi（绕过 Cloudflare），失败降级 httpx
+        html = ""
         try:
             from curl_cffi import requests as cffi_requests
-        except ImportError:
-            logger.error("curl_cffi 未安装，无法抓取 AsianWiki")
+            r = cffi_requests.get("https://asianwiki.com/Main_Page", impersonate="chrome120", timeout=30)
+            html = r.text
+        except Exception as e:
+            logger.warning(f"curl_cffi 失败: {e}，降级 httpx")
+            try:
+                import httpx
+                r = httpx.get("https://asianwiki.com/Main_Page", headers={
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+                }, timeout=30)
+                html = r.text
+            except Exception as e2:
+                logger.error(f"AsianWiki 双通道均失败: {e2}")
+                return []
+
+        if not html:
             return []
 
         month_map = {'January':1,'February':2,'March':3,'April':4,'May':5,'June':6,
                      'July':7,'August':8,'September':9,'October':10,'November':11,'December':12}
         current_year = 2026
-
-        try:
-            r = cffi_requests.get("https://asianwiki.com/Main_Page", impersonate="chrome120", timeout=30)
-        except Exception as e:
-            logger.error(f"AsianWiki 请求失败: {e}")
-            return []
         if r.status_code != 200:
             logger.error(f"AsianWiki HTTP {r.status_code}")
             return []
@@ -340,7 +349,11 @@ class Crawler:
             cast = ""
             summary = ""
             try:
-                dr = cffi_requests.get(drama_url, impersonate="chrome120", timeout=8)
+                try:
+                    dr = cffi_requests.get(drama_url, impersonate="chrome120", timeout=8)
+                except:
+                    import httpx as _httpx
+                    dr = _httpx.get(drama_url, headers={"User-Agent": "Mozilla/5.0"}, timeout=8)
                 if dr.status_code == 200:
                     cidx = dr.text.find('id="Cast"')
                     if cidx > 0:
@@ -403,13 +416,13 @@ class Crawler:
             ))
 
         # 也抓 "2026" 待定区块
-        tbd_entries = self._fetch_asianwiki_tbd(cffi_requests, r.text, source)
+        tbd_entries = self._fetch_asianwiki_tbd(html, source)
         articles.extend(tbd_entries)
 
         logger.info(f"AsianWiki: {len(articles)} 部 (含{len(tbd_entries)}部待定)")
         return articles
 
-    def _fetch_asianwiki_tbd(self, cffi_requests, html: str, source: dict) -> list[RawArticle]:
+    def _fetch_asianwiki_tbd(self, html: str, source: dict) -> list[RawArticle]:
         """抓取 AsianWiki 2026 待定剧集"""
         import re as _re
         pos = html.find('>2026<')
