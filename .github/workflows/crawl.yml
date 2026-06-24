@@ -2,9 +2,13 @@ name: xhsbooster 定时抓取
 
 on:
   schedule:
-    # 每 4 小时触发（UTC 整点），实际执行由 gate 时区感知控制
     - cron: '0 */4 * * *'
-  workflow_dispatch:  # 手动触发
+  workflow_dispatch:
+    inputs:
+      force-asianwiki:
+        description: '强制更新AsianWiki'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -12,7 +16,6 @@ permissions:
   id-token: write
 
 jobs:
-  # ── 门控：时区感知，避免无效运行 ──
   gate:
     runs-on: ubuntu-latest
     outputs:
@@ -20,7 +23,6 @@ jobs:
     steps:
       - id: check
         run: |
-          # 检查北京时间是否在 08:00-02:00 之间（避免深夜空跑）
           HOUR_CST=$(TZ='Asia/Shanghai' date +%H)
           if [ "$HOUR_CST" -ge 8 ] || [ "$HOUR_CST" -lt 2 ]; then
             echo "should_run=true" >> $GITHUB_OUTPUT
@@ -30,7 +32,6 @@ jobs:
             echo "CST hour=$HOUR_CST → 深夜跳过"
           fi
 
-  # ── 抓取管道 ──
   crawl:
     needs: gate
     if: needs.gate.outputs.should_run == 'true' || github.event_name == 'workflow_dispatch'
@@ -52,14 +53,13 @@ jobs:
         run: |
           mkdir -p gh-pages/_state
           BASE="https://irisrightthere.github.io/xhsbooster/_state"
-          # 下载近7天的 state 文件
           for d in $(seq 1 7); do
             DATE=$(date -d "-$d days" +%Y-%m%d 2>/dev/null || date -v-${d}d +%Y-%m%d 2>/dev/null || echo "")
             [ -z "$DATE" ] && continue
             curl -sSf "${BASE}/${DATE}_articles.json" -o "gh-pages/_state/${DATE}_articles.json" 2>/dev/null && echo "✅ restored $DATE" || true
           done
           echo "Local state files:"
-          ls gh-pages/_state/*.json 2>/dev/null || echo "(none yet, first run)"
+          ls gh-pages/_state/*.json 2>/dev/null || echo "(none yet)"
 
       - name: Clear dedup cache
         run: rm -f gh-pages/_state/dedup.db
@@ -68,6 +68,7 @@ jobs:
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
+          FORCE_ASIANWIKI: ${{ github.event.inputs.force-asianwiki || 'false' }}
         run: python main.py run
 
       - name: Deploy to GitHub Pages

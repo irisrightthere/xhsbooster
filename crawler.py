@@ -65,6 +65,14 @@ class Crawler:
 
     # ── 主编排 ──────────────────────────────────────
 
+    def _should_fetch_asianwiki(self) -> bool:
+        """AsianWiki 仅在周一 CST 8:00-8:59 或手动强制时抓取"""
+        import os
+        if os.environ.get("FORCE_ASIANWIKI") == "true":
+            return True
+        now = now_cst()
+        return now.weekday() == 0 and now.hour == 8  # 周一 8:00-8:59
+
     def fetch_all(self) -> list[RawArticle]:
         """遍历所有源，去重，返回新文章列表。"""
         self.dedup.prune()
@@ -72,6 +80,9 @@ class Crawler:
 
         for source in self.sources:
             sid = source.get("id", "unknown")
+            if sid == "asianwiki" and not self._should_fetch_asianwiki():
+                logger.info(f"[{sid}] 跳过（非周一8点CST，非手动强制）")
+                continue
             try:
                 articles = self._fetch_source(source)
                 all_articles.extend(articles)
