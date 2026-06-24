@@ -290,24 +290,16 @@ class Crawler:
     # ── AsianWiki 解析器 ────────────────────────────
 
     def _fetch_asianwiki(self, source: dict, max_items: int) -> list[RawArticle]:
-        # 双通道：优先 curl_cffi（绕过 Cloudflare），失败降级 httpx
+        import httpx as _httpx
+        UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+
         html = ""
         try:
-            from curl_cffi import requests as cffi_requests
-            r = cffi_requests.get("https://asianwiki.com/Main_Page", impersonate="chrome120", timeout=30)
+            r = _httpx.get("https://asianwiki.com/Main_Page", headers={"User-Agent": UA}, timeout=30)
             html = r.text
         except Exception as e:
-            logger.warning(f"curl_cffi 失败: {e}，降级 httpx")
-            try:
-                import httpx
-                r = httpx.get("https://asianwiki.com/Main_Page", headers={
-                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
-                }, timeout=30)
-                html = r.text
-            except Exception as e2:
-                logger.error(f"AsianWiki 双通道均失败: {e2}")
-                return []
-
+            logger.error(f"AsianWiki 主页失败: {e}")
+            return []
         if not html:
             return []
 
@@ -350,11 +342,7 @@ class Crawler:
             cast = ""
             summary = ""
             try:
-                try:
-                    dr = cffi_requests.get(drama_url, impersonate="chrome120", timeout=8)
-                except:
-                    import httpx as _httpx
-                    dr = _httpx.get(drama_url, headers={"User-Agent": "Mozilla/5.0"}, timeout=8)
+                dr = _httpx.get(drama_url, headers={"User-Agent": UA}, timeout=8)
                 if dr.status_code == 200:
                     cidx = dr.text.find('id="Cast"')
                     if cidx > 0:

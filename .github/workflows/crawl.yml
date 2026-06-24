@@ -48,18 +48,18 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Restore old state from gh-pages
+      - name: Restore old state from deployed site
         run: |
-          git fetch origin gh-pages --depth=1 || { echo "⚠️ fetch failed"; exit 0; }
           mkdir -p gh-pages/_state
-          # 仿 DailyBrief: checkout 旧报告到本地，再叠加新报告
-          if git ls-tree origin/gh-pages -- _state/ | grep -q .; then
-            git --work-tree=gh-pages checkout origin/gh-pages -- _state/
-            echo "Restored state files:"
-            ls gh-pages/_state/*.json 2>/dev/null || echo "(no json yet)"
-          else
-            echo "No _state/ on gh-pages yet"
-          fi
+          BASE="https://irisrightthere.github.io/xhsbooster/_state"
+          # 下载近7天的 state 文件
+          for d in $(seq 1 7); do
+            DATE=$(date -d "-$d days" +%Y-%m%d 2>/dev/null || date -v-${d}d +%Y-%m%d 2>/dev/null || echo "")
+            [ -z "$DATE" ] && continue
+            curl -sSf "${BASE}/${DATE}_articles.json" -o "gh-pages/_state/${DATE}_articles.json" 2>/dev/null && echo "✅ restored $DATE" || true
+          done
+          echo "Local state files:"
+          ls gh-pages/_state/*.json 2>/dev/null || echo "(none yet, first run)"
 
       - name: Clear dedup cache
         run: rm -f gh-pages/_state/dedup.db
