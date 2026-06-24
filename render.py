@@ -343,7 +343,9 @@ class SSGRenderer:
 
     def _render_index(self, articles: list[dict], date_str: str) -> str:
         grouped = self._group_by_source(articles)
-        sids = list(grouped.keys())
+        # 所有已知源（按排序），即使某源无内容也展示 Tab
+        all_sids = ["soompi", "google-kpop", "asianwiki"]
+        visible_sids = [s for s in all_sids if s in grouped or True]  # 始终展示
         date_display = f"{date_str[:4]}-{date_str[5:7]}-{date_str[7:9]}"
 
         body = '<div class="drawer-overlay" id="overlay" onclick="toggleDrawer()"></div>\n'
@@ -357,26 +359,32 @@ class SSGRenderer:
 
         body += f'<header class="report-header"><span class="eyebrow">🍠 xhsbooster</span><h1 class="report-title">{date_display}</h1><a class="archive-link" onclick="toggleDrawer()">← 往期回顾</a></header>\n'
 
-        if not grouped:
+        if not articles:
             body += '<div class="empty-state">📭 暂无内容</div>'
             return self._wrap_html(f"xhsbooster · {date_display}", body)
 
+        # 源名称映射
+        src_names = {"soompi": "Soompi", "google-kpop": "Google News", "asianwiki": "AsianWiki"}
         body += '<div class="tab-bar">\n'
-        for i, sid in enumerate(sids):
+        for i, sid in enumerate(all_sids):
             active = ' active' if i == 0 else ''
-            name = grouped[sid][0].get("source_name", sid) if grouped[sid] else sid
-            body += f'  <button class="tab-btn{active}" data-sid="{sid}">[{name}]<span class="tab-count">{len(grouped[sid])}</span></button>\n'
+            name = src_names.get(sid, sid)
+            count = len(grouped.get(sid, []))
+            body += f'  <button class="tab-btn{active}" data-sid="{sid}">[{name}]<span class="tab-count">{count}</span></button>\n'
         body += '</div>\n'
 
         body += '<div class="content">\n'
-        for i, sid in enumerate(sids):
+        for i, sid in enumerate(all_sids):
             active = ' active' if i == 0 else ''
             body += f'<div class="tab-panel{active}" data-sid="{sid}">\n'
+            arts = grouped.get(sid, [])
             if sid == 'asianwiki':
-                body += self._render_asianwiki_panel(grouped[sid])
-            else:
-                for art in grouped[sid]:
+                body += self._render_asianwiki_panel(arts)
+            elif arts:
+                for art in arts:
                     body += self._render_card(art)
+            else:
+                body += '<div class="empty-state">📭 本轮暂无此源内容</div>\n'
             body += '</div>\n'
         body += '</div>\n'
 

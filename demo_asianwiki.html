@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>AsianWiki Tab — Demo</title>
+<style>
+:root {
+  --bg: #0B0F19; --surface: #161F30; --border: rgba(255,255,255,0.04);
+  --text: #D1D9E6; --text2: #6C7D93; --accent: #B3C0FB;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font: 14px/1.6 -apple-system, "PingFang SC", sans-serif;
+  background: var(--bg); color: var(--text); max-width: 720px; margin: 0 auto; padding: 20px; }
+
+/* Header */
+.report-header { margin-bottom: 1.25rem; }
+.eyebrow { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.2em; color: var(--text2); }
+.report-title { font-size: 2.2rem; font-weight: 700; margin: 0.4rem 0 0.6rem; }
+.archive-link { font-size: 0.85rem; color: var(--text2); border-bottom: 1px dashed rgba(179,192,251,0.2); cursor: pointer; }
+.archive-link:hover { color: var(--accent); }
+
+/* Tabs */
+.tab-bar { display: flex; gap: 0; border-bottom: 1px solid var(--border); margin-bottom: 16px; overflow-x: auto; }
+.tab-btn { padding: 12px 20px; border: none; background: none; cursor: pointer;
+  font-size: 13px; color: var(--text2); border-bottom: 2px solid transparent;
+  margin-bottom: -1px; white-space: nowrap; font-family: inherit; transition: .15s; }
+.tab-btn:hover { color: var(--text); }
+.tab-btn.active { color: var(--accent); border-bottom-color: var(--accent); }
+
+/* Filters row */
+.filter-row { display: flex; gap: 8px; margin-bottom: 10px; flex-wrap: wrap; align-items: center; }
+.filter-label { font-size: 11px; color: var(--text2); margin-right: 4px; white-space: nowrap; }
+.filter-chip { padding: 4px 12px; border-radius: 14px; font-size: 11px; cursor: pointer;
+  border: 1px solid var(--border); background: none; color: var(--text2);
+  font-family: inherit; transition: .15s; white-space: nowrap; }
+.filter-chip:hover { border-color: var(--accent); color: var(--accent); }
+.filter-chip.active { background: var(--accent); color: #0B0F19; border-color: var(--accent); }
+
+/* Month section */
+.month-header { font-size: 15px; font-weight: 700; color: var(--text); margin: 24px 0 12px; padding-bottom: 6px;
+  border-bottom: 1px solid var(--border); display: flex; justify-content: space-between; }
+.month-count { font-size: 12px; color: var(--text2); font-weight: 400; }
+
+/* Drama card */
+.drama-card { background: var(--surface); border: 1px solid var(--border); border-radius: 8px;
+  padding: 16px 20px; margin-bottom: 10px; transition: .15s; }
+.drama-card:hover { border-color: rgba(255,255,255,0.06); }
+.drama-date { font-size: 12px; color: var(--accent); margin-bottom: 6px; }
+.drama-title { font-size: 17px; font-weight: 700; margin-bottom: 8px; }
+.drama-title a { color: var(--text); text-decoration: none; }
+.drama-title a:hover { color: var(--accent); }
+.drama-cast { font-size: 12px; color: var(--accent); margin: 6px 0; }
+.drama-summary { font-size: 13px; color: var(--text2); line-height: 1.7; margin: 8px 0; }
+.drama-tags { display: flex; gap: 6px; flex-wrap: wrap; }
+.drama-tag { font-size: 10px; padding: 2px 8px; border-radius: 4px;
+  background: rgba(255,255,255,0.03); color: var(--text2); border: 1px solid rgba(255,255,255,0.06); }
+.drama-tag.platform { color: #92B594; background: rgba(146,181,148,.08); border-color: rgba(146,181,148,.2); }
+.hidden { display: none; }
+</style>
+</head>
+<body>
+
+<header class="report-header">
+  <span class="eyebrow">🍠 xhsbooster</span>
+  <h1 class="report-title">2026-06-23</h1>
+  <span class="archive-link">← 往期回顾</span>
+</header>
+
+<div class="tab-bar">
+  <button class="tab-btn" data-sid="soompi">[Soompi]</button>
+  <button class="tab-btn" data-sid="google">[Google News]</button>
+  <button class="tab-btn active" data-sid="asianwiki">[AsianWiki]<span style="font-size:11px;color:var(--accent);margin-left:4px">72</span></button>
+</div>
+
+<!-- Platform filter -->
+<div class="filter-row">
+  <span class="filter-label">平台:</span>
+  <button class="filter-chip active" data-platform="all">全部</button>
+  <button class="filter-chip" data-platform="Netflix">Netflix</button>
+  <button class="filter-chip" data-platform="tvN">tvN</button>
+  <button class="filter-chip" data-platform="Disney+">Disney+</button>
+  <button class="filter-chip" data-platform="SBS">SBS</button>
+  <button class="filter-chip" data-platform="JTBC">JTBC</button>
+  <button class="filter-chip" data-platform="KBS2">KBS2</button>
+  <button class="filter-chip" data-platform="MBC">MBC</button>
+  <button class="filter-chip" data-platform="ENA">ENA</button>
+</div>
+
+<!-- Region filter -->
+<div class="filter-row">
+  <span class="filter-label">地区:</span>
+  <button class="filter-chip active" data-region="all">全部</button>
+  <button class="filter-chip" data-region="韩国">韩国</button>
+  <button class="filter-chip" data-region="日本">日本</button>
+</div>
+
+<!-- Month filter -->
+<div class="filter-row">
+  <span class="filter-label">月份:</span>
+  <button class="filter-chip active" data-month="all" id="monthAll">全部</button>
+  <button class="filter-chip" data-month="1">1月</button>
+  <button class="filter-chip" data-month="2">2月</button>
+  <button class="filter-chip" data-month="3">3月</button>
+  <button class="filter-chip" data-month="4">4月</button>
+  <button class="filter-chip" data-month="5">5月</button>
+  <button class="filter-chip" data-month="6">6月</button>
+  <button class="filter-chip" data-month="7">7月</button>
+  <button class="filter-chip" data-month="8">8月</button>
+  <button class="filter-chip" data-month="99">📌 待定</button>
+</div>
+
+<div id="content">
+  <!-- populated by JS -->
+</div>
+
+<script>
+// ═══ Sample Data from AsianWiki ═══
+// 全部2026年（已过滤2025年11-12月）
+function d(mon, day) {
+  return '2026-' + String(mon).padStart(2,'0') + '-' + String(day).padStart(2,'0');
+}
+// 1月剧集 (完整数据)
+var dramas = [
+  {date:d(1,1), title:"It Is My Husband", title_zh:"我的丈夫",
+   platform:"Fuji TV", cast:"松下奈绪 / 樱井由纪 / 宫泽冰鱼 / 中村海人",
+   summary:"松下奈绪饰演一位发现丈夫双重秘密生活的妻子。一部关于婚姻与背叛的悬疑剧。",
+   url:"https://asianwiki.com/It_Is_My_Husband"},
+  {date:d(1,8), title:"Fuyu no Nankasa, Haru no Nankasa", title_zh:"冬之难，春之难",
+   platform:"NTV", cast:"杉咲花 / 成田凌 / 冈山天音",
+   summary:"土田彩菜是27岁的小说家，已出版两本书，目前正在创作第三部。写作之余，她在二手服装店兼职。一部关于年轻小说家在生活与创作中挣扎的故事。",
+   url:"https://asianwiki.com/Fuyu_no_Nankasa,_Haru_no_Nankasa"},
+  {date:d(1,15), title:"Can This Love Be Translated?", title_zh:"这份爱可以翻译吗？",
+   platform:"Netflix", cast:"金宣虎 / 高允贞 / 福士苍汰 / 李伊丹",
+   summary:"朱浩镇是一名拥有英语、日语和意大利语等多国语言能力的非凡口译员。他开始为明星车武熙担任翻译。一位顶级女演员与她的翻译之间，跨越语言与文化障碍的浪漫故事就此展开。",
+   url:"https://asianwiki.com/Can_This_Love_Be_Translated%3F"},
+  {date:d(1,22), title:"I'll Prescribe You Love", title_zh:"爱情处方",
+   platform:"KBS2", cast:"金世允 / 朴基雄 / 金美淑 / 金胜洙",
+   summary:"因孔主雅与杨贤彬的缘分，两家积怨三十年的家族解开误会、治愈伤痕。这是一部温馨的医疗爱情剧，讲述两个家庭通过医生子女找到爱与和解的故事。",
+   url:"https://asianwiki.com/I%27ll_Prescribe_You_Love"},
+];
+
+// 日剧平台列表
+var jpPlatforms = ['TBS','TV Asahi','Fuji TV','WOWOW','TV Tokyo','NTV','NHK'];
+function getRegion(p) { return jpPlatforms.indexOf(p) >= 0 ? '日本' : '韩国'; }
+function getGenre(p)  { return jpPlatforms.indexOf(p) >= 0 ? '日剧' : '韩剧'; }
+
+var currentPlatform = 'all';
+var currentMonth = 'all';
+var currentRegion = 'all';
+
+function render() {
+  var filtered = dramas;
+  if (currentPlatform !== 'all') {
+    filtered = filtered.filter(function(d){ return d.platform === currentPlatform; });
+  }
+  if (currentRegion !== 'all') {
+    filtered = filtered.filter(function(d){ return getRegion(d.platform) === currentRegion; });
+  }
+  if (currentMonth === '99') {
+    // 仅待定
+    filtered = filtered.filter(function(d){ return d.date.substring(5,7) === '00'; });
+  } else if (currentMonth !== 'all') {
+    filtered = filtered.filter(function(d){ return d.date.substring(5,7) === currentMonth.padStart(2,'0'); });
+  }
+
+  // Group by month
+  var groups = {};
+  var tbd = [];  // 待定分组
+  filtered.forEach(function(d){
+    if (d.date.substring(5,7) === '00') {
+      tbd.push(d);
+    } else {
+      var m = d.date.substring(0,7);
+      if (!groups[m]) groups[m] = [];
+      groups[m].push(d);
+    }
+  });
+
+  var months = Object.keys(groups).sort();
+  var html = '';
+  var monthNames = {'01':'1月','02':'2月','03':'3月','04':'4月','05':'5月','06':'6月',
+    '07':'7月','08':'8月','09':'9月','10':'10月','11':'11月','12':'12月'};
+
+  months.forEach(function(m){
+    var y = m.substring(0,4);
+    var mm = m.substring(5,7);
+    var label = y + '年 ' + monthNames[mm];
+    var list = groups[m];
+    html += '<div class="month-header">📅 ' + label + ' 上映剧集 <span class="month-count">(共 ' + list.length + ' 部)</span></div>';
+    list.forEach(function(d){
+      var dateObj = new Date(d.date + 'T00:00:00+08:00');
+      var day = dateObj.getDate();
+      var monthShort = (dateObj.getMonth()+1) + '月';
+      html += '<div class="drama-card">';
+      html += '<div class="drama-date">🗓️ ' + monthShort + ' ' + day + '日</div>';
+      var fullTitle = d.title + (d.title_zh ? ' | ' + d.title_zh : '');
+      html += '<div class="drama-title"><a href="' + d.url + '" target="_blank">' + fullTitle + '</a></div>';
+      if (d.cast) { html += '<div class="drama-cast">Cast: ' + d.cast + '</div>'; }
+      if (d.summary) { html += '<div class="drama-summary">' + d.summary + '</div>'; }
+      var g = getGenre(d.platform);
+      html += '<div class="drama-tags"><span class="drama-tag platform">' + d.platform + '</span><span class="drama-tag">' + g + '</span></div></div>';
+    });
+  });
+
+  // 待定分组
+  if (tbd.length > 0) {
+    html += '<div class="month-header">📌 2026年待定 <span class="month-count">(共 ' + tbd.length + ' 部)</span></div>';
+    tbd.forEach(function(d){
+      var g = getGenre(d.platform);
+      html += '<div class="drama-card">';
+      html += '<div class="drama-date">🗓️ 2026年</div>';
+      html += '<div class="drama-title"><a href="' + d.url + '" target="_blank">' + d.title + '</a></div>';
+      html += '<div class="drama-tags"><span class="drama-tag platform">' + d.platform + '</span><span class="drama-tag">' + g + '</span></div></div>';
+    });
+  }
+
+  if (!html) html = '<div style="text-align:center;padding:40px;color:var(--text2)">📭 没有匹配的剧集</div>';
+  document.getElementById('content').innerHTML = html;
+}
+
+// Filter clicks
+document.querySelectorAll('.filter-chip[data-region]').forEach(function(chip){
+  chip.addEventListener('click', function(){
+    document.querySelectorAll('.filter-chip[data-region]').forEach(function(c){ c.classList.remove('active'); });
+    this.classList.add('active');
+    currentRegion = this.dataset.region;
+    render();
+  });
+});
+document.querySelectorAll('.filter-chip[data-platform]').forEach(function(chip){
+  chip.addEventListener('click', function(){
+    document.querySelectorAll('.filter-chip[data-platform]').forEach(function(c){ c.classList.remove('active'); });
+    this.classList.add('active');
+    currentPlatform = this.dataset.platform;
+    render();
+  });
+});
+document.querySelectorAll('.filter-chip[data-month]').forEach(function(chip){
+  chip.addEventListener('click', function(){
+    document.querySelectorAll('.filter-chip[data-month]').forEach(function(c){ c.classList.remove('active'); });
+    this.classList.add('active');
+    currentMonth = this.dataset.month;
+    render();
+  });
+});
+
+// Tab clicks
+document.querySelectorAll('.tab-btn').forEach(function(btn){
+  btn.addEventListener('click', function(){
+    document.querySelectorAll('.tab-btn').forEach(function(b){ b.classList.remove('active'); });
+    this.classList.add('active');
+  });
+});
+
+render();
+</script>
+</body>
+</html>
