@@ -301,12 +301,16 @@ class Crawler:
     # ── AsianWiki 解析器 ────────────────────────────
 
     def _fetch_asianwiki(self, source: dict, max_items: int) -> list[RawArticle]:
-        import httpx as _httpx
-        UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+        # AsianWiki 必须用 curl_cffi（httpx 拿到的是简化版页面）
+        try:
+            from curl_cffi import requests as cffi_requests
+        except ImportError:
+            logger.error("curl_cffi 未安装，无法抓取 AsianWiki")
+            return []
 
         html = ""
         try:
-            r = _httpx.get("https://asianwiki.com/Main_Page", headers={"User-Agent": UA}, timeout=30)
+            r = cffi_requests.get("https://asianwiki.com/Main_Page", impersonate="chrome120", timeout=30)
             html = r.text
         except Exception as e:
             logger.error(f"AsianWiki 主页失败: {e}")
@@ -328,22 +332,20 @@ class Crawler:
             return []
         section = r.text[start:end]
 
-        # 解析月度排期: "Month Day" + <a href>Title</a> (Station)
-        pattern = r'"([A-Z][a-z]+(?:\s+\d+(?:-\d+)?)?)"\s*<br[^>]*>\s*\*?\s*<a href="(https://asianwiki\.com/[^"]+)">([^<]+)</a>\s*\(?([^)<\n]*)'
-        matches = re.findall(pattern, section)
+        # 解析月度排期: "Month Day" + <a>Title</a> (Station)
+        pattern = r'"([A-Z][a-z]+(?:\s+\d+(?:-\d+)?)?)"\s*<br[^>]*>\s*\*\s*<a href="(https://asianwiki\.com/[^"]+)">([^<]+)</a>\s*\(?([^)<\n]*)'
+        articles_data = []
+        for d, u, t, s in re.findall(pattern, section):
+            t = t.strip()
+            if t:
+                articles_data.append((d, t, u, s.strip().strip("()").strip()))
 
         articles = []
-        for date_str, drama_url, title, station in matches:
-            title = title.strip()
-            station = station.strip().strip("()").strip()
-            if not title:
-                continue
-
-            # 解析日期
+        for date_str, title, drama_url, station in articles_data:
             parts = date_str.split()
             month = month_map.get(parts[0], 0)
             if month in (11, 12):
-                continue  # 过滤 2025年
+                continue
             day = int(parts[1].split('-')[0]) if len(parts) > 1 else 1
             pub_ts = datetime(current_year, month, day, 12, 0, 0,
                               tzinfo=__import__('datetime').timezone(__import__('datetime').timedelta(hours=8))).timestamp()
@@ -353,7 +355,7 @@ class Crawler:
             cast = ""
             summary = ""
             try:
-                dr = _httpx.get(drama_url, headers={"User-Agent": UA}, timeout=8)
+                dr = cffi_requests.get(drama_url, impersonate="chrome120", timeout=8)
                 if dr.status_code == 200:
                     cidx = dr.text.find('id="Cast"')
                     if cidx > 0:
