@@ -49,17 +49,18 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Restore old state from deployed site
+      - name: Restore state from gh-pages branch
         run: |
-          mkdir -p gh-pages/_state
-          BASE="https://irisrightthere.github.io/xhsbooster/_state"
-          for d in $(seq 1 7); do
-            DATE=$(date -d "-$d days" +%Y-%m%d 2>/dev/null || date -v-${d}d +%Y-%m%d 2>/dev/null || echo "")
-            [ -z "$DATE" ] && continue
-            curl -sSf "${BASE}/${DATE}_articles.json" -o "gh-pages/_state/${DATE}_articles.json" 2>/dev/null && echo "✅ restored $DATE" || true
-          done
-          echo "Local state files:"
-          ls gh-pages/_state/*.json 2>/dev/null || echo "(none yet)"
+          mkdir -p gh-pages
+          if git ls-remote --exit-code --heads origin gh-pages >/dev/null 2>&1; then
+            git fetch origin gh-pages --depth=1
+            git archive origin/gh-pages | tar x -C gh-pages/
+            echo "✅ Restored $(ls gh-pages/_state/*_articles.json 2>/dev/null | wc -l) state files from gh-pages"
+          else
+            echo "📦 No existing gh-pages branch — first deployment"
+          fi
+          # Remove auto-generated files (will be rebuilt by pipeline)
+          rm -f gh-pages/index.html gh-pages/archive.html
 
       - name: Clear dedup cache
         run: rm -f gh-pages/_state/dedup.db
