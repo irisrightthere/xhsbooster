@@ -115,6 +115,24 @@ def run_pipeline(dry_run: bool = False) -> int:
     if storage_skipped:
         logger.info(f"存储层过滤: 拦截 {storage_skipped} 篇非当日文章")
 
+    # ── AsianWiki 缓存持久化：如果今天没有 AW 数据，从最近旧文件复制 ──
+    has_aw = any(a.get("source_id") == "asianwiki" for a in validated)
+    if not has_aw:
+        # 找到最近一个含 AsianWiki 的旧 state 文件
+        old_files = sorted(STATE_DIR.glob("*_articles.json"), reverse=True)
+        for old_f in old_files:
+            if old_f.name == f"{date_str}_articles.json":
+                continue
+            try:
+                old_data = json.loads(old_f.read_text("utf-8"))
+                old_aw = [a for a in old_data if a.get("source_id") == "asianwiki"]
+                if old_aw:
+                    validated.extend(old_aw)
+                    logger.info(f"📦 AsianWiki 缓存: 从 {old_f.name} 复制 {len(old_aw)} 篇")
+                    break
+            except Exception:
+                continue
+
     STATE_DIR.mkdir(parents=True, exist_ok=True)
     state_file = STATE_DIR / f"{date_str}_articles.json"
     state_file.write_text(
