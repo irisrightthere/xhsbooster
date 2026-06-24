@@ -71,6 +71,33 @@ jobs:
           FORCE_ASIANWIKI: ${{ github.event.inputs.force-asianwiki || 'false' }}
         run: python main.py run
 
+      - name: Extract AsianWiki spider data
+        run: |
+          python3 -c "
+          import json, os, sys
+          from glob import glob
+          files = sorted(glob('gh-pages/_state/*_articles.json'), reverse=True)
+          if not files: sys.exit(0)
+          data = json.load(open(files[0]))
+          aw = [a for a in data if a.get('source_id') == 'asianwiki']
+          if aw:
+              out = []
+              for a in aw:
+                  try: extra = json.loads(a.get('content','{}'))
+                  except: extra = {}
+                  out.append({
+                      'title': a.get('title',''),
+                      'url': a.get('url',''),
+                      'platform': extra.get('platform', a.get('source_name','')),
+                      'date': extra.get('air_date', a.get('published_at','')),
+                  })
+              json.dump(out, open('gh-pages/_state/spider_data.json','w'), ensure_ascii=False, indent=2)
+              print(f'Extracted {len(out)} AW entries')
+          "
+
+      - name: Merge AsianWiki data
+        run: python merge_data.py
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
