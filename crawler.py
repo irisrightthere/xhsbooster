@@ -416,10 +416,16 @@ class Crawler:
     def _fetch_asianwiki_tbd(self, html: str, source: dict) -> list[RawArticle]:
         """抓取 AsianWiki 2026 待定剧集"""
         import re as _re
-        pos = html.find('>2026<')
-        if pos < 0:
+        # 搜索 "2026" 后跟 drama 链接的区块（>2026< 已失效）
+        pos = html.find('2026')
+        while pos > 0:
+            # 确认该位置附近有 asianwiki 链接
+            if 'asianwiki.com' in html[pos:pos+500]:
+                break
+            pos = html.find('2026', pos + 1)
+        if pos < 0 or 'asianwiki.com' not in html[pos:pos+500]:
             return []
-        chunk = html[pos:pos+3000]
+        chunk = html[pos:pos+4000]
         titles = _re.findall(r'<a href="(https://asianwiki\.com/[^"]+)"[^>]*>([^<]+)</a>', chunk)
         seen = set()
         articles = []
