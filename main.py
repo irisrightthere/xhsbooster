@@ -124,7 +124,9 @@ def run_pipeline(dry_run: bool = False) -> int:
 
     # ── Step 4: 飞书推送 ─────────────────────────────
     notifier = FeishuNotifier()
-    notifier.notify_new_articles(enriched)
+    # 飞书仅推送新闻源，过滤 AsianWiki 排期
+    news_articles = [a for a in enriched if a.get("source_id") != "asianwiki"]
+    notifier.notify_new_articles(news_articles)
     logger.info("📨 飞书推送完成")
 
     # ── Step 5: HTML 渲染 ────────────────────────────
