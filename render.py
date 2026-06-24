@@ -293,8 +293,9 @@ class SSGRenderer:
         except Exception as e:
             logger.error(f"读取数据失败: {e}")
             return []
-        today_mmdd = today_key()[5:7] + today_key()[7:9]
-        filtered = [a for a in articles if a.get("published_at", "")[:4] == today_mmdd]
+        # 用该日期文件的 MMDD 过滤，而非今天的日期
+        file_mmdd = date_str[5:7] + date_str[7:9]  # "0624"
+        filtered = [a for a in articles if a.get("published_at", "")[:4] == file_mmdd]
         skipped = len(articles) - len(filtered)
         if skipped:
             logger.info(f"渲染层拦截 {skipped} 篇非当日文章")
@@ -327,7 +328,17 @@ class SSGRenderer:
         return out
 
     def build_all(self) -> tuple[Path, Path]:
-        return self.build_index(), self.build_archive()
+        """生成首页 + 归档 + 每日独立 HTML（仿 DailyBrief）"""
+        idx = self.build_index()
+        arc = self.build_archive()
+        # 为每个历史日期生成独立 HTML
+        for d in self._scan_dates():
+            articles = self._load_articles(d)
+            if articles:
+                out = self.output_dir / f"{d}.html"
+                html = self._render_index(articles, d)
+                out.write_text(html, "utf-8")
+        return idx, arc
 
     def _render_index(self, articles: list[dict], date_str: str) -> str:
         grouped = self._group_by_source(articles)
@@ -340,7 +351,7 @@ class SSGRenderer:
         body += '  <ul class="drawer-list">\n'
         for d in self._scan_dates():
             display = f"{d[:4]}-{d[5:7]}-{d[7:9]}"
-            body += f'    <li><a href="?date={d}">{display}</a></li>\n'
+            body += f'    <li><a href="{d}.html">{display}</a></li>\n'
         body += '  </ul>\n</div>\n'
 
         body += f'<header class="report-header"><span class="eyebrow">🍠 xhsbooster</span><h1 class="report-title">{date_display}</h1><a class="archive-link" onclick="toggleDrawer()">← 往期回顾</a></header>\n'
@@ -565,7 +576,7 @@ class SSGRenderer:
         body += '<ul class="archive-list">\n'
         for d in dates:
             display = f"{d[:4]}-{d[5:7]}-{d[7:9]}"
-            body += f'  <li><a href="?date={d}">{display}</a></li>\n'
+            body += f'  <li><a href="{d}.html">{display}</a></li>\n'
         body += '</ul>\n'
         return self._wrap_html("xhsbooster · 往期回顾", body)
 
