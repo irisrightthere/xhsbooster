@@ -26,7 +26,7 @@ Layer 2: 本地 Mac（按需运行，深度加工）
 |---|-----|------|------|-----|------|------|
 | 1 | soompi | Soompi | RSS | 第一位 | en | ✅ |
 | 2 | google-kpop | Google News | RSS | 第二位 | en | ✅ |
-| 3 | asianwiki | AsianWiki | 网页 | 第三位 | en | ✅ |
+| 3 | asianwiki | AsianWiki | 网页 | 第三位 | en | ✅ 仅周一8点CST/手动 |
 | — | google-jdrama | Google News 日娱 | RSS | — | en | ⏸️ 蛀掉 |
 | — | oricon | Oricon News | 网页 | — | ja | ⏸️ 蛀掉 |
 
@@ -132,7 +132,7 @@ Cast: 金宣虎 / 高允贞 / 福士苍汰 / 李伊丹
 ...
 ```
 - 纯列表，按日期倒序（最新在前）
-- 每行一个日期链接，点击跳转对应日期的首页
+- 每行一个日期链接，点击跳转 `YYYY-MMDD.html`（仿 DailyBrief 每日独立 HTML）
 - 页脚也有 `往期回顾` 链接，指向 `archive.html` 独立归档页
 
 **持久化机制：** 每次 Actions 运行前，通过 curl 从已部署的网站下载近 7 天的 `_state/*.json` 文件到本地，与新生成的文件合并后再整体部署，保证历史数据不丢失。
