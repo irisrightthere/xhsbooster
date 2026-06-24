@@ -1,5 +1,26 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "The rise of K-pop: How South Korean groups took over the world - CNN",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NcWxGT2VWVk9hMERMbEZpOXhHVkFxdWRTUFlHdS1GNE9abTdRZmRCZ21GSC02YUpoem5VaFlTSzBQTGR3RGoxTm5XVHhzcDdtcklLc1pXNWRoQlNxMFhkNk9VV296NktHOTRFODVCdWdzSERvMHpzV19MSm8?oc=5",
+    "content": "The rise of K-pop: How South Korean groups took over the world CNN",
+    "published_at": "0624google-kpop",
+    "published_ts": 1782268800.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "K-pop崛起：韩国组合如何征服全球",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [],
+    "summary_zh": "[原文未提及具体行为，仅称：K-pop的崛起及其全球影响力]",
+    "extracted_at": "2026-06-24T10:56:48.464168+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -18,34 +39,10 @@
     "is_blurred": false,
     "facts_list": [
       "李先彬、朴智焕、裴贤圣确认出演新喜剧电影《监狱的味道》（暂译）",
-      "该片讲述一位明星厨师一夜之间跌落神坛，进入监狱厨房与囚犯们一起工作的欢乐烹饪救赎故事"
+      "电影讲述一位明星厨师一夜之间跌落神坛，进入监狱厨房与囚犯们一起工作的欢乐烹饪救赎故事"
     ],
     "summary_zh": "李先彬、朴智焕、裴贤圣确认出演喜剧电影《监狱的味道》（暂译）。该片讲述一位明星厨师一夜之间跌落神坛，进入监狱厨房与囚犯们一起工作的欢乐烹饪救赎故事。",
-    "extracted_at": "2026-06-24T10:44:29.892718+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "K-Pop Star Mark Lee Under Fire for Wearing Confederate Flag Shirt, Label Issues Apology - Complex",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc1JHX1RhVnRxa0hBM2xDd2gwVmEwUF9uc2V5bXlxUmo4SjFFM2NwaUVjVUEtNDlSMU9KbVZoaXBacnRrNTdna0phTEtvQk5lR1Y5b3BTY2xHd1pGdTQyckZ2VldJTmtBS2xpZ0t2SDNaOFlMRHNFOGx2Z2phZjVtMWhrekdTMHdRMWFuSWdQUVJqMFIwZEo4?oc=5",
-    "content": "K-Pop Star Mark Lee Under Fire for Wearing Confederate Flag Shirt, Label Issues Apology Complex",
-    "published_at": "0624google-kpop",
-    "published_ts": 1782263390.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "K-Pop明星Mark Lee穿邦联旗衬衫引争议，所属社道歉",
-    "source_type": "韩娱",
-    "risk_level": "高",
-    "is_blurred": false,
-    "facts_list": [
-      "Mark Lee穿着印有邦联旗图案的衬衫",
-      "所属社SM娱乐发布道歉声明"
-    ],
-    "summary_zh": "K-Pop明星Mark Lee因穿着印有邦联旗图案的衬衫引发争议，其所属社SM娱乐已发布道歉声明。邦联旗在美国被视为种族主义象征，事件引发广泛批评。",
-    "extracted_at": "2026-06-24T10:44:31.905904+08:00"
+    "extracted_at": "2026-06-24T10:56:50.782485+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -60,7 +57,7 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Anua 'KPop Demon Hunters' K-Beauty系列在亚马逊Prime Day享75折优惠",
+    "title_zh": "Anua 'KPop Demon Hunters' K-Beauty系列在亚马逊Prime Day享25%折扣",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
@@ -68,8 +65,32 @@
       "Anua品牌推出'KPop Demon Hunters' K-Beauty系列",
       "该系列在亚马逊Prime Day期间提供25%折扣"
     ],
-    "summary_zh": "Anua品牌的'KPop Demon Hunters' K-Beauty系列在亚马逊Prime Day期间享受25%折扣（即75折优惠）。该信息由K-Jewel 99.3 FM报道。",
-    "extracted_at": "2026-06-24T10:44:33.917285+08:00"
+    "summary_zh": "Anua品牌的'KPop Demon Hunters' K-Beauty系列在亚马逊Prime Day期间提供25%折扣。",
+    "extracted_at": "2026-06-24T10:56:52.709836+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-Pop Star Mark Lee Under Fire for Wearing Confederate Flag Shirt, Label Issues Apology - Complex",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc1JHX1RhVnRxa0hBM2xDd2gwVmEwUF9uc2V5bXlxUmo4SjFFM2NwaUVjVUEtNDlSMU9KbVZoaXBacnRrNTdna0phTEtvQk5lR1Y5b3BTY2xHd1pGdTQyckZ2VldJTmtBS2xpZ0t2SDNaOFlMRHNFOGx2Z2phZjVtMWhrekdTMHdRMWFuSWdQUVJqMFIwZEo4?oc=5",
+    "content": "K-Pop Star Mark Lee Under Fire for Wearing Confederate Flag Shirt, Label Issues Apology Complex",
+    "published_at": "0624google-kpop",
+    "published_ts": 1782263250.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "K-Pop明星Mark Lee因穿邦联旗衬衫引发争议，所属社道歉",
+    "source_type": "韩娱",
+    "risk_level": "高",
+    "is_blurred": false,
+    "facts_list": [
+      "Mark Lee被拍到穿着带有邦联旗图案的衬衫",
+      "所属社SM娱乐发布道歉声明，表示该服装选择不当，并承诺加强教育"
+    ],
+    "summary_zh": "K-Pop明星Mark Lee因穿着带有邦联旗图案的衬衫引发争议。邦联旗在美国被视为种族主义和白人至上的象征。其所属社SM娱乐随后发布道歉声明，承认该服装选择不当，并承诺将加强对艺人的历史教育，防止类似事件再次发生。",
+    "extracted_at": "2026-06-24T10:56:55.360761+08:00"
   },
   {
     "source_id": "soompi",
@@ -90,11 +111,11 @@
     "is_blurred": false,
     "facts_list": [
       "ENA剧集《Doctor on the Edge》在6月23日收视率回升，此前一集创下历史新低",
-      "根据尼尔森韩国数据，最新一集收视率上升",
-      "另一部剧集《明天见！》第二集收视率下降"
+      "尼尔森韩国数据显示最新一集收视率上升",
+      "另一剧集《明天见！》第二集收视率下降"
     ],
-    "summary_zh": "ENA剧集《Doctor on the Edge》在6月23日收视率回升，此前一集曾跌至历史新低。根据尼尔森韩国数据，最新一集收视率上升。与此同时，另一部剧集《明天见！》第二集收视率出现下滑。",
-    "extracted_at": "2026-06-24T10:44:36.045433+08:00"
+    "summary_zh": "ENA剧集《Doctor on the Edge》在6月23日收视率回升，此前一集曾跌至历史最低。据尼尔森韩国数据，最新一集收视率上升。同时，剧集《明天见！》第二集收视率出现下滑。",
+    "extracted_at": "2026-06-24T10:56:57.816920+08:00"
   },
   {
     "source_id": "soompi",
@@ -109,17 +130,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《单身即地狱2》公开预告片，参赛者亮相引期待",
-    "source_type": "韩娱",
+    "title_zh": "Netflix《恋爱缺席第二季》预告公开：参赛者亮相，徐仁国等主持回归",
+    "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "Netflix公开《Better Late Than Single 2》预告片",
-      "节目为改造型恋爱真人秀，帮助恋爱经验少的单身寻找初恋",
-      "第二季固定嘉宾包括徐仁国、姜汉娜、Car, the Garden、李恩智"
+      "Netflix公开《恋爱缺席第二季》新预告，介绍参赛者并暗示剧情冲突",
+      "徐仁国、姜汉娜、Car, the Garden、李恩智回归担任第二季主持人"
     ],
-    "summary_zh": "Netflix公开了《Better Late Than Single 2》的预告片，该节目是一档改造型恋爱真人秀，帮助恋爱经验少的单身寻找初恋。第二季固定嘉宾包括徐仁国、姜汉娜、Car, the Garden和李恩智，预告片展示了参赛者并暗示了即将到来的戏剧性情节。",
-    "extracted_at": "2026-06-24T10:44:38.720567+08:00"
+    "summary_zh": "Netflix公开了恋爱真人秀《恋爱缺席第二季》的新预告，展示了参赛者阵容并暗示了即将到来的戏剧性情节。该节目是一档改造型约会节目，帮助恋爱经验不足的单身者寻找初恋。徐仁国、姜汉娜、Car, the Garden和李恩智将作为主持人回归第二季。",
+    "extracted_at": "2026-06-24T10:57:00.886231+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -142,8 +162,8 @@
       "Anua的'KPop Demon Hunters' K-Beauty系列在亚马逊Prime Day期间提供25%折扣",
       "该信息由Billboard报道"
     ],
-    "summary_zh": "据Billboard报道，Anua的'KPop Demon Hunters' K-Beauty系列在亚马逊Prime Day期间享受25%折扣（即75折）。",
-    "extracted_at": "2026-06-24T10:44:40.659152+08:00"
+    "summary_zh": "据Billboard报道，Anua的'KPop Demon Hunters' K-Beauty系列在亚马逊Prime Day期间享受25%折扣。",
+    "extracted_at": "2026-06-24T10:57:02.937843+08:00"
   },
   {
     "source_id": "soompi",
@@ -158,17 +178,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "朴恩彬与梁世宗、吴成焕陷入三角恋，《鬼怪爱情》公开角色海报",
+    "title_zh": "朴恩彬与梁世宗、吴成焕陷入三角恋，《鬼怪爱情》角色海报公开",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "tvN公开新剧《鬼怪爱情》角色海报",
-      "该剧翻拍自2011年电影《开心鬼上身》，讲述能看见鬼的酒店继承人与害怕鬼的检察官之间的浪漫故事",
-      "朴恩彬饰演酒店继承人，与梁世宗、吴成焕饰演的角色形成三角关系"
+      "该剧翻拍自2011年电影《Spellbound》，讲述能看见鬼的酒店继承人与害怕鬼的检察官之间的浪漫故事",
+      "朴恩彬饰演酒店继承人，与梁世宗和吴成焕饰演的角色形成三角关系"
     ],
-    "summary_zh": "tvN公开新剧《鬼怪爱情》角色海报，该剧翻拍自2011年电影《开心鬼上身》，是一部关于能看见鬼的酒店继承人与害怕鬼的检察官之间浪漫故事的奇幻爱情剧。朴恩彬饰演酒店继承人，与梁世宗、吴成焕饰演的角色陷入三角恋。",
-    "extracted_at": "2026-06-24T10:44:43.494864+08:00"
+    "summary_zh": "tvN公开新剧《鬼怪爱情》角色海报，该剧翻拍自2011年电影《Spellbound》，是一部关于能看见鬼的酒店继承人与害怕鬼的检察官之间混乱合作的灵异浪漫剧。新海报象征性地描绘了朴恩彬、梁世宗和吴成焕之间的三角关系。",
+    "extracted_at": "2026-06-24T10:57:06.197563+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -183,16 +203,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《KPop Demon Hunters》电影一周年后玩具系列持续推出",
+    "title_zh": "《KPop恶魔猎人》电影一周年后玩具系列持续推出",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "电影《KPop Demon Hunters》庆祝上映一周年",
+      "电影《KPop恶魔猎人》庆祝上映一周年",
       "相关玩具系列持续推出"
     ],
-    "summary_zh": "据福布斯报道，电影《KPop Demon Hunters》在庆祝上映一周年后，其相关玩具系列仍在持续推出。",
-    "extracted_at": "2026-06-24T10:44:45.040966+08:00"
+    "summary_zh": "据福布斯报道，电影《KPop恶魔猎人》在上映一周年后，其相关玩具系列仍在持续推出。",
+    "extracted_at": "2026-06-24T10:57:08.340362+08:00"
   },
   {
     "source_id": "soompi",
@@ -207,17 +227,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "徐仁国朴智贤《明天见》特别海报公开，展现梦幻浪漫",
+    "title_zh": "徐仁国朴智贤新剧《明天见》公开特别海报，展现梦幻氛围",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "tvN公开了《明天见》特别海报",
+      "tvN公开新剧《明天见》特别海报",
       "该剧改编自同名热门网漫，由朴智贤饰演陷入职业瓶颈的职场人车智允",
-      "徐仁国饰演朴智贤的挑剔上司，海报中展现梦幻氛围"
+      "徐仁国饰演朴智贤的挑剔上司，海报展现两人梦幻关系"
     ],
-    "summary_zh": "tvN公开了改编自同名网漫的新剧《明天见》特别海报。该剧由朴智贤饰演陷入职业瓶颈的职场人车智允，徐仁国饰演其挑剔上司，海报中两人展现梦幻浪漫氛围。",
-    "extracted_at": "2026-06-24T10:44:47.669067+08:00"
+    "summary_zh": "tvN公开了新剧《明天见》的特别海报。该剧改编自同名热门网漫，是一部浪漫爱情剧，由朴智贤饰演陷入职业瓶颈的职场人车智允，徐仁国饰演她挑剔的上司。海报展现了两人之间的梦幻氛围。",
+    "extracted_at": "2026-06-24T10:57:11.088289+08:00"
   },
   {
     "source_id": "soompi",
@@ -237,12 +257,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "韩国企业声誉研究所于6月24日公布6月个人偶像品牌声誉排名",
+      "韩国企业评价研究所于6月24日公布6月个人偶像品牌声誉排名",
       "排名基于5月24日至6月24日收集的1735名偶像的大数据，分析消费者参与度、媒体报道、互动和社区意识指数",
       "BTS成员智旻蝉联榜首"
     ],
-    "summary_zh": "韩国企业声誉研究所公布了6月个人偶像品牌声誉排名，基于5月24日至6月24日收集的1735名偶像的大数据，分析消费者参与度、媒体报道、互动和社区意识指数。BTS成员智旻继续位居榜首。",
-    "extracted_at": "2026-06-24T10:44:50.089939+08:00"
+    "summary_zh": "韩国企业评价研究所公布了6月个人偶像品牌声誉排名，该排名基于5月24日至6月24日收集的1735名偶像的大数据，分析消费者参与度、媒体报道、互动和社区意识指数。BTS成员智旻继续位居榜首。",
+    "extracted_at": "2026-06-24T10:57:13.503344+08:00"
   },
   {
     "source_id": "soompi",
@@ -257,16 +277,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "BTS新曲《Come Over》空降Billboard Hot 100并打破多项纪录",
+    "title_zh": "BTS新曲《Come Over》空降Billboard Hot 100，创多项纪录",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "6月23日，Billboard宣布BTS新曲《Come Over》在Digital Song Sales chart空降第1名，成为美国当周最畅销歌曲",
-      "《Come Over》在Hot 100榜单上取得具体排名（原文未明确数字，但提及打破多项纪录）"
+      "该曲同时进入Hot 100榜单，具体排名未在原文中提及"
     ],
-    "summary_zh": "6月23日，Billboard宣布BTS新曲《Come Over》在Digital Song Sales chart空降第1名，成为美国当周最畅销歌曲。该曲同时进入Hot 100榜单并打破多项纪录。",
-    "extracted_at": "2026-06-24T10:44:52.585748+08:00"
+    "summary_zh": "6月23日，Billboard宣布BTS新曲《Come Over》在Digital Song Sales chart空降第1名，成为美国当周最畅销歌曲，并同时进入Hot 100榜单，创下多项纪录。",
+    "extracted_at": "2026-06-24T10:57:15.864692+08:00"
   },
   {
     "source_id": "soompi",
@@ -281,16 +301,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "ONF新专辑《ONF:MY SELF》首周销量创自身最高纪录",
+    "title_zh": "ONF新专辑《ONF:MY SELF》首周销量创自身新高",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "ONF于上周携第二张正规专辑《ONF:MY SELF》及主打曲《Open The Door》回归",
+      "ONF于上周携第二张正规专辑《ONF:MY SELF》回归，主打曲为《Open The Door》",
       "Hanteo Chart数据显示，该专辑首周销量创下ONF自身最高纪录"
     ],
     "summary_zh": "ONF上周携第二张正规专辑《ONF:MY SELF》回归，主打曲为《Open The Door》。据Hanteo Chart报道，该专辑首周销量创下ONF自身最高纪录。",
-    "extracted_at": "2026-06-24T10:44:54.701060+08:00"
+    "extracted_at": "2026-06-24T10:57:18.118177+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -314,7 +334,7 @@
       "演出主题包括美国250周年纪念和K-Pop粉丝"
     ],
     "summary_zh": "RVCC天文馆宣布将于7月举办两场主题演出，一场为纪念美国250周年，另一场面向K-Pop粉丝。具体演出细节尚未公布。",
-    "extracted_at": "2026-06-24T10:44:56.811483+08:00"
+    "extracted_at": "2026-06-24T10:57:20.222542+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -337,8 +357,8 @@
       "《KPop Demon Hunters》与Hot Wheels合作推出限定套装",
       "该套装为2025年圣地亚哥国际动漫展（SDCC）独家产品"
     ],
-    "summary_zh": "《KPop Demon Hunters》与Hot Wheels合作推出限定套装，该套装为2025年圣地亚哥国际动漫展（SDCC）独家产品。",
-    "extracted_at": "2026-06-24T10:44:58.834889+08:00"
+    "summary_zh": "《KPop Demon Hunters》与Hot Wheels合作推出限定套装，该套装将在2025年圣地亚哥国际动漫展（SDCC）上独家发售。",
+    "extracted_at": "2026-06-24T10:57:22.308576+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -361,8 +381,8 @@
       "Gol Mok餐厅在西雅图开业，提供深夜韩式街头美食",
       "餐厅融合K-pop音乐和氛围"
     ],
-    "summary_zh": "西雅图新开一家名为Gol Mok的深夜韩式街头美食餐厅，主打K-pop音乐氛围和地道韩国街头小吃，为当地夜生活增添韩流元素。",
-    "extracted_at": "2026-06-24T10:45:01.012264+08:00"
+    "summary_zh": "西雅图新开一家名为Gol Mok的深夜韩式街头美食餐厅，主打韩式街头小吃，并融入K-pop音乐和活力氛围，为当地食客提供独特的用餐体验。",
+    "extracted_at": "2026-06-24T10:57:24.402330+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -377,16 +397,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "西雅图深夜韩式街头美食：Gol Mok融合K-Pop活力与韩国小吃",
+    "title_zh": "西雅图深夜韩式街头美食店Gol Mok开业，融合K-Pop能量",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "Gol Mok餐厅在西雅图开业，提供深夜韩式街头美食",
-      "餐厅融合K-Pop音乐和氛围，营造韩国街头小吃体验"
+      "Gol Mok是一家位于西雅图的深夜韩式街头美食店",
+      "该店融合K-Pop能量与街头美食",
+      "由Seattle Refined报道"
     ],
-    "summary_zh": "西雅图新开业的Gol Mok餐厅主打深夜韩式街头美食，将K-Pop音乐与韩国街头小吃文化相结合，为当地食客提供独特的用餐体验。",
-    "extracted_at": "2026-06-24T10:45:03.313092+08:00"
+    "summary_zh": "西雅图新开一家名为Gol Mok的深夜韩式街头美食店，将K-Pop能量与韩国街头美食相结合，为当地食客提供独特的用餐体验。",
+    "extracted_at": "2026-06-24T10:57:26.789720+08:00"
   },
   {
     "source_id": "soompi",
@@ -406,11 +427,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "6月23日（当地时间），Billboard公布《ICONIC BY MISTAKE》在Digital Song Sales榜单空降第12位，成为美国当周第12畅销歌曲",
-      "该单曲由LE SSERAFIM、ILLIT、KATSEYE合作发行"
+      "6月23日（当地时间），Billboard公布LE SSERAFIM、ILLIT、KATSEYE合作单曲《ICONIC BY MISTAKE》在Digital Song Sales榜单排名第12位",
+      "该曲同时进入Billboard Hot 100前40名"
     ],
-    "summary_zh": "LE SSERAFIM、ILLIT和KATSEYE的合作单曲《ICONIC BY MISTAKE》于6月23日（当地时间）进入Billboard榜单，在Digital Song Sales榜单空降第12位，成为美国当周第12畅销歌曲。",
-    "extracted_at": "2026-06-24T10:45:05.773781+08:00"
+    "summary_zh": "LE SSERAFIM、ILLIT和KATSEYE的合作单曲《ICONIC BY MISTAKE》于6月23日进入Billboard榜单，在Digital Song Sales榜单排名第12位，成为美国当周第12畅销歌曲，并进入Hot 100前40名。",
+    "extracted_at": "2026-06-24T10:57:29.240428+08:00"
   },
   {
     "source_id": "soompi",
@@ -430,11 +451,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "6月22日，SM娱乐新人女团Hearts2Hearts携迷你专辑《Lemon Tang》及同名主打歌回归",
-      "截至6月23日，根据Hanteo Chart数据，专辑《Lemon Tang》已打破该组合首周销量纪录"
+      "SM娱乐新人女团Hearts2Hearts于6月22日携迷你专辑《Lemon Tang》回归",
+      "截至6月23日，专辑《Lemon Tang》在Hanteo Chart上的首周销量已打破自身纪录"
     ],
-    "summary_zh": "SM娱乐新人女团Hearts2Hearts于6月22日携迷你专辑《Lemon Tang》回归。根据Hanteo Chart数据，截至6月23日，该专辑仅用2天时间便打破了组合自身的首周销量纪录。",
-    "extracted_at": "2026-06-24T10:45:07.960882+08:00"
+    "summary_zh": "SM娱乐新人女团Hearts2Hearts于6月22日携迷你专辑《Lemon Tang》回归，截至6月23日，仅用2天时间便在Hanteo Chart上打破了自身首周销量纪录。",
+    "extracted_at": "2026-06-24T10:57:31.771424+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -457,8 +478,8 @@
       "BIGBANG将在美国举办两场演出",
       "门票可通过折扣方式购买"
     ],
-    "summary_zh": "据纽约邮报报道，K-Pop组合BIGBANG将在美国举办两场演出，并提供折扣门票。",
-    "extracted_at": "2026-06-24T10:45:09.801292+08:00"
+    "summary_zh": "据《纽约邮报》报道，K-Pop组合BIGBANG将在美国举办两场演出，并提供折扣门票。具体演出日期和地点未在原文中提及。",
+    "extracted_at": "2026-06-24T10:57:33.849123+08:00"
   },
   {
     "source_id": "soompi",
@@ -478,11 +499,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "6月23日，RIIZE发布了迷你专辑《II》主打曲《Do your dance》的官方舞蹈练习视频",
+      "6月23日，RIIZE公开了迷你专辑《II》主打曲《Do your dance》的官方舞蹈练习视频",
       "视频展示了成员们精湛的舞蹈动作和完整编舞"
     ],
-    "summary_zh": "6月23日，RIIZE公开了新迷你专辑《II》主打曲《Do your dance》的舞蹈练习视频，视频完整呈现了高强度编舞和成员们的熟练舞技。",
-    "extracted_at": "2026-06-24T10:45:11.959300+08:00"
+    "summary_zh": "6月23日，RIIZE公开了迷你专辑《II》主打曲《Do your dance》的官方舞蹈练习视频，视频展示了成员们精湛的舞蹈动作和完整编舞。",
+    "extracted_at": "2026-06-24T10:57:36.362790+08:00"
   },
   {
     "source_id": "soompi",
@@ -505,8 +526,8 @@
       "当地时间6月23日，Billboard宣布BOYNEXTDOOR新专辑《HOME》在Billboard 200专辑榜空降第16位",
       "这是BOYNEXTDOOR首次进入该榜单前20名，也是其在美国销量最高的一周"
     ],
-    "summary_zh": "BOYNEXTDOOR的新专辑《HOME》于6月23日空降Billboard 200专辑榜第16位，首次进入前20名，并创下该组合在美国的最佳销量周纪录。",
-    "extracted_at": "2026-06-24T10:45:14.366732+08:00"
+    "summary_zh": "BOYNEXTDOOR的新专辑《HOME》于6月23日空降Billboard 200专辑榜第16位，首次进入前20名，并创下该组合在美国的最佳销量周。",
+    "extracted_at": "2026-06-24T10:57:38.783992+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -526,12 +547,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "地点：美国阿拉巴马州多森市",
-      "事件：将举办Do Portugal Circus演出",
-      "特色：演出融合K-pop元素"
+      "美国阿拉巴马州多森市将举办Do Portugal Circus演出",
+      "该演出融合K-pop元素"
     ],
-    "summary_zh": "美国阿拉巴马州多森市将举办一场名为Do Portugal Circus的演出，该演出融合了K-pop元素。具体演出日期和细节尚未公布。",
-    "extracted_at": "2026-06-24T10:45:16.586004+08:00"
+    "summary_zh": "美国阿拉巴马州多森市将举办一场名为Do Portugal Circus的演出，该演出融合了K-pop元素。具体演出时间、参与艺人等细节尚未公布。",
+    "extracted_at": "2026-06-24T10:57:40.871562+08:00"
   },
   {
     "source_id": "soompi",
@@ -551,10 +571,10 @@
     "risk_level": "中",
     "is_blurred": false,
     "facts_list": [
-      "6月23日，DIA成员奇熙贤与李尚允通过Instagram共同发布一段在大阪的旅行视频，公开恋情。",
+      "6月23日，DIA成员奇熙贤与李尚允通过Instagram共同发布在大阪的旅行视频，公开恋情。",
       "奇熙贤在配文中写道：“通过CCTV记录我们首次大阪之旅的回忆。”"
     ],
-    "summary_zh": "6月23日，DIA成员奇熙贤与李尚允通过Instagram共同发布一段在大阪的旅行视频，公开恋情。奇熙贤在配文中写道：“通过CCTV记录我们首次大阪之旅的回忆。”两人曾共同出演节目《Heart Pairing》。",
-    "extracted_at": "2026-06-24T10:45:19.024237+08:00"
+    "summary_zh": "6月23日，DIA成员奇熙贤与李尚允通过Instagram共同发布在大阪的旅行视频，公开恋情。奇熙贤在配文中写道：“通过CCTV记录我们首次大阪之旅的回忆。”两人曾共同出演节目《Heart Pairing》。",
+    "extracted_at": "2026-06-24T10:57:43.505266+08:00"
   }
 ]
