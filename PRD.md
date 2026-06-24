@@ -11,7 +11,7 @@
 
 ```
 Layer 1: GitHub Actions（云端，永远在线）
-  每 2 小时 cron → crawler → DeepSeek 提炼 → 飞书推送 → HTML 渲染 → gh-pages 部署
+  每 4 小时 cron → crawler → DeepSeek 提炼 → 飞书推送 → HTML 渲染 → gh-pages 部署
 
 Layer 2: 本地 Mac（按需运行，深度加工）
   puller → Obsidian 存储 → draft_generator → 人工审核 → 发布
