@@ -303,8 +303,8 @@ class SSGRenderer:
     def _scan_dates(self) -> list[str]:
         dates = []
         for f in sorted(self.state_dir.glob("*_articles.json"), reverse=True):
-            name = f.stem.replace("_articles", "")
-            if len(name) == 8 and name.isdigit():
+            name = f.stem.replace("_articles", "")  # "2026-0623"
+            if len(name) == 9 and name.replace("-", "").isdigit():
                 dates.append(name)
         return dates
 
