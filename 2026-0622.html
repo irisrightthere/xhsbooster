@@ -174,6 +174,7 @@ footer a { color: var(--accent); text-decoration: none; }
 <div class="tab-bar">
   <button class="tab-btn active" data-sid="soompi">[Soompi]<span class="tab-count">25</span></button>
   <button class="tab-btn" data-sid="google-kpop">[Google News]<span class="tab-count">10</span></button>
+  <button class="tab-btn" data-sid="asianwiki">[AsianWiki]<span class="tab-count">0</span></button>
 </div>
 <div class="content">
 <div class="tab-panel active" data-sid="soompi">
@@ -775,6 +776,11 @@ footer a { color: var(--accent); text-decoration: none; }
   </div>
 </div>
 </div>
+<div class="tab-panel" data-sid="asianwiki">
+<div class="filter-row"><span class="filter-label">地区:</span><button class="filter-chip active" data-aw-region="all">全部</button><button class="filter-chip" data-aw-region="韩国">韩国</button><button class="filter-chip" data-aw-region="日本">日本</button></div>
+<div class="filter-row"><span class="filter-label">平台:</span><button class="filter-chip active" data-aw-platform="all">全部</button></div>
+<div class="filter-row"><span class="filter-label">月份:</span><button class="filter-chip active" data-aw-month="all">全部</button><button class="filter-chip" data-aw-month="tbd">📌 待定</button></div>
+<div id="aw-content"></div><script>window._awDramas = [];</script></div>
 </div>
 
 <footer>xhsbooster · 韩娱资讯自动化 · DeepSeek 驱动 · <a href="archive.html">往期回顾</a></footer>
