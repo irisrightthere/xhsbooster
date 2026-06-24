@@ -106,7 +106,8 @@ def run_pipeline(dry_run: bool = False) -> int:
     storage_skipped = 0
     for art in enriched:
         pub_at = art.get("published_at", "")
-        if pub_at[:4] == today_mmdd:
+        # AsianWiki 是排期目录，不按日期过滤
+        if art.get("source_id") == "asianwiki" or pub_at[:4] == today_mmdd:
             validated.append(art)
         else:
             storage_skipped += 1

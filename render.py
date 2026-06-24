@@ -295,7 +295,8 @@ class SSGRenderer:
             return []
         # 用该日期文件的 MMDD 过滤，而非今天的日期
         file_mmdd = date_str[5:7] + date_str[7:9]  # "0624"
-        filtered = [a for a in articles if a.get("published_at", "")[:4] == file_mmdd]
+        # AsianWiki 是排期目录，不按日期过滤
+        filtered = [a for a in articles if a.get("source_id") == "asianwiki" or a.get("published_at", "")[:4] == file_mmdd]
         skipped = len(articles) - len(filtered)
         if skipped:
             logger.info(f"渲染层拦截 {skipped} 篇非当日文章")
