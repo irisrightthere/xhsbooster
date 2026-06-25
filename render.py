@@ -434,6 +434,57 @@ class SSGRenderer:
 
     # ── AsianWiki 专属渲染 ──────────────────────────
 
+    def _load_prod_aw_as_dramas(self, prod_path) -> list[dict]:
+        """从 prod_aw.json 加载合并数据，转为 drama 卡片格式。"""
+        import json as _json
+        import re as _re
+        from datetime import datetime, timezone, timedelta
+        cst = timezone(timedelta(hours=8))
+
+        try:
+            entries = _json.loads(Path(prod_path).read_text("utf-8"))
+        except Exception:
+            return []
+
+        dramas = []
+        for e in entries:
+            date_raw = e.get("date", "")
+            title = e.get("title", "")
+            url = e.get("url", "")
+            platform = e.get("platform", "TBA")
+
+            # 解析日期 → published_ts + air_date
+            pub_ts = 0
+            air_date = "2026年待定"
+
+            # 匹配 "X月Y日" 或 "X月Y日–Z日"
+            m = _re.search(r'(\d{1,2})月(\d{1,2})日', str(date_raw))
+            if m:
+                month, day = int(m.group(1)), int(m.group(2))
+                try:
+                    dt = datetime(2026, month, day, 12, 0, 0, tzinfo=cst)
+                    pub_ts = dt.timestamp()
+                    air_date = f"{month}月{day}日"
+                except ValueError:
+                    pub_ts = 0
+                    air_date = "2026年待定"
+            elif "待定" in str(date_raw) or "暂无" in str(date_raw):
+                pub_ts = 0
+                air_date = "2026年待定"
+
+            dramas.append({
+                "title": title,
+                "url": url,
+                "title_zh": "",
+                "cast": "",
+                "summary_zh": "",
+                "platform": platform,
+                "air_date": air_date,
+                "published_ts": pub_ts,
+            })
+
+        return dramas
+
     def _render_asianwiki_panel(self, articles: list[dict]) -> str:
         """渲染 AsianWiki 面板：三层筛选 + 按月分组 + 戏剧卡片。"""
         import json as _json
@@ -457,6 +508,15 @@ class SSGRenderer:
                 "air_date": extra.get("air_date", "") if has_valid_content else "2026年待定",
                 "published_ts": art.get("published_ts", 0) if has_valid_content else 0,
             })
+
+        # ── 兜底：articles 无有效 AW 数据 → 读取 prod_aw.json ──
+        valid_dramas = [d for d in dramas if d.get("air_date") != "2026年待定" or d.get("platform") not in ("TBA", "")]
+        if not valid_dramas:
+            prod_path = self.output_dir / "_state" / "prod_aw.json"
+            if prod_path.exists():
+                dramas = self._load_prod_aw_as_dramas(prod_path)
+                if dramas:
+                    logger.info(f"🛡️ AW 面板兜底: 从 prod_aw.json 加载 {len(dramas)} 部")
 
         # 平台列表
         platforms = sorted(set(d.get("platform", "TBA") for d in dramas if d.get("platform")))
