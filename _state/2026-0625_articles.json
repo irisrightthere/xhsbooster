@@ -1,5 +1,52 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "KPop Demon Hunters Dolls In The Daily LITG, 25th June 2026 - Bleeding Cool News",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSjZ1bVNmendtZjhZa1J6ZFVZQ0NiZHAwQl9yS3o5QWQ1VHQ1ZUR6TDZoUWJwRkw3aDVEaTZaY1pLN2YyYlhVOWgwTU5saEN4cWNPQlQtOU9hYm5WSkpxLTJMYXJ1Ny1EVl90aGNFWXM1U3EyU0FlT2pOUy1wT3FYcU9WVXdKX3UyNjQ4QTF1UmRvQUlRT3c2R2ZZVzA?oc=5",
+    "content": "KPop Demon Hunters Dolls In The Daily LITG, 25th June 2026 Bleeding Cool News",
+    "published_at": "0625google-kpop",
+    "published_ts": 1782383829.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "KPop Demon Hunters玩偶亮相《每日LITG》2026年6月25日",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "2026年6月25日，Bleeding Cool News报道KPop Demon Hunters玩偶出现在《每日LITG》中"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：KPop Demon Hunters玩偶在2026年6月25日的《每日LITG》中被提及]",
+    "extracted_at": "2026-06-25T18:39:26.955689+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Heo Nam Jun And Lim Ji Yeon Show Playful Chemistry While Filming Romantic Scenes On Set Of “My Royal Nemesis”",
+    "url": "https://www.soompi.com/article/1850408wpp/watch-heo-nam-jun-and-lim-ji-yeon-show-playful-chemistry-while-filming-romantic-scenes-on-set-of-my-royal-nemesis",
+    "content": "&#8220;My Royal Nemesis&#8221; has come to a successful wrap! Spoilers Following its conclusion, &#8220;My Royal Nemesis&#8221; released a making-of video, taking viewers behind the scenes of episodes 13 and 14. The making-of video is filled with sweet moments between Lim Ji Yeon&#8217;s and Heo Nam Jun&#8217;s characters Shin Seo Ri and Cha Se Gye. From&#8230; Continue reading Watch: Heo Nam Jun And Lim Ji Yeon Show Playful Chemistry While Filming Romantic Scenes On Set Of &#8220;My Royal Nemesis&#8221;\nThe post Watch: Heo Nam Jun And Lim Ji Yeon Show Playful Chemistry While Filming Romantic Scenes On Set Of &#8220;My Royal Nemesis&#8221; appeared first on Soompi.",
+    "published_at": "0625soompi",
+    "published_ts": 1782379350.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《我的宿敌》花絮：许南俊与林智妍片场浪漫互动",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "《我的宿敌》已顺利杀青，并发布第13、14集拍摄花絮视频",
+      "花絮中展示了许南俊（饰车世杰）与林智妍（饰申瑞丽）在拍摄浪漫场景时的甜蜜互动"
+    ],
+    "summary_zh": "韩剧《我的宿敌》发布杀青花絮，聚焦第13、14集拍摄幕后。视频中许南俊与林智妍在浪漫场景中展现出俏皮化学反应，充满甜蜜互动。",
+    "extracted_at": "2026-06-25T18:39:29.827182+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -12,16 +59,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "韩石圭、郑裕美新剧《死者的告白》公开新预告，将在富川国际奇幻电影节首映",
+    "title_zh": "韩石圭、郑裕美新剧《死者的告白》发布新预告，将在富川国际奇幻电影节首映",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "韩石圭、郑裕美主演的新剧《死者的告白》确认在第30届富川国际奇幻电影节（BIFAN）首次放映",
-      "该剧讲述围绕十多年前被埋没的案件真相，以张在旭（韩石圭饰）的告白为开端展开追查"
+      "韩石圭和郑裕美主演的新剧《死者的告白》确认在第30届富川国际奇幻电影节（BIFAN）进行首次放映。",
+      "该剧讲述以张在旭（韩石圭饰）的告白为开端，追查十多年前被埋没的案件真相的故事。",
+      "该剧在电影节放映前发布了新的预告片。"
     ],
-    "summary_zh": "韩石圭与郑裕美主演的新剧《死者的告白》确认将在第30届富川国际奇幻电影节（BIFAN）进行首次放映，并发布了新预告片。该剧讲述以张在旭（韩石圭饰）的告白为开端，追查十多年前被埋没案件真相的故事。",
-    "extracted_at": "2026-06-25T17:21:48.330652+08:00"
+    "summary_zh": "韩石圭和郑裕美主演的新剧《死者的告白》确认将在第30届富川国际奇幻电影节（BIFAN）进行首次放映。该剧讲述以张在旭（韩石圭饰）的告白为开端，追查十多年前被埋没的案件真相的故事。在电影节放映前，该剧发布了新的预告片。",
+    "extracted_at": "2026-06-25T18:39:33.013747+08:00"
   },
   {
     "source_id": "soompi",
@@ -46,8 +94,32 @@
       "朴秉恩饰演对手，与池晟展开激烈对决",
       "剧情中朴海康联合居民揭露腐败和不法行为"
     ],
-    "summary_zh": "韩剧《The Apartment Job》公开新预告，池晟饰演的前Oasis帮老大朴海康为获取公寓隐藏资金，竞选居民会长，与朴秉恩饰演的对手展开激烈对决。剧情中朴海康联合居民揭露腐败和不法行为。",
-    "extracted_at": "2026-06-25T17:21:51.263125+08:00"
+    "summary_zh": "韩剧《The Apartment Job》公开新预告，池晟饰演的前Oasis帮老大朴海康为获取公寓隐藏资金而竞选居民会长，与朴秉恩饰演的对手展开激烈对决。剧情中朴海康联合居民揭露腐败和不法行为。",
+    "extracted_at": "2026-06-25T18:39:36.149615+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Cortis joins F1 Singapore opening lineup as sole K-pop group - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FZWNqbnNWaVlaTmtUUDhkOVVBemh2dW1SSkY2MkQtZWF4ZU4yZzIzZkFCWHhTYnNfRTBWS01uMi01NW1xVnlOYXVxaENsSXJxZ2QwU2JUMA?oc=5",
+    "content": "Cortis joins F1 Singapore opening lineup as sole K-pop group The Korea Herald",
+    "published_at": "0625google-kpop",
+    "published_ts": 1782375915.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Cortis成为F1新加坡站开幕阵容中唯一K-pop组合",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Cortis加入F1新加坡大奖赛开幕演出阵容",
+      "Cortis是本次开幕阵容中唯一的K-pop组合"
+    ],
+    "summary_zh": "据《韩国先驱报》报道，K-pop组合Cortis将加入F1新加坡大奖赛的开幕演出阵容，并且是本次开幕阵容中唯一的K-pop组合。",
+    "extracted_at": "2026-06-25T18:39:38.020227+08:00"
   },
   {
     "source_id": "soompi",
@@ -62,17 +134,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "宋江与李濬荣携手主演新剧《四手联弹》",
+    "title_zh": "宋江与李濬荣携手主演新剧《四手联弹》公开概念照",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "新剧《四手联弹》公开更多概念照",
-      "剧名“四手”为钢琴术语，指两人共弹一架钢琴",
-      "剧情讲述艺术高中学生们的友情、爱情、竞争与成长"
+      "该剧讲述艺术高中学生们的友情、爱情、竞争与成长",
+      "宋江与李濬荣共同出演"
     ],
-    "summary_zh": "即将播出的韩剧《四手联弹》公开了更多概念照。剧名“四手”为钢琴术语，指两人共弹一架钢琴。该剧将描绘在艺术高中相遇的年轻人之间的友情、爱情、竞争与成长。宋江与李濬荣确认出演。",
-    "extracted_at": "2026-06-25T17:21:54.171201+08:00"
+    "summary_zh": "即将播出的韩剧《四手联弹》公开了更多概念照。该剧剧名源自钢琴术语“四手联弹”，意指两人共同弹奏一架钢琴。剧情将描绘艺术高中学生们的友情、爱情、竞争与成长。演员宋江与李濬荣确认出演该剧。",
+    "extracted_at": "2026-06-25T18:39:40.967324+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -95,8 +167,8 @@
       "徐仁国与朴智贤领衔主演浪漫喜剧韩剧《明天见！》",
       "该剧由《南华早报》报道"
     ],
-    "summary_zh": "据《南华早报》报道，徐仁国与朴智贤将主演一部轻松浪漫喜剧韩剧《明天见！》。该剧为浪漫喜剧类型，具体播出平台及日期尚未公布。",
-    "extracted_at": "2026-06-25T17:21:56.547999+08:00"
+    "summary_zh": "据《南华早报》报道，徐仁国与朴智贤将主演一部轻松浪漫喜剧韩剧《明天见！》。该剧为浪漫喜剧类型，由两位演员领衔主演。",
+    "extracted_at": "2026-06-25T18:39:43.525885+08:00"
   },
   {
     "source_id": "soompi",
@@ -116,12 +188,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "6月25日，时尚杂志《Harper's Bazaar Korea》7月号发布了孔升妍与TWICE成员定延的姐妹合体画报",
+      "6月25日，时尚杂志《Harper's Bazaar Korea》7月号公开了孔升妍与妹妹TWICE成员定延的联合画报",
       "这是两人自各自出道以来首次共同拍摄画报",
       "画报主题为感性捕捉姐妹之间的纽带"
     ],
-    "summary_zh": "演员孔升妍与妹妹TWICE成员定延首次合体拍摄画报，该画报于6月25日通过《Harper's Bazaar Korea》7月号公开，主题聚焦于感性展现姐妹之间的亲密纽带。",
-    "extracted_at": "2026-06-25T17:21:59.462203+08:00"
+    "summary_zh": "演员孔升妍与妹妹TWICE成员定延首次合作拍摄画报，该画报于6月25日通过《Harper's Bazaar Korea》7月号公开，主题聚焦于感性展现姐妹之间的深厚情感纽带。",
+    "extracted_at": "2026-06-25T18:39:46.606611+08:00"
   },
   {
     "source_id": "soompi",
@@ -136,17 +208,18 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "申河均、吴正世、许成泰、李学周联手对抗共同敌人，《五十岁专业人士》新剧照公开",
+    "title_zh": "申河均、吴正世、许成泰、李学周联手对抗共同敌人，《五十岁专业人士》新剧照",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "MBC剧集《五十岁专业人士》公开新一集预告，申河均、吴正世、许成泰、李学周四位演员将联手对抗共同敌人。",
-      "该剧是一部动作喜剧，讲述三位看似普通但实则危险的中年男子被命运召唤重新行动的故事。",
-      "三位主角曾各自领域顶尖，后被流放到偏远岛屿永善岛。"
+      "MBC剧集《五十岁专业人士》发布新一集预告",
+      "该剧是一部动作喜剧，讲述三位看似普通但实则危险的中年男子被命运召唤重新行动的故事",
+      "三位主角曾各自领域登顶，后被流放到偏远岛屿永善岛",
+      "申河均、吴正世、许成泰、李学周将联手对抗共同敌人"
     ],
-    "summary_zh": "MBC剧集《五十岁专业人士》公开新一集预告，申河均、吴正世、许成泰、李学周四位演员将联手对抗共同敌人。该剧是一部动作喜剧，讲述三位看似普通但实则危险的中年男子被命运召唤重新行动的故事，他们曾各自领域顶尖，后被流放到偏远岛屿永善岛。",
-    "extracted_at": "2026-06-25T17:22:02.541693+08:00"
+    "summary_zh": "MBC剧集《五十岁专业人士》公开新一集预告，申河均、吴正世、许成泰、李学周将联手对抗共同敌人。该剧是一部动作喜剧，讲述三位看似普通但实则危险的中年男子被命运召唤重新行动的故事，他们曾各自领域登顶，后被流放到偏远岛屿永善岛。",
+    "extracted_at": "2026-06-25T18:39:49.772866+08:00"
   },
   {
     "source_id": "soompi",
@@ -161,18 +234,18 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "边佑汉、李絮、金俊翰、金钟洙主演新片《丑闻》杀青",
+    "title_zh": "卞约汉、李絮、金俊翰、金钟洙主演新片《丑闻》杀青",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "电影《Scandal》（暂定名）已结束拍摄",
+      "电影《丑闻》（暂定名）已结束拍摄",
       "影片围绕世代经营危险非法生意的Yedong Kwon家族展开",
-      "家族二房长孙去世后，成员为争夺继承人位置陷入混乱",
-      "主演包括边佑汉、李絮、金俊翰、金钟洙"
+      "家族二房长孙死后，家族成员为争夺继承人位置陷入混乱",
+      "主演包括卞约汉、李絮、金俊翰、金钟洙"
     ],
-    "summary_zh": "边佑汉、李絮、金俊翰、金钟洙主演的新片《Scandal》（暂定名）已杀青。该片讲述世代经营危险非法生意的Yedong Kwon家族，在二房长孙去世后，家族成员为争夺继承人位置而陷入混乱的故事。",
-    "extracted_at": "2026-06-25T17:22:05.475735+08:00"
+    "summary_zh": "卞约汉、李絮、金俊翰、金钟洙主演的新片《丑闻》（暂定名）已杀青。该片讲述世代经营危险非法生意的Yedong Kwon家族，在二房长孙死后，家族成员为争夺继承人位置而陷入混乱的故事。",
+    "extracted_at": "2026-06-25T18:39:52.868154+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -187,40 +260,15 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "韩国艺术院邀请《KPop Demon Hunters》团队成为会员",
+    "title_zh": "韩国艺术院邀请《KPop恶魔猎人》团队加入",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "韩国艺术院（Academy）邀请《KPop Demon Hunters》团队成为其会员",
-      "该消息由《韩国先驱报》（The Korea Herald）报道"
+      "韩国艺术院（Academy）向《KPop恶魔猎人》团队发出成员邀请"
     ],
-    "summary_zh": "据《韩国先驱报》报道，韩国艺术院（Academy）已邀请《KPop Demon Hunters》团队成为其会员。具体邀请细节及团队背景尚未披露。",
-    "extracted_at": "2026-06-25T17:22:07.695942+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Notes from the Last Row : What to Know About the K-Drama - Netflix",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYS0xd0NyUTlCZWlYcWpsbElEdGNoM0pad2Y0OF8tLTVhZDRRQmkzWmRYaG54clZxbWNEcmViS2dPT0cyY0cxbVVvOVVTVjNYSHAxa1VSRHBaR2tfQ3dHTGR6R25JTXAzc1VhMTY0M3gzU2xUTmlSaUJOM0dwVm5DZjBzTHN5Y2s?oc=5",
-    "content": "Notes from the Last Row : What to Know About the K-Drama Netflix",
-    "published_at": "0625google-kpop",
-    "published_ts": 1782371308.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Netflix韩剧《最后一排的笔记》看点解析",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "Netflix推出新韩剧《Notes from the Last Row》（暂译《最后一排的笔记》）",
-      "该剧为Netflix原创韩剧"
-    ],
-    "summary_zh": "Netflix推出新韩剧《Notes from the Last Row》（暂译《最后一排的笔记》），本文介绍了该剧的基本信息与看点。",
-    "extracted_at": "2026-06-25T17:22:09.879616+08:00"
+    "summary_zh": "据《韩国先驱报》报道，韩国艺术院（Academy）已邀请《KPop恶魔猎人》团队成为其成员。该团队的具体背景及邀请细节尚未披露。",
+    "extracted_at": "2026-06-25T18:39:54.758274+08:00"
   },
   {
     "source_id": "soompi",
@@ -240,11 +288,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "MBC新日日剧《家谱》公开新剧照，主演尹熙锡、徐道永、全胜彬亮相",
+      "MBC即将播出的日日剧《家谱》公开新剧照",
+      "剧照显示尹熙锡、徐道永、全胜彬饰演的角色成为林智妍饰演的女主角的支柱",
       "该剧讲述一个从出生就被打上破坏家庭烙印的孩子，以及一位女性对抗社会偏见和残酷命运、重获新生的故事"
     ],
-    "summary_zh": "MBC即将播出的日日剧《家谱》公开了新剧照，展示了尹熙锡、徐道永、全胜彬三位演员的角色形象。该剧讲述了一个从出生就被视为破坏家庭罪人的孩子，以及一位女性对抗社会偏见和残酷命运、重获新生的故事。新剧照中，三位演员饰演的角色成为林智妍所饰女主角的坚强后盾。",
-    "extracted_at": "2026-06-25T17:22:13.083046+08:00"
+    "summary_zh": "MBC新日日剧《家谱》公开尹熙锡、徐道永、全胜彬的剧照，三人饰演的角色成为林智妍饰演的女主角的坚强后盾。该剧讲述一个从出生就被视为破坏家庭的孩子，以及一位女性对抗社会偏见与残酷命运、重获新生的故事。",
+    "extracted_at": "2026-06-25T18:39:58.134139+08:00"
   },
   {
     "source_id": "soompi",
@@ -264,12 +313,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "电影《Hana Korea》发布三张角色海报",
+      "电影《Hana Korea》发布三张角色海报，主演金敏荷、金周灵、安瑞贤饰演脱北者角色",
       "影片改编自真实故事，讲述脱北者惠善（金敏荷饰）在陌生生活中努力前行的旅程",
-      "编剧兼导演为丹麦电影人Frederik Sølberg"
+      "影片由丹麦导演Frederik Sølberg编剧并执导"
     ],
-    "summary_zh": "电影《Hana Korea》公开三张角色海报，主演金敏荷、金周灵、安瑞贤饰演脱北者，在陌生环境中相互依靠。影片改编自真实故事，由丹麦导演Frederik Sølberg执导，聚焦脱北者惠善的奋斗历程。",
-    "extracted_at": "2026-06-25T17:22:15.824813+08:00"
+    "summary_zh": "电影《Hana Korea》公开三张角色海报，主演金敏荷、金周灵、安瑞贤饰演脱北者角色。影片改编自真实故事，讲述脱北者惠善（金敏荷饰）在陌生生活中努力前行的旅程，由丹麦导演Frederik Sølberg编剧并执导。",
+    "extracted_at": "2026-06-25T18:40:00.701342+08:00"
   },
   {
     "source_id": "soompi",
@@ -284,7 +333,7 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "李雪与南宫珉新剧《丈夫》对峙剧照公开",
+    "title_zh": "李雪与南宫珉新剧《丈夫》中对峙剧照公开",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
@@ -292,8 +341,8 @@
       "KBS2新剧《丈夫》公开新剧照，显示李雪与南宫珉饰演的角色紧张对峙",
       "该剧讲述南宫珉饰演的姜泰柱在离婚前夕妻子被绑架，与危险罪犯展开殊死搏斗的故事"
     ],
-    "summary_zh": "KBS2新剧《丈夫》公开新剧照，展现李雪与南宫珉饰演的角色之间的紧张对峙。该剧是一部惊悚片，讲述南宫珉饰演的姜泰柱在离婚前夕妻子被绑架，从而与危险罪犯展开殊死搏斗的故事。",
-    "extracted_at": "2026-06-25T17:22:18.483323+08:00"
+    "summary_zh": "KBS2新剧《丈夫》公开新剧照，捕捉了李雪与南宫珉饰演的角色之间的紧张对峙场面。该剧是一部惊悚剧，讲述南宫珉饰演的姜泰柱在离婚前夕妻子被绑架，从而卷入与危险罪犯的殊死搏斗的故事。",
+    "extracted_at": "2026-06-25T18:40:03.281713+08:00"
   },
   {
     "source_id": "soompi",
@@ -314,11 +363,12 @@
     "is_blurred": false,
     "facts_list": [
       "MBC新剧《真正的杀手》（暂定名）公开李相二角色剧照",
-      "李相二饰演一名拥有痛苦过去且坚信法律体系的刑警",
-      "该剧讲述一位从事最危险职业的职业母亲为维护工作与生活平衡而奋斗的动作剧"
+      "李相二饰演一位有着痛苦过去、坚信法律体系的刑警",
+      "该剧为动作剧，讲述一位从事最致命职业的职业母亲为维护工作与生活平衡而奋斗的故事",
+      "孔孝真已确定出演该剧"
     ],
-    "summary_zh": "MBC新剧《真正的杀手》（暂定名）公开李相二角色剧照，他饰演一名拥有痛苦过去且坚信法律体系的刑警。该剧是一部动作剧，讲述一位从事最危险职业的职业母亲为维护工作与生活平衡而奋斗的故事。",
-    "extracted_at": "2026-06-25T17:22:20.988077+08:00"
+    "summary_zh": "MBC新剧《真正的杀手》（暂定名）公开李相二角色剧照，他饰演一位有着痛苦过去、坚信法律体系的刑警。该剧为动作剧，讲述一位从事最致命职业的职业母亲为维护工作与生活平衡而奋斗的故事，孔孝真已确定出演。",
+    "extracted_at": "2026-06-25T18:40:06.364582+08:00"
   },
   {
     "source_id": "soompi",
@@ -333,17 +383,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "河锡辰新剧《爱的菜单》预告：誓言陪伴Hani面对艰难现实",
+    "title_zh": "河锡辰誓言守护哈妮艰难现实，新剧《爱的菜单》预告公开",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "新剧《爱的菜单》发布新预告",
-      "该剧是一部家庭浪漫剧，讲述一对分手八年的恋人重逢后，拼凑破碎家庭、共同创造温暖餐桌的故事",
-      "预告中河锡辰饰演的角色誓言陪伴Hani饰演的角色面对艰难现实"
+      "该剧是一部家庭浪漫剧，讲述一对分手八年的恋人重逢后，拼凑破碎家庭、共同创造温暖生活餐桌的故事",
+      "预告中河锡辰饰演的角色誓言在哈妮饰演的角色面对艰难现实时守护在她身边"
     ],
-    "summary_zh": "新剧《爱的菜单》发布新预告，河锡辰在预告中誓言陪伴Hani饰演的角色面对艰难现实。该剧是一部家庭浪漫剧，讲述一对分手八年的恋人重逢后，拼凑破碎家庭、共同创造温暖餐桌的故事。",
-    "extracted_at": "2026-06-25T17:22:23.746959+08:00"
+    "summary_zh": "新剧《爱的菜单》公开新预告，该剧是一部家庭浪漫剧，讲述一对分手八年的恋人重逢后，拼凑破碎家庭、共同创造温暖生活餐桌的故事。预告中，河锡辰饰演的角色誓言在哈妮饰演的角色面对艰难现实时守护在她身边。",
+    "extracted_at": "2026-06-25T18:40:09.256458+08:00"
   },
   {
     "source_id": "soompi",
@@ -363,36 +413,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "6月25日下午1点42分（KST），BABYMONSTER的《SUGAR HONEY ICE TEA》MV在YouTube上突破1亿次播放",
+      "6月25日下午1点42分（KST），BABYMONSTER的《SUGAR HONEY ICE TEA》MV在YouTube播放量突破1亿次",
       "该MV用时约17天15小时达成破亿",
       "这是BABYMONSTER第12支播放量破亿的官方MV"
     ],
-    "summary_zh": "BABYMONSTER的《SUGAR HONEY ICE TEA》MV于6月25日下午1点42分（KST）在YouTube上突破1亿次播放，用时约17天15小时，成为组合第12支破亿MV。",
-    "extracted_at": "2026-06-25T17:22:26.156833+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "K-pop rookie CORTIS' debut album racks up 600 mil. Spotify streams - The Korea Times",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMnFTajVMaUc1OTZ6X1hFcXpndTRJSkNNaENPNzNQZ21hTlRBZ3VxVy0wbVFlazE1Vzl3YkNETnNQVXY1R0llbkhJTFRvcFdlc2htV1FmU0EyRDJGeGdyWkNfYVdDcXFfbVpRMWJMUU5laGw3SGJYblh1SUlKaWM1ekhpZEVOYU85RHNWWFM3TGZFc1FMeUVBZHBTRE1rMGhOY0UwTXFYR3k3NU92NEtZVE14VzYtUThUd0JLNFFqONIBxAFBVV95cUxPY0UxYlI5WHUxbm5mNTRWRUM1bHMxX05sQTRpLVlhTGVicS1yX18yd2lNdXRKUjJMejh1dzlHODY4YlNCaGExQzU2eVE2a1RTd3BfM05iaXI1SHNXb3dCcjJfT3F2b1NxVmJIWE5rQ1J0SlVQVHNJUFlBTHJJWlUwZzBLR1F6WDBJMi00TVNVWXNtZDJYSU9pRDFLbDNaejMzRWctSDlLUzVhekFOLVozNW1RbXVRX1psa3lLMFBUX2NSME80?oc=5",
-    "content": "K-pop rookie CORTIS' debut album racks up 600 mil. Spotify streams The Korea Times",
-    "published_at": "0625google-kpop",
-    "published_ts": 1782365044.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "K-pop新人CORTIS出道专辑Spotify播放量突破6亿",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "K-pop新人组合CORTIS的出道专辑在Spotify上累计播放量达到6亿次",
-      "该数据由《韩国时报》报道"
-    ],
-    "summary_zh": "据《韩国时报》报道，K-pop新人组合CORTIS的出道专辑在Spotify平台上的累计播放量已突破6亿次，展现了其作为新人的强劲势头。",
-    "extracted_at": "2026-06-25T17:22:28.190759+08:00"
+    "summary_zh": "BABYMONSTER的《SUGAR HONEY ICE TEA》MV于6月25日下午1点42分（KST）在YouTube突破1亿播放量，用时约17天15小时，成为组合第12支破亿MV。",
+    "extracted_at": "2026-06-25T18:40:11.803092+08:00"
   },
   {
     "source_id": "soompi",
@@ -407,15 +433,39 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "5部拥有强大女性主角的韩剧推荐",
+    "title_zh": "5部以强大女性主角为亮点的韩剧推荐",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文未提及具体剧名、播出时间或平台，仅称有5部韩剧以强大女性主角为特色"
+      "原文未提及具体剧名、播出时间、收视率等事实信息"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：5部韩剧拥有强大女性主角，她们展现力量、智慧、韧性，推动剧情发展]",
-    "extracted_at": "2026-06-25T17:22:30.369708+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：推荐5部以强大女性主角为亮点的韩剧，这些女性角色通过智慧、韧性和反抗精神推动剧情发展，涉及对抗怪物、腐败系统和危险任务等主题。]",
+    "extracted_at": "2026-06-25T18:40:14.271606+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Colgate's newest daily routine: A dose of creator K-drama - Campaign Asia",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaWNrYXRTRDVrUmh1MVNlZUlLRUFXZ29hNF9TeUY4M242cFF3RXBmMnRRQkZNcTFCLUxVOU8tcnB3dDRyV3VXSk9aR2R5M2FEUXBhS3RDdm04VUlEMEpyN25QVzhXWkp5UkZnbHFjMk9EOXJSUFc4UWZHTlNhZ1ZVWTZGMW5TTEhwTWlleDRKWmw2MllNbDVNdHJtTkkwT1NBclJGeDhqZ2o5NVdSVklQWFVyS0Y5NFU?oc=5",
+    "content": "Colgate's newest daily routine: A dose of creator K-drama Campaign Asia",
+    "published_at": "0625google-kpop",
+    "published_ts": 1782361862.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "高露洁推出韩剧风格创意广告，打造日常新体验",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "高露洁与Campaign Asia合作，推出以创作者韩剧为灵感的广告活动",
+      "广告将日常口腔护理融入韩剧叙事风格"
+    ],
+    "summary_zh": "高露洁与Campaign Asia合作，推出以创作者韩剧为灵感的广告活动，将日常口腔护理融入韩剧叙事风格，旨在通过创意内容吸引消费者。",
+    "extracted_at": "2026-06-25T18:40:16.544105+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -430,16 +480,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "美泰首款‘K-pop恶魔猎人’娃娃开启预售，夏季发售",
+    "title_zh": "美泰首款“K-pop恶魔猎人”娃娃开启预售，夏季发售",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "美泰公司推出首款‘K-pop恶魔猎人’系列娃娃",
-      "该系列娃娃已开启预售，计划夏季正式发售"
+      "美泰公司推出首款“K-pop恶魔猎人”系列娃娃",
+      "该系列娃娃已开启预售",
+      "计划于夏季正式发售"
     ],
-    "summary_zh": "美泰公司宣布其首款‘K-pop恶魔猎人’系列娃娃已开启预售，预计于夏季正式发售。该系列结合K-pop与奇幻元素，具体角色细节尚未完全公开。",
-    "extracted_at": "2026-06-25T17:22:32.569151+08:00"
+    "summary_zh": "美泰公司宣布其首款“K-pop恶魔猎人”系列娃娃已开启预售，预计于夏季正式发售。该系列融合K-pop与奇幻元素，具体角色和设计细节尚未完全公开。",
+    "extracted_at": "2026-06-25T18:40:19.136424+08:00"
   },
   {
     "source_id": "soompi",
@@ -454,16 +505,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "朴恩彬分享《Spooky in Love》角色与造型心得",
+    "title_zh": "朴恩斌分享新剧《心动幽灵》角色与造型心得",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "朴恩彬在采访中谈及新剧《Spooky in Love》的角色和造型选择",
-      "该剧翻拍自2011年电影《Spellbound》，是一部关于能见鬼的酒店继承人和怕鬼的检察官的奇幻浪漫剧"
+      "朴恩斌为即将播出的韩剧《心动幽灵》分享角色与造型心得",
+      "该剧翻拍自2011年电影《Spellbound》，是一部灵异浪漫喜剧",
+      "朴恩斌饰演能看见鬼魂的酒店继承人"
     ],
-    "summary_zh": "朴恩彬分享了即将播出的新剧《Spooky in Love》的角色和造型心得。该剧翻拍自2011年电影《Spellbound》，讲述能看见鬼魂的酒店继承人与害怕鬼魂的检察官之间的混乱合作与浪漫故事。",
-    "extracted_at": "2026-06-25T17:22:34.872694+08:00"
+    "summary_zh": "朴恩斌分享了即将播出的韩剧《心动幽灵》的角色与造型心得。该剧翻拍自2011年电影《Spellbound》，是一部灵异浪漫喜剧，讲述能看见鬼魂的酒店继承人与害怕鬼魂的检察官之间的混乱合作。朴恩斌在剧中饰演酒店继承人角色。",
+    "extracted_at": "2026-06-25T18:40:21.655780+08:00"
   },
   {
     "source_id": "soompi",
@@ -483,11 +535,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "Netflix新剧《东宫》公开角色海报，主演南柱赫、卢允瑞、曹承佑",
+      "Netflix新剧《东宫》公开角色海报，主演南柱赫、卢允瑞、曹承佑亮相",
       "南柱赫饰演能穿梭鬼魂世界的具天，卢允瑞饰演能听见鬼魂声音的宫女生刚"
     ],
     "summary_zh": "Netflix新剧《东宫》公开角色海报，主演南柱赫、卢允瑞、曹承佑气场全开。该剧讲述能穿梭鬼魂世界的具天（南柱赫饰）与能听见鬼魂声音的宫女生刚（卢允瑞饰）的故事。",
-    "extracted_at": "2026-06-25T17:22:37.069896+08:00"
+    "extracted_at": "2026-06-25T18:40:24.571034+08:00"
   },
   {
     "source_id": "soompi",
@@ -502,17 +554,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "黄寅烨与惠利新剧《Dream to You》预告：重逢执导昔日共写剧本",
+    "title_zh": "黄寅烨与惠利新剧《Dream to You》预告：重逢执导昔日共同创作的电影",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "ENA新剧《Dream to You》发布新预告",
       "该剧为浪漫喜剧，讲述天才电影导演禹秀彬（黄寅烨饰）实现梦想后回归，与忘记梦想的记者朱伊载（惠利饰）重逢的故事",
-      "预告中两人重逢并执导他们曾共同编写的电影"
+      "预告中两人重逢并执导他们曾共同创作的电影"
     ],
-    "summary_zh": "ENA新剧《Dream to You》发布新预告，该剧为浪漫喜剧，讲述天才电影导演禹秀彬（黄寅烨饰）实现梦想后回归，与忘记梦想的记者朱伊载（惠利饰）重逢的故事。预告中两人重逢并执导他们曾共同编写的电影。",
-    "extracted_at": "2026-06-25T17:22:40.253523+08:00"
+    "summary_zh": "ENA新剧《Dream to You》发布新预告。该剧为浪漫喜剧，讲述天才电影导演禹秀彬（黄寅烨饰）实现梦想后回归，与忘记梦想的记者朱伊载（惠利饰）重逢的故事。预告中两人重逢并执导他们曾共同创作的电影。",
+    "extracted_at": "2026-06-25T18:40:27.623741+08:00"
   },
   {
     "source_id": "soompi",
@@ -527,16 +579,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "南志铉为《好搭档2》片场张娜拉和P.O送上咖啡车应援",
+    "title_zh": "南志铉为《好搭档2》片场张娜拉、P.O送咖啡车应援",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "6月25日，P.O在Instagram Stories上传照片，配文称“南志铉演员送来的咖啡车”。",
-      "照片中张娜拉和P.O面带笑容，比心致谢。"
+      "6月25日，P.O在Instagram Stories上传照片，配文“南志铉演员送来的咖啡车”",
+      "照片中张娜拉和P.O面带笑容、比心，感谢南志铉的应援"
     ],
-    "summary_zh": "南志铉为《好搭档2》片场的张娜拉和P.O送上咖啡车应援。6月25日，P.O在Instagram Stories上传照片，配文感谢南志铉的咖啡车，照片中张娜拉和P.O笑容满面并比心致谢。",
-    "extracted_at": "2026-06-25T17:22:42.714118+08:00"
+    "summary_zh": "南志铉为《好搭档2》片场的张娜拉和P.O送上咖啡车应援。6月25日，P.O在Instagram Stories分享照片，配文感谢南志铉的咖啡车，照片中张娜拉和P.O开心比心致意。",
+    "extracted_at": "2026-06-25T18:40:30.581888+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -546,7 +598,7 @@
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSGt0U0VZZk1QTzVtUDd5di1rNkRjVE02Q01FRE5FX3JiSWNNVFhEX3MtNkU1b2JOcG9xN0pwaTNSR0xXYktjQmJMVU42M3JNUFI5ZjZ2TlVpbUdTdVNzVlJHckJGLTI5RzlRSlBESlF3ekJxbmxGVWx1V1cwbi1lTW15VE1aWW9oeW5CdG4zV3k?oc=5",
     "content": "Buy One KPop Demon Hunters Squishmallow, Get a Second One for Half Off During Prime Day IGN",
     "published_at": "0625google-kpop",
-    "published_ts": 1782349620.0,
+    "published_ts": 1782349679.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
@@ -560,7 +612,7 @@
       "信息来源为IGN报道"
     ],
     "summary_zh": "据IGN报道，Prime Day期间推出促销活动：购买一个KPop Demon Hunters Squishmallow，第二个可享半价优惠。",
-    "extracted_at": "2026-06-25T17:22:44.595367+08:00"
+    "extracted_at": "2026-06-25T18:40:32.753463+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -583,7 +635,7 @@
       "亚马逊平台K-pop恶魔猎人主题玩具和游戏最高折扣46%"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：亚马逊上K-pop恶魔猎人主题玩具和游戏最高可享46%折扣]",
-    "extracted_at": "2026-06-25T17:22:47.561570+08:00"
+    "extracted_at": "2026-06-25T18:40:34.909019+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -598,16 +650,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "K-pop艺人穿邦联旗衬衫引争议，所属社道歉",
+    "title_zh": "K-pop艺人穿邦联旗T恤引争议，所属社道歉",
     "source_type": "韩娱",
     "risk_level": "高",
     "is_blurred": false,
     "facts_list": [
-      "K-pop艺人穿着印有邦联旗的‘复古’衬衫，引发公众批评",
-      "所属社发布道歉声明，为艺人的不当着装致歉"
+      "K-pop艺人穿着印有邦联旗的‘复古’T恤",
+      "该行为引发公众批评",
+      "艺人所属经纪公司发布道歉声明"
     ],
-    "summary_zh": "一名K-pop艺人因穿着印有邦联旗的‘复古’衬衫而遭到公众批评。邦联旗在美国被视为种族主义和白人至上的象征。该艺人的所属社随后发布道歉声明，为艺人的不当着装选择致歉。",
-    "extracted_at": "2026-06-25T17:22:50.195178+08:00"
+    "summary_zh": "一名K-pop艺人因穿着印有邦联旗的‘复古’T恤而遭到公众批评。邦联旗在美国被视为种族主义和白人至上的象征。随后，该艺人的经纪公司发布道歉声明，为这一行为致歉。",
+    "extracted_at": "2026-06-25T18:40:37.674576+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -628,7 +681,7 @@
     "is_blurred": false,
     "facts_list": [],
     "summary_zh": "Sesame Street Gives Chappell Roan, Taylor Swift, Bruno Mars, and KPop Demon Hunters the \"Weird Al\" Treatment Consequence of Sound",
-    "extracted_at": "2026-06-25T17:22:52.589256+08:00",
+    "extracted_at": "2026-06-25T18:40:40.447538+08:00",
     "extraction_failed": true
   },
   {
@@ -652,31 +705,8 @@
       "Asami Martin在田纳西州诺克斯维尔建立K-pop舞蹈社群",
       "该社群由Knoxville News Sentinel报道"
     ],
-    "summary_zh": "据Knoxville News Sentinel报道，Asami Martin在田纳西州诺克斯维尔建立了一个K-pop舞蹈社群，旨在推广K-pop舞蹈文化并聚集当地爱好者。",
-    "extracted_at": "2026-06-25T17:22:54.783137+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "These Popular ‘KPop Demon Hunters’ Toys Are Discounted Up to 46% Off for Prime Day: Shop the Deals Before They Sell Out - Yahoo",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNVRmUlNpQXU1YmZnOTFBZnZmbFNodDZNNUpWNDZ0WnlZMmY0Zkhfdm9fTTMyU25Pb2RFaGRpbUJlbjZucnZZaHBESlpza0NuOC10OC1FQkNadW41aDNEaGhwekdyX1k1LTFfaHFGRERKQ3R6WnJsX0NONTdvS1o0MDNRM01POGJHYTYwenR4eVI0aWEtUHFDTQ?oc=5",
-    "content": "These Popular ‘KPop Demon Hunters’ Toys Are Discounted Up to 46% Off for Prime Day: Shop the Deals Before They Sell Out Yahoo",
-    "published_at": "0625google-kpop",
-    "published_ts": 1782328225.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "热门‘KPop恶魔猎人’玩具Prime Day最高打54折，抢购即将售罄",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "原文未提及具体玩具名称、品牌、折扣后价格、销售平台等具体信息，仅称‘KPop恶魔猎人’玩具在Prime Day有高达46%的折扣"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：热门‘KPop恶魔猎人’玩具在Prime Day期间折扣高达46%，建议尽快购买以免售罄]",
-    "extracted_at": "2026-06-25T17:22:57.067373+08:00"
+    "summary_zh": "据Knoxville News Sentinel报道，Asami Martin在田纳西州诺克斯维尔建立了一个K-pop舞蹈社群，旨在推广K-pop舞蹈文化并吸引当地爱好者参与。",
+    "extracted_at": "2026-06-25T18:40:42.325281+08:00"
   },
   {
     "source_id": "soompi",
@@ -697,11 +727,11 @@
     "is_blurred": false,
     "facts_list": [
       "韩国企业评价研究所于6月23日发布6月演员品牌声誉排行榜",
-      "排名基于5月23日至6月23日期间出演电视剧、电影或OTT内容的100位演员的媒体覆盖、参与、互动和社区指数数据分析",
-      "许南俊（Heo Nam Jun）近期表现突出，位居榜首"
+      "排名基于5月23日至6月23日期间出演电视剧、电影或OTT内容的100位演员的媒体曝光、参与度、互动及社区指数数据分析",
+      "许南俊近期表现突出，位列榜首"
     ],
-    "summary_zh": "韩国企业评价研究所公布了6月演员品牌声誉排行榜，该排名基于5月23日至6月23日期间对100位出演电视剧、电影或OTT内容的演员进行的媒体覆盖、参与、互动和社区指数数据分析。许南俊凭借近期表现登顶榜首。",
-    "extracted_at": "2026-06-25T17:22:59.690644+08:00"
+    "summary_zh": "韩国企业评价研究所公布了6月演员品牌声誉排行榜，该排名基于5月23日至6月23日期间对100位演员的媒体曝光、参与度、互动及社区指数数据分析得出。许南俊凭借近期表现登顶榜首。",
+    "extracted_at": "2026-06-25T18:40:45.265149+08:00"
   },
   {
     "source_id": "soompi",
@@ -721,12 +751,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "当地时间6月24日，Billboard发布“2026上半年50首最佳歌曲”榜单",
+      "当地时间6月24日，Billboard发布“2026上半年最佳歌曲”榜单，涵盖多种类型",
       "BLACKPINK成员Jennie与Tame Impala合作的混音版《Dracula》入选",
       "BTS和KATSEYE也出现在该榜单中"
     ],
-    "summary_zh": "Billboard于6月24日发布“2026上半年50首最佳歌曲”榜单，BLACKPINK成员Jennie与Tame Impala合作的混音版《Dracula》入选，此外BTS和KATSEYE也位列其中。",
-    "extracted_at": "2026-06-25T17:23:01.736301+08:00"
+    "summary_zh": "Billboard于6月24日发布“2026上半年最佳歌曲”榜单，BLACKPINK成员Jennie与Tame Impala合作的混音版《Dracula》入选，此外BTS和KATSEYE也位列其中。",
+    "extracted_at": "2026-06-25T18:40:47.874985+08:00"
   },
   {
     "source_id": "soompi",
@@ -747,10 +777,10 @@
     "is_blurred": false,
     "facts_list": [
       "Circle Chart 公布6月7日至13日周榜排名",
-      "BOYNEXTDOOR 凭借首张正规专辑《HOME》及主打曲《VIRAL》获得实体专辑榜和数字下载榜双冠王"
+      "BOYNEXTDOOR 凭借首张正规专辑《HOME》及主打曲《VIRAL》获得专辑榜和数字下载榜双冠王"
     ],
-    "summary_zh": "Circle Chart 公布6月7日至13日周榜排名，BOYNEXTDOOR 凭借首张正规专辑《HOME》及主打曲《VIRAL》获得实体专辑榜和数字下载榜双冠王。I.O.I、CORTIS 和 BTS 也分别在不同榜单登顶。",
-    "extracted_at": "2026-06-25T17:23:04.250371+08:00"
+    "summary_zh": "Circle Chart 公布6月7日至13日周榜排名，BOYNEXTDOOR 凭借首张正规专辑《HOME》及主打曲《VIRAL》获得专辑榜和数字下载榜双冠王。此外，I.O.I、CORTIS 和 BTS 也分别登顶其他榜单。",
+    "extracted_at": "2026-06-25T18:40:50.474996+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -765,15 +795,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "美泰KPop Demon Hunters玩具开启预售",
+    "title_zh": "美泰KPop Demon Hunters玩具开启预售，具体发售日期待公布",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "美泰公司KPop Demon Hunters系列玩具已开启预购"
+      "美泰（Mattel）旗下KPop Demon Hunters系列新玩具已开启预购",
+      "具体发售日期尚未公布"
     ],
-    "summary_zh": "美泰公司推出的KPop Demon Hunters系列玩具已开启预购，具体发售日期待公布。",
-    "extracted_at": "2026-06-25T17:23:06.065853+08:00"
+    "summary_zh": "美泰（Mattel）旗下KPop Demon Hunters系列新玩具已开启预购，但具体发售日期尚未公布。",
+    "extracted_at": "2026-06-25T18:40:52.560427+08:00"
   },
   {
     "source_id": "soompi",
@@ -793,701 +824,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "MBC Plus新剧《我的偶像，我的出道》公开李镇赫角色照",
-      "该剧是一部时间穿越成长故事，讲述一名狂热粉丝穿越回八年前，试图阻止一场悲剧",
-      "tripleS的Kaede（枫）、WOOAH的Nana等也将出演，饰演虚拟偶像"
+      "MBC Plus新剧《我的偶像，我的出道》公开李镇赫角色首张剧照",
+      "该剧为时间穿越成长故事，讲述狂热粉丝穿越回八年前阻止悲剧，意外成为偶像",
+      "tripleS成员枫、WOOAH成员Nana等也将出演，饰演虚拟偶像"
     ],
-    "summary_zh": "MBC Plus新剧《我的偶像，我的出道》公开李镇赫角色照。该剧是一部时间穿越成长故事，讲述一名狂热粉丝穿越回八年前，试图阻止一场悲剧。tripleS的Kaede（枫）、WOOAH的Nana等也将出演，饰演虚拟偶像。",
-    "extracted_at": "2026-06-25T17:23:08.688830+08:00"
-  },
-  {
-    "source_id": "asianwiki",
-    "source_name": "AsianWiki",
-    "l1_tab": "韩娱",
-    "title": "Love Track: Minji Minji Minji",
-    "url": "https://asianwiki.com/Love_Track:_Minji_Minji_Minji",
-    "content": "Love Track: Minji Minji Minji (KBS2)",
-    "published_at": "0621asianwiki",
-    "published_ts": 1782053379.174405,
-    "category": "韩剧",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "《Love Track: Minji Minji Minji》KBS2播出",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "剧名《Love Track: Minji Minji Minji》在KBS2播出"
-    ],
-    "summary_zh": "韩剧《Love Track: Minji Minji Minji》在KBS2播出。",
-    "extracted_at": "2026-06-21T22:49:41.456708+08:00"
-  },
-  {
-    "source_id": "asianwiki",
-    "source_name": "AsianWiki",
-    "l1_tab": "韩娱",
-    "title": "Concrete Market",
-    "url": "https://asianwiki.com/Concrete_Market_(Korean_Drama)",
-    "content": "Concrete Market (Wavve)",
-    "published_at": "0621asianwiki",
-    "published_ts": 1782053379.174399,
-    "category": "韩剧",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Wavve推出新综艺《Concrete Market》",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "Wavve平台推出新综艺节目《Concrete Market》"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：Wavve推出新综艺《Concrete Market》]",
-    "extracted_at": "2026-06-21T22:49:43.135647+08:00"
-  },
-  {
-    "source_id": "asianwiki",
-    "source_name": "AsianWiki",
-    "l1_tab": "韩娱",
-    "title": "Idol I",
-    "url": "https://asianwiki.com/Idol_I",
-    "content": "Idol I (ENA)",
-    "published_at": "0621asianwiki",
-    "published_ts": 1782053379.174394,
-    "category": "韩剧",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "偶像I（ENA）",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [],
-    "summary_zh": "[原文未提及具体行为，仅称：Idol I (ENA)]",
-    "extracted_at": "2026-06-21T22:49:44.687051+08:00"
-  },
-  {
-    "source_id": "asianwiki",
-    "source_name": "AsianWiki",
-    "l1_tab": "韩娱",
-    "title": "Love Track: My Father's Funeral",
-    "url": "https://asianwiki.com/Love_Track:_My_Father%27s_Funeral",
-    "content": "Love Track: My Father's Funeral (KBS2)",
-    "published_at": "0621asianwiki",
-    "published_ts": 1782053379.174388,
-    "category": "韩剧",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "《爱的追踪：父亲的葬礼》KBS2播出",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "剧名《Love Track: My Father's Funeral》在KBS2播出"
-    ],
-    "summary_zh": "韩剧《Love Track: My Father's Funeral》在KBS2播出。",
-    "extracted_at": "2026-06-21T22:49:46.763363+08:00"
-  },
-  {
-    "source_id": "asianwiki",
-    "source_name": "AsianWiki",
-    "l1_tab": "韩娱",
-    "title": "Love Track: Kimchi",
-    "url": "https://asianwiki.com/Love_Track:_Kimchi",
-    "content": "Love Track: Kimchi (KBS2)",
-    "published_at": "0621asianwiki",
-    "published_ts": 1782053379.174383,
-    "category": "韩剧",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "KBS2新剧《Love Track: Kimchi》",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "KBS2播出电视剧《Love Track: Kimchi》"
-    ],
-    "summary_zh": "KBS2播出电视剧《Love Track: Kimchi》。",
-    "extracted_at": "2026-06-21T22:49:48.430465+08:00"
-  },
-  {
-    "source_id": "asianwiki",
-    "source_name": "AsianWiki",
-    "l1_tab": "韩娱",
-    "title": "Love Me",
-    "url": "https://asianwiki.com/Love_Me_(Korean_Drama)",
-    "content": "Love Me (JTBC)",
-    "published_at": "0621asianwiki",
-    "published_ts": 1782053379.174377,
-    "category": "韩剧",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "JTBC新剧《Love Me》引发关注",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "JTBC推出新剧《Love Me》"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：JTBC推出新剧《Love Me》]",
-    "extracted_at": "2026-06-21T22:49:50.189124+08:00"
-  },
-  {
-    "source_id": "asianwiki",
-    "source_name": "AsianWiki",
-    "l1_tab": "韩娱",
-    "title": "Villains",
-    "url": "https://asianwiki.com/Villains_(Korean_Drama)",
-    "content": "Villains (TVING)",
-    "published_at": "0621asianwiki",
-    "published_ts": 1782053379.174366,
-    "category": "韩剧",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "TVING新剧《Villains》公开",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "TVING平台推出新剧《Villains》"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：TVING推出新剧《Villains》]",
-    "extracted_at": "2026-06-21T22:49:52.152338+08:00"
-  },
-  {
-    "source_id": "asianwiki",
-    "source_name": "AsianWiki",
-    "l1_tab": "韩娱",
-    "title": "Love Track: Finding Us",
-    "url": "https://asianwiki.com/Love_Track:_Finding_Us",
-    "content": "Love Track: Finding Us (KBS2)",
-    "published_at": "0621asianwiki",
-    "published_ts": 1782053379.174361,
-    "category": "韩剧",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "《Love Track: Finding Us》KBS2播出",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "剧名《Love Track: Finding Us》在KBS2播出"
-    ],
-    "summary_zh": "韩剧《Love Track: Finding Us》在KBS2播出。",
-    "extracted_at": "2026-06-21T22:49:54.013320+08:00"
-  },
-  {
-    "source_id": "asianwiki",
-    "source_name": "AsianWiki",
-    "l1_tab": "韩娱",
-    "title": "Love Track: Love Hotel",
-    "url": "https://asianwiki.com/Love_Track:_Love_Hotel",
-    "content": "Love Track: Love Hotel (KBS2)",
-    "published_at": "0621asianwiki",
-    "published_ts": 1782053379.174355,
-    "category": "韩剧",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "KBS2新剧《Love Track: Love Hotel》",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "KBS2播出剧集《Love Track: Love Hotel》"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：KBS2播出剧集《Love Track: Love Hotel》]",
-    "extracted_at": "2026-06-21T22:49:55.933366+08:00"
-  },
-  {
-    "source_id": "asianwiki",
-    "source_name": "AsianWiki",
-    "l1_tab": "韩娱",
-    "title": "The First Man",
-    "url": "https://asianwiki.com/The_First_Man",
-    "content": "The First Man (MBC)",
-    "published_at": "0621asianwiki",
-    "published_ts": 1782053379.174349,
-    "category": "韩剧",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "MBC新剧《The First Man》",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "MBC制作新剧《The First Man》"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：MBC制作新剧《The First Man》]",
-    "extracted_at": "2026-06-21T22:49:57.637161+08:00"
-  },
-  {
-    "source_id": "asianwiki",
-    "source_name": "AsianWiki",
-    "l1_tab": "韩娱",
-    "title": "Love Track: When We Were Wired",
-    "url": "https://asianwiki.com/Love_Track:_When_We_Were_Wired",
-    "content": "Love Track: When We Were Wired (KBS2)",
-    "published_at": "0621asianwiki",
-    "published_ts": 1782053379.174343,
-    "category": "韩剧",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "《Love Track: When We Were Wired》KBS2播出",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "剧名《Love Track: When We Were Wired》在KBS2播出"
-    ],
-    "summary_zh": "韩剧《Love Track: When We Were Wired》在KBS2播出。",
-    "extracted_at": "2026-06-21T22:49:59.587249+08:00"
-  },
-  {
-    "source_id": "asianwiki",
-    "source_name": "AsianWiki",
-    "l1_tab": "韩娱",
-    "title": "Love Track: Onion Soup After Hours",
-    "url": "https://asianwiki.com/Love_Track:_Onion_Soup_After_Hours",
-    "content": "Love Track: Onion Soup After Hours (KBS2)",
-    "published_at": "0621asianwiki",
-    "published_ts": 1782053379.174338,
-    "category": "韩剧",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "《深夜洋葱汤》KBS2播出",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "剧名《Love Track: Onion Soup After Hours》在KBS2播出"
-    ],
-    "summary_zh": "韩剧《Love Track: Onion Soup After Hours》（暂译《深夜洋葱汤》）在KBS2播出。",
-    "extracted_at": "2026-06-21T22:50:01.763687+08:00"
-  },
-  {
-    "source_id": "asianwiki",
-    "source_name": "AsianWiki",
-    "l1_tab": "韩娱",
-    "title": "O'PENing: Housekeeper",
-    "url": "https://asianwiki.com/O%27PENing:_Housekeeper",
-    "content": "O'PENing: Housekeeper (tvN)",
-    "published_at": "0621asianwiki",
-    "published_ts": 1782053379.174332,
-    "category": "韩剧",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "tvN新剧《O'PENing：管家》",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "剧名《O'PENing: Housekeeper》在tvN播出"
-    ],
-    "summary_zh": "tvN播出剧集《O'PENing: Housekeeper》。",
-    "extracted_at": "2026-06-21T22:50:03.822123+08:00"
-  },
-  {
-    "source_id": "asianwiki",
-    "source_name": "AsianWiki",
-    "l1_tab": "韩娱",
-    "title": "O'PENing: The Lake of That Day",
-    "url": "https://asianwiki.com/O%27PENing:_The_Lake_of_That_Day",
-    "content": "O'PENing: The Lake of That Day (tvN)",
-    "published_at": "0621asianwiki",
-    "published_ts": 1782053379.174326,
-    "category": "韩剧",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "tvN独幕剧《那天的那片湖》公开",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "tvN播出独幕剧《O'PENing: The Lake of That Day》"
-    ],
-    "summary_zh": "tvN播出了独幕剧《O'PENing: The Lake of That Day》（暂译《那天的那片湖》），该剧为O'PENing系列作品之一。",
-    "extracted_at": "2026-06-21T22:50:05.968480+08:00"
-  },
-  {
-    "source_id": "asianwiki",
-    "source_name": "AsianWiki",
-    "l1_tab": "韩娱",
-    "title": "Surely Tomorrow",
-    "url": "https://asianwiki.com/Surely_Tomorrow",
-    "content": "Surely Tomorrow (JTBC)",
-    "published_at": "0621asianwiki",
-    "published_ts": 1782053379.17432,
-    "category": "韩剧",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "JTBC新剧《Surely Tomorrow》确定制作",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "JTBC电视台制作新剧《Surely Tomorrow》"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：JTBC制作新剧《Surely Tomorrow》]",
-    "extracted_at": "2026-06-21T22:50:07.684723+08:00"
-  },
-  {
-    "source_id": "asianwiki",
-    "source_name": "AsianWiki",
-    "l1_tab": "韩娱",
-    "title": "Pro Bono",
-    "url": "https://asianwiki.com/Pro_Bono_(Korean_Drama)",
-    "content": "Pro Bono (tvN)",
-    "published_at": "0621asianwiki",
-    "published_ts": 1782053379.174314,
-    "category": "韩剧",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "tvN新剧《Pro Bono》",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "tvN计划制作新剧《Pro Bono》"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：tvN计划制作新剧《Pro Bono》]",
-    "extracted_at": "2026-06-21T22:50:09.335696+08:00"
-  },
-  {
-    "source_id": "asianwiki",
-    "source_name": "AsianWiki",
-    "l1_tab": "韩娱",
-    "title": "The Price of Confession",
-    "url": "https://asianwiki.com/The_Price_of_Confession",
-    "content": "The Price of Confession (Netflix)",
-    "published_at": "0621asianwiki",
-    "published_ts": 1782053379.174308,
-    "category": "韩剧",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Netflix剧集《告白的价格》",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "原文仅提及剧名《The Price of Confession》及平台Netflix，无其他具体信息"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：Netflix剧集《告白的价格》]",
-    "extracted_at": "2026-06-21T22:50:11.530711+08:00"
-  },
-  {
-    "source_id": "asianwiki",
-    "source_name": "AsianWiki",
-    "l1_tab": "韩娱",
-    "title": "Shadow Work",
-    "url": "https://asianwiki.com/Shadow_Work",
-    "content": "Shadow Work (WOWOW)",
-    "published_at": "0621asianwiki",
-    "published_ts": 1782053379.174303,
-    "category": "韩剧",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "日剧《Shadow Work》在WOWOW播出",
-    "source_type": "日剧",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "日剧《Shadow Work》在WOWOW播出"
-    ],
-    "summary_zh": "日剧《Shadow Work》在WOWOW平台播出。",
-    "extracted_at": "2026-06-21T22:50:13.377312+08:00"
-  },
-  {
-    "source_id": "asianwiki",
-    "source_name": "AsianWiki",
-    "l1_tab": "韩娱",
-    "title": "Taxi Driver 3",
-    "url": "https://asianwiki.com/Taxi_Driver_3",
-    "content": "Taxi Driver 3 (SBS)",
-    "published_at": "0621asianwiki",
-    "published_ts": 1782053379.174297,
-    "category": "韩剧",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "《模范出租车3》确定制作，SBS新季来袭",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "SBS确认制作《模范出租车》第三季",
-      "剧名暂定为《Taxi Driver 3》"
-    ],
-    "summary_zh": "SBS电视台宣布将制作热门韩剧《模范出租车》的第三季，目前剧名暂定为《Taxi Driver 3》。具体播出时间及演员阵容尚未公布。",
-    "extracted_at": "2026-06-21T22:50:15.890555+08:00"
-  },
-  {
-    "source_id": "asianwiki",
-    "source_name": "AsianWiki",
-    "l1_tab": "韩娱",
-    "title": "Heroes Next Door",
-    "url": "https://asianwiki.com/Heroes_Next_Door",
-    "content": "Heroes Next Door (Coupang Play)",
-    "published_at": "0621asianwiki",
-    "published_ts": 1782053379.174291,
-    "category": "韩剧",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "《Heroes Next Door》Coupang Play新剧",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "剧名：Heroes Next Door",
-      "播出平台：Coupang Play"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：Coupang Play新剧《Heroes Next Door》]",
-    "extracted_at": "2026-06-21T22:50:17.867946+08:00"
-  },
-  {
-    "source_id": "asianwiki",
-    "source_name": "AsianWiki",
-    "l1_tab": "韩娱",
-    "title": "LOVE.exe",
-    "url": "https://asianwiki.com/LOVE.exe",
-    "content": "LOVE.exe (Wavve)",
-    "published_at": "0621asianwiki",
-    "published_ts": 1782053379.174282,
-    "category": "韩剧",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Wavve新剧《LOVE.exe》预告发布",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "Wavve平台发布新剧《LOVE.exe》预告"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：Wavve平台发布新剧《LOVE.exe》预告]",
-    "extracted_at": "2026-06-21T22:50:19.839056+08:00"
-  },
-  {
-    "source_id": "asianwiki",
-    "source_name": "AsianWiki",
-    "l1_tab": "韩娱",
-    "title": "Last Samurai Standing",
-    "url": "https://asianwiki.com/Last_Samurai_Standing",
-    "content": "Last Samurai Standing (Netflix)",
-    "published_at": "0621asianwiki",
-    "published_ts": 1782053379.174274,
-    "category": "韩剧",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Netflix日剧《最后的武士》",
-    "source_type": "日剧",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "Netflix日剧《Last Samurai Standing》"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：Netflix日剧《Last Samurai Standing》]",
-    "extracted_at": "2026-06-21T22:50:21.450332+08:00"
-  },
-  {
-    "source_id": "asianwiki",
-    "source_name": "AsianWiki",
-    "l1_tab": "韩娱",
-    "title": "Dynamite Kiss",
-    "url": "https://asianwiki.com/Dynamite_Kiss",
-    "content": "Dynamite Kiss (SBS)",
-    "published_at": "0621asianwiki",
-    "published_ts": 1782053379.174267,
-    "category": "韩剧",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "SBS新剧《Dynamite Kiss》",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "SBS制作新剧《Dynamite Kiss》"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：SBS制作新剧《Dynamite Kiss》]",
-    "extracted_at": "2026-06-21T22:50:23.147229+08:00"
-  },
-  {
-    "source_id": "asianwiki",
-    "source_name": "AsianWiki",
-    "l1_tab": "韩娱",
-    "title": "Don't Call Me Ma'am",
-    "url": "https://asianwiki.com/Don%27t_Call_Me_Ma%27am",
-    "content": "Don't Call Me Ma'am (TV Chosun)",
-    "published_at": "0621asianwiki",
-    "published_ts": 1782053379.174257,
-    "category": "韩剧",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "TV朝鲜新剧《Don't Call Me Ma'am》",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "TV朝鲜制作新剧《Don't Call Me Ma'am》"
-    ],
-    "summary_zh": "TV朝鲜推出新剧《Don't Call Me Ma'am》，目前仅公开剧名，具体演员、播出时间等细节尚未披露。",
-    "extracted_at": "2026-06-21T22:50:25.008540+08:00"
-  },
-  {
-    "source_id": "asianwiki",
-    "source_name": "AsianWiki",
-    "l1_tab": "韩娱",
-    "title": "Moon River",
-    "url": "https://asianwiki.com/Moon_River_(Korean_Drama)",
-    "content": "Moon River (MBC)",
-    "published_at": "0621asianwiki",
-    "published_ts": 1782053379.174251,
-    "category": "韩剧",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "MBC新剧《Moon River》引发关注",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "MBC推出新剧《Moon River》"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：MBC推出新剧《Moon River》]",
-    "extracted_at": "2026-06-21T22:50:26.651003+08:00"
-  },
-  {
-    "source_id": "asianwiki",
-    "source_name": "AsianWiki",
-    "l1_tab": "韩娱",
-    "title": "As You Stood By",
-    "url": "https://asianwiki.com/As_You_Stood_By",
-    "content": "As You Stood By (Netflix)",
-    "published_at": "0621asianwiki",
-    "published_ts": 1782053379.174244,
-    "category": "韩剧",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Netflix剧集《As You Stood By》",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "Netflix剧集《As You Stood By》存在"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：Netflix剧集《As You Stood By》]",
-    "extracted_at": "2026-06-21T22:50:28.509830+08:00"
-  },
-  {
-    "source_id": "asianwiki",
-    "source_name": "AsianWiki",
-    "l1_tab": "韩娱",
-    "title": "Dear X",
-    "url": "https://asianwiki.com/Dear_X",
-    "content": "Dear X (TVING)",
-    "published_at": "0621asianwiki",
-    "published_ts": 1782053379.174237,
-    "category": "韩剧",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "TVING新剧《Dear X》公开预告",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "TVING公开新剧《Dear X》预告"
-    ],
-    "summary_zh": "TVING公开了新剧《Dear X》的预告信息。",
-    "extracted_at": "2026-06-21T22:50:30.505883+08:00"
-  },
-  {
-    "source_id": "asianwiki",
-    "source_name": "AsianWiki",
-    "l1_tab": "韩娱",
-    "title": "The Manipulated",
-    "url": "https://asianwiki.com/The_Manipulated",
-    "content": "The Manipulated (Disney+)",
-    "published_at": "0621asianwiki",
-    "published_ts": 1782053379.174229,
-    "category": "韩剧",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Disney+原创剧《The Manipulated》上线",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "Disney+上线原创剧《The Manipulated》"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：Disney+上线原创剧《The Manipulated》]",
-    "extracted_at": "2026-06-21T22:50:32.523270+08:00"
-  },
-  {
-    "source_id": "asianwiki",
-    "source_name": "AsianWiki",
-    "l1_tab": "韩娱",
-    "title": "Nice to Not Meet You",
-    "url": "https://asianwiki.com/Nice_to_Not_Meet_You",
-    "content": "Nice to Not Meet You (tvN)",
-    "published_at": "0621asianwiki",
-    "published_ts": 1782053379.174219,
-    "category": "韩剧",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "tvN新剧《Nice to Not Meet You》",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "tvN播出新剧《Nice to Not Meet You》"
-    ],
-    "summary_zh": "tvN播出新剧《Nice to Not Meet You》。",
-    "extracted_at": "2026-06-21T22:50:34.061274+08:00"
-  },
-  {
-    "source_id": "asianwiki",
-    "source_name": "AsianWiki",
-    "l1_tab": "韩娱",
-    "title": "Last Summer",
-    "url": "https://asianwiki.com/Last_Summer",
-    "content": "Last Summer (KBS2)",
-    "published_at": "0621asianwiki",
-    "published_ts": 1782053379.174183,
-    "category": "韩剧",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "《Last Summer》KBS2播出",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "剧名《Last Summer》在KBS2播出"
-    ],
-    "summary_zh": "韩剧《Last Summer》在KBS2播出。",
-    "extracted_at": "2026-06-21T22:50:35.837856+08:00"
+    "summary_zh": "MBC Plus新剧《我的偶像，我的出道》公开李镇赫角色首张剧照。该剧为时间穿越成长故事，讲述一名狂热粉丝穿越回八年前阻止悲剧，意外成为偶像。tripleS成员枫、WOOAH成员Nana等也将出演，饰演虚拟偶像。",
+    "extracted_at": "2026-06-25T18:40:55.631820+08:00"
   }
 ]
