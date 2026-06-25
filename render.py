@@ -441,18 +441,21 @@ class SSGRenderer:
         # 解析 content JSON 字段
         dramas = []
         for art in articles:
+            content_raw = art.get("content", "{}")
             try:
-                extra = _json.loads(art.get("content", "{}"))
+                extra = _json.loads(content_raw)
             except Exception:
                 extra = {}
+            # 判断是否为有效 JSON content（含结构化字段）
+            has_valid_content = isinstance(extra, dict) and extra.get("air_date")
             dramas.append({
                 **art,
                 "title_zh": extra.get("title_zh", "") or art.get("title_zh", ""),
                 "cast": extra.get("cast", "") or extra.get("cast_en", ""),
                 "summary_zh": extra.get("summary_zh", "") or extra.get("summary_en", ""),
-                "platform": extra.get("platform", "TBA"),
-                "air_date": extra.get("air_date", ""),
-                "published_ts": art.get("published_ts", 0),
+                "platform": extra.get("platform", "TBA") if has_valid_content else "TBA",
+                "air_date": extra.get("air_date", "") if has_valid_content else "2026年待定",
+                "published_ts": art.get("published_ts", 0) if has_valid_content else 0,
             })
 
         # 平台列表

@@ -126,10 +126,27 @@ def run_pipeline(dry_run: bool = False) -> int:
             try:
                 old_data = json.loads(old_f.read_text("utf-8"))
                 old_aw = [a for a in old_data if a.get("source_id") == "asianwiki"]
-                if old_aw:
-                    validated.extend(old_aw)
-                    logger.info(f"📦 AsianWiki 缓存: 从 {old_f.name} 复制 {len(old_aw)} 篇")
+                # 验证旧数据格式：必须包含有效 JSON content（含 air_date + platform）
+                valid_aw = []
+                skipped_fmt = 0
+                for a in old_aw:
+                    try:
+                        extra = json.loads(a.get("content", "{}"))
+                    except (json.JSONDecodeError, TypeError):
+                        extra = {}
+                    # 纯文本 content（非 JSON）或缺少关键字段 → 跳过
+                    if not isinstance(extra, dict) or not extra.get("air_date"):
+                        skipped_fmt += 1
+                        continue
+                    valid_aw.append(a)
+                if valid_aw:
+                    validated.extend(valid_aw)
+                    logger.info(f"📦 AsianWiki 缓存: 从 {old_f.name} 复制 {len(valid_aw)} 篇（跳过 {skipped_fmt} 条旧格式）")
+                elif skipped_fmt:
+                    logger.warning(f"📦 AsianWiki 缓存: {old_f.name} 中 {skipped_fmt} 条均为旧格式，全部跳过")
+                if valid_aw:
                     break
+                # 如果旧文件全是旧格式，继续尝试更早的文件
             except Exception:
                 continue
 
