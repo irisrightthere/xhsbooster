@@ -75,25 +75,58 @@ jobs:
       - name: Extract AsianWiki spider data
         run: |
           python3 -c "
-          import json, os, sys
+          import json, os, sys, re
           from glob import glob
+
+          def is_valid_date(d):
+              '''日期必须包含具体月份和日期，拒绝 TBA/待定/纯年份/仅月份。'''
+              if not d or not d.strip():
+                  return False
+              s = str(d).strip()
+              # 拒绝 TBA / 待定 / 纯年份 / 英文待定
+              if re.search(r'TBA|待定|📌|\b2026\b|unknown|undecided', s, re.IGNORECASE):
+                  return False
+              # 必须匹配 X月X日（中文）或 Month Day（英文）格式
+              if re.search(r'\d{1,2}月\s*\d{1,2}日', s):
+                  return True
+              if re.search(r'[A-Z][a-z]+\s+\d+', s):
+                  return True
+              return False
+
+          def is_valid_platform(p):
+              '''平台不能是 TBA 或空。'''
+              if not p or not str(p).strip():
+                  return False
+              if re.search(r'^TBA$', str(p), re.IGNORECASE):
+                  return False
+              return True
+
           files = sorted(glob('gh-pages/_state/*_articles.json'), reverse=True)
           if not files: sys.exit(0)
           data = json.load(open(files[0]))
           aw = [a for a in data if a.get('source_id') == 'asianwiki']
           if aw:
               out = []
+              skipped = 0
               for a in aw:
                   try: extra = json.loads(a.get('content','{}'))
                   except: extra = {}
+                  air_date = extra.get('air_date', '')
+                  platform = extra.get('platform', '')
+                  if not is_valid_date(air_date):
+                      skipped += 1
+                      continue
+                  if not is_valid_platform(platform):
+                      skipped += 1
+                      continue
                   out.append({
                       'title': a.get('title',''),
                       'url': a.get('url',''),
-                      'platform': extra.get('platform', a.get('source_name','')),
-                      'date': extra.get('air_date', a.get('published_at','')),
+                      'platform': platform,
+                      'date': air_date,
                   })
               json.dump(out, open('gh-pages/_state/spider_data.json','w'), ensure_ascii=False, indent=2)
-              print(f'Extracted {len(out)} AW entries')
+              print(f'Extracted {len(out)} AW entries (skipped {skipped} TBA/待定)')
           "
 
       - name: Merge AsianWiki data

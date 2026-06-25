@@ -349,7 +349,15 @@ class Crawler:
             day = int(parts[1].split('-')[0]) if len(parts) > 1 else 1
             pub_ts = datetime(current_year, month, day, 12, 0, 0,
                               tzinfo=__import__('datetime').timezone(__import__('datetime').timedelta(hours=8))).timestamp()
-            pub_display = f"{month:02d}{day:02d}{source.get('id', 'asianwiki')}"
+            # 仅有月份无具体日期 → 标记为待定，不伪造日期
+            if len(parts) == 1:
+                # "August", "July" 等无具体日 → 标记为待定
+                pub_ts = 0
+                pub_display = f"{month:02d}00{source.get('id', 'asianwiki')}"
+                date_str_final = f"{parts[0]} (待定)"
+            else:
+                pub_display = f"{month:02d}{day:02d}{source.get('id', 'asianwiki')}"
+                date_str_final = date_str
 
             # 详情页抓取（快速模式：5s超时，失败不阻塞）
             cast = ""
@@ -400,7 +408,7 @@ class Crawler:
                     "summary_zh": summary_zh or summary,
                     "summary_en": summary,
                     "platform": station,
-                    "air_date": date_str,
+                    "air_date": date_str_final,
                 }, ensure_ascii=False),
                 published_at=pub_display,
                 published_ts=pub_ts,
@@ -436,14 +444,14 @@ class Crawler:
             if title in seen or len(title) < 2:
                 continue
             seen.add(title)
-            pub_ts = now_cst().timestamp()
+            pub_ts = 0  # TBD 条目无具体时间戳，避免归入当月
             articles.append(RawArticle(
                 source_id=source.get("id", ""),
                 source_name=source.get("name", ""),
                 l1_tab=source.get("l1_tab", "韩娱"),
                 title=title,
                 url=url,
-                content=json.dumps({"platform": "TBA", "air_date": "2026年待定"}, ensure_ascii=False),
+                content=json.dumps({"platform": "", "air_date": "2026年待定"}, ensure_ascii=False),
                 published_at="0000asianwiki",
                 published_ts=pub_ts,
                 category="韩剧",

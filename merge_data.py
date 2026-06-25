@@ -74,6 +74,29 @@ def normalize_title(t: str) -> str:
     return re.sub(r'\s+', '', t).lower()
 
 
+def is_concrete_date(d: str) -> bool:
+    """
+    日期是否具体到「月+日」（非 TBA/待定/纯年份/空）。
+    - 接受: "1月22日", "6月11日", "June 22" 等
+    - 拒绝: "TBA", "2026", "2026年待定", "待定", "", "6月"（无日）
+    """
+    if not d or not str(d).strip():
+        return False
+    s = str(d).strip()
+    # 拒绝 TBA / 待定 / 纯年份 / 未知
+    if re.search(r'TBA|待定|📌|unknown|undecided', s, re.IGNORECASE):
+        return False
+    # 拒绝纯 "2026" 或 "2026年"（无具体月日）
+    if re.fullmatch(r'2026\s*(年\s*)?', s):
+        return False
+    # 必须包含 X月Y日 或 Month Day 模式
+    if re.search(r'\d{1,2}月\s*\d{1,2}日', s):
+        return True
+    if re.search(r'[A-Z][a-z]+\s+\d+', s):
+        return True
+    return False
+
+
 def merge(spider_data: list[dict], manual_data: list[dict]) -> list[dict]:
     """
     合并爬虫数据与手动底库。
@@ -105,13 +128,14 @@ def merge(spider_data: list[dict], manual_data: list[dict]) -> list[dict]:
         spider = spider_index.get(key)
 
         if manual and spider:
-            # 两边都有：日期优先爬虫（如果爬虫有具体日期）
+            # 两边都有：爬虫日期必须通过「具体日期」验证才允许覆盖手动
             spider_date = spider.get("date", "")
-            is_tbd = "待定" in str(spider_date) or "📌" in str(spider_date)
-            if not is_tbd and spider_date:
-                final_date = spider_date  # 爬虫抓到了定档日期！
+            if is_concrete_date(spider_date):
+                # 爬虫抓到了真正的定档日期（如 "6月11日"），覆盖手动
+                final_date = spider_date
             else:
-                final_date = manual["date"]  # 爬虫也是待定，用手动的
+                # 爬虫日期无效（TBA/待定/空/仅年份）→ 保留手动底库
+                final_date = manual["date"]
 
             entry = {
                 "title": manual["title"],
@@ -122,12 +146,18 @@ def merge(spider_data: list[dict], manual_data: list[dict]) -> list[dict]:
         elif manual:
             entry = dict(manual)  # 仅手动有
         else:
-            # 仅爬虫有（手动底库缺失的剧）
+            # 仅爬虫有（手动底库缺失的剧）：必须验证平台和日期质量
+            spider_date_raw = spider.get("date", "")
+            spider_platform = spider.get("platform", "")
+            # 日期无效 → 标记为待定
+            date_final = spider_date_raw if is_concrete_date(spider_date_raw) else "📌 待定"
+            # 平台无效 → 标记为 TBA（避免空值污染显示）
+            platform_final = spider_platform if spider_platform and str(spider_platform).strip().upper() != "TBA" else "TBA"
             entry = {
                 "title": spider.get("title", ""),
                 "url": spider.get("url", ""),
-                "platform": spider.get("platform", "TBA"),
-                "date": spider.get("date", "📌 待定"),
+                "platform": platform_final,
+                "date": date_final,
             }
 
         merged.append(entry)
