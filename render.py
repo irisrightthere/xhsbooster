@@ -434,6 +434,12 @@ class SSGRenderer:
 
     # ── AsianWiki 专属渲染 ──────────────────────────
 
+    @staticmethod
+    def _norm_title(t: str) -> str:
+        """标题归一化（与 merge_data.py 一致）。"""
+        import re as _re
+        return _re.sub(r'\s+', '', t).lower()
+
     def _load_prod_aw_as_dramas(self, prod_path) -> list[dict]:
         """从 prod_aw.json 加载合并数据，转为 drama 卡片格式。"""
         import json as _json
@@ -486,37 +492,61 @@ class SSGRenderer:
         return dramas
 
     def _render_asianwiki_panel(self, articles: list[dict]) -> str:
-        """渲染 AsianWiki 面板：三层筛选 + 按月分组 + 戏剧卡片。"""
+        """渲染 AsianWiki 面板：以 prod_aw.json（合并数据）为主，articles 仅增强 cast/summary。"""
         import json as _json
 
-        # 解析 content JSON 字段
-        dramas = []
-        for art in articles:
-            content_raw = art.get("content", "{}")
-            try:
-                extra = _json.loads(content_raw)
-            except Exception:
-                extra = {}
-            # 判断是否为有效 JSON content（含结构化字段）
-            has_valid_content = isinstance(extra, dict) and extra.get("air_date")
-            dramas.append({
-                **art,
-                "title_zh": extra.get("title_zh", "") or art.get("title_zh", ""),
-                "cast": extra.get("cast", "") or extra.get("cast_en", ""),
-                "summary_zh": extra.get("summary_zh", "") or extra.get("summary_en", ""),
-                "platform": extra.get("platform", "TBA") if has_valid_content else "TBA",
-                "air_date": extra.get("air_date", "") if has_valid_content else "2026年待定",
-                "published_ts": art.get("published_ts", 0) if has_valid_content else 0,
-            })
+        # ── 1. 尝试从 prod_aw.json 加载主数据源 ──
+        prod_path = self.output_dir / "_state" / "prod_aw.json"
+        dramas = self._load_prod_aw_as_dramas(prod_path) if prod_path.exists() else []
 
-        # ── 兜底：articles 无有效 AW 数据 → 读取 prod_aw.json ──
-        valid_dramas = [d for d in dramas if d.get("air_date") != "2026年待定" or d.get("platform") not in ("TBA", "")]
-        if not valid_dramas:
-            prod_path = self.output_dir / "_state" / "prod_aw.json"
-            if prod_path.exists():
-                dramas = self._load_prod_aw_as_dramas(prod_path)
-                if dramas:
-                    logger.info(f"🛡️ AW 面板兜底: 从 prod_aw.json 加载 {len(dramas)} 部")
+        if dramas:
+            # ── 2. 用 articles 中的 cast/summary 增强 prod_aw 条目 ──
+            # 建立 articles 索引（按 title 归一化）
+            article_index: dict[str, dict] = {}
+            for art in articles:
+                content_raw = art.get("content", "{}")
+                try:
+                    extra = _json.loads(content_raw)
+                except Exception:
+                    extra = {}
+                if isinstance(extra, dict) and extra.get("air_date"):
+                    key = self._norm_title(art.get("title", ""))
+                    article_index[key] = {
+                        "cast": extra.get("cast", "") or extra.get("cast_en", ""),
+                        "summary_zh": extra.get("summary_zh", "") or extra.get("summary_en", ""),
+                        "title_zh": extra.get("title_zh", "") or art.get("title_zh", ""),
+                    }
+
+            for d in dramas:
+                key = self._norm_title(d.get("title", ""))
+                enrich = article_index.get(key, {})
+                if enrich.get("cast"):
+                    d["cast"] = enrich["cast"]
+                if enrich.get("summary_zh"):
+                    d["summary_zh"] = enrich["summary_zh"]
+                if enrich.get("title_zh"):
+                    d["title_zh"] = enrich["title_zh"]
+
+            logger.info(f"🛡️ AW 面板: 以 prod_aw.json 为主 ({len(dramas)} 部)，articles 增强")
+        else:
+            # ── 3. 兜底：prod_aw.json 不存在 → 从 articles 解析 ──
+            for art in articles:
+                content_raw = art.get("content", "{}")
+                try:
+                    extra = _json.loads(content_raw)
+                except Exception:
+                    extra = {}
+                has_valid_content = isinstance(extra, dict) and extra.get("air_date")
+                dramas.append({
+                    **art,
+                    "title_zh": extra.get("title_zh", "") or art.get("title_zh", ""),
+                    "cast": extra.get("cast", "") or extra.get("cast_en", ""),
+                    "summary_zh": extra.get("summary_zh", "") or extra.get("summary_en", ""),
+                    "platform": extra.get("platform", "TBA") if has_valid_content else "TBA",
+                    "air_date": extra.get("air_date", "") if has_valid_content else "2026年待定",
+                    "published_ts": art.get("published_ts", 0) if has_valid_content else 0,
+                })
+            logger.info(f"⚠️ AW 面板: prod_aw.json 缺失，从 articles 解析 ({len(dramas)} 部)")
 
         # 平台列表
         platforms = sorted(set(d.get("platform", "TBA") for d in dramas if d.get("platform")))
