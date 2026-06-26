@@ -1,5 +1,127 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "HITGS – Little By Little - thebiaslist.com",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1aMFFXUU1od0dYaXhEUDhHU0c4bmhlYUhWcDZGZkxuS1EydzlpZFkwUWRyS3dTWFp1RjRKMnZmYnh5SWJwYkZKVURCR3NqZ1l4NTNVcUdnekw1VkFCb2QtMDRhbFZPZWlXUnRqZXhOcExDVkF3M2FtWkZR?oc=5",
+    "content": "HITGS – Little By Little thebiaslist.com",
+    "published_at": "0626google-kpop",
+    "published_ts": 1782482977.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "HITGS新单曲《Little By Little》发布",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "HITGS发布新单曲《Little By Little》",
+      "来源：thebiaslist.com"
+    ],
+    "summary_zh": "HITGS发布了新单曲《Little By Little》，相关资讯来自thebiaslist.com。",
+    "extracted_at": "2026-06-26T22:15:29.090442+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Chase Infiniti Stars in ATEEZ's \"BAD\" Music Video After Years as a Fan of the Popular K-Pop Group - Complex",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNC03REd2UmZERW4tYXktLXZDYWtEa0pYSTgxMzZkV1dyNFZZQklmZFNBeHVaeTlYUEhnc09tUE5CbUptQTdiX3l5SkdnUEE5QlB3aVNaeVlSTjRmb2hiTVhaWnlmbjhPSkFZZ1M3Z0NjS190endJWkJzN1c2THU0SGwtY0kwczdGUzZJTllYQTFDSXF5?oc=5",
+    "content": "Chase Infiniti Stars in ATEEZ's \"BAD\" Music Video After Years as a Fan of the Popular K-Pop Group Complex",
+    "published_at": "0626google-kpop",
+    "published_ts": 1782477934.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Chase Infiniti出演ATEEZ新曲《BAD》MV，多年粉丝终圆梦",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Chase Infiniti出演ATEEZ新曲《BAD》MV",
+      "Chase Infiniti是ATEEZ的多年粉丝"
+    ],
+    "summary_zh": "Chase Infiniti在ATEEZ的新曲《BAD》MV中亮相，她作为该K-pop组合的多年粉丝，此次合作实现了她的梦想。",
+    "extracted_at": "2026-06-26T22:15:31.453213+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "RIIZE Takes 2nd Win For “Do your dance” On “Music Bank”",
+    "url": "https://www.soompi.com/article/1850634wpp/riize-takes-2nd-win-for-do-your-dance-on-music-bank",
+    "content": "RIIZE has won their second music show trophy for “Do your dance”! KBS 2TV’s “Music Bank” did not air a new episode on June 26, but the music show still announced this week’s winner on its official website. RIIZE took the win with a total of 15,059 points on the Music Bank K-Chart from June 15&#8230; Continue reading RIIZE Takes 2nd Win For &#8220;Do your dance&#8221; On &#8220;Music Bank&#8221;\nThe post RIIZE Takes 2nd Win For &#8220;Do your dance&#8221; On &#8220;Music Bank&#8221; appeared first on Soompi.",
+    "published_at": "0626soompi",
+    "published_ts": 1782475434.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "RIIZE《Do your dance》获《音乐银行》第二冠",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "RIIZE凭借《Do your dance》在KBS 2TV《音乐银行》获得第二座音乐节目奖杯",
+      "6月26日《音乐银行》未播出新一期，但通过官网公布本周冠军",
+      "RIIZE在6月15日《音乐银行》K-Chart中以总计15059分夺冠"
+    ],
+    "summary_zh": "RIIZE凭借歌曲《Do your dance》在KBS 2TV《音乐银行》获得第二座音乐节目冠军奖杯。6月26日节目虽未播出新一期，但官网公布了本周冠军，RIIZE以15059分在K-Chart中胜出。",
+    "extracted_at": "2026-06-26T22:15:34.154876+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "‘KPop Demon Hunters’ Is About To Make Netflix History Yet Again - Collider",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1aWVJKSGJCSzNpZ0RDbXlrXy1DU2FzVEFxc0VQWTFkbG11RTR0Q20wejhDUDBrNUZqa2ZGLUxTTUdBVEdIaFdmbkpTSklTTUhYdVlSU0VseWJvVmgxTnFHZ1hoUGZ4aWZnUno1ZU0zNVVpVlJPNHVPclpVOXI?oc=5",
+    "content": "‘KPop Demon Hunters’ Is About To Make Netflix History Yet Again Collider",
+    "published_at": "0626google-kpop",
+    "published_ts": 1782475213.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《KPop Demon Hunters》将再创Netflix历史新纪录",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "《KPop Demon Hunters》即将在Netflix上创造新的历史纪录",
+      "该信息来源于Collider的报道"
+    ],
+    "summary_zh": "据Collider报道，Netflix原创韩剧《KPop Demon Hunters》即将再次创造平台历史新纪录。该剧此前已取得显著成绩，此次新纪录的具体内容尚未详细披露，但预计将涉及观看时长、订阅用户增长等关键指标。",
+    "extracted_at": "2026-06-26T22:15:36.737594+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: CLOSE YOUR EYES, AHOF, idntt, And FLARE U Hunt For Hidden Imposters In Chaotic “IDOL SCHOOL CAMP” Teaser",
+    "url": "https://www.soompi.com/article/1850631wpp/watch-close-your-eyes-ahof-idntt-and-flare-u-hunt-for-hidden-imposters-in-chaotic-idol-school-camp-teaser",
+    "content": "The upcoming variety show “IDOL SCHOOL CAMP” has unveiled its main teaser! Bringing together 24 idols from four rookie boy groups—CLOSE YOUR EYES, AHOF, idntt, and FLARE U—“IDOL SCHOOL CAMP” follows the stars as they bond through a fun-filled camp. The newly released teaser kicks off with MCs Boom and Jonathan revealing that hidden among&#8230; Continue reading Watch: CLOSE YOUR EYES, AHOF, idntt, And FLARE U Hunt For Hidden Imposters In Chaotic “IDOL SCHOOL CAMP” Teaser\nThe post Watch: CLOSE YOUR EYES, AHOF, idntt, And FLARE U Hunt For Hidden Imposters In Chaotic “IDOL SCHOOL CAMP” Teaser appeared first on Soompi.",
+    "published_at": "0626soompi",
+    "published_ts": 1782473136.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "CLOSE YOUR EYES、AHOF、idntt、FLARE U 出演《IDOL SCHOOL CAMP》预告片公开",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "综艺节目《IDOL SCHOOL CAMP》发布主预告片",
+      "节目由CLOSE YOUR EYES、AHOF、idntt、FLARE U四个新人男团共24名偶像参与",
+      "MC为Boom和Jonathan，预告片中他们透露有隐藏的冒名顶替者"
+    ],
+    "summary_zh": "综艺节目《IDOL SCHOOL CAMP》公开主预告片，CLOSE YOUR EYES、AHOF、idntt、FLARE U四个新人男团共24名偶像参与，在营地中通过游戏建立友谊。预告片中MC Boom和Jonathan透露有隐藏的冒名顶替者，引发混乱追逐。",
+    "extracted_at": "2026-06-26T22:15:39.979257+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -12,41 +134,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "金明洙与姜敏儿新剧《Love in Sync》三大看点公开",
+    "title_zh": "金明洙与姜敏儿新剧《爱在同步》开播在即，三大看点抢先公开",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "新剧《Love in Sync》是一部浪漫喜剧，由金明洙和姜敏儿主演",
-      "金明洙饰演心理学家车恩焕，姜敏儿饰演顶级明星刘智安",
-      "剧情围绕缺乏共情的顶级明星与共情过度的心理学家展开"
+      "新剧《爱在同步》是一部浪漫喜剧，由金明洙饰演共情过度的知名心理医生车恩焕，姜敏儿饰演拒绝共情的顶级明星刘智安。",
+      "该剧即将首播，官方公开了三大看点。"
     ],
-    "summary_zh": "即将播出的韩剧《Love in Sync》公开了三大看点。该剧是一部浪漫喜剧，由金明洙饰演心理学家车恩焕，姜敏儿饰演拒绝共情的顶级明星刘智安，讲述两人之间的爱情故事。",
-    "extracted_at": "2026-06-26T18:47:51.901495+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Mattel Launches New KPop Demon Hunters Toys: What They Look Like, Prices, and Where You Can Buy Them - Revista Merca2.0",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaWg2MExRR0hwS0tYNm5BaEdlcDA5UE5nSXNoQ241SzFRRC1sSXZoN0sxTS1MblhycGJXWHlHZUhHbjhJSmVkOHV4bng4cUkweWZjVWhmMldnN1FMcHVsQ2RKbDM0YjlvLVVkVWVoc2pXRWE5cUZaZW9hdTYtVWFyOXRZLW9GRGZzbnRwU01Gb0gtaFlobmtxN2t4LWVZVUVHczFqUlZlX1NNZV81azRfbFUwWmRnTmFSa2dibVZCWQ?oc=5",
-    "content": "Mattel Launches New KPop Demon Hunters Toys: What They Look Like, Prices, and Where You Can Buy Them Revista Merca2.0",
-    "published_at": "0626google-kpop",
-    "published_ts": 1782466216.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "美泰推出新KPop恶魔猎人玩具：外观、价格及购买渠道",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "美泰公司推出KPop恶魔猎人系列玩具",
-      "玩具外观、价格及购买渠道在报道中说明"
-    ],
-    "summary_zh": "美泰公司推出新KPop恶魔猎人系列玩具，报道介绍了玩具的外观、价格及购买渠道。",
-    "extracted_at": "2026-06-26T18:47:53.990336+08:00"
+    "summary_zh": "金明洙与姜敏儿主演的新剧《爱在同步》即将首播，官方公开了三大看点。该剧是一部浪漫喜剧，讲述共情过度的心理医生车恩焕（金明洙饰）与拒绝共情的顶级明星刘智安（姜敏儿饰）之间的故事。",
+    "extracted_at": "2026-06-26T22:15:43.054279+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -66,11 +163,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "韩国队在与南非的比赛中失利，引发粉丝强烈反应",
-      "多位K-pop明星和演员在社交媒体上表达了对比赛结果的不满"
+      "韩国队输给南非队后，粉丝表达不满",
+      "K-pop明星和演员加入粉丝的批评行列"
     ],
-    "summary_zh": "韩国队在与南非的比赛中意外失利，引发粉丝强烈不满。多位K-pop明星和演员在社交媒体上加入批评行列，表达对比赛结果的失望。",
-    "extracted_at": "2026-06-26T18:47:56.297682+08:00"
+    "summary_zh": "据《韩国先驱报》报道，韩国队意外输给南非队后，引发粉丝强烈不满。多位K-pop明星和演员也加入批评行列，表达对比赛结果的失望。",
+    "extracted_at": "2026-06-26T22:15:45.424238+08:00"
   },
   {
     "source_id": "soompi",
@@ -90,12 +187,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "6月26日下午4点28分（KST），ENHYPEN的《Bite Me》MV在YouTube上突破2亿播放量",
-      "这是ENHYPEN首支达到2亿播放量的MV",
-      "《Bite Me》于2023年5月22日下午6点（KST）发布"
+      "6月26日下午4点28分（KST），ENHYPEN《Bite Me》MV在YouTube播放量突破2亿次",
+      "该MV于2023年5月22日下午6点（KST）发布",
+      "这是ENHYPEN首支播放量突破2亿的MV"
     ],
-    "summary_zh": "ENHYPEN的《Bite Me》MV于6月26日下午4点28分（KST）在YouTube上突破2亿播放量，成为组合首支达成此里程碑的MV。该曲于2023年5月22日发布。",
-    "extracted_at": "2026-06-26T18:47:58.777711+08:00"
+    "summary_zh": "ENHYPEN的《Bite Me》MV于6月26日下午4点28分（KST）在YouTube上突破2亿播放量，成为组合首支达成此里程碑的MV。该MV最初于2023年5月22日下午6点（KST）发布。",
+    "extracted_at": "2026-06-26T22:15:48.105876+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -115,11 +212,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "崔岷植主演韩剧《最后排的笔记》被《南华早报》评论为肥皂学术惊悚片",
-      "该剧由崔岷植领衔主演"
+      "崔岷植主演的韩剧《最后排的笔记》被《南华早报》评论为肥皂学术惊悚片",
+      "该剧由崔岷植领衔主演，剧情涉及学术背景的惊悚元素"
     ],
-    "summary_zh": "《南华早报》评论崔岷植主演的韩剧《最后排的笔记》为一部肥皂学术惊悚片，称崔岷植的表演提升了该剧的质感。",
-    "extracted_at": "2026-06-26T18:48:00.812429+08:00"
+    "summary_zh": "《南华早报》评论崔岷植主演的韩剧《最后排的笔记》为一部肥皂学术惊悚片，认为崔岷植的表演提升了该剧的观赏性。",
+    "extracted_at": "2026-06-26T22:15:50.618421+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -141,8 +238,8 @@
     "facts_list": [
       "2026年6月26日，Bleeding Cool News在《每日LITG》栏目中报道了KPop恶魔猎人玩偶相关资讯"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：2026年6月26日Bleeding Cool News的《每日LITG》栏目报道了KPop恶魔猎人玩偶。]",
-    "extracted_at": "2026-06-26T18:48:02.900767+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：2026年6月26日，Bleeding Cool News在《每日LITG》栏目中报道了KPop恶魔猎人玩偶相关资讯]",
+    "extracted_at": "2026-06-26T22:15:52.703421+08:00"
   },
   {
     "source_id": "soompi",
@@ -157,17 +254,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "朴由娜饰演Hani冷静不妥协的妹妹，《爱情菜单》首曝剧照",
+    "title_zh": "朴由娜饰演Hani冷静理智的妹妹，新剧《爱的菜单》首曝剧照",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "《爱情菜单》公开朴由娜角色剧照",
-      "朴由娜饰演Hani的妹妹，性格冷静、不轻易妥协",
-      "该剧讲述八年前痛苦分手的情侣重逢后重建家庭的故事"
+      "《爱的菜单》公开朴由娜角色剧照",
+      "朴由娜饰演Hani（安喜延）的妹妹，性格冷静理智、不轻易妥协",
+      "该剧讲述分手八年的恋人重逢后重建破碎家庭的家庭浪漫剧"
     ],
-    "summary_zh": "韩剧《爱情菜单》公开朴由娜的首批剧照，她饰演Hani（安喜延）的妹妹，一个冷静且不轻易妥协的角色。该剧是一部家庭浪漫剧，讲述一对情侣在痛苦分手八年后重逢，并拼凑破碎家庭、创造温暖餐桌的故事。",
-    "extracted_at": "2026-06-26T18:48:06.012221+08:00"
+    "summary_zh": "韩剧《爱的菜单》公开朴由娜的首批角色剧照。朴由娜在剧中饰演Hani（安喜延）的妹妹，是一个冷静理智、从不妥协的角色。该剧是一部家庭浪漫剧，讲述一对恋人痛苦分手八年后重逢，并拼凑破碎家庭碎片、创造最温暖餐桌的故事。",
+    "extracted_at": "2026-06-26T22:15:56.448663+08:00"
   },
   {
     "source_id": "soompi",
@@ -187,12 +284,13 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "2026年6月26日，FIFTY FIFTY亚洲粉丝演唱会“Still Lobubble”主办方宣布调整日程，作为“新重组亚洲巡演路线”的一部分",
-      "修订后的日程中，巡演将从首尔开始",
-      "印尼站取消，马来西亚站延期"
+      "2026年6月26日，FIFTY FIFTY亚洲粉丝演唱会“Still Lobubble”主办方宣布调整日程",
+      "调整后巡演将从首尔开始",
+      "印度尼西亚站取消",
+      "马来西亚站延期"
     ],
-    "summary_zh": "FIFTY FIFTY于6月26日宣布其亚洲粉丝演唱会“Still Lobubble”日程调整，作为“新重组亚洲巡演路线”的一部分。修订后巡演将从首尔开始，印尼站取消，马来西亚站延期。",
-    "extracted_at": "2026-06-26T18:48:08.700176+08:00"
+    "summary_zh": "FIFTY FIFTY于6月26日宣布其2026年亚洲粉丝演唱会“Still Lobubble”日程调整，作为“新重组亚洲巡演路线”的一部分。调整后巡演将从首尔开始，印度尼西亚站取消，马来西亚站延期。",
+    "extracted_at": "2026-06-26T22:15:59.034870+08:00"
   },
   {
     "source_id": "soompi",
@@ -214,10 +312,10 @@
     "facts_list": [
       "6月26日，PLEDIS娱乐宣布Youngjae在演唱会排练中左大腿肌肉受伤",
       "医生建议尽量减少可能牵拉受伤部位的动作",
-      "应本人要求，Youngjae将继续参与演出，但部分表演将进行调整"
+      "应本人要求，Youngjae将参与演出但调整部分表演动作"
     ],
-    "summary_zh": "TWS成员Youngjae因左大腿肌肉受伤，将调整部分表演动作。PLEDIS娱乐于6月26日发布公告，称Youngjae在演唱会排练中受伤，虽被建议减少牵拉伤处的动作，但本人要求继续参与演出，因此将修改部分表演内容。",
-    "extracted_at": "2026-06-26T18:48:11.635287+08:00"
+    "summary_zh": "TWS成员Youngjae因左大腿肌肉受伤，将调整部分表演动作。PLEDIS娱乐于6月26日发布公告，称Youngjae在演唱会排练中受伤，虽被建议减少牵拉动作，但本人要求继续参与演出，因此将修改部分编舞。",
+    "extracted_at": "2026-06-26T22:16:01.988697+08:00"
   },
   {
     "source_id": "soompi",
@@ -237,10 +335,10 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "6月26日，PLEDIS娱乐发布声明，更新针对散布虚假信息、发布诽谤恶意内容及侵犯SEVENTEEN成员隐私的法律诉讼进展。"
+      "6月26日，PLEDIS娱乐发布声明，更新针对散布虚假信息、发布诽谤恶意内容及侵犯SEVENTEEN成员隐私的法律诉讼进展"
     ],
-    "summary_zh": "SEVENTEEN的所属社PLEDIS娱乐于6月26日发布声明，更新了为保护组合权益而采取的法律行动进展。声明指出，公司正在对散布虚假信息、发布诽谤恶意内容以及侵犯正在服役的SEVENTEEN成员隐私的个人进行法律诉讼。",
-    "extracted_at": "2026-06-26T18:48:14.419829+08:00"
+    "summary_zh": "SEVENTEEN的所属社PLEDIS娱乐于6月26日发布声明，更新了为保护组合权益而采取的法律行动进展。声明指出，正在对散布虚假信息、发布诽谤恶意内容以及侵犯正在服役的SEVENTEEN成员隐私的个人进行法律诉讼。",
+    "extracted_at": "2026-06-26T22:16:04.714284+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -255,88 +353,40 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "ATEEZ新曲《Bad》乐评：强烈风格延续，编曲层次丰富",
+    "title_zh": "ATEEZ新曲《Bad》乐评：强烈节奏与暗黑氛围的回归",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "乐评网站thebiaslist.com发布ATEEZ歌曲《Bad》的乐评",
-      "乐评指出《Bad》延续了ATEEZ强烈的音乐风格，编曲层次丰富"
+      "乐评网站thebiaslist.com发布ATEEZ新曲《Bad》的乐评",
+      "乐评指出歌曲具有强烈节奏和暗黑氛围"
     ],
-    "summary_zh": "乐评网站thebiaslist.com对ATEEZ新曲《Bad》进行了评价，认为该曲延续了组合强烈的音乐风格，编曲层次丰富，展现了ATEEZ独特的音乐色彩。",
-    "extracted_at": "2026-06-26T18:48:16.813158+08:00"
+    "summary_zh": "乐评网站thebiaslist.com对ATEEZ新曲《Bad》进行评价，认为歌曲展现了强烈的节奏感和暗黑氛围，延续了组合一贯的表演风格。",
+    "extracted_at": "2026-06-26T22:16:06.843755+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "K-Pop Star Chaeyoung Of TWICE Shows How She Evolves As An Artist - ELLE Australia",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzUXNQTzhxbFBkOVhlNWtLMjYxZ0hPNGJCbTRhcUlKYmxUdnhsejZWSGdfTDlVOUdlckJRZ3lxWFhfMG1aYUItQW04blpYNUVaTEVWYmNfRWtJeHZw?oc=5",
-    "content": "K-Pop Star Chaeyoung Of TWICE Shows How She Evolves As An Artist ELLE Australia",
-    "published_at": "0626google-kpop",
-    "published_ts": 1782447899.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "TWICE彩瑛谈艺术家成长历程：ELLE澳洲专访",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "TWICE成员彩瑛接受ELLE Australia专访",
-      "彩瑛在采访中分享作为艺术家的成长经历"
-    ],
-    "summary_zh": "TWICE成员彩瑛近日接受ELLE Australia专访，分享了她作为艺术家的成长历程。采访中，彩瑛谈及个人音乐风格演变、创作灵感来源以及团队活动中的感悟，展现了她从偶像到成熟艺人的蜕变过程。",
-    "extracted_at": "2026-06-26T18:48:19.255035+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Korean Emerges as America’s Third-Most Streamed Music Language as K-Pop Expands Reach - Koreabizwire",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeWNMMHhOTjluTzMtWHdmWU02cFVMbW9wemF1aW5PYlF5LTBPZ1k3UmktTlhnUzVyNjYxbFVyS1V6Qy1la0xUSTBJWjZHblV0NEUxSnFaU3dQUHNjaWZONmhIdTRLbUwzM1JGM2lENXRucmY2R1Z2NnRQZWppT2VwYVJiVnc5MGFCaFJoYUV1eG00TFh4QmFhVTlIWjBnZlo2OGNLZ0hKUGg2RzQ4UDRvd0hCWjFtUQ?oc=5",
-    "content": "Korean Emerges as America’s Third-Most Streamed Music Language as K-Pop Expands Reach Koreabizwire",
-    "published_at": "0626google-kpop",
-    "published_ts": 1782447813.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "K-Pop扩张影响力，韩语成美国第三大流媒体音乐语言",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "韩语成为美国第三大流媒体音乐语言，仅次于英语和西班牙语",
-      "K-Pop在全球范围内持续扩大影响力"
-    ],
-    "summary_zh": "据Koreabizwire报道，随着K-Pop在全球的持续扩张，韩语已成为美国第三大流媒体音乐语言，仅次于英语和西班牙语。这一数据反映了K-Pop在美国市场的显著增长和影响力提升。",
-    "extracted_at": "2026-06-26T18:48:21.826546+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Seventeen's Jeonghan is back in K-pop life after years on hiatus — with a new take on working 9-to-6 - Business Insider",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaWFxYnE5blJmd1E2S2RxdkMzcnRJdEExaFpKT09ZZVhuMGFRWVNkUEdRakpqcUdXaW5sRHFnQnN6bXpXUFRZQm53Q3pUTTByMzh1cGRXOXRuNFd1UmV1SnVJX2N2bWdGeldTWW0yOXB5cTFlNHFGZUtUQkluMV9ZdXlJY2NUR2pSNDAtd0M5S1kweEh1?oc=5",
-    "content": "Seventeen's Jeonghan is back in K-pop life after years on hiatus — with a new take on working 9-to-6 Business Insider",
+    "title": "Seventeen's Jeonghan is back in K-pop life after years on hiatus — with a new take on working 9-to-6 - Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdG91SEFJckd5emY2cEk5XzRJX2NNdkRIcmc3LW16RGw2eU1WYUgzbWxsaW9aMmpiMFF5TWphMmNQMTJfOC1tZ3lYNEkxYTJCclNYWVc2cUduWWV4d1kxMkFMMmY4enJDMDJMQXZPT05vQVRXelowWFl4dlA1Vm1wNEx6ejNZdVA1bkRjLTdGLXNGQ1o1ZjhHT3hhRGc?oc=5",
+    "content": "Seventeen's Jeonghan is back in K-pop life after years on hiatus — with a new take on working 9-to-6 Yahoo",
     "published_at": "0626google-kpop",
     "published_ts": 1782446640.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "SEVENTEEN成员Jeonghan结束多年空白期回归，分享对朝九晚六工作的新看法",
+    "title_zh": "SEVENTEEN成员Jeonghan时隔多年回归K-pop，分享对朝九晚六工作的新看法",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "SEVENTEEN成员Jeonghan在多年空白期后回归K-pop活动",
-      "Jeonghan在采访中分享了对朝九晚六工作的新看法"
+      "SEVENTEEN成员Jeonghan在多年休整后回归K-pop活动",
+      "Jeonghan对朝九晚六的工作模式表达了新的看法"
     ],
-    "summary_zh": "SEVENTEEN成员Jeonghan在经历多年空白期后重返K-pop活动，并在Business Insider的采访中表达了对传统朝九晚六工作模式的新见解。",
-    "extracted_at": "2026-06-26T18:48:24.183354+08:00"
+    "summary_zh": "SEVENTEEN成员Jeonghan在多年休整后重返K-pop活动，并分享了他对朝九晚六工作模式的新看法。",
+    "extracted_at": "2026-06-26T22:16:09.346336+08:00"
   },
   {
     "source_id": "soompi",
@@ -356,12 +406,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "《孤单又灿烂的神：鬼怪》十周年特辑（暂定名）发布新预告",
+      "《孤单又灿烂的神：鬼怪》十周年特辑（暂定名）公开新预告",
       "该特辑为庆祝该剧播出十周年而制作",
       "主演孔刘等将参与，回顾美好回忆"
     ],
-    "summary_zh": "《孤单又灿烂的神：鬼怪》十周年特辑公开新预告，该特辑为庆祝这部全球热门剧集播出十周年而制作，主演孔刘等将重聚，分享拍摄时的美好回忆。",
-    "extracted_at": "2026-06-26T18:48:27.046706+08:00"
+    "summary_zh": "《孤单又灿烂的神：鬼怪》十周年特辑公开新预告，该特辑为庆祝这部全球热门剧集播出十周年而制作，主演孔刘等将参与，共同回顾美好回忆。",
+    "extracted_at": "2026-06-26T22:16:12.134935+08:00"
   },
   {
     "source_id": "soompi",
@@ -381,13 +431,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "梁世宗分享了对即将播出的tvN新剧《鬼怪恋爱》的看法",
-      "该剧翻拍自2011年电影《Spellbound》，是一部灵异浪漫剧",
-      "剧情讲述能看见鬼魂的酒店继承人与害怕鬼魂的热血检察官之间的混乱合作",
-      "朴恩斌饰演酒店继承人，梁世宗饰演检察官"
+      "梁世宗分享了对tvN新剧《鬼怪恋爱》的看法",
+      "该剧翻拍自2011年电影《Spellbound》，讲述能看见鬼的酒店继承人与害怕鬼的检察官之间的混乱合作",
+      "朴恩斌主演该剧"
     ],
-    "summary_zh": "梁世宗谈及主演的tvN新剧《鬼怪恋爱》，该剧翻拍自2011年电影《Spellbound》，是一部灵异浪漫剧。剧情围绕能看见鬼魂的酒店继承人（朴恩斌饰）与害怕鬼魂的检察官（梁世宗饰）因超自然现象而结缘的混乱合作展开。",
-    "extracted_at": "2026-06-26T18:48:30.396704+08:00"
+    "summary_zh": "梁世宗谈及主演的tvN新剧《鬼怪恋爱》，该剧翻拍自2011年电影《Spellbound》，是一部灵异浪漫剧，讲述能看见鬼的酒店继承人（朴恩斌饰）与害怕鬼的检察官（梁世宗饰）因超自然现象而结缘的故事。",
+    "extracted_at": "2026-06-26T22:16:15.196117+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -402,16 +451,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Prime Day促销：购买KPop Demon Hunters Squishmallow可享第二件半价",
+    "title_zh": "Prime Day促销：买一个KPop Demon Hunters Squishmallow，第二个半价",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "Prime Day期间，购买KPop Demon Hunters Squishmallow可享第二件半价优惠",
-      "该促销信息由IGN报道"
+      "Prime Day期间，购买一个KPop Demon Hunters Squishmallow可享第二个半价优惠",
+      "该促销信息由IGN发布"
     ],
-    "summary_zh": "据IGN报道，在Prime Day期间，购买KPop Demon Hunters Squishmallow可享受第二件半价的优惠活动。",
-    "extracted_at": "2026-06-26T18:48:32.562040+08:00"
+    "summary_zh": "IGN报道，在Prime Day期间，购买一个KPop Demon Hunters Squishmallow可享受第二个半价优惠。",
+    "extracted_at": "2026-06-26T22:16:17.225100+08:00"
   },
   {
     "source_id": "soompi",
@@ -426,16 +475,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "ILLIT音乐视频猜图挑战：你能仅凭一张截图猜出MV吗？",
+    "title_zh": "ILLIT MV猜谜：你能仅凭一张截图猜出是哪首歌吗？",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "Soompi发布了一篇关于ILLIT的互动测验文章",
-      "测验内容为仅凭一张截图猜出ILLIT的音乐视频"
+      "Soompi发布了一篇关于ILLIT音乐视频的猜谜文章",
+      "文章要求读者仅凭一张截图猜出对应的MV"
     ],
-    "summary_zh": "Soompi发布了一篇互动测验文章，邀请读者仅凭一张截图猜出ILLIT的音乐视频。文章提到ILLIT以活泼的编舞、甜美的视觉和有趣的音乐作品迅速走红，但未提供具体截图或测验结果。",
-    "extracted_at": "2026-06-26T18:48:35.265824+08:00"
+    "summary_zh": "Soompi发布了一篇关于ILLIT的猜谜文章，测试读者能否仅凭一张截图猜出对应的音乐视频。文章提到ILLIT以活泼的编舞、甜美的视觉和有趣的音乐作品迅速走红，但未提供具体截图或答案。",
+    "extracted_at": "2026-06-26T22:16:20.179636+08:00"
   },
   {
     "source_id": "soompi",
@@ -450,7 +499,7 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《五十岁专业人士》终映在即，申河均、许成泰等为跨越10年的故事画上句号",
+    "title_zh": "《五十岁专业人士》终映在即，申河均、许成泰等主演十年故事迎来大结局",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
@@ -459,8 +508,8 @@
       "该剧是一部动作喜剧，讲述三位看似普通但实则危险的中年男子被命运重新召集的故事",
       "三位主角曾各自领域顶尖，后被流放到偏远岛屿"
     ],
-    "summary_zh": "MBC剧集《五十岁专业人士》在最后一周前公开了新剧照。该剧是一部动作喜剧，讲述三位看似普通但实则危险的中年男子被命运重新召集的故事。三位主角曾各自领域顶尖，后被流放到偏远岛屿。申河均、许成泰等演员将为这部跨越10年的故事画上句号。",
-    "extracted_at": "2026-06-26T18:48:38.258328+08:00"
+    "summary_zh": "MBC剧集《五十岁专业人士》在最后一周前公开了新剧照。该剧是一部动作喜剧，讲述三位看似普通但实则危险的中年男子被命运重新召集的故事。三位主角曾各自领域顶尖，后被流放到偏远岛屿。申河均、许成泰等主演将为本剧跨度十年的故事画上句号。",
+    "extracted_at": "2026-06-26T22:16:23.405323+08:00"
   },
   {
     "source_id": "soompi",
@@ -484,7 +533,7 @@
       "ATEEZ将在节目中表演新主打曲《BAD》，该曲将于韩国时间6月26日下午1点发行"
     ],
     "summary_zh": "ATEEZ将重返美国知名脱口秀《凯莉·克拉克森秀》，于7月1日播出的节目中表演新主打曲《BAD》。该曲将于韩国时间6月26日下午1点正式发行。",
-    "extracted_at": "2026-06-26T18:48:40.865116+08:00"
+    "extracted_at": "2026-06-26T22:16:25.700864+08:00"
   },
   {
     "source_id": "soompi",
@@ -504,11 +553,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "KBS 2TV新剧《丈夫》公开四位主演的角色海报",
-      "该剧为惊悚题材，南宫珉饰演一名濒临离婚的男子，为救被绑架的妻子与危险罪犯展开殊死搏斗"
+      "KBS 2TV新剧《丈夫》公开四位主演角色海报",
+      "该剧为惊悚题材，南宫珉饰演濒临离婚的丈夫，为救被绑架的妻子与危险罪犯展开殊死搏斗"
     ],
-    "summary_zh": "KBS 2TV新剧《丈夫》公开了四位主演的角色海报。该剧是一部惊悚剧，由南宫珉主演，饰演一名濒临离婚的男子，意外卷入一场为救被绑架妻子而与危险罪犯展开的殊死搏斗。",
-    "extracted_at": "2026-06-26T18:48:43.455221+08:00"
+    "summary_zh": "KBS 2TV新剧《丈夫》公开了四位主演的角色海报。该剧是一部惊悚剧，由南宫珉主演，饰演一名濒临离婚的男子，为救被绑架的妻子意外卷入与危险罪犯的殊死搏斗。",
+    "extracted_at": "2026-06-26T22:16:28.431553+08:00"
   },
   {
     "source_id": "soompi",
@@ -523,15 +572,15 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "初印象：《爱情有烟火》——一部关于自我发现与浪漫的有趣国产剧",
-    "source_type": "韩剧",
+    "title_zh": "初印象：《爱情有烟火》是一部关于自我发现与浪漫的有趣国产剧",
+    "source_type": "韩娱",
     "risk_level": "低",
-    "is_blurred": false,
+    "is_blurred": true,
     "facts_list": [
-      "现代国产剧《爱情有烟火》探讨年轻男女在爱情、友情或工作中可能面临的困难"
+      "原文未提及具体行为，仅称：现代国产剧《爱情有烟火》探讨年轻男女在爱情、友情或工作中可能面临的困难"
     ],
-    "summary_zh": "现代国产剧《爱情有烟火》是一部关于自我发现与浪漫的有趣剧集，探讨年轻男女在爱情、友情或工作中可能面临的困难。",
-    "extracted_at": "2026-06-26T18:48:45.553031+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：现代国产剧《爱情有烟火》探讨年轻男女在爱情、友情或工作中可能面临的困难]",
+    "extracted_at": "2026-06-26T22:16:30.755372+08:00"
   },
   {
     "source_id": "soompi",
@@ -546,17 +595,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "苏志燮《重启的Agent Kim》新预告：致命本能觉醒",
+    "title_zh": "苏志燮《金代理重启》新预告：致命本能觉醒",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "SBS发布新剧《Agent Kim Reactivated》新预告",
-      "该剧改编自人气网漫，由苏志燮饰演看似平凡的父亲金科长，实则拥有秘密过去",
-      "剧情为动作复仇题材，讲述金科长不惜一切拯救所爱之人"
+      "SBS公开了即将播出的电视剧《金代理重启》的新预告",
+      "该剧改编自热门网漫，是一部动作复仇剧",
+      "苏志燮饰演表面平凡的父亲金代理，为拯救所爱之人不惜一切"
     ],
-    "summary_zh": "SBS公开了即将播出的新剧《Agent Kim Reactivated》的刺激新预告。该剧改编自人气网漫，是一部动作复仇剧，讲述由苏志燮饰演的金科长——一个看似平凡的父亲，实则拥有秘密过去——为拯救所爱之人不惜一切的故事。",
-    "extracted_at": "2026-06-26T18:48:48.174705+08:00"
+    "summary_zh": "SBS公开了苏志燮主演的新剧《金代理重启》的刺激新预告。该剧改编自热门网漫，是一部动作复仇剧，讲述看似平凡的爸爸金代理（苏志燮饰）为拯救所爱之人而唤醒致命本能的故事。",
+    "extracted_at": "2026-06-26T22:16:33.705310+08:00"
   },
   {
     "source_id": "soompi",
@@ -571,7 +620,7 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "安英美顺利产下二胎男婴，母子平安",
+    "title_zh": "安英美诞下二胎，母子平安",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
@@ -579,8 +628,8 @@
       "6月25日，安英美在首尔某医院产下一名健康男婴",
       "所属社Media Lab Siso于6月26日发布消息，称母子均健康"
     ],
-    "summary_zh": "6月26日，安英美的经纪公司Media Lab Siso宣布，安英美于前一天（6月25日）在首尔某医院顺利产下一名健康男婴，母子均安。这是安英美的第二个孩子。",
-    "extracted_at": "2026-06-26T18:48:50.330716+08:00"
+    "summary_zh": "6月26日，安英美的所属社Media Lab Siso宣布，安英美于前一天（6月25日）在首尔某医院产下一名健康男婴，母子平安。这是安英美的第二个孩子。",
+    "extracted_at": "2026-06-26T22:16:36.249129+08:00"
   },
   {
     "source_id": "soompi",
@@ -597,14 +646,15 @@
     "is_new": true,
     "title_zh": "宋慧乔与UAA合约到期，结束14年合作",
     "source_type": "韩娱",
-    "risk_level": "低",
+    "risk_level": "中",
     "is_blurred": false,
     "facts_list": [
-      "宋慧乔与所属社UAA（United Artists Agency）的专属合约于近期到期",
-      "UAA于6月26日上午正式宣布双方决定结束合作"
+      "宋慧乔与所属社UAA（United Artists Agency）的专属合约近期到期",
+      "UAA于6月26日上午正式宣布双方决定结束合作",
+      "双方合作长达14年"
     ],
-    "summary_zh": "宋慧乔与长期合作的经纪公司UAA（United Artists Agency）在14年后分道扬镳。6月26日上午，UAA官方宣布，与宋慧乔的专属合约已于近期到期，双方在相互信任并长期合作后，决定结束合作关系。",
-    "extracted_at": "2026-06-26T18:48:52.438741+08:00"
+    "summary_zh": "6月26日上午，宋慧乔的长期经纪公司UAA（United Artists Agency）宣布，双方专属合约近期到期，经过信任与长期合作后，决定结束合作关系。宋慧乔与UAA的合作持续了14年。",
+    "extracted_at": "2026-06-26T22:16:38.656687+08:00"
   },
   {
     "source_id": "soompi",
@@ -619,17 +669,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "孔孝真新剧《杀人者的购物中心》首曝海报，饰演平凡母亲与危险杀手",
+    "title_zh": "孔孝真新剧《杀人者的购物中心》首张海报公开，饰演有危险秘密的职场妈妈",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "MBC新剧《杀人者的购物中心》公开首张海报",
-      "该剧为动作剧，讲述一位职场母亲为保护工作与生活平衡而战斗的故事",
-      "孔孝真饰演杜鲁米电子销售3组组长柳宝娜，表面平凡实则身怀致命秘密"
+      "该剧是一部动作剧，讲述一位拥有致命工作的职场妈妈为保护工作与生活平衡而战斗",
+      "孔孝真饰演Durumi电子销售3组组长柳宝娜，看似平凡但隐藏危险秘密"
     ],
-    "summary_zh": "MBC新剧《杀人者的购物中心》公开首张海报。该剧是一部动作剧，讲述一位拥有致命工作的职场母亲为保护工作与生活平衡而战斗的故事。孔孝真饰演杜鲁米电子销售3组组长柳宝娜，看似平凡的妈妈实则隐藏着危险秘密。",
-    "extracted_at": "2026-06-26T18:48:55.313580+08:00"
+    "summary_zh": "MBC新剧《杀人者的购物中心》公开首张海报。该剧是一部动作剧，讲述一位拥有致命工作的职场妈妈为保护工作与生活平衡而战斗。孔孝真饰演Durumi电子销售3组组长柳宝娜，看似平凡但隐藏危险秘密。",
+    "extracted_at": "2026-06-26T22:16:41.610931+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -650,34 +700,11 @@
     "is_blurred": false,
     "facts_list": [
       "HEART OF WOMAN发行首张正规专辑出道",
-      "专辑风格融合不同K-pop世代元素"
+      "专辑风格融合不同K-pop世代元素",
+      "报道来源为FOX 13 Seattle"
     ],
-    "summary_zh": "据FOX 13 Seattle报道，HEART OF WOMAN以正规专辑正式出道，其音乐风格融合了不同K-pop世代的元素。",
-    "extracted_at": "2026-06-26T18:48:57.119434+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Furby Returns with a New Look Inspired by Netflix's Hit Film KPop Demon Hunters - Yahoo",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeXVsbFlTZGRoWi1oelJKV0Y1YkVtcENlcjdHV1JHakZfRzlXajY2S3RLS0JfLVNHd3JMNG5wQnByeDlHLTlLb1FkVnllZEVoQzh1a1E3R1FWaXVQZEpuVXdmZFd1ZnVTVW8zRUE5TUczazlVNEJEX0x1TGc3ckpUVXdINWlwdnpSVzhKdzdJSGplRVVTYzdfRnV3cmREc1MzcF95alBn?oc=5",
-    "content": "Furby Returns with a New Look Inspired by Netflix's Hit Film KPop Demon Hunters Yahoo",
-    "published_at": "0626google-kpop",
-    "published_ts": 1782426180.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Furby推出Netflix热门电影《KPop Demon Hunters》主题新造型",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "Furby推出新造型，灵感来自Netflix电影《KPop Demon Hunters》",
-      "该电影为Netflix热门作品"
-    ],
-    "summary_zh": "Furby推出全新造型，设计灵感源自Netflix热门电影《KPop Demon Hunters》。该电影以K-pop为主题，Furby的新外观融合了电影元素，具体细节尚未公布。",
-    "extracted_at": "2026-06-26T18:48:59.259636+08:00"
+    "summary_zh": "据FOX 13 Seattle报道，HEART OF WOMAN携首张正规专辑正式出道，专辑风格融合了不同K-pop世代的元素。",
+    "extracted_at": "2026-06-26T22:16:43.735803+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -697,11 +724,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "K-pop歌手Samuel发行新EP《Samuelito》",
-      "该EP旨在致敬其拉丁血统"
+      "Samuel发行新EP《Samuelito》，致敬其拉丁血统",
+      "该报道由《洛杉矶时报》发布"
     ],
-    "summary_zh": "K-pop歌手Samuel发行新EP《Samuelito》，通过音乐作品致敬其拉丁血统。该EP展现了Samuel对自身文化根源的探索与表达。",
-    "extracted_at": "2026-06-26T18:49:01.339335+08:00"
+    "summary_zh": "K-pop歌手Samuel发行新EP《Samuelito》，以音乐风格致敬其拉丁血统。该报道由《洛杉矶时报》发布，聚焦Samuel如何通过新作品展现其多元文化背景。",
+    "extracted_at": "2026-06-26T22:16:45.992454+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -721,11 +748,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "沃尔玛推出K-Pop恶魔猎人菲比收藏系列",
-      "该系列为罕见限定版"
+      "沃尔玛发布了K-Pop恶魔猎人菲比收藏系列",
+      "该系列由USA Today报道"
     ],
-    "summary_zh": "据《今日美国》报道，沃尔玛推出了一款罕见的K-Pop恶魔猎人菲比收藏系列。该系列为限定版，具体细节未披露。",
-    "extracted_at": "2026-06-26T18:49:03.517066+08:00"
+    "summary_zh": "据USA Today报道，沃尔玛推出了罕见的K-Pop恶魔猎人菲比收藏系列。该系列结合了K-Pop元素与恶魔猎人主题，具体产品细节和发售信息未在原文中详细说明。",
+    "extracted_at": "2026-06-26T22:16:48.187613+08:00"
   },
   {
     "source_id": "asianwiki",
