@@ -651,6 +651,8 @@ class SSGRenderer:
         # 日期
         if is_tbd:
             date_str = "2026年"
+        elif "暂无具体日期" in d.get("air_date", ""):
+            date_str = d.get("air_date", "")  # 如 "7月暂无具体日期"
         elif d.get("published_ts", 0) > 0:
             dt = datetime.fromtimestamp(d["published_ts"], tz=cst)
             date_str = f"{dt.month}月 {dt.day}日"
