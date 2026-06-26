@@ -12,16 +12,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "ILLIT音乐视频猜图挑战：你能仅凭一张截图猜出MV吗？",
+    "title_zh": "测验：仅凭一张截图你能猜出ILLIT的MV吗？",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "Soompi发布了一篇关于ILLIT的互动测验文章",
-      "测验内容为仅凭一张截图猜出ILLIT的音乐视频"
+      "Soompi发布了一篇关于ILLIT音乐视频的猜谜测验文章",
+      "测验内容为仅凭一张截图猜测对应的MV"
     ],
-    "summary_zh": "Soompi发布了一篇关于韩国女团ILLIT的互动测验文章，邀请粉丝通过一张截图猜出对应的音乐视频。文章提到ILLIT以活泼的编舞、甜美的视觉和有趣的音乐作品迅速走红，但未提供具体截图或测验细节。",
-    "extracted_at": "2026-06-26T10:45:46.041866+08:00"
+    "summary_zh": "Soompi发布了一篇关于ILLIT的猜谜测验文章，测试读者能否仅凭一张截图猜出对应的音乐视频。文章提到ILLIT以活泼的编舞、甜美的视觉和有趣的音乐作品迅速走红，并警告部分题目可能较难。",
+    "extracted_at": "2026-06-26T10:56:51.233077+08:00"
   },
   {
     "source_id": "soompi",
@@ -36,18 +36,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《五十岁专业人士》终映在即，申河均、许成泰等主演十年故事迎来大结局",
+    "title_zh": "申河均、许成泰等主演《五十岁专业人士》十年故事迎来大结局",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "MBC剧集《五十岁专业人士》在最后一周前公开了新剧照",
+      "MBC剧集《五十岁专业人士》在最终周前公开新剧照",
       "该剧是一部动作喜剧，讲述三位看似普通但实则危险的中年男子被命运重新召集的故事",
-      "三位主角曾各自领域顶尖，后被流放到偏远岛屿",
-      "申河均、许成泰等演员将为一个跨越十年的故事画上句号"
+      "三位主角曾各自领域顶尖，后被流放到偏远岛屿"
     ],
-    "summary_zh": "MBC剧集《五十岁专业人士》在最后一周前公开了新剧照。该剧是一部动作喜剧，讲述三位看似普通但实则危险的中年男子被命运重新召集的故事。三位主角曾各自领域顶尖，后被流放到偏远岛屿。申河均、许成泰等演员将为一个跨越十年的故事画上句号。",
-    "extracted_at": "2026-06-26T10:45:49.052747+08:00"
+    "summary_zh": "MBC剧集《五十岁专业人士》在最终周前公开新剧照。该剧是一部动作喜剧，讲述三位看似普通但实则危险的中年男子被命运重新召集的故事。三位主角曾各自领域顶尖，后被流放到偏远岛屿。申河均、许成泰等主演将为本剧十年故事画上句号。",
+    "extracted_at": "2026-06-26T10:56:54.131633+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -67,11 +66,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "美国电影艺术与科学学院（奥斯卡主办方）邀请‘KPop恶魔猎人’团队成为会员",
-      "该邀请由Inquirer.net报道"
+      "美国电影艺术与科学学院（Academy）邀请‘KPop恶魔猎人’团队成为会员",
+      "该消息由Inquirer.net报道"
     ],
-    "summary_zh": "据Inquirer.net报道，美国电影艺术与科学学院（奥斯卡主办方）已邀请‘KPop恶魔猎人’团队成为其会员。该团队的具体身份及背景尚未在原文中详细说明。",
-    "extracted_at": "2026-06-26T10:45:51.184576+08:00"
+    "summary_zh": "据Inquirer.net报道，美国电影艺术与科学学院（奥斯卡主办方）已邀请‘KPop恶魔猎人’团队成为其会员。该团队的具体身份和背景尚未在原文中详细说明。",
+    "extracted_at": "2026-06-26T10:56:56.403578+08:00"
   },
   {
     "source_id": "soompi",
@@ -95,7 +94,7 @@
       "ATEEZ将在节目中表演新主打曲《BAD》，该曲将于韩国时间6月26日下午1点发行"
     ],
     "summary_zh": "美国时间6月25日，热门脱口秀《凯莉·克拉克森秀》宣布韩国男团ATEEZ将出演7月1日的节目，届时他们将表演新主打曲《BAD》。该曲将于韩国时间6月26日下午1点正式发行。",
-    "extracted_at": "2026-06-26T10:45:53.607298+08:00"
+    "extracted_at": "2026-06-26T10:56:58.782235+08:00"
   },
   {
     "source_id": "soompi",
@@ -115,11 +114,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "KBS 2TV新剧《丈夫》公开四位主演角色海报",
-      "该剧为惊悚题材，南宫珉饰演濒临离婚的丈夫，为救被绑架的妻子与危险罪犯展开殊死搏斗"
+      "KBS 2TV新剧《丈夫》公开四位主演的角色海报",
+      "该剧为惊悚题材，南宫珉饰演一名濒临离婚的男子，为救被绑架的妻子与危险罪犯展开殊死搏斗"
     ],
-    "summary_zh": "KBS 2TV新剧《丈夫》公开四位主演角色海报。该剧为惊悚题材，南宫珉饰演濒临离婚的丈夫，意外卷入与危险罪犯的殊死搏斗以营救被绑架的妻子。",
-    "extracted_at": "2026-06-26T10:45:55.988827+08:00"
+    "summary_zh": "KBS 2TV新剧《丈夫》公开了四位主演的角色海报。该剧是一部惊悚剧，由南宫珉主演，饰演一名濒临离婚的男子，意外卷入一场为救被绑架妻子而与危险罪犯展开的殊死搏斗。",
+    "extracted_at": "2026-06-26T10:57:01.347609+08:00"
   },
   {
     "source_id": "soompi",
@@ -135,14 +134,14 @@
     "image_url": "",
     "is_new": true,
     "title_zh": "初印象：《爱情有烟火》是一部关于自我发现与浪漫的有趣国产剧",
-    "source_type": "韩娱",
+    "source_type": "韩剧",
     "risk_level": "低",
-    "is_blurred": false,
+    "is_blurred": true,
     "facts_list": [
-      "现代国产剧《爱情有烟火》探讨年轻男女在爱情、友情或工作中可能面临的困难"
+      "原文未提及具体行为，仅称：现代国产剧《爱情有烟火》探讨年轻男女在爱情、友情或工作中可能面临的困难"
     ],
-    "summary_zh": "现代国产剧《爱情有烟火》是一部关于自我发现与浪漫的有趣剧集，探讨年轻男女在爱情、友情或工作中可能面临的困难。",
-    "extracted_at": "2026-06-26T10:45:58.143654+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：现代国产剧《爱情有烟火》探讨年轻男女在爱情、友情或工作中可能面临的困难]",
+    "extracted_at": "2026-06-26T10:57:03.540755+08:00"
   },
   {
     "source_id": "soompi",
@@ -163,11 +162,11 @@
     "is_blurred": false,
     "facts_list": [
       "SBS公开了即将播出的电视剧《金代理重启》的新预告",
-      "该剧改编自人气网漫，是一部动作复仇剧",
-      "苏志燮饰演看似平凡的父亲金代理，为拯救所爱之人不惜一切"
+      "该剧改编自热门网络漫画，是一部动作复仇剧",
+      "苏志燮饰演表面平凡的父亲金代理，为拯救所爱之人不惜一切"
     ],
-    "summary_zh": "SBS公开了苏志燮主演的新剧《金代理重启》的刺激新预告。该剧改编自人气网漫，是一部动作复仇剧，讲述看似平凡的父亲金代理（苏志燮饰）为拯救所爱之人而唤醒致命本能的故事。",
-    "extracted_at": "2026-06-26T10:46:00.990358+08:00"
+    "summary_zh": "SBS公开了苏志燮主演的新剧《金代理重启》的预告。该剧改编自热门网络漫画，是一部动作复仇剧，讲述看似平凡的爸爸金代理（苏志燮饰）为拯救所爱之人而唤醒致命本能的故事。",
+    "extracted_at": "2026-06-26T10:57:06.322080+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -182,16 +181,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "美泰推出新KPop恶魔猎人玩具：外观、价格及购买渠道",
+    "title_zh": "美泰推出新K-pop恶魔猎人玩具：外观、价格及购买渠道",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "美泰公司推出KPop恶魔猎人系列玩具",
-      "玩具外观、价格及购买渠道在报道中说明"
+      "美泰公司推出K-pop恶魔猎人系列玩具",
+      "玩具外观、价格及购买渠道信息已公布"
     ],
-    "summary_zh": "美泰公司推出了新的KPop恶魔猎人系列玩具，报道中展示了玩具的外观、价格以及购买渠道。",
-    "extracted_at": "2026-06-26T10:46:02.917039+08:00"
+    "summary_zh": "美泰公司推出了新的K-pop恶魔猎人系列玩具，并公布了玩具的外观、价格及购买渠道。",
+    "extracted_at": "2026-06-26T10:57:08.220505+08:00"
   },
   {
     "source_id": "soompi",
@@ -211,11 +210,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "6月26日，安英美的所属社Media Lab Siso宣布，安英美于6月25日在首尔某医院产下一名健康的男婴。",
-      "所属社表示，产妇和婴儿均健康。"
+      "6月26日，安英美的经纪公司Media Lab Siso宣布，安英美于6月25日在首尔某医院产下一名健康的男婴。",
+      "经纪公司表示，母子均健康。"
     ],
-    "summary_zh": "6月26日，安英美的所属社Media Lab Siso宣布，安英美于6月25日在首尔某医院顺利产下第二胎，是一名健康的男婴。据所属社透露，母子均健康。",
-    "extracted_at": "2026-06-26T10:46:06.023696+08:00"
+    "summary_zh": "6月26日，安英美的经纪公司Media Lab Siso宣布，安英美于6月25日在首尔某医院顺利产下一名健康的男婴，母子平安。这是安英美的第二个孩子。",
+    "extracted_at": "2026-06-26T10:57:10.507475+08:00"
   },
   {
     "source_id": "soompi",
@@ -235,11 +234,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "宋慧乔与所属社UAA（United Artists Agency）的专属合约近期到期",
-      "6月26日上午，UAA官方宣布双方决定结束合作"
+      "6月26日上午，UAA（United Artists Agency）官方宣布与宋慧乔的专属合约近期到期",
+      "UAA表示双方在长期信任合作后决定结束合约关系"
     ],
-    "summary_zh": "宋慧乔与长期合作的经纪公司UAA（United Artists Agency）在合约到期后决定不再续约，结束了长达14年的合作关系。UAA于6月26日上午发布官方声明，确认双方在相互信任和长期合作后，决定终止专属合约。",
-    "extracted_at": "2026-06-26T10:46:08.969394+08:00"
+    "summary_zh": "6月26日上午，宋慧乔的经纪公司UAA（United Artists Agency）正式宣布，与宋慧乔的专属合约已于近期到期，双方在长期信任合作后决定结束合作关系。宋慧乔与UAA的合作持续了14年。",
+    "extracted_at": "2026-06-26T10:57:13.184707+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -260,10 +259,10 @@
     "is_blurred": false,
     "facts_list": [
       "韩国教师将K-pop舞蹈融入课堂教学",
-      "《韩国先驱报》报道了此教育创新方式"
+      "《韩国先驱报》报道了该现象"
     ],
-    "summary_zh": "据《韩国先驱报》报道，韩国学校教师正在通过K-pop舞蹈教授不同课程，将流行文化融入教育，以吸引学生兴趣并促进学习。",
-    "extracted_at": "2026-06-26T10:46:11.163687+08:00"
+    "summary_zh": "据《韩国先驱报》报道，韩国学校教师正在通过K-pop舞蹈教授不同课程，将流行文化融入教育中，以吸引学生兴趣并促进学习。",
+    "extracted_at": "2026-06-26T10:57:15.289355+08:00"
   },
   {
     "source_id": "soompi",
@@ -278,17 +277,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "孔孝真新剧《杀人者的购物中心》首曝海报，饰演有危险秘密的职场妈妈",
+    "title_zh": "孔孝真新剧《杀人者的购物中心》首曝海报，平凡主妇隐藏致命秘密",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "MBC新剧《杀人者的购物中心》公开首张海报",
-      "该剧是一部动作剧，讲述一位拥有致命工作的职场妈妈为保护工作与生活平衡而战斗",
-      "孔孝真饰演杜鲁米电子销售3组组长刘宝娜，看似平凡但隐藏危险秘密"
+      "该剧为动作剧，讲述一位拥有致命职业的职场母亲为保护工作与生活平衡而战斗",
+      "孔孝真饰演杜鲁米电子销售3组组长柳宝娜，看似平凡实则隐藏危险秘密"
     ],
-    "summary_zh": "MBC新剧《杀人者的购物中心》公开首张海报。该剧是一部动作剧，讲述一位拥有致命工作的职场妈妈为保护工作与生活平衡而战斗的故事。孔孝真饰演杜鲁米电子销售3组组长刘宝娜，看似平凡但隐藏着危险秘密。",
-    "extracted_at": "2026-06-26T10:46:14.004703+08:00"
+    "summary_zh": "MBC新剧《杀人者的购物中心》公开首张海报。该剧是一部动作剧，讲述一位拥有致命职业的职场母亲为保护工作与生活平衡而战斗的故事。孔孝真饰演杜鲁米电子销售3组组长柳宝娜，看似平凡的主妇实则隐藏着危险的秘密。",
+    "extracted_at": "2026-06-26T10:57:18.233525+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -311,8 +310,8 @@
       "HEART OF WOMAN发行首张正规专辑出道",
       "专辑风格融合不同K-pop世代元素"
     ],
-    "summary_zh": "据FOX 13 Seattle报道，HEART OF WOMAN以首张正规专辑正式出道，该专辑融合了不同K-pop世代的音乐风格。",
-    "extracted_at": "2026-06-26T10:46:16.149472+08:00"
+    "summary_zh": "据FOX 13 Seattle报道，HEART OF WOMAN以首张正规专辑正式出道，其音乐风格融合了不同K-pop世代的元素。",
+    "extracted_at": "2026-06-26T10:57:20.302188+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -327,16 +326,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Furby推出新造型，灵感来自Netflix热门电影《KPop Demon Hunters》",
+    "title_zh": "Furby推出Netflix热门电影《KPop Demon Hunters》主题新造型",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "Furby推出新造型，灵感来自Netflix电影《KPop Demon Hunters》",
-      "该电影为Netflix热门作品"
+      "Furby推出新造型，灵感来源于Netflix热门电影《KPop Demon Hunters》",
+      "该消息由Yahoo报道"
     ],
-    "summary_zh": "Furby推出新造型，其设计灵感来源于Netflix热门电影《KPop Demon Hunters》。该电影是一部韩娱题材作品，Furby的新造型旨在吸引电影粉丝和流行文化爱好者。",
-    "extracted_at": "2026-06-26T10:46:18.241397+08:00"
+    "summary_zh": "Furby推出新造型，灵感来源于Netflix热门电影《KPop Demon Hunters》。该消息由Yahoo报道。",
+    "extracted_at": "2026-06-26T10:57:22.379723+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -356,12 +355,12 @@
     "risk_level": "中",
     "is_blurred": false,
     "facts_list": [
-      "某K-Pop偶像穿着印有争议性图案或文字的T恤，具体图案/文字未在原文中明确说明",
+      "某K-Pop偶像穿着印有争议性图案/文字的T恤，具体图案/文字未在原文中明确说明",
       "粉丝对此表示强烈不满，引发抗议",
-      "该偶像新签约的经纪公司发布正式道歉声明"
+      "该偶像的新经纪公司（未具名）已发布正式道歉声明"
     ],
-    "summary_zh": "一名K-Pop偶像因穿着印有争议性图案或文字的T恤引发粉丝强烈抗议。其新签约的经纪公司随后发布正式道歉声明，但原文未具体说明T恤上的争议内容。",
-    "extracted_at": "2026-06-26T10:46:21.092416+08:00"
+    "summary_zh": "一名K-Pop偶像因穿着印有争议性图案或文字的T恤引发粉丝强烈不满，导致大规模抗议。其新经纪公司随后发布官方道歉声明，但原文未具体说明T恤上的争议内容。",
+    "extracted_at": "2026-06-26T10:57:25.090240+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -381,11 +380,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "Samuel发行新EP《Samuelito》，致敬其拉丁血统",
-      "该EP由Los Angeles Times报道"
+      "K-pop歌手Samuel发行新EP《Samuelito》",
+      "该EP旨在致敬其拉丁血统"
     ],
-    "summary_zh": "K-pop歌手Samuel发行新EP《Samuelito》，通过音乐展现其拉丁血统。该EP获得《洛杉矶时报》报道，强调Samuel在作品中融入拉丁元素，展现多元文化背景。",
-    "extracted_at": "2026-06-26T10:46:23.069386+08:00"
+    "summary_zh": "K-pop歌手Samuel发行新EP《Samuelito》，通过音乐作品致敬其拉丁血统。该EP展现了Samuel对自身文化根源的认同与艺术表达。",
+    "extracted_at": "2026-06-26T10:57:27.203993+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -400,15 +399,15 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "孩之宝推出Derpy Tiger和Saja Boy Demon主题Furblets玩具",
+    "title_zh": "孩之宝推出Derpy Tiger和Saja Boy Demon主题Furblets",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "孩之宝发布了Derpy Tiger和Saja Boy Demon主题的Furblets玩具"
     ],
-    "summary_zh": "孩之宝推出了两款新Furblets玩具，灵感来自Derpy Tiger和Saja Boy Demon角色。",
-    "extracted_at": "2026-06-26T10:46:24.945446+08:00"
+    "summary_zh": "孩之宝推出了两款新Furblets玩具，灵感分别来自Derpy Tiger和Saja Boy Demon。",
+    "extracted_at": "2026-06-26T10:57:28.877300+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -423,16 +422,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "沃尔玛推出罕见K-Pop恶魔猎人Furby收藏系列",
+    "title_zh": "沃尔玛推出罕见K-Pop恶魔猎人菲比收藏系列",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "沃尔玛推出K-Pop恶魔猎人Furby收藏系列",
-      "该系列为罕见限定版"
+      "沃尔玛推出K-Pop恶魔猎人菲比收藏系列",
+      "该系列被描述为罕见"
     ],
-    "summary_zh": "据《今日美国》报道，沃尔玛推出了一款罕见的K-Pop恶魔猎人Furby收藏系列。该系列为限定版，具体细节未披露。",
-    "extracted_at": "2026-06-26T10:46:27.300838+08:00"
+    "summary_zh": "据《今日美国》报道，沃尔玛推出了一款罕见的K-Pop恶魔猎人菲比收藏系列。该系列结合了K-Pop元素与恶魔猎人主题，具体细节尚未披露。",
+    "extracted_at": "2026-06-26T10:57:30.926649+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -447,16 +446,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "K-pop在美国流媒体市场份额创历史新高",
+    "title_zh": "K-pop美国流媒体市场份额创历史新高",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "K-pop在美国流媒体市场份额达到历史最高水平",
+      "K-pop在美国流媒体市场的份额达到历史最高水平",
       "数据来源为The Korea Daily报道"
     ],
-    "summary_zh": "据The Korea Daily报道，K-pop在美国流媒体市场的份额创下历史新高，具体数据未在标题中提及，但表明K-pop在美国市场的持续增长和影响力扩大。",
-    "extracted_at": "2026-06-26T10:46:29.437594+08:00"
+    "summary_zh": "据The Korea Daily报道，K-pop在美国流媒体市场的份额创下历史新高，具体数据未在原文中详细列出。",
+    "extracted_at": "2026-06-26T10:57:32.822461+08:00"
   },
   {
     "source_id": "asianwiki",
