@@ -1,1 +1,338 @@
-[]
+[
+  {
+    "title": "My Bias, My Boss",
+    "url": "https://asianwiki.com/My_Bias,_My_Boss",
+    "platform": "tvN",
+    "date": "August 3"
+  },
+  {
+    "title": "Killer of Married Woman",
+    "url": "https://asianwiki.com/Killer_of_Married_Woman",
+    "platform": "MBC",
+    "date": "July 31"
+  },
+  {
+    "title": "Vivant",
+    "url": "https://asianwiki.com/Vivant_(2026)",
+    "platform": "TBS",
+    "date": "July 26"
+  },
+  {
+    "title": "Love on the Menu",
+    "url": "https://asianwiki.com/Love_on_the_Menu",
+    "platform": "KBS2",
+    "date": "July 25"
+  },
+  {
+    "title": "Legal Beat",
+    "url": "https://asianwiki.com/Legal_Beat",
+    "platform": "TV Tokyo",
+    "date": "July 24"
+  },
+  {
+    "title": "Daikuukou: Gate 24",
+    "url": "https://asianwiki.com/Daikuukou:_Gate_24",
+    "platform": "TV Asahi",
+    "date": "July 23"
+  },
+  {
+    "title": "Daitsuiseki Season 2",
+    "url": "https://asianwiki.com/Daitsuiseki_Season_2",
+    "platform": "TV Asahi",
+    "date": "July 22"
+  },
+  {
+    "title": "Black Trick",
+    "url": "https://asianwiki.com/Black_Trick",
+    "platform": "Fuji TV",
+    "date": "July 20"
+  },
+  {
+    "title": "ALIUS",
+    "url": "https://asianwiki.com/ALIUS_(Japanese_Drama)",
+    "platform": "WOWOW",
+    "date": "July 19"
+  },
+  {
+    "title": "Spooky in Love",
+    "url": "https://asianwiki.com/Spooky_in_Love",
+    "platform": "tvN",
+    "date": "July 18"
+  },
+  {
+    "title": "The East Palace",
+    "url": "https://asianwiki.com/The_East_Palace",
+    "platform": "Netflix",
+    "date": "July 17"
+  },
+  {
+    "title": "Kimi no Suki wa Muteki",
+    "url": "https://asianwiki.com/Kimi_no_Suki_wa_Muteki",
+    "platform": "TBS",
+    "date": "July 14"
+  },
+  {
+    "title": "Dream to You",
+    "url": "https://asianwiki.com/Dream_to_You",
+    "platform": "ENA",
+    "date": "July 13"
+  },
+  {
+    "title": "Kokuhaku",
+    "url": "https://asianwiki.com/Kokuhaku_(Japanese_Drama)",
+    "platform": "NTV",
+    "date": "July 11"
+  },
+  {
+    "title": "Last Note",
+    "url": "https://asianwiki.com/Last_Note_(Japanese_Drama)",
+    "platform": "Fuji TV",
+    "date": "July 9"
+  },
+  {
+    "title": "Crossroad",
+    "url": "https://asianwiki.com/Crossroad_(Japanese_Drama)",
+    "platform": "TV Asahi",
+    "date": "July 7"
+  },
+  {
+    "title": "My Fiction",
+    "url": "https://asianwiki.com/My_Fiction",
+    "platform": "TV Asahi",
+    "date": "July 5"
+  },
+  {
+    "title": "Love In Sync",
+    "url": "https://asianwiki.com/Love_In_Sync",
+    "platform": "Disney+",
+    "date": "July 4"
+  },
+  {
+    "title": "Human Vapor",
+    "url": "https://asianwiki.com/Human_Vapor",
+    "platform": "Netflix",
+    "date": "July 2"
+  },
+  {
+    "title": "Agent Kim Reactivated",
+    "url": "https://asianwiki.com/Agent_Kim_Reactivated",
+    "platform": "SBS",
+    "date": "June 26"
+  },
+  {
+    "title": "See You at Work Tomorrow",
+    "url": "https://asianwiki.com/See_You_at_Work_Tomorrow",
+    "platform": "tvN",
+    "date": "June 22"
+  },
+  {
+    "title": "Viral Hit",
+    "url": "https://asianwiki.com/Viral_Hit",
+    "platform": "Netflix",
+    "date": "June 11"
+  },
+  {
+    "title": "Teach You a Lesson",
+    "url": "https://asianwiki.com/Teach_You_a_Lesson",
+    "platform": "Netflix",
+    "date": "June 5"
+  },
+  {
+    "title": "Doctor On The Edge",
+    "url": "https://asianwiki.com/Doctor_On_The_Edge",
+    "platform": "ENA",
+    "date": "June 1"
+  },
+  {
+    "title": "Reborn Rookie",
+    "url": "https://asianwiki.com/Reborn_Rookie",
+    "platform": "JTBC",
+    "date": "May 30"
+  },
+  {
+    "title": "Fifties Professionals",
+    "url": "https://asianwiki.com/Fifties_Professionals",
+    "platform": "MBC",
+    "date": "May 22"
+  },
+  {
+    "title": "The WONDERfools",
+    "url": "https://asianwiki.com/The_WONDERfools",
+    "platform": "Netflix",
+    "date": "May 15"
+  },
+  {
+    "title": "Soul Mate",
+    "url": "https://asianwiki.com/Soul_Mate_(Netflix)",
+    "platform": "Netflix",
+    "date": "May 14"
+  },
+  {
+    "title": "Azure Spring",
+    "url": "https://asianwiki.com/Azure_Spring",
+    "platform": "MBN Plus",
+    "date": "May 11"
+  },
+  {
+    "title": "My Royal Nemesis",
+    "url": "https://asianwiki.com/My_Royal_Nemesis",
+    "platform": "SBS",
+    "date": "May 8"
+  },
+  {
+    "title": "Convenience Store Kyodai",
+    "url": "https://asianwiki.com/Convenience_Store_Kyodai",
+    "platform": "NHK",
+    "date": "April 22-30"
+  },
+  {
+    "title": "Absolute Value of Romance",
+    "url": "https://asianwiki.com/Absolute_Value_of_Romance",
+    "platform": "Coupang Play",
+    "date": "April 15-21"
+  },
+  {
+    "title": "10 Kai Kitte Taorenai Ki wa Nai",
+    "url": "https://asianwiki.com/10_Kai_Kitte_Taorenai_Ki_wa_Nai",
+    "platform": "NTV",
+    "date": "April 8-14"
+  },
+  {
+    "title": "Blood & Sweat",
+    "url": "https://asianwiki.com/Blood_%26_Sweat_(Japanese_Drama)",
+    "platform": "WOWOW",
+    "date": "April 1-7"
+  },
+  {
+    "title": "Our Happy Days",
+    "url": "https://asianwiki.com/Our_Happy_Days",
+    "platform": "KBS1",
+    "date": "March 30"
+  },
+  {
+    "title": "Stove League",
+    "url": "https://asianwiki.com/Stove_League_(Japanese_Drama)",
+    "platform": "WOWOW",
+    "date": "March 28"
+  },
+  {
+    "title": "Cabbage Your Life",
+    "url": "https://asianwiki.com/Cabbage_Your_Life",
+    "platform": "KBS2",
+    "date": "March 26"
+  },
+  {
+    "title": "Climax",
+    "url": "https://asianwiki.com/Climax_(Korean_Drama)",
+    "platform": "ENA",
+    "date": "March 16"
+  },
+  {
+    "title": "Doctor Shin",
+    "url": "https://asianwiki.com/Doctor_Shin",
+    "platform": "TV Chosun",
+    "date": "March 14"
+  },
+  {
+    "title": "Phantom Lawyer",
+    "url": "https://asianwiki.com/Phantom_Lawyer",
+    "platform": "SBS",
+    "date": "March 13"
+  },
+  {
+    "title": "The Diary of a Novelist",
+    "url": "https://asianwiki.com/The_Diary_of_a_Novelist",
+    "platform": "NHK",
+    "date": "March 8"
+  },
+  {
+    "title": "Yokohama Neighbors Season 2",
+    "url": "https://asianwiki.com/Yokohama_Neighbors_Season_2",
+    "platform": "WOWOW",
+    "date": "March 7"
+  },
+  {
+    "title": "Boyfriend on Demand",
+    "url": "https://asianwiki.com/Boyfriend_on_Demand",
+    "platform": "Netflix",
+    "date": "March 6"
+  },
+  {
+    "title": "Siren's Kiss",
+    "url": "https://asianwiki.com/Siren%27s_Kiss",
+    "platform": "tvN",
+    "date": "March 2"
+  },
+  {
+    "title": "The Practical Guide to Love",
+    "url": "https://asianwiki.com/The_Practical_Guide_to_Love",
+    "platform": "JTBC",
+    "date": "February 28"
+  },
+  {
+    "title": "Pearl in Red",
+    "url": "https://asianwiki.com/Pearl_in_Red",
+    "platform": "KBS2",
+    "date": "February 23"
+  },
+  {
+    "title": "In Your Radiant Season",
+    "url": "https://asianwiki.com/In_Your_Radiant_Season",
+    "platform": "MBC",
+    "date": "February 20"
+  },
+  {
+    "title": "Lovephobia",
+    "url": "https://asianwiki.com/Lovephobia_(Korean_Drama)",
+    "platform": "U+Mobile TV",
+    "date": "February 19"
+  },
+  {
+    "title": "Kenzo Kitakata: Suikoden",
+    "url": "https://asianwiki.com/Kenzo_Kitakata:_Suikoden",
+    "platform": "WOWOW",
+    "date": "February 15"
+  },
+  {
+    "title": "The Art of Sarah",
+    "url": "https://asianwiki.com/The_Art_of_Sarah",
+    "platform": "Netflix",
+    "date": "February 13"
+  },
+  {
+    "title": "Bloody Flower",
+    "url": "https://asianwiki.com/Bloody_Flower",
+    "platform": "Disney+",
+    "date": "February 4"
+  },
+  {
+    "title": "Honour",
+    "url": "https://asianwiki.com/Honour_(Korean_Drama)",
+    "platform": "ENA",
+    "date": "February 2"
+  },
+  {
+    "title": "I'll Prescribe You Love",
+    "url": "https://asianwiki.com/I%27ll_Prescribe_You_Love",
+    "platform": "KBS2",
+    "date": "January 22-31"
+  },
+  {
+    "title": "Can This Love Be Translated?",
+    "url": "https://asianwiki.com/Can_This_Love_Be_Translated%3F",
+    "platform": "Netflix",
+    "date": "January 15-21"
+  },
+  {
+    "title": "Fuyu no Nankasa, Haru no Nankasa",
+    "url": "https://asianwiki.com/Fuyu_no_Nankasa,_Haru_no_Nankasa",
+    "platform": "NTV",
+    "date": "January 8-14"
+  },
+  {
+    "title": "It Is My Husband",
+    "url": "https://asianwiki.com/It_Is_My_Husband",
+    "platform": "Fuji TV",
+    "date": "January 1-7"
+  }
+]
