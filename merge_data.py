@@ -41,7 +41,10 @@ def parse_md_table(md_path: str) -> list[dict]:
             continue
 
         # 日期格式化
-        if "待定" in date_raw or "暂无具体日期" in date_raw:
+        if "暂无具体日期" in date_raw:
+            # "7月 (暂无具体日期)" → 保留原样，后续渲染时归入对应月份
+            date = date_raw
+        elif "待定" in date_raw:
             date = "📌 待定"
         else:
             date = date_raw
@@ -101,73 +104,82 @@ def merge(spider_data: list[dict], manual_data: list[dict]) -> list[dict]:
     """
     合并爬虫数据与手动底库。
     规则：
-    - 以 title 为唯一键
-    - 爬虫有具体日期 → 覆盖待定
+    - 手动底库逐条处理，允许同标题多条目（如 8月定档 + 待定 同时保留）
+    - 爬虫有具体日期 → 覆盖手动对应条目
     - 爬虫漏抓 → 保留手动底库
     - platform/url 冲突 → 信任手动底库
     """
-    # 建立手动底库索引
-    manual_index: dict[str, dict] = {}
-    for entry in manual_data:
-        key = normalize_title(entry["title"])
-        manual_index[key] = entry
-
-    # 建立爬虫数据索引
+    # 建立爬虫数据索引（仅用于增强手动条目）
     spider_index: dict[str, dict] = {}
     for entry in spider_data:
         key = normalize_title(entry.get("title", ""))
         if key:
             spider_index[key] = entry
 
-    # 合并
-    all_keys = set(manual_index.keys()) | set(spider_index.keys())
     merged = []
+    matched_spider_keys: set = set()
 
-    for key in all_keys:
-        manual = manual_index.get(key)
+    # 逐条处理手动底库（不去重，允许同标题多条）
+    for manual in manual_data:
+        key = normalize_title(manual["title"])
         spider = spider_index.get(key)
 
-        if manual and spider:
-            # 两边都有：爬虫日期必须通过「具体日期」验证才允许覆盖手动
+        if spider:
+            # 爬虫有具体日期 → 覆盖手动
             spider_date = spider.get("date", "")
             if is_concrete_date(spider_date):
-                # 爬虫抓到了真正的定档日期（如 "6月11日"），覆盖手动
-                final_date = spider_date
+                # 如果手动是待定，且同标题已有其他定档条目 → 保留待定（不去重）
+                if not is_concrete_date(manual["date"]):
+                    has_dated_sibling = any(
+                        normalize_title(m["title"]) == key and is_concrete_date(m["date"])
+                        for m in manual_data if m is not manual
+                    )
+                    if has_dated_sibling:
+                        final_date = manual["date"]  # 保留待定，另有一条已定档
+                    else:
+                        final_date = spider_date
+                else:
+                    final_date = spider_date  # 手动也是定档 → 蜘蛛覆盖
             else:
-                # 爬虫日期无效（TBA/待定/空/仅年份）→ 保留手动底库
                 final_date = manual["date"]
-
+            matched_spider_keys.add(key)
             entry = {
                 "title": manual["title"],
-                "url": manual["url"],        # url 信任手动
-                "platform": manual["platform"],  # platform 信任手动
+                "url": manual["url"],
+                "platform": manual["platform"],
                 "date": final_date,
             }
-        elif manual:
-            entry = dict(manual)  # 仅手动有
         else:
-            # 仅爬虫有（手动底库缺失的剧）：必须验证平台和日期质量
+            entry = dict(manual)
+
+        merged.append(entry)
+
+    # 仅爬虫有的条目（手动底库缺失）
+    for key, spider in spider_index.items():
+        if key not in matched_spider_keys:
             spider_date_raw = spider.get("date", "")
             spider_platform = spider.get("platform", "")
-            # 日期无效 → 标记为待定
             date_final = spider_date_raw if is_concrete_date(spider_date_raw) else "📌 待定"
-            # 平台无效 → 标记为 TBA（避免空值污染显示）
             platform_final = spider_platform if spider_platform and str(spider_platform).strip().upper() != "TBA" else "TBA"
-            entry = {
+            merged.append({
                 "title": spider.get("title", ""),
                 "url": spider.get("url", ""),
                 "platform": platform_final,
                 "date": date_final,
-            }
+            })
 
-        merged.append(entry)
-
-    # 按日期排序：待定放最后
+    # 按日期排序：具体日期 → 月份待定 → 完全待定
     def sort_key(e):
         d = e.get("date", "")
-        if "待定" in d:
-            return (1, "")
-        return (0, d)
+        if "待定" in d and "暂无具体日期" not in d:
+            return (2, "")  # 纯待定放最后
+        if "暂无具体日期" in d:
+            # 月份待定：排在对应月份的最后
+            import re as _re
+            m = _re.search(r'(\d{1,2})月', d)
+            month = int(m.group(1)) if m else 13
+            return (1, f"{month:02d}")  # 月份待定排在具体日期之后
+        return (0, d)  # 具体日期排最前
     merged.sort(key=sort_key)
 
     return merged

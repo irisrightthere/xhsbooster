@@ -365,11 +365,21 @@ class SSGRenderer:
 
         # 源名称映射
         src_names = {"soompi": "Soompi", "google-kpop": "Google News", "asianwiki": "AsianWiki"}
+
+        # AsianWiki 数量从 prod_aw.json 取（与实际渲染一致），而非 articles 数
+        aw_count = len(grouped.get("asianwiki", []))
+        prod_path = self.output_dir / "_state" / "prod_aw.json"
+        if prod_path.exists():
+            try:
+                aw_count = len(json.loads(prod_path.read_text("utf-8")))
+            except Exception:
+                pass
+
         body += '<div class="tab-bar">\n'
         for i, sid in enumerate(all_sids):
             active = ' active' if i == 0 else ''
             name = src_names.get(sid, sid)
-            count = len(grouped.get(sid, []))
+            count = aw_count if sid == "asianwiki" else len(grouped.get(sid, []))
             body += f'  <button class="tab-btn{active}" data-sid="{sid}">[{name}]<span class="tab-count">{count}</span></button>\n'
         body += '</div>\n'
 
@@ -463,9 +473,15 @@ class SSGRenderer:
             pub_ts = 0
             air_date = "2026年待定"
 
+            # 先匹配 "X月 (暂无具体日期)" — 归入对应月份
+            m_tbd = _re.search(r'(\d{1,2})月\s*\(暂无具体日期\)', str(date_raw))
+            if m_tbd:
+                month = int(m_tbd.group(1))
+                dt = datetime(2026, month, 1, 12, 0, 0, tzinfo=cst)
+                pub_ts = dt.timestamp()
+                air_date = f"{month}月暂无具体日期"
             # 匹配 "X月Y日" 或 "X月Y日–Z日"
-            m = _re.search(r'(\d{1,2})月(\d{1,2})日', str(date_raw))
-            if m:
+            elif (m := _re.search(r'(\d{1,2})月(\d{1,2})日', str(date_raw))):
                 month, day = int(m.group(1)), int(m.group(2))
                 try:
                     dt = datetime(2026, month, day, 12, 0, 0, tzinfo=cst)
@@ -474,7 +490,7 @@ class SSGRenderer:
                 except ValueError:
                     pub_ts = 0
                     air_date = "2026年待定"
-            elif "待定" in str(date_raw) or "暂无" in str(date_raw):
+            elif "待定" in str(date_raw):
                 pub_ts = 0
                 air_date = "2026年待定"
 
