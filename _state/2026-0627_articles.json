@@ -7,7 +7,7 @@
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaWg2MExRR0hwS0tYNm5BaEdlcDA5UE5nSXNoQ241SzFRRC1sSXZoN0sxTS1MblhycGJXWHlHZUhHbjhJSmVkOHV4bng4cUkweWZjVWhmMldnN1FMcHVsQ2RKbDM0YjlvLVVkVWVoc2pXRWE5cUZaZW9hdTYtVWFyOXRZLW9GRGZzbnRwU01Gb0gtaFlobmtxN2t4LWVZVUVHczFqUlZlX1NNZV81azRfbFUwWmRnTmFSa2dibVZCWQ?oc=5",
     "content": "Mattel Launches New KPop Demon Hunters Toys: What They Look Like, Prices, and Where You Can Buy Them Revista Merca2.0",
     "published_at": "0627google-kpop",
-    "published_ts": 1782542112.0,
+    "published_ts": 1782552877.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
@@ -18,10 +18,82 @@
     "is_blurred": false,
     "facts_list": [
       "美泰公司推出KPop恶魔猎人系列玩具",
-      "玩具外观、价格及购买渠道在报道中说明"
+      "玩具外观、价格及购买渠道在原文中未具体说明"
     ],
-    "summary_zh": "美泰公司推出新KPop恶魔猎人系列玩具，报道介绍了玩具的外观、价格及购买渠道。",
-    "extracted_at": "2026-06-27T14:50:15.155950+08:00"
+    "summary_zh": "美泰公司推出了新的KPop恶魔猎人系列玩具，但原文未提供具体外观、价格或购买渠道的详细信息。",
+    "extracted_at": "2026-06-27T18:03:14.018157+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "So Ji Sub Retrieves A Mysterious Briefcase From His Past In “Agent Kim Reactivated”",
+    "url": "https://www.soompi.com/article/1850677wpp/so-ji-sub-retrieves-a-mysterious-briefcase-from-his-past-in-agent-kim-reactivated",
+    "content": "SBS’s “Agent Kim Reactivated” has shared a glimpse of its second episode! Based on a popular webtoon, “Agent Kim Reactivated” is a new action revenge drama that tells the story of Manager Kim (So Ji Sub), a seemingly ordinary dad with a secret past who puts everything on the line to save his beloved daughter.&#8230; Continue reading So Ji Sub Retrieves A Mysterious Briefcase From His Past In &#8220;Agent Kim Reactivated&#8221;\nThe post So Ji Sub Retrieves A Mysterious Briefcase From His Past In &#8220;Agent Kim Reactivated&#8221; appeared first on Soompi.",
+    "published_at": "0627soompi",
+    "published_ts": 1782550963.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "苏志燮在《金代理重启》中找回神秘公文包，揭开过往秘密",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "SBS剧集《金代理重启》发布第二集预告，苏志燮饰演的金代理找回一个来自过去的公文包。",
+      "该剧改编自热门网络漫画，讲述看似平凡的爸爸金代理为救女儿而拼尽全力的动作复仇故事。"
+    ],
+    "summary_zh": "SBS新剧《金代理重启》公开第二集预告，苏志燮饰演的男主角金代理找回了一个来自过去的神秘公文包。该剧改编自热门网络漫画，讲述看似平凡的爸爸金代理为拯救女儿而赌上一切的复仇故事。",
+    "extracted_at": "2026-06-27T18:03:17.474966+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Lee Jun Young Unexpectedly Stands By Jeon Hye Jin’s Side In “Reborn Rookie”",
+    "url": "https://www.soompi.com/article/1850670wpp/lee-jun-young-unexpectedly-stands-by-jeon-hye-jins-side-in-reborn-rookie",
+    "content": "Is Lee Jun Young switching sides on “Reborn Rookie”? JTBC’s “Reborn Rookie” is a drama that tells the story of Kang Yong Ho (Son Hyun Joo), the powerful chairman of leading conglomerate Choiseong Group. After an accident, he unexpectedly finds himself living an unwanted second life when his soul is swapped into the youthful body&#8230; Continue reading Lee Jun Young Unexpectedly Stands By Jeon Hye Jin&#8217;s Side In &#8220;Reborn Rookie&#8221;\nThe post Lee Jun Young Unexpectedly Stands By Jeon Hye Jin&#8217;s Side In &#8220;Reborn Rookie&#8221; appeared first on Soompi.",
+    "published_at": "0627soompi",
+    "published_ts": 1782549029.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "李濬荣在《重生归来》中意外站到全慧珍一边",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "JTBC电视剧《重生归来》中，李濬荣饰演的角色意外站到全慧珍饰演的角色一边",
+      "该剧讲述孙贤周饰演的财阀会长姜勇浩因意外灵魂进入年轻身体后展开的第二次人生故事"
+    ],
+    "summary_zh": "JTBC电视剧《重生归来》中，李濬荣饰演的角色意外站到全慧珍饰演的角色一边。该剧讲述孙贤周饰演的财阀会长姜勇浩因意外灵魂进入年轻身体后展开的第二次人生故事。",
+    "extracted_at": "2026-06-27T18:03:19.940374+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "ATEEZ Tops iTunes Charts Across The Globe With “BAD” And “GOLDEN HOUR : Part.5”",
+    "url": "https://www.soompi.com/article/1850664wpp/ateez-tops-itunes-charts-across-the-globe-with-bad-and-golden-hour-part-5",
+    "content": "ATEEZ has entered another “GOLDEN” era! On June 26 at 1 p.m. KST, ATEEZ made their highly-anticipated comeback with their new mini album “GOLDEN HOUR : Part.5” and its catchy title track “BAD.” Immediately upon their release, both the mini album and the song shot to the top of iTunes charts in various countries around&#8230; Continue reading ATEEZ Tops iTunes Charts Across The Globe With &#8220;BAD&#8221; And &#8220;GOLDEN HOUR : Part.5&#8221;\nThe post ATEEZ Tops iTunes Charts Across The Globe With &#8220;BAD&#8221; And &#8220;GOLDEN HOUR : Part.5&#8221; appeared first on Soompi.",
+    "published_at": "0627soompi",
+    "published_ts": 1782545291.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "ATEEZ新专辑《GOLDEN HOUR : Part.5》及主打曲《BAD》登顶多国iTunes榜单",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "ATEEZ于6月26日下午1点KST发行迷你专辑《GOLDEN HOUR : Part.5》及主打曲《BAD》",
+      "专辑和歌曲在多个国家的iTunes榜单上获得第一名"
+    ],
+    "summary_zh": "ATEEZ于6月26日下午1点KST携迷你专辑《GOLDEN HOUR : Part.5》及主打曲《BAD》回归，专辑和歌曲迅速登顶多国iTunes榜单。",
+    "extracted_at": "2026-06-27T18:03:22.644492+08:00"
   },
   {
     "source_id": "soompi",
@@ -42,11 +114,11 @@
     "is_blurred": false,
     "facts_list": [
       "SBS于6月公布2026年《人气歌谣》东京演唱会计划",
-      "演唱会将于9月22日和23日在日本Belluna Dome举行",
-      "具体演出阵容尚未完全公开"
+      "演唱会将于9月22日至23日在日本Belluna Dome举行",
+      "具体演出阵容尚未完全公开，待后续报道"
     ],
-    "summary_zh": "SBS公布了2026年《人气歌谣》东京演唱会的演出阵容。该活动将于9月22日和23日在日本Belluna Dome举行，为期两天。具体参演艺人名单尚未完全披露。",
-    "extracted_at": "2026-06-27T14:50:17.360497+08:00"
+    "summary_zh": "SBS公布了2026年《人气歌谣》东京演唱会的演出阵容。该活动将于9月22日至23日在日本Belluna Dome举行，为期两天。具体参演艺人名单尚未完全披露，更多信息待后续更新。",
+    "extracted_at": "2026-06-27T18:03:25.071467+08:00"
   },
   {
     "source_id": "soompi",
@@ -61,17 +133,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《金特工重启》首播收视率创2026年迷你剧最高纪录",
+    "title_zh": "《金代理重启》首播收视率创2026年迷你剧最高纪录",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "SBS新剧《金特工重启》于6月26日首播",
+      "SBS新剧《金代理重启》于6月26日首播",
       "该剧由苏志燮主演，是一部动作复仇剧",
-      "据尼尔森韩国数据，首集收视率在2026年所有迷你剧中排名第一"
+      "根据尼尔森韩国数据，首集收视率在2026年所有迷你剧中排名第一"
     ],
-    "summary_zh": "SBS新剧《金特工重启》于6月26日首播，由苏志燮主演，是一部动作复仇剧。据尼尔森韩国数据，该剧首集收视率创下2026年所有迷你剧中的最高开播纪录，同时段排名第一。",
-    "extracted_at": "2026-06-27T14:50:19.996137+08:00"
+    "summary_zh": "SBS新剧《金代理重启》于6月26日首播，由苏志燮主演，是一部动作复仇剧。根据尼尔森韩国数据，该剧首集收视率创下2026年所有迷你剧中的最高纪录，在同时段排名第一。",
+    "extracted_at": "2026-06-27T18:03:27.623005+08:00"
   },
   {
     "source_id": "soompi",
@@ -92,10 +164,10 @@
     "is_blurred": false,
     "facts_list": [
       "2026年6月26日，tripleS成员YuBin在2026 MyK FESTA Live K-Pop演唱会结束时失去意识，被抬下舞台",
-      "所属社MODHAUS事后发布英文声明，确认YuBin晕倒事件"
+      "所属社MODHAUS事后发布英文声明，确认YuBin在表演结束时晕倒"
     ],
-    "summary_zh": "2026年6月26日，tripleS成员YuBin在2026 MyK FESTA Live K-Pop演唱会结束时晕倒，被抬下舞台。所属社MODHAUS随后发布英文声明，更新其健康状况，但未透露具体病因或后续安排。",
-    "extracted_at": "2026-06-27T14:50:22.242658+08:00"
+    "summary_zh": "2026年6月26日，tripleS成员YuBin在2026 MyK FESTA Live K-Pop演唱会结束时失去意识，被抬下舞台。所属社MODHAUS随后发布英文声明，确认该事件并更新其健康状况。",
+    "extracted_at": "2026-06-27T18:03:30.055793+08:00"
   },
   {
     "source_id": "soompi",
@@ -118,8 +190,8 @@
       "韩国企业评价研究所于5月27日至6月27日收集大数据，分析媒体覆盖、消费者参与、互动及社区认知指数，发布6月歌手品牌声誉排名",
       "BTS本月继续位居榜首"
     ],
-    "summary_zh": "韩国企业评价研究所公布了6月歌手品牌声誉排名，该排名基于5月27日至6月27日的大数据，分析指标包括媒体覆盖、消费者参与、互动及社区认知指数。BTS本月继续蝉联榜首。",
-    "extracted_at": "2026-06-27T14:50:24.336162+08:00"
+    "summary_zh": "韩国企业评价研究所公布了6月歌手品牌声誉排名，该排名基于5月27日至6月27日的大数据，分析媒体覆盖、消费者参与、互动及社区认知指数。BTS本月继续蝉联榜首。",
+    "extracted_at": "2026-06-27T18:03:32.921493+08:00"
   },
   {
     "source_id": "soompi",
@@ -137,12 +209,37 @@
     "title_zh": "忙碌骄傲月必看：5部短小精悍的BL剧推荐",
     "source_type": "韩剧",
     "risk_level": "低",
-    "is_blurred": true,
+    "is_blurred": false,
     "facts_list": [
-      "原文未提及具体剧名、播出平台或任何数据，仅称有5部短BL剧适合在骄傲月观看"
+      "Soompi发布文章推荐5部短小精悍的BL剧，适合在忙碌的骄傲月观看",
+      "文章未列出具体剧名，仅描述为'quick, fun, and easy to finish'的BL作品"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：骄傲月来临，推荐5部短小精悍的BL剧，适合在忙碌的六月观看。]",
-    "extracted_at": "2026-06-27T14:50:26.309811+08:00"
+    "summary_zh": "Soompi在骄傲月期间推荐了5部短小精悍的BL剧，适合日程繁忙的观众在六月快速观看。文章未具体列出剧名，仅强调这些作品轻松有趣、易于完成。",
+    "extracted_at": "2026-06-27T18:03:35.473195+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "‘Notes from the Last Row’ ending explained: Was Lee Kang ever telling the truth? - Lifestyle Asia Hong Kong",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaTVMX2FhT2poRGV5UllNMWtvUVQ1SnRUM29TV3FjV1dhSWtJUkJ1bW9MX3dxLWFIV1MxRE1hS1dyTFBXV1VmVUI2Q01XSjkzeHh5QVdQNUZvSEgtTF9SekJhd25VbzVwMjBPWGtVLXA5NDI1VVdUN0Q1Xzhwa0h4U29iRjFjdWpZbnVrT3ZuMUx6S0RrUTBMZlo2UF8xekNIT2RzUkVxNUdtOVB4dU9JZHpmR21Vd9IBuwFBVV95cUxPY0diOEhGaFNqUmRvT29xaGE5Tm13aXBkWGdtb3RpYjJPWWo5R2syeDR2OHhnWWd5SXg0eXgyd1VfQjdVTlpkcTlxYUlYX2M5djRHSE1NZFNadHVzNXRjVWMweDhMd1QzMm56MjJHNnN6QXJxZnlaSzYtVXZkY25XOGJNeDhVT3VWZ0ZZOHhWdVZMRGQwcTdwRmQ3RU9ycXozVmFwNjY2ckpGOFl0Z1oxemJZazFYOVdjdnlV?oc=5",
+    "content": "‘Notes from the Last Row’ ending explained: Was Lee Kang ever telling the truth? Lifestyle Asia Hong Kong",
+    "published_at": "0627google-kpop",
+    "published_ts": 1782499503.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《最后一排的笔记》结局解析：李康是否说过真话？",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "文章来自Lifestyle Asia Hong Kong，解析韩剧《最后一排的笔记》结局",
+      "核心问题：李康是否曾说过真话？"
+    ],
+    "summary_zh": "Lifestyle Asia Hong Kong 发布文章解析韩剧《最后一排的笔记》结局，探讨主角李康是否曾说过真话。文章未提供具体剧情细节或数据。",
+    "extracted_at": "2026-06-27T18:03:37.709654+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -163,11 +260,12 @@
     "is_blurred": false,
     "facts_list": [
       "地点：美国威斯康星州奥什科什",
-      "事件：首家K-Pop商店Idol Haus开业",
-      "时间：6月27日"
+      "主体：K-Pop商店Idol Haus",
+      "时间：6月27日开业",
+      "性质：该市首家K-Pop商店"
     ],
-    "summary_zh": "美国威斯康星州奥什科什的首家K-Pop商店Idol Haus将于6月27日开业。该店将销售K-Pop相关商品，为当地粉丝提供线下购买渠道。",
-    "extracted_at": "2026-06-27T14:50:28.473408+08:00"
+    "summary_zh": "美国威斯康星州奥什科什市的首家K-Pop商店Idol Haus宣布将于6月27日正式开业。该店将销售K-Pop相关商品，成为当地K-Pop粉丝的新聚集地。",
+    "extracted_at": "2026-06-27T18:03:39.995906+08:00"
   },
   {
     "source_id": "asianwiki",
