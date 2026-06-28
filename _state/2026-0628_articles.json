@@ -1,5 +1,99 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "A new banger to add to your K-pop playlist. 🎧 Link to full story in the comment section. - facebook.com",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNG84SkFhZGxybWVGbEZ1bzhiVThxSnVUT2JhQVI2ejdSdEU4N3Q1UW5JcVE4NlV1cXRzM1JFYTdhMlpVaFh1REJtdF9lQ2hUZnFmV3dBVXhDVlBnNkNfVGVqRnFlMkhUVUk3dUhvLWtVSVJ4SHZiUllqN3FCLWRSemV1MmxoVGQ4OVc0V1VUVXVEN05WWGo5UmxxcFNpY1ZfOGs3dml3OG5QTE1IcExVeG9ScFotUHFxcDVGTkZHS21JQkdDWVVFMlpfcnN3blJHRzFHZmJtNA?oc=5",
+    "content": "A new banger to add to your K-pop playlist. 🎧 Link to full story in the comment section. facebook.com",
+    "published_at": "0628google-kpop",
+    "published_ts": 1782635997.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "K-pop新曲推荐：一首值得加入歌单的热门歌曲",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文未提及具体行为，仅称：有一首新的K-pop热门歌曲值得加入播放列表"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：有一首新的K-pop热门歌曲值得加入播放列表]",
+    "extracted_at": "2026-06-28T18:25:03.223848+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Talking with 'KPop Demon Hunters' voice Audrey Nuna - AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOUlXU25yZnpjZlZqTE9tYXlYeUI4YlRBVnQ5RXFXRGVTdjBJZllvazZVbHNzN0FIUlZfYmJOTGpMV1lqNHgyc05yUldjVGxHdDEyUXR3eDFjVDh1OTlrM084Q2hYczZ2VTR1WThTenF2Z000Yy01YXhVdTVCOGpQNlhn?oc=5",
+    "content": "Talking with 'KPop Demon Hunters' voice Audrey Nuna AOL.com",
+    "published_at": "0628google-kpop",
+    "published_ts": 1782635865.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《KPop恶魔猎人》配音演员Audrey Nuna专访",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Audrey Nuna为《KPop恶魔猎人》配音",
+      "该专访由AOL.com发布"
+    ],
+    "summary_zh": "Audrey Nuna接受AOL.com专访，谈论其为《KPop恶魔猎人》配音的经历。",
+    "extracted_at": "2026-06-28T18:25:05.411063+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Talking with 'KPop Demon Hunters' voice Audrey Nuna - Milwaukee Journal Sentinel",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSUZhOW9nSGFvWVE1d1FRbDVOaTdwTDlnbGl6NFZLbUNYN1RKbklpaThCZm82bm5udlJSeTVCTGhSWFJoRmtONnNWRmk3WEh1TnhfT04wSXFHQ0hpOFJ2UW9zeFc1TTRuQnphTkpjTTdTV0taSG9mdTVvdkNsYWhDeUpxdW1RcU5Ebk9zQjhLQ05DQWVhMmNNY3VrbjlzR0JMREVzVW1tbnkyZ0hNWjlZ?oc=5",
+    "content": "Talking with 'KPop Demon Hunters' voice Audrey Nuna Milwaukee Journal Sentinel",
+    "published_at": "0628google-kpop",
+    "published_ts": 1782635416.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《KPop恶魔猎人》配音演员Audrey Nuna专访",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Audrey Nuna为《KPop恶魔猎人》配音",
+      "该专访由Milwaukee Journal Sentinel发布"
+    ],
+    "summary_zh": "Milwaukee Journal Sentinel发布了对Audrey Nuna的专访，她为《KPop恶魔猎人》配音。",
+    "extracted_at": "2026-06-28T18:25:07.519770+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "KPop Demon Hunters Dolls in The Daily LITG, 28th June 2026 - Bleeding Cool News",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSzFUNlpXSy0tY1lsRnFjakl1Q2RFTmtFeFpRWXVVcWE4al9vNTh1MGF1TDB4VU5SdHlxWHVBSnVUUVNYZndpUlM0SzQtSVN5VHhkeUZ6RlJ0Qm9wT3l3Z051OVY2eG9rQzYtNGFnTGpja3ozVThXZnQyMEx6OWluVnA2VDRoNU56N1V4RHFIZDcwWWllR2tGWGUtQjM?oc=5",
+    "content": "KPop Demon Hunters Dolls in The Daily LITG, 28th June 2026 Bleeding Cool News",
+    "published_at": "0628google-kpop",
+    "published_ts": 1782634688.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《每日LITG》2026年6月28日：K-pop恶魔猎人玩偶亮相",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "2026年6月28日，Bleeding Cool News报道《每日LITG》栏目提及K-pop恶魔猎人玩偶"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：Bleeding Cool News在2026年6月28日的《每日LITG》栏目中报道了K-pop恶魔猎人玩偶的相关内容。]",
+    "extracted_at": "2026-06-28T18:25:09.953925+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -17,12 +111,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "公告牌发布截至6月27日一周的世界专辑榜",
-      "BOYNEXTDOOR首张正规专辑《HOME》空降世界专辑榜第1名，并首次进入公告牌200强专辑榜前20",
-      "CORTIS最新EP《GREENGREEN》稳居第2名"
+      "公告牌于6月27日发布当周世界专辑榜",
+      "BOYNEXTDOOR首张正规专辑《HOME》在世界专辑榜空降第1，并首次进入公告牌200强前20",
+      "CORTIS最新EP《GREENGREEN》稳居第2"
     ],
-    "summary_zh": "公告牌发布截至6月27日一周的世界专辑榜，BOYNEXTDOOR首张正规专辑《HOME》空降第1名，并首次进入公告牌200强专辑榜前20。CORTIS最新EP《GREENGREEN》稳居第2名。此外，LE SSERAFIM、aespa、ILLIT、BTS、TXT、Stray Kids、ITZY等艺人也占据榜单高位。",
-    "extracted_at": "2026-06-28T15:47:59.599566+08:00"
+    "summary_zh": "公告牌6月27日当周世界专辑榜中，BOYNEXTDOOR首张正规专辑《HOME》空降第1，并首次进入公告牌200强前20；CORTIS的EP《GREENGREEN》稳居第2。此外，LE SSERAFIM、aespa、ILLIT、BTS、TXT、Stray Kids、ITZY等艺人也占据榜单高位。",
+    "extracted_at": "2026-06-28T18:25:13.309234+08:00"
   },
   {
     "source_id": "soompi",
@@ -42,11 +136,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "JTBC《重生菜鸟》公开下集预告，李准英饰演的角色在李珠明搬来隔壁后对其冷眼相待。",
-      "该剧讲述孙贤周饰演的财阀会长姜勇浩在事故后灵魂意外重生为李准英饰演的角色的故事。"
+      "JTBC《重生菜鸟》公开下集预告，李准英饰演的角色在李珠明搬来隔壁后对她冷眼相待。",
+      "该剧讲述孙贤周饰演的财阀会长姜勇浩在事故后灵魂意外重生为李准英的故事。"
     ],
-    "summary_zh": "JTBC电视剧《重生菜鸟》公开了下集预告，显示李准英饰演的角色在李珠明饰演的角色搬来隔壁后，对她表现出冷淡态度。该剧讲述孙贤周饰演的财阀会长姜勇浩在事故后灵魂意外重生，开启第二次人生的故事。",
-    "extracted_at": "2026-06-28T15:48:02.668033+08:00"
+    "summary_zh": "JTBC电视剧《重生菜鸟》公开了下集预告，展现李准英（饰重生后的姜勇浩）对李珠明（饰邻居）搬来隔壁后冷眼相待的紧张场面。该剧讲述孙贤周饰演的财阀会长姜勇浩在事故后灵魂意外重生为李准英的故事。",
+    "extracted_at": "2026-06-28T18:25:16.859613+08:00"
   },
   {
     "source_id": "soompi",
@@ -69,8 +163,8 @@
       "朴智贤在tvN新剧《明天见》下一集中，于前任男友的演唱会上情绪激动落泪",
       "该剧改编自同名热门网漫，朴智贤饰演职场人车智允"
     ],
-    "summary_zh": "tvN新剧《明天见》公开新剧照，朴智贤饰演的职场人车智允在下一集前任男友的演唱会上落泪。该剧改编自同名热门网漫，是一部浪漫爱情剧。",
-    "extracted_at": "2026-06-28T15:48:05.304719+08:00"
+    "summary_zh": "tvN新剧《明天见》公开新剧照，朴智贤饰演的职场人车智允在下一集中于前任男友的演唱会上落泪。该剧改编自同名热门网漫，是一部浪漫爱情剧。",
+    "extracted_at": "2026-06-28T18:25:19.471088+08:00"
   },
   {
     "source_id": "soompi",
@@ -85,7 +179,7 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "CORTIS《GREENGREEN》创Billboard 200在榜最长纪录",
+    "title_zh": "CORTIS《GREENGREEN》创Billboard 200最长在榜纪录",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
@@ -94,8 +188,8 @@
       "该专辑此前连续五周位居前50名",
       "这是CORTIS在Billboard 200上在榜时间最长的专辑"
     ],
-    "summary_zh": "CORTIS的第二张EP《GREENGREEN》本周在Billboard 200专辑榜上连续第六周在榜，创下该组合在榜时间最长纪录。此前该专辑已连续五周位居前50名。",
-    "extracted_at": "2026-06-28T15:48:07.349035+08:00"
+    "summary_zh": "CORTIS的第二张EP《GREENGREEN》本周在Billboard 200专辑榜上连续第六周在榜，创下该组合在榜时间最长的纪录。此前该专辑已连续五周位居前50名。",
+    "extracted_at": "2026-06-28T18:25:21.847137+08:00"
   },
   {
     "source_id": "soompi",
@@ -116,10 +210,10 @@
     "is_blurred": false,
     "facts_list": [
       "6月27日，JTBC综艺《认识的哥哥》公开下周预告，(G)I-DLE全员五名成员作为嘉宾出演",
-      "预告中每位成员以“公主”自称进行趣味自我介绍"
+      "预告中每位成员以“公主”身份进行趣味自我介绍"
     ],
-    "summary_zh": "6月27日，JTBC综艺《认识的哥哥》公开了下周预告，(G)I-DLE全员五名成员将作为嘉宾出演。预告中，每位成员以“公主”自称进行趣味自我介绍，气氛欢乐。",
-    "extracted_at": "2026-06-28T15:48:09.427946+08:00"
+    "summary_zh": "6月27日，JTBC综艺《认识的哥哥》公开了下周预告，(G)I-DLE全员五名成员将作为嘉宾出演。预告中，成员们以“公主”身份进行趣味自我介绍，气氛欢乐。",
+    "extracted_at": "2026-06-28T18:25:24.393993+08:00"
   },
   {
     "source_id": "soompi",
@@ -134,38 +228,15 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "5部必看韩国综艺：让人上瘾的真人秀推荐",
+    "title_zh": "5部必看韩综推荐：超上瘾的韩国综艺节目",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "推荐综艺包括《我独自生活》，该节目以纪录片形式展示独居明星的日常生活"
+      "文章推荐了5部韩国综艺节目，其中一部为《我独自生活》，该节目以纪录片形式展现单身艺人的日常生活。"
     ],
-    "summary_zh": "文章推荐了5部必看的韩国综艺节目，其中重点介绍了《我独自生活》。该节目采用纪录片风格，记录独居明星的居家日常和普通生活片段，展现他们有趣的一面。",
-    "extracted_at": "2026-06-28T15:48:11.374794+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "A new banger to add to your K-pop playlist. 🎧 Link to full story in the comment section. - facebook.com",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNG84SkFhZGxybWVGbEZ1bzhiVThxSnVUT2JhQVI2ejdSdEU4N3Q1UW5JcVE4NlV1cXRzM1JFYTdhMlpVaFh1REJtdF9lQ2hUZnFmV3dBVXhDVlBnNkNfVGVqRnFlMkhUVUk3dUhvLWtVSVJ4SHZiUllqN3FCLWRSemV1MmxoVGQ4OVc0V1VUVXVEN05WWGo5UmxxcFNpY1ZfOGs3dml3OG5QTE1IcExVeG9ScFotUHFxcDVGTkZHS21JQkdDWVVFMlpfcnN3blJHRzFHZmJtNA?oc=5",
-    "content": "A new banger to add to your K-pop playlist. 🎧 Link to full story in the comment section. facebook.com",
-    "published_at": "0628google-kpop",
-    "published_ts": 1782615604.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "K-pop新曲推荐：一首值得加入歌单的热门歌曲",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "原文未提及具体行为，仅称：有一首新歌值得加入K-pop播放列表"
-    ],
-    "summary_zh": "原文未提及具体行为，仅称：有一首新歌值得加入K-pop播放列表，并附有完整故事链接。",
-    "extracted_at": "2026-06-28T15:48:13.243383+08:00"
+    "summary_zh": "文章推荐了5部必看的韩国综艺节目，其中重点介绍了《我独自生活》。该节目采用纪录片风格，记录单身艺人独自生活的日常，展现他们平凡而有趣的一面。",
+    "extracted_at": "2026-06-28T18:25:26.782801+08:00"
   },
   {
     "source_id": "soompi",
@@ -180,16 +251,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Jennie与Tame Impala合作曲《Dracula》升至Billboard电台榜第6位",
+    "title_zh": "Jennie与Tame Impala合作曲《Dracula》升至Billboard电台榜第6",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "本周，BLACKPINK成员Jennie与Tame Impala合作的《Dracula》混音版在Billboard电台歌曲榜（Radio Songs chart）升至第6位，创下新高。",
-      "该榜单统计美国各类型电台的周播放量。"
+      "本周，BLACKPINK成员Jennie与Tame Impala合作的《Dracula》混音版在Billboard电台歌曲榜（Radio Songs chart）升至第6名，创下新高",
+      "该榜单统计美国各类型电台的周播放量"
     ],
     "summary_zh": "BLACKPINK成员Jennie与Tame Impala合作的《Dracula》混音版在美国Billboard电台歌曲榜上攀升至第6位，创下该曲在榜单上的最高排名。该榜单统计美国各类型电台的周播放量。",
-    "extracted_at": "2026-06-28T15:48:15.482434+08:00"
+    "extracted_at": "2026-06-28T18:25:29.668903+08:00"
   },
   {
     "source_id": "soompi",
@@ -204,17 +275,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "BTS《SWIM》获英国银唱片认证，创韩流艺人13首单曲纪录",
+    "title_zh": "BTS《SWIM》获英国银唱片认证，创韩流艺人最多银单曲纪录",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "英国唱片业协会（BPI）正式授予BTS最新主打曲《SWIM》BRIT银唱片认证",
-      "《SWIM》是BTS第13首获得英国银唱片认证的单曲",
-      "BTS成为首位在英国拥有13首不同单曲获银唱片认证的韩国艺人"
+      "这是BTS在英国获得的第13首银唱片单曲",
+      "BTS成为首位在英国拥有13首银唱片单曲的韩国艺人"
     ],
-    "summary_zh": "BTS最新主打曲《SWIM》获得英国唱片业协会（BPI）BRIT银唱片认证，成为BTS第13首达成此成就的单曲。BTS也因此成为首位在英国拥有13首不同单曲获银唱片认证的韩国艺人。",
-    "extracted_at": "2026-06-28T15:48:17.558032+08:00"
+    "summary_zh": "BTS的歌曲《SWIM》获得英国唱片业协会（BPI）的BRIT银唱片认证，成为他们在英国第13首获得该认证的单曲。BTS由此成为英国历史上拥有银唱片单曲数量最多的韩国艺人。",
+    "extracted_at": "2026-06-28T18:25:32.612316+08:00"
   },
   {
     "source_id": "soompi",
@@ -234,12 +305,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "SBS《金科长重启》第2集在6月27日播出，成为当日所有节目收视冠军",
-      "该剧仅用2集收视率突破15%，是5年来最快达成此成绩的韩剧",
-      "该剧首播收视率创下2026年迷你剧最高开播纪录"
+      "SBS《金科长重启》第2集在6月27日播出，成为当天所有节目中收视最高的剧集",
+      "该剧仅用2集收视率突破15%，是5年来最快达到此成绩的韩剧",
+      "该剧首播收视率创下2026年迷你剧最高首播纪录"
     ],
-    "summary_zh": "SBS复仇剧《金科长重启》（暂译）由苏志燮主演，开播即创2026年迷你剧最高首播收视，第2集于6月27日播出后成为当日所有节目收视冠军，仅用2集收视率突破15%，成为5年来最快达成此成绩的韩剧。",
-    "extracted_at": "2026-06-28T15:48:20.088905+08:00"
+    "summary_zh": "SBS复仇剧《金科长重启》（暂译）由苏志燮主演，开播后收视迅速攀升。第2集在6月27日播出，成为当天所有节目收视冠军，仅用2集收视率便突破15%，创下5年来韩剧最快达到这一成绩的纪录。该剧首播收视率也是2026年所有迷你剧中最高的。",
+    "extracted_at": "2026-06-28T18:25:36.038438+08:00"
   },
   {
     "source_id": "soompi",
@@ -254,7 +325,7 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "6月新锐歌手品牌声誉排行榜出炉，RESCENE登顶",
+    "title_zh": "6月新锐歌手品牌声誉榜出炉，RESCENE登顶",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
@@ -263,7 +334,7 @@
       "RESCENE位列本月榜单第一"
     ],
     "summary_zh": "韩国企业评价研究所公布6月新锐歌手品牌声誉排名，基于5月26日至6月26日的大数据，分析媒体曝光、消费者参与、互动及社区认知指数，RESCENE位居榜首。",
-    "extracted_at": "2026-06-28T15:48:22.252014+08:00"
+    "extracted_at": "2026-06-28T18:25:38.572839+08:00"
   },
   {
     "source_id": "soompi",
@@ -278,16 +349,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "张基河与尹加伊恋情公开，双方经纪公司确认",
+    "title_zh": "张基河与尹可伊恋情公开，双方经纪公司确认",
     "source_type": "韩娱",
     "risk_level": "中",
     "is_blurred": false,
     "facts_list": [
-      "6月27日，张基河所属社DooRooDooRoo Artist Company和尹加伊所属社OUI Entertainment分别确认两人正在交往。",
-      "张基河所属社声明称“两人以积极的情感在交往”，尹加伊所属社同样确认“两人正在交往”。"
+      "6月27日，张基河所属社DooRooDooRoo Artist Company确认两人正在交往，称“两人以积极的心态在见面”",
+      "同日，尹可伊所属社OUI Entertainment确认恋情，称“两人正在交往”"
     ],
-    "summary_zh": "6月27日，韩国歌手张基河与尹加伊的恋情被双方经纪公司正式确认。张基河所属社DooRooDooRoo Artist Company表示“两人以积极的情感在交往”，尹加伊所属社OUI Entertainment也确认了该消息。",
-    "extracted_at": "2026-06-28T15:48:24.416762+08:00"
+    "summary_zh": "6月27日，韩国歌手张基河与尹可伊的恋情被双方经纪公司正式确认。张基河所属社DooRooDooRoo Artist Company表示两人以积极心态交往，尹可伊所属社OUI Entertainment也证实了该消息。",
+    "extracted_at": "2026-06-28T18:25:41.225128+08:00"
   },
   {
     "source_id": "soompi",
@@ -302,7 +373,7 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "ATEEZ新曲《BAD》舞蹈练习视频公开，八人刀群舞精准有力",
+    "title_zh": "ATEEZ公开新曲《BAD》舞蹈练习视频，八人刀群舞精准有力",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
@@ -311,7 +382,7 @@
       "视频展示了八名成员整齐划一的舞蹈动作"
     ],
     "summary_zh": "6月27日，ATEEZ公开了新迷你专辑《GOLDEN HOUR : Part.5》主打曲《BAD》的“FIX版本”舞蹈练习视频。视频中八名成员展示了精准有力的刀群舞，动作整齐划一。",
-    "extracted_at": "2026-06-28T15:48:26.574235+08:00"
+    "extracted_at": "2026-06-28T18:25:43.840836+08:00"
   },
   {
     "source_id": "soompi",
@@ -331,12 +402,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "I.O.I在6月27日MBC《音乐中心》以《Suddenly》获得一位，总分6,637分",
-      "一位候补包括RIIZE《Do your dance》、I.O.I《Suddenly》、ILLIT《It's Me》",
+      "I.O.I在6月27日MBC《音乐中心》以《Suddenly》获得1位，总分6,637分",
+      "1位候补包括RIIZE《Do your dance》、I.O.I《Suddenly》、ILLIT《It's Me》",
       "该期节目还有Hearts2Hearts、EVAN等表演"
     ],
-    "summary_zh": "I.O.I凭借《Suddenly》在6月27日MBC《音乐中心》中获得第二座音乐节目奖杯，总分6,637分，击败RIIZE和ILLIT。本期节目还包含Hearts2Hearts、EVAN等艺人的舞台。",
-    "extracted_at": "2026-06-28T15:48:28.798260+08:00"
+    "summary_zh": "I.O.I凭借新曲《Suddenly》在6月27日MBC《音乐中心》中获得第二座音乐节目奖杯，以总分6,637分击败RIIZE和ILLIT夺冠。本期节目还包含Hearts2Hearts、EVAN等艺人的舞台表演。",
+    "extracted_at": "2026-06-28T18:25:46.771545+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -351,16 +422,15 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Netflix韩剧《特工金》重启：关于这部间谍剧你需要知道的一切",
+    "title_zh": "Netflix韩剧《特工金》重启：关于间谍剧集你需要知道的一切",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "Netflix宣布韩剧《特工金》重启，该剧为间谍题材",
-      "具体播出时间、主演阵容等细节尚未公布"
+      "Netflix宣布韩剧《特工金》重启，该剧为间谍题材。"
     ],
-    "summary_zh": "Netflix宣布重启韩剧《特工金》（Agent Kim Reactivated），这是一部间谍题材的韩剧。目前关于该剧的具体播出时间、主演阵容等细节尚未公布。",
-    "extracted_at": "2026-06-28T15:48:30.802074+08:00"
+    "summary_zh": "Netflix宣布重启韩剧《特工金》，这是一部间谍题材的剧集。目前尚未公布具体播出日期、演员阵容或剧情细节。",
+    "extracted_at": "2026-06-28T18:25:49.299515+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -380,59 +450,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "该人物合写了以K-pop为主题的恶魔猎人漫画",
-      "她在创作期间低调公开了自己的双性恋身份",
-      "她发现创作的故事逐渐反映了她个人的经历"
+      "该文章为Thought Catalog的人物特写，讲述一位女性合写K-pop恶魔猎人题材漫画的经历",
+      "她在创作过程中低调公开自己的双性恋身份",
+      "她发现笔下故事逐渐反映自身经历"
     ],
-    "summary_zh": "一位创作者在合写K-pop恶魔猎人漫画的同时，低调公开了自己的双性恋身份。她发现，自己笔下的故事逐渐变成了个人经历的映射。",
-    "extracted_at": "2026-06-28T15:48:32.826344+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "K-Pop Group Stray Kids Land SKZOO Pop-Up in West Hollywood This Weekend - wehotimes.com",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY1N6UWlRNzh1VTYxOWJfZE85NzF0V1Blb1JuaWduTG43UjdLT1h2MkFaalp1Z2VtYlVwcjRiNXd1MDlIYjFUa0F3S1FYNWt1VEptNDNudm9YTXAxa2FhODdKOV9LX09kMUdIV3Fnb08weDdrSDI1OFBlUnRVY3JLdDRBcEw4ekdBZ3hrVTA2WER2eEJoZC12MlRB?oc=5",
-    "content": "K-Pop Group Stray Kids Land SKZOO Pop-Up in West Hollywood This Weekend wehotimes.com",
-    "published_at": "0628google-kpop",
-    "published_ts": 1782585781.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Stray Kids SKZOO快闪店本周末登陆西好莱坞",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "Stray Kids的SKZOO主题快闪店将于本周末在美国西好莱坞举办",
-      "该快闪店由wehotimes.com报道"
-    ],
-    "summary_zh": "据wehotimes.com报道，K-Pop组合Stray Kids的SKZOO主题快闪店将于本周末在美国西好莱坞举办。",
-    "extracted_at": "2026-06-28T15:48:34.565448+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "8 New K-Drama Shows That Are Perfect From Start to Finish - Collider",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Mb254R0pDOElxN2xQTVhGY0tDN2R0RUVWRFRFV0NxVUhob2dWc0R4NHNmYTdOUWxHNjY4bEt2bEJHRXFJUXI1Rm9KLXVTcWQ5dWViME1Jd0xpN2NvbnZlVGV4UXREb3Vkam1OVkJSMG4?oc=5",
-    "content": "8 New K-Drama Shows That Are Perfect From Start to Finish Collider",
-    "published_at": "0628google-kpop",
-    "published_ts": 1782579914.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Collider评选8部从头到尾完美的韩剧新作",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "Collider网站发布文章，列出8部新韩剧，称其从头到尾完美"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：Collider网站评选出8部从头到尾完美的韩剧新作，但未列出具体剧名或细节。]",
-    "extracted_at": "2026-06-28T15:48:36.141458+08:00"
+    "summary_zh": "Thought Catalog发表人物特写，讲述一位女性合写K-pop恶魔猎人题材漫画的经历。她在创作过程中低调公开双性恋身份，并发现故事逐渐变成自传。",
+    "extracted_at": "2026-06-28T18:25:52.127863+08:00"
   },
   {
     "source_id": "asianwiki",
