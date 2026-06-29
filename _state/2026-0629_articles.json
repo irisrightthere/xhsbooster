@@ -1,5 +1,437 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Live Review: ATEEZ deliver a K-pop masterclass at BST Hyde Park 2026 - Contactmusic.com",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdUpQamRId3JNT1VsbTdwaE41NmFtT1Z5Y1VjVmZtZ3RFV2lQWTFSOUpYaVVlUFAxMWpWUmVUVlVlZWhISHVGUHhCWGdyMXRqN1lBcE1RbG5XWVVocmM3NUZQNmFmN0pnc2ZVbTM1UlhEdG11RG8zYkc5UkM3Y2dXUDFGYUUtNXZSVVVHcVBHc09QSUZtdUdYY2tjN01Qd0EzZUFtOXdMWFZDMHhSVm9FWEdIZlE?oc=5",
+    "content": "Live Review: ATEEZ deliver a K-pop masterclass at BST Hyde Park 2026 Contactmusic.com",
+    "published_at": "0629google-kpop",
+    "published_ts": 1782746155.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "ATEEZ 2026年海德公园BST音乐节献上K-pop大师级演出",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "ATEEZ于2026年在伦敦海德公园BST音乐节演出",
+      "演出被评价为K-pop大师级表演"
+    ],
+    "summary_zh": "ATEEZ在2026年伦敦海德公园BST音乐节上呈现了一场被评论为K-pop大师级的演出，展现了高水平的舞台表现力。",
+    "extracted_at": "2026-06-29T23:40:23.498888+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "SDCC '26: Mattel announces exclusives feat. KPOP DEMON HUNTERS, JURASSIC PARK III and MONSTER HIGH - comicsbeat.com",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV1pjdmo0R0xXRmptbXlycGZzc1RlSHh1MWNVZ2xyZ3g3ODVUbUlHZkVpcE13cGRCWHltdUt4VTU0NmVKZ3kxc1RuV1JHbzhlbVhBc0w4cW03Yk5nUEhxU1BOWVM1ZGlyMDJGVWhpUGZBWnBCUElMSDlPdGZWMFZKR2txa1oySFJTWEI5RjlMcnZNTjk0eEk3S25IV2t2WlNDeUlQVm5tLWxxYk52WWpkSURTSUhuaFRLMmh3?oc=5",
+    "content": "SDCC '26: Mattel announces exclusives feat. KPOP DEMON HUNTERS, JURASSIC PARK III and MONSTER HIGH comicsbeat.com",
+    "published_at": "0629google-kpop",
+    "published_ts": 1782745298.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "SDCC 2026：美泰宣布独家新品，含KPOP恶魔猎人、侏罗纪公园3和怪兽高中",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "美泰在SDCC 2026宣布独家新品",
+      "新品包括KPOP恶魔猎人、侏罗纪公园3和怪兽高中系列"
+    ],
+    "summary_zh": "美泰在SDCC 2026上宣布了独家新品，包括KPOP恶魔猎人、侏罗纪公园3和怪兽高中系列。",
+    "extracted_at": "2026-06-29T23:40:25.856674+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Mattel’s SDCC Exclusives Include ‘KPop Demon Hunters’ Figures, Monster High Doll And More - Forbes",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPa2hoSlVyOW9sWDBIeEhBUV9qZXE2R1lIVXpJbXdsMlF4SHJIZkYxVjZxMVpFdFpIc3c3TXo0ZkNsaTNaVS1rcEZ3ZkQ3ZXJrQ0xPNnVSVEZsZHB5TzZpWnV4T3BzVC1nLUdNUWxoWjhoN3RsMEpMVWM3UFQyNlFMREVQSGx3X1BfdmZaM0NVbUQwSEY5WVAzdUMtMHRrdlR1aTIwUlVCZG9CU2dkNy0tS3lQNjBMaFc1d2REYUlsZ1RaUmg3TUxWNkxKcUVESWZPQmNV?oc=5",
+    "content": "Mattel’s SDCC Exclusives Include ‘KPop Demon Hunters’ Figures, Monster High Doll And More Forbes",
+    "published_at": "0629google-kpop",
+    "published_ts": 1782745283.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "美泰SDCC限定：K-pop恶魔猎人手办、Monster High娃娃等",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "美泰在SDCC（圣地亚哥国际动漫展）推出限定商品",
+      "限定商品包括K-pop恶魔猎人系列手办、Monster High娃娃等"
+    ],
+    "summary_zh": "美泰公司宣布将在圣地亚哥国际动漫展（SDCC）上推出多款限定商品，其中包括K-pop恶魔猎人系列手办、Monster High娃娃等。这些商品仅在展会期间限量发售。",
+    "extracted_at": "2026-06-29T23:40:28.242323+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "KPop Demon Hunters officially returns with new Mattel San Diego Comic-Con drop - Polygon.com",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYkxiZ2w2MnRqZGRTTkljekRtVlBWTnpVT3g4dnpxM0cwMTl2WGhHVUxJblZYS0xpOWJLbzNqdDVXNk5YeFM2QVBQb21lTDhzRFBPNEpMOHZkOHFsRWJuSVlBWXN0RTFpeEtiUXhzOTRpN3ZmUDlKWV85bU45TmEtTkp0WkZrOXNWZUJBT0E3Ri10akk?oc=5",
+    "content": "KPop Demon Hunters officially returns with new Mattel San Diego Comic-Con drop Polygon.com",
+    "published_at": "0629google-kpop",
+    "published_ts": 1782745279.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "KPop Demon Hunters 携 Mattel 圣地亚哥动漫展新品正式回归",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "KPop Demon Hunters 正式回归",
+      "与 Mattel 合作推出圣地亚哥动漫展限定新品"
+    ],
+    "summary_zh": "KPop Demon Hunters 正式回归，并与 Mattel 合作推出圣地亚哥动漫展限定新品。",
+    "extracted_at": "2026-06-29T23:40:30.146073+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Agent Kim Reactivated : What to Know About the Spy K-Drama - Netflix",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbEFnVnJiQkdsbURFUDlQSlpzOEFfYXFWNFpzZmZ0dFZ2dXJVenFMeURIVDhLOEhKUERNclg2N0NYdklYTjFEZUcxYnFYcTZlM2YyWTM0MTZGOVRhTDloallhQXo0amRmeVd2V0FwYlpTSWUzSFI1RGtKU19aR1lPVV9oclQ?oc=5",
+    "content": "Agent Kim Reactivated : What to Know About the Spy K-Drama Netflix",
+    "published_at": "0629google-kpop",
+    "published_ts": 1782745038.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Netflix韩剧《特工金》重启：关于这部间谍剧你需要知道的一切",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Netflix宣布韩剧《特工金》重启，该剧为间谍题材。"
+    ],
+    "summary_zh": "Netflix宣布重启韩剧《特工金》，这是一部间谍题材的韩剧。目前尚未公布具体播出日期、演员阵容等详细信息。",
+    "extracted_at": "2026-06-29T23:40:32.541177+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Xinssy Blends K-Pop and Dance Pop in Her New Single ‘Don’t say you were following my pace’ - Indie Boulevard Magazine",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU3ZQdHBSaTNOS3dSRl9VZFRRaWU0UU5ESjA5bGtrQWRjY2REcTdLZ1gwZXNJZEFaS3BpODFPcTZOZ25yLTZneE5RdXh3dTh0Y1kwcnlHc0lHcFE4d00zenpnSzJuS010WHY1Z0tSdExMOFpYNlFxMmZaZEs4V0hNUG5mNGRDajZDOUdnd2trbzUzLS0zNUpFaUZ6cFlzN2lyX0hqaHEzWURMRzNGYzZKZkQ3UnJWcmxHYV8weTdMTQ?oc=5",
+    "content": "Xinssy Blends K-Pop and Dance Pop in Her New Single ‘Don’t say you were following my pace’ Indie Boulevard Magazine",
+    "published_at": "0629google-kpop",
+    "published_ts": 1782743112.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Xinssy新单曲融合K-Pop与舞曲流行",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Xinssy发布新单曲《Don’t say you were following my pace》",
+      "该单曲融合K-Pop和舞曲流行风格"
+    ],
+    "summary_zh": "Xinssy发布新单曲《Don’t say you were following my pace》，该作品融合了K-Pop和舞曲流行风格。",
+    "extracted_at": "2026-06-29T23:40:34.318351+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Historical Fantasy K-Drama ‘Men of the Harem’ Starring Bae Suzy: Coming to Netflix in 2027 - What's on Netflix",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcklwOFlsTEhMQU4tTnJoSDA2MUJTbFNCSF9WYnItVTN3UjVIZl9OT01NRHpDREMwT01NcGdrQlR0NDU2dHZGcl9UN1hXNFBUR2xVUGdaYlNNOXJEZjJ5bTAySzNxeUxzNHJNT2xDZ0ZCdWdsU2Z0WDVaUDFpREJnUW1VUG5nMVpha240OC02UDE4ZGM?oc=5",
+    "content": "Historical Fantasy K-Drama ‘Men of the Harem’ Starring Bae Suzy: Coming to Netflix in 2027 What's on Netflix",
+    "published_at": "0629google-kpop",
+    "published_ts": 1782742804.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "裴秀智主演古装奇幻韩剧《后宫的男人》2027年Netflix上线",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "裴秀智主演的古装奇幻韩剧《后宫的男人》将于2027年在Netflix上线",
+      "该剧由Netflix出品"
+    ],
+    "summary_zh": "裴秀智主演的古装奇幻韩剧《后宫的男人》确定于2027年在Netflix独家上线。该剧由Netflix出品，具体剧情细节尚未公布。",
+    "extracted_at": "2026-06-29T23:40:36.517490+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "‘KPop Demon Hunters’ Is About To Make Netflix History Yet Again - IMDb",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BVXlhemg3elVHRkpBaVp0bWRlNk83Q01abTRWMTdrSDhqZ2pnSERNMGprQndmTVotOXRCRnZyeFBGMjN0YVEtZFRNeWxVSUp2SUhmcGNxOTRZbU9CdUphSGVNYnRWMUE?oc=5",
+    "content": "‘KPop Demon Hunters’ Is About To Make Netflix History Yet Again IMDb",
+    "published_at": "0629google-kpop",
+    "published_ts": 1782737710.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《KPop Demon Hunters》即将再次刷新Netflix历史纪录",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文未提及具体行为，仅称：Netflix原创韩剧《KPop Demon Hunters》即将再次创造历史纪录"
+    ],
+    "summary_zh": "原文未提及具体行为，仅称：Netflix原创韩剧《KPop Demon Hunters》即将再次创造历史纪录。",
+    "extracted_at": "2026-06-29T23:40:38.467415+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "THE BOYZ’s Q, Hwang Ji Ah, And More Showcase Seamless Chemistry At “My Idol, My Debut” Script Reading",
+    "url": "https://www.soompi.com/article/1851214wpp/the-boyzs-q-hwang-ji-ah-and-more-showcase-seamless-chemistry-at-my-idol-my-debut-script-reading",
+    "content": "“My Idol, My Debut” has shared a glimpse of its first script reading! “My Idol, My Debut” is a time-slip coming-of-age drama about a devoted fan who travels eight years into the past to prevent a tragic accident. In an effort to change fate, she winds up becoming an idol trainee. The script reading was&#8230; Continue reading THE BOYZ&#8217;s Q, Hwang Ji Ah, And More Showcase Seamless Chemistry At &#8220;My Idol, My Debut&#8221; Script Reading\nThe post THE BOYZ&#8217;s Q, Hwang Ji Ah, And More Showcase Seamless Chemistry At &#8220;My Idol, My Debut&#8221; Script Reading appeared first on Soompi.",
+    "published_at": "0629soompi",
+    "published_ts": 1782734734.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "THE BOYZ成员Q、黄智雅等出席《我的偶像，我的出道》剧本围读，展现默契配合",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "《我的偶像，我的出道》公开首次剧本围读现场照片",
+      "该剧为时间穿越成长题材，讲述粉丝穿越回八年前阻止悲剧并成为偶像练习生的故事",
+      "参与围读的演员包括THE BOYZ成员Q、黄智雅等"
+    ],
+    "summary_zh": "韩剧《我的偶像，我的出道》公开首次剧本围读现场照，主演THE BOYZ成员Q、黄智雅等展现默契配合。该剧讲述一名忠实粉丝穿越回八年前，试图阻止一场悲剧，却意外成为偶像练习生的时间穿越成长故事。",
+    "extracted_at": "2026-06-29T23:40:41.238998+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-pop idol BAIN reflects on being first gay idol in active boy group - PinkNews",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oNmlXa0F6UDY4ZGZuUFFwdk5iTjU3cEpkVHJkQzRvemtIMkczWmlsSk9rWU5BU19qNWRrdjJTdnBCVURNLUh3OUNacmdrVEpxcUtFSGRFVHlaV0xrbW42UVdEUndDbGNoWDNsTzJHQ2dCU255?oc=5",
+    "content": "K-pop idol BAIN reflects on being first gay idol in active boy group PinkNews",
+    "published_at": "0629google-kpop",
+    "published_ts": 1782729814.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "K-pop偶像BAIN谈作为现役男团首位公开同性恋成员的心路历程",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "BAIN是现役男团中首位公开同性恋身份的K-pop偶像",
+      "BAIN在PinkNews采访中回顾了公开身份的经历与感受"
+    ],
+    "summary_zh": "K-pop偶像BAIN在接受PinkNews采访时，谈及自己作为现役男团中首位公开同性恋成员的经历与反思。他分享了公开身份后的个人感受及对行业的影响，但未提及具体事件或数据。",
+    "extracted_at": "2026-06-29T23:40:43.954309+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "TREASURE’s Junkyu To Temporarily Halt Activities Due To Health + Shares Heartfelt Letter To Fans",
+    "url": "https://www.soompi.com/article/1851207wpp/treasures-junkyu-to-temporarily-halt-activities-due-to-health-shares-heartfelt-letter-to-fans",
+    "content": "TREASURE’s Junkyu will be temporarily halting his activities to focus on his health. On June 29, YG Entertainment announced that Junkyu will be taking a temporary break after experiencing health issues. The agency explained that although TREASURE recently wrapped up promotions for their latest mini album “NEW WAV,&#8221; Junkyu had continued participating in activities despite&#8230; Continue reading TREASURE’s Junkyu To Temporarily Halt Activities Due To Health + Shares Heartfelt Letter To Fans\nThe post TREASURE’s Junkyu To Temporarily Halt Activities Due To Health + Shares Heartfelt Letter To Fans appeared first on Soompi.",
+    "published_at": "0629soompi",
+    "published_ts": 1782729221.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "TREASURE成员Junkyu因健康问题暂停活动，发布手写信给粉丝",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "2024年6月29日，YG娱乐宣布TREASURE成员Junkyu因健康问题将暂时中断活动",
+      "Junkyu在TREASURE最新迷你专辑《NEW WAVE》宣传结束后仍持续参与活动",
+      "Junkyu发布手写信向粉丝说明情况"
+    ],
+    "summary_zh": "TREASURE成员Junkyu因健康问题将暂时中断活动。6月29日，YG娱乐宣布Junkyu在经历健康问题后需要暂时休息。公司表示，尽管TREASURE最近结束了迷你专辑《NEW WAVE》的宣传，但Junkyu此前一直坚持参与活动。Junkyu还通过手写信向粉丝传达了这一决定。",
+    "extracted_at": "2026-06-29T23:40:46.892640+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "KPop Demon Hunters Dolls in The Daily LITG, 29th June 2026 - Bleeding Cool News",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZXRSRS1kMkI3SWVRWW55R3dWTS0wRWczRzZQV24xMkxWdlBoNXJvMERqVjR3X1Nma0t3S053bFNtaHBvUHlvVzZQX1dqLVVoMENjQ09jdE0wZkRqSV9oM3dER284Qlo2R1MxbjBqU0pTdnB4Rk1tQlFZa2VIU3A4VGdJRjRiV29GcUtVZ093TWxoblI0T3IzeW04cng?oc=5",
+    "content": "KPop Demon Hunters Dolls in The Daily LITG, 29th June 2026 Bleeding Cool News",
+    "published_at": "0629google-kpop",
+    "published_ts": 1782728408.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "2026年6月29日《The Daily LITG》报道KPop恶魔猎人玩偶",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "2026年6月29日，Bleeding Cool News在《The Daily LITG》中提及KPop恶魔猎人玩偶"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：2026年6月29日《The Daily LITG》报道了KPop恶魔猎人玩偶的相关内容。]",
+    "extracted_at": "2026-06-29T23:40:49.041146+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "V8 are K-Pop’s new hyperpop superduo - Dazed",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNnBsY3h1SU84NGptbE91MGx3S09McWVIU0pTaXdtTUJiT1h2UDAtTEZQa2VlOGluc3dnaTdTMUs4WXFjY2RGcnlmSS00SUhGYkNZZnlyb0tJVjJTUDZqM0MwME9vU3RTYnJVQ0JYVzhCR2c1bjE2bEtIdWdQSm1LYi1KMFc1MjBaM004XzJ6M2c5NGJPUnl5c293?oc=5",
+    "content": "V8 are K-Pop’s new hyperpop superduo Dazed",
+    "published_at": "0629google-kpop",
+    "published_ts": 1782727380.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "V8：K-Pop新晋超流行双人组",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "V8被Dazed杂志称为K-Pop新晋超流行双人组"
+    ],
+    "summary_zh": "据Dazed杂志报道，V8是K-Pop领域新出现的超流行风格双人组合。",
+    "extracted_at": "2026-06-29T23:40:51.076903+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Lee Dong Wook And Kim Hye Joon Dish On Their Chemistry And Reuniting For “A Shop For Killers 2”",
+    "url": "https://www.soompi.com/article/1851167wpp/lee-dong-wook-and-kim-hye-joon-dish-on-their-chemistry-and-reuniting-for-a-shop-for-killers-2",
+    "content": "Lee Dong Wook and Kim Hye Joon has posed with ELLE magazine! Ahead of the premiere of their upcoming original series &#8220;A Shop for Killers 2,&#8221; Lee Dong Wook and Kim Hye Joon joined ELLE for a pictorial and interview. “A Shop for Killers” is an action drama that follows Jeong Ji An (Kim Hye&#8230; Continue reading Lee Dong Wook And Kim Hye Joon Dish On Their Chemistry And Reuniting For &#8220;A Shop For Killers 2&#8221;\nThe post Lee Dong Wook And Kim Hye Joon Dish On Their Chemistry And Reuniting For &#8220;A Shop For Killers 2&#8221; appeared first on Soompi.",
+    "published_at": "0629soompi",
+    "published_ts": 1782725362.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "李栋旭金慧埈为《杀手商店2》合体拍ELLE画报，谈化学反应",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "李栋旭和金慧埈为ELLE杂志拍摄画报并接受采访",
+      "两人合作的新剧《杀手商店2》即将首播"
+    ],
+    "summary_zh": "李栋旭和金慧埈为ELLE杂志拍摄画报并接受采访，谈及两人在即将首播的原创剧集《杀手商店2》中的化学反应和再次合作。该剧是一部动作剧，讲述郑智安（金慧埈饰）的故事。",
+    "extracted_at": "2026-06-29T23:40:53.980384+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "10 of the best new K-dramas to watch in July 2026 - South China Morning Post",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOFhQck1xWTV5aVJFbWQyTEd1c2YwZWFLbENpTGRsSTRtdHprSVdlV0JxVUN5dlJmRHN5SHJHaVdFcS02OU1iTnZJZjBVYzliMTg2MW94bzh3Mm9kOGpHTzV1ZWVPNmZqZ0ZoZ0RUSVR0anJ3MXJsZkVsbk90ZWN4VC1fc3VFWEQ0V1N6QTRteW5kWUZLbndZLU1iTFhjU1p0OHpOdEVuVEJlenlselVyblhuU2pTTy1ET3ZGdFdQT00zNGlySmVNaNIByAFBVV95cUxQSlpIa210U0owZTdmM3lOekFqUXdubTVHS2tSNlBXeDczTm9IRE5ZZXRBYkJwalp6UV9BalNxbWRYRzN0Zl9HRHNqSUYybFU1QXJsbWFTWWtGTzYybkh3cGJYSnBnRlFpR2NiN3htSEkzT1hOaThqcVN5TEhXQk11QVlsdmljSnVBV2xYTTZ2R2RBQ2kyNEdzWGpVMkhDa3lGRzVlb2s4bGMtOXZmTmFVMGtqc3FJQXRMcko2S0ZtR2VsS2JjX21hZA?oc=5",
+    "content": "10 of the best new K-dramas to watch in July 2026 South China Morning Post",
+    "published_at": "0629google-kpop",
+    "published_ts": 1782724505.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "2026年7月十大必看新韩剧推荐",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "南华早报发布2026年7月十大新韩剧推荐清单",
+      "清单包含10部韩剧，具体剧名未在原文中列出"
+    ],
+    "summary_zh": "南华早报发布了2026年7月十大新韩剧推荐清单，列出了10部值得观看的新剧，但原文未提供具体剧名或详细信息。",
+    "extracted_at": "2026-06-29T23:40:56.073531+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "‘Granny’ Netflix K-Drama Comedy Webtoon Adaptation: Filming Begins July 2026 - What's on Netflix",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWGpYWGlLUUNKYmgtZUtQZXd6amFHc1F4NGNBTkl6WUxwVWxKVzljdzhpZmkxNHB5VC10aDhsYnE4UFB4Ti1wQmZqTC1VVUxZdzFOY1BzRnBHbU1JanZpdzNBUUhYaV8zN1AtSUJ1NzRuUWFtUHJ0ZkFBNkxFbDBHdFFpczJjcEJSaFJ5ZnJINElzWE0?oc=5",
+    "content": "‘Granny’ Netflix K-Drama Comedy Webtoon Adaptation: Filming Begins July 2026 What's on Netflix",
+    "published_at": "0629google-kpop",
+    "published_ts": 1782724401.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Netflix韩剧《Granny》改编自网漫，2026年7月开拍",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Netflix韩剧《Granny》改编自网漫，是一部喜剧",
+      "该剧将于2026年7月开始拍摄"
+    ],
+    "summary_zh": "Netflix宣布将制作一部改编自网漫的韩剧《Granny》，类型为喜剧。该剧计划于2026年7月开始拍摄。",
+    "extracted_at": "2026-06-29T23:40:58.316190+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Namkoong Min, Lee Seol, Kim Dae Myeung, And Lee Sang Hee Showcase Professionalism During “The Husband” Poster Shoot",
+    "url": "https://www.soompi.com/article/1851102wpp/watch-namkoong-min-lee-seol-kim-dae-myeung-and-lee-sang-hee-showcase-professionalism-during-the-husband-poster-shoot",
+    "content": "KBS2&#8217;s upcoming drama &#8220;The Husband&#8221; has given viewers a behind-the-scenes look at its poster shoot! “The Husband” is a thriller starring Namkoong Min as a man on the brink of divorce who unexpectedly becomes embroiled in a desperate fight with a dangerous criminal in order to rescue his wife. At the poster shoot, Namkoong Min,&#8230; Continue reading Watch: Namkoong Min, Lee Seol, Kim Dae Myeung, And Lee Sang Hee Showcase Professionalism During &#8220;The Husband&#8221; Poster Shoot\nThe post Watch: Namkoong Min, Lee Seol, Kim Dae Myeung, And Lee Sang Hee Showcase Professionalism During &#8220;The Husband&#8221; Poster Shoot appeared first on Soompi.",
+    "published_at": "0629soompi",
+    "published_ts": 1782724288.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "南宫珉、李雪、金大明、李尚熙《丈夫》海报拍摄幕后公开",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "KBS2新剧《丈夫》公开海报拍摄幕后视频",
+      "主演南宫珉、李雪、金大明、李尚熙参与拍摄",
+      "该剧讲述离婚边缘男子为救妻子与危险罪犯斗争的故事"
+    ],
+    "summary_zh": "KBS2新剧《丈夫》公开海报拍摄幕后视频，主演南宫珉、李雪、金大明、李尚熙展现专业态度。该剧是一部惊悚剧，讲述离婚边缘男子为救妻子与危险罪犯斗争的故事。",
+    "extracted_at": "2026-06-29T23:41:00.894078+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Jeon No Min And Han Go Eun’s Affair Sets Off A Tragic Chain Of Events In Upcoming Drama “Family Register” Teaser",
+    "url": "https://www.soompi.com/article/1851136wpp/watch-jeon-no-min-and-han-go-euns-affair-sets-off-a-tragic-chain-of-events-in-upcoming-drama-family-register-teaser",
+    "content": "MBC’s upcoming daily drama “Family Register” has released a new teaser! “Family Register” tells the story of a child who is branded from birth as the person responsible for destroying a family and a woman who fights against society’s prejudice and a cruel fate to reclaim her life. The newly released trailer opens with Na&#8230; Continue reading Watch: Jeon No Min And Han Go Eun&#8217;s Affair Sets Off A Tragic Chain Of Events In Upcoming Drama &#8220;Family Register&#8221; Teaser\nThe post Watch: Jeon No Min And Han Go Eun&#8217;s Affair Sets Off A Tragic Chain Of Events In Upcoming Drama &#8220;Family Register&#8221; Teaser appeared first on Soompi.",
+    "published_at": "0629soompi",
+    "published_ts": 1782723586.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "全卢民与韩高恩婚外情引发悲剧连锁，《家庭登记簿》预告公开",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "MBC新日日剧《家庭登记簿》发布新预告",
+      "预告片以全卢民与韩高恩的婚外情为开端，引发一系列悲剧事件",
+      "剧情讲述一个从出生就被打上破坏家庭烙印的孩子，以及一位女性对抗社会偏见与残酷命运、重获新生的故事"
+    ],
+    "summary_zh": "MBC即将播出的日日剧《家庭登记簿》公开新预告，预告以全卢民与韩高恩的婚外情为开端，引发一系列悲剧事件。该剧讲述一个从出生就被视为破坏家庭罪人的孩子，以及一位女性对抗社会偏见与残酷命运、重获新生的故事。",
+    "extracted_at": "2026-06-29T23:41:03.932364+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -12,39 +444,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "姜敏儿在《明天见》中向男友发出心碎恳求",
+    "title_zh": "《明天见》姜敏儿向男友心碎恳求剧照公开",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "《明天见》公开了姜敏儿令人心碎的剧照",
-      "该剧改编自网络漫画，由朴智贤饰演陷入职业低谷的上班族车智允，徐仁国饰演其挑剔上司姜时宇"
+      "《明天见》公开了姜敏儿的心碎剧照",
+      "该剧改编自网络漫画，由朴智贤饰演陷入职业困境的上班族车智允，徐仁国饰演挑剔的上司姜时宇"
     ],
-    "summary_zh": "韩剧《明天见》公开了姜敏儿向男友发出心碎恳求的剧照。该剧改编自网络漫画，是一部浪漫爱情剧，由朴智贤饰演陷入职业低谷的上班族车智允，徐仁国饰演其挑剔上司姜时宇。",
-    "extracted_at": "2026-06-29T16:55:34.557227+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Are Hybe’s artist controversies really a company problem? - The Korea Herald",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1UbGY2QzgzS05HeHB3d1UxQVVReXF2SEJWTjg3QXRtTkNfcEdVVkg1VGhqS3d2ZTg1RHBSLTRGZ0JuMWdXa1RVX182RHZ0UnZfOWpfc1B4Zw?oc=5",
-    "content": "Are Hybe’s artist controversies really a company problem? The Korea Herald",
-    "published_at": "0629google-kpop",
-    "published_ts": 1782721358.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Hybe旗下艺人争议频发，是公司管理问题吗？",
-    "source_type": "韩娱",
-    "risk_level": "中",
-    "is_blurred": true,
-    "facts_list": [
-      "原文未提及具体行为，仅称：The Korea Herald发文探讨Hybe旗下艺人争议是否属于公司问题"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：The Korea Herald发文探讨Hybe旗下艺人争议是否属于公司问题]",
-    "extracted_at": "2026-06-29T16:55:36.460326+08:00"
+    "summary_zh": "韩剧《明天见》公开了姜敏儿向男友心碎恳求的剧照。该剧改编自网络漫画，是一部浪漫爱情剧，由朴智贤饰演陷入职业困境的上班族车智允，徐仁国饰演她挑剔的上司姜时宇。",
+    "extracted_at": "2026-06-29T23:41:06.393463+08:00"
   },
   {
     "source_id": "soompi",
@@ -59,17 +468,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "KISS OF LIFE 确定8月回归",
+    "title_zh": "KISS OF LIFE 确定8月回归，距上次回归约4个月",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "6月29日，STARNEWS报道KISS OF LIFE将于8月回归",
-      "组合官方X账号转发该报道确认消息",
+      "组合官方X账号转发该报道确认回归消息",
       "此次回归距离上次回归约4个月"
     ],
-    "summary_zh": "据STARNEWS 6月29日报道，KISS OF LIFE将于8月回归，组合官方X账号随后转发报道确认。这将是她们时隔约4个月的首次回归。",
-    "extracted_at": "2026-06-29T16:55:38.381320+08:00"
+    "summary_zh": "据STARNEWS 6月29日报道，KISS OF LIFE将于8月回归，组合官方X账号随后转发报道确认消息。这将是她们时隔约4个月的首次回归。",
+    "extracted_at": "2026-06-29T23:41:08.696958+08:00"
   },
   {
     "source_id": "soompi",
@@ -94,7 +503,7 @@
       "SEVENTEEN也发布了官方声明"
     ],
     "summary_zh": "HYBE旗下厂牌于6月29日通过各艺人官方Weverse更新了针对恶意行为侵犯艺人权利的法律诉讼进展，涉及BTS、TXT、CORTIS、TWS、LE SSERAFIM、NewJeans、ILLIT、BOYNEXTDOOR、&TEAM、Zico等艺人。SEVENTEEN也发布了官方声明。",
-    "extracted_at": "2026-06-29T16:55:40.908481+08:00"
+    "extracted_at": "2026-06-29T23:41:11.324994+08:00"
   },
   {
     "source_id": "soompi",
@@ -115,11 +524,11 @@
     "is_blurred": false,
     "facts_list": [
       "新剧《公寓任务》公开池晟与朴秉恩首次见面的剧照",
-      "池晟饰演前Oasis Gang老大朴海康，为获取隐藏资金竞选公寓居民会长",
-      "两人在剧中联手整治停车乱象"
+      "池晟饰演前Oasis Gang头目朴海康，为获取隐藏资金竞选公寓居民会长",
+      "两人首次见面场景为联手整治停车乱象"
     ],
-    "summary_zh": "韩剧《公寓任务》公开池晟与朴秉恩首次见面的剧照。该剧讲述前Oasis Gang老大朴海康（池晟饰）为获取公寓隐藏资金而竞选居民会长，途中与朴秉恩饰演的角色相遇，并共同整治停车恶霸的故事。",
-    "extracted_at": "2026-06-29T16:55:43.797580+08:00"
+    "summary_zh": "韩剧《公寓任务》公开池晟与朴秉恩首次见面的剧照。该剧讲述前Oasis Gang头目朴海康（池晟饰）为获取公寓隐藏资金而竞选居民会长，过程中与朴秉恩饰演的角色首次相遇，并共同处理一起停车违规事件。",
+    "extracted_at": "2026-06-29T23:41:14.339847+08:00"
   },
   {
     "source_id": "soompi",
@@ -134,16 +543,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "金明洙、姜敏儿、权素贤为新剧《爱在同步》选关键词",
+    "title_zh": "金明洙、姜敏儿、权素贤为新剧《Love in Sync》选关键词",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "金明洙、姜敏儿、权素贤为新剧《爱在同步》挑选关键词",
-      "《爱在同步》是一部浪漫喜剧，讲述拒绝共情的顶级明星刘智安（姜敏儿饰）与著名心理学家车恩焕（金明洙饰）之间的故事"
+      "金明洙、姜敏儿、权素贤为新剧《Love in Sync》挑选关键词",
+      "《Love in Sync》是一部浪漫喜剧，讲述拒绝共情的顶级明星刘智安（姜敏儿饰）和著名心理学家车恩焕（金明洙饰）的故事"
     ],
-    "summary_zh": "金明洙、姜敏儿和权素贤分享了他们对新剧《爱在同步》的期待。该剧是一部浪漫喜剧，讲述拒绝共情的顶级明星刘智安（姜敏儿饰）与著名心理学家车恩焕（金明洙饰）之间的故事。三位演员挑选了关键词来描述这部剧。",
-    "extracted_at": "2026-06-29T16:55:46.460978+08:00"
+    "summary_zh": "金明洙、姜敏儿和权素贤分享了他们对新剧《Love in Sync》的期待。该剧是一部浪漫喜剧，讲述拒绝共情的顶级明星刘智安（姜敏儿饰）和著名心理学家车恩焕（金明洙饰）的故事。三位演员挑选了关键词来描述这部剧，但具体关键词未在原文中提及。",
+    "extracted_at": "2026-06-29T23:41:16.876350+08:00"
   },
   {
     "source_id": "soompi",
@@ -158,16 +567,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《爱情菜单》公开裴正男剧照，饰演Hani好友兼孝子",
+    "title_zh": "裴正男新剧《爱的菜单》饰演Hani好友兼孝子",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "《爱情菜单》公开裴正男角色剧照",
-      "裴正男在剧中饰演Hani的好友兼孝子"
+      "裴正男在《爱的菜单》中饰演Hani的好友兼孝子",
+      "该剧讲述分手八年的恋人重逢后重组破碎家庭的故事"
     ],
-    "summary_zh": "《爱情菜单》公开了裴正男的角色剧照。该剧是一部家庭浪漫剧，讲述一对分手八年的恋人重逢后，拼凑破碎家庭、创造温暖餐桌的故事。裴正男在剧中饰演Hani的好友兼孝子。",
-    "extracted_at": "2026-06-29T16:55:48.739493+08:00"
+    "summary_zh": "《爱的菜单》公开裴正男角色剧照，他饰演Hani的好友兼孝子。该剧是一部家庭浪漫剧，讲述一对分手八年的恋人重逢后，拼凑破碎家庭碎片，创造最温暖餐桌的故事。",
+    "extracted_at": "2026-06-29T23:41:19.329749+08:00"
   },
   {
     "source_id": "soompi",
@@ -182,7 +591,7 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "李宰旭申艺恩《边缘医生》家访遇突发状况",
+    "title_zh": "《边缘医生》李宰旭申艺恩家访遇意外事件",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
@@ -192,31 +601,7 @@
       "新剧照显示两人在家访中遭遇意外事件"
     ],
     "summary_zh": "ENA月火剧《边缘医生》公开新剧照，预告李宰旭与申艺恩饰演的角色在家访中遭遇意外事件。该剧讲述公共卫生医生都智义（李宰旭饰）被派往恶名昭彰的扁东岛，与隐藏秘密的护士陆河莉（申艺恩饰）之间的爱情故事。",
-    "extracted_at": "2026-06-29T16:55:51.555483+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Mattel Launches New KPop Demon Hunters Toys: What They Look Like, Prices, and Where You Can Buy Them - Revista Merca2.0",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaWg2MExRR0hwS0tYNm5BaEdlcDA5UE5nSXNoQ241SzFRRC1sSXZoN0sxTS1MblhycGJXWHlHZUhHbjhJSmVkOHV4bng4cUkweWZjVWhmMldnN1FMcHVsQ2RKbDM0YjlvLVVkVWVoc2pXRWE5cUZaZW9hdTYtVWFyOXRZLW9GRGZzbnRwU01Gb0gtaFlobmtxN2t4LWVZVUVHczFqUlZlX1NNZV81azRfbFUwWmRnTmFSa2dibVZCWQ?oc=5",
-    "content": "Mattel Launches New KPop Demon Hunters Toys: What They Look Like, Prices, and Where You Can Buy Them Revista Merca2.0",
-    "published_at": "0629google-kpop",
-    "published_ts": 1782715394.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "美泰推出新KPop恶魔猎人玩具：外观、价格及购买渠道",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "美泰公司推出KPop恶魔猎人系列玩具",
-      "玩具外观、价格及购买渠道在原文中未具体说明"
-    ],
-    "summary_zh": "美泰公司推出新的KPop恶魔猎人系列玩具，但原文未提供具体外观、价格或购买渠道的详细信息。",
-    "extracted_at": "2026-06-29T16:55:53.674707+08:00"
+    "extracted_at": "2026-06-29T23:41:22.429241+08:00"
   },
   {
     "source_id": "soompi",
@@ -237,11 +622,11 @@
     "is_blurred": false,
     "facts_list": [
       "旅行生存综艺《All or Nothing》公开首支预告",
-      "节目设定在埃及开罗、卢克索、赫尔格达进行7天6夜的竞争，争夺“王子”称号",
-      "出演者包括SUPER JUNIOR利特和神童、DAWN、金曜汉、NCT Johnny、NCT志晟"
+      "节目设定在埃及开罗、卢克索、赫尔格达进行7天6夜竞争，胜者获“王子”称号",
+      "出演阵容：SUPER JUNIOR利特、神童，DAWN，金曜汉，NCT Johnny，NCT志晟"
     ],
-    "summary_zh": "旅行生存综艺《All or Nothing》公开首支预告。该节目为赢家通吃的旅行生存系列，在埃及开罗、卢克索、赫尔格达进行7天6夜竞争，争夺“王子”称号。出演者包括SUPER JUNIOR利特和神童、DAWN、金曜汉、NCT Johnny、NCT志晟。",
-    "extracted_at": "2026-06-29T16:55:56.654313+08:00"
+    "summary_zh": "旅行生存综艺《All or Nothing》公开首支预告。该节目为赢家通吃的旅行生存系列，在埃及开罗、卢克索、赫尔格达进行7天6夜竞争，争夺“王子”称号。出演阵容包括SUPER JUNIOR利特、神童，DAWN，金曜汉，NCT Johnny和NCT志晟。",
+    "extracted_at": "2026-06-29T23:41:25.549069+08:00"
   },
   {
     "source_id": "soompi",
@@ -263,10 +648,10 @@
     "facts_list": [
       "tvN新剧《鬼怪恋爱》公开朴恩斌与梁世宗的合作预告",
       "该剧是一部调查型驱魔浪漫剧，讲述能看见鬼的酒店继承人与热情共情的检察官组成混乱搭档的故事",
-      "该剧翻拍自2011年同名电影"
+      "该剧翻拍自2011年电影"
     ],
     "summary_zh": "tvN新剧《鬼怪恋爱》公开朴恩斌与梁世宗的合作预告。该剧是一部调查型驱魔浪漫剧，讲述能看见鬼的酒店继承人与热情共情的检察官组成混乱搭档的故事，翻拍自2011年同名电影。",
-    "extracted_at": "2026-06-29T16:55:59.360786+08:00"
+    "extracted_at": "2026-06-29T23:41:28.014416+08:00"
   },
   {
     "source_id": "soompi",
@@ -287,10 +672,10 @@
     "is_blurred": false,
     "facts_list": [
       "tvN新剧《明天见》改编自同名热门网漫，由朴智贤饰演职场人车智允",
-      "下集预告中徐仁国与朴智贤在办公室外偶遇"
+      "下集预告中徐仁国与朴智贤在办公室外偶然相遇"
     ],
-    "summary_zh": "tvN新剧《明天见》改编自同名热门网漫，由朴智贤饰演职场人车智允。下集预告中，徐仁国与朴智贤在办公室外偶遇。",
-    "extracted_at": "2026-06-29T16:56:01.419026+08:00"
+    "summary_zh": "tvN新剧《明天见》改编自同名热门网漫，由朴智贤饰演职场人车智允。下集预告中，徐仁国与朴智贤在办公室外偶然相遇。",
+    "extracted_at": "2026-06-29T23:41:30.361396+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -310,10 +695,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "CNN报道，韩国R&B歌手（Prince of R&B）发表言论称K-pop明星“也只是普通人”"
+      "韩国R&B歌手（Prince of R&B）接受CNN采访，表示K-pop明星也是普通人",
+      "原文未提供具体采访时间、地点及更多细节"
     ],
-    "summary_zh": "CNN报道，韩国R&B王子（Prince of R&B）在接受采访时表示，K-pop明星也是普通人，他们也会经历情感和压力。该言论旨在呼吁公众对偶像艺人给予更多理解和宽容。",
-    "extracted_at": "2026-06-29T16:56:03.881101+08:00"
+    "summary_zh": "韩国R&B歌手（Prince of R&B）在接受CNN采访时表示，K-pop明星也是普通人。该言论旨在强调偶像的人性化一面，但原文未提供更多具体背景或细节。",
+    "extracted_at": "2026-06-29T23:41:32.733224+08:00"
   },
   {
     "source_id": "soompi",
@@ -331,13 +717,13 @@
     "title_zh": "骄傲月推荐：Viki平台5部新BL剧集",
     "source_type": "韩剧",
     "risk_level": "低",
-    "is_blurred": true,
+    "is_blurred": false,
     "facts_list": [
-      "原文未提及具体剧名、播出时间或演员信息",
-      "仅称Viki平台在骄傲月期间有5部新BL剧集可观看"
+      "Viki平台在骄傲月期间推荐5部新BL剧集",
+      "原文未列出具体剧名，仅称该类型持续推出新作"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：Viki平台在骄傲月期间推荐5部新BL剧集，适合新老观众观看。]",
-    "extracted_at": "2026-06-29T16:56:06.115834+08:00"
+    "summary_zh": "骄傲月是观看BL剧集的好时机，Viki平台推荐了5部新BL作品，适合新老观众。原文未提供具体剧名或细节。",
+    "extracted_at": "2026-06-29T23:41:34.911643+08:00"
   },
   {
     "source_id": "soompi",
@@ -361,7 +747,7 @@
       "所属社表示孝琳将以“原版女王”身份回归，期待其音乐再次吸引听众"
     ],
     "summary_zh": "据所属社ReH Entertainment消息，孝琳已确认将于7月22日发行第四张迷你专辑，正式回归夏季歌坛。所属社称她将以“原版女王”身份回归，期待其音乐再次吸引听众。",
-    "extracted_at": "2026-06-29T16:56:08.642633+08:00"
+    "extracted_at": "2026-06-29T23:41:37.051364+08:00"
   },
   {
     "source_id": "soompi",
@@ -383,10 +769,10 @@
     "facts_list": [
       "SBS新剧《Flex X Cop》第二季公开首次剧本研读现场照片",
       "该剧由安普贤饰演第三代财阀侦探陈利洙，郑恩彩饰演资深侦探朱慧拉",
-      "首播日期已公布（具体日期未在原文中提及）"
+      "首播日期已公布（原文未明确具体日期，需等待后续报道）"
     ],
-    "summary_zh": "SBS新剧《Flex X Cop》第二季公开了首次剧本研读现场，并宣布了首播日期。该剧由安普贤饰演利用财富和人脉的第三代财阀侦探陈利洙，郑恩彩饰演资深侦探朱慧拉，两人将联手破案。",
-    "extracted_at": "2026-06-29T16:56:11.487879+08:00"
+    "summary_zh": "SBS新剧《Flex X Cop》第二季公开首次剧本研读现场，并宣布首播日期。该剧由安普贤饰演第三代财阀侦探陈利洙，郑恩彩饰演资深侦探朱慧拉，两人将联手破案。",
+    "extracted_at": "2026-06-29T23:41:39.782841+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -410,7 +796,7 @@
       "该消息由Crunchyroll发布"
     ],
     "summary_zh": "据Crunchyroll报道，K-POP组合KISS OF LIFE将演唱动画《数码宝贝BEATBREAK》的新片尾主题曲。",
-    "extracted_at": "2026-06-29T16:56:13.538471+08:00"
+    "extracted_at": "2026-06-29T23:41:41.613403+08:00"
   },
   {
     "source_id": "soompi",
@@ -425,17 +811,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "卞约汉、河允庆、安宰弘确认出演新神秘电影《吉日》",
+    "title_zh": "卞约汉、河允景、安宰弘确认出演新神秘电影《吉日》",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "卞约汉、河允庆、安宰弘确认出演新神秘电影《吉日》（暂译）",
-      "6月29日，制作方公开了剧本研读会照片，展现演员们的化学反应",
-      "《吉日》是一部神秘电影，讲述在一段时间内发生的事件"
+      "卞约汉、河允景、安宰弘确认出演新电影《吉日》（暂译）",
+      "电影《吉日》是一部神秘题材影片，讲述一天内发生的事件",
+      "制作方于6月29日公开了剧本研读现场照片"
     ],
-    "summary_zh": "卞约汉、河允庆、安宰弘确认出演新神秘电影《吉日》（暂译）。6月29日，制作方公开了剧本研读会照片，展现演员们的化学反应。该片是一部神秘电影，讲述在一段时间内发生的事件。",
-    "extracted_at": "2026-06-29T16:56:16.112135+08:00"
+    "summary_zh": "卞约汉、河允景、安宰弘确认出演新神秘电影《吉日》（暂译）。该片讲述一天内发生的神秘事件，制作方于6月29日公开了剧本研读现场照片，展现演员们的默契配合。",
+    "extracted_at": "2026-06-29T23:41:44.246042+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -458,7 +844,7 @@
       "原文未提及具体行为，仅称：《KPop Demon Hunters》将以全新形式回归"
     ],
     "summary_zh": "原文未提及具体行为，仅称：《KPop Demon Hunters》将以全新形式回归",
-    "extracted_at": "2026-06-29T16:56:17.688244+08:00"
+    "extracted_at": "2026-06-29T23:41:45.847628+08:00"
   },
   {
     "source_id": "soompi",
@@ -473,16 +859,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《重生菜鸟》收视再创新高，达11.1%迎最终周",
+    "title_zh": "《重生菜鸟》收视再创新高，11.1%收官在即",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "JTBC电视剧《重生菜鸟》在6月28日获得全国平均收视率11.1%，创自身最高纪录",
-      "该剧即将进入播出最后一周"
+      "JTBC电视剧《重生菜鸟》在6月28日获得自身最高收视率",
+      "根据尼尔森韩国数据，全国平均收视率为11.1%"
     ],
-    "summary_zh": "JTBC电视剧《重生菜鸟》在6月28日获得全国平均收视率11.1%，创下自身最高收视纪录，该剧即将进入播出最后一周。",
-    "extracted_at": "2026-06-29T16:56:19.982762+08:00"
+    "summary_zh": "JTBC电视剧《重生菜鸟》在收官前一周创下自身最高收视纪录。6月28日，该剧全国平均收视率升至11.1%，刷新个人最佳成绩。",
+    "extracted_at": "2026-06-29T23:41:47.930278+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -497,16 +883,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "NCT成员Mark Lee穿邦联旗衬衫引发批评",
+    "title_zh": "K-Pop明星Mark Lee因穿邦联旗衬衫引发批评",
     "source_type": "韩娱",
     "risk_level": "高",
     "is_blurred": false,
     "facts_list": [
-      "Mark Lee被拍到穿着印有美国邦联旗的衬衫",
+      "Mark Lee被拍到穿着带有邦联旗图案的衬衫",
       "该行为在社交媒体上引发批评，被认为涉及种族敏感问题"
     ],
-    "summary_zh": "NCT成员Mark Lee因穿着印有美国邦联旗的衬衫而受到批评。邦联旗在美国被视为种族主义和奴隶制的象征，此举引发粉丝和公众的强烈反应。目前Mark Lee及其所属社SM娱乐尚未对此事发表正式回应。",
-    "extracted_at": "2026-06-29T16:56:22.714905+08:00"
+    "summary_zh": "K-Pop明星Mark Lee因穿着带有邦联旗图案的衬衫而受到批评。邦联旗在美国被视为种族主义和奴隶制的象征，此举引发了公众对其种族敏感性的质疑。",
+    "extracted_at": "2026-06-29T23:41:49.980061+08:00"
   },
   {
     "source_id": "soompi",
@@ -529,31 +915,31 @@
       "MBC剧集《Fifties Professionals》于6月27日播出大结局，全国平均收视率5.0%",
       "主演申河均表示拍摄现场很有趣"
     ],
-    "summary_zh": "MBC剧集《Fifties Professionals》于6月27日以全国平均收视率5.0%收官。主演申河均回顾拍摄经历，称现场充满乐趣。演员们分享了各自的告别感言和最喜欢的场景。",
-    "extracted_at": "2026-06-29T16:56:25.238932+08:00"
+    "summary_zh": "MBC剧集《Fifties Professionals》于6月27日以全国平均收视率5.0%收官。主演申河均回顾拍摄经历，称现场充满乐趣。演员们分享了各自的告别感言及最喜爱的场景。",
+    "extracted_at": "2026-06-29T23:41:52.412534+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "Audrey Nuna on the importance of representation in KPop Demon Hunters - Milwaukee Journal Sentinel",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdG5jWFFNVTRJOFdhNWtUYWVuTGkwdVQwLUJCbjRZY0Z2dEdiQnhUUk9MRFNqckM0aUw0b1RaM3ptZ0hXUDhPQ0tDNGhVZWtzRjBpT0EwTmppQ2p4ckpnbWoyVlBXWm1SNWFqS3FoTkJsZHBYNHNuODN3UGkwUzlDc2hiT0NsWUxlZHFrV2Jma1VYT21pY0t4endIYThDWjgxWjdYQlVHREhRU3VNZ1EwN1l2VmcwNHZhSnRHUVM1cw?oc=5",
-    "content": "Audrey Nuna on the importance of representation in KPop Demon Hunters Milwaukee Journal Sentinel",
+    "title": "Audrey Nuna on the importance of representation in KPop Demon Hunters - Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRjNNU2hMV2pzMFhiVHV1a25nNFV1Y00wRGVRa21NVTI4b25GYVBIMURvaS1STWlxT2lVbUNBN3pNbXltQzUwSEVwYTB6REpndVNoU1pmd0Z3RWZEajdNNU1Mdm9uSmFEUngzSWRsNW5nN2ZXQjQyYTR0Vy1MNmFjbFg3QUc3c3o2WEt2S0ZBVHpKemVzTkFMbDB1Z2NndG5OY28tMk1nNUJxeUxm?oc=5",
+    "content": "Audrey Nuna on the importance of representation in KPop Demon Hunters Yahoo",
     "published_at": "0629google-kpop",
-    "published_ts": 1782691505.0,
+    "published_ts": 1782691500.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Audrey Nuna谈K-pop《恶魔猎人》中代表性的重要性",
+    "title_zh": "Audrey Nuna谈K-pop恶魔猎人中代表性的重要性",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文未提及具体行为，仅称：Audrey Nuna在《密尔沃基哨兵报》采访中讨论K-pop《恶魔猎人》中代表性的重要性"
+      "Audrey Nuna在Yahoo采访中谈论K-pop恶魔猎人中代表性的重要性"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：Audrey Nuna在《密尔沃基哨兵报》采访中讨论K-pop《恶魔猎人》中代表性的重要性]",
-    "extracted_at": "2026-06-29T16:56:27.028918+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：Audrey Nuna在Yahoo采访中谈论K-pop恶魔猎人中代表性的重要性]",
+    "extracted_at": "2026-06-29T23:41:54.376502+08:00"
   },
   {
     "source_id": "soompi",
@@ -568,16 +954,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "金惠奫为见偶像入职公司，《我的偏见，我的老板》预告公开",
+    "title_zh": "金惠峻为见偶像入职公司，《我的偏见，我的老板》预告公开",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "tvN新剧《我的偏见，我的老板》发布首支预告",
-      "该剧改编自同名网络漫画，讲述金惠奫饰演的南多琳为见偶像入职公司，与公司CEO姜河基（暂译）之间的浪漫故事"
+      "该剧改编自同名网漫，讲述金惠峻饰演的南多琳为见偶像入职公司，与公司CEO姜河基（暂译）之间的浪漫故事"
     ],
-    "summary_zh": "tvN新剧《我的偏见，我的老板》发布首支预告。该剧改编自同名网络漫画，讲述金惠奫饰演的南多琳为见偶像入职公司，与公司CEO姜河基之间的浪漫故事。",
-    "extracted_at": "2026-06-29T16:56:29.646989+08:00"
+    "summary_zh": "tvN新剧《我的偏见，我的老板》公开首支预告。该剧改编自同名网漫，讲述金惠峻饰演的南多琳为见偶像入职公司，与公司CEO姜河基（暂译）之间的浪漫故事。",
+    "extracted_at": "2026-06-29T23:41:57.124453+08:00"
   },
   {
     "source_id": "soompi",
@@ -592,16 +978,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "6月明星品牌声誉榜发布，林英雄登顶",
+    "title_zh": "6月明星品牌声誉榜发布：林英雄登顶",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "韩国企业评价研究所于5月29日至6月29日收集大数据，分析媒体覆盖、消费者参与、互动及社区认知指数，发布6月明星品牌声誉排名",
-      "林英雄在6月明星品牌声誉排名中位列第一"
+      "韩国企业评价研究所于5月29日至6月29日收集大数据，分析媒体覆盖、消费者参与、互动及社区认知指数",
+      "林英雄在6月明星品牌声誉排行榜中位列第一"
     ],
-    "summary_zh": "韩国企业评价研究所基于5月29日至6月29日的大数据，通过分析媒体覆盖、消费者参与、互动及社区认知指数，发布了6月明星品牌声誉排名。林英雄在本次排名中位居榜首。",
-    "extracted_at": "2026-06-29T16:56:31.997984+08:00"
+    "summary_zh": "韩国企业评价研究所发布6月明星品牌声誉排名，基于5月29日至6月29日的大数据，分析媒体覆盖、消费者参与、互动及社区认知指数，林英雄位居榜首。",
+    "extracted_at": "2026-06-29T23:41:59.459281+08:00"
   },
   {
     "source_id": "soompi",
@@ -616,16 +1002,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "(G)I-DLE美延、Minnie出演《Running Man》预告公开，苹果游戏笑料不断",
+    "title_zh": "(G)I-DLE美延和Minnie出演《Running Man》预告，搞笑互动",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "6月28日，SBS综艺《Running Man》播出下周预告，预告中(G)I-DLE成员美延和Minnie作为嘉宾出演",
-      "预告显示本期主题为《Running Man》成员扮演角色，美延和Minnie参与苹果相关游戏环节"
+      "预告解释了本期主题：《Running Man》成员们扮演角色"
     ],
-    "summary_zh": "6月28日，SBS综艺《Running Man》公开了下周预告，预告中(G)I-DLE成员美延和Minnie作为嘉宾出演。预告片展示了本期主题为成员们扮演角色，并出现了美延和Minnie参与苹果游戏环节的搞笑场面。",
-    "extracted_at": "2026-06-29T16:56:34.637220+08:00"
+    "summary_zh": "6月28日，SBS综艺《Running Man》播出下周预告，预告中(G)I-DLE成员美延和Minnie作为嘉宾出演，与成员们互动搞笑。本期主题为成员们扮演角色。",
+    "extracted_at": "2026-06-29T23:42:01.525549+08:00"
   },
   {
     "source_id": "soompi",
@@ -640,16 +1026,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "BTS《ARIRANG》创韩流纪录，连续12周跻身Billboard 200前十",
+    "title_zh": "BTS《ARIRANG》创韩流纪录：Billboard 200前十在榜12周",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "6月28日，Billboard公布BTS专辑《ARIRANG》在Billboard 200专辑榜中排名第10",
-      "该专辑已累计12周（非连续）进入Billboard 200前十，创韩国艺人纪录"
+      "6月28日，Billboard公布BTS专辑《ARIRANG》在Billboard 200专辑榜中位列第10名",
+      "该专辑已累计12周（非连续）进入Billboard 200前十，成为首张达成此成绩的韩国艺人专辑"
     ],
-    "summary_zh": "BTS的专辑《ARIRANG》在6月28日Billboard 200专辑榜中位列第10，成为首张在榜单前十停留12周（非连续）的韩国艺人作品，持续刷新K-pop历史。",
-    "extracted_at": "2026-06-29T16:56:36.970092+08:00"
+    "summary_zh": "BTS的专辑《ARIRANG》在6月28日Billboard 200专辑榜中排名第10，累计12周（非连续）进入前十，成为首张达成此成绩的韩国艺人专辑。",
+    "extracted_at": "2026-06-29T23:42:03.864538+08:00"
   },
   {
     "source_id": "soompi",
@@ -673,7 +1059,7 @@
       "Hanteo Chart数据显示，《Lemon Tang》首周销量达592,312张，创下该组合自身最高首周销量纪录"
     ],
     "summary_zh": "SM娱乐新人女团Hearts2Hearts凭借迷你专辑《Lemon Tang》创下自身最高首周销量纪录。据Hanteo Chart数据，该专辑首周销量达592,312张，主打曲与专辑同名。",
-    "extracted_at": "2026-06-29T16:56:39.415870+08:00"
+    "extracted_at": "2026-06-29T23:42:06.103531+08:00"
   },
   {
     "source_id": "soompi",
@@ -696,8 +1082,8 @@
       "《我的宿敌》在终映周登上Good Data Corporation每周最具话题剧集榜单第1名",
       "该剧主演同时占据最具话题演员榜单前列"
     ],
-    "summary_zh": "韩剧《我的宿敌》在终映周横扫本周最具话题剧集及演员排行榜，登上Good Data Corporation每周话题剧集榜单第1名，其主演也位列演员榜前列。",
-    "extracted_at": "2026-06-29T16:56:42.030902+08:00"
+    "summary_zh": "韩剧《我的宿敌》在终映周表现强劲，根据Good Data Corporation的数据，该剧登上本周最具话题剧集榜单第1名，其主演也位列最具话题演员榜单前列。",
+    "extracted_at": "2026-06-29T23:42:08.134638+08:00"
   },
   {
     "source_id": "soompi",
@@ -717,35 +1103,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "MODHAUS于去年宣布旗下新人男团idntt将由三个小分队组成：unevermet、yesweare和itsnotover",
+      "MODHAUS于去年宣布旗下新人男团idntt将由三支小分队组成：unevermet、yesweare和itsnotover",
       "unevermet于去年8月率先出道，yesweare于今年1月出道",
-      "6月29日午夜KST，idntt公开了“itsnot5ver: 20/24”影片，预告第三支小分队itsnotover即将登场"
+      "6月29日午夜KST，idntt公开了“itsnot5ver: 20/24”影片，预告itsnotover即将登场"
     ],
-    "summary_zh": "MODHAUS旗下新人男团idntt的第三支小分队itsnotover即将出道。idntt由三个小分队组成，其中unevermet于去年8月出道，yesweare于今年1月出道。6月29日午夜KST，idntt公开了“itsnot5ver: 20/24”影片，为itsnotover的出道预热。",
-    "extracted_at": "2026-06-29T16:56:44.968858+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "5 perfect animated movies on Netflix that are better than KPop Demon Hunters - Polygon.com",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa1A5d1g5N01fYkhUdlV2MjJaNFJ6TFEtUVYxNmw2ZVhnZUFuN1cyWl9hcHF2aHVMd1ZRRzJaeXowS0tVeGJJNDJBc2V5YVpWN3BjbllUZkYxUTRpZ0hNWkctdzlXS0w1UDR6enYwNW1MZ0x6Z09NdzJMLUVWM2UwY0RFS2pUV1ZSQ2FNLQ?oc=5",
-    "content": "5 perfect animated movies on Netflix that are better than KPop Demon Hunters Polygon.com",
-    "published_at": "0629google-kpop",
-    "published_ts": 1782666020.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Netflix五部完美动画电影，胜过《KPop恶魔猎人》",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "原文未提及具体行为，仅称：Netflix上有五部动画电影比《KPop恶魔猎人》更好"
-    ],
-    "summary_zh": "原文未提及具体行为，仅称：Netflix上有五部动画电影比《KPop恶魔猎人》更好",
-    "extracted_at": "2026-06-29T16:56:46.692931+08:00"
+    "summary_zh": "MODHAUS旗下男团idntt的第三支小分队itsnotover即将出道。idntt由三支小分队组成，前两支unevermet和yesweare已分别于去年8月和今年1月出道。6月29日午夜KST，idntt公开了“itsnot5ver: 20/24”影片，为itsnotover预热。",
+    "extracted_at": "2026-06-29T23:42:11.164377+08:00"
   },
   {
     "source_id": "soompi",
@@ -765,11 +1128,10 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "6月29日午夜KST，瑜卤允浩通过预告片宣布将于7月20日下午6点KST发行首张单曲专辑《Time's Tickin'》",
-      "预告片已公开"
+      "6月29日午夜KST，瑜卤允浩通过公开Intro影片宣布将于7月20日下午6点KST发行首张单曲专辑《Time's Tickin'》"
     ],
-    "summary_zh": "东方神起成员瑜卤允浩于6月29日午夜KST发布预告片，正式宣布将于7月20日下午6点KST携首张单曲专辑《Time's Tickin'》回归。",
-    "extracted_at": "2026-06-29T16:56:49.131273+08:00"
+    "summary_zh": "东方神起成员瑜卤允浩于6月29日午夜KST公开Intro影片，正式宣布将于7月20日下午6点KST发行首张单曲专辑《Time's Tickin'》回归。",
+    "extracted_at": "2026-06-29T23:42:13.512844+08:00"
   },
   {
     "source_id": "asianwiki",
