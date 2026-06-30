@@ -1,5 +1,299 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "BOYFRIEND: A Career In Song Ratings - thebiaslist.com",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Ca2FtZjZ1MzdWVGNZSkF2V1NOMllwbTY2WXJVdzVqVnRBM05QOHo5aGMwQlhnVmhCdG9COGlZN1AyMldubTh0U2lMSGExR1lHSW9ROVAtZ1VIWGl6T29uTTBXM2ZnTUVrU0doODVQalJuU2RnQXRpb0h3?oc=5",
+    "content": "BOYFRIEND: A Career In Song Ratings thebiaslist.com",
+    "published_at": "0630google-kpop",
+    "published_ts": 1782828167.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "BOYFRIEND歌曲评分回顾：职业生涯数据盘点",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文未提及具体行为，仅称：thebiaslist.com网站对BOYFRIEND的歌曲进行了评分回顾"
+    ],
+    "summary_zh": "原文未提及具体行为，仅称：thebiaslist.com网站对BOYFRIEND的歌曲进行了评分回顾",
+    "extracted_at": "2026-06-30T22:10:53.466668+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Keyveatz – OXY - thebiaslist.com",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aTDNkbml4aUw5aE5EOHBRMVVqN0NPeXY1LXZ5RXBSdnlLUk4wWm9ha09FYXpNOHJjRG53eGpqMzJDNjdINm94NzVfOXdtY3psR2xPMUowanA2OHYzeGJ1WC0yQmIwdDlTVU9Gdg?oc=5",
+    "content": "Keyveatz – OXY thebiaslist.com",
+    "published_at": "0630google-kpop",
+    "published_ts": 1782828048.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Keyveatz 发布新单曲《OXY》",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "Keyveatz 发行新单曲《OXY》",
+      "报道来源为 thebiaslist.com"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：Keyveatz 发行新单曲《OXY》，报道来自 thebiaslist.com]",
+    "extracted_at": "2026-06-30T22:10:55.287873+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Choi Yoojung – Perfect Target - thebiaslist.com",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWE9ZUk56RXZ3LXdKN2RrTGpISVNDcnpCTTl6cjVlM2ptOUxTS3p6dW1IbnJpZGhTSVB3TGtBd050YVNnQzBtWGRsRDBZZFBhWDZTVTd0bW9wVy1ReDN4TXk2aTR1aWNKN2tzV28xSXFQOEo0UklwejBsMFFlT0h6Vg?oc=5",
+    "content": "Choi Yoojung – Perfect Target thebiaslist.com",
+    "published_at": "0630google-kpop",
+    "published_ts": 1782827817.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "崔有贞新曲《Perfect Target》发布",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "崔有贞发布新曲《Perfect Target》",
+      "报道来源为thebiaslist.com"
+    ],
+    "summary_zh": "崔有贞发布了新曲《Perfect Target》，相关报道来自thebiaslist.com。",
+    "extracted_at": "2026-06-30T22:10:57.105534+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "ATEEZ’s “GOLDEN HOUR : Part.5” Becomes Their 6th Album To Sell 1 Million Copies In 1st Week",
+    "url": "https://www.soompi.com/article/1851441wpp/ateezs-golden-hour-part-5-becomes-their-6th-album-to-sell-1-million-copies-in-1st-week",
+    "content": "ATEEZ has notched another “million-seller” album! Last week, ATEEZ made their return with the new mini album “GOLDEN HOUR : Part.5” and its addictive title track “BAD” on June 26. On June 29, less than four days later, Hanteo Chart announced that “GOLDEN HOUR : Part.5” had already sold over 1.1 million copies, making it&#8230; Continue reading ATEEZ&#8217;s &#8220;GOLDEN HOUR : Part.5” Becomes Their 6th Album To Sell 1 Million Copies In 1st Week\nThe post ATEEZ&#8217;s &#8220;GOLDEN HOUR : Part.5” Becomes Their 6th Album To Sell 1 Million Copies In 1st Week appeared first on Soompi.",
+    "published_at": "0630soompi",
+    "published_ts": 1782827751.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "ATEEZ《GOLDEN HOUR : Part.5》首周销量破百万，成为第6张百万销量专辑",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "ATEEZ于6月26日发行迷你专辑《GOLDEN HOUR : Part.5》及主打曲《BAD》",
+      "6月29日，Hanteo Chart宣布该专辑销量已超过110万张",
+      "该专辑成为ATEEZ第6张首周销量破百万的专辑"
+    ],
+    "summary_zh": "ATEEZ于6月26日携迷你专辑《GOLDEN HOUR : Part.5》回归，主打曲为《BAD》。6月29日，据Hanteo Chart数据，该专辑在发行不到4天内销量突破110万张，成为ATEEZ第6张首周销量破百万的专辑。",
+    "extracted_at": "2026-06-30T22:10:59.438725+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "June Variety Star Brand Reputation Rankings Announced",
+    "url": "https://www.soompi.com/article/1851437wpp/june-variety-star-brand-reputation-rankings-announced-8",
+    "content": "The Korean Business Research Institute has published this month’s brand reputation rankings for variety stars! The rankings were determined through an analysis of the consumer participation, media coverage, interaction, and community awareness indexes of 50 popular entertainers, using big data collected from May 6 to June 6. Yu Jae Seok continued his reign at the&#8230; Continue reading June Variety Star Brand Reputation Rankings Announced\nThe post June Variety Star Brand Reputation Rankings Announced appeared first on Soompi.",
+    "published_at": "0630soompi",
+    "published_ts": 1782826292.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "6月综艺明星品牌声誉排行榜出炉，刘在石蝉联榜首",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "韩国企业评价研究所于6月发布综艺明星品牌声誉排名",
+      "排名基于5月6日至6月6日期间50位艺人的消费者参与度、媒体报道、互动及社区认知指数大数据分析",
+      "刘在石在该月排名中继续保持第一"
+    ],
+    "summary_zh": "韩国企业评价研究所公布了6月综艺明星品牌声誉排名，该排名基于5月6日至6月6日期间50位艺人的消费者参与度、媒体报道、互动及社区认知指数大数据分析。刘在石在该月排名中继续保持第一。",
+    "extracted_at": "2026-06-30T22:11:01.700518+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Park Eun Bin And Yang Se Jong’s Unpredictable Romance Begins With One Touch In “Spooky In Love”",
+    "url": "https://www.soompi.com/article/1851299wpp/watch-park-eun-bin-and-yang-se-jongs-unpredictable-romance-begins-with-one-touch-in-spooky-in-love",
+    "content": "tvN’s upcoming drama “Spooky in Love” has shared a new teaser! A remake of the 2011 film “Spellbound,” “Spooky in Love” is an occult romance drama about the chaotic partnership between Cheon Yeo Ri (Park Eun Bin), a hotel heiress who can see ghosts, and Ma Gang Wook (Yang Se Jong), a passionate prosecutor who&#8230; Continue reading Watch: Park Eun Bin And Yang Se Jong&#8217;s Unpredictable Romance Begins With One Touch In &#8220;Spooky In Love&#8221;\nThe post Watch: Park Eun Bin And Yang Se Jong&#8217;s Unpredictable Romance Begins With One Touch In &#8220;Spooky In Love&#8221; appeared first on Soompi.",
+    "published_at": "0630soompi",
+    "published_ts": 1782822832.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "朴恩斌、梁世宗新剧《Spooky in Love》预告公开，触碰开启奇幻罗曼史",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "tvN新剧《Spooky in Love》发布新预告",
+      "该剧翻拍自2011年电影《Spellbound》",
+      "朴恩斌饰演能看到鬼的酒店继承人Cheon Yeo Ri",
+      "梁世宗饰演热情的检察官Ma Gang Wook"
+    ],
+    "summary_zh": "tvN新剧《Spooky in Love》公开新预告，该剧翻拍自2011年电影《Spellbound》，是一部关于能看到鬼的酒店继承人Cheon Yeo Ri（朴恩斌饰）与热情检察官Ma Gang Wook（梁世宗饰）之间混乱合作的奇幻爱情剧。",
+    "extracted_at": "2026-06-30T22:11:04.468426+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Ha Seok Jin And Hani Stand Together But Remain Worlds Apart In “Love On The Menu” Posters",
+    "url": "https://www.soompi.com/article/1851276wpp/ha-seok-jin-and-hani-stand-together-but-remain-worlds-apart-in-love-on-the-menu-posters",
+    "content": "Upcoming drama “Love on the Menu” has unveiled new posters! “Love on the Menu” is a family romance drama that follows two former lovers who reunite eight years after a painful breakup. As they reconnect, they piece together the fragments of their broken families and create the warmest table of life together. The posters feature&#8230; Continue reading Ha Seok Jin And Hani Stand Together But Remain Worlds Apart In &#8220;Love On The Menu&#8221; Posters\nThe post Ha Seok Jin And Hani Stand Together But Remain Worlds Apart In &#8220;Love On The Menu&#8221; Posters appeared first on Soompi.",
+    "published_at": "0630soompi",
+    "published_ts": 1782822270.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "河锡辰与哈妮新剧《爱情菜单》海报公开，并肩而立却心隔天涯",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "河锡辰与哈妮主演的韩剧《爱情菜单》公开新海报",
+      "该剧讲述一对分手八年的恋人重逢后，修复破碎家庭并共同创造温暖餐桌的家庭浪漫故事"
+    ],
+    "summary_zh": "韩剧《爱情菜单》公开新海报，主演河锡辰与哈妮（安喜延）在海报中并肩而立，但表情疏离，暗示两人虽同框却心隔天涯。该剧是一部家庭浪漫剧，讲述一对分手八年的恋人重逢后，拼凑破碎家庭碎片，共同创造最温暖的人生餐桌的故事。",
+    "extracted_at": "2026-06-30T22:11:07.130067+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Sung Dong Il Serves As Kong Hyo Jin’s Dependable Ally And Team Leader In New Drama “A Bona Fide Killer”",
+    "url": "https://www.soompi.com/article/1851291wpp/sung-dong-il-serves-as-kong-hyo-jins-dependable-ally-and-team-leader-in-new-drama-a-bona-fide-killer",
+    "content": "MBC’s upcoming drama “A Bona Fide Killer” has unveiled the first stills of Sung Dong Il in character! “A Bona Fide Killer” is an action drama about a working mother with a lethal job who is fighting to protect her work-life balance. Kong Hyo Jin stars as Yu Bo Na, the seemingly ordinary manager of&#8230; Continue reading Sung Dong Il Serves As Kong Hyo Jin’s Dependable Ally And Team Leader In New Drama “A Bona Fide Killer”\nThe post Sung Dong Il Serves As Kong Hyo Jin’s Dependable Ally And Team Leader In New Drama “A Bona Fide Killer” appeared first on Soompi.",
+    "published_at": "0630soompi",
+    "published_ts": 1782821817.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "成东日新剧《杀人者的购物中心》饰演孔晓振可靠盟友兼组长",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "MBC新剧《杀人者的购物中心》公开成东日角色剧照",
+      "成东日饰演孔晓振角色的可靠盟友兼组长",
+      "该剧讲述一位拥有致命职业的职场母亲为维护工作与生活平衡而战斗的动作剧"
+    ],
+    "summary_zh": "MBC新剧《杀人者的购物中心》公开成东日角色剧照，他饰演孔晓振角色的可靠盟友兼组长。该剧是一部动作剧，讲述一位拥有致命职业的职场母亲为维护工作与生活平衡而战斗的故事。",
+    "extracted_at": "2026-06-30T22:11:09.724668+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "“Street World Fighter: Directors’ War” Announces Premiere Date With Main Poster",
+    "url": "https://www.soompi.com/article/1851313wpp/street-world-fighter-directors-war-announces-premiere-date-with-main-poster",
+    "content": "Mnet’s “Street World Fighter: Directors’ War” has unveiled its main poster! “Street World Fighter: Directors’ War” is the latest expansion of Mnet’s “Street Woman Fighter” franchise that puts performance directors—the creative minds behind planning and producing stages—at center stage. Beyond choreography, the directors oversee movement, staging, and overall use of the stage, and are expected&#8230; Continue reading “Street World Fighter: Directors’ War” Announces Premiere Date With Main Poster\nThe post “Street World Fighter: Directors’ War” Announces Premiere Date With Main Poster appeared first on Soompi.",
+    "published_at": "0630soompi",
+    "published_ts": 1782821334.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《街头世界战士：导演之战》公开主海报并确定首播日期",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Mnet《街头世界战士：导演之战》公开主海报",
+      "节目是《街头女战士》系列的最新衍生节目",
+      "节目聚焦于负责策划和制作舞台的表演导演",
+      "首播日期已公布（具体日期未在摘要中提及）"
+    ],
+    "summary_zh": "Mnet《街头世界战士：导演之战》公开主海报并确定首播日期。该节目是《街头女战士》系列的最新衍生节目，将聚焦于负责策划和制作舞台的表演导演，他们不仅编排舞蹈，还负责动作、舞台设计和整体舞台运用。",
+    "extracted_at": "2026-06-30T22:11:12.429727+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Ji Sung Assembles A Chaotic Fake Family To Pull Off A 10 Billion Won Con In “The Apartment Job”",
+    "url": "https://www.soompi.com/article/1851421wpp/ji-sung-assembles-a-chaotic-fake-family-to-pull-off-a-10-billion-won-con-in-the-apartment-job",
+    "content": "The upcoming drama “The Apartment Job” has unveiled a new poster! “The Apartment Job” follows former Oasis Gang boss Park Hae Kang (Ji Sung), who runs for the apartment residents’ council president election in order to get his hands on the building’s hidden money. Along the way, he joins forces with residents to expose corruption&#8230; Continue reading Ji Sung Assembles A Chaotic Fake Family To Pull Off A 10 Billion Won Con In &#8220;The Apartment Job&#8221;\nThe post Ji Sung Assembles A Chaotic Fake Family To Pull Off A 10 Billion Won Con In &#8220;The Apartment Job&#8221; appeared first on Soompi.",
+    "published_at": "0630soompi",
+    "published_ts": 1782819954.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "池晟组建混乱假家庭，为100亿韩元诈骗出演《公寓计划》",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "新剧《公寓计划》公开新海报",
+      "剧情：前Oasis帮老大朴海康（池晟饰）为获取大楼隐藏资金，竞选公寓居民代表会长，并与居民联手揭露腐败"
+    ],
+    "summary_zh": "韩剧《公寓计划》公开新海报，该剧由池晟主演，讲述前Oasis帮老大朴海康为获取大楼隐藏的100亿韩元，竞选公寓居民代表会长，并与居民联手揭露腐败的故事。",
+    "extracted_at": "2026-06-30T22:11:14.831368+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "“ACON 2026” Unveils Special Cover Stages By Sung Han Bin, CLOSE YOUR EYES, MEOVV, And More",
+    "url": "https://www.soompi.com/article/1851418wpp/acon-2026-unveils-special-cover-stages-by-sung-han-bin-close-your-eyes-meovv-and-more",
+    "content": "“ACON 2026” has unveiled its lineup of special stages! “ACON 2026,” the official pre-show for the 2026 Asia Artist Awards (AAA), will take place on July 25 at NTSU Arena in Taipei. Hosted by ZEROBASEONE’s Sung Han Bin, the event will feature performances by MEOVV, Xdinary Heroes, Yena, CLOSE YOUR EYES, KISS OF LIFE, NEXZ,&#8230; Continue reading “ACON 2026” Unveils Special Cover Stages By Sung Han Bin, CLOSE YOUR EYES, MEOVV, And More\nThe post “ACON 2026” Unveils Special Cover Stages By Sung Han Bin, CLOSE YOUR EYES, MEOVV, And More appeared first on Soompi.",
+    "published_at": "0630soompi",
+    "published_ts": 1782818018.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "ACON 2026公开特别舞台阵容：成韩彬、CLOSE YOUR EYES、MEOVV等参演",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "ACON 2026是2026年亚洲艺人奖（AAA）的官方预热演出，将于7月25日在台北NTSU Arena举行",
+      "活动由ZEROBASEONE的成韩彬主持",
+      "参演艺人包括MEOVV、Xdinary Heroes、Yena、CLOSE YOUR EYES、KISS OF LIFE、NEXZ等"
+    ],
+    "summary_zh": "ACON 2026作为2026年亚洲艺人奖（AAA）的官方预热演出，将于7月25日在台北NTSU Arena举行。活动由ZEROBASEONE的成韩彬主持，并公布了特别舞台阵容，包括MEOVV、Xdinary Heroes、Yena、CLOSE YOUR EYES、KISS OF LIFE、NEXZ等艺人将带来表演。",
+    "extracted_at": "2026-06-30T22:11:17.443117+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "KPop Demon Hunters Dolls in The Daily LITG, 30th June 2026 - Bleeding Cool News",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbGhXV0I1NUJzQ0VGdU9rMngzNk9tTjE5cVJybEdLR2x2RkVveWFkdUNLNG9KVGlzOGVUdXRnSTJvVUduNnFSRkl1d2NNel9FZTRKSlc1a2VkVVNnU2hBemNQVGlGM2hFUTl6QmRUcWR2RUs0T0xRVXMtTWZoOThBX1VYN0tuem4zVml1Q2p6aTdwZnhINnF5V29lREE?oc=5",
+    "content": "KPop Demon Hunters Dolls in The Daily LITG, 30th June 2026 Bleeding Cool News",
+    "published_at": "0630google-kpop",
+    "published_ts": 1782817089.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "2026年6月30日《每日LITG》报道KPop恶魔猎人玩偶",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "2026年6月30日，Bleeding Cool News的《每日LITG》栏目报道了KPop恶魔猎人玩偶"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：2026年6月30日，Bleeding Cool News的《每日LITG》栏目报道了KPop恶魔猎人玩偶。]",
+    "extracted_at": "2026-06-30T22:11:19.413671+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -18,10 +312,10 @@
     "is_blurred": true,
     "facts_list": [
       "2026年6月，Viki平台发布韩剧热度TOP5榜单",
-      "榜单包括《Reborn Rookie》等剧集，但未提供具体排名或数据"
+      "榜单包括《Reborn Rookie》等剧集，具体排名未按顺序"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：2026年6月Viki平台发布韩剧热度TOP5榜单，包括《Reborn Rookie》等剧集，但未提供具体排名或数据。]",
-    "extracted_at": "2026-06-30T18:54:17.047109+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：2026年6月Viki平台发布韩剧热度TOP5榜单，包括《Reborn Rookie》等剧集，排名不分先后。]",
+    "extracted_at": "2026-06-30T22:11:21.439135+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -42,10 +336,10 @@
     "is_blurred": false,
     "facts_list": [
       "恐怖漫画大师伊藤润二出席了K-pop组合IVE在东京巨蛋的演唱会",
-      "伊藤润二在活动中宣布与IVE进行合作"
+      "伊藤润二在演唱会现场宣布与IVE进行合作"
     ],
-    "summary_zh": "据Yahoo News Malaysia报道，恐怖漫画大师伊藤润二出席了K-pop组合IVE在东京巨蛋的演唱会，并在活动中宣布与IVE进行合作。",
-    "extracted_at": "2026-06-30T18:54:19.104427+08:00"
+    "summary_zh": "据Yahoo News Malaysia报道，恐怖漫画大师伊藤润二出席了K-pop组合IVE在东京巨蛋的演唱会，并在现场宣布与IVE进行合作。具体合作形式尚未公布。",
+    "extracted_at": "2026-06-30T22:11:23.340145+08:00"
   },
   {
     "source_id": "soompi",
@@ -60,17 +354,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "UAA确认与刘亚仁专属合同正式终止，后者正考虑签约Galaxy Corporation",
+    "title_zh": "UAA确认与刘亚仁专属合同正式结束，后者正考虑签约Galaxy Corporation",
     "source_type": "韩娱",
     "risk_level": "中",
     "is_blurred": false,
     "facts_list": [
-      "6月30日，业内人士报道刘亚仁与UAA的专属合同已结束",
-      "刘亚仁正在考虑转投Galaxy Corporation，并正在讨论专属合同",
-      "UAA已确认合同正式终止"
+      "6月30日，业内人士报道称刘亚仁与UAA的专属合同已结束",
+      "刘亚仁正在考虑签约Galaxy Corporation，并正在进行专属合同讨论",
+      "UAA已确认与刘亚仁的合同正式结束"
     ],
-    "summary_zh": "据6月30日业内人士报道，演员刘亚仁与UAA（United Artist Agency）的专属合同已正式结束。目前他正在考虑转投Galaxy Corporation，并正在就专属合同进行讨论。UAA已确认合同终止的消息。",
-    "extracted_at": "2026-06-30T18:54:21.727081+08:00"
+    "summary_zh": "据6月30日业内人士报道，演员刘亚仁与UAA（United Artist Agency）的专属合同已结束。报道称刘亚仁正在考虑签约Galaxy Corporation，并正在进行相关讨论。随后UAA确认了合同正式结束的消息。",
+    "extracted_at": "2026-06-30T22:11:25.768958+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -85,40 +379,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "七月平装书单：鲍德温的酷儿之爱、K-Pop、女同惊悚等20本佳作",
+    "title_zh": "七月平装书单：鲍德温的酷儿之爱、K-Pop、女同惊悚等20本值得关注的新书",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "Literary Hub发布七月平装书单，包含20本值得关注的书",
-      "书单主题包括詹姆斯·鲍德温的酷儿爱情、K-Pop、女同惊悚等"
+      "Literary Hub发布七月平装书单，共20本",
+      "书单主题包括詹姆斯·鲍德温的酷儿爱情、K-Pop相关书籍、女同惊悚小说等"
     ],
-    "summary_zh": "Literary Hub 发布了七月平装书单，精选20本值得关注的书籍，涵盖詹姆斯·鲍德温的酷儿爱情、K-Pop、女同惊悚等多元主题。",
-    "extracted_at": "2026-06-30T18:54:24.140009+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Agent Kim Reactivated : What to Know About the Spy K-Drama - Netflix",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbEFnVnJiQkdsbURFUDlQSlpzOEFfYXFWNFpzZmZ0dFZ2dXJVenFMeURIVDhLOEhKUERNclg2N0NYdklYTjFEZUcxYnFYcTZlM2YyWTM0MTZGOVRhTDloallhQXo0amRmeVd2V0FwYlpTSWUzSFI1RGtKU19aR1lPVV9oclQ?oc=5",
-    "content": "Agent Kim Reactivated : What to Know About the Spy K-Drama Netflix",
-    "published_at": "0630google-kpop",
-    "published_ts": 1782810415.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Netflix韩剧《特工金》重启：关于间谍剧集你需要知道的一切",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "Netflix宣布韩剧《特工金》重启，该剧为间谍题材",
-      "具体播出时间、主演阵容等细节尚未公布"
-    ],
-    "summary_zh": "Netflix宣布重启韩剧《特工金》（暂译），这是一部间谍题材的剧集。目前关于该剧的具体播出时间、主演阵容等细节尚未公布。",
-    "extracted_at": "2026-06-30T18:54:26.511110+08:00"
+    "summary_zh": "Literary Hub发布了七月值得关注的20本平装书，涵盖詹姆斯·鲍德温的酷儿爱情、K-Pop主题、女同惊悚小说等多种类型。",
+    "extracted_at": "2026-06-30T22:11:28.324775+08:00"
   },
   {
     "source_id": "soompi",
@@ -139,10 +409,10 @@
     "is_blurred": false,
     "facts_list": [
       "tvN新剧《我的偏见，我的老板》公开姜勋角色首张剧照",
-      "该剧改编自网络漫画，讲述为见长期偶像而入职公司的南多林（金惠奫饰）与公司老板姜河基（姜勋饰）之间的浪漫故事"
+      "该剧改编自网漫，讲述为见长期偶像而入职公司的南多林（金惠奫饰）与公司老板姜河基（姜勋饰）之间的浪漫故事"
     ],
-    "summary_zh": "tvN新剧《我的偏见，我的老板》公开姜勋角色首张剧照。该剧改编自网络漫画，讲述为见长期偶像而入职公司的南多林（金惠奫饰）与公司老板姜河基（姜勋饰）之间的浪漫故事。姜勋饰演的CEO姜河基工作能力强，但在恋爱方面却笨拙生疏。",
-    "extracted_at": "2026-06-30T18:54:29.422431+08:00"
+    "summary_zh": "tvN新剧《我的偏见，我的老板》公开姜勋角色首张剧照。该剧改编自网漫，讲述为见长期偶像而入职公司的南多林（金惠奫饰）与公司老板姜河基（姜勋饰）之间的浪漫故事。姜勋饰演的CEO姜河基工作能力出众，但在恋爱方面却笨拙生疏。",
+    "extracted_at": "2026-06-30T22:11:31.093236+08:00"
   },
   {
     "source_id": "soompi",
@@ -157,17 +427,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "孔升妍有望与李浚赫合作新剧《A Casual Lie》，改编自网漫",
+    "title_zh": "孔升妍有望与李准赫合作新剧《A Casual Lie》，改编自网漫",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "6月29日，业内人士透露孔升妍接到新剧《A Casual Lie》（暂定名）出演提案，正在最终协商阶段。",
-      "6月30日，孔升妍所属社确认收到提案，正在积极讨论中。",
-      "该剧改编自网络小说，李浚赫此前已收到男主角提案。"
+      "6月29日，业内人士报道孔升妍收到新剧《A Casual Lie》（暂定名）出演提案，正在最终协商阶段",
+      "6月30日，孔升妍所属社确认收到提案，正在积极讨论中",
+      "该剧改编自网络小说，李准赫此前已收到男主角出演提案"
     ],
-    "summary_zh": "据韩媒6月29日报道，孔升妍有望与李浚赫合作新剧《A Casual Lie》（暂定名），该剧改编自网络小说。孔升妍方面已确认收到提案，正在最终协商阶段。李浚赫此前已收到男主角提案。",
-    "extracted_at": "2026-06-30T18:54:32.431104+08:00"
+    "summary_zh": "据韩媒6月29日报道，演员孔升妍有望与李准赫合作新剧《A Casual Lie》（暂定名），该剧改编自网络小说。孔升妍方面于6月30日确认收到出演提案，目前正在积极讨论中。李准赫此前已收到男主角出演提案。",
+    "extracted_at": "2026-06-30T22:11:34.440418+08:00"
   },
   {
     "source_id": "soompi",
@@ -182,16 +452,15 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "怀念《厨神传奇》？推荐5部美食韩剧",
+    "title_zh": "怀念《厨神传奇》？推荐5部以美食为主题的韩剧",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "原文推荐5部以烹饪为隐喻或核心的韩剧，替代《厨神传奇》",
-      "《厨神传奇》由朴志训饰演姜成宰，在军营中制作盛宴"
+      "原文推荐5部以美食为主题的韩剧，怀念《厨神传奇》中姜成宰（朴志训饰）在军营做饭的场景"
     ],
-    "summary_zh": "如果你怀念《厨神传奇》中朴志训饰演的姜成宰在军营里制作盛宴的场景，这里推荐5部同样以烹饪为隐喻或核心的韩剧，满足你的味蕾与情感需求。",
-    "extracted_at": "2026-06-30T18:54:35.001553+08:00"
+    "summary_zh": "如果你怀念《厨神传奇》中姜成宰（朴志训饰）在军营里大展厨艺的场景，这里推荐5部以美食为隐喻和核心的韩剧，满足你的味蕾与情感需求。",
+    "extracted_at": "2026-06-30T22:11:36.904120+08:00"
   },
   {
     "source_id": "soompi",
@@ -212,34 +481,10 @@
     "is_blurred": false,
     "facts_list": [
       "6月30日，tripleS所属社MODHAUS通过官方粉丝平台宣布YuBin将暂停所有活动",
-      "医疗人员建议YuBin充分休息，因此决定暂时中断活动"
+      "医疗人员建议YuBin充分休息，因此决定暂停活动"
     ],
-    "summary_zh": "tripleS成员YuBin因健康问题将暂时停止活动。6月30日，所属社MODHAUS通过官方粉丝平台宣布，YuBin在医疗人员建议下需充分休息，因此决定暂停所有活动。",
-    "extracted_at": "2026-06-30T18:54:37.204318+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Keyveatz debuts with fresh take on girlish hip-hop - The Korea Times",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTm00U3V3OTg5eGdON3lOMXR2NklQc1NnNlZYcE15RzE1TE1ta1htQ0FnNlRSWTdiRVNuN0FTMFJ3Z3VkTWFTOFgtVDJjZnN1NHpydTJ5dHZRTVN6T2xialJrUXBYalFDc1ZnS2Ftek5McWpOTHVLVGJ4Sk1STEN3U3dmU3pIMEFfMnFTZ3NwQVV1dGpuLUgycE10cEVmLU1NYkhUQ3ppT3NuMXhR0gGyAUFVX3lxTE5aSGtFaFk1cWpwUlByNzJuc1VrcW9La2xHeWNqcGtmNUZ1QWdVektSQnpEcTJkanJqVFhkcHNNNU9laHptTWt3Z0hnTDgtVm1RYlJDWnJXYml5RGloTWpBUXI5ekVsQ1M2UHlHMFFYbUtFeDlNNHA4ZkJ1QXBfamhZcnJXN3ZqYVMzdGJvZGtEZ2Jrd3RpZi1ZQUNQR21ZZElJQ2J6aGF3Tld3eHdIbkhCa3c?oc=5",
-    "content": "Keyveatz debuts with fresh take on girlish hip-hop The Korea Times",
-    "published_at": "0630google-kpop",
-    "published_ts": 1782808564.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Keyveatz以清新少女嘻哈风格出道",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "Keyveatz组合出道，主打清新少女嘻哈风格",
-      "报道来自《韩国时报》"
-    ],
-    "summary_zh": "据《韩国时报》报道，新组合Keyveatz正式出道，以其独特的清新少女嘻哈风格引起关注。",
-    "extracted_at": "2026-06-30T18:54:38.958552+08:00"
+    "summary_zh": "tripleS成员YuBin因健康问题将暂时停止活动。6月30日，所属社MODHAUS通过官方粉丝平台宣布，YuBin在医疗人员建议下需充分休息，因此暂停所有活动。",
+    "extracted_at": "2026-06-30T22:11:39.202771+08:00"
   },
   {
     "source_id": "soompi",
@@ -254,16 +499,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "柳和荣公开唯美婚纱照，感性留言分享幸福",
+    "title_zh": "柳和荣公开唯美婚纱照，分享幸福瞬间",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "6月30日，柳和荣在Instagram上分享了婚纱照",
-      "她配文写道：“爱不是存在于宏大的承诺中，而是在我们一起欢笑的那些特别时刻里”"
+      "6月30日，柳和荣在Instagram上发布婚纱照",
+      "她配文写道：“爱不在于宏大的承诺，而在于我们共同欢笑的特别时刻”"
     ],
-    "summary_zh": "6月30日，柳和荣通过Instagram公开了多张婚纱照，并附上感性留言：“爱不是存在于宏大的承诺中，而是在我们一起欢笑的那些特别时刻里。”照片展现了她的幸福时刻。",
-    "extracted_at": "2026-06-30T18:54:41.835086+08:00"
+    "summary_zh": "6月30日，韩国艺人柳和荣通过个人Instagram账号公开了一组婚纱照，并附上诗意文字：“爱不在于宏大的承诺，而在于我们共同欢笑的特别时刻。”照片展现了她的幸福状态，引发粉丝祝福。",
+    "extracted_at": "2026-06-30T22:11:41.847401+08:00"
   },
   {
     "source_id": "soompi",
@@ -288,7 +533,7 @@
       "经纪公司duover相关人士回应称“很难确认”"
     ],
     "summary_zh": "6月30日，韩媒10Asia报道称，歌手CODE KUNST与交往8年的女友已分手。此前2023年曾公开其与圈外女友交往5年。对此，所属社duover相关人士简短回应：“很难确认。”",
-    "extracted_at": "2026-06-30T18:54:44.380208+08:00"
+    "extracted_at": "2026-06-30T22:11:44.244799+08:00"
   },
   {
     "source_id": "soompi",
@@ -311,34 +556,8 @@
       "6月30日，BELIFT LAB发布官方声明，表示正在持续对针对ENHYPEN的恶意评论和诽谤内容发布者采取法律行动",
       "声明还提及对涉及跟踪及侵犯私生活的个人采取法律措施"
     ],
-    "summary_zh": "ENHYPEN的所属社BELIFT LAB于6月30日发布官方声明，更新了通过法律行动保护组合的进展。声明称，公司正在持续对发布恶意评论和诽谤内容者，以及涉及跟踪和侵犯私生活的个人采取法律措施。",
-    "extracted_at": "2026-06-30T18:54:47.257424+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "K-pop's biggest agencies seek to break accessibility barriers, sustainability reports say - Korea JoongAng Daily",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUkRmUXh0Nkd1d1RoX05tZVpVZHhiNjFJVm9CMWZVT3BrX0h5ODZCSEp4M1pzTVB1T3F3d2pfQ1U3Q3ByZ3RmOXJfWWFXcjhVcnRDaWxIRk5RNzJTc0U1cThaMmFSWU9sUFZreE93ajVncHBHdk1JaWVBcHljZWZ0Z3dMdG44RjQzYVlpejduMEp5ZkFjXy1HUjh0MFJmVTBTUVJtNGNKQ3FqSmpBeHFNRDl4czBBZEhQVDB2c1dGYVB1bUFIbmJrQllTN1p3TlMwREw2Tjl3?oc=5",
-    "content": "K-pop's biggest agencies seek to break accessibility barriers, sustainability reports say Korea JoongAng Daily",
-    "published_at": "0630google-kpop",
-    "published_ts": 1782806230.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "韩娱三大社发布可持续发展报告，聚焦无障碍与环保",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "韩国三大娱乐公司SM、YG、JYP分别发布2023年可持续发展报告",
-      "SM报告提及为视障人士提供盲文专辑和手语翻译服务",
-      "YG报告称其办公楼获得绿色建筑认证，并减少一次性塑料使用",
-      "JYP报告显示其通过碳抵消计划实现碳中和目标"
-    ],
-    "summary_zh": "据韩国《中央日报》报道，SM、YG、JYP三大娱乐公司近期发布可持续发展报告，重点提及无障碍和环保举措。SM为视障粉丝推出盲文专辑和手语翻译服务；YG办公楼获绿色认证并减少塑料使用；JYP通过碳抵消实现碳中和。这些措施旨在打破行业壁垒，提升可持续性。",
-    "extracted_at": "2026-06-30T18:54:50.568356+08:00"
+    "summary_zh": "ENHYPEN的所属社BELIFT LAB于6月30日发布官方声明，更新了通过法律手段保护组合的进展。声明称，公司正在持续对发布恶意评论和诽谤内容的人士，以及涉及跟踪和侵犯私生活的个人采取法律行动。",
+    "extracted_at": "2026-06-30T22:11:47.271311+08:00"
   },
   {
     "source_id": "soompi",
@@ -359,11 +578,11 @@
     "is_blurred": false,
     "facts_list": [
       "6月30日，MyDaily报道称《信号2》定于11月30日作为tvN月火剧首播",
-      "报道称该剧共8集，将于12月22日播毕",
+      "报道称该剧共8集，播出至12月22日",
       "tvN回应称播出时间尚未确定"
     ],
-    "summary_zh": "据6月30日MyDaily报道，《信号》第二季《信号2》计划于11月30日在tvN月火档首播，共8集，至12月22日结束。但tvN随后回应表示播出时间尚未确定。",
-    "extracted_at": "2026-06-30T18:54:53.073199+08:00"
+    "summary_zh": "据6月30日MyDaily报道，《信号》第二季《信号2》计划于11月30日在tvN首播，作为月火剧播出8集至12月22日。但tvN随后回应，表示播出时间尚未确定。",
+    "extracted_at": "2026-06-30T22:11:49.779981+08:00"
   },
   {
     "source_id": "soompi",
@@ -388,7 +607,7 @@
       "该剧改编自网络漫画，是一部浪漫爱情剧"
     ],
     "summary_zh": "在《明天见》下一集中，徐仁国将前往朴智贤家中照顾生病的她。该剧改编自网络漫画，由朴智贤饰演陷入职业瓶颈的职场人车智允，是一部浪漫爱情剧。",
-    "extracted_at": "2026-06-30T18:54:55.523210+08:00"
+    "extracted_at": "2026-06-30T22:11:52.167182+08:00"
   },
   {
     "source_id": "soompi",
@@ -411,8 +630,32 @@
       "CORTIS被指从巴黎飞往仁川的航班迟到，导致起飞延误",
       "BIGHIT MUSIC于6月30日通过媒体发布官方声明致歉"
     ],
-    "summary_zh": "CORTIS所属社BIGHIT MUSIC就组合航班登机延误一事道歉。此前有网友发帖称CORTIS从巴黎飞往仁川的航班迟到，导致起飞延误。6月30日，BIGHIT MUSIC通过媒体发布官方声明，就近期事件致歉。",
-    "extracted_at": "2026-06-30T18:54:57.664738+08:00"
+    "summary_zh": "CORTIS所属社BIGHIT MUSIC就组合航班登机延误一事道歉。此前有网络社区发帖称CORTIS从巴黎飞往仁川的航班迟到，导致起飞延误。6月30日，BIGHIT MUSIC通过媒体发布官方声明，就近期事件致歉。",
+    "extracted_at": "2026-06-30T22:11:54.526254+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-pop group Cortis’ agency warns fans after finding GPS tracking device on transport vehicle - Yahoo News Malaysia",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RdVIwbG52TjRqYUZzX1ZZZHJ5LVlURUN5a0hUVkc1WERqb2F1ZXdlVThnZmhhaHVrZlpUMDVOZVFSdVlLV3BLNEVnNkZGYVB4VVdJX01GbDUyamxTYkJRdkJLZmFSclB4TllmZG5TTzJCUjgyTmRib3RIaVQ?oc=5",
+    "content": "K-pop group Cortis’ agency warns fans after finding GPS tracking device on transport vehicle Yahoo News Malaysia",
+    "published_at": "0630google-kpop",
+    "published_ts": 1782800400.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "K-pop组合Cortis所属社警告粉丝：在通勤车上发现GPS追踪器",
+    "source_type": "韩娱",
+    "risk_level": "中",
+    "is_blurred": false,
+    "facts_list": [
+      "Cortis所属社在组合通勤车辆上发现GPS追踪装置",
+      "所属社已就此事发表警告声明，提醒粉丝停止此类行为"
+    ],
+    "summary_zh": "K-pop组合Cortis的所属社近日发现，在组合使用的通勤车辆上被安装了GPS追踪装置。所属社已就此发布警告声明，要求粉丝停止此类侵犯隐私的行为，并提醒可能采取法律措施。",
+    "extracted_at": "2026-06-30T22:11:56.936491+08:00"
   },
   {
     "source_id": "soompi",
@@ -427,7 +670,7 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "李垠尚退出YOUNITE，将以Solo歌手身份继续活动",
+    "title_zh": "李垠尚退出YOUNITE，将以Solo歌手身份继续活动于BRANDNEW MUSIC",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
@@ -435,42 +678,18 @@
       "6月30日，BRANDNEW MUSIC宣布李垠尚退出YOUNITE",
       "同日，BRANDNEW MUSIC追加声明确认李垠尚将以Solo歌手身份继续留在公司活动"
     ],
-    "summary_zh": "6月30日，BRANDNEW MUSIC宣布李垠尚退出组合YOUNITE，并确认他将以Solo歌手身份继续在旗下活动。公司表示，李垠尚在恢复健康后，将开启个人事业的新篇章。",
-    "extracted_at": "2026-06-30T18:55:00.289916+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "BTS's global reach grows beyond K-pop, Luminate data shows - Korea JoongAng Daily",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORDdWZjQ2X3V6Vk1aZmJrR2hqVy1JZW9WVjBvZTdtajNyMDMzMHVXVzhqWjB5U3hzNGVKeEdzMTNMY19VeG53SlVSSUt0VFZsNjZjWWQ3OWFnRzEzMW5ac01FVzhGblJFQ0FvMjlYek82NWdKaWw5MGE5VVYwVV9RLUVBdVJ1U1NpWDZheWdDalNFUC1YSjJwcG5udXFieEd0Rk8ySkFxbThjNHNxc1gyZ0tCcw?oc=5",
-    "content": "BTS's global reach grows beyond K-pop, Luminate data shows Korea JoongAng Daily",
-    "published_at": "0630google-kpop",
-    "published_ts": 1782791821.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Luminate数据：BTS全球影响力超越K-pop范畴",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "Luminate数据报告显示BTS全球影响力超越K-pop范畴",
-      "具体数据未在原文中详细列出"
-    ],
-    "summary_zh": "据韩国《中央日报》报道，Luminate数据表明，BTS的全球影响力已超越K-pop范畴，但原文未提供具体数据细节。",
-    "extracted_at": "2026-06-30T18:55:02.265720+08:00"
+    "summary_zh": "6月30日，BRANDNEW MUSIC宣布李垠尚退出组合YOUNITE，并随后确认他将以Solo歌手身份继续在所属社活动。公司表示，在李垠尚恢复健康后，将开启个人演艺事业。",
+    "extracted_at": "2026-06-30T22:11:59.342085+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
     "title": "RESCENE's rise proves small K-pop agencies still have a chance - The Korea Times",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOHRhajM5ZXl2WGozWkdTOVBES2pmQlNMdERhUmxFOE9pTENsMzEzbGdlRXlkZV9LR29weVVjU3E2Y0RESTRkeE90WFV2WXdEcmM5T3MzZ1JiM3poVTJkS2dDdm9ZOUhWNHo1ZXg4ZzljVEw3U3JfOWNxbGpCTnFUMkJjSVZhODRBeHlUT2JlcHNLdk5BWlhWYk5qS1dXWjg1aF82cjRuaGZvN3gwWUZkejZlUTMyM2EyaUsw0gHAAUFVX3lxTE1IdnF6bDlKZlhCcGhrS1BkSUk4em5nN3NDWmZJd29LZHlFUFk3RVJFTF9pX2tZelZQYy1qek1UeDZ1czNFRW1PMEEwUzgtSC1IMGtMcThwOTVnbDFFTW5qdEQ2c2NLOG12eFhNam9ZZjR5MlpmRUZUdkVCU1VqUlhGU19HdDR4cmNaclNLSGtOUWFJTlh3X0I3czlHWHlZLTV3REpDQnBuOF82Mk9WQzhURkVfMHFCbWwxeVEyMmh4Qw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSHZxemw5SmZYQnBoa0tQZElJOHpuZzdzQ1pmSXdvS2R5RVBZN0VSRUxfaV9rWXpWUGMtanpNVHg2dXMzRUVtTzBBMFM4LUgtSDBrTHE4cDk1Z2wxRU1uanRENnNjSzhtdnhYTWpvWWY0eTJaZkVGVHZFQlNValJYRlNfR3Q0eHJjWnJTS0hrTlFhSU5Yd19CN3M5R1h5WS01d0RKQ0JwbjhfNjJPVkM4VEZFXzBxQm1sMXlRMjJoeEPSAcABQVVfeXFMTUh2cXpsOUpmWEJwaGtLUGRJSTh6bmc3c0NaZkl3b0tkeUVQWTdFUkVMX2lfa1l6VlBjLWp6TVR4NnVzM0VFbU8wQTBTOC1ILUgwa0xxOHA5NWdsMUVNbmp0RDZzY0s4bXZ4WE1qb1lmNHkyWmZFRlR2RUJTVWpSWEZTX0d0NHhyY1pyU0tIa05RYUlOWHdfQjdzOUdYeVktNXdESkNCcG44XzYyT1ZDOFRGRV8wcUJtbDF5UTIyaHhD?oc=5",
     "content": "RESCENE's rise proves small K-pop agencies still have a chance The Korea Times",
     "published_at": "0630google-kpop",
-    "published_ts": 1782788405.0,
+    "published_ts": 1782788400.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
@@ -481,10 +700,11 @@
     "is_blurred": false,
     "facts_list": [
       "韩国时报报道称，小型经纪公司推出的女团RESCENE近期取得显著成绩",
-      "RESCENE的歌曲在多个音乐榜单上获得关注，具体数据未在标题中提及"
+      "RESCENE的歌曲在韩国音乐榜单上获得关注，具体排名未提及",
+      "文章指出RESCENE的成功表明小型经纪公司仍能在K-pop市场获得突破"
     ],
-    "summary_zh": "据韩国时报报道，小型经纪公司推出的女团RESCENE近期在K-pop市场取得显著成绩，证明了小型经纪公司仍有机会在竞争激烈的行业中脱颖而出。文章分析了RESCENE的成功因素，包括独特的音乐风格和粉丝互动策略，但未提供具体榜单排名或销售数据。",
-    "extracted_at": "2026-06-30T18:55:05.156743+08:00"
+    "summary_zh": "据韩国时报报道，小型经纪公司推出的女团RESCENE近期在韩国音乐榜单上取得关注，其成功案例表明，在大型娱乐公司主导的K-pop市场中，小型经纪公司仍有机会通过优质内容和策略获得突破。",
+    "extracted_at": "2026-06-30T22:12:02.385130+08:00"
   },
   {
     "source_id": "soompi",
@@ -499,7 +719,7 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《明天见！》和《边缘医生》收视率保持稳定",
+    "title_zh": "《明天见！》和《边缘医生》收视率稳定，小幅上升",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
@@ -507,18 +727,18 @@
       "tvN月火剧《明天见！》第3集全国平均收视率4.5%，较上集4.4%上升0.1个百分点",
       "《边缘医生》收视率数据未在原文中提供"
     ],
-    "summary_zh": "据尼尔森韩国数据，tvN月火剧《明天见！》第3集全国平均收视率为4.5%，较上集4.4%小幅上升0.1个百分点。另一部月火剧《边缘医生》收视率保持稳定，但具体数据未在原文中提及。",
-    "extracted_at": "2026-06-30T18:55:07.767611+08:00"
+    "summary_zh": "据尼尔森韩国数据，tvN月火剧《明天见！》第3集全国平均收视率为4.5%，较上集的4.4%小幅上升0.1个百分点。另一部月火剧《边缘医生》收视率保持稳定，但具体数字未在原文中提及。",
+    "extracted_at": "2026-06-30T22:12:05.040253+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
     "title": "Beyond K-pop: Korea wants handicrafts to be its next cultural export hit - The Korea Times",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSGNfWnhGaFB6dk81NG5qb2d1aERPQXl1NWZKbV9KZ3RUU0Mzc1YxM3BwanNhdWNhcVo5R2hkaUZwQUxhRHRYZjhtQUg4S3ZFQUZYelFUeFpoTjZhbm5JWUg0X05jYzdhWEItRDUzaXAxaGNmT0tBaENGaXlVZVV1QWtGVC02T1Ewa3ZTU01uMDY0Z0l1LXhfcUFqUDdjczhUcjd6Uk1DenpJanYtdWZIdzVFNEJyNUZxc1pOa1RTRnlEUXFzSHpjUko1ejhMd3fSAdQBQVVfeXFMTS1OVEpONzkySlhQZ2g0STBvWFJYd0lEWjNIelJoUFNDamVOb2M1S3pXS3JyeU1iaU5RZjNYaVYycGZKV1dDVTJYQW1YRWtOUldZTXBkaF9EOUM0VUZnTUo0ZV9WTUh2MDNlVTd3RzdxUzd4dTFVb2xUWmFacnMtNmFydHVyRExxRTZHTEE2MWoxaE5jM2ZJYmxZT19tQ1FWdDNkemR4cTVrMHUzWHBDYVViWEFTd3JRb0dCUFpHc2lDakdYM3FuaVhfT1d6Qkg3S0N2cng?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNLU5USk43OTJKWFBnaDRJMG9YUlh3SURaM0h6UmhQU0NqZU5vYzVLeldLcnJ5TWJpTlFmM1hpVjJwZkpXV0NVMlhBbVhFa05SV1lNcGRoX0Q5QzRVRmdNSjRlX1ZNSHYwM2VVN3dHN3FTN3h1MVVvbFRaYVpycy02YXJ0dXJETHFFNkdMQTYxajFoTmMzZklibFlPX21DUVZ0M2R6ZHhxNWswdTNYcENhVWJYQVN3clFvR0JQWkdzaUNqR1gzcW5pWF9PV3pCSDdLQ3ZyeNIB1AFBVV95cUxNLU5USk43OTJKWFBnaDRJMG9YUlh3SURaM0h6UmhQU0NqZU5vYzVLeldLcnJ5TWJpTlFmM1hpVjJwZkpXV0NVMlhBbVhFa05SV1lNcGRoX0Q5QzRVRmdNSjRlX1ZNSHYwM2VVN3dHN3FTN3h1MVVvbFRaYVpycy02YXJ0dXJETHFFNkdMQTYxajFoTmMzZklibFlPX21DUVZ0M2R6ZHhxNWswdTNYcENhVWJYQVN3clFvR0JQWkdzaUNqR1gzcW5pWF9PV3pCSDdLQ3ZyeA?oc=5",
     "content": "Beyond K-pop: Korea wants handicrafts to be its next cultural export hit The Korea Times",
     "published_at": "0630google-kpop",
-    "published_ts": 1782787382.0,
+    "published_ts": 1782787380.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
@@ -528,11 +748,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "韩国政府计划将手工艺品作为继K-pop之后的下一个文化出口重点",
-      "该报道来自《韩国时报》"
+      "韩国政府计划推动手工艺品成为继K-pop后的文化出口新增长点",
+      "该报道出自《韩国时报》"
     ],
-    "summary_zh": "据《韩国时报》报道，韩国正寻求将手工艺品打造为继K-pop之后的下一个文化出口热点，旨在通过传统工艺提升国家文化软实力。",
-    "extracted_at": "2026-06-30T18:55:09.874528+08:00"
+    "summary_zh": "据《韩国时报》报道，韩国正寻求将传统手工艺品打造为继K-pop之后的下一个文化出口热点，旨在通过推广传统工艺提升文化软实力和经济收益。",
+    "extracted_at": "2026-06-30T22:12:07.528147+08:00"
   },
   {
     "source_id": "soompi",
@@ -552,11 +772,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "6月30日，边佑锡被宣布将作为主持人出席2026年KM Chart Awards（KMA）",
-      "颁奖礼将于7月25日在首尔高丽大学化汀虎穹顶体育馆举行"
+      "6月30日，官方宣布边佑锡将作为主持人出席2026年KM Chart Awards（KMA）",
+      "颁奖礼将于7月25日在首尔高丽大学花亭虎穹顶体育馆举行"
     ],
-    "summary_zh": "6月30日，边佑锡被宣布将作为主持人出席2026年KM Chart Awards（KMA），该颁奖礼将于7月25日在首尔高丽大学化汀虎穹顶体育馆举行。",
-    "extracted_at": "2026-06-30T18:55:12.114332+08:00"
+    "summary_zh": "6月30日，官方宣布边佑锡将作为主持人出席2026年KM Chart Awards（KMA），该颁奖礼将于7月25日在首尔高丽大学花亭虎穹顶体育馆举行。",
+    "extracted_at": "2026-06-30T22:12:09.860959+08:00"
   },
   {
     "source_id": "soompi",
@@ -577,11 +797,11 @@
     "is_blurred": false,
     "facts_list": [
       "6月29日，韩媒报道柳俊烈将离开UAA（United Artist Agency）",
-      "报道称柳俊烈正在讨论加入Galaxy Corporation，该公司旗下艺人有G-Dragon、Taemin、宋康昊、金钟国",
-      "UAA对此报道发表了回应"
+      "报道称柳俊烈正在讨论加入Galaxy Corporation，该公司旗下艺人包括G-Dragon、Taemin、宋康昊、金钟国",
+      "UAA对此报道作出回应"
     ],
-    "summary_zh": "6月29日，韩媒报道演员柳俊烈在签约UAA一年后可能离开，正在讨论加入Galaxy Corporation（旗下有G-Dragon、Taemin、宋康昊、金钟国等艺人）。UAA对此报道作出了回应。",
-    "extracted_at": "2026-06-30T18:55:14.756974+08:00"
+    "summary_zh": "6月29日，韩媒报道演员柳俊烈或将离开所属社UAA，并正在讨论加入Galaxy Corporation，后者旗下拥有G-Dragon、Taemin、宋康昊、金钟国等艺人。UAA已就此事发表回应。",
+    "extracted_at": "2026-06-30T22:12:12.545659+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -605,7 +825,7 @@
       "专辑风格融合Y2K怀旧与全球能量"
     ],
     "summary_zh": "K-Pop组合Queens Eye发行新专辑《PRISM Episode 2》，该专辑融合了Y2K怀旧风格与全球能量，展现了组合的音乐多样性。",
-    "extracted_at": "2026-06-30T18:55:16.720584+08:00"
+    "extracted_at": "2026-06-30T22:12:14.410092+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -625,10 +845,10 @@
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文未提及具体行为，仅称：回顾K-pop近两个月最疯狂的现象，包括洗脑副歌和工业流行风格"
+      "原文未提及具体行为，仅称：K-pop在过去两个月出现从洗脑神曲到工业流行的多样化趋势"
     ],
-    "summary_zh": "原文未提及具体行为，仅称：韩国时报发布K-pop报告卡，总结近两个月K-pop最疯狂的特征，包括洗脑副歌和工业流行风格，但未提供具体艺人、数据或事件细节。",
-    "extracted_at": "2026-06-30T18:55:19.136664+08:00"
+    "summary_zh": "原文未提及具体行为，仅称：K-pop在过去两个月出现从洗脑神曲到工业流行的多样化趋势",
+    "extracted_at": "2026-06-30T22:12:16.346799+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -643,37 +863,13 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "K-pop的酷儿演变",
+    "title_zh": "K-pop的酷儿进化",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [],
-    "summary_zh": "[原文未提及具体行为，仅称：K-pop的酷儿演变]",
-    "extracted_at": "2026-06-30T18:55:20.553869+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "‘BTS Lyrics Inside’: The K-Pop Supergroup Breaks Down Its Own Songs in a New Book - Billboard",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUTk0TVZJMGhfaW5fN2lwTUpmaV9XbndkeTVYeVRxZkV2MU91Qk9ZS2MydFdJVUdFY096RkRhdGlYX2Y0Qmhoc2ZNYmxlc2xuNlhiY19KNUNrOFRKb0lYWEU1d1RPel9VLXlmTk9tVWJSdWFmejI1VFhsRkpUZFhVTU55T0YxMkxsTGVubG15OHhfYVFxMnRIN3I2dml6bWV1SnJCV2pR?oc=5",
-    "content": "‘BTS Lyrics Inside’: The K-Pop Supergroup Breaks Down Its Own Songs in a New Book Billboard",
-    "published_at": "0630google-kpop",
-    "published_ts": 1782762591.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "BTS新书《BTS Lyrics Inside》解析自身歌曲歌词",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "BTS将出版新书《BTS Lyrics Inside》，书中成员亲自解析自己的歌曲歌词",
-      "该消息由Billboard报道"
-    ],
-    "summary_zh": "据Billboard报道，防弹少年团（BTS）将推出一本名为《BTS Lyrics Inside》的新书，书中成员将亲自解析自己的歌曲歌词。该书为粉丝提供了深入了解BTS音乐创作背后故事的机会。",
-    "extracted_at": "2026-06-30T18:55:22.641482+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：K-pop的酷儿进化]",
+    "extracted_at": "2026-06-30T22:12:17.762301+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -688,15 +884,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "波士顿电台报道82岁K-Pop粉丝",
+    "title_zh": "波士顿82岁老人成K-pop粉丝，获电台采访",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "波士顿电台ROCK 92.9报道了一位82岁的K-Pop粉丝"
+      "波士顿一位82岁老人成为K-pop粉丝",
+      "该粉丝被当地电台ROCK 92.9采访"
     ],
-    "summary_zh": "波士顿电台ROCK 92.9报道了一位82岁的K-Pop粉丝，具体内容未详细说明。",
-    "extracted_at": "2026-06-30T18:55:24.386463+08:00"
+    "summary_zh": "波士顿一位82岁老人成为K-pop粉丝，并接受了当地电台ROCK 92.9的采访。",
+    "extracted_at": "2026-06-30T22:12:19.661251+08:00"
   },
   {
     "source_id": "asianwiki",
