@@ -1,5 +1,486 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Top K-Pop Songs of 2026 (So Far) - thebiaslist.com",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vbC1HX2VBRzFNRzRpQXVUdFRXOFZrRUdFUUV0UFV1ZlhCQ0Nnb3JtUFdpSmZrM3Fvc2RqYVh1RS0xMGgyc0RPNUFGWXY4VklZMXFMVVNYQlBpWHhwaXZIbkxPOG1mNDRiMm96SFB0Szh6WHNB?oc=5",
+    "content": "Top K-Pop Songs of 2026 (So Far) thebiaslist.com",
+    "published_at": "0701google-kpop",
+    "published_ts": 1782915494.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "2026年迄今最佳K-Pop歌曲榜单发布",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "榜单由thebiaslist.com发布",
+      "标题为'2026年迄今最佳K-Pop歌曲'"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：thebiaslist.com发布了2026年迄今最佳K-Pop歌曲榜单]",
+    "extracted_at": "2026-07-01T22:27:09.805951+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: BOYNEXTDOOR Gets Chaotic In High-Energy Dance Practice Video For “ADIOS!”",
+    "url": "https://www.soompi.com/article/1851693wpp/watch-boynextdoor-gets-chaotic-in-high-energy-dance-practice-video-for-adios",
+    "content": "BOYNEXTDOOR is back with a fun dance video for “ADIOS!” On July 1, BOYNEXTDOOR released the official dance practice video for “ADIOS!”, the fan-favorite B-side off their new full-length album “HOME.” In contrast to their sharper and more precise choreography for their title track “VIRAL,” “ADIOS!” gives the members a chance to let loose amidst&#8230; Continue reading Watch: BOYNEXTDOOR Gets Chaotic In High-Energy Dance Practice Video For &#8220;ADIOS!&#8221;\nThe post Watch: BOYNEXTDOOR Gets Chaotic In High-Energy Dance Practice Video For &#8220;ADIOS!&#8221; appeared first on Soompi.",
+    "published_at": "0701soompi",
+    "published_ts": 1782912460.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "BOYNEXTDOOR公开新曲《ADIOS!》舞蹈练习室视频，成员们尽情释放能量",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "7月1日，BOYNEXTDOOR发布了新专辑《HOME》收录曲《ADIOS!》的官方舞蹈练习室视频",
+      "该曲为粉丝喜爱的B面曲，与主打曲《VIRAL》的精准编舞不同，《ADIOS!》让成员们更自由地释放能量"
+    ],
+    "summary_zh": "7月1日，BOYNEXTDOOR公开了新专辑《HOME》中B面曲《ADIOS!》的舞蹈练习室视频。与主打曲《VIRAL》的精准编舞不同，该视频展现了成员们在高能量中尽情释放的混乱而有趣的舞蹈场面。",
+    "extracted_at": "2026-07-01T22:27:12.845039+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Twice's Jihyo joins Shenseea for summer single 'Distant Lover' - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUUTVSNnp2bG5ZWWZXYnpaem95Vmc3N3dJZnpjTHh6b1FnNUhFdV9taHNMNEh4QUZUUktxWF92Q2lRM2MyNldPLWtYNUlidEhQVE9RU0N2TQ?oc=5",
+    "content": "Twice's Jihyo joins Shenseea for summer single 'Distant Lover' The Korea Herald",
+    "published_at": "0701google-kpop",
+    "published_ts": 1782908092.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "TWICE志效与Shenseea合作夏日单曲《Distant Lover》",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "TWICE成员志效与牙买加歌手Shenseea合作发行夏日单曲《Distant Lover》",
+      "该单曲由The Korea Herald报道"
+    ],
+    "summary_zh": "据The Korea Herald报道，TWICE成员志效与牙买加歌手Shenseea合作推出夏日单曲《Distant Lover》。",
+    "extracted_at": "2026-07-01T22:27:15.051245+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Evan revisits 'LeeMujin Service' with new musical identity - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0weXBoZHNsbFN6ZkVNSS1vSC1na2NZaE9DYV9NVmgxbEJmRGtXT3gwd2lLSG5RTFktdGp2SHJjRXNVT0ZnWWNwSS10Znh3MFpxSmV0WkxkYw?oc=5",
+    "content": "Evan revisits 'LeeMujin Service' with new musical identity The Korea Herald",
+    "published_at": "0701google-kpop",
+    "published_ts": 1782908085.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Evan携新音乐身份重返《李茂珍Service》",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Evan以新的音乐身份再次出演《李茂珍Service》",
+      "该消息由《韩国先驱报》报道"
+    ],
+    "summary_zh": "据《韩国先驱报》报道，Evan以新的音乐身份再次出演音乐访谈节目《李茂珍Service》，展现其音乐上的转变与成长。",
+    "extracted_at": "2026-07-01T22:27:17.241482+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "The Countries Where K-pop Is Exploding the Fastest in 2026 - Dojeon Media",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX1NJYWpWWl8zRjZWUlhfdXI1anJ3U3NlTUpGamNCQjlxQWY4OXNlTGdYQVh0YzZyWHIzVXBjdFhLMnNxMmIyWm1YRHpqcTNnaVV1WVE0VmFkeTZhNGVFNVZBcHBYVm5iSU1zT2xFcll2eUNXaWVEeFN3Tk4tT3p3TldhZC1YT2ZtaDB6bkFjNEJRS0hyRVE?oc=5",
+    "content": "The Countries Where K-pop Is Exploding the Fastest in 2026 Dojeon Media",
+    "published_at": "0701google-kpop",
+    "published_ts": 1782907254.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "2026年K-pop增长最快国家榜单发布",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文未提及具体国家名称、数据或来源"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：Dojeon Media发布了2026年K-pop增长最快国家榜单]",
+    "extracted_at": "2026-07-01T22:27:18.956295+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kong Hyo Jin And Jung Jun Won’s Sweet Married Life Is Tested By A Dangerous Secret In “A Bona Fide Killer”",
+    "url": "https://www.soompi.com/article/1851685wpp/kong-hyo-jin-and-jung-jun-wons-sweet-married-life-is-tested-by-a-dangerous-secret-in-a-bona-fide-killer",
+    "content": "Kong Hyo Jin and Jung Jun Won’s married life is about to get a thrilling twist in “A Bona Fide Killer”! “A Bona Fide Killer” is an action drama about a working mother with a lethal job who is fighting to protect her work-life balance. Kong Hyo Jin stars as Yu Bo Na, the seemingly&#8230; Continue reading Kong Hyo Jin And Jung Jun Won&#8217;s Sweet Married Life Is Tested By A Dangerous Secret In &#8220;A Bona Fide Killer&#8221;\nThe post Kong Hyo Jin And Jung Jun Won&#8217;s Sweet Married Life Is Tested By A Dangerous Secret In &#8220;A Bona Fide Killer&#8221; appeared first on Soompi.",
+    "published_at": "0701soompi",
+    "published_ts": 1782905047.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "孔孝真与郑俊元甜蜜婚姻遭遇危险秘密，《杀手》剧情引期待",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "孔孝真与郑俊元主演的韩剧《A Bona Fide Killer》中，两人饰演的夫妻婚姻生活因一个危险秘密而面临考验。",
+      "该剧是一部动作剧，讲述一位拥有致命职业的职场母亲为保护工作与生活平衡而奋斗的故事。",
+      "孔孝真饰演看似普通的职场母亲Yu Bo Na。"
+    ],
+    "summary_zh": "韩剧《A Bona Fide Killer》发布新剧情，孔孝真与郑俊元饰演的夫妻甜蜜婚姻因一个危险秘密而面临考验。该剧是一部动作剧，讲述一位拥有致命职业的职场母亲为保护工作与生活平衡而奋斗的故事。孔孝真饰演看似普通的职场母亲Yu Bo Na。",
+    "extracted_at": "2026-07-01T22:27:22.190604+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Talking point - Monocle",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5GRVRKeXBkbUhTVzRocHQzN2NrWHpyOXhhc2tSYng0X1F6WHZCc0Nid282VHp3U3VTUVBCazJKSm5OZVRIdDJnbHJUVlZUMTFDSTk5NUFpellhbUR4eGhwOXpocC1tclpTeGV4VzZwblU5WnpsNzBRa2xMOEc?oc=5",
+    "content": "Talking point Monocle",
+    "published_at": "0701google-kpop",
+    "published_ts": 1782904797.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Monocle杂志推出新栏目“Talking Point”",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文未提及具体行为，仅称：Monocle杂志推出新栏目“Talking Point”"
+    ],
+    "summary_zh": "原文未提及具体行为，仅称：Monocle杂志推出新栏目“Talking Point”。",
+    "extracted_at": "2026-07-01T22:27:24.040239+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "‘All Heart:’ YOON SAN-HA talks journey from boy with a guitar to K-Pop idol - amNewYork",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRnBfU0lPal9VOGt1VHV0dFVyYjRSZldCOTc4dFFEYnNjZ2hTRWthUU95ZmduM2tZeVNUMEhXMlpEWGxaa2RQQ0ppalRqdEVfOEJ1SUlLQVYtdVVpUW9ORWRMeTFoaGtiRFo5QU43WURVVm5qUGc3bjU5TFlUU1JkV1FJYzg?oc=5",
+    "content": "‘All Heart:’ YOON SAN-HA talks journey from boy with a guitar to K-Pop idol amNewYork",
+    "published_at": "0701google-kpop",
+    "published_ts": 1782903636.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "尹产贺专访：从弹吉他的少年到K-Pop偶像的心路历程",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "尹产贺接受amNewYork专访，谈论从弹吉他的少年成长为K-Pop偶像的旅程"
+    ],
+    "summary_zh": "尹产贺（YOON SAN-HA）近日接受amNewYork专访，分享了他从一名弹吉他的少年成长为K-Pop偶像的历程。采访中他回顾了音乐启蒙、练习生时期以及作为ASTRO成员出道后的经历，强调了对音乐的热爱和坚持。",
+    "extracted_at": "2026-07-01T22:27:26.631802+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-Pop Hotspot: June 2026 Comebacks & Debuts Roundup - The Honey POP",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVTJwWjNmSzIzSjZ6bkVlOGMxREVzWjd4TDljaFphLS1SSzdLSGQtQ3ZWNDUtbjY4dmpLU1hKcV9EcU1zQlNISmxXRDRnXzNGaEdwcmhMQkEtTTkwRVhCaVhfM2JDM0JZaVhMc29KeXJ4WVVlM0VEcTdrSkZzaUl4ZDh0SDJPX25UY1pJUA?oc=5",
+    "content": "K-Pop Hotspot: June 2026 Comebacks & Debuts Roundup The Honey POP",
+    "published_at": "0701google-kpop",
+    "published_ts": 1782903600.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "2026年6月K-Pop回归与出道汇总",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文未提及具体艺人、组合、歌曲或日期，仅称有2026年6月的回归与出道汇总"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：2026年6月K-Pop回归与出道汇总]",
+    "extracted_at": "2026-07-01T22:27:28.821935+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Ha Seok Jin Sees Lee Ju Yeon As Family While She Longs For More In “Love On The Menu”",
+    "url": "https://www.soompi.com/article/1851677wpp/ha-seok-jin-sees-lee-ju-yeon-as-family-while-she-longs-for-more-in-love-on-the-menu",
+    "content": "Upcoming drama “Love on the Menu” has unveiled new stills! “Love on the Menu” is a family romance drama that follows Kim Moo Jin (Ha Seok Jin) and Han Gyu Rim (Hani), two former lovers who reunite eight years after a painful breakup. As they reconnect, they piece together the fragments of their broken families&#8230; Continue reading Ha Seok Jin Sees Lee Ju Yeon As Family While She Longs For More In &#8220;Love On The Menu&#8221;\nThe post Ha Seok Jin Sees Lee Ju Yeon As Family While She Longs For More In &#8220;Love On The Menu&#8221; appeared first on Soompi.",
+    "published_at": "0701soompi",
+    "published_ts": 1782903529.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《爱情菜单》河锡辰视李珠妍为家人，李珠妍渴望更多",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "新剧《爱情菜单》公开新剧照",
+      "河锡辰饰演的金武镇将李珠妍饰演的角色视为家人",
+      "李珠妍饰演的角色渴望更多",
+      "该剧讲述河锡辰与Hani饰演的恋人分手8年后重逢并重组家庭的故事"
+    ],
+    "summary_zh": "即将播出的韩剧《爱情菜单》公开新剧照，展现河锡辰与李珠妍的角色关系：河锡辰饰演的金武镇视李珠妍为家人，而李珠妍则渴望更多。该剧是一部家庭浪漫剧，讲述金武镇（河锡辰饰）与韩圭琳（Hani饰）这对昔日恋人在痛苦分手8年后重逢，并拼凑破碎家庭碎片的故事。",
+    "extracted_at": "2026-07-01T22:27:32.546007+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "New AI Crime Thriller K-Drama 'Nightmare' Headed to Netflix in 2027: What We Know So Far - What's on Netflix",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNelNyUWsxN3FTZ2JId0dJbVM1QzBkVDhDNEJQVW44ajJadHNSc0pSRXQzMHVJVVkzclJ4RzQxYS1kMk9nWnJzLWMzUnlEV0RWTTBTUlRCV0ptS0RHVEc0elpuaTQ4dTk3LVhrV054TV85QXN6amItek5LTjNlZ2FiQW9GbTY0eXAtMW5MdzNrNA?oc=5",
+    "content": "New AI Crime Thriller K-Drama 'Nightmare' Headed to Netflix in 2027: What We Know So Far What's on Netflix",
+    "published_at": "0701google-kpop",
+    "published_ts": 1782902521.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Netflix 2027年上线AI犯罪惊悚韩剧《Nightmare》",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Netflix 宣布将于2027年上线一部名为《Nightmare》的AI犯罪惊悚韩剧",
+      "该剧由《What's on Netflix》报道，具体剧情、演员阵容尚未公布"
+    ],
+    "summary_zh": "据《What's on Netflix》报道，Netflix 计划于2027年推出一部名为《Nightmare》的AI犯罪惊悚韩剧。目前该剧的具体剧情、演员阵容等细节尚未公开，仅确认了上线年份和类型。",
+    "extracted_at": "2026-07-01T22:27:35.241009+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Heize Parts Ways With P NATION After 6 Years",
+    "url": "https://www.soompi.com/article/1851673wpp/heize-parts-ways-with-p-nation-after-6-years",
+    "content": "Heize has parted ways with P NATION. On July 1, P NATION announced through its official channels that Heize&#8217;s exclusive contract with the agency officially ended on June 30. The agency&#8217;s full statement is as follows: Wishing Heize all the best in her future endeavors! Source (1)\nThe post Heize Parts Ways With P NATION After 6 Years appeared first on Soompi.",
+    "published_at": "0701soompi",
+    "published_ts": 1782902383.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Heize与P NATION合约到期，6年合作正式结束",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Heize与P NATION的专属合约于6月30日正式到期",
+      "P NATION于7月1日通过官方渠道宣布合约结束",
+      "P NATION在声明中祝愿Heize未来一切顺利"
+    ],
+    "summary_zh": "7月1日，P NATION通过官方渠道宣布，旗下歌手Heize的专属合约已于6月30日正式到期，双方结束长达6年的合作关系。P NATION在声明中表示祝愿Heize未来一切顺利。",
+    "extracted_at": "2026-07-01T22:27:37.599829+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-pop rookie race, part 2: Next groups to watch - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sT1F4cl8wZFNKYWFFUE9ya1JLYVZlM2NmNXRJUDF0NzlRaUVaNUhRSDFOdWwtWVE1ZWd1ZUVyc21ZTll4YkZqNW9SNnE3a0FmdGlfZFhTSQ?oc=5",
+    "content": "K-pop rookie race, part 2: Next groups to watch The Korea Herald",
+    "published_at": "0701google-kpop",
+    "published_ts": 1782901077.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "K-pop新秀竞争第二弹：值得关注的下一批组合",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文未提及具体组合名称、时间、数据或事件，仅称是K-pop新秀竞争系列的第二部分，介绍值得关注的下一批组合。"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：K-pop新秀竞争系列的第二部分，介绍值得关注的下一批组合。]",
+    "extracted_at": "2026-07-01T22:27:39.800235+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Uhm Jung Hwa, Park Sung Woong, And More Get Swept Into Unexpected Crisis On A Cruise Ship In “Okay! Madam 2” Teaser",
+    "url": "https://www.soompi.com/article/1851585wpp/watch-uhm-jung-hwa-park-sung-woong-and-more-get-swept-into-unexpected-crisis-on-a-cruise-ship-in-okay-madam-2-teaser",
+    "content": "The upcoming action comedy film “Okay! Madam 2” has shared its first poster and teaser! A sequel to the 2020 hit movie “Okay! Madam,” the new film follows the same family who once stopped an airplane hijacking. This time, they’re invited aboard a luxurious cruise ship, only to find themselves caught up in yet another&#8230; Continue reading Watch: Uhm Jung Hwa, Park Sung Woong, And More Get Swept Into Unexpected Crisis On A Cruise Ship In “Okay! Madam 2” Teaser\nThe post Watch: Uhm Jung Hwa, Park Sung Woong, And More Get Swept Into Unexpected Crisis On A Cruise Ship In “Okay! Madam 2” Teaser appeared first on Soompi.",
+    "published_at": "0701soompi",
+    "published_ts": 1782900343.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《Okay! Madam 2》预告：严正化、朴星雄等卷入游轮危机",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "动作喜剧电影《Okay! Madam 2》发布首张海报和预告片",
+      "该片是2020年热门电影《Okay! Madam》的续集，讲述同一家庭在豪华游轮上遭遇新危机"
+    ],
+    "summary_zh": "动作喜剧电影《Okay! Madam 2》公开首张海报和预告片。作为2020年热门电影《Okay! Madam》的续集，该片讲述曾阻止飞机劫持的一家人受邀登上豪华游轮，却再次陷入意想不到的危机。主演包括严正化、朴星雄等。",
+    "extracted_at": "2026-07-01T22:27:42.751604+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Bae Young-whan, artist who married conceptualism and K-Pop lyrics, 1969–2026 - ArtReview",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcDRrRlAwWm1JNHhwamRqMGZ4Rk1vY0JNWkVxeEJrdUNaTldLT1BnSTQ3X2daaHY4MDZUcG9kZ3ZGZTBEU1RhMDAxZnVJek1ReXZ6QWZ2ZDVhb2k1SVFRbGxDellfanlWWnNIUVltSkpWWFVMSGpVc0pNX3dDd3hfeC1DaUROSFdwWURQLTFxVlJCV0VNbXphZHhOMUY1QQ?oc=5",
+    "content": "Bae Young-whan, artist who married conceptualism and K-Pop lyrics, 1969–2026 ArtReview",
+    "published_at": "0701google-kpop",
+    "published_ts": 1782899462.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "概念艺术与K-Pop歌词结合的艺术家裴英焕去世，享年57岁",
+    "source_type": "韩娱",
+    "risk_level": "高",
+    "is_blurred": false,
+    "facts_list": [
+      "艺术家裴英焕（1969–2026）去世，享年57岁",
+      "其作品以概念艺术与K-Pop歌词结合为特点",
+      "报道来源为ArtReview"
+    ],
+    "summary_zh": "据ArtReview报道，韩国艺术家裴英焕（Bae Young-whan）于2026年去世，享年57岁。他以将概念艺术与K-Pop歌词相结合而闻名，其作品在艺术界具有独特地位。",
+    "extracted_at": "2026-07-01T22:27:45.401128+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kim Ji Hun Confirmed + Park Ju Hyun Reported To Star In New Rom-Com",
+    "url": "https://www.soompi.com/article/1851636wpp/kim-ji-hun-confirmed-park-ju-hyun-reported-to-star-in-new-rom-com",
+    "content": "Kim Ji Hun and Park Ju Hyun may be starring together in a new drama! On July 1, MHN Sports reported that Kim Ji Hun has been cast as the male lead in the upcoming drama “Sigor Amour” (literal title), while STARNEWS separately reported that Park Ju Hyun will also star in the series. Kim&#8230; Continue reading Kim Ji Hun Confirmed + Park Ju Hyun Reported To Star In New Rom-Com\nThe post Kim Ji Hun Confirmed + Park Ju Hyun Reported To Star In New Rom-Com appeared first on Soompi.",
+    "published_at": "0701soompi",
+    "published_ts": 1782897963.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "金智勋确定出演新剧《Sigor Amour》，朴柱炫有望合作",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "7月1日，MHN Sports报道金智勋被选为即将播出的新剧《Sigor Amour》（暂译）的男主角",
+      "同日，STARNEWS单独报道朴柱炫也将出演该剧"
+    ],
+    "summary_zh": "7月1日，据MHN Sports报道，金智勋已确定出演新剧《Sigor Amour》（暂译）的男主角；同时，STARNEWS报道朴柱炫也有望加盟该剧。该剧为浪漫喜剧题材，具体播出时间尚未公布。",
+    "extracted_at": "2026-07-01T22:27:48.089343+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Kim Myung Soo And Kang Min Ah Share A Mysterious Connection In “Love In Sync” Highlight Video",
+    "url": "https://www.soompi.com/article/1851597wpp/watch-kim-myung-soo-and-kang-min-ah-share-a-mysterious-connection-in-love-in-sync-highlight-video",
+    "content": "Upcoming drama &#8220;Love in Sync&#8221; has unveiled a highlight video! “Love in Sync” is a romantic comedy about Yoo Ji An (Kang Min Ah), a top star who rejects empathy, and Cha Eun Hwan (Kim Myung Soo), a renowned psychologist burdened with too much of it. When a supernatural phenomenon causes them to share each&#8230; Continue reading Watch: Kim Myung Soo And Kang Min Ah Share A Mysterious Connection In &#8220;Love In Sync&#8221; Highlight Video\nThe post Watch: Kim Myung Soo And Kang Min Ah Share A Mysterious Connection In &#8220;Love In Sync&#8221; Highlight Video appeared first on Soompi.",
+    "published_at": "0701soompi",
+    "published_ts": 1782897906.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "金明洙与姜敏儿新剧《爱在同步》公开神秘连接预告视频",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "金明洙与姜敏儿主演的韩剧《爱在同步》公开了预告视频",
+      "该剧是一部浪漫喜剧，讲述顶级明星刘智安（姜敏儿饰）拒绝共情，而著名心理学家车恩焕（金明洙饰）因过度共情而困扰，两人因超自然现象产生神秘连接的故事"
+    ],
+    "summary_zh": "韩剧《爱在同步》公开了预告视频。该剧是一部浪漫喜剧，由金明洙和姜敏儿主演，讲述顶级明星刘智安（姜敏儿饰）拒绝共情，而著名心理学家车恩焕（金明洙饰）因过度共情而困扰，两人因超自然现象产生神秘连接的故事。",
+    "extracted_at": "2026-07-01T22:27:51.345719+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Ong Seong Wu Talks About Taking On His First-Ever Villain Role In “Spooky In Love”",
+    "url": "https://www.soompi.com/article/1851563wpp/ong-seong-wu-talks-about-taking-on-his-first-ever-villain-role-in-spooky-in-love",
+    "content": "Ong Seong Wu has shared his thoughts on his upcoming drama “Spooky in Love”! A remake of the 2011 film “Spellbound,” “Spooky in Love” is an occult romance drama about the chaotic partnership between Cheon Yeo Ri (Park Eun Bin), a hotel heiress who can see ghosts, and Ma Gang Wook (Yang Se Jong), a&#8230; Continue reading Ong Seong Wu Talks About Taking On His First-Ever Villain Role In “Spooky In Love”\nThe post Ong Seong Wu Talks About Taking On His First-Ever Villain Role In “Spooky In Love” appeared first on Soompi.",
+    "published_at": "0701soompi",
+    "published_ts": 1782895666.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "邕圣祐谈首次挑战反派角色：新剧《鬼怪恋爱》",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "邕圣祐在即将播出的韩剧《鬼怪恋爱》中首次饰演反派角色",
+      "该剧翻拍自2011年电影《Spellbound》，是一部灵异浪漫喜剧",
+      "剧情讲述能看到鬼魂的酒店继承人Cheon Yeo Ri（朴恩斌饰）与Ma Gang Wook（梁世宗饰）之间的混乱合作"
+    ],
+    "summary_zh": "邕圣祐谈及在即将播出的韩剧《鬼怪恋爱》中首次挑战反派角色。该剧翻拍自2011年电影《Spellbound》，是一部灵异浪漫喜剧，讲述能看到鬼魂的酒店继承人Cheon Yeo Ri（朴恩斌饰）与Ma Gang Wook（梁世宗饰）之间的混乱合作。",
+    "extracted_at": "2026-07-01T22:27:54.633805+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "“A Shop For Killers 2” Directors And Lee Dong Wook Share Key Points To Watch For",
+    "url": "https://www.soompi.com/article/1851545wpp/a-shop-for-killers-2-directors-and-lee-dong-wook-share-key-points-to-watch-for",
+    "content": "“A Shop for Killers” Season 2 has unveiled new stills of Lee Dong Wook in character! Based on a novel by “The Killer’s Shopping List” author Kang Ji Young, “A Shop for Killers” is an action drama that follows Jeong Ji An (Kim Hye Joon), who moves in with her uncle Jeong Jin Man (Lee&#8230; Continue reading “A Shop For Killers 2” Directors And Lee Dong Wook Share Key Points To Watch For\nThe post “A Shop For Killers 2” Directors And Lee Dong Wook Share Key Points To Watch For appeared first on Soompi.",
+    "published_at": "0701soompi",
+    "published_ts": 1782895242.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《杀人者的购物中心2》导演与李栋旭分享观剧要点",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "《杀人者的购物中心》第二季公开李栋旭角色新剧照",
+      "该剧改编自《杀人者的购物目录》作者姜智英的小说",
+      "剧情讲述郑智安（金慧埈饰）与叔叔郑镇万（李栋旭饰）同居后的动作故事"
+    ],
+    "summary_zh": "《杀人者的购物中心》第二季公开李栋旭角色新剧照，导演与李栋旭分享观剧要点。该剧改编自《杀人者的购物目录》作者姜智英的小说，是一部动作剧，讲述郑智安（金慧埈饰）与叔叔郑镇万（李栋旭饰）同居后的故事。",
+    "extracted_at": "2026-07-01T22:27:57.640797+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "QUIZ: Pick Your Fave K-Pop Visual From These 10 Groups And We’ll Guess Which Romance Trope You Secretly Love",
+    "url": "https://www.soompi.com/article/1849468wpp/quiz-pick-your-fave-k-pop-visual-from-these-10-groups-and-well-guess-which-romance-trope-you-secretly-love",
+    "content": "They might be cheesy, but some romance tropes are so cute that it doesn&#8217;t matter! Whether your preferred storyline has the main couple falling in love at first sight or fighting it out until the end, the romance is always there. The real question is whether or not your K-pop tastes are similar! Just tell&#8230; Continue reading QUIZ: Pick Your Fave K-Pop Visual From These 10 Groups And We’ll Guess Which Romance Trope You Secretly Love\nThe post QUIZ: Pick Your Fave K-Pop Visual From These 10 Groups And We’ll Guess Which Romance Trope You Secretly Love appeared first on Soompi.",
+    "published_at": "0701soompi",
+    "published_ts": 1782893725.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "趣味测试：从10个K-pop组合中选最爱门面，猜你暗恋的浪漫套路",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Soompi发布互动测试，从10个K-pop组合中选出门面成员，推测用户偏好的浪漫剧情套路"
+    ],
+    "summary_zh": "Soompi推出趣味测试，用户从10个K-pop组合中选择最喜欢的门面成员，系统将据此猜测用户暗恋的浪漫剧情套路，如一见钟情或欢喜冤家等。",
+    "extracted_at": "2026-07-01T22:27:59.955448+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -12,17 +493,40 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "WINNER姜昇润有望出演KBS2新剧《我去上学了》，YG简短回应",
+    "title_zh": "WINNER姜昇润有望出演KBS2新剧《我去上学了》，YG回应",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "7月1日，Xportsnews报道姜昇润被选为KBS2周末剧《我去上学了》主演",
-      "该剧讲述尹玉熙的故事，姜昇润将饰演角色（具体角色未公开）",
-      "YG娱乐简短回应称正在确认中"
+      "7月1日，Xportsnews报道姜昇润被选为KBS2周末剧《我去上学了》主演候选人",
+      "《我去上学了》讲述尹玉熙的故事，姜昇润角色未公开",
+      "YG娱乐简短回应：正在确认中"
     ],
-    "summary_zh": "据7月1日Xportsnews报道，WINNER成员姜昇润有望出演KBS2新周末剧《我去上学了》，这将是其时隔四年重返小荧幕。该剧讲述主角尹玉熙的故事，姜昇润具体角色未公开。YG娱乐对此简短回应表示正在确认中。",
-    "extracted_at": "2026-07-01T16:08:09.075918+08:00"
+    "summary_zh": "据7月1日Xportsnews报道，WINNER成员姜昇润有望出演KBS2新周末剧《我去上学了》，这将是其时隔四年重返小荧幕。该剧讲述尹玉熙的故事，姜昇润具体角色尚未公开。YG娱乐对此简短回应称“正在确认中”。",
+    "extracted_at": "2026-07-01T22:28:03.224706+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "10 Korean Dramas You Need to Be Watching in July 2026 - Kdrama Kisses -",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa1Rnc2VQSTdxRzVYZmdDS0M5MEFlVXdoaERoLUJRYy04NVdEZl9KUjBRYUhWZTJPaWNKUUl2djRqazRVWXVEN3hnOUExYl9LMHVLMUFFVldCMFRFRGhCODBIMjBQV011RldTQlRKem0yVDFpdnBfOU56T1ZIdFgtdlJNdXZNaXF6M3pYNG1kQ2xCcjNs?oc=5",
+    "content": "10 Korean Dramas You Need to Be Watching in July 2026 Kdrama Kisses -",
+    "published_at": "0701google-kpop",
+    "published_ts": 1782889237.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "2026年7月必看10部韩剧推荐",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文未提及具体剧名、播出平台、播出时间等具体信息"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：2026年7月有10部韩剧值得观看]",
+    "extracted_at": "2026-07-01T22:28:05.115879+08:00"
   },
   {
     "source_id": "soompi",
@@ -45,8 +549,8 @@
       "7月1日，业内人士报道金泰梨将出演新剧《姐姐，这辈子我是女王》（暂译）",
       "所属社Management mmm回应称金泰梨正在讨论中"
     ],
-    "summary_zh": "7月1日，据业内人士报道，演员金泰梨有望出演新剧《姐姐，这辈子我是女王》（暂译）。对此，其所属社Management mmm回应表示，金泰梨正在讨论出演该剧。",
-    "extracted_at": "2026-07-01T16:08:11.441638+08:00"
+    "summary_zh": "据7月1日业内人士报道，演员金泰梨有望出演新剧《姐姐，这辈子我是女王》（暂译）。其所属社Management mmm回应表示，金泰梨正在就该剧的出演进行讨论。",
+    "extracted_at": "2026-07-01T22:28:07.448819+08:00"
   },
   {
     "source_id": "soompi",
@@ -61,40 +565,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "柳俊烈签约Galaxy Corporation",
+    "title_zh": "柳俊烈签约Galaxy Corporation，开启新篇章",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "7月1日，Galaxy Corporation宣布与演员柳俊烈签订专属合约",
-      "公司表示将积极支持其演艺事业"
+      "公司表示将积极支持柳俊烈演艺事业的各个方面"
     ],
-    "summary_zh": "7月1日，Galaxy Corporation宣布与演员柳俊烈签订专属合约，并表示将全力支持其演艺事业，以发挥其卓越的演技才能。",
-    "extracted_at": "2026-07-01T16:08:13.415592+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "The 190 cm club: K-drama actors who tower over the rest - Tatler Asia",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRHpUejkzZ3g0QUJsdlYxTHdWVkdRMG9yeTk2U3d1YVNUSkpIS1h6YTdCLTZSMjROZk13bGhmSjc3cU1walJjdWpxdUt4QWRSS2xwdTd6MnF2Z1FkTDFVU09oOXZyOWd5dW1ZaTY2OEc1eHdxbWNIU1ZzR181QTFPc1J2cw?oc=5",
-    "content": "The 190 cm club: K-drama actors who tower over the rest Tatler Asia",
-    "published_at": "0701google-kpop",
-    "published_ts": 1782887463.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "190cm俱乐部：盘点身高傲视群雄的韩剧男演员",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "Tatler Asia发布文章，盘点身高190cm及以上的韩剧男演员",
-      "文章列出多位身高超过190cm的韩剧演员，如李敏镐、金宇彬等"
-    ],
-    "summary_zh": "Tatler Asia发布文章《190cm俱乐部：盘点身高傲视群雄的韩剧男演员》，列举了多位身高超过190cm的韩剧男演员，包括李敏镐、金宇彬等，探讨他们在剧中的身高优势及观众反响。",
-    "extracted_at": "2026-07-01T16:08:15.723214+08:00"
+    "summary_zh": "7月1日，Galaxy Corporation宣布与演员柳俊烈签订专属合约。公司表示将全力支持其演艺事业，发挥其卓越演技。",
+    "extracted_at": "2026-07-01T22:28:09.824701+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -114,11 +594,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "The Korea Herald发布报道，盘点2026年上半年K-pop新秀竞争格局",
-      "报道聚焦3个在2026年上半年表现突出的新人组合"
+      "《韩国先驱报》发布2026年K-pop新秀竞争系列报道第一部分",
+      "报道聚焦2026年上半年定义格局的三组新人组合",
+      "具体组合名称及数据需阅读全文获取"
     ],
-    "summary_zh": "The Korea Herald发布系列报道第一部分，盘点2026年上半年K-pop新秀竞争格局，聚焦3个定义上半年的新人组合。报道分析这些组合在音乐、舞台和粉丝互动方面的表现，但未提及具体组合名称、数据或事件细节。",
-    "extracted_at": "2026-07-01T16:08:18.491851+08:00"
+    "summary_zh": "《韩国先驱报》发布2026年K-pop新秀竞争系列报道的第一部分，聚焦上半年定义格局的三组新人组合。报道分析了这些组合在音乐、舞台和粉丝互动方面的表现，以及它们如何影响K-pop市场格局。具体组合名称及详细数据需阅读全文获取。",
+    "extracted_at": "2026-07-01T22:28:13.096815+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -133,40 +614,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "韩国音乐节目不再局限于K-pop，《韩国时报》分析背后原因",
+    "title_zh": "韩国音乐节目不再仅限于K-pop，《韩国时报》分析背后原因",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "《韩国时报》报道指出韩国音乐节目正在引入更多非K-pop音乐类型",
-      "节目制作方表示此举旨在扩大观众群体和提升节目多样性"
+      "《韩国时报》报道指出，韩国音乐节目正引入更多非K-pop音乐类型，如独立音乐、嘻哈、摇滚等",
+      "节目制作方表示，此举旨在吸引更广泛的观众群体，应对K-pop市场饱和",
+      "部分节目已增加海外艺人表演环节，提升国际多样性"
     ],
-    "summary_zh": "据《韩国时报》报道，韩国音乐节目正逐渐打破K-pop的单一框架，引入更多元化的音乐类型，如独立音乐、嘻哈和电子音乐等。节目制作方表示，这一变化是为了吸引更广泛的观众群体，并提升节目的文化多样性。",
-    "extracted_at": "2026-07-01T16:08:21.084403+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Stray Kids Add Sixth 1 Billion-Streaming Album, Second in K-Pop - 조선일보",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVU54OTJpZW1jTnRFREVJQkMzTE9DS3Q3cFhQQWJZbEVCTU9qcWgxVDNxYWcwWDhLSVRYay1QNHgzX0hTNGRXNkt5S2ZCNHhqR3JLTzlXTzVkZTFHYkJjb054NFcxaXZmbFB2aW42T1lYUm42dWx6elA1Z2o3WEVmSjJpQVZZa1hnZHIybVJB?oc=5",
-    "content": "Stray Kids Add Sixth 1 Billion-Streaming Album, Second in K-Pop 조선일보",
-    "published_at": "0701google-kpop",
-    "published_ts": 1782883428.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Stray Kids第六张专辑流媒体播放破10亿，K-POP第二",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "Stray Kids第六张专辑在流媒体平台播放量突破10亿次",
-      "Stray Kids成为K-POP中第二支达成此成就的组合"
-    ],
-    "summary_zh": "据조선일보报道，Stray Kids第六张专辑在全球流媒体平台播放量突破10亿次，成为K-POP中第二支拥有六张10亿流媒体专辑的组合。",
-    "extracted_at": "2026-07-01T16:08:23.328042+08:00"
+    "summary_zh": "据《韩国时报》报道，韩国音乐节目正逐渐突破K-pop的单一框架，引入独立音乐、嘻哈、摇滚等多种音乐类型，并增加海外艺人表演。制作方称，此举旨在应对K-pop市场饱和，吸引更广泛的观众群体，提升节目的国际多样性。",
+    "extracted_at": "2026-07-01T22:28:16.262884+08:00"
   },
   {
     "source_id": "soompi",
@@ -181,16 +639,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "金惠奫新剧《我的偏见，我的老板》首曝剧照，追星少女入职遇老板",
+    "title_zh": "金惠奫新剧《我的偏见，我的老板》首曝剧照，追星女孩入职公司遇老板",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "tvN新剧《我的偏见，我的老板》公开金惠奫角色剧照",
-      "该剧改编自网络漫画，讲述为见偶像而入职公司的南多林（金惠奫饰）与公司老板姜河基之间的浪漫故事"
+      "该剧改编自网络漫画，讲述为见长期偶像而入职公司的南多林（金惠奫饰）与公司老板姜河基之间的浪漫故事"
     ],
-    "summary_zh": "tvN新剧《我的偏见，我的老板》公开金惠奫首张剧照。该剧改编自网络漫画，讲述追星少女南多林（金惠奫饰）为见偶像入职公司，与老板姜河基展开浪漫爱情的故事。",
-    "extracted_at": "2026-07-01T16:08:25.807138+08:00"
+    "summary_zh": "tvN新剧《我的偏见，我的老板》公开金惠奫首张角色剧照。该剧改编自网络漫画，讲述追星女孩南多林（金惠奫饰）为见长期偶像而入职公司，与公司老板姜河基展开浪漫爱情的故事。",
+    "extracted_at": "2026-07-01T22:28:19.129606+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -205,41 +663,39 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "泰版韩剧翻拍作品将登陆印度市场",
+    "title_zh": "泰版韩剧翻拍将登陆印度市场",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "据《韩国先驱报》报道，泰版韩剧翻拍作品将面向印度观众播出",
-      "具体作品及播出平台未在原文中明确提及"
+      "据《韩国先驱报》报道，泰版韩剧翻拍作品将面向印度观众播出。"
     ],
-    "summary_zh": "据《韩国先驱报》报道，泰版韩剧翻拍作品将进入印度市场，面向印度观众播出。目前尚未公布具体作品名称及播出平台细节。",
-    "extracted_at": "2026-07-01T16:08:27.962723+08:00"
+    "summary_zh": "据《韩国先驱报》报道，泰版韩剧翻拍作品将登陆印度市场，面向印度观众播出。",
+    "extracted_at": "2026-07-01T22:28:20.866621+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "AtHeart Reference The Cardigans’ ‘90s Hit For New Crossover K-Pop Song - Forbes",
+    "title": "AtHeart Crossover K-Pop Hit 'Say It' Samples The Cardigans' 'Lovefool' - Forbes",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcFN4U1lMQW5QVWNyRDFpREwzZGd4ZFRyQ25hRUM3STJXZDl1TUNad2FpRDRJZVdjWlJfSkJMV3Y1MjJ0VjJRd1RHbXA4ZnFkUk01d29udUlsTFNiaVUtbElJeGFGWFNJNlY1cXBDTS1tUS1NQTREWlptbVVtRnJ6X0xqbmY2RzRpM2RWd3MzUXZvb09NbElKdDdxMFJ1dHNmYmpjdGdybnh5S3QwVkdKQnVubzRiZFpRN3h0Skx6QQ?oc=5",
-    "content": "AtHeart Reference The Cardigans’ ‘90s Hit For New Crossover K-Pop Song Forbes",
+    "content": "AtHeart Crossover K-Pop Hit 'Say It' Samples The Cardigans' 'Lovefool' Forbes",
     "published_at": "0701google-kpop",
     "published_ts": 1782878148.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "AtHeart新曲采样The Cardigans90年代热单，跨界K-pop引关注",
+    "title_zh": "AtHeart跨界K-Pop热单《Say It》采样The Cardigans《Lovefool》",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "AtHeart新歌采样了The Cardigans的90年代热门歌曲",
-      "该曲被描述为跨界K-pop风格",
-      "报道来自Forbes"
+      "AtHeart的K-Pop歌曲《Say It》采样了The Cardigans的《Lovefool》",
+      "该信息由Forbes报道"
     ],
-    "summary_zh": "据Forbes报道，K-pop组合AtHeart的新歌采样了瑞典乐队The Cardigans的90年代热门歌曲，打造出一首跨界风格的K-pop作品。",
-    "extracted_at": "2026-07-01T16:08:30.009728+08:00"
+    "summary_zh": "据Forbes报道，AtHeart的跨界K-Pop热门单曲《Say It》采样了瑞典乐队The Cardigans的经典歌曲《Lovefool》。",
+    "extracted_at": "2026-07-01T22:28:23.266087+08:00"
   },
   {
     "source_id": "soompi",
@@ -259,12 +715,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "第5届青龙系列大奖由体育朝鲜主办，该机构也主办年度青龙电影奖",
-      "该奖项于2022年设立，是韩国首个专门针对流媒体平台的颁奖典礼",
+      "第5届青龙系列大奖由Sports Chosun主办，该机构也主办年度青龙电影奖",
+      "该奖项于2022年创立，是韩国首个专门针对流媒体平台的颁奖典礼",
       "奖项旨在表彰OTT流媒体平台上的优秀剧集"
     ],
-    "summary_zh": "第5届青龙系列大奖公布了提名名单。该奖项由体育朝鲜主办，于2022年设立，是韩国首个专门针对流媒体平台的颁奖典礼，旨在表彰OTT平台上的优秀剧集。",
-    "extracted_at": "2026-07-01T16:08:32.203648+08:00"
+    "summary_zh": "第5届青龙系列大奖已公布入围名单。该奖项由Sports Chosun主办，于2022年创立，是韩国首个专门针对流媒体平台的颁奖典礼，旨在表彰OTT平台上的优秀剧集。",
+    "extracted_at": "2026-07-01T22:28:25.405234+08:00"
   },
   {
     "source_id": "soompi",
@@ -285,11 +741,11 @@
     "is_blurred": false,
     "facts_list": [
       "Netflix新剧《东宫》公开新预告和海报",
-      "南柱赫饰演能穿越鬼魂世界的具天，卢允瑞饰演能听到鬼魂声音的宫女生江",
-      "剧情围绕两人被国王召唤，共同对抗鬼魂揭开秘密展开"
+      "南柱赫饰演能穿越鬼魂世界的具天，卢允瑞饰演能听见鬼魂声音的宫女生江",
+      "两人受国王召唤，与鬼魂战斗并揭开秘密"
     ],
-    "summary_zh": "Netflix新剧《东宫》公开新预告和海报。该剧由南柱赫饰演能穿越鬼魂世界的具天，卢允瑞饰演能听到鬼魂声音的宫女生江，两人被国王召唤，共同对抗鬼魂揭开秘密。",
-    "extracted_at": "2026-07-01T16:08:34.545063+08:00"
+    "summary_zh": "Netflix新剧《东宫》公开新预告和海报。该剧讲述能穿越鬼魂世界的具天（南柱赫饰）和能听见鬼魂声音的宫女生江（卢允瑞饰）受国王召唤，与鬼魂战斗并揭开秘密的故事。",
+    "extracted_at": "2026-07-01T22:28:28.327729+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -312,7 +768,7 @@
       "原文未提及具体行为，仅称：东南亚本土艺人正在撼动K-pop主导地位"
     ],
     "summary_zh": "原文未提及具体行为，仅称：东南亚本土艺人正在撼动K-pop主导地位",
-    "extracted_at": "2026-07-01T16:08:36.527333+08:00"
+    "extracted_at": "2026-07-01T22:28:29.838492+08:00"
   },
   {
     "source_id": "soompi",
@@ -333,10 +789,10 @@
     "is_blurred": false,
     "facts_list": [
       "Soompi发布2026年上半年韩剧总览，收录超过60部剧集",
-      "包含2025年首播但延续至2026年的剧集"
+      "包含2025年首播并延续至2026年的剧集"
     ],
-    "summary_zh": "Soompi整理了2026年上半年播出的60多部韩剧清单，包括2025年首播但延续至2026年的剧集。",
-    "extracted_at": "2026-07-01T16:08:38.364379+08:00"
+    "summary_zh": "Soompi整理了2026年上半年播出的60多部韩剧清单，包括2025年首播并延续至2026年的剧集。",
+    "extracted_at": "2026-07-01T22:28:31.724973+08:00"
   },
   {
     "source_id": "soompi",
@@ -357,11 +813,11 @@
     "is_blurred": false,
     "facts_list": [
       "SBS发布了《Flex X Cop》第二季的预告海报",
-      "安普贤将继续饰演财阀三代陈利洙，利用财富和人脉破案",
-      "郑恩彩将加入第二季，饰演资深刑警朱惠"
+      "安普贤将继续饰演财阀三代陈利洙",
+      "郑恩彩将加入剧组饰演资深刑警朱惠"
     ],
-    "summary_zh": "SBS发布了《Flex X Cop》第二季的预告海报。安普贤将继续饰演财阀三代陈利洙，他利用财富和人脉如作弊码般破案。郑恩彩将加入第二季，饰演资深刑警朱惠。",
-    "extracted_at": "2026-07-01T16:08:40.887045+08:00"
+    "summary_zh": "SBS发布了《Flex X Cop》第二季的预告海报。安普贤将继续饰演财阀三代陈利洙，他利用财富和人脉如同作弊码。郑恩彩将加入剧组饰演资深刑警朱惠。",
+    "extracted_at": "2026-07-01T22:28:34.301066+08:00"
   },
   {
     "source_id": "soompi",
@@ -376,17 +832,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "黄寅烨与惠利主演ENA新剧《Dream to You》公开特别海报",
+    "title_zh": "黄寅烨与惠利新剧《Dream to You》公开特别海报，导演与记者重逢",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "ENA新剧《Dream to You》公开特别海报",
       "该剧为浪漫喜剧，讲述天才电影导演禹秀彬（黄寅烨饰）与记者朱伊在（惠利饰）重逢的故事",
-      "禹秀彬15年前实现梦想后回归，朱伊在则已忘记自己的梦想"
+      "禹秀彬15年前实现梦想后回归，朱伊在则忘记了自己的梦想"
     ],
-    "summary_zh": "ENA新剧《Dream to You》公开特别海报。该剧为浪漫喜剧，讲述天才电影导演禹秀彬（黄寅烨饰）在实现梦想后回归，与已忘记自己梦想的记者朱伊在（惠利饰）重逢的故事。",
-    "extracted_at": "2026-07-01T16:08:43.512776+08:00"
+    "summary_zh": "ENA新剧《Dream to You》公开特别海报。该剧为浪漫喜剧，讲述天才电影导演禹秀彬（黄寅烨饰）在实现梦想后回归，与忘记自己梦想的记者朱伊在（惠利饰）重逢的故事。",
+    "extracted_at": "2026-07-01T22:28:37.185526+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -401,16 +857,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "孩之宝首批‘KPop Demon Hunters’玩具正式发售",
+    "title_zh": "孩之宝首批《KPop Demon Hunters》玩具正式发售",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "孩之宝发布了首批‘KPop Demon Hunters’系列玩具",
+      "孩之宝发布了首批《KPop Demon Hunters》主题玩具",
       "该消息由福布斯报道"
     ],
-    "summary_zh": "孩之宝公司发布了其首批‘KPop Demon Hunters’系列玩具，该消息由福布斯报道。",
-    "extracted_at": "2026-07-01T16:08:45.310182+08:00"
+    "summary_zh": "孩之宝公司发布了其首批《KPop Demon Hunters》主题玩具，该系列结合了K-pop与恶魔猎人元素。福布斯对此进行了报道。",
+    "extracted_at": "2026-07-01T22:28:39.232887+08:00"
   },
   {
     "source_id": "soompi",
@@ -425,17 +881,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《Doctor on the Edge》收视率上升进入最后一周，《See You at Work Tomorrow!》保持稳定",
+    "title_zh": "《Doctor on the Edge》收视率上升进入最后一周，《明天见！》保持稳定",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "6月30日，ENA剧集《Doctor on the Edge》最新一集全国平均收视率为4.8%，位居同时段第一",
-      "该剧收视率在最后一周前出现上升",
-      "《See You at Work Tomorrow!》收视率保持稳定"
+      "6月30日，ENA剧集《Doctor on the Edge》在最后一周前收视率上升",
+      "根据尼尔森韩国数据，最新一集全国平均收视率为4.8%，同时段第一",
+      "《明天见！》收视率保持稳定"
     ],
-    "summary_zh": "ENA剧集《Doctor on the Edge》在6月30日播出最新一集，全国平均收视率达4.8%，位居同时段第一，收视率在进入最后一周前有所上升。同时，《See You at Work Tomorrow!》收视率保持稳定。",
-    "extracted_at": "2026-07-01T16:08:47.430757+08:00"
+    "summary_zh": "ENA剧集《Doctor on the Edge》在6月30日收视率上升，以全国平均4.8%的收视率占据同时段第一，进入最后一周。另一部剧集《明天见！》收视率保持稳定。",
+    "extracted_at": "2026-07-01T22:28:41.689856+08:00"
   },
   {
     "source_id": "soompi",
@@ -455,12 +911,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "韩国企业评价研究所于7月1日发布7月新人偶像团体品牌声誉排行榜",
-      "排名基于6月1日至7月1日期间收集的大数据，分析消费者参与度、媒体覆盖、互动和社区认知指数",
+      "韩国企业评价研究所于7月1日发布7月新人偶像团体品牌声誉排名",
+      "排名基于6月1日至7月1日期间的大数据，分析消费者参与度、媒体覆盖、互动和社区认知指数",
       "RESCENE位列本月榜首"
     ],
-    "summary_zh": "韩国企业评价研究所公布了7月新人偶像团体品牌声誉排行榜，该排名基于6月1日至7月1日的大数据，分析消费者参与度、媒体覆盖、互动和社区认知指数。RESCENE位居榜首。",
-    "extracted_at": "2026-07-01T16:08:49.564123+08:00"
+    "summary_zh": "韩国企业评价研究所公布了7月新人偶像团体的品牌声誉排名，该排名基于6月1日至7月1日收集的大数据，分析了消费者参与度、媒体覆盖、互动和社区认知指数。RESCENE在本月榜单中位居第一。",
+    "extracted_at": "2026-07-01T22:28:44.329486+08:00"
   },
   {
     "source_id": "soompi",
@@ -480,12 +936,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "6月30日，Billboard宣布BTS在Boxscore Top Tours榜单上连续第二个月获得第1名",
-      "BTS当月成为票房收入最高、销量最高的巡演艺人",
+      "当地时间6月30日，Billboard宣布BTS在Boxscore Top Tours榜单上连续第二个月位居第一",
+      "BTS当月成为票房收入最高、销量最佳的巡演艺人",
       "BTS打破了滚石乐队保持七年的纪录"
     ],
-    "summary_zh": "6月30日，Billboard宣布BTS在Boxscore Top Tours榜单上连续第二个月获得第1名，成为当月票房收入最高、销量最高的巡演艺人，并打破了滚石乐队保持七年的纪录。",
-    "extracted_at": "2026-07-01T16:08:51.864805+08:00"
+    "summary_zh": "当地时间6月30日，Billboard宣布BTS在Boxscore Top Tours榜单上连续第二个月位居第一，成为当月票房收入最高、销量最佳的巡演艺人，并打破了滚石乐队保持七年的纪录。",
+    "extracted_at": "2026-07-01T22:28:46.706455+08:00"
   },
   {
     "source_id": "soompi",
@@ -509,7 +965,7 @@
       "该曲在Billboard Global Excl. US榜单上保持第24位"
     ],
     "summary_zh": "LE SSERAFIM、ILLIT和KATSEYE的合作单曲《ICONIC BY MISTAKE》在Billboard Global 200榜单上持续上升。6月30日，Billboard公布该曲在第二周升至第23位，同时在Global Excl. US榜单上稳定在第24位。",
-    "extracted_at": "2026-07-01T16:08:54.188623+08:00"
+    "extracted_at": "2026-07-01T22:28:49.244506+08:00"
   },
   {
     "source_id": "soompi",
@@ -533,7 +989,7 @@
       "视频为回归首个预告，具体回归日期尚未公布"
     ],
     "summary_zh": "6月30日，GIRLSET发布了一支神秘视频，暗示即将回归。这是她们回归的首个预告，具体回归日期尚未公布。",
-    "extracted_at": "2026-07-01T16:08:56.249782+08:00"
+    "extracted_at": "2026-07-01T22:28:51.383319+08:00"
   },
   {
     "source_id": "soompi",
@@ -554,35 +1010,11 @@
     "is_blurred": false,
     "facts_list": [
       "韩国企业评价研究所于6月7日发布6月综艺节目品牌声誉排名",
-      "排名基于5月7日至6月7日期间50档热门综艺的消费者参与度、互动、媒体报道、社区认知和收视率指数大数据分析",
+      "排名基于5月7日至6月7日期间50档热门综艺节目的消费者参与度、互动、媒体报道、社区认知和收视率指数大数据分析",
       "《You Quiz on the Block》位居榜首"
     ],
-    "summary_zh": "韩国企业评价研究所公布6月综艺节目品牌声誉排名，基于5月7日至6月7日的大数据，分析50档热门综艺的消费者参与度、互动、媒体报道、社区认知和收视率指数，《You Quiz on the Block》夺得第一。",
-    "extracted_at": "2026-07-01T16:08:58.858147+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Jazwares Goes Golden with More ‘KPop Demon Hunters’ Merch - The Toy Book",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ua3RzNUFnZm5aN0haM0Y4Q01JRnQ1a2NfZzdKWlNqZk5XSEZiV2NNalpRVnd6NExpaGVoOTBteVVSdFFRaGd2RGJudmVtUUhBRGFXdUNUNFV1RkxvVDN1UTJ3NzFDZw?oc=5",
-    "content": "Jazwares Goes Golden with More ‘KPop Demon Hunters’ Merch The Toy Book",
-    "published_at": "0701google-kpop",
-    "published_ts": 1782838976.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Jazwares推出更多‘KPop Demon Hunters’金色系列周边",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "Jazwares公司推出更多‘KPop Demon Hunters’金色系列周边",
-      "该消息由The Toy Book报道"
-    ],
-    "summary_zh": "玩具公司Jazwares宣布推出更多‘KPop Demon Hunters’金色系列周边产品，具体产品细节未在原文中详述。",
-    "extracted_at": "2026-07-01T16:09:00.905747+08:00"
+    "summary_zh": "韩国企业评价研究所公布6月综艺节目品牌声誉排名，基于5月7日至6月7日50档节目的消费者参与度、互动、媒体报道、社区认知和收视率指数大数据分析，《You Quiz on the Block》夺得第一。",
+    "extracted_at": "2026-07-01T22:28:54.001746+08:00"
   },
   {
     "source_id": "soompi",
@@ -604,57 +1036,8 @@
     "facts_list": [
       "7月1日午夜KST，利特和金希澈通过首张预告宣布SUPER JUNIOR-83z将于7月13日发行首张迷你专辑《Promise》出道"
     ],
-    "summary_zh": "SUPER JUNIOR成员利特和金希澈组成的新小分队SUPER JUNIOR-83z，于7月1日午夜KST公开首张预告，正式宣布将于7月13日发行首张迷你专辑《Promise》出道。",
-    "extracted_at": "2026-07-01T16:09:03.133125+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "JIHYO of Global K-Pop Phenomenon TWICE and GRAMMY®-Nominated Dancehall Star Shenseea Join Forces for Bold New Single “Distant Lover,” Out July 10th - News-Press NOW",
-    "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNMG4yNm4zZFM0VV84dDlXVUZOU0tfVWxySkpQS010aFdSa1E2ZWl1SVNva092eXZocEtoZGtlUWp1dTJLYVVWUXB5SUpKc0YyMHRWbXdtOVY4MWpuUC1YVHE0Y0dDS3h1VjlrR3ZVbXIyNnhIemltVFBlSlJDWWJBSTRlbTdNVkFmYTFIZUZDS2FNSTlibWFTWGw4QkFwX2VEQTRRbGp0TUdmbUczcHFkeGdfTFlJcWFyWWdzTEZ2SmpIcUF4QS1QZHRMMFNQQzRLa29BdGxONXhSZTBFelpiaEpHcEtVTURmS1pzTEVYVjZwTHY3aGx5WlBpVWtzV05rWmZ3ZkEwQTFWand0XzFTcldMNW5DcmphNFZjMW1yczBmQQ?oc=5",
-    "content": "JIHYO of Global K-Pop Phenomenon TWICE and GRAMMY®-Nominated Dancehall Star Shenseea Join Forces for Bold New Single “Distant Lover,” Out July 10th News-Press NOW",
-    "published_at": "0701google-kpop",
-    "published_ts": 1782836073.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "TWICE志效与格莱美提名舞厅歌手Shenseea合作新单《Distant Lover》7月10日发行",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "TWICE成员志效与格莱美提名舞厅歌手Shenseea合作",
-      "新单曲名为《Distant Lover》",
-      "发行日期为7月10日"
-    ],
-    "summary_zh": "全球K-pop现象级组合TWICE成员志效与格莱美提名舞厅歌手Shenseea联手，推出大胆新单曲《Distant Lover》，该单曲将于7月10日发行。",
-    "extracted_at": "2026-07-01T16:09:05.157123+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "-Nominated Dancehall Star Shenseea Join Forces for Bold New Single “Distant Lover, Out July 10th - Business Wire",
-    "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOR3BuUjZlYWY4RWpBSWcyNzAzUEM0dHdpN2NLVEwza012bGFzWmZoeDVZVzhjeW1TcVJzY3R1dS1SLXN1ZXN0d1VYZWhuSG5xcmdFaUkxdWRUc285OEkxdGh4YmIzdVJRZFhiMWFFWHhxVEJiSVFLNUN5RzBjRHBOb1d4M01iall6dnpIVktqb05ralVjRXZSVU5hbGI1LU5ZT0tHQ210X2stSndlb3lxQnJFMHNLMVVlYjk4c2gxcnkxNnE5SkJiVUpPQ0ljSEUwMXNMMkNlRVRDNk9FYjJlNlo5eEd1SWN0WTgyZTZydlBUMVJrdzFaREJuMEZ2UFR1emN2dFpqaWtZdGFRQVFkOVBVcnU3dC1kWU5OTkhodXo2NGhTR3FN?oc=5",
-    "content": "-Nominated Dancehall Star Shenseea Join Forces for Bold New Single “Distant Lover, Out July 10th Business Wire",
-    "published_at": "0701google-kpop",
-    "published_ts": 1782836040.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "格莱美提名舞厅歌手Shenseea新单曲《Distant Lover》7月10日发行",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "格莱美提名舞厅歌手Shenseea将于7月10日发行新单曲《Distant Lover》",
-      "该单曲为合作作品，合作方未在标题中明确"
-    ],
-    "summary_zh": "格莱美提名舞厅歌手Shenseea宣布将于7月10日发行新单曲《Distant Lover》，该单曲为合作作品，具体合作艺人未在标题中提及。",
-    "extracted_at": "2026-07-01T16:09:07.428880+08:00"
+    "summary_zh": "SUPER JUNIOR成员利特和金希澈组成的新小分队SUPER JUNIOR-83z，于7月1日午夜KST通过首张预告正式宣布出道日期。他们将于7月13日发行首张迷你专辑《Promise》，开启小分队活动。",
+    "extracted_at": "2026-07-01T22:28:56.654882+08:00"
   },
   {
     "source_id": "asianwiki",
