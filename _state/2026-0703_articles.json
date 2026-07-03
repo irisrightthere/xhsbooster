@@ -1,5 +1,341 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "A K-Pop Game, Made in France - Inven Global",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9MOVNrczBRWUtLUGhpV3RKZEFKNkxRWVlUMlAydkY2eDNwOTdKd2k5TTA2MC1aS0JVdm9VSkZiUUpYTjFOcUh0ckk4RXRUZndBZU1Wc1ZQSkgtczlSVUFwVW8wYzhGOTQ2Uy00Y2dmdkFTYV9OaWM3SlRR?oc=5",
+    "content": "A K-Pop Game, Made in France Inven Global",
+    "published_at": "0703google-kpop",
+    "published_ts": 1783061673.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "法国开发K-Pop游戏引发关注",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文未提及具体行为，仅称：一款由法国公司开发的K-Pop游戏被报道"
+    ],
+    "summary_zh": "原文未提及具体行为，仅称：一款由法国公司开发的K-Pop游戏被报道",
+    "extracted_at": "2026-07-03T14:58:48.136855+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "BTS’s V voted 'umbrella-ready sweetheart' in weekly K-pop poll - Korea JoongAng Daily",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMllnWWU2eURLT0NQQy1OQ0RKNlZFR0RSRloydm5TTTJfaVA4MC1LSEt6QWttNDJkalhza1JNNV8yZV9rcWdDOVlYU09PalVCRWhlVUdNQkVXSlZ0Z193V0hmcmF2eVBBVVpkRllHdm1ZMXIxeGd4VU4tSjVpZUQ1aGlJaUpZU2Q0Ti1qM212bkYxazJfRDRkN2JGcDFtMHhWcTJLSlRGV0RIY0RfNVZuZTZqcnhFZw?oc=5",
+    "content": "BTS’s V voted 'umbrella-ready sweetheart' in weekly K-pop poll Korea JoongAng Daily",
+    "published_at": "0703google-kpop",
+    "published_ts": 1783060244.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "防弹少年团V获选K-pop周榜“雨伞甜心”",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "防弹少年团成员V在韩国《中央日报》每周K-pop投票中被选为“雨伞甜心”"
+    ],
+    "summary_zh": "防弹少年团成员V在韩国《中央日报》举办的每周K-pop投票中，被粉丝选为“雨伞甜心”（umbrella-ready sweetheart），该投票结果于近日公布。",
+    "extracted_at": "2026-07-03T14:58:50.601221+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Park Se Young Stands Between Sung I Eon’s Devotion And Park Sol La’s Jealousy In “Family Register”",
+    "url": "https://www.soompi.com/article/1852074wpp/park-se-young-stands-between-sung-i-eons-devotion-and-park-sol-las-jealousy-in-family-register",
+    "content": "MBC’s upcoming daily drama “Family Register” has unveiled a special poster! “Family Register” tells the story of a child who is branded from birth as the person responsible for destroying a family and a woman who fights against society’s prejudice and a cruel fate to reclaim her life. The newly released poster symbolically captures the&#8230; Continue reading Park Se Young Stands Between Sung I Eon&#8217;s Devotion And Park Sol La&#8217;s Jealousy In &#8220;Family Register&#8221;\nThe post Park Se Young Stands Between Sung I Eon&#8217;s Devotion And Park Sol La&#8217;s Jealousy In &#8220;Family Register&#8221; appeared first on Soompi.",
+    "published_at": "0703soompi",
+    "published_ts": 1783060019.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "朴世英夹在成毅恩的奉献与朴索拉的嫉妒之间，《家族登记簿》公开特别海报",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "MBC即将播出的日日剧《家族登记簿》公开了一张特别海报",
+      "该剧讲述一个从出生就被打上毁掉家庭烙印的孩子，以及一位女性对抗社会偏见和残酷命运、重获新生的故事",
+      "海报象征性地捕捉了朴世英的角色处于成毅恩的奉献与朴索拉的嫉妒之间的状态"
+    ],
+    "summary_zh": "MBC新日日剧《家族登记簿》公开特别海报，该剧讲述一个被标记为毁掉家庭的孩子与一位女性对抗偏见和命运的故事。海报中朴世英的角色处于成毅恩的奉献与朴索拉的嫉妒之间。",
+    "extracted_at": "2026-07-03T14:58:54.090334+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Yoo Ah In, Lee Sung Min, And Yoon Kyung Ho In Talks For New Vampire Film By “Exhuma” Director",
+    "url": "https://www.soompi.com/article/1852071wpp/yoo-ah-in-lee-sung-min-and-yoon-kyung-ho-in-talks-for-new-vampire-film-by-exhuma-director",
+    "content": "Yoo Ah In may be returning to the big screen with a new film. On July 3, MyDaily reported that Yoo Ah In has been confirmed to star in the upcoming film “Vampire” (working title). “Vampire” is the latest project from director Jang Jae Hyun, who successfully established himself as a leading filmmaker in the&#8230; Continue reading Yoo Ah In, Lee Sung Min, And Yoon Kyung Ho In Talks For New Vampire Film By &#8220;Exhuma&#8221; Director\nThe post Yoo Ah In, Lee Sung Min, And Yoon Kyung Ho In Talks For New Vampire Film By &#8220;Exhuma&#8221; Director appeared first on Soompi.",
+    "published_at": "0703soompi",
+    "published_ts": 1783057998.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "刘亚仁、李星民、尹敬浩有望出演《破墓》导演新作吸血鬼电影",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "7月3日，MyDaily报道刘亚仁已确认出演张宰贤导演新片《吸血鬼》（暂定名）",
+      "李星民、尹敬浩正在洽谈出演该片",
+      "该片是《破墓》导演张宰贤的最新项目"
+    ],
+    "summary_zh": "据7月3日MyDaily报道，刘亚仁已确认出演张宰贤导演的新片《吸血鬼》（暂定名），李星民和尹敬浩正在洽谈中。张宰贤曾执导热门电影《破墓》。",
+    "extracted_at": "2026-07-03T14:58:57.108157+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "So Ji Sub And Choi Dae Hoon Storm Into Enemy Territory In “Agent Kim Reactivated”",
+    "url": "https://www.soompi.com/article/1852052wpp/so-ji-sub-and-choi-dae-hoon-storm-into-enemy-territory-in-agent-kim-reactivated",
+    "content": "Manager Kim (So Ji Sub) is about to unleash his full potential in his desperate search for his daughter in “Agent Kim Reactivated”! Based on a popular webtoon, SBS’s “Agent Kim Reactivated” is an action revenge drama that tells the story of Manager Kim (So Ji Sub), a seemingly ordinary dad with a secret past&#8230; Continue reading So Ji Sub And Choi Dae Hoon Storm Into Enemy Territory In &#8220;Agent Kim Reactivated&#8221;\nThe post So Ji Sub And Choi Dae Hoon Storm Into Enemy Territory In &#8220;Agent Kim Reactivated&#8221; appeared first on Soompi.",
+    "published_at": "0703soompi",
+    "published_ts": 1783054934.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "苏志燮、崔大勋《金代理重启》深入敌营剧照公开",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "SBS新剧《金代理重启》改编自热门网漫，是一部动作复仇剧",
+      "苏志燮饰演看似平凡但拥有秘密过去的金代理，为寻找女儿而爆发全力",
+      "最新剧照显示苏志燮与崔大勋闯入敌方领地"
+    ],
+    "summary_zh": "SBS新剧《金代理重启》公开最新剧照，苏志燮饰演的金代理与崔大勋饰演的角色一同闯入敌方领地。该剧改编自热门网漫，讲述看似平凡的爸爸金代理为寻找女儿而爆发的动作复仇故事。",
+    "extracted_at": "2026-07-03T14:59:00.936213+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-Pop Summer 2026’s Sonic Heatwave: The Powerhouses, Stadium Anthems, and Record-Breaking Tours Defining the Season - Dojeon Media",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZjhvaGEzZ25uNEF2cXlSSnJrWHR4aldleldsSS1iWFRDc1k5VWl5aU1Lc19CWjl2SDZpNzNVT1l4VjB6WWdXcXJpMmxVR1V6TEIybnFyN1NMV3B3MnVpdlBJMkJXMnlKOGoxLUxTOWIxaHdPMVVUeDVuMEFtc05jWFg3T3pPalpQck1RQktDVnVZTzg4TC1HMFJ5MzJxcGp4RERNTG94SVNPTU82c0pDSHVhUm9pekZpMkZaV0FXYzZYbVZNWWttNEhR?oc=5",
+    "content": "K-Pop Summer 2026’s Sonic Heatwave: The Powerhouses, Stadium Anthems, and Record-Breaking Tours Defining the Season Dojeon Media",
+    "published_at": "0703google-kpop",
+    "published_ts": 1783054836.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "2026年K-Pop夏季音浪：强者、体育场圣歌与破纪录巡演定义季节",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [],
+    "summary_zh": "[原文未提及具体行为，仅称：2026年夏季K-Pop音乐浪潮由强势艺人、体育场级热门歌曲和破纪录巡演主导。]",
+    "extracted_at": "2026-07-03T14:59:02.813760+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "\"K-Pop Demon Hunters\" star Arden Cho has officially tied the knot with her partner, surgeon Christopher Lee, in a breathtaking ceremony in Italy. 💍❤️ Link to full story in the comment section. - facebook.com",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNX3dOWVBjWXJteDZTemJCeFRhdVNiNlZfZGM4U2prNUdSLXZlYmFSaGUtQ2V4V3p2aVRBaFJLWnp6LTF4c1NHRmYzS3l5YzdRMjZvdWppcVJXVDhXRzUwdWRDbmpVS1FQOFA2M3FLZkhsY2JkckptZWlIdVdBMWtKM3RlWlJILWwtU0JNY3h0V2dmUHZqWi1KSVB0cVFXdXBuVXZvenJOUFdRVXZNTlVsRWwxMHRYV0h4ZFBiQkhJQW1CVFJjdy0tYXEzOFY0WHlmb1NWYWZjbw?oc=5",
+    "content": "\"K-Pop Demon Hunters\" star Arden Cho has officially tied the knot with her partner, surgeon Christopher Lee, in a breathtaking ceremony in Italy. 💍❤️ Link to full story in the comment section. facebook.com",
+    "published_at": "0703google-kpop",
+    "published_ts": 1783052404.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《K-Pop恶魔猎人》主演Arden Cho与外科医生Christopher Lee在意大利完婚",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Arden Cho与伴侣Christopher Lee（外科医生）在意大利举行婚礼",
+      "婚礼被描述为' breathtaking ceremony'"
+    ],
+    "summary_zh": "《K-Pop恶魔猎人》主演Arden Cho与外科医生伴侣Christopher Lee在意大利举行了一场令人惊叹的婚礼，正式结为夫妻。",
+    "extracted_at": "2026-07-03T14:59:04.890528+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "\"K-Pop Demon Hunters\" star Arden Cho has officially tied the knot with her partner, surgeon Christopher Lee, in a breathtaking ceremony in Italy. 💍❤️ Link to full story in the comment section. - facebook.com",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUm1FTU5WcXZPMDN0QUtuTzE3NWNnbUJHSlExOEpSd0hrUHY1clpvVzVwcGxkMlRxLTVZMTkwdkxwRVY4Y2d0NmtiVnRDWFBMSjY1SFI5Ul9MTzdJOXdWSW1QZ1JRdnZVeXc4Z0dLaVZOVHJyQjdnYjlMRUlPREFZdGNRMlNTS28tWm9jLXBNZTA3TmtMT0pGOGlVazUxcTZkZWRKM1NOOVljT3hORzcxeTNWLXJGdFROTzd5N0lGLUFZVDNPWXBYQ0F1ZEl4cGU5NDhIXzZkSjA?oc=5",
+    "content": "\"K-Pop Demon Hunters\" star Arden Cho has officially tied the knot with her partner, surgeon Christopher Lee, in a breathtaking ceremony in Italy. 💍❤️ Link to full story in the comment section. facebook.com",
+    "published_at": "0703google-kpop",
+    "published_ts": 1783052404.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《K-Pop恶魔猎人》主演Arden Cho与外科医生Christopher Lee在意大利完婚",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Arden Cho与伴侣Christopher Lee（外科医生）在意大利举行婚礼",
+      "婚礼仪式被描述为' breathtaking'"
+    ],
+    "summary_zh": "《K-Pop恶魔猎人》主演Arden Cho与外科医生伴侣Christopher Lee在意大利举行了一场令人惊叹的婚礼，正式结为夫妻。",
+    "extracted_at": "2026-07-03T14:59:07.119850+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kim Myung Soo Reignites The Rivalry Between Former Bandmates Kwon So Hyun And Kang Min Ah In “Love In Sync”",
+    "url": "https://www.soompi.com/article/1852037wpp/kim-myung-soo-reignites-the-rivalry-between-former-bandmates-kwon-so-hyun-and-kang-min-ah-in-love-in-sync",
+    "content": "Get ready for a love triangle between Kim Myung Soo, Kang Min Ah, and Kwon So Hyun in upcoming drama “Love in Sync”! “Love in Sync” is a romantic comedy about a woman who rejects empathy and a man burdened with too much of it. When they begin to share one another’s emotions through a&#8230; Continue reading Kim Myung Soo Reignites The Rivalry Between Former Bandmates Kwon So Hyun And Kang Min Ah In &#8220;Love In Sync&#8221;\nThe post Kim Myung Soo Reignites The Rivalry Between Former Bandmates Kwon So Hyun And Kang Min Ah In &#8220;Love In Sync&#8221; appeared first on Soompi.",
+    "published_at": "0703soompi",
+    "published_ts": 1783050224.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "金明洙新剧《爱在同步》再燃前队友权素贤与姜敏儿竞争",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "金明洙、姜敏儿、权素贤将出演新剧《Love in Sync》",
+      "该剧是一部浪漫喜剧，讲述拒绝共情的女人与共情过多的男人之间的故事",
+      "剧情涉及三人之间的三角恋"
+    ],
+    "summary_zh": "金明洙、姜敏儿、权素贤将出演新剧《Love in Sync》。该剧是一部浪漫喜剧，讲述拒绝共情的女人与共情过多的男人之间的故事，三人将展开三角恋情。",
+    "extracted_at": "2026-07-03T14:59:10.081719+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Chae Jong Hyeop’s New Japanese Drama Confirms Premiere Date + Releases Teasers",
+    "url": "https://www.soompi.com/article/1852019wpp/watch-chae-jong-hyeops-new-japanese-drama-confirms-premiere-date-releases-teasers",
+    "content": "Chae Jong Hyeop’s upcoming Japanese drama “The Rules Of Vacation” (working title) has officially confirmed its premiere date! The drama, produced by Japan’s ABEMA, follows the story of Hoshino Midori (Hashimoto Kanna), who, exhausted by her busy life, falls in love with a mysterious caretaker Nishigami at a seaside villa and rediscovers the meaning of&#8230; Continue reading Watch: Chae Jong Hyeop’s New Japanese Drama Confirms Premiere Date + Releases Teasers\nThe post Watch: Chae Jong Hyeop’s New Japanese Drama Confirms Premiere Date + Releases Teasers appeared first on Soompi.",
+    "published_at": "0703soompi",
+    "published_ts": 1783049261.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "蔡钟协主演日剧《休假规则》定档，预告片公开",
+    "source_type": "日剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "蔡钟协主演的日本电视剧《休假规则》（暂定名）确认了首播日期",
+      "该剧由日本ABEMA制作",
+      "剧情讲述疲惫于忙碌生活的星野绿（桥本环奈饰）在海边别墅与神秘管理员西川（蔡钟协饰）坠入爱河，重新发现生活意义",
+      "发布了预告片"
+    ],
+    "summary_zh": "蔡钟协主演的日本电视剧《休假规则》（暂定名）已确认首播日期，并发布了预告片。该剧由日本ABEMA制作，讲述疲惫于忙碌生活的星野绿（桥本环奈饰）在海边别墅与神秘管理员西川（蔡钟协饰）坠入爱河，重新发现生活意义的故事。",
+    "extracted_at": "2026-07-03T14:59:13.228375+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "8 Naturally Adorable K-Pop Idols With Fierce Stage Presence",
+    "url": "https://www.soompi.com/article/1850250wpp/8-naturally-adorable-k-pop-idols-with-fierce-stage-presence",
+    "content": "Stage presence isn&#8217;t just about how you look, it&#8217;s about how you rock it! These idols show some amazing duality with their fierce performances, in spite of the fact that they&#8217;re actually pretty adorable. Sometimes, looks can be deceiving! IVE&#8217;s Rei This is one of Rei&#8217;s most-viewed fancams for a reason! IVE&#8217;s performances often have&#8230; Continue reading 8 Naturally Adorable K-Pop Idols With Fierce Stage Presence\nThe post 8 Naturally Adorable K-Pop Idols With Fierce Stage Presence appeared first on Soompi.",
+    "published_at": "0703soompi",
+    "published_ts": 1783049178.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "8位天生可爱但舞台气场强大的K-Pop偶像",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "文章列举了8位K-Pop偶像，包括IVE的Rei，其个人直拍是观看次数最多的之一",
+      "文章指出这些偶像在舞台表演中展现出强烈的存在感，与日常可爱形象形成反差"
+    ],
+    "summary_zh": "文章介绍了8位K-Pop偶像，他们天生可爱，但在舞台上却展现出强大的气场和表演力。例如，IVE成员Rei的个人直拍因其舞台魅力而成为观看次数最多的之一。文章强调这些偶像在表演中展现出惊人的反差魅力。",
+    "extracted_at": "2026-07-03T14:59:16.169742+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Park Eun Bin And Yang Se Jong Are Both Looked After By Loving Grandmothers In “Spooky In Love”",
+    "url": "https://www.soompi.com/article/1852020wpp/park-eun-bin-and-yang-se-jong-are-both-looked-after-by-loving-grandmothers-in-spooky-in-love",
+    "content": "tvN’s upcoming drama “Spooky in Love” has shared a glimpse of Park Eun Bin’s and Yang Se Jong’s relationships with their on-screen grandmothers! A remake of the 2011 film “Spellbound,” “Spooky in Love” is an occult romance drama about&#160; the chaotic partnership between a hotel heiress who can see ghosts and a passionate prosecutor who&#8230; Continue reading Park Eun Bin And Yang Se Jong Are Both Looked After By Loving Grandmothers In &#8220;Spooky In Love&#8221;\nThe post Park Eun Bin And Yang Se Jong Are Both Looked After By Loving Grandmothers In &#8220;Spooky In Love&#8221; appeared first on Soompi.",
+    "published_at": "0703soompi",
+    "published_ts": 1783048108.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《Spooky in Love》剧照：朴恩斌与杨世钟被慈祥奶奶们照顾",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "tvN新剧《Spooky in Love》公开朴恩斌和杨世钟与剧中奶奶的剧照",
+      "该剧翻拍自2011年电影《Spellbound》，讲述能看见鬼的酒店继承人与热情检察官的混乱合作"
+    ],
+    "summary_zh": "tvN新剧《Spooky in Love》公开了朴恩斌和杨世钟与剧中奶奶的剧照。该剧翻拍自2011年电影《Spellbound》，是一部关于能看见鬼的酒店继承人与热情检察官之间混乱合作的灵异浪漫剧。",
+    "extracted_at": "2026-07-03T14:59:18.962222+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "July packed with K-pop career milestones - The Korea Times",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM2VWUjBXc2NNWjBkUm15WFhJTWs0eUxQQnRWUllsM1NwN3pPT1Q2Wi1ndlZlMEFoaEJnOVBOM3FBWXdfeFRqMmxLTXpaZ3pxaERIekxSNHBqRDFkdW53N2lMUVRCMUJvR24wU0JXelhLWS03NVowRnd2XzNXRzZ1TFRmMFJZa3k5NTUwWVA5TkYyQjZQYXJlM2JzSTl5T2fSAaQBQVVfeXFMTUhNWld4RWtwNEtGRGxDYzFjQ3dmZ3VDLWYwVUZ1R0xYSFJyYnY0MEdlTzEwMDdOekhxdTZJRDZRX1Y0bXM2WFI5ZnpVaFNvTjNoM0NNTXl0aWtxVHlUYTVPUTJ3U01qZTFPN0JPQUhfbTd4T1oyekVqQ2RVQWowX1RUbXZLRjJiWUtqT1dhbUU4YVdRU0lydk5GR2NlVFlrN29pVWk?oc=5",
+    "content": "July packed with K-pop career milestones The Korea Times",
+    "published_at": "0703google-kpop",
+    "published_ts": 1783047603.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "七月K-pop职业生涯里程碑盘点",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文未提及具体行为，仅称：七月是K-pop职业生涯里程碑的密集期"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：七月是K-pop职业生涯里程碑的密集期]",
+    "extracted_at": "2026-07-03T14:59:20.816056+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Bae Sung Woo In Talks Along With Park Jeong Min For New Drama",
+    "url": "https://www.soompi.com/article/1851986wpp/bae-sung-woo-in-talks-along-with-park-jeong-min-for-new-drama",
+    "content": "Bae Sung Woo may be teaming up with Park Jeong Min in a new drama! On July 3, Bae Sung Woo’s agency Artist Company told a media outlet, “Bae Sung Woo has received an offer to star in the new drama &#8216;A Man’s Man&#8217; (working title) as his next project and is positively reviewing it.”&#8230; Continue reading Bae Sung Woo In Talks Along With Park Jeong Min For New Drama\nThe post Bae Sung Woo In Talks Along With Park Jeong Min For New Drama appeared first on Soompi.",
+    "published_at": "0703soompi",
+    "published_ts": 1783046086.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "裴晟祐与朴正民有望合作新剧《A Man's Man》",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "7月3日，裴晟祐所属社Artist Company向媒体透露，裴晟祐已收到新剧《A Man's Man》（暂定名）的出演提案，正在积极考虑。",
+      "该剧此前已报道朴正民有望出演。"
+    ],
+    "summary_zh": "7月3日，裴晟祐的经纪公司Artist Company表示，裴晟祐已收到新剧《A Man's Man》（暂定名）的出演邀请，正在积极商讨中。该剧此前已传出朴正民有望加盟。",
+    "extracted_at": "2026-07-03T14:59:23.332697+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -17,11 +353,13 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "BIGBANG成员G-Dragon（权志龙）被任命为联合国教科文组织世界遗产委员会第48届会议名誉大使",
-      "韩国遗产厅于7月3日宣布此任命，称G-Dragon是超越K-pop、在艺术文化领域具有全球影响力的艺术家"
+      "时间：7月3日",
+      "主体：韩国遗产厅（Korea Heritage Service）",
+      "具体动作：宣布任命BIGBANG成员G-Dragon（权志龙）为联合国教科文组织世界遗产委员会第48届会议名誉大使",
+      "官方声明原文：G-Dragon是超越K-pop、在艺术和文化领域发挥全球影响力的艺术家，我们认为他是向世界传达这一信息的合适人选"
     ],
-    "summary_zh": "BIGBANG成员G-Dragon（权志龙）被任命为联合国教科文组织世界遗产委员会第48届会议名誉大使。韩国遗产厅于7月3日宣布，认为G-Dragon是超越K-pop、在艺术文化领域具有全球影响力的艺术家，适合向世界传达世界遗产的价值。",
-    "extracted_at": "2026-07-03T10:35:19.996581+08:00"
+    "summary_zh": "7月3日，韩国遗产厅宣布任命BIGBANG成员G-Dragon（权志龙）为联合国教科文组织世界遗产委员会第48届会议名誉大使。官方表示，G-Dragon是超越K-pop、在艺术和文化领域发挥全球影响力的艺术家，是向世界传达这一信息的合适人选。",
+    "extracted_at": "2026-07-03T14:59:26.080146+08:00"
   },
   {
     "source_id": "soompi",
@@ -36,17 +374,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "苏志燮向好友崔大勋求助寻找女儿，《金代理重启》下集预告",
+    "title_zh": "苏志燮向好友崔大勋求助寻找女儿，《重启的经纪人金》下集预告",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "苏志燮与崔大勋将在《金代理重启》下一集中联手",
-      "该剧改编自人气网漫，是SBS的动作复仇剧",
-      "苏志燮饰演看似平凡的父亲金代理，实则拥有秘密过去"
+      "苏志燮与崔大勋将在《重启的经纪人金》下一集中联手",
+      "该剧改编自人气网漫，是SBS的动作复仇剧，讲述看似平凡的爸爸金经理（苏志燮饰）为寻找女儿而行动的故事"
     ],
-    "summary_zh": "苏志燮和崔大勋将在SBS新剧《金代理重启》下一集中联手。该剧改编自人气网漫，是一部动作复仇剧，讲述看似平凡的父亲金代理（苏志燮饰）拥有秘密过去，为寻找女儿而求助好友（崔大勋饰）的故事。",
-    "extracted_at": "2026-07-03T10:35:22.473674+08:00"
+    "summary_zh": "苏志燮与崔大勋将在SBS剧集《重启的经纪人金》下一集中联手。该剧改编自人气网漫，是一部动作复仇剧，讲述看似平凡的爸爸金经理（苏志燮饰）为寻找女儿而行动的故事。",
+    "extracted_at": "2026-07-03T14:59:28.758667+08:00"
   },
   {
     "source_id": "soompi",
@@ -68,10 +405,10 @@
     "facts_list": [
       "ENA新剧《Dream to You》公开惠利角色剧照",
       "惠利饰演记者朱伊在（暂译），曾梦想成为电影导演",
-      "该剧为浪漫喜剧，讲述天才导演禹秀彬（黄寅烨饰）与朱伊在重逢的故事"
+      "该剧讲述天才导演禹秀彬（黄寅烨饰）与遗忘梦想的记者朱伊在重逢的浪漫喜剧"
     ],
-    "summary_zh": "ENA新剧《Dream to You》公开惠利角色剧照。惠利在剧中饰演记者朱伊在（暂译），她曾梦想成为电影导演，但如今已忘记梦想。该剧为浪漫喜剧，讲述天才导演禹秀彬（黄寅烨饰）实现梦想后回归，与朱伊在重逢的故事。",
-    "extracted_at": "2026-07-03T10:35:25.005862+08:00"
+    "summary_zh": "ENA新剧《Dream to You》公开惠利角色剧照，她饰演一名曾梦想成为电影导演但如今是记者的朱伊在（暂译）。该剧为浪漫喜剧，讲述天才导演禹秀彬（黄寅烨饰）实现梦想后回归，与遗忘梦想的记者朱伊在重逢的故事。",
+    "extracted_at": "2026-07-03T14:59:31.614082+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -86,16 +423,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "TWICE志效与舞厅歌手Shenseea合作新曲《Distant Lover》",
+    "title_zh": "TWICE志弘与舞厅歌手Shenseea合作新曲《Distant Lover》",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "TWICE成员志效与舞厅歌手Shenseea合作发行新曲《Distant Lover》",
+      "K-Pop明星志弘（TWICE成员）与舞厅热门歌手Shenseea合作推出歌曲《Distant Lover》",
       "该合作由That Eric Alper报道"
     ],
-    "summary_zh": "K-Pop组合TWICE成员志效与舞厅音乐人Shenseea合作推出新曲《Distant Lover》。该消息由That Eric Alper报道，具体发行日期及更多细节尚未公布。",
-    "extracted_at": "2026-07-03T10:35:27.126570+08:00"
+    "summary_zh": "K-Pop明星志弘（TWICE成员）与舞厅热门歌手Shenseea合作推出新曲《Distant Lover》。该消息由That Eric Alper报道。",
+    "extracted_at": "2026-07-03T14:59:33.681282+08:00"
   },
   {
     "source_id": "soompi",
@@ -115,11 +452,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：2024年7月3日，Cube娱乐发布警告，称有企业冒充公司并散布虚假信息",
-      "事实点2：Cube娱乐表示将对此类冒充诈骗行为采取法律行动"
+      "2024年7月3日，Cube娱乐发布警告声明，称收到报告称某些企业冒充公司散布虚假信息",
+      "Cube娱乐表示将对冒充诈骗行为采取法律行动"
     ],
-    "summary_zh": "Cube娱乐于7月3日发布警告，称近期有企业冒充公司并散布虚假信息，公司已收到相关报告，并威胁将采取法律行动应对冒充诈骗行为。",
-    "extracted_at": "2026-07-03T10:35:29.224383+08:00"
+    "summary_zh": "Cube娱乐于7月3日发布声明，警告近期有企业冒充公司散布虚假信息，并威胁将对此类冒充诈骗行为采取法律行动。",
+    "extracted_at": "2026-07-03T14:59:35.848279+08:00"
   },
   {
     "source_id": "soompi",
@@ -134,7 +471,7 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "文佳煐签约Fantagio，与车银优、金宣虎同门",
+    "title_zh": "文佳煐签约Fantagio，与车银优、金宣虎成同门",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
@@ -142,8 +479,8 @@
       "7月3日，Fantagio宣布文佳煐已与公司签订专属合约",
       "Fantagio旗下艺人包括文佳煐的前合作演员车银优（《女神降临》）和金宣虎（《加油吧威基基2》）"
     ],
-    "summary_zh": "7月3日，Fantagio宣布文佳煐已与公司签订专属合约，正式加入该经纪公司。Fantagio旗下目前有文佳煐的前合作演员车银优（《女神降临》）和金宣虎（《加油吧威基基2》）。",
-    "extracted_at": "2026-07-03T10:35:31.859751+08:00"
+    "summary_zh": "7月3日，Fantagio宣布文佳煐已与公司签订专属合约。Fantagio目前旗下艺人包括文佳煐的前合作演员车银优（《女神降临》）和金宣虎（《加油吧威基基2》）。",
+    "extracted_at": "2026-07-03T14:59:38.513130+08:00"
   },
   {
     "source_id": "soompi",
@@ -163,12 +500,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "KBS 2TV公开了即将播出的电视剧《丈夫》的新预告",
-      "该剧由南宫珉主演，讲述一个濒临离婚的男人为救妻子与危险罪犯搏斗的故事",
+      "KBS 2TV公开了新剧《丈夫》的预告片段",
+      "该剧由南宫珉主演，讲述离婚边缘的男子为救妻子与危险罪犯斗争的故事",
       "李雪在剧中饰演高世妍，被绑架后陷入恐惧"
     ],
-    "summary_zh": "KBS 2TV公开了电视剧《丈夫》的新预告，该剧由南宫珉主演，讲述一个濒临离婚的男人为救妻子与危险罪犯搏斗的故事。李雪在剧中饰演高世妍，被绑架后陷入恐惧。",
-    "extracted_at": "2026-07-03T10:35:34.651749+08:00"
+    "summary_zh": "KBS 2TV公开了新剧《丈夫》的预告片段，该剧由南宫珉主演，讲述离婚边缘的男子为救妻子与危险罪犯斗争的故事。李雪在剧中饰演高世妍，被绑架后陷入恐惧。",
+    "extracted_at": "2026-07-03T14:59:41.132250+08:00"
   },
   {
     "source_id": "soompi",
@@ -189,11 +526,11 @@
     "is_blurred": false,
     "facts_list": [
       "MBC新剧《杀手》公开孔孝真主演新预告",
-      "该剧为动作剧，讲述一位职场母亲拥有致命职业，努力保护工作与生活平衡",
+      "该剧为动作剧，讲述一位职场母亲拥有致命工作，努力保护工作与生活平衡",
       "这是孔孝真15年来首次出演MBC电视剧"
     ],
-    "summary_zh": "MBC新剧《杀手》公开孔孝真主演新预告。该剧为动作剧，讲述一位职场母亲拥有致命职业，努力保护工作与生活平衡。这是孔孝真15年来首次出演MBC电视剧。",
-    "extracted_at": "2026-07-03T10:35:36.924575+08:00"
+    "summary_zh": "MBC新剧《杀手》公开孔孝真主演新预告。该剧为动作剧，讲述一位职场母亲拥有致命工作，努力保护工作与生活平衡。这是孔孝真15年来首次出演MBC电视剧。",
+    "extracted_at": "2026-07-03T14:59:43.632882+08:00"
   },
   {
     "source_id": "soompi",
@@ -213,12 +550,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "ATEEZ于6月26日携迷你专辑《GOLDEN HOUR : Part.5》及主打曲《BAD》回归",
-      "根据Hanteo Chart数据，该专辑首周销量创下ATEEZ职业生涯最高纪录",
-      "该纪录打破了3年前的首周销量纪录"
+      "ATEEZ于6月26日发行迷你专辑《GOLDEN HOUR : Part.5》及主打曲《BAD》",
+      "根据Hanteo Chart数据，该专辑首周销量创下ATEEZ职业生涯最高纪录"
     ],
-    "summary_zh": "ATEEZ于6月26日发行迷你专辑《GOLDEN HOUR : Part.5》及主打曲《BAD》，根据Hanteo Chart数据，该专辑首周销量创下组合职业生涯最高纪录，打破了3年前的首周销量纪录。",
-    "extracted_at": "2026-07-03T10:35:39.140124+08:00"
+    "summary_zh": "ATEEZ于6月26日携迷你专辑《GOLDEN HOUR : Part.5》及主打曲《BAD》回归。据Hanteo Chart统计，该专辑首周销量刷新了ATEEZ出道以来的最高纪录，超越了3年前的成绩。",
+    "extracted_at": "2026-07-03T14:59:45.960047+08:00"
   },
   {
     "source_id": "soompi",
@@ -239,11 +575,11 @@
     "is_blurred": false,
     "facts_list": [
       "MBC Plus新剧《我的偶像，我的出道》公开新预告和海报",
-      "该剧讲述狂热粉丝穿越回八年前，试图阻止一场悲剧的成长故事",
+      "该剧讲述一名狂热粉丝穿越回八年前，试图阻止一场悲剧的成长故事",
       "首播日期已公布"
     ],
-    "summary_zh": "MBC Plus新剧《我的偶像，我的出道》发布新预告和海报，确定首播日期。该剧是一部时间穿越成长故事，讲述一位狂热粉丝穿越回八年前，试图改变命运、阻止一场悲剧的发生。",
-    "extracted_at": "2026-07-03T10:35:41.397103+08:00"
+    "summary_zh": "MBC Plus新剧《我的偶像，我的出道》发布新预告和海报，确定首播日期。该剧是一部时间穿越成长故事，讲述一名狂热粉丝穿越回八年前，试图改变命运、阻止一场悲剧的发生。",
+    "extracted_at": "2026-07-03T14:59:48.188726+08:00"
   },
   {
     "source_id": "soompi",
@@ -258,16 +594,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "黄寅烨谈新剧《梦到你》：初恋惠利改变他的人生",
+    "title_zh": "黄寅烨谈新剧《梦到你》：初恋惠利永远改变他的人生",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "黄寅烨分享了对即将播出的ENA电视剧《梦到你》的看法",
-      "《梦到你》是一部浪漫喜剧，讲述天才电影导演禹秀彬（黄寅烨饰）实现梦想后回归，与忘记梦想的记者朱伊在（Girl's Day惠利饰）重逢的故事"
+      "该剧讲述天才电影导演禹秀彬（黄寅烨饰）实现梦想后回归，与忘记梦想的记者朱伊在（Girl's Day惠利饰）重逢的浪漫喜剧"
     ],
-    "summary_zh": "黄寅烨谈及新剧《梦到你》，该剧为ENA浪漫喜剧，讲述天才导演禹秀彬（黄寅烨饰）实现梦想后回归，与忘记梦想的记者朱伊在（惠利饰）重逢的故事。黄寅烨表示初恋惠利改变了他的人生。",
-    "extracted_at": "2026-07-03T10:35:44.060268+08:00"
+    "summary_zh": "黄寅烨谈及新剧《梦到你》，该剧为ENA浪漫喜剧，讲述天才导演禹秀彬（黄寅烨饰）实现梦想后回归，与忘记梦想的记者朱伊在（惠利饰）重逢的故事。黄寅烨表示初恋惠利将永远改变他的人生。",
+    "extracted_at": "2026-07-03T14:59:51.274275+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -287,12 +623,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "马林县的妈妈们组建了一支名为‘KPop恶魔猎人’的K-pop致敬乐队",
-      "该乐队由当地妈妈们组成，旨在致敬K-pop音乐",
-      "报道来自Marin Independent Journal"
+      "马林县的妈妈们组建了名为‘KPop恶魔猎人’的致敬乐队",
+      "该乐队由Marin Independent Journal报道"
     ],
-    "summary_zh": "据Marin Independent Journal报道，美国马林县的一群妈妈们组建了一支名为‘KPop恶魔猎人’的K-pop致敬乐队。该乐队由当地妈妈们组成，旨在通过表演向K-pop音乐致敬。",
-    "extracted_at": "2026-07-03T10:35:46.325413+08:00"
+    "summary_zh": "据Marin Independent Journal报道，马林县的一群妈妈们组建了一支名为‘KPop恶魔猎人’的K-pop致敬乐队。",
+    "extracted_at": "2026-07-03T14:59:53.186598+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -316,31 +651,30 @@
       "登陆平台：PC、PS5、Switch"
     ],
     "summary_zh": "游戏《K-POP Rising – Dream to Shine》宣布将于11月5日登陆PC、PS5和Switch平台。该游戏由PlayDayOne发行，具体玩法及内容细节尚未公布。",
-    "extracted_at": "2026-07-03T10:35:48.227063+08:00"
+    "extracted_at": "2026-07-03T14:59:55.077005+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "New Book Features Concept Art & Designs From ‘KPop Demon Hunters’: Here’s Where to Buy It Online - Billboard",
+    "title": "'The Art of KPop Demon Hunters': How to Shop the Art Book Online - Billboard",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNekZaOTNEWVdoV0hoYTRXWWFBd1pMMllwNl9pVkdJMkRKOHMtY295QXBEZnlXdWpUSlhuaWVlRTQwRExXZEV5U2Z3bXR1X2oxQTJzT1p4OWdha2VEbDFIQ1I0cTlsRmVJZ3B2ckJfRTJXdDAzRC04SmJJblZxeDNyZlB3VU9ZOUhLVEh0Tm05cnV5Mmh5a0x1VU5rU1pieG9VUDI3MjdLd05qcTdSUENnWU5QLXpHRm8?oc=5",
-    "content": "New Book Features Concept Art & Designs From ‘KPop Demon Hunters’: Here’s Where to Buy It Online Billboard",
+    "content": "'The Art of KPop Demon Hunters': How to Shop the Art Book Online Billboard",
     "published_at": "0703google-kpop",
     "published_ts": 1783021421.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《KPop Demon Hunters》概念艺术与设计新书发布，在线购买渠道公开",
+    "title_zh": "《KPop恶魔猎人的艺术》艺术书在线购买指南",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "新书《KPop Demon Hunters》收录了该作品的概念艺术与设计",
-      "在线购买渠道已公开"
+      "Billboard发布文章介绍《KPop恶魔猎人的艺术》艺术书在线购买方式"
     ],
-    "summary_zh": "Billboard报道，一本收录《KPop Demon Hunters》概念艺术与设计的新书已发布，并公开了在线购买渠道。",
-    "extracted_at": "2026-07-03T10:35:50.245495+08:00"
+    "summary_zh": "Billboard发布了一篇指南，介绍如何在线购买《KPop恶魔猎人的艺术》艺术书。该艺术书与K-pop和恶魔猎人主题相关，文章提供了购买链接和相关信息。",
+    "extracted_at": "2026-07-03T14:59:57.202546+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -355,16 +689,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "HYBE 2025可持续发展报告：打击假货、演唱会人脸识别等5大要点",
+    "title_zh": "HYBE 2025年可持续发展报告：打击假货、演唱会人脸识别等5大要点",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "HYBE发布2025年可持续发展报告，内容涵盖打击假冒周边商品、K-pop演唱会引入人脸识别技术等5项措施",
-      "报告具体内容包括：打击假冒商品、人脸识别技术应用、以及另外3项未在标题中详述的举措"
+      "HYBE发布2025年可持续发展报告，提及打击假冒周边商品",
+      "报告显示HYBE在K-pop演唱会中引入人脸识别技术",
+      "报告还包含其他3项可持续发展相关措施"
     ],
-    "summary_zh": "据Music Business Worldwide报道，HYBE在2025年可持续发展报告中披露了5项关键举措，包括打击假冒周边商品、在K-pop演唱会中引入人脸识别技术等。报告旨在提升粉丝体验和知识产权保护，但具体细节需进一步查阅原文。",
-    "extracted_at": "2026-07-03T10:35:53.027721+08:00"
+    "summary_zh": "HYBE在2025年可持续发展报告中披露了5项关键举措：打击假冒周边商品、在K-pop演唱会中应用人脸识别技术，以及其他3项可持续发展措施。报告未提供具体数据或案例细节。",
+    "extracted_at": "2026-07-03T14:59:59.504708+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -388,32 +723,32 @@
       "事件：原定K-pop活动被取消",
       "来源：Scranton Times-Tribune报道"
     ],
-    "summary_zh": "据Scranton Times-Tribune报道，原定在宾夕法尼亚州威尔克斯-巴里柯比中心举办的K-pop活动已被取消。目前未提供取消原因及具体活动细节。",
-    "extracted_at": "2026-07-03T10:35:55.087201+08:00"
+    "summary_zh": "据Scranton Times-Tribune报道，原定在宾夕法尼亚州威尔克斯-巴里柯比中心举办的K-pop活动已被取消。报道未提及具体取消原因及原定演出艺人信息。",
+    "extracted_at": "2026-07-03T15:00:01.719666+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "‘KPop Demon Hunters’ Star Arden Cho Ties the Knot in Fairytale Italian Wedding - thedailybeast.com",
+    "title": "‘KPop Demon Hunters’ Star Arden Cho Ties the Knot in Fairytale Italian Wedding - The Daily Beast",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaTVDXzl6ck8zR2dUOTlIR2JrR2t1UjVJWWxka25UWmlBR1FqYVRlSktVbUNHaWNsMjZYVkVKTEZPR25MX3c2eVk5V3hoSXhBUVRuVjZBVFdMdm56bDlCVVJUbTdtX3UzdWVBOExZa0ZuMGg2LU1DLXNianhtS1RFZl94bnhQakhtaS1uS01peTZHUGFKNERTN3ZPQU14dFFXTkRmaEhrQWpEUFU?oc=5",
-    "content": "‘KPop Demon Hunters’ Star Arden Cho Ties the Knot in Fairytale Italian Wedding thedailybeast.com",
+    "content": "‘KPop Demon Hunters’ Star Arden Cho Ties the Knot in Fairytale Italian Wedding The Daily Beast",
     "published_at": "0703google-kpop",
     "published_ts": 1783011780.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《KPop恶魔猎人》主演Arden Cho在意大利举行童话婚礼",
+    "title_zh": "《KPop恶魔猎人》主演Arden Cho在意大利举办童话婚礼",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "Arden Cho在意大利举行婚礼",
+      "Arden Cho在意大利举办婚礼",
       "婚礼主题为童话风格"
     ],
     "summary_zh": "《KPop恶魔猎人》主演Arden Cho在意大利举办了一场童话风格的婚礼。",
-    "extracted_at": "2026-07-03T10:35:56.898575+08:00"
+    "extracted_at": "2026-07-03T15:00:03.696120+08:00"
   },
   {
     "source_id": "soompi",
@@ -433,12 +768,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "7月3日0时KST，公开预告宣布郑在玹新单曲《99 Degrees》即将发行",
-      "该曲曾在郑在玹个人粉丝演唱会“Mono”上首次公开",
-      "单曲将于7月10日下午6时KST正式发行"
+      "7月3日0点KST，公开预告宣布郑在玹新单曲《99 Degrees》即将发行",
+      "该曲曾在郑在玹个人粉丝演唱会《Mono》上首次公开",
+      "单曲将于7月10日下午6点KST正式发行"
     ],
-    "summary_zh": "NCT成员郑在玹将于7月10日下午6时（KST）发行新单曲《99 Degrees》。该曲此前在其个人粉丝演唱会“Mono”上首次公开，7月3日0时KST发布了预告。",
-    "extracted_at": "2026-07-03T10:35:59.272018+08:00"
+    "summary_zh": "NCT成员郑在玹将于7月10日下午6点KST发行新单曲《99 Degrees》。该曲此前在其个人粉丝演唱会《Mono》上首次公开，7月3日0点KST发布了预告。",
+    "extracted_at": "2026-07-03T15:00:06.498187+08:00"
   },
   {
     "source_id": "asianwiki",
