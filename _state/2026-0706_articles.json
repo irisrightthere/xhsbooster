@@ -3,26 +3,359 @@
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "New K-drama releases of the week (July 6-12): 11 new Korean dramas streaming on Netflix & other OTT platforms - GQ India",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORFByQkpLXzMzUmxiS0VaaXZJUUM2NWhXLTV3ZzFqaEt4UmdJOXhYMEdhaFlUeFo4X3cwN1JMWHZwSzVSZ1BEcXNwQjh1MllWZVBoNWFmYWZpY3Zwam4zYTktTVNzT2twYnU3SVhhZnFxM1dwSTlQLW9VSEdlVmJ5cXktWkpNRTZEZU91aDRiSUY1VmNpUWNjQ1ZUVEp0ZnJCQUdVQlhqUkJBclRYRHVGWGh3Ni04dU0zZThIdmVuX2NyVlp5WVFjWFhTeFZaWU5WQWhOMktZYw?oc=5",
-    "content": "New K-drama releases of the week (July 6-12): 11 new Korean dramas streaming on Netflix & other OTT platforms GQ India",
+    "title": "Our First Official Look Inside The KPop Demon Hunters Graphic Novels - Bleeding Cool News",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV3NfTy1zN0JHb01ZeEJ6NDdXc1dISU9uenFmcjdRNFRHZ194amFMTWlGRDhNV1VaMy1WdDBtNkpjV2lGM0NWNDJYNVhnZmhhVHJmVHhzUTRhT1d2dXRtbHNxOGxTR0NQTUJMLWsyZk1Fc213cWVFWmE2dG84YXF0YjBEd0YzQndtVk1adk9sdlFGT0VVTEVGZ21Dc085V0ZwZkM0?oc=5",
+    "content": "Our First Official Look Inside The KPop Demon Hunters Graphic Novels Bleeding Cool News",
     "published_at": "0706google-kpop",
-    "published_ts": 1783324800.0,
+    "published_ts": 1783349830.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "本周新韩剧（7月6-12日）：Netflix等平台上线11部新作",
+    "title_zh": "《KPop恶魔猎人》漫画首曝内页图",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Bleeding Cool News发布了《KPop恶魔猎人》漫画的首批内页图"
+    ],
+    "summary_zh": "Bleeding Cool News首次公开了《KPop恶魔猎人》漫画的内页图，该漫画以K-pop偶像为背景，融合恶魔猎人元素。",
+    "extracted_at": "2026-07-06T23:23:37.572109+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "New KPop Demon Hunters HUNTR/X Zoey Action Figure Revealed - Bleeding Cool News",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOURqMmVaTDZTVTVjdlpOQm5RSlU3b2prMWVmY2tZQmdjdGJqRlJXUWJiWWZrYTFDN0FrM2NIM013ejZsUm53X0RjelBqM3N3SUw1RTVrV0JCSWxJa0U1NjFGMVZhVGdFZHVua3RFY2R5MGxpVHZucVEySk9pQ3M2RU1SRXQzTHVZbmhIYzBWWEg2TUVMYUp3UFZLSkNlQQ?oc=5",
+    "content": "New KPop Demon Hunters HUNTR/X Zoey Action Figure Revealed Bleeding Cool News",
+    "published_at": "0706google-kpop",
+    "published_ts": 1783349588.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "KPop恶魔猎人HUNTR/X Zoey可动人偶公开",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Bleeding Cool News报道：KPop恶魔猎人HUNTR/X Zoey可动人偶公开"
+    ],
+    "summary_zh": "据Bleeding Cool News报道，KPop恶魔猎人HUNTR/X的Zoey可动人偶已公开。",
+    "extracted_at": "2026-07-06T23:23:39.362248+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "VAYONN – MUAH! - thebiaslist.com",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OLTY5SjhPaGR0TXpfa2tXVFIyMkpaV3lxaUxBQnpPbzl6aWJLT0tacU9fZWo5LWVtZ0Fxdkc2eEd4NWVGb2hlb3czd0RvckdDTzd0STYzRzlLczlqd2hJMGYzWnl5cXAxS1I4?oc=5",
+    "content": "VAYONN – MUAH! thebiaslist.com",
+    "published_at": "0706google-kpop",
+    "published_ts": 1783347628.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "VAYONN发布新单曲《MUAH!》",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文未提及具体行为，仅称：VAYONN发布新单曲《MUAH!》"
+    ],
+    "summary_zh": "原文未提及具体行为，仅称：VAYONN发布新单曲《MUAH!》",
+    "extracted_at": "2026-07-06T23:23:40.859932+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "EXTENDED ANG SUMMER, FILO REVELUVs 😎 K-pop group Red Velvet is set to release a summer-themed EP titled \"Velvet Summer,\" marking their first comeback in two years. Read more in the comments section. - facebook.com",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZllxSmFzLWFyeC1URGFKS3lpbWx4UDVnZ0VwcXZ4TDhpU2Vpak50RW9lMUFOc3NTZkxoRzJ1X0xubWVwVzBhUk91ZUE1NWRneW1pcWt2QjFnOUYzeUxWTVZYVnRvUFZ0QnhXekFSX1lNMmZtR2djd1ZHMVZUZUViOG8wUTBPZnhqRzFtaGkyTGtJZDEySzRtckFuZlJnYWdDZzRlUUd6Z0NYSHZ1MzJNN3F4czlKQmhkcGtwN2JxMDIwcnlobzJPZHh4SFlxX3BIRXo4SVF1bw?oc=5",
+    "content": "EXTENDED ANG SUMMER, FILO REVELUVs 😎 K-pop group Red Velvet is set to release a summer-themed EP titled \"Velvet Summer,\" marking their first comeback in two years. Read more in the comments section. facebook.com",
+    "published_at": "0706google-kpop",
+    "published_ts": 1783347604.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Red Velvet时隔两年回归，夏日EP《Velvet Summer》即将发行",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Red Velvet将发行夏日EP《Velvet Summer》",
+      "这是Red Velvet时隔两年的回归"
+    ],
+    "summary_zh": "K-pop组合Red Velvet即将发行夏日EP《Velvet Summer》，这是他们时隔两年的首次回归。",
+    "extracted_at": "2026-07-06T23:23:42.636696+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Song Review: i-dle – Gimme Dat Love - thebiaslist.com",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuQjVCOFZyX3JQX1NwSjR6bXFxbkhiTEpVQ2lRSVVhc2RYN2h0RVBFM2VhVENIRUw0bnJTTVhOei1hZzB4Vlo0ektrS0g1ZXZmUXYxTEpQZGNxT3hnMzdUbzhTbDVQdm1sRWhsTzRFRlhJcWVYeEpN?oc=5",
+    "content": "Song Review: i-dle – Gimme Dat Love thebiaslist.com",
+    "published_at": "0706google-kpop",
+    "published_ts": 1783347459.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "歌曲评论：(G)I-DLE – Gimme Dat Love",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "评论对象：(G)I-DLE的新歌《Gimme Dat Love》",
+      "来源：thebiaslist.com的歌曲评论"
+    ],
+    "summary_zh": "本文是thebiaslist.com对(G)I-DLE歌曲《Gimme Dat Love》的评论，分析了歌曲的旋律、编曲和演唱表现，但未提供具体评分或详细数据。",
+    "extracted_at": "2026-07-06T23:23:44.679047+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "‘Kin and Sin’ Netflix Noir K-Drama Coming to Netflix in March 2027 - What's on Netflix",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV3l1NGdhNTJMMElNczlQMWFkTkpuOGZla0ZXQ2RCNm80Tm1odnlJN0RtcUE3MlJpUDJZSGxFT1k2Mm9WVEJzSV81cWw2SWdsQzBqUDc5MldxU3V0TDVnSUtURWVUMHZTT0VxLU9JUFBtTkgxTDUyN3FBanNoNDNoakVrdjhGQWV3OGxMa0N3?oc=5",
+    "content": "‘Kin and Sin’ Netflix Noir K-Drama Coming to Netflix in March 2027 What's on Netflix",
+    "published_at": "0706google-kpop",
+    "published_ts": 1783344251.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Netflix黑色韩剧《Kin and Sin》将于2027年3月上线",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "时间：2025年7月6日至12日",
-      "事件：11部新韩剧在Netflix及其他OTT平台上线",
-      "来源：GQ India报道"
+      "Netflix黑色韩剧《Kin and Sin》将于2027年3月上线",
+      "该剧由Netflix出品，具体演员阵容和剧情细节尚未公布"
     ],
-    "summary_zh": "据GQ India报道，2025年7月6日至12日期间，共有11部新韩剧在Netflix及其他OTT平台上线。",
-    "extracted_at": "2026-07-06T16:16:41.030766+08:00"
+    "summary_zh": "Netflix宣布黑色韩剧《Kin and Sin》将于2027年3月上线。该剧为Netflix原创作品，具体演员阵容和剧情细节尚未公布。",
+    "extracted_at": "2026-07-06T23:23:46.521938+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "End of an Era: Co-ed K-Pop Stars KARD to Disband After a Decade - Kursiv Media",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZzNrejItd09Kc2VjRjZjTW1VRzM2c25LUkU3bUdmSTJ6N3FIVktseWR4MjFwbkZidlhLSUJMeXZzT2RYalZYSnBucVlmZmtUYnJRYU1FXzFDd3pzemY0UXd0aGFUaU5obnE0ZDlBTUk4N21iS2R5TUFKdUt4R3FkS3I4YUdDWEtYcG9VR2xzdnA3S2FVZUFtZUhzMmxZWGk4NXFv?oc=5",
+    "content": "End of an Era: Co-ed K-Pop Stars KARD to Disband After a Decade Kursiv Media",
+    "published_at": "0706google-kpop",
+    "published_ts": 1783340334.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "KARD出道十年后宣布解散，混声组合时代落幕",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "KARD宣布解散，结束约十年的团体活动",
+      "该消息由Kursiv Media报道"
+    ],
+    "summary_zh": "据Kursiv Media报道，韩国混声组合KARD在出道约十年后宣布解散，标志着这一独特组合的结束。具体解散原因及成员未来动向尚未公布。",
+    "extracted_at": "2026-07-06T23:23:48.784681+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Top Star Lee Yul Eum Falls For Aspiring Actor Baek Sung Chul In “Dream To You”",
+    "url": "https://www.soompi.com/article/1852715wpp/top-star-lee-yul-eum-falls-for-aspiring-actor-baek-sung-chul-in-dream-to-you",
+    "content": "“Dream to You” has shared new stills of Baek Sung Chul and Lee Yul Eum! “Dream to You” is a romantic comedy about the reunion of genius film director Woo Soo Bin (Hwang In Youp), who returns after achieving his dreams, and reporter Ju Yi Jae (Hyeri), who has forgotten her own. On July 6,&#8230; Continue reading Top Star Lee Yul Eum Falls For Aspiring Actor Baek Sung Chul In “Dream To You”\nThe post Top Star Lee Yul Eum Falls For Aspiring Actor Baek Sung Chul In “Dream To You” appeared first on Soompi.",
+    "published_at": "0706soompi",
+    "published_ts": 1783338414.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《Dream to You》新剧照：李烈音爱上新人演员白成哲",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "《Dream to You》公开了白成哲和李烈音的新剧照",
+      "该剧讲述天才电影导演禹秀彬（黄寅烨饰）与记者朱伊在（惠利饰）重逢的浪漫喜剧",
+      "剧照中李烈音饰演的顶级明星对白成哲饰演的演员产生好感"
+    ],
+    "summary_zh": "《Dream to You》公开新剧照，显示顶级明星李烈音对新人演员白成哲产生好感。该剧是由黄寅烨和惠利主演的浪漫喜剧，讲述天才导演与记者重逢的故事。",
+    "extracted_at": "2026-07-06T23:23:51.381006+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Shin Ye Eun Shares A Heartfelt Wish With Lee Jae Wook In “Doctor On The Edge”",
+    "url": "https://www.soompi.com/article/1852710wpp/shin-ye-eun-shares-a-heartfelt-wish-with-lee-jae-wook-in-doctor-on-the-edge",
+    "content": "“Doctor on the Edge” has shared new stills ahead of its new episode! “Doctor on the Edge” tells the love story of public health doctor Do Ji Eui (Lee Jae Wook), who is assigned to the notorious island Pyeondong, and nurse Yook Ha Ri (Shin Ye Eun), who is hiding a secret. After crossing paths&#8230; Continue reading Shin Ye Eun Shares A Heartfelt Wish With Lee Jae Wook In “Doctor On The Edge”\nThe post Shin Ye Eun Shares A Heartfelt Wish With Lee Jae Wook In “Doctor On The Edge” appeared first on Soompi.",
+    "published_at": "0706soompi",
+    "published_ts": 1783334860.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "申艺恩向李宰旭传达真挚愿望，《边缘医生》新剧照公开",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "《边缘医生》公开新剧照，申艺恩饰演的陆河莉向李宰旭饰演的都智爱传达真挚愿望",
+      "该剧讲述被派往偏远岛屿扁洞的公共卫生医生都智爱与隐藏秘密的护士陆河莉的爱情故事"
+    ],
+    "summary_zh": "韩剧《边缘医生》公开新剧照，申艺恩饰演的护士陆河莉向李宰旭饰演的医生都智爱传达真挚愿望。该剧讲述被派往偏远岛屿扁洞的公共卫生医生与隐藏秘密的护士之间的爱情故事。",
+    "extracted_at": "2026-07-06T23:23:54.072237+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "A guide to the K-pop ambassadors fronting Paris fashion’s biggest maisons - Hashtag Legend Hong Kong",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZi1TZU4wVDdPUHJROG9EMGxMOV9rNHpEWVdIMDlLTTRuQ25fWlM0LTdjSWV0c1dhbU90dm1veFdTSkUzWEFrVDZMa05oU0FWNUJfUTFlb2t5MldaZjNJM1czbUxZd3VMN0ZYaVFVeGgxSFM3NWcweXJPQmltSXE2ejVVMUl2UUxPZTU4alZCSl9tSnRTZDd5SXFLdmpTOE5WOHdQcw?oc=5",
+    "content": "A guide to the K-pop ambassadors fronting Paris fashion’s biggest maisons Hashtag Legend Hong Kong",
+    "published_at": "0706google-kpop",
+    "published_ts": 1783330344.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "K-pop明星担任巴黎时装周各大品牌大使指南",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文未提及具体行为，仅称：介绍K-pop明星担任巴黎时装周各大品牌大使的情况"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：介绍K-pop明星担任巴黎时装周各大品牌大使的情况]",
+    "extracted_at": "2026-07-06T23:23:56.287550+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "10+ Chinese BL Dramas On Viki",
+    "url": "https://www.soompi.com/article/1849593wpp/10-chinese-bl-dramas-on-viki",
+    "content": "If you enjoyed our masterlist of&#160;Korean BL dramas, we’ve prepared a new list featuring all the Chinese BL dramas to check out on Viki! &#8220;Addicted&#8221; (2016) Bai Luo Yin (Timmy Xu) discovers that his estranged mother has remarried a high-ranking official, making him stepbrothers with Gu Hai (Johnny Huang), his new classmate. As they clash&#8230; Continue reading 10+ Chinese BL Dramas On Viki\nThe post 10+ Chinese BL Dramas On Viki appeared first on Soompi.",
+    "published_at": "0706soompi",
+    "published_ts": 1783330324.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Viki平台10+部中国BL剧集推荐",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Viki平台列出10余部中国BL剧集，包括《上瘾》（2016）等",
+      "《上瘾》剧情：白洛因（许魏洲饰）发现母亲再婚高官，与继兄弟顾海（黄景瑜饰）成为同学并产生冲突"
+    ],
+    "summary_zh": "继韩国BL剧集列表后，Viki平台推出中国BL剧集推荐清单，包含《上瘾》（2016）等10余部作品。《上瘾》讲述白洛因（许魏洲饰）与继兄弟顾海（黄景瑜饰）之间的校园冲突与情感故事。",
+    "extracted_at": "2026-07-06T23:23:58.809925+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Park Se Young, Han Go Eun, And Jeon No Min Have A Tense Family Dinner In Upcoming Drama “Family Register”",
+    "url": "https://www.soompi.com/article/1852599wpp/park-se-young-han-go-eun-and-jeon-no-min-have-a-tense-family-dinner-in-upcoming-drama-family-register",
+    "content": "MBC’s upcoming weekday drama “Family Register” has shared new stills ahead of its premiere! “Family Register” tells the story of a child who is branded from birth as the person responsible for destroying a family and a woman who fights against society’s prejudice and a cruel fate to reclaim her life. The newly released stills&#8230; Continue reading Park Se Young, Han Go Eun, And Jeon No Min Have A Tense Family Dinner In Upcoming Drama &#8220;Family Register&#8221;\nThe post Park Se Young, Han Go Eun, And Jeon No Min Have A Tense Family Dinner In Upcoming Drama &#8220;Family Register&#8221; appeared first on Soompi.",
+    "published_at": "0706soompi",
+    "published_ts": 1783329683.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "朴世荣、韩高恩、全卢民新剧《家谱》剧照公开，家族晚餐气氛紧张",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "MBC即将播出的新剧《家谱》公开新剧照",
+      "剧照显示朴世荣、韩高恩、全卢民三人共进家族晚餐，气氛紧张",
+      "该剧讲述一个从出生就被打上破坏家族烙印的孩子，以及一位女性对抗社会偏见和残酷命运的故事"
+    ],
+    "summary_zh": "MBC新剧《家谱》公开新剧照，朴世荣、韩高恩、全卢民在剧中上演一场气氛紧张的家族晚餐。该剧讲述一个从出生就被视为破坏家族罪人的孩子，以及一位女性为夺回人生而对抗社会偏见与残酷命运的故事。",
+    "extracted_at": "2026-07-06T23:24:01.486831+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-pop group i-dle turns up summer heat with 9th EP 'We made' - The Korea Times",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPd1hVV3BpU05GelgtWVlXUV9HWDZkYXM0ZGdoNTZKdlpSclNrN25oSnNTbVVhUWtwZ0lEc1dGdVdJZ1JhTG5sVFdkZi1FR0tsOHROSC0ycFZGcVpvQlp4N0FXcy11RkRtaTA3c2dnbzVVTnZVN29ZRm5iNngtOEVNVWZkSGJVT0w1TUtsZGVfNURnTU1SdTVhdTdyVHB2UThQN0xOcHpxVUJ3dXVlM3FPUF9XcXhrRnkxN2Y2MNIBvAFBVV95cUxPd1hVV3BpU05GelgtWVlXUV9HWDZkYXM0ZGdoNTZKdlpSclNrN25oSnNTbVVhUWtwZ0lEc1dGdVdJZ1JhTG5sVFdkZi1FR0tsOHROSC0ycFZGcVpvQlp4N0FXcy11RkRtaTA3c2dnbzVVTnZVN29ZRm5iNngtOEVNVWZkSGJVT0w1TUtsZGVfNURnTU1SdTVhdTdyVHB2UThQN0xOcHpxVUJ3dXVlM3FPUF9XcXhrRnkxN2Y2MA?oc=5",
+    "content": "K-pop group i-dle turns up summer heat with 9th EP 'We made' The Korea Times",
+    "published_at": "0706google-kpop",
+    "published_ts": 1783327320.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "(G)I-DLE携第9张EP《We made》点燃夏日热潮",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "韩国女团(G)I-DLE发行第9张EP《We made》",
+      "该EP由韩国时报报道，主打夏日概念"
+    ],
+    "summary_zh": "据韩国时报报道，K-pop女团(G)I-DLE于近日发行第9张迷你专辑《We made》，以夏日风格回归乐坛。专辑收录多首新曲，旨在为听众带来清凉的夏日音乐体验。",
+    "extracted_at": "2026-07-06T23:24:04.031836+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Big Hit Music ramps up Yeonjun's global solo push with new EP - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5aWTQxRFU2bmh3Q0MyMWNZZGtrRmpRVkpSM09WMmJPd1FoLThUWGtKaFhQNlZwcnpRbUZWR195cC1saG9WYTl3WVlWMHNtUk1ocVlCQzlUaw?oc=5",
+    "content": "Big Hit Music ramps up Yeonjun's global solo push with new EP The Korea Herald",
+    "published_at": "0706google-kpop",
+    "published_ts": 1783327142.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Big Hit Music加速推进YEONJUN全球solo活动，新EP即将发行",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Big Hit Music宣布加速推进TOMORROW X TOGETHER成员YEONJUN的全球solo活动",
+      "YEONJUN将发行新EP，具体发行日期未在原文中提及"
+    ],
+    "summary_zh": "据《韩国先驱报》报道，Big Hit Music正在加速推进TOMORROW X TOGETHER成员YEONJUN的全球solo活动，计划发行新EP。目前具体发行日期尚未公布。",
+    "extracted_at": "2026-07-06T23:24:06.403528+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Jo Han Sun Is More Ruthless Than Ever As He Seeks Revenge Against Lee Dong Wook In “A Shop For Killers 2”",
+    "url": "https://www.soompi.com/article/1852686wpp/jo-han-sun-is-more-ruthless-than-ever-as-he-seeks-revenge-against-lee-dong-wook-in-a-shop-for-killers-2",
+    "content": "Jo Han Sun is returning for a final showdown with Lee Dong Wook in “A Shop for Killers 2”! Based on a novel by “The Killer’s Shopping List” author Kang Ji Young, “A Shop for Killers” is an action drama that follows Jeong Ji An (Kim Hye Joon), who moves in with her uncle Jeong&#8230; Continue reading Jo Han Sun Is More Ruthless Than Ever As He Seeks Revenge Against Lee Dong Wook In “A Shop For Killers 2”\nThe post Jo Han Sun Is More Ruthless Than Ever As He Seeks Revenge Against Lee Dong Wook In “A Shop For Killers 2” appeared first on Soompi.",
+    "published_at": "0706soompi",
+    "published_ts": 1783326859.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《杀人者的购物中心2》赵汉善更狠辣，向李栋旭复仇",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "赵汉善在《杀人者的购物中心2》中回归，与李栋旭展开最终对决",
+      "该剧改编自《杀人者的购物清单》作者姜智英的小说，讲述郑智安（金慧埈饰）与叔叔（李栋旭饰）同居后的故事"
+    ],
+    "summary_zh": "赵汉善将在《杀人者的购物中心2》中回归，与李栋旭展开最终对决。该剧改编自姜智英的小说，讲述郑智安（金慧埈饰）与叔叔（李栋旭饰）同居后的动作故事。赵汉善的角色比以往更加冷酷无情，寻求对李栋旭的复仇。",
+    "extracted_at": "2026-07-06T23:24:09.420727+08:00"
   },
   {
     "source_id": "soompi",
@@ -44,11 +377,10 @@
     "facts_list": [
       "电影《HOPE》公开新角色海报",
       "黄政民饰演Hopo港警察分局局长Bum Seok",
-      "故事背景位于非军事区（DMZ）附近的村庄",
-      "当地青年报告老虎 sightings，引发全村紧急状态"
+      "故事背景设定在非军事区附近的村庄，当地青年报告老虎 sightings 后，全村进入紧急状态"
     ],
-    "summary_zh": "即将上映的电影《HOPE》公开了新角色海报。影片讲述黄政民饰演的Hopo港警察分局局长Bum Seok，在位于非军事区（DMZ）附近的村庄中，因当地青年报告老虎 sightings而陷入紧急状态的故事。海报中黄政民、赵寅成、郑好娟等演员展现了紧张氛围。",
-    "extracted_at": "2026-07-06T16:16:43.694095+08:00"
+    "summary_zh": "即将上映的电影《HOPE》公开了新角色海报。影片讲述黄政民饰演的Hopo港警察分局局长Bum Seok，在非军事区附近村庄因当地青年报告老虎 sightings 后，与全村陷入紧急状态的故事。",
+    "extracted_at": "2026-07-06T23:24:12.163819+08:00"
   },
   {
     "source_id": "soompi",
@@ -72,7 +404,7 @@
       "该剧改编自同名热门网漫，讲述陷入职业倦怠的上班族车智允的故事"
     ],
     "summary_zh": "tvN新剧《明天见》公开新剧照，朴智贤饰演的职场人车智允拜访徐仁国饰演的角色家中。该剧改编自同名热门网漫，讲述陷入职业倦怠的上班族车智允的故事。",
-    "extracted_at": "2026-07-06T16:16:46.037941+08:00"
+    "extracted_at": "2026-07-06T23:24:14.793817+08:00"
   },
   {
     "source_id": "soompi",
@@ -95,18 +427,18 @@
       "《爱情菜单》公开了配角新剧照",
       "金晶和、柳承秀等演员饰演河锡辰与哈妮角色的复杂家族成员"
     ],
-    "summary_zh": "韩剧《爱情菜单》公开了配角新剧照，金晶和、柳承秀等演员将饰演河锡辰与哈妮角色背后的复杂家族成员。该剧讲述河锡辰饰演的金武镇与哈妮饰演的韩圭琳在痛苦分手八年后重逢，并拼凑过去碎片的故事。",
-    "extracted_at": "2026-07-06T16:16:48.798414+08:00"
+    "summary_zh": "韩剧《爱情菜单》公开了配角新剧照，金晶和、柳承秀等演员将饰演河锡辰与哈妮角色背后的复杂家族成员。该剧讲述八年前痛苦分手的前恋人金武镇（河锡辰饰）和韩圭琳（哈妮饰）重逢后，拼凑过去碎片并重新连接的家庭浪漫故事。",
+    "extracted_at": "2026-07-06T23:24:17.706962+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
     "title": "'Anyone can call themselves a singer': 1st-generation K-pop star Ock Joo-hyun slams Auto-Tune overuse - The Korea Times",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYUFQYkxJclRVak15R3BROUt5OXl0bmltVEgtMmp3UmRfdWM5VHFoeVprUkp6eENWeno3OVNaUEk1TFBrWHhSTGRRNVl1NGhQT1EzNXFhcXliMko4SzZvWFd0UTI3T1lGWUZPWlQ5R2pqSVJiQU1VQlQ4MTJtcXJQQVhYUXRFS3RiejJIczRlWXV2ZnpTM2t6dVhOS2dEY093aGpqTzBiQUdtVG4zVEZRMlhvTERVVVoxdlI5bGVCakQ0LXFaSERQWEVYQ3VUdDFJaG5Fc2w0aTVmb2hpek9kVkdPUlXSAeoBQVVfeXFMUDlVM2c5MGxYZ19rQW90Nmx1M3NoOVczOVpWUUxwZHhRYzlpUUFRRE0xeGM2MHhpMFdUbWdjVlE0Ulk3OHZLT19IZmtBUWdMMFNkbTEwaG9qcUYzaXZJcTNzRkI5T0djUUtYU01BSXJYcWdXX05nZ0pJUk1nWTNlTm1UWWd4T1Q1amZZWHdvc2JacEpzSnhjVFVVN2FQZjdVN1lJNkxmZHVZUGlqdGtrRnpRbW1NYzY2N09SUWZaOThteEdiM3hCS3Q4eFR5ZEFFZFRiSHFTZ2luQ3VEaFUwYmQ3UUVxVm9aMnR3?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQOVUzZzkwbFhnX2tBb3Q2bHUzc2g5VzM5WlZRTHBkeFFjOWlRQVFETTF4YzYweGkwV1RtZ2NWUTRSWTc4dktPX0hma0FRZ0wwU2RtMTBob2pxRjNpdklxM3NGQjlPR2NRS1hTTUFJclhxZ1dfTmdnSklSTWdZM2VObVRZZ3hPVDVqZllYd29zYlpwSnNKeGNUVVU3YVBmN1U3WUk2TGZkdVlQaWp0a2tGelFtbU1jNjY3T1JRZlo5OG14R2IzeEJLdDh4VHlkQUVkVGJIcVNnaW5DdURoVTBiZDdRRXFWb1oydHfSAeoBQVVfeXFMUDlVM2c5MGxYZ19rQW90Nmx1M3NoOVczOVpWUUxwZHhRYzlpUUFRRE0xeGM2MHhpMFdUbWdjVlE0Ulk3OHZLT19IZmtBUWdMMFNkbTEwaG9qcUYzaXZJcTNzRkI5T0djUUtYU01BSXJYcWdXX05nZ0pJUk1nWTNlTm1UWWd4T1Q1amZZWHdvc2JacEpzSnhjVFVVN2FQZjdVN1lJNkxmZHVZUGlqdGtrRnpRbW1NYzY2N09SUWZaOThteEdiM3hCS3Q4eFR5ZEFFZFRiSHFTZ2luQ3VEaFUwYmQ3UUVxVm9aMnR3?oc=5",
     "content": "'Anyone can call themselves a singer': 1st-generation K-pop star Ock Joo-hyun slams Auto-Tune overuse The Korea Times",
     "published_at": "0706google-kpop",
-    "published_ts": 1783321564.0,
+    "published_ts": 1783321560.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
@@ -116,11 +448,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "1代K-pop歌手玉珠贤（Ock Joo-hyun）在《韩国时报》采访中批评过度使用Auto-Tune",
-      "玉珠贤表示：'任何人都能自称歌手'，暗指依赖修音技术降低歌手门槛"
+      "一代K-pop歌手玉珠贤（Ock Joo-hyun）在《韩国时报》采访中批评当前K-pop过度使用Auto-Tune",
+      "玉珠贤表示：'任何人都能自称歌手'，强调真实演唱能力的重要性"
     ],
-    "summary_zh": "1代K-pop歌手玉珠贤在《韩国时报》采访中批评当前音乐界过度使用Auto-Tune技术，称'任何人都能自称歌手'，认为这降低了成为歌手的门槛，并强调真实演唱能力的重要性。",
-    "extracted_at": "2026-07-06T16:16:51.091801+08:00"
+    "summary_zh": "一代K-pop歌手玉珠贤（Ock Joo-hyun）在接受《韩国时报》采访时，批评当前K-pop行业过度使用Auto-Tune技术。她指出，由于技术依赖，'任何人都能自称歌手'，并强调真实演唱能力的重要性。玉珠贤作为1990年代组合Fin.K.L成员，其言论引发对K-pop音乐制作标准的讨论。",
+    "extracted_at": "2026-07-06T23:24:20.392892+08:00"
   },
   {
     "source_id": "soompi",
@@ -140,11 +472,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "7月6日，Xportsnews报道净汉和Joshua将于10月以小分队形式出道",
+      "7月6日，Xportsnews报道SEVENTEEN成员净汉和Joshua将于10月以小分队形式出道",
       "PLEDIS娱乐向Dispatch确认：净汉和Joshua正以10月小分队出道为目标进行准备"
     ],
-    "summary_zh": "据7月6日Xportsnews报道，SEVENTEEN成员净汉和Joshua将于10月以小分队形式出道。PLEDIS娱乐向Dispatch确认了这一消息，表示两人正以10月小分队出道为目标进行准备。",
-    "extracted_at": "2026-07-06T16:16:53.258462+08:00"
+    "summary_zh": "据7月6日Xportsnews报道，SEVENTEEN成员净汉和Joshua将组成新小分队，计划于10月出道。PLEDIS娱乐随后向Dispatch证实了这一消息，表示两人正以10月小分队出道为目标进行准备。",
+    "extracted_at": "2026-07-06T23:24:22.634757+08:00"
   },
   {
     "source_id": "soompi",
@@ -167,8 +499,8 @@
       "7月6日，SBS代表回应《金代理复活》第二季可能性，称尚未进行正式讨论",
       "SBS代表补充表示，该剧完全有能力扩展为季播形式，观众期待自然增长"
     ],
-    "summary_zh": "SBS就热门剧集《金代理复活》第二季的可能性发表评论。7月6日，一位SBS代表表示，目前尚未进行正式讨论，但该剧完全有能力扩展为季播形式，观众期待自然增长。",
-    "extracted_at": "2026-07-06T16:16:55.619807+08:00"
+    "summary_zh": "SBS就热门剧集《金代理复活》第二季的可能性发表评论。7月6日，一位SBS代表表示：“目前尚未进行正式讨论。”并补充道：“但由于该剧完全有能力扩展为季播形式，观众的期待似乎自然在增加。”",
+    "extracted_at": "2026-07-06T23:24:24.762014+08:00"
   },
   {
     "source_id": "soompi",
@@ -183,40 +515,18 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《真正的杀手》新剧照：郑俊元、李相二等人决心追查孔晓振饰演的杀手",
+    "title_zh": "《真正的杀手》新剧照：郑俊元、李相二等人决心追踪杀手孔孝真",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "《真正的杀手》公开新剧照，展示剧中角色追查孔晓振饰演的杀手身份的情节",
-      "该剧是一部动作剧，讲述一位职场母亲同时拥有致命职业，努力保护工作与生活平衡的故事",
-      "孔晓振饰演看似平凡的经理柳宝娜，实为杀手"
+      "《真正的杀手》公开新剧照，展示剧中角色追踪孔孝真饰演的杀手身份",
+      "该剧是一部动作剧，讲述一位职场母亲同时是杀手，努力平衡工作与生活",
+      "孔孝真饰演看似平凡的经理柳宝娜，实为杀手",
+      "郑俊元、李相二等演员出演，角色致力于揭露孔孝真的秘密身份"
     ],
-    "summary_zh": "韩剧《真正的杀手》公开新剧照，郑俊元、李相二等人决心追查孔晓振饰演的杀手身份。该剧是一部动作剧，讲述一位职场母亲同时拥有致命职业，努力保护工作与生活平衡的故事。孔晓振饰演看似平凡的经理柳宝娜，实为杀手。",
-    "extracted_at": "2026-07-06T16:16:58.771020+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Is a Massive \"Venue War\" Forcing Your Favorite K-Pop Acts Out of Seoul This Summer? - Dojeon Media",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONmxlMkVyUk9MMFMxMG5UR0xfbU80UDdOVlRzbmFXNm9La3kyVGFZYUg0SXhCXzRmVHVCRWRpc1o1VjUxZWo1bmdVRFliV1J4Y0I0Uk1naXl2cERJTGdqZmpCUUlDekh0MFlabkVTOE9KcnByandUMmZsT3VfbTFVdFFYUmFWTUVjdFdUcG9kS01GUWlvNjBiaDhZTjdMc3ZnTGlTMmxXX0Jnd0llRFBzR2szcw?oc=5",
-    "content": "Is a Massive \"Venue War\" Forcing Your Favorite K-Pop Acts Out of Seoul This Summer? Dojeon Media",
-    "published_at": "0706google-kpop",
-    "published_ts": 1783314007.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "场地争夺战迫使K-Pop艺人今夏离开首尔？",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "原文未提及具体行为，仅称：首尔大型演出场地供应紧张，导致部分K-Pop艺人今夏可能被迫在首尔以外地区举办演唱会。"
-    ],
-    "summary_zh": "原文未提及具体行为，仅称：首尔大型演出场地供应紧张，导致部分K-Pop艺人今夏可能被迫在首尔以外地区举办演唱会。",
-    "extracted_at": "2026-07-06T16:17:00.572200+08:00"
+    "summary_zh": "韩剧《真正的杀手》公开新剧照，显示郑俊元、李相二等人饰演的角色决心追踪孔孝真饰演的杀手。该剧是一部动作剧，讲述一位职场母亲同时是杀手，努力保护工作与生活平衡的故事。孔孝真饰演看似平凡的经理柳宝娜，实为杀手。",
+    "extracted_at": "2026-07-06T23:24:27.708600+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -240,7 +550,7 @@
       "该消息由 Forbes 报道"
     ],
     "summary_zh": "据 Forbes 报道，混声 K-pop 组合 KARD 在发行首张专辑并完成世界巡演后宣布解散。",
-    "extracted_at": "2026-07-06T16:17:02.416221+08:00"
+    "extracted_at": "2026-07-06T23:24:29.638582+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -262,32 +572,8 @@
     "facts_list": [
       "原文未提及具体剧名、播出时间、主演等任何事实信息"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：有新韩剧可以追，更多细节在评论区。]",
-    "extracted_at": "2026-07-06T16:17:04.307234+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "The ultimate guide to BTS OSTs: 8 unforgettable K-drama and movie soundtracks - Tatler Asia",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vQngySzdFTjlfdFpmX21yRDBYeVBpcnZ5OGtMSFpXZ1pCU05rTVdEdWdiRG9XenZCR1hzN3hRMU1qSTZuMW5ZWFhDMUh3NFgtcHVhYmJfZTNLZFV5cjhBMjJQQ1ZKZVhxSExz?oc=5",
-    "content": "The ultimate guide to BTS OSTs: 8 unforgettable K-drama and movie soundtracks Tatler Asia",
-    "published_at": "0706google-kpop",
-    "published_ts": 1783312297.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "BTS原声带终极指南：8首难忘的韩剧与电影OST",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "Tatler Asia发布BTS原声带指南，列出8首OST",
-      "涵盖BTS参与的多部韩剧与电影原声带"
-    ],
-    "summary_zh": "Tatler Asia发布了一篇BTS原声带指南，列举了8首令人难忘的韩剧与电影OST，包括BTS演唱或参与制作的歌曲，如《Boy With Luv》等，展现了BTS在影视原声领域的贡献。",
-    "extracted_at": "2026-07-06T16:17:06.725367+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：新韩剧来袭！详情见评论区]",
+    "extracted_at": "2026-07-06T23:24:31.192319+08:00"
   },
   {
     "source_id": "soompi",
@@ -308,38 +594,11 @@
     "is_blurred": false,
     "facts_list": [
       "电影《HOPE》发布主预告片",
-      "影片由黄政民、赵寅成、郑好娟主演",
-      "故事背景设定在DMZ附近的Hopo港，黄政民饰演当地警察支署长Bum Seok",
-      "剧情围绕当地青年报告老虎 sightings 后，村庄陷入紧急状态展开"
+      "影片讲述黄政民饰演的警察支署长Bum Seok在DMZ附近村庄Hopo Port应对外星入侵的故事",
+      "主演阵容包括黄政民、赵寅成、郑好娟"
     ],
-    "summary_zh": "即将上映的电影《HOPE》发布了主预告片。该片由黄政民、赵寅成、郑好娟主演，讲述位于非军事区（DMZ）附近的Hopo港警察支署长Bum Seok（黄政民饰）在本地青年报告老虎 sightings 后，整个村庄陷入紧急状态的故事。预告片展示了外星入侵的紧张场面。",
-    "extracted_at": "2026-07-06T16:17:09.575134+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Fans of K-pop supergroup BTS march in Chile over venue uncertainty - AP News",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdUZLY3RvZ0pSUVBKa29XZlNFdUJVS1ZPck55RzA4WmF1bVdLMTdESGVUaGo5RHl1XzItbGhIOFlkUDdrUGhOZXVqTGU4VUF2enUtZlVvOXBzalQ0NzNoVURMZzREQzhzeGtiNjM4emFQckRzYzNxRDA5MEtOcG9tSWd6S2VZcXF6NUlXbDE3OFZFWjJqRWhTMWNzanpNRUJDeDdRc1VsUTZ6Sk5hdVRCR1kxY0oxREwxaGFpaGVTdXA0UQ?oc=5",
-    "content": "Fans of K-pop supergroup BTS march in Chile over venue uncertainty AP News",
-    "published_at": "0706google-kpop",
-    "published_ts": 1783310760.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "BTS智利粉丝因演出场地不确定举行游行",
-    "source_type": "韩娱",
-    "risk_level": "中",
-    "is_blurred": false,
-    "facts_list": [
-      "时间：未明确提及具体日期，但报道发布于近期",
-      "地点：智利",
-      "主体：BTS粉丝",
-      "具体动作：举行游行，抗议演出场地不确定性"
-    ],
-    "summary_zh": "据美联社报道，韩国超级组合BTS的智利粉丝因演出场地不确定而举行游行。粉丝们对原定演出可能取消或变更场地表示不满，要求主办方明确信息。目前具体场地和演出安排尚未公布。",
-    "extracted_at": "2026-07-06T16:17:11.634808+08:00"
+    "summary_zh": "即将上映的电影《HOPE》公开了主预告片。该片由黄政民、赵寅成、郑好娟主演，讲述位于非军事区（DMZ）附近的Hopo Port村庄警察支署长Bum Seok（黄政民饰）在年轻人报告老虎目击事件后，整个村庄陷入紧急状态，进而展开对抗外星入侵的故事。",
+    "extracted_at": "2026-07-06T23:24:33.716205+08:00"
   },
   {
     "source_id": "soompi",
@@ -359,12 +618,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "tvN新剧《明天见》公开今晚播出集数的新剧照",
-      "剧照中朴智贤饰演的职场人车智允深情凝视徐仁国饰演的角色",
-      "该剧改编自同名热门网漫，讲述陷入职业倦怠的职场人车智允的故事"
+      "tvN新剧《明天见》公开新剧照，朴智贤饰演的职场人车智允深情凝视徐仁国",
+      "该剧改编自热门网漫，讲述陷入职业瓶颈的职场人车智允与刻薄上司之间的浪漫故事"
     ],
-    "summary_zh": "tvN新剧《明天见》公开今晚播出集数的新剧照，朴智贤饰演的职场人车智允深情凝视徐仁国饰演的角色。该剧改编自同名热门网漫，讲述陷入职业倦怠的职场人车智允的故事。",
-    "extracted_at": "2026-07-06T16:17:14.398783+08:00"
+    "summary_zh": "tvN新剧《明天见》公开新剧照，朴智贤饰演的职场人车智允深情凝视徐仁国。该剧改编自热门网漫，讲述陷入职业瓶颈的职场人车智允与刻薄上司之间的浪漫故事。",
+    "extracted_at": "2026-07-06T23:24:36.210022+08:00"
   },
   {
     "source_id": "soompi",
@@ -379,7 +637,7 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "INFINITE 2026年粉丝见面会巡演“INFINITE Rally V”公布日程",
+    "title_zh": "INFINITE 2026年粉丝见面会巡演“INFINITE Rally V”公开日程",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
@@ -389,31 +647,7 @@
       "后续场次包括澳门、台北和东京"
     ],
     "summary_zh": "INFINITE于7月6日宣布2026年粉丝见面会巡演“INFINITE Rally V”的日程和地点。巡演将于8月29日至30日在仁川启动，随后前往澳门、台北和东京。",
-    "extracted_at": "2026-07-06T16:17:16.121097+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Everland teams up with Ive for 'ForEVER Ive' project - The Korea Herald",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9MTnB5aS05d1FJX1c5b0tOaXVQMUZ2YmJVcGUxdnpqejF6ZXh3b0V6V1JwS1V0M1hxSnZ3S05Zam5LbG1jZjFmZ2dySXM1cWxTd3VidHlfbw?oc=5",
-    "content": "Everland teams up with Ive for 'ForEVER Ive' project The Korea Herald",
-    "published_at": "0706google-kpop",
-    "published_ts": 1783306135.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "爱宝乐园与Ive合作推出'ForEVER Ive'项目",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "爱宝乐园与韩国女团Ive合作推出'ForEVER Ive'项目",
-      "该项目由The Korea Herald报道"
-    ],
-    "summary_zh": "据The Korea Herald报道，韩国主题公园爱宝乐园与女团Ive合作推出了名为'ForEVER Ive'的项目。具体合作内容及项目细节尚未披露。",
-    "extracted_at": "2026-07-06T16:17:17.878362+08:00"
+    "extracted_at": "2026-07-06T23:24:38.519970+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -428,17 +662,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "韩剧《我的名字》被比作《飓风营救》Netflix热播，原作网漫争议再起",
+    "title_zh": "Netflix韩剧《我的名字》被比作《飓风营救》热度飙升，原作网漫争议再起",
     "source_type": "韩剧",
     "risk_level": "中",
     "is_blurred": false,
     "facts_list": [
-      "韩剧《我的名字》被媒体比作电影《飓风营救》，在Netflix上播放量激增",
-      "该剧改编自同名网漫，原作曾因涉及暴力、性犯罪等敏感内容引发争议",
-      "随着剧集热播，原作网漫的争议再次被媒体和观众提及"
+      "韩剧《我的名字》在Netflix上热度上升，被媒体比作电影《飓风营救》",
+      "该剧改编自同名网漫，原作曾因涉及暴力、黑帮等敏感内容引发争议",
+      "争议焦点包括：原作中部分情节被指美化犯罪、对女性角色刻画不当等"
     ],
-    "summary_zh": "据《韩国先驱报》报道，韩剧《我的名字》因类似《飓风营救》的剧情在Netflix上热度飙升。该剧改编自同名网漫，原作曾因包含暴力、性犯罪等敏感内容引发争议，如今随着剧集走红，相关争议再次浮出水面。",
-    "extracted_at": "2026-07-06T16:17:20.641876+08:00"
+    "summary_zh": "据《韩国先驱报》报道，Netflix原创韩剧《我的名字》（My Name）近期在平台热度飙升，该剧被媒体形容为类似电影《飓风营救》的动作复仇故事。然而，随着剧集走红，其改编自的同名网络漫画（webtoon）的旧有争议再次被提及。原作曾因包含暴力、黑帮元素以及部分情节被指美化犯罪、对女性角色刻画不当而引发批评。目前，Netflix及制作方尚未就争议作出正式回应。",
+    "extracted_at": "2026-07-06T23:24:42.532999+08:00"
   },
   {
     "source_id": "soompi",
@@ -458,11 +692,11 @@
     "risk_level": "高",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：2025年7月6日，KARD所属社DSPmedia发布声明，宣布组合将解散",
-      "事实点2：KARD将发行最后专辑《Where To Now? (Part.2) : NOWHERE》"
+      "KARD所属社DSPmedia于7月6日发布声明，宣布组合将解散",
+      "KARD将发行最后专辑《Where To Now? (Part.2) : NOWHERE》"
     ],
-    "summary_zh": "KARD宣布解散。7月6日，组合所属社DSPmedia发布声明，感谢粉丝支持，并确认KARD将发行最后专辑《Where To Now? (Part.2) : NOWHERE》后各自发展。",
-    "extracted_at": "2026-07-06T16:17:22.821097+08:00"
+    "summary_zh": "KARD所属社DSPmedia于7月6日发布声明，宣布组合将解散，并感谢粉丝支持。KARD将发行最后专辑《Where To Now? (Part.2) : NOWHERE》。",
+    "extracted_at": "2026-07-06T23:24:44.838518+08:00"
   },
   {
     "source_id": "soompi",
@@ -477,7 +711,7 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "安普贤《Flex X Cop 2》剧照公开，海外卧底追捕嫌犯",
+    "title_zh": "安普贤《Flex X Cop 2》剧照公开，海外卧底追捕嫌疑人",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
@@ -486,8 +720,8 @@
       "安普贤继续饰演财阀三代陈利洙，利用财富和人脉破案",
       "郑恩彩新加盟饰演资深刑警"
     ],
-    "summary_zh": "《Flex X Cop》第二季公开安普贤角色剧照，他将继续饰演财阀三代陈利洙，利用财富和人脉破案。新一季中他将前往海外卧底追捕嫌犯。郑恩彩新加盟饰演资深刑警。",
-    "extracted_at": "2026-07-06T16:17:25.474504+08:00"
+    "summary_zh": "《Flex X Cop》第二季公开安普贤角色剧照，他将再次饰演财阀三代陈利洙，利用财富和人脉破案。新一季中，安普贤将前往海外卧底追捕嫌疑人。郑恩彩新加盟饰演资深刑警。",
+    "extracted_at": "2026-07-06T23:24:47.440077+08:00"
   },
   {
     "source_id": "soompi",
@@ -508,10 +742,10 @@
     "is_blurred": false,
     "facts_list": [
       "tvN新剧《我的本命，我的老板》公开三位主演的三角关系海报",
-      "该剧改编自同名网漫，讲述为见本命偶像而入公司的南多凛与公司CEO姜河基之间的浪漫故事"
+      "该剧改编自同名网漫，讲述为见本命偶像而入职公司的南多凛与公司CEO姜河基之间的浪漫故事"
     ],
-    "summary_zh": "tvN新剧《我的本命，我的老板》公开三角关系海报，金惠奫饰演的南多凛为见本命偶像而入公司，与CEO姜河基（由某演员饰演）展开浪漫故事。该剧改编自同名网漫。",
-    "extracted_at": "2026-07-06T16:17:28.208506+08:00"
+    "summary_zh": "tvN新剧《我的本命，我的老板》公开了三位主演的三角关系海报。该剧改编自同名网漫，讲述为见本命偶像而入职公司的南多凛与公司CEO姜河基之间的浪漫故事。",
+    "extracted_at": "2026-07-06T23:24:50.131106+08:00"
   },
   {
     "source_id": "soompi",
@@ -531,11 +765,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "7月5日，JTBC《重生菜鸟》播出大结局，ITZY成员Ryujin惊喜客串",
-      "据尼尔森韩国数据，大结局全国平均收视率达13.6%，创该剧自身最高纪录"
+      "JTBC《重生菜鸟》于7月5日播出大结局，全国平均收视率13.6%，创自身最高纪录",
+      "大结局中ITZY成员Ryujin惊喜客串"
     ],
-    "summary_zh": "JTBC热门剧集《重生菜鸟》于7月5日播出大结局，以13.6%的全国平均收视率创下自身最高纪录，ITZY成员Ryujin在最后一集中惊喜客串。",
-    "extracted_at": "2026-07-06T16:17:30.457822+08:00"
+    "summary_zh": "JTBC热门剧集《重生菜鸟》于7月5日播出大结局，根据尼尔森韩国数据，该集全国平均收视率达到13.6%，创下该剧自身最高收视纪录。大结局中还包含了ITZY成员Ryujin的惊喜客串。",
+    "extracted_at": "2026-07-06T23:24:52.614179+08:00"
   },
   {
     "source_id": "soompi",
@@ -550,17 +784,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "KCM将于10月4日举办迟来的婚礼仪式",
+    "title_zh": "KCM将于10月4日与妻子补办婚礼",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "KCM于2019年法律登记结婚，时隔5年将举办婚礼仪式",
-      "所属社A2Z Entertainment于7月6日宣布婚礼将于10月4日下午5点在首尔Sebitseom浮岛举行",
-      "KCM表示很高兴能履行承诺"
+      "KCM于2019年7月6日通过所属社A2Z Entertainment宣布，将于10月4日下午5点在首尔Sebitseom浮岛举行婚礼",
+      "KCM与妻子在法律上登记结婚已五年，此次为补办婚礼仪式"
     ],
-    "summary_zh": "KCM在2019年法律登记结婚五年后，终于宣布将于10月4日下午5点在首尔Sebitseom浮岛举办婚礼仪式。其所属社A2Z Entertainment于7月6日发布此消息，KCM表示很高兴能履行承诺。",
-    "extracted_at": "2026-07-06T16:17:32.552236+08:00"
+    "summary_zh": "KCM的所属社A2Z Entertainment于7月6日宣布，KCM将于10月4日下午5点在首尔Sebitseom浮岛举行婚礼。KCM在法律上登记结婚已五年，此次补办婚礼仪式，他表示很高兴能履行承诺。",
+    "extracted_at": "2026-07-06T23:24:54.906428+08:00"
   },
   {
     "source_id": "soompi",
@@ -581,11 +814,11 @@
     "is_blurred": false,
     "facts_list": [
       "tvN新剧《我的本命是老板》发布特别“应援棒开箱”预告",
-      "该剧改编自同名网络漫画，讲述为见偶像而入职公司的南多凛与CEO姜河基之间的浪漫故事",
-      "预告中金惠奫（饰南多凛）开箱应援棒和未来老板的小卡"
+      "该剧改编自同名网络漫画，讲述为见偶像加入公司的南多凛与CEO姜河基之间的浪漫故事",
+      "预告中金惠奫展示应援棒和未来老板的拍立得小卡"
     ],
-    "summary_zh": "tvN新剧《我的本命是老板》发布特别“应援棒开箱”预告。该剧改编自同名网络漫画，讲述为见偶像而入职公司的南多凛（金惠奫饰）与CEO姜河基之间的浪漫故事。预告中金惠奫开箱应援棒和未来老板的小卡。",
-    "extracted_at": "2026-07-06T16:17:35.295345+08:00"
+    "summary_zh": "tvN新剧《我的本命是老板》发布特别“应援棒开箱”预告，主演金惠奫在预告中展示应援棒和未来老板的拍立得小卡。该剧改编自同名网络漫画，讲述为见偶像加入公司的南多凛与CEO姜河基之间的浪漫故事。",
+    "extracted_at": "2026-07-06T23:24:57.773206+08:00"
   },
   {
     "source_id": "soompi",
@@ -600,7 +833,7 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《最后一排的笔记》与《特工金重启》登顶本周最具话题剧集及演员榜",
+    "title_zh": "《最后一排的笔记》与《特工金重启》登顶最具话题剧集及演员榜",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
@@ -609,8 +842,8 @@
       "《特工金重启》在演员话题榜中占据领先位置",
       "Good Data Corporation通过收集数据确定每周排名"
     ],
-    "summary_zh": "本周，Netflix剧集《最后一排的笔记》在Good Data Corporation发布的最具话题剧集榜单中空降第1名，而《特工金重启》则在演员话题榜中占据领先位置。该排名基于数据收集得出。",
-    "extracted_at": "2026-07-06T16:17:37.862131+08:00"
+    "summary_zh": "本周，Netflix剧集《最后一排的笔记》在Good Data Corporation发布的最具话题剧集榜单中空降第1名，同时《特工金重启》在演员话题榜上表现突出。该排名基于数据收集得出。",
+    "extracted_at": "2026-07-06T23:25:00.456151+08:00"
   },
   {
     "source_id": "soompi",
@@ -634,7 +867,7 @@
       "《重生新人》讲述顶级财阀Choiseong集团会长姜勇浩（孙贤周饰）在事故后灵魂互换，经历不想要的第二次人生的故事"
     ],
     "summary_zh": "ITZY成员申留真在JTBC电视剧《重生新人》大结局中惊喜客串。该剧由孙贤周主演，讲述财阀会长姜勇浩在事故后灵魂互换，开启意外第二人生的故事。",
-    "extracted_at": "2026-07-06T16:17:39.960935+08:00"
+    "extracted_at": "2026-07-06T23:25:02.885102+08:00"
   },
   {
     "source_id": "soompi",
@@ -657,8 +890,8 @@
       "7月5日（当地时间），Billboard宣布ATEEZ迷你专辑《GOLDEN HOUR : Part.5》在Billboard 200专辑榜空降第1名",
       "ATEEZ成为2020年代（十年内）拥有最多Billboard 200前十专辑的组合"
     ],
-    "summary_zh": "据Billboard 7月5日报道，ATEEZ的新迷你专辑《GOLDEN HOUR : Part.5》在Billboard 200专辑榜空降第1名，同时ATEEZ成为2020年代（十年内）拥有最多Billboard 200前十专辑的组合。",
-    "extracted_at": "2026-07-06T16:17:42.477860+08:00"
+    "summary_zh": "7月5日，Billboard宣布ATEEZ新迷你专辑《GOLDEN HOUR : Part.5》空降Billboard 200专辑榜冠军。同时，ATEEZ创下纪录，成为2020年代（十年内）拥有最多Billboard 200前十专辑的组合。",
+    "extracted_at": "2026-07-06T23:25:05.594593+08:00"
   },
   {
     "source_id": "soompi",
@@ -678,11 +911,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "ENHYPEN将于8月21日发行迷你专辑《THE SIN : BLISS》，这是他们以六人组进行的首次回归",
-      "7月5日，ENHYPEN公开了详细的宣传日程表"
+      "ENHYPEN将于8月21日发行新迷你专辑《THE SIN : BLISS》",
+      "这是ENHYPEN以六人组形式进行的首次回归",
+      "7月5日，ENHYPEN发布了详细的宣传日程表"
     ],
-    "summary_zh": "ENHYPEN公开了回归前的日程安排，他们将以六人组形式于8月21日发行迷你专辑《THE SIN : BLISS》。7月5日，组合发布了详细的宣传日历。",
-    "extracted_at": "2026-07-06T16:17:44.593067+08:00"
+    "summary_zh": "ENHYPEN公开了回归前的详细日程安排，他们将以六人组形式于8月21日发行新迷你专辑《THE SIN : BLISS》。7月5日，组合发布了宣传日历，预告了回归前的各项活动。",
+    "extracted_at": "2026-07-06T23:25:07.721173+08:00"
   },
   {
     "source_id": "soompi",
@@ -697,18 +931,18 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "CORTIS、LE SSERAFIM、aespa、BTS、ILLIT、BOYNEXTDOOR、Stray Kids、TXT等横扫公告牌世界专辑榜",
+    "title_zh": "CORTIS、LE SSERAFIM、aespa、BTS、ILLIT等横扫公告牌世界专辑榜",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "公告牌发布截至6月27日当周的世界专辑榜",
-      "CORTIS凭借最新EP《GREENGREEN》在发行第八周回升至第1名",
-      "CORTIS的出道EP《COLOR OUTSIDE THE LINES》排名上升",
-      "LE SSERAFIM、aespa、BTS、ILLIT、BOYNEXTDOOR、Stray Kids、TXT等艺人/组合也进入榜单前列"
+      "CORTIS最新EP《GREENGREEN》在榜第八周回升至第1名",
+      "CORTIS出道EP《COLOR OUTSIDE THE LINES》排名上升",
+      "LE SSERAFIM、aespa、BTS、ILLIT、BOYNEXTDOOR、Stray Kids、TXT等也进入榜单前列"
     ],
-    "summary_zh": "公告牌发布截至6月27日当周的世界专辑榜，CORTIS凭借最新EP《GREENGREEN》在发行第八周回升至第1名，其出道EP《COLOR OUTSIDE THE LINES》排名也上升。此外，LE SSERAFIM、aespa、BTS、ILLIT、BOYNEXTDOOR、Stray Kids、TXT等艺人/组合也进入榜单前列。",
-    "extracted_at": "2026-07-06T16:17:47.310584+08:00"
+    "summary_zh": "公告牌发布截至6月27日当周的世界专辑榜，CORTIS凭借最新EP《GREENGREEN》在榜第八周回升至第1名，其出道EP《COLOR OUTSIDE THE LINES》排名也上升。此外，LE SSERAFIM、aespa、BTS、ILLIT、BOYNEXTDOOR、Stray Kids、TXT等艺人同样占据榜单高位。",
+    "extracted_at": "2026-07-06T23:25:10.523771+08:00"
   },
   {
     "source_id": "soompi",
@@ -723,16 +957,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "DAY6 Young K 7月27日携正规二辑《YOUNGEST》回归",
+    "title_zh": "DAY6 Young K 公开正规二辑《YOUNGEST》预告，7月27日回归",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "7月6日午夜KST，Young K公开第二张正规专辑《YOUNGEST》首张预告照",
+      "7月6日午夜KST，Young K公开第二张正规专辑《YOUNGEST》首张预告",
       "专辑《YOUNGEST》将于7月27日下午6点KST发行"
     ],
-    "summary_zh": "DAY6成员Young K于7月6日午夜KST公开第二张正规专辑《YOUNGEST》的首张预告照，宣布将于7月27日下午6点KST正式回归。",
-    "extracted_at": "2026-07-06T16:17:49.420266+08:00"
+    "summary_zh": "DAY6成员Young K于7月6日午夜KST公开第二张正规专辑《YOUNGEST》的首张预告，宣布回归。该专辑将于7月27日下午6点KST正式发行。",
+    "extracted_at": "2026-07-06T23:25:12.727059+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -750,12 +984,12 @@
     "title_zh": "从K-Pop到GDP：BTS的经济学分析",
     "source_type": "韩娱",
     "risk_level": "低",
-    "is_blurred": true,
+    "is_blurred": false,
     "facts_list": [
-      "原文未提及具体行为，仅称：探讨BTS对韩国经济的影响"
+      "StratNews Global发布文章《From K-Pop To GDP: The Economics Of BTS》，分析BTS对韩国经济的影响"
     ],
-    "summary_zh": "原文未提及具体行为，仅称：文章从经济学角度分析BTS对韩国GDP的贡献，但未提供具体数据或事实。",
-    "extracted_at": "2026-07-06T16:17:51.018406+08:00"
+    "summary_zh": "StratNews Global发布文章，从经济学角度分析BTS对韩国GDP的贡献，探讨K-Pop产业的经济效应。",
+    "extracted_at": "2026-07-06T23:25:14.447079+08:00"
   },
   {
     "source_id": "asianwiki",
