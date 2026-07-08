@@ -1,5 +1,171 @@
 [
   {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Actor Lee Jung Hyun Confirms Marriage Plans",
+    "url": "https://www.soompi.com/article/1853136wpp/actor-lee-jung-hyun-confirms-marriage-plans",
+    "content": "Actor Lee Jung Hyun will be tying the knot this year! On July 8, a media outlet reported that Lee Jung Hyun will hold his wedding ceremony at a location in Seoul this coming December. In response to the report, EPLE ENT confirmed his marriage plans alongside the news of signing an exclusive contract with&#8230; Continue reading Actor Lee Jung Hyun Confirms Marriage Plans\nThe post Actor Lee Jung Hyun Confirms Marriage Plans appeared first on Soompi.",
+    "published_at": "0708soompi",
+    "published_ts": 1783487619.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "演员李廷贤确认结婚计划，12月举行婚礼",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "7月8日，媒体报道李廷贤将于12月在首尔某处举行婚礼",
+      "所属社EPLE ENT确认结婚计划，并同时宣布与其签订专属合约"
+    ],
+    "summary_zh": "演员李廷贤将于今年12月在首尔某处举行婚礼。7月8日，媒体报道后，所属社EPLE ENT确认了结婚计划，并同时宣布与李廷贤签订专属合约。",
+    "extracted_at": "2026-07-08T14:25:00.825958+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "A K-pop idol breaks down the math behind why your favorite star might be broke - Business Insider",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSWNqZWN2Qmpva3ZrUk5ac3IyOTQ5TU94NlNOMk5Ta3Z2ZzczaUNoOG9IUzRFZUFCYXhCWnFnejFZbWlhNElBTHgzZExxU1NVd2VjbmJxbGgxUy1GNEphdU5VczBiOFhrY3oyQm9UdXM2N2NadVVtYUxZeHJPUUExUHZreERNdw?oc=5",
+    "content": "A K-pop idol breaks down the math behind why your favorite star might be broke Business Insider",
+    "published_at": "0708google-kpop",
+    "published_ts": 1783487082.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "K-pop偶像解析：为何你喜欢的明星可能负债累累",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Business Insider报道，一位K-pop偶像通过数学计算分析偶像可能面临财务困境的原因",
+      "报道指出，偶像收入需与公司分成，且训练期间债务需偿还，导致实际收入有限"
+    ],
+    "summary_zh": "Business Insider报道，一位K-pop偶像通过数学计算揭示了偶像可能面临财务困境的原因。报道指出，偶像收入需与经纪公司分成，且训练期间产生的债务需从后续收入中偿还，导致许多偶像实际收入有限，甚至负债。",
+    "extracted_at": "2026-07-08T14:25:03.678056+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Could This New Eco-Friendly Trend Completely Change How You Buy K-Pop Merch? - Dojeon Media",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRjhyQ25LM1NVclZyZTU1Mm5uSnBnWFZkeEFadkU0OUFQNkd2RFJEUzBTd193SkU5OExMQU5JSTZGWDBpVmJmSm1qZl9QYnhHeUxiYTJTTHRPd0cyWEtCNnQ3V0xWdFF1T1lqY1MxOV9nWjJoMm5vSjFfdjJNLTVtSGlwZ21jOElfT2ZUVlhjLXhDR2FnT0pkLWkzUkdOUjVobFM5SzJDVnAyU3Nu?oc=5",
+    "content": "Could This New Eco-Friendly Trend Completely Change How You Buy K-Pop Merch? Dojeon Media",
+    "published_at": "0708google-kpop",
+    "published_ts": 1783486829.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "环保新趋势或彻底改变K-Pop周边购买方式",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [],
+    "summary_zh": "[原文未提及具体行为，仅称：一种新的环保趋势可能彻底改变K-Pop周边的购买方式]",
+    "extracted_at": "2026-07-08T14:25:05.532216+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "The East Palace: Occult, Fantasy, Action K-Drama - 조선일보",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV0RhV3h1bFBCTmJPRkpqVFVxbEVwUmlhVWpyZUZuQlBQWE5uYWFmOThTeWd5d2lLd245VVZoSEpGcEJVTk1DeEdPbk1USWs3VXJrS2M3SzZqakM1VGVxSDZhZVk5Zkk0UmNwd19JWGZXcTZTYkRITmoycnRwMEVranZJeEdwSUpLeGVJcy1B?oc=5",
+    "content": "The East Palace: Occult, Fantasy, Action K-Drama 조선일보",
+    "published_at": "0708google-kpop",
+    "published_ts": 1783485226.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《东宫》：朝鲜日报报道的灵异奇幻动作韩剧",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "朝鲜日报报道了一部名为《东宫》的韩剧",
+      "该剧类型为灵异、奇幻、动作"
+    ],
+    "summary_zh": "据朝鲜日报报道，一部名为《东宫》的韩剧被归类为灵异、奇幻、动作类型。",
+    "extracted_at": "2026-07-08T14:25:07.611936+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "11 C-Dramas Starring Actors With K-Pop Roots",
+    "url": "https://www.soompi.com/article/1852292wpp/11-c-dramas-starring-actors-with-k-pop-roots",
+    "content": "There are many Chinese actors who first began their careers as K-pop idols before returning to China to pursue acting full-time, while others actually started out in the Chinese entertainment industry as actors and later stepped onto the K-pop stage. At the same time, there are also those who continue to balance both worlds, moving&#8230; Continue reading 11 C-Dramas Starring Actors With K-Pop Roots\nThe post 11 C-Dramas Starring Actors With K-Pop Roots appeared first on Soompi.",
+    "published_at": "0708soompi",
+    "published_ts": 1783485035.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "11部由K-pop出身演员主演的中国电视剧",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "文章列举了11部中国电视剧，主演包括从K-pop偶像转型的演员，或同时活跃于K-pop和中文演艺圈的演员。",
+      "具体演员和剧集未在摘要中列出，需阅读全文获取。"
+    ],
+    "summary_zh": "本文介绍了11部中国电视剧，这些剧集的主演具有K-pop背景，包括从K-pop偶像转型为全职演员的中国人，以及同时活跃于K-pop和中文演艺圈的艺人。文章未提供具体演员和剧集名称，需点击原文查看完整列表。",
+    "extracted_at": "2026-07-08T14:25:10.557053+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "TWICE’s Sana Confirmed To Make Acting Debut",
+    "url": "https://www.soompi.com/article/1853079wpp/twices-sana-confirmed-to-make-acting-debut",
+    "content": "TWICE&#8217;s Sana is set to take on her first acting role! On July 8, a media outlet reported that Sana will star in the new film &#8220;Nyangi&#8221; (literal title). In response to the report, Sana&#8217;s agency JYP Entertainment confirmed, &#8220;Sana will star as a lead in the film &#8216;Nyangi.'&#8221; &#8220;Nyangi&#8221; is a joint Korea-Japan production&#8230; Continue reading TWICE&#8217;s Sana Confirmed To Make Acting Debut\nThe post TWICE&#8217;s Sana Confirmed To Make Acting Debut appeared first on Soompi.",
+    "published_at": "0708soompi",
+    "published_ts": 1783477932.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "TWICE Sana确认将出演电影《Nyangi》首次挑战演技",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "7月8日，媒体报道TWICE成员Sana将出演新电影《Nyangi》",
+      "Sana所属社JYP娱乐确认：Sana将主演电影《Nyangi》",
+      "《Nyangi》是一部韩日合拍电影"
+    ],
+    "summary_zh": "TWICE成员Sana确认将首次挑战演技，主演韩日合拍电影《Nyangi》。JYP娱乐于7月8日证实了这一消息。",
+    "extracted_at": "2026-07-08T14:25:13.393222+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "CORTIS Unveils Official Light Stick",
+    "url": "https://www.soompi.com/article/1853091wpp/cortis-unveils-official-light-stick",
+    "content": "COER get ready—CORTIS will be releasing their official light stick! On July 8, CORTIS unveiled a teaser showcasing their official light stick, which features a sleek, earthy design with a clear center prominently displaying the group&#8217;s name. Check out the teaser below! Are you excited for the new light stick? CORTIS is currently gearing up&#8230; Continue reading CORTIS Unveils Official Light Stick\nThe post CORTIS Unveils Official Light Stick appeared first on Soompi.",
+    "published_at": "0708soompi",
+    "published_ts": 1783477395.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "CORTIS 公开官方应援棒预告",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "7月8日，CORTIS 公开了官方应援棒预告",
+      "应援棒设计为简约大地色，透明中心突出显示组合名称"
+    ],
+    "summary_zh": "7月8日，CORTIS 公开了官方应援棒预告。应援棒采用简约大地色设计，透明中心突出显示组合名称。组合目前正在准备回归。",
+    "extracted_at": "2026-07-08T14:25:16.117566+08:00"
+  },
+  {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
@@ -17,10 +183,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "泰民将参加在波兰举行的K-pop演唱会"
+      "泰民将参加在波兰举行的K-pop演唱会",
+      "该消息由《韩国先驱报》报道"
     ],
-    "summary_zh": "据《韩国先驱报》报道，SHINee成员泰民将参加在波兰举行的一场K-pop演唱会。具体演出日期和地点尚未公布。",
-    "extracted_at": "2026-07-08T10:21:54.343381+08:00"
+    "summary_zh": "据《韩国先驱报》报道，SHINee成员泰民将参加在波兰举行的K-pop演唱会。具体演出时间和地点尚未公布。",
+    "extracted_at": "2026-07-08T14:25:18.205055+08:00"
   },
   {
     "source_id": "soompi",
@@ -41,11 +208,11 @@
     "is_blurred": false,
     "facts_list": [
       "SBS发布了《Flex X Cop》第二季的角色海报",
-      "安普贤继续饰演财阀三代继承人陈伊秀，利用财富和人脉解决案件",
-      "郑恩彩新加入第二季"
+      "安普贤将继续饰演第三代财阀继承人Jin Yi Soo，在调查陷入僵局时利用财富和人脉如同作弊码",
+      "郑恩彩将加入第二季"
     ],
-    "summary_zh": "SBS发布了《Flex X Cop》第二季的角色海报。安普贤将继续饰演财阀三代继承人陈伊秀，他利用财富和人脉像作弊码一样解决案件。郑恩彩将加入第二季，与安普贤饰演性格迥异的搭档。",
-    "extracted_at": "2026-07-08T10:21:56.542535+08:00"
+    "summary_zh": "SBS发布了《Flex X Cop》第二季的角色海报。安普贤将继续饰演第三代财阀继承人Jin Yi Soo，他在调查陷入僵局时利用财富和人脉如同作弊码。郑恩彩将加入第二季，与安普贤饰演性格迥异的搭档。",
+    "extracted_at": "2026-07-08T14:25:20.637487+08:00"
   },
   {
     "source_id": "soompi",
@@ -60,17 +227,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "ATEEZ成员Yunho与圈外女友分手，所属社确认",
+    "title_zh": "ATEEZ成员Yunho确认与长期女友分手",
     "source_type": "韩娱",
     "risk_level": "中",
     "is_blurred": false,
     "facts_list": [
-      "7月8日，MHN Sports报道Yunho与圈外女友分手",
-      "报道称两人在学生时期是朋友，后发展为恋人，约三个月前分手",
-      "ATEEZ所属社确认分手消息"
+      "7月8日，MHN Sports报道Yunho与圈外女友分手约三个月",
+      "ATEEZ所属社确认分手消息",
+      "报道称两人从学生时代起就是朋友，后发展为恋人"
     ],
-    "summary_zh": "ATEEZ成员Yunho被曝与圈外女友分手，所属社确认消息。据7月8日MHN Sports报道，两人在学生时期是朋友，后发展为恋人，约三个月前结束关系。",
-    "extracted_at": "2026-07-08T10:21:59.286014+08:00"
+    "summary_zh": "ATEEZ成员Yunho被确认与长期交往的圈外女友分手。据7月8日MHN Sports报道，两人已于约三个月前结束恋情，所属社随后证实了这一消息。报道称，两人从学生时代起就是朋友，后发展为恋人。",
+    "extracted_at": "2026-07-08T14:25:23.244226+08:00"
   },
   {
     "source_id": "soompi",
@@ -85,16 +252,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《Doctor on the Edge》大结局创自身最高收视，《明天见！》跌至最低",
+    "title_zh": "《Doctor on the Edge》大结局收视创新高，《明天见！》跌至最低",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "7月7日，ENA剧集《Doctor on the Edge》播出大结局，根据尼尔森韩国数据，全国平均收视率为5.9%，创下该剧自身最高纪录",
-      "同一天，《明天见！》收视率跌至开播以来最低"
+      "7月7日，ENA剧集《Doctor on the Edge》播出大结局，收视率创自身最高",
+      "据尼尔森韩国数据，该集全国平均收视率为5.9%",
+      "另一剧集《明天见！》收视率跌至开播以来最低"
     ],
-    "summary_zh": "ENA剧集《Doctor on the Edge》于7月7日播出大结局，根据尼尔森韩国数据，全国平均收视率达5.9%，创下该剧自身最高收视纪录。与此同时，《明天见！》收视率跌至开播以来最低。",
-    "extracted_at": "2026-07-08T10:22:01.838801+08:00"
+    "summary_zh": "ENA剧集《Doctor on the Edge》于7月7日播出大结局，以全国平均收视率5.9%创下自身最高纪录。与此同时，另一剧集《明天见！》收视率跌至开播以来最低。",
+    "extracted_at": "2026-07-08T14:25:26.023929+08:00"
   },
   {
     "source_id": "soompi",
@@ -109,17 +277,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "孔孝真新剧《杀人者的购物中心》主海报公开，饰演致命狙击手",
+    "title_zh": "孔孝真新剧《杀人者的购物中心》公开主海报，饰演致命狙击手",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "MBC新剧《杀人者的购物中心》公开主海报",
+      "MBC新剧《A Bona Fide Killer》（暂译：杀人者的购物中心）公开主海报",
       "孔孝真饰演的俞宝娜是一名职场母亲，同时是致命狙击手",
       "该剧是孔孝真15年来首次出演MBC电视剧"
     ],
-    "summary_zh": "MBC新剧《杀人者的购物中心》公开主海报，该剧是一部关于职场母亲为保护工作与生活平衡而战斗的动作剧。孔孝真饰演俞宝娜，一名致命狙击手，这是她15年来首次出演MBC电视剧。",
-    "extracted_at": "2026-07-08T10:22:04.460162+08:00"
+    "summary_zh": "MBC新剧《A Bona Fide Killer》（暂译：杀人者的购物中心）公开主海报。该剧是一部动作剧，讲述一位拥有致命工作的职场母亲为保护工作与生活平衡而奋斗的故事。孔孝真饰演俞宝娜，这是她15年来首次出演MBC电视剧。",
+    "extracted_at": "2026-07-08T14:25:28.927867+08:00"
   },
   {
     "source_id": "soompi",
@@ -134,42 +302,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "金惠奫在《我的偏见，我的老板》预告中面临选择：姜勋还是车宇旻？",
+    "title_zh": "金惠奫在《我的偏见，我的老板》预告中面临姜勋与车宇旻的选择",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "tvN发布新剧《我的偏见，我的老板》三角恋预告",
-      "该剧改编自同名网漫，讲述为见偶像加入公司的南多凛与CEO姜河基之间的爱情故事",
+      "该剧改编自同名网络漫画，讲述为见偶像加入公司的南多凛与CEO姜河基之间的爱情故事",
       "预告中金惠奫饰演的角色必须在姜勋和车宇旻之间做出选择"
     ],
-    "summary_zh": "tvN公开了即将播出的电视剧《我的偏见，我的老板》的“三角恋预告”。该剧改编自同名网漫，讲述了为见偶像而加入公司的南多凛与公司CEO姜河基之间的爱情故事。预告中，金惠奫饰演的角色必须在姜勋和车宇旻之间做出选择。",
-    "extracted_at": "2026-07-08T10:22:07.473597+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "K-pop Idols, Celebrities Face Ilbe Scrutiny Over Phrases, Numbers - 조선일보",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVjZHQ0dJX0NVT2pvSUVGSThCOXNjX2Fubmp2SEZobFdadW5tb0phSXVWalFVRUpvOGhIWTVfUS1OQXFxamh3aHFjdW9sYmtiZFpzUXJqTXZ2QzAtRzJRWVZ0cTE3a3I3TDV4blg4UjhFZWhmUmYzWmJMWW1FcWR0LTZpTElKeUhNM0ktbQ?oc=5",
-    "content": "K-pop Idols, Celebrities Face Ilbe Scrutiny Over Phrases, Numbers 조선일보",
-    "published_at": "0708google-kpop",
-    "published_ts": 1783465832.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "K-pop偶像与名人因特定短语和数字被指与Ilbe有关联",
-    "source_type": "韩娱",
-    "risk_level": "中",
-    "is_blurred": false,
-    "facts_list": [
-      "韩国网络社区Ilbe用户对K-pop偶像和名人使用的特定短语和数字进行审查，试图找出其与Ilbe的关联",
-      "被审查的短语和数字包括'ㅇㅇ'、'ㅗㅗ'、'ㅅㅅ'、'ㅂㅂ'、'ㅈㅈ'、'ㅎㅎ'、'ㅋㅋ'、'ㅌㅌ'、'ㅊㅊ'、'ㅍㅍ'、'ㅁㅁ'、'ㄱㄱ'、'ㄴㄴ'、'ㄷㄷ'、'ㄹㄹ'、'ㅁㅁ'、'ㅂㅂ'、'ㅅㅅ'、'ㅇㅇ'、'ㅈㅈ'、'ㅊㅊ'、'ㅋㅋ'、'ㅌㅌ'、'ㅍㅍ'、'ㅎㅎ'等，以及数字如'74'、'88'、'96'、'97'、'98'、'99'等",
-      "该现象由朝鲜日报报道，指出Ilbe用户试图通过解读这些符号和数字来指控名人属于该社区"
-    ],
-    "summary_zh": "据朝鲜日报报道，韩国网络社区Ilbe的用户正在对K-pop偶像和名人使用的特定短语和数字进行审查，试图找出其与Ilbe的关联。被审查的包括一系列韩文双音节缩写和数字，如'ㅇㅇ'、'ㅗㅗ'、'74'、'88'等。这一现象引发了公众对网络审查和名人隐私的关注。",
-    "extracted_at": "2026-07-08T10:22:11.958760+08:00"
+    "summary_zh": "tvN为即将播出的新剧《我的偏见，我的老板》发布了新的三角恋预告。该剧改编自同名网络漫画，讲述为见偶像加入公司的南多凛与CEO姜河基之间的爱情故事。预告中金惠奫饰演的角色必须在姜勋和车宇旻之间做出选择。",
+    "extracted_at": "2026-07-08T14:25:32.063549+08:00"
   },
   {
     "source_id": "soompi",
@@ -184,16 +327,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "李贤与BIGHIT MUSIC续约，延续19年合作",
+    "title_zh": "李贤与BIGHIT MUSIC续约，延续19年情谊",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "7月8日，BIGHIT MUSIC官方宣布李贤已与公司续签专属合约",
-      "李贤于2007年作为混声组合8Eight成员出道，与BIGHIT MUSIC合作已19年"
+      "7月8日，BIGHIT MUSIC官方宣布李贤已完成续约",
+      "李贤自2007年以混声组合8Eight成员出道，与BIGHIT MUSIC合作已19年"
     ],
     "summary_zh": "7月8日，BIGHIT MUSIC正式宣布旗下歌手李贤已续签专属合约。李贤于2007年作为混声组合8Eight成员出道，与公司合作已长达19年。",
-    "extracted_at": "2026-07-08T10:22:14.625734+08:00"
+    "extracted_at": "2026-07-08T14:25:34.435336+08:00"
   },
   {
     "source_id": "soompi",
@@ -208,7 +351,7 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "朴恩斌、梁世宗新剧《鬼之爱》预告公开，携手调查未解案件坠入爱河",
+    "title_zh": "朴恩斌、梁世宗新剧《鬼之爱》预告：携手调查未解悬案坠入爱河",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
@@ -216,10 +359,10 @@
       "tvN新剧《鬼之爱》发布新预告",
       "该剧翻拍自2011年电影《Spellbound》",
       "剧情讲述能看见鬼的酒店继承人与害怕鬼的检察官之间的混乱合作",
-      "预告中朴恩斌饰演的酒店继承人与梁世宗饰演的检察官开始调查未解案件"
+      "预告中朴恩斌饰演的酒店继承人与梁世宗饰演的检察官在调查未解案件时相爱"
     ],
-    "summary_zh": "tvN新剧《鬼之爱》公开新预告，该剧翻拍自2011年电影《Spellbound》，是一部灵异浪漫剧，讲述能看见鬼的酒店继承人（朴恩斌饰）与害怕鬼的检察官（梁世宗饰）在调查未解案件过程中坠入爱河的故事。",
-    "extracted_at": "2026-07-08T10:22:17.398123+08:00"
+    "summary_zh": "tvN新剧《鬼之爱》发布新预告，该剧翻拍自2011年电影《Spellbound》，是一部灵异浪漫剧，讲述能看见鬼的酒店继承人（朴恩斌饰）与害怕鬼的检察官（梁世宗饰）在调查未解案件时相爱的故事。",
+    "extracted_at": "2026-07-08T14:25:37.437246+08:00"
   },
   {
     "source_id": "soompi",
@@ -240,12 +383,12 @@
     "is_blurred": false,
     "facts_list": [
       "ATEEZ最新迷你专辑《GOLDEN HOUR : Part.5》在Billboard 200空降第1名",
-      "该专辑创下ATEEZ在美国单周最大销量纪录",
+      "该专辑创下ATEEZ在美国最大周销量纪录",
       "ATEEZ成为拥有最多Billboard 200前十专辑的组合",
-      "ATEEZ共登上4个Billboard榜单第1名"
+      "专辑共登上4个Billboard榜单第1名"
     ],
-    "summary_zh": "ATEEZ凭借最新迷你专辑《GOLDEN HOUR : Part.5》在Billboard 200空降第1名，创下该组合在美国单周最大销量纪录，并成为拥有最多Billboard 200前十专辑的组合。此外，该专辑还登顶其他3个Billboard榜单，共获得4个榜单第1名。",
-    "extracted_at": "2026-07-08T10:22:20.108370+08:00"
+    "summary_zh": "ATEEZ凭借最新迷你专辑《GOLDEN HOUR : Part.5》在Billboard 200空降第1名，创下组合在美国最大周销量纪录，并成为拥有最多Billboard 200前十专辑的组合。该专辑共登上4个Billboard榜单第1名。",
+    "extracted_at": "2026-07-08T14:25:40.164650+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -268,8 +411,8 @@
       "游戏《K-Pop Rising: Dream to Shine》现已开放预购",
       "预购平台为 Restart.run"
     ],
-    "summary_zh": "K-Pop 题材游戏《K-Pop Rising: Dream to Shine》现已在 Restart.run 平台开启预购。",
-    "extracted_at": "2026-07-08T10:22:22.141467+08:00"
+    "summary_zh": "K-Pop 主题游戏《K-Pop Rising: Dream to Shine》现已在 Restart.run 平台开启预购。",
+    "extracted_at": "2026-07-08T14:25:42.263105+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -284,17 +427,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "格莱美突然面临K-pop难题：提名规则与粉丝文化冲突",
+    "title_zh": "格莱美突然面临K-pop难题：提名规则引发争议",
     "source_type": "韩娱",
-    "risk_level": "低",
+    "risk_level": "中",
     "is_blurred": false,
     "facts_list": [
-      "格莱美奖在提名规则和评选过程中与K-pop粉丝文化产生冲突",
-      "K-pop粉丝对格莱美提名结果不满，认为存在偏见",
-      "格莱美主办方尚未就K-pop相关争议发表正式声明"
+      "格莱美奖提名规则调整导致K-pop艺人难以获得主要奖项提名",
+      "K-pop粉丝和业界批评格莱美对K-pop存在系统性偏见",
+      "格莱美主办方尚未就K-pop提名问题发表正式回应"
     ],
-    "summary_zh": "据Gold Derby报道，格莱美奖近期因提名规则与K-pop粉丝文化产生冲突，面临所谓的“K-pop难题”。K-pop粉丝对提名结果表示不满，认为存在系统性偏见，但格莱美主办方尚未就此发表正式回应。",
-    "extracted_at": "2026-07-08T10:22:24.816196+08:00"
+    "summary_zh": "据Gold Derby报道，格莱美奖因提名规则调整，导致K-pop艺人难以获得主要奖项提名，引发K-pop粉丝和业界对格莱美系统性偏见的批评。目前格莱美主办方尚未就此问题发表正式回应。",
+    "extracted_at": "2026-07-08T14:25:44.893130+08:00"
   },
   {
     "source_id": "soompi",
@@ -314,11 +457,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "7月7日，所属社YY娱乐宣布朴志训粉丝见面会“RE:FLECT”马尼拉站因不可抗力取消",
+      "7月7日，YY娱乐宣布朴志训粉丝见面会“RE:FLECT”马尼拉站因不可抗力取消",
       "原定8月8日的马尼拉场次取消，改为澳门举行"
     ],
-    "summary_zh": "朴志训所属社YY娱乐于7月7日宣布，原定8月8日在马尼拉举行的粉丝见面会“RE:FLECT”因不可抗力取消，并将活动场地改为澳门。",
-    "extracted_at": "2026-07-08T10:22:27.218329+08:00"
+    "summary_zh": "朴志训所属社YY娱乐于7月7日宣布，原定8月8日在马尼拉举行的粉丝见面会“RE:FLECT”因不可抗力取消，并将场地改为澳门。",
+    "extracted_at": "2026-07-08T14:25:47.217233+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -343,7 +486,7 @@
       "信息来源：PR Newswire"
     ],
     "summary_zh": "K-MUSIC NIGHT 2026活动旨在超越K-Pop的聚光灯，聚焦音乐中的叙事、身份认同与文化交融。该活动由PR Newswire报道，强调韩国音乐在全球化背景下的多元表达。",
-    "extracted_at": "2026-07-08T10:22:29.272508+08:00"
+    "extracted_at": "2026-07-08T14:25:49.599793+08:00"
   },
   {
     "source_id": "soompi",
@@ -363,11 +506,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "7月7日，Billboard公布BLACKPINK成员Jennie与Tame Impala合作的《Dracula》混音版在Pop Airplay榜夺冠",
-      "该曲在Billboard Hot 100榜上刷新了此前的最佳排名"
+      "7月7日，Billboard公布Jennie与Tame Impala合作版《Dracula》在Pop Airplay榜夺冠",
+      "该曲在Billboard Hot 100榜创下新高（具体排名未提及）"
     ],
-    "summary_zh": "BLACKPINK成员Jennie与Tame Impala合作的《Dracula》混音版于7月7日登顶Billboard Pop Airplay榜，这是Jennie首次在该榜单夺冠。同时，该曲在Billboard Hot 100榜上也达到了新的峰值排名。",
-    "extracted_at": "2026-07-08T10:22:31.634654+08:00"
+    "summary_zh": "BLACKPINK成员Jennie与Tame Impala的合作曲《Dracula》于7月7日登上Billboard Pop Airplay榜第一名，这是Jennie首次在该榜单夺冠。同时，该曲在Billboard Hot 100榜也刷新了自身最高排名。",
+    "extracted_at": "2026-07-08T14:25:52.178642+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -382,16 +525,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "防弹少年团七年后重返英国开唱，《卫报》盛赞纯粹快乐与惊人全能",
+    "title_zh": "防弹少年团七年后重返英国开唱，《卫报》盛赞纯粹快乐与惊人多样性",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "防弹少年团在英国举办七年来首场演出",
-      "《卫报》评论称演出展现纯粹快乐与惊人全能"
+      "《卫报》评论称演出展现纯粹快乐与惊人多样性"
     ],
-    "summary_zh": "防弹少年团在英国举办七年来首场演出，《卫报》发表评论，盛赞其表演充满纯粹快乐与惊人全能性。",
-    "extracted_at": "2026-07-08T10:22:33.885190+08:00"
+    "summary_zh": "防弹少年团在英国举办七年来首场演出，《卫报》发表评论，盛赞其表演充满纯粹快乐与惊人多样性。",
+    "extracted_at": "2026-07-08T14:25:54.577725+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -406,16 +549,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "麦当劳开心乐园餐回归热门K-Pop联名合作",
+    "title_zh": "麦当劳开心乐园餐重启人气K-Pop合作",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "麦当劳开心乐园餐重新推出与K-Pop组合的联名合作",
-      "该合作此前曾受到粉丝欢迎"
+      "麦当劳开心乐园餐重新推出与K-Pop的合作活动",
+      "该合作曾受到粉丝喜爱，具体合作对象未在原文中提及"
     ],
-    "summary_zh": "麦当劳宣布其开心乐园餐将再次推出与热门K-Pop组合的联名合作，该合作此前曾受到粉丝欢迎。具体合作组合及细节尚未公布。",
-    "extracted_at": "2026-07-08T10:22:36.105381+08:00"
+    "summary_zh": "麦当劳宣布其开心乐园餐将重新推出与K-Pop的联名合作，该合作此前曾受到粉丝欢迎。具体合作细节及对象尚未在原文中明确说明。",
+    "extracted_at": "2026-07-08T14:25:56.893318+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -430,16 +573,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "(G)I-DLE 发行第九张迷你专辑《We Made》，为 Lollapalooza 演出预热",
+    "title_zh": "(G)I-DLE发行第九张迷你专辑《We Made》，为Lollapalooza演出预热",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "(G)I-DLE 发行第九张迷你专辑《We Made》",
-      "该专辑在 Lollapalooza 音乐节演出前发布"
+      "(G)I-DLE发行第九张迷你专辑《We Made》",
+      "专辑发行时间在Lollapalooza音乐节之前"
     ],
-    "summary_zh": "(G)I-DLE 在参加 Lollapalooza 音乐节之前，发行了第九张迷你专辑《We Made》。",
-    "extracted_at": "2026-07-08T10:22:38.254310+08:00"
+    "summary_zh": "(G)I-DLE在Lollapalooza音乐节演出前，发行了第九张迷你专辑《We Made》。",
+    "extracted_at": "2026-07-08T14:25:59.030129+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -462,7 +605,7 @@
       "Bleeding Cool News 报道：KPop Demon Hunters 最终决战版 Rumi & Jinu 双人套装手办公布"
     ],
     "summary_zh": "据 Bleeding Cool News 报道，KPop Demon Hunters 最终决战版 Rumi & Jinu 双人套装手办已公布。",
-    "extracted_at": "2026-07-08T10:22:40.325052+08:00"
+    "extracted_at": "2026-07-08T14:26:01.222109+08:00"
   },
   {
     "source_id": "asianwiki",
