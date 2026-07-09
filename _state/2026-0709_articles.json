@@ -1,5 +1,296 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "JEON SOMI: A Career In Song Ratings - thebiaslist.com",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ERHU1OWNSdjVmbHdQd0U0VExvWmRNaEZVLVd6ckx4SWhfaE43OUNUVUU1U2NVd2QwREJaU3FJNDk4dlJEd016czBpWmRZY1FBQy1HaXVUSmNwZnlldGtoQjhRdVhWQzdIQlBYNU5SZmpiUGtBT1BzVHlR?oc=5",
+    "content": "JEON SOMI: A Career In Song Ratings thebiaslist.com",
+    "published_at": "0709google-kpop",
+    "published_ts": 1783605672.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "全昭弥歌曲评分回顾：职业生涯数据盘点",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "网站thebiaslist.com发布文章《JEON SOMI: A Career In Song Ratings》，回顾全昭弥职业生涯歌曲评分"
+    ],
+    "summary_zh": "网站thebiaslist.com发布文章，对全昭弥（JEON SOMI）职业生涯中的歌曲评分进行回顾与盘点，具体评分数据及排名需查阅原文。",
+    "extracted_at": "2026-07-09T22:49:26.750053+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Who is G-Dragon? Big Bang leader, producer and K-pop icon explained - Korea JoongAng Daily",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04QXR4dGxSeDdXUnBUQm5aZldxcmNLTFF6V052LWpBNktXWkt5RVI4UW1tdWhrX3JOWW5HV2U3Qkt1R1FyaFIzd1NxczhFakxvQlFkSWhJd29XVlZPSmRmeVFNRk5pbV9jb1lXUW9kSVcwVmVHSVhDcmJZSU4?oc=5",
+    "content": "Who is G-Dragon? Big Bang leader, producer and K-pop icon explained Korea JoongAng Daily",
+    "published_at": "0709google-kpop",
+    "published_ts": 1783603815.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "G-Dragon是谁？BIGBANG队长、制作人、K-pop偶像全面解析",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "文章来自Korea JoongAng Daily，介绍G-Dragon作为BIGBANG队长、制作人和K-pop偶像的身份"
+    ],
+    "summary_zh": "本文来自Korea JoongAng Daily，全面解析G-Dragon（权志龙）作为BIGBANG队长、音乐制作人和K-pop标志性人物的职业生涯与影响力。",
+    "extracted_at": "2026-07-09T22:49:28.822600+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Sombr Misses Out On A New No. 1 Hit As A K-Pop Star Rules Again - Forbes",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQmNUNGlWLXFZV1B3ZVlMT2d4VTE1UFhTSTN1cEUwREtLLXZYZTZOVUFCcXRFdXJieGY5N01qbFJJa09uaXAtZDZEWGUwdV96NU9BZXpYUWRIQTJIUEN1dUNHQ3dvelF2SUNYaWZVbFNFbERHVUdkdzB5eGp0ZGRQY0pWNkpwNmdwQTFVTWJBUEZsbjc3elA5OXp2V3FJVTlEOVpnd0NxbXpHNGdrOHhVcG90Smc4UnM?oc=5",
+    "content": "Sombr Misses Out On A New No. 1 Hit As A K-Pop Star Rules Again Forbes",
+    "published_at": "0709google-kpop",
+    "published_ts": 1783603800.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Sombr错失榜首，K-Pop明星再次登顶Forbes榜单",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Sombr未能获得新的No.1热门歌曲",
+      "一位K-Pop明星再次在Forbes榜单上占据首位"
+    ],
+    "summary_zh": "据Forbes报道，Sombr错失了获得新的No.1热门歌曲的机会，而一位K-Pop明星再次在榜单上占据首位。",
+    "extracted_at": "2026-07-09T22:49:30.796939+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: LE SSERAFIM, ILLIT, And KATSEYE Take 2nd Win For “ICONIC BY MISTAKE” On “M Countdown”; Performances By i-dle, And More",
+    "url": "https://www.soompi.com/article/1853509wpp/watch-le-sserafim-illit-and-katseye-takes-2nd-win-for-iconic-by-mistake-on-m-countdown-performances-by-i-dle-and-more",
+    "content": "LE SSERAFIM, ILLIT, and KATSEYE have won their second music show trophy for their collab single “ICONIC BY MISTAKE&#8220;! On the July 9 episode of &#8220;M Countdown,&#8221; the candidates for first place were LE SSERAFIM, ILLIT, and KATSEYE&#8217;s “ICONIC BY MISTAKE&#8221; and SEVENTEEN’s V8’s “singasong.” LE SSERAFIM, ILLIT, and KATSEYE ultimately took the prize with a total of 6,876&#8230; Continue reading Watch: LE SSERAFIM, ILLIT, And KATSEYE Take 2nd Win For &#8220;ICONIC BY MISTAKE&#8221; On &#8220;M Countdown&#8221;; Performances By i-dle, And More\nThe post Watch: LE SSERAFIM, ILLIT, And KATSEYE Take 2nd Win For &#8220;ICONIC BY MISTAKE&#8221; On &#8220;M Countdown&#8221;; Performances By i-dle, And More appeared first on Soompi.",
+    "published_at": "0709soompi",
+    "published_ts": 1783599645.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "LE SSERAFIM、ILLIT、KATSEYE合作曲《ICONIC BY MISTAKE》获M Countdown二冠王",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "7月9日M Countdown节目中，LE SSERAFIM、ILLIT、KATSEYE的合作曲《ICONIC BY MISTAKE》以总分6876分获得第一名",
+      "这是该合作曲获得的第二个音乐节目一位",
+      "一位候补还包括SEVENTEEN V8的《singasong》"
+    ],
+    "summary_zh": "在7月9日播出的M Countdown中，LE SSERAFIM、ILLIT、KATSEYE的合作单曲《ICONIC BY MISTAKE》以6876分击败SEVENTEEN V8的《singasong》，获得该节目一位，这也是该曲的第二座音乐节目冠军奖杯。",
+    "extracted_at": "2026-07-09T22:49:33.797929+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Byun Yo Han Seeks Revenge After Best Friend Roh Jae Won’s Ultimate Betrayal In “Tazza 4” Teaser",
+    "url": "https://www.soompi.com/article/1853505wpp/watch-byun-yo-han-seeks-revenge-after-best-friend-roh-jae-wons-ultimate-betrayal-in-tazza-4-teaser",
+    "content": "Upcoming film “Tazza 4: The Song of Beelzebub” (working title) is set to hit theaters this Chuseok! On July 9, distributor CJ ENM announced that “Tazza 4: The Song of Beelzebub” will premiere during the Chuseok holiday this September. Returning with a new chapter after six years, “Tazza 4: The Song of Beelzebub” follows Jang&#8230; Continue reading Watch: Byun Yo Han Seeks Revenge After Best Friend Roh Jae Won&#8217;s Ultimate Betrayal In “Tazza 4” Teaser\nThe post Watch: Byun Yo Han Seeks Revenge After Best Friend Roh Jae Won&#8217;s Ultimate Betrayal In “Tazza 4” Teaser appeared first on Soompi.",
+    "published_at": "0709soompi",
+    "published_ts": 1783596341.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《老千4》预告：卞约汉遭至亲背叛，向罗宰元复仇",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "电影《老千4：别西卜之歌》（暂定名）将于今年中秋节（9月）在韩国上映",
+      "发行方CJ ENM于7月9日宣布该片将在中秋节假期首映",
+      "该片是《老千》系列时隔6年的新作",
+      "预告片中卞约汉饰演的角色因好友罗宰元的背叛而寻求复仇"
+    ],
+    "summary_zh": "电影《老千4：别西卜之歌》（暂定名）将于今年中秋节（9月）在韩国上映。发行方CJ ENM于7月9日宣布了这一消息。该片是《老千》系列时隔6年的新作，预告片显示卞约汉饰演的角色因好友罗宰元的背叛而踏上复仇之路。",
+    "extracted_at": "2026-07-09T22:49:36.940076+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Lee Eun Ji, Mimi, Lee Young Ji, And An Yu Jin Open A Rice Cake Shop In “Earth Arcade” Spin-Off “Space Rice Cake”",
+    "url": "https://www.soompi.com/article/1853499wpp/watch-lee-eun-ji-mimi-lee-young-ji-and-an-yu-jin-open-a-rice-cake-shop-in-earth-arcade-spin-off-space-rice-cake",
+    "content": "Lee Eun Ji, Mimi, Lee Young Ji, and An Yu Jin are reuniting for tvN’s new variety show “Space Rice Cake”! “Space Rice Cake” is a spin-off born from a punishment in “Earth Arcade 2.” After failing an escape room mission prepared by Torong, Lee Eun Ji, Mimi, Lee Young Ji, and An Yu Jin&#8230; Continue reading Watch: Lee Eun Ji, Mimi, Lee Young Ji, And An Yu Jin Open A Rice Cake Shop In “Earth Arcade” Spin-Off “Space Rice Cake”\nThe post Watch: Lee Eun Ji, Mimi, Lee Young Ji, And An Yu Jin Open A Rice Cake Shop In “Earth Arcade” Spin-Off “Space Rice Cake” appeared first on Soompi.",
+    "published_at": "0709soompi",
+    "published_ts": 1783592102.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "李恩智、Mimi、李泳知、安宥真合体开年糕店，《地球游戏厅》衍生综艺《Space Rice Cake》预告公开",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "李恩智、Mimi、李泳知、安宥真四人因在《地球游戏厅2》中未能完成Torong设计的密室逃脱任务，作为惩罚诞生了衍生综艺《Space Rice Cake》。",
+      "该节目为tvN新综艺，四人将开设一家年糕店。"
+    ],
+    "summary_zh": "tvN新综艺《Space Rice Cake》是《地球游戏厅2》的衍生节目，源于李恩智、Mimi、李泳知、安宥真在节目中未能完成密室逃脱任务而受到的惩罚。四人将共同开设一家年糕店，节目预告已公开。",
+    "extracted_at": "2026-07-09T22:49:40.110923+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "KPop Demon Hunters Rumi & Jinu Dolls in The Daily LITG, 9th July 2026 - Bleeding Cool News",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYUVlTE96MFB6SEhHYUZrYmVjTmQxRUo4Y0syRkkzX1FDZ2p3UlBGblR6RThWSGxReTZGZmxkbXVqNUd3NGJpajlfaU5zTjR6bm9EOVhoSWxMQ09zQ3BKdkVoUkVaUTg2QXJFdW93Uy1keEE4cjR5NXkwRDdUb3AtaUpJbVhSemt0S1QtMlRDR3FiRVNxVmVnWVJWS0tOZmJnUHo4Q2luX2w?oc=5",
+    "content": "KPop Demon Hunters Rumi & Jinu Dolls in The Daily LITG, 9th July 2026 Bleeding Cool News",
+    "published_at": "0709google-kpop",
+    "published_ts": 1783588928.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "KPop Demon Hunters Rumi & Jinu玩偶亮相《The Daily LITG》2026年7月9日刊",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "2026年7月9日，Bleeding Cool News报道KPop Demon Hunters的Rumi和Jinu玩偶出现在《The Daily LITG》中"
+    ],
+    "summary_zh": "2026年7月9日，Bleeding Cool News报道称，KPop Demon Hunters的Rumi和Jinu玩偶在《The Daily LITG》中亮相。",
+    "extracted_at": "2026-07-09T22:49:42.264100+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-pop band BTS star in new BT21 McDonald's Happy Meal. Sort of. See toys - Cincinnati Enquirer",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZUNIT1BjbzJnZmJDSjlMYm5Nd3I5cm04MkpJVXdxdFNLc2laWDVDY1N0ajZQUld1ZmNSSXRVYzRpXzVPa0FYWE16WERHdjdMZTdKV3pQWk5jOUtDb2tJbktKQWRlSGNkTGttRXBzS1RkZ0Z1QTlnSHRwNU55bnhqQ1h4UUQ0VWo1TDRGd0RjaHN4RzNLRnBMa2VKMnpsTm9TNUEyMzRzTXZTaVpCOUww?oc=5",
+    "content": "K-pop band BTS star in new BT21 McDonald's Happy Meal. Sort of. See toys Cincinnati Enquirer",
+    "published_at": "0709google-kpop",
+    "published_ts": 1783588440.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "防弹少年团BT21角色入驻麦当劳开心乐园餐，玩具曝光",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "防弹少年团（BTS）的BT21角色系列与麦当劳合作，推出开心乐园餐玩具",
+      "玩具具体款式已公开，但原文未列出具体角色名称或数量"
+    ],
+    "summary_zh": "防弹少年团（BTS）的BT21角色系列与麦当劳合作，推出开心乐园餐玩具。玩具款式已曝光，但具体角色细节未在原文中详述。",
+    "extracted_at": "2026-07-09T22:49:44.480007+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "“The Eyes” Surpasses 1 Million Moviegoers",
+    "url": "https://www.soompi.com/article/1853475wpp/the-eyes-surpasses-1-million-moviegoers",
+    "content": "“The Eyes” has surpassed 1 million moviegoers! According to the Korean Film Council, the film officially surpassed 1 million moviegoers on the afternoon of July 9. “The Eyes” is a suspenseful thriller that tells the story of Seo Jin (Shin Min Ah), a woman who is gradually losing her sight due to a genetic disease,&#8230; Continue reading “The Eyes” Surpasses 1 Million Moviegoers\nThe post “The Eyes” Surpasses 1 Million Moviegoers appeared first on Soompi.",
+    "published_at": "0709soompi",
+    "published_ts": 1783588292.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《The Eyes》观影人次突破100万",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "韩国电影振兴委员会数据：电影《The Eyes》于7月9日下午正式突破100万观影人次",
+      "影片为悬疑惊悚片，讲述因遗传病逐渐失明的女子徐珍（申敏儿饰）的故事"
+    ],
+    "summary_zh": "据韩国电影振兴委员会数据，电影《The Eyes》于7月9日下午正式突破100万观影人次。该片为悬疑惊悚片，讲述因遗传病逐渐失明的女子徐珍（申敏儿饰）的故事。",
+    "extracted_at": "2026-07-09T22:49:46.704347+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Hwang Jung Min, Zo In Sung, And Jung Ho Yeon Gear Up For Action In New Film “HOPE” Posters",
+    "url": "https://www.soompi.com/article/1853426wpp/hwang-jung-min-zo-in-sung-and-jung-ho-yeon-gear-up-for-action-in-new-film-hope-posters",
+    "content": "Upcoming film “HOPE” has unveiled new posters! “HOPE” follows the story of Bum Seok (Hwang Jung Min), the chief of a police substation in Hopo Port, a village located near the Demilitarized Zone (DMZ). After local youths report a tiger sighting, Bum Seok and the entire village are thrown into a state of emergency as&#8230; Continue reading Hwang Jung Min, Zo In Sung, And Jung Ho Yeon Gear Up For Action In New Film “HOPE” Posters\nThe post Hwang Jung Min, Zo In Sung, And Jung Ho Yeon Gear Up For Action In New Film “HOPE” Posters appeared first on Soompi.",
+    "published_at": "0709soompi",
+    "published_ts": 1783588265.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "黄政民、赵寅成、郑好娟新片《HOPE》公开动作海报",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "电影《HOPE》公开新海报，主演包括黄政民、赵寅成、郑好娟",
+      "黄政民饰演非军事区附近村庄Hopo港派出所所长Bum Seok",
+      "剧情：当地青年报告老虎 sightings，Bum Seok和全村进入紧急状态"
+    ],
+    "summary_zh": "即将上映的电影《HOPE》公开了新海报。影片讲述黄政民饰演的非军事区附近村庄Hopo港派出所所长Bum Seok，在青年报告老虎 sightings后，与全村陷入紧急状态的故事。主演阵容包括黄政民、赵寅成和郑好娟。",
+    "extracted_at": "2026-07-09T22:49:49.490035+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Park Jeong Min In Talks To Star As The Late Shin Hae Chul In New Biographical Film",
+    "url": "https://www.soompi.com/article/1853491wpp/park-jeong-min-in-talks-to-star-as-the-late-shin-hae-chul-in-new-biographical-film",
+    "content": "Park Jeong Min may be taking on the role of the late Shin Hae Chul in a new biographical film. On July 9, Ilgan Sports reported that Park Jeong Min has been cast in the upcoming film “To You” (literal title). Responding to the report, Park Jeong Min’s agency SEM Company stated, “He has received&#8230; Continue reading Park Jeong Min In Talks To Star As The Late Shin Hae Chul In New Biographical Film\nThe post Park Jeong Min In Talks To Star As The Late Shin Hae Chul In New Biographical Film appeared first on Soompi.",
+    "published_at": "0709soompi",
+    "published_ts": 1783587813.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "朴正民有望出演已故申海哲传记电影《致你》",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "7月9日，据Ilgan Sports报道，朴正民已确定出演新电影《致你》（暂定名）",
+      "朴正民所属社SEM Company回应称：“他已收到出演提议，正在积极讨论中”",
+      "该片为已故音乐人申海哲的传记电影"
+    ],
+    "summary_zh": "据7月9日韩媒报道，演员朴正民有望出演已故音乐人申海哲的传记电影《致你》（暂定名）。其所属社SEM Company确认朴正民已收到出演提案，目前正在积极讨论中。",
+    "extracted_at": "2026-07-09T22:49:52.145549+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Lee Sun Bin, Park Ji Hwan, Bae Hyeon Seong, And More Bring A Prison Kitchen To Life At Script Reading For New Comedy Film",
+    "url": "https://www.soompi.com/article/1853485wpp/lee-sun-bin-park-ji-hwan-bae-hyeon-seong-and-more-bring-a-prison-kitchen-to-life-at-script-reading-for-new-comedy-film",
+    "content": "“The Taste of Prison” (literal translation) has shared a glimpse of its first script reading! On July 9, the upcoming comedy film “The Taste of Prison” shared that they had officially begun filming on July 6. Along with the announcement, the production also unveiled script reading photos showcasing the cast’s lively chemistry. “The Taste of&#8230; Continue reading Lee Sun Bin, Park Ji Hwan, Bae Hyeon Seong, And More Bring A Prison Kitchen To Life At Script Reading For New Comedy Film\nThe post Lee Sun Bin, Park Ji Hwan, Bae Hyeon Seong, And More Bring A Prison Kitchen To Life At Script Reading For New Comedy Film appeared first on Soompi.",
+    "published_at": "0709soompi",
+    "published_ts": 1783584828.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "李先彬、朴智焕、裴贤成等主演新喜剧电影《监狱的味道》剧本围读照公开",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "7月9日，喜剧电影《监狱的味道》公开首次剧本围读照片",
+      "该片于7月6日正式开机拍摄",
+      "主演包括李先彬、朴智焕、裴贤成等"
+    ],
+    "summary_zh": "7月9日，喜剧电影《监狱的味道》公开首次剧本围读照片，并宣布已于7月6日正式开机。照片展示了主演李先彬、朴智焕、裴贤成等演员的生动化学反应。",
+    "extracted_at": "2026-07-09T22:49:54.283741+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -12,16 +303,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "朴恩斌、梁世宗、邕圣祐谈《鬼怪爱情》片场默契",
+    "title_zh": "朴恩斌、梁世宗、邕圣祐谈《鬼怪式恋爱》片场默契",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "tvN新剧《鬼怪爱情》公开主演朴恩斌、梁世宗、邕圣祐的幕后花絮",
+      "tvN新剧《鬼怪式恋爱》公开主演朴恩斌、梁世宗、邕圣祐片场幕后花絮",
       "该剧翻拍自2011年电影《Spellbound》，讲述能看见鬼的酒店继承人与害怕鬼的检察官之间的浪漫故事"
     ],
-    "summary_zh": "tvN新剧《鬼怪爱情》在首播前公开了主演朴恩斌、梁世宗、邕圣祐的片场幕后花絮。该剧翻拍自2011年电影《Spellbound》，是一部灵异浪漫剧，讲述能看见鬼的酒店继承人与害怕鬼的检察官之间的混乱合作。",
-    "extracted_at": "2026-07-09T15:39:03.746455+08:00"
+    "summary_zh": "tvN新剧《鬼怪式恋爱》在首播前公开了主演朴恩斌、梁世宗、邕圣祐的片场幕后花絮，三人分享了拍摄时的默契与化学反应。该剧翻拍自2011年电影《Spellbound》，是一部灵异浪漫剧，讲述能看见鬼的酒店继承人与害怕鬼的检察官之间的混乱合作。",
+    "extracted_at": "2026-07-09T22:49:57.368947+08:00"
   },
   {
     "source_id": "soompi",
@@ -46,7 +337,7 @@
       "剧情围绕一位人气人物引发的连锁反应展开"
     ],
     "summary_zh": "即将播出的韩剧《出轨只是开始》公开了赵汝贞与金宰哲的剧照，两人在剧中饰演一对隐瞒秘密的医生夫妇。该剧由金惠秀、赵汝贞、金智勋、金宰哲主演，是一部黑色喜剧，讲述一位人气人物引发连锁反应的故事。",
-    "extracted_at": "2026-07-09T15:39:06.530728+08:00"
+    "extracted_at": "2026-07-09T22:49:59.839992+08:00"
   },
   {
     "source_id": "soompi",
@@ -67,10 +358,10 @@
     "is_blurred": false,
     "facts_list": [
       "7月9日，OSEN报道李周明与金英光收到ENA新剧《驯服女王》（暂译）出演提案",
-      "两位演员均积极考虑中，尚未最终确定"
+      "两位演员正在积极讨论提案，尚未确定出演"
     ],
-    "summary_zh": "据OSEN 7月9日报道，李周明与金英光有望主演ENA新浪漫喜剧《驯服女王》（暂译）。双方已收到出演提案，正在积极商讨中。",
-    "extracted_at": "2026-07-09T15:39:08.789806+08:00"
+    "summary_zh": "据OSEN 7月9日报道，李周明与金英光有望合作ENA新剧《驯服女王》（暂译），两人已收到出演提案并正在积极讨论中。",
+    "extracted_at": "2026-07-09T22:50:02.262785+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -90,10 +381,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "NMIXX成员Sullyoon被韩国中央日报评为第二季度最佳K-pop音乐视频明星"
+      "NMIXX成员Sullyoon被韩国媒体评为第二季度最佳K-pop音乐视频明星",
+      "该评选由Korea JoongAng Daily进行"
     ],
-    "summary_zh": "据韩国中央日报报道，NMIXX成员Sullyoon被评选为第二季度最佳K-pop音乐视频明星。该评选基于音乐视频的观看量、话题度等指标，Sullyoon凭借其出色的表现获得这一称号。",
-    "extracted_at": "2026-07-09T15:39:10.817273+08:00"
+    "summary_zh": "据Korea JoongAng Daily报道，NMIXX成员Sullyoon被评选为第二季度最佳K-pop音乐视频明星。",
+    "extracted_at": "2026-07-09T22:50:04.188651+08:00"
   },
   {
     "source_id": "soompi",
@@ -113,13 +405,13 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "新剧《四手联弹》公开李濬荣最新剧照",
+      "新剧《四手联弹》公开李濬荣剧照",
       "剧名“四手联弹”指两人同弹一架钢琴的技法",
       "剧情讲述艺术高中青少年们的友情、爱情、竞争与成长",
       "李濬荣饰演被迫放弃梦想的天才钢琴家"
     ],
-    "summary_zh": "韩剧《四手联弹》公开李濬荣新剧照，他饰演一名被迫放弃梦想的天才钢琴家。该剧剧名源自钢琴术语“四手联弹”，讲述艺术高中青少年们的友情、爱情、竞争与成长故事。",
-    "extracted_at": "2026-07-09T15:39:13.544067+08:00"
+    "summary_zh": "韩剧《四手联弹》公开李濬荣新剧照，他饰演一位被迫放弃梦想的天才钢琴家。该剧剧名源自钢琴术语“四手联弹”，讲述艺术高中青少年们的友情、爱情、竞争与成长故事。",
+    "extracted_at": "2026-07-09T22:50:06.949377+08:00"
   },
   {
     "source_id": "soompi",
@@ -134,41 +426,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "孔孝真新剧《杀手》预告公开：狙击手与职场妈妈的双重生活",
+    "title_zh": "孔孝真新剧《杀手》预告：狙击手与职场妈妈的双重生活",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "MBC新剧《A Bona Fide Killer》公开新预告",
-      "该剧为动作剧，讲述一位拥有致命职业的职场妈妈努力保护工作与生活平衡的故事",
-      "孔孝真饰演刘宝娜，这是她15年来首次出演MBC电视剧"
+      "MBC新剧《A Bona Fide Killer》发布新预告",
+      "该剧为动作剧，讲述一位职场妈妈拥有致命职业，努力维持工作与生活平衡",
+      "孔孝真饰演刘宝娜，这是她15年来首次出演MBC剧集"
     ],
-    "summary_zh": "MBC新剧《A Bona Fide Killer》公开新预告，该剧是一部动作剧，讲述一位拥有致命职业的职场妈妈努力保护工作与生活平衡的故事。孔孝真饰演刘宝娜，这是她15年来首次出演MBC电视剧。",
-    "extracted_at": "2026-07-09T15:39:16.066140+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "NewJeans sued for alleged copyright infringement in US - The Korea Times",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSmgtV3JxbEtkSmdnOW92S0J3cHZNUzUzZGYtWWlYajJ3VzJUbXFWd2RNVEFTdk0tc09iNWo2V3g4dUVodDJSVE9qUjRJT0tjanBxSEo3S3FEV3pUeUNOVjZxQ0paRXFNYndibWZNV2lEY09IejV4elZhbXFOVk1ibFhnUVRHXzdFMVBLWExxVFBlejJVbkw2Vlo5a3hWZ0M3V1NYcWpfOGxMZG9IMFlqYUJn0gG3AUFVX3lxTE1lZTB2eXVDbkhkU0tpc093OTc0dXZLcWJnUGNpNG9zdWdLS0R6bFZhSC1IN0Y1YTVJeTBzZUUyTnduQWVmY1BnWVZvWWtqckVjYkphRHhOR01LMXpOTkhhbTc4eDlrcmtjMG5mNGQ4c0lCamRSUTFwcW04SGRFOV9EMmJTY3VhVGx0RjVjeWZmRkJfYlpNR3cyWEVPNUlMNGtJNUlvYWpOdVhSenI0cm1LczlLOU9QZw?oc=5",
-    "content": "NewJeans sued for alleged copyright infringement in US The Korea Times",
-    "published_at": "0709google-kpop",
-    "published_ts": 1783576322.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "NewJeans在美国被诉侵犯版权",
-    "source_type": "韩娱",
-    "risk_level": "高",
-    "is_blurred": false,
-    "facts_list": [
-      "NewJeans在美国被起诉，指控其侵犯版权",
-      "诉讼由The Korea Times报道"
-    ],
-    "summary_zh": "据The Korea Times报道，韩国女团NewJeans在美国被起诉，指控其存在版权侵权行为。目前具体侵权细节及诉讼方信息尚未披露。",
-    "extracted_at": "2026-07-09T15:39:18.178208+08:00"
+    "summary_zh": "MBC新剧《A Bona Fide Killer》发布新预告，该剧为动作剧，讲述一位职场妈妈拥有致命职业，努力维持工作与生活平衡。孔孝真饰演刘宝娜，这是她15年来首次出演MBC剧集。",
+    "extracted_at": "2026-07-09T22:50:09.501819+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -188,11 +456,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "韩国《先驱报》报道，K-pop制作成本持续上涨",
-      "韩国政府计划加大对中小经纪公司的扶持力度"
+      "韩国《韩国先驱报》报道，K-pop制作成本持续上涨",
+      "韩国政府计划出台政策，加大对中小型经纪公司的扶持力度"
     ],
-    "summary_zh": "据韩国《先驱报》报道，随着K-pop制作成本不断攀升，韩国政府计划加大对中小经纪公司的扶持力度，以缓解行业压力。",
-    "extracted_at": "2026-07-09T15:39:20.214050+08:00"
+    "summary_zh": "据《韩国先驱报》报道，随着K-pop制作成本不断攀升，韩国政府计划加大对中小型经纪公司的扶持力度，以缓解行业压力。报道未提供具体政策细节或数据。",
+    "extracted_at": "2026-07-09T22:50:11.609816+08:00"
   },
   {
     "source_id": "soompi",
@@ -212,11 +480,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "李准英（Lee Jun Young）曾是U-KISS成员（艺名Jun），后加入项目组合UNB",
-      "文章列举了11部李准英出演的韩剧，涵盖浪漫爱情、校园等不同类型角色"
+      "李准英曾是U-KISS成员（艺名Jun），后加入项目组合UNB",
+      "文章列举了11部李准英出演的韩剧，涵盖浪漫爱情、校园等不同类型"
     ],
-    "summary_zh": "文章盘点了李准英（Lee Jun Young）从爱豆转型演员后出演的11部韩剧，展现其多样化的演技。李准英曾是U-KISS成员（艺名Jun），后加入项目组合UNB，经过近十年积累，塑造了从浪漫主角到校园角色等多种形象。",
-    "extracted_at": "2026-07-09T15:39:22.932464+08:00"
+    "summary_zh": "李准英作为爱豆转型演员的代表之一，从U-KISS成员Jun到UNB项目组，十年间积累了多样化的影视作品。本文盘点了11部展现他多面演技的韩剧，包括浪漫爱情和校园题材等。",
+    "extracted_at": "2026-07-09T22:50:14.756933+08:00"
   },
   {
     "source_id": "soompi",
@@ -231,16 +499,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《金代理复活》新剧照：苏志燮与玉泽演任务前意味深长对话",
+    "title_zh": "《重启的金代理》新剧照：苏志燮与玉泽演任务前进行意味深长对话",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "SBS剧集《金代理复活》发布新剧照，显示苏志燮与玉泽演在任务前进行意味深长的对话",
-      "该剧改编自热门网漫，是一部动作复仇剧，讲述看似平凡的爸爸金代理（苏志燮饰）为救女儿不惜一切的故事"
+      "SBS剧集《重启的金代理》发布新剧照",
+      "剧照显示苏志燮（饰金代理）与玉泽演在任务前进行对话",
+      "该剧改编自人气网漫，讲述看似平凡的爸爸金代理为救女儿而战的复仇动作剧"
     ],
-    "summary_zh": "SBS剧集《金代理复活》发布新剧照，显示苏志燮与玉泽演在任务前进行意味深长的对话。该剧改编自热门网漫，是一部动作复仇剧，讲述看似平凡的爸爸金代理（苏志燮饰）为救女儿不惜一切的故事。",
-    "extracted_at": "2026-07-09T15:39:25.822926+08:00"
+    "summary_zh": "SBS复仇动作剧《重启的金代理》公开新剧照，苏志燮与玉泽演在任务前进行了一场意味深长的对话。该剧改编自人气网漫，讲述看似平凡的爸爸金代理（苏志燮饰）为救女儿不惜一切的故事。",
+    "extracted_at": "2026-07-09T22:50:17.706829+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -260,11 +529,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "Vogue报道称K-Pop明星正在推动越南时尚品牌的崛起",
-      "文章探讨了K-Pop偶像穿着越南设计师作品对当地时尚产业的影响"
+      "Vogue报道指出K-Pop明星正在推动越南时尚品牌的兴起",
+      "文章具体提及越南设计师品牌如Nguyen Cong Tri、Cong Tri等受到K-Pop明星穿着带动"
     ],
-    "summary_zh": "Vogue杂志报道指出，K-Pop明星通过穿着越南设计师的作品，显著提升了越南时尚品牌的国际知名度，推动了当地时尚产业的崛起。文章分析了这一趋势背后的文化交融与商业效应。",
-    "extracted_at": "2026-07-09T15:39:27.961132+08:00"
+    "summary_zh": "Vogue报道称，K-Pop明星如Blackpink的Lisa、BTS的V等穿着越南设计师品牌，带动了越南时尚产业的全球关注。文章列举了多个越南品牌因K-Pop明星穿着而获得国际曝光，并指出这一趋势正在改变时尚界的格局。",
+    "extracted_at": "2026-07-09T22:50:20.657022+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -284,34 +553,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "李准英（Lee Jun-young）在《韩国时报》采访中详细讲述了过去的经济困难",
+      "李准英在《韩国时报》采访中详细描述了过去的经济困难",
       "李准英曾是K-pop偶像，后转型为演员并取得成功"
     ],
-    "summary_zh": "前K-pop偶像李准英在接受《韩国时报》采访时，详细讲述了自己在转型成为成功演员之前所经历的经济困难。他分享了那段时期的艰辛，但未提及具体时间、金额或事件细节。",
-    "extracted_at": "2026-07-09T15:39:30.221241+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Netflix's Underrated 2-Part Fantasy Series Is Still Worth Watching - Collider",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNanJ2eXEyc3ZPM2xEVXNZQzdRbmhwMm5JdHJmVnl1cUxrSnBJMi11b1dIUXJyVzRmNy1ycjlMSkVVU0ttTFgySWhnZ09ycjlxdFFxRHRKeVJpMUZIYU00RXU4YnpfWjcwTkdROGJPdkF0d3J0Y2pkbkVoSDA4X3ZFZk9R?oc=5",
-    "content": "Netflix's Underrated 2-Part Fantasy Series Is Still Worth Watching Collider",
-    "published_at": "0709google-kpop",
-    "published_ts": 1783570093.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Netflix被低估的两部曲奇幻系列仍值得一看",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "原文未提及具体行为，仅称：Netflix的一部两部曲奇幻系列被低估，仍值得观看"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：Netflix的一部两部曲奇幻系列被低估，仍值得观看]",
-    "extracted_at": "2026-07-09T15:39:32.234625+08:00"
+    "summary_zh": "前K-pop偶像李准英在接受《韩国时报》采访时，详细讲述了自己在转型成为演员之前所经历的经济困难。他曾在偶像团体活动，但面临财务压力，最终通过努力在演艺界获得成功。",
+    "extracted_at": "2026-07-09T22:50:23.348761+08:00"
   },
   {
     "source_id": "soompi",
@@ -326,16 +572,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "朴智贤确认与宋仲基合作新剧《Love Cloud》，2027年播出",
+    "title_zh": "朴智贤确认与宋仲基合作新剧《爱情云》",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "2024年7月9日，KBS2宣布新周末迷你剧《Love Cloud》将于2027年首播",
+      "2024年7月9日，KBS2宣布新周末迷你剧《爱情云》（暂译）将于2027年首播",
       "演员宋仲基和朴智贤已确认出演该剧"
     ],
-    "summary_zh": "朴智贤确认将与宋仲基合作出演KBS2新周末迷你剧《Love Cloud》（暂定名），该剧预计于2027年首播。KBS2于7月9日公布了这一选角消息。",
-    "extracted_at": "2026-07-09T15:39:34.751626+08:00"
+    "summary_zh": "朴智贤确认将与宋仲基合作出演KBS2新周末迷你剧《爱情云》（暂译）。该剧将于2027年首播，具体播出时间尚未公布。",
+    "extracted_at": "2026-07-09T22:50:25.626332+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -357,8 +603,8 @@
     "facts_list": [
       "Jae-Ha Kim在K-Culture专栏中称《稻草人》为2026年迄今最佳韩剧"
     ],
-    "summary_zh": "Jae-Ha Kim在其K-Culture专栏中发表评论，认为韩剧《稻草人》是2026年迄今为止最佳的作品。",
-    "extracted_at": "2026-07-09T15:39:36.675342+08:00"
+    "summary_zh": "Jae-Ha Kim在其K-Culture专栏中评价韩剧《稻草人》为2026年迄今为止的最佳作品。",
+    "extracted_at": "2026-07-09T22:50:27.424685+08:00"
   },
   {
     "source_id": "soompi",
@@ -379,35 +625,11 @@
     "is_blurred": false,
     "facts_list": [
       "7月9日，韩媒报道Rain和李星民将出演改编自网漫《Solo Leveling》的电视剧",
-      "Rain的经纪公司回应称：“正在积极讨论出演提案，尚未确定”",
+      "Rain的经纪公司回应称：“正在积极讨论《Solo Leveling》的出演提案，尚未确定”",
       "此前已报道边佑锡将主演该剧"
     ],
-    "summary_zh": "7月9日，韩媒报道Rain和李星民有望加盟《Solo Leveling》电视剧版，与已报道的主演边佑锡合作。Rain的经纪公司确认收到出演提案，但表示仍在讨论中，尚未最终确定。",
-    "extracted_at": "2026-07-09T15:39:39.636400+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "BTS’ Jimin garners record 400m hits each in Korean, English with ‘Like Crazy’ - The Korea Herald",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE92Uk1qRDFvZHd2QVVsNEpMYWFkSUFsTkhsRDl6a3BvZk9ZM2t6MFVvRk11b3pRdzZuVkdfYjFTd2ZvQm1VSnlOdDBtTEFYQWIyRFhIX05DUQ?oc=5",
-    "content": "BTS’ Jimin garners record 400m hits each in Korean, English with ‘Like Crazy’ The Korea Herald",
-    "published_at": "0709google-kpop",
-    "published_ts": 1783563096.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "防弹少年团智旻《Like Crazy》韩英双版各破4亿流媒体创纪录",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "防弹少年团成员智旻的歌曲《Like Crazy》韩语版和英语版在流媒体平台各获得4亿次播放",
-      "该成绩创下韩国个人歌手纪录"
-    ],
-    "summary_zh": "据《韩国先驱报》报道，防弹少年团成员智旻的个人单曲《Like Crazy》的韩语版和英语版在流媒体平台各自突破了4亿次播放，创下韩国个人歌手的新纪录。",
-    "extracted_at": "2026-07-09T15:39:42.207757+08:00"
+    "summary_zh": "7月9日，据韩媒报道，歌手兼演员Rain（郑智薰）与资深演员李星民有望加盟改编自热门网漫《Solo Leveling》的电视剧，与已确认主演的边佑锡合作。Rain的经纪公司回应称正在积极讨论出演提案，尚未最终确定。",
+    "extracted_at": "2026-07-09T22:50:30.411904+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -422,16 +644,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "MAMAMOO 宣布首次澳洲演唱会",
+    "title_zh": "MAMAMOO宣布首次澳洲演唱会",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "MAMAMOO 宣布将在澳大利亚举办首次演唱会",
-      "信息来源为 Rolling Stone Australia"
+      "MAMAMOO宣布将在澳大利亚举办首次演唱会",
+      "信息来源为《Rolling Stone Australia》"
     ],
-    "summary_zh": "K-Pop 超级组合 MAMAMOO 宣布将在澳大利亚举办首次演唱会，具体日期和地点尚未公布。",
-    "extracted_at": "2026-07-09T15:39:43.989901+08:00"
+    "summary_zh": "K-Pop超级组合MAMAMOO宣布将在澳大利亚举办首次演唱会，具体日期和地点尚未公布。",
+    "extracted_at": "2026-07-09T22:50:32.097131+08:00"
   },
   {
     "source_id": "soompi",
@@ -453,10 +675,10 @@
     "facts_list": [
       "当地时间7月8日，第78届艾美奖公布提名名单",
       "尹汝贞凭借《怒呛人生2》获得限定剧/选集剧/电视电影类最佳女配角提名",
-      "同奖项提名者包括琳达·卡德里尼（《DTF St. Louis》）、达科塔·范宁（《All Her...》）等"
+      "同获提名的演员包括琳达·卡德里尼（《DTF St. Louis》）和达科塔·范宁（《All Her...》）"
     ],
-    "summary_zh": "尹汝贞再创历史！当地时间7月8日，第78届艾美奖公布提名名单，尹汝贞凭借在《怒呛人生2》中的表演获得限定剧/选集剧/电视电影类最佳女配角提名。同奖项提名者包括琳达·卡德里尼（《DTF St. Louis》）、达科塔·范宁（《All Her...》）等。",
-    "extracted_at": "2026-07-09T15:39:46.709169+08:00"
+    "summary_zh": "尹汝贞再创历史！当地时间7月8日，第78届艾美奖公布提名名单，尹汝贞凭借在《怒呛人生2》中的表演获得限定剧/选集剧/电视电影类最佳女配角提名，同获提名的还有琳达·卡德里尼和达科塔·范宁。",
+    "extracted_at": "2026-07-09T22:50:34.588859+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -476,11 +698,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "韩国主要娱乐公司（SM、YG、JYP等）将巴西和墨西哥作为拉美扩张的重点目标市场",
-      "该报道由韩国《朝鲜日报》发布，提及K-pop在拉美地区的粉丝基础增长"
+      "据《朝鲜日报》报道，韩国主要娱乐公司（SM、YG、JYP等）正将巴西和墨西哥作为拉美市场扩张的重点目标",
+      "报道指出，这些公司计划通过当地合作、演唱会及本土化策略提升K-pop在拉美的影响力"
     ],
-    "summary_zh": "据《朝鲜日报》报道，韩国主要K-pop娱乐公司正将巴西和墨西哥作为拉丁美洲扩张的核心目标，通过当地演出、合作及数字营销等方式拓展市场。报道指出，拉美地区K-pop粉丝群体持续扩大，成为全球增长最快的市场之一。",
-    "extracted_at": "2026-07-09T15:39:49.872671+08:00"
+    "summary_zh": "据《朝鲜日报》报道，韩国主要娱乐公司（SM、YG、JYP等）正将巴西和墨西哥作为拉美市场扩张的重点目标，计划通过当地合作、演唱会及本土化策略提升K-pop在拉美的影响力。",
+    "extracted_at": "2026-07-09T22:50:37.200459+08:00"
   },
   {
     "source_id": "soompi",
@@ -504,8 +726,8 @@
       "排名基于6月9日至7月9日期间21部热门剧集的消费者参与度、媒体报道、互动、社区认知度和收视率指数大数据分析",
       "《金代理重启》位居本月榜首"
     ],
-    "summary_zh": "韩国企业评价研究所公布了7月韩剧品牌声誉排名，该排名基于6月9日至7月9日期间21部热门剧集的大数据分析，涵盖消费者参与度、媒体报道、互动、社区认知度和收视率指数。本月榜首为《金代理重启》。",
-    "extracted_at": "2026-07-09T15:39:52.643058+08:00"
+    "summary_zh": "韩国企业评价研究所公布了7月韩剧品牌声誉排名，该排名基于6月9日至7月9日期间21部热门剧集的大数据分析，涵盖消费者参与度、媒体报道、互动、社区认知度和收视率指数等指标。本月榜首为《金代理重启》。",
+    "extracted_at": "2026-07-09T22:50:39.990238+08:00"
   },
   {
     "source_id": "soompi",
@@ -527,8 +749,8 @@
     "facts_list": [
       "7月7日，金明洙所属社Look Media宣布其因行程冲突无法参加INFINITE即将举行的粉丝见面会“INFINITE Rally V”"
     ],
-    "summary_zh": "INFINITE成员金明洙（L）将缺席组合即将举行的粉丝见面会巡演。7月7日，其所属社Look Media发布公告，称金明洙因行程冲突无法参加“INFINITE Rally V”粉丝见面会。",
-    "extracted_at": "2026-07-09T15:39:55.117470+08:00"
+    "summary_zh": "INFINITE成员金明洙（L）因行程冲突，将缺席组合即将举行的粉丝见面会巡演“INFINITE Rally V”。其所属社Look Media于7月7日发布官方声明确认此消息。",
+    "extracted_at": "2026-07-09T22:50:42.428880+08:00"
   },
   {
     "source_id": "soompi",
@@ -549,10 +771,10 @@
     "is_blurred": false,
     "facts_list": [
       "Circle Chart公布6月21日至27日周榜排名",
-      "ATEEZ凭借迷你专辑《GOLDEN HOUR : Part.5》及主打曲《BAD》获得物理专辑榜和数字下载榜双料冠军"
+      "ATEEZ凭借迷你专辑《GOLDEN HOUR : Part.5》及主打曲《BAD》同时获得物理专辑榜和数字下载榜第一名"
     ],
     "summary_zh": "Circle Chart公布6月21日至27日周榜排名，ATEEZ凭借新迷你专辑《GOLDEN HOUR : Part.5》及其主打曲《BAD》同时登顶物理专辑榜和数字下载榜，实现双冠王。",
-    "extracted_at": "2026-07-09T15:39:57.481650+08:00"
+    "extracted_at": "2026-07-09T22:50:44.629574+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -573,10 +795,10 @@
     "is_blurred": false,
     "facts_list": [
       "Prime Video韩剧《明天见！》完整播出时间表由Lifestyle Asia Hong Kong公开",
-      "该剧为Prime Video独家播出的韩剧系列"
+      "该剧为Prime Video平台播出的韩剧系列"
     ],
-    "summary_zh": "Lifestyle Asia Hong Kong发布了Prime Video韩剧《明天见！》的完整播出时间表。该剧为Prime Video独家播出的韩剧系列，具体播出日期和时间需参考原文。",
-    "extracted_at": "2026-07-09T15:39:59.796527+08:00"
+    "summary_zh": "Lifestyle Asia Hong Kong公开了Prime Video韩剧《明天见！》的完整播出时间表。该剧为Prime Video平台播出的韩剧系列，具体播出日期和时间需参考原文。",
+    "extracted_at": "2026-07-09T22:50:46.665784+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -596,33 +818,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "福布斯发布2026年第三季度K-Pop专辑、单曲及回归日历"
+      "福布斯发布2026年第三季度K-Pop专辑、单曲及回归日历",
+      "日历涵盖2026年7月至9月期间的新发行计划"
     ],
-    "summary_zh": "福布斯发布了2026年第三季度K-Pop新专辑、单曲及回归的日历，列出了该季度内计划发行的作品。具体艺人及日期未在摘要中详述。",
-    "extracted_at": "2026-07-09T15:40:02.023584+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "LNGSHOT Is Changing the K-Pop Rookie Playbook With a New Kind of Authenticity - Sweety High",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB0M25mQ3hZbDJrc1dld0ZLVk8tRk54c0tuN0l0RWVuWThBMW1lMGhrRnZaeVB6c24wS3dCRVJxb29raWRLX3JHc2NCQTJJc3Vqa3Z5MHJGeDQ5YnRrdkRVeUJsbFhrNGtlY01tVHNnSEFOUHc?oc=5",
-    "content": "LNGSHOT Is Changing the K-Pop Rookie Playbook With a New Kind of Authenticity Sweety High",
-    "published_at": "0709google-kpop",
-    "published_ts": 1783537866.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "LNGSHOT以全新真实感改写K-Pop新人规则",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "原文未提及具体行为，仅称：LNGSHOT以全新真实感改写K-Pop新人规则"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：LNGSHOT以全新真实感改写K-Pop新人规则]",
-    "extracted_at": "2026-07-09T15:40:03.638821+08:00"
+    "summary_zh": "福布斯发布了2026年第三季度K-Pop新专辑、单曲及回归的日历，汇总了7月至9月期间的主要发行计划。具体艺人及作品细节需参考原文。",
+    "extracted_at": "2026-07-09T22:50:49.036588+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -637,16 +837,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "LA漫展集结《KPop Demon Hunters》主创庆祝15周年",
+    "title_zh": "L.A.动漫展召集《KPop Demon Hunters》演员阵容庆祝15周年",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "L.A. Comic Con将《KPop Demon Hunters》剧组聚集在一起",
-      "该活动为15周年纪念演出"
+      "L.A. Comic Con将《KPop Demon Hunters》演员阵容聚集在一起",
+      "该活动是为了庆祝15周年纪念演出"
     ],
-    "summary_zh": "L.A. Comic Con将动画《KPop Demon Hunters》的配音演员和主创团队聚集在一起，举办了一场15周年纪念演出。该活动由Animation Magazine报道，具体细节未在原文中详述。",
-    "extracted_at": "2026-07-09T15:40:05.866062+08:00"
+    "summary_zh": "L.A. Comic Con将召集动画《KPop Demon Hunters》的演员阵容，共同庆祝该活动的15周年纪念演出。",
+    "extracted_at": "2026-07-09T22:50:51.197322+08:00"
   },
   {
     "source_id": "soompi",
@@ -667,34 +867,10 @@
     "is_blurred": false,
     "facts_list": [
       "ENA剧集《Dream to You》公开了李相烨与李智敏的化学反应预告",
-      "剧情中李智敏试图让李相烨加入恋爱节目，李相烨因此心动"
+      "剧情设定：天才电影导演禹秀彬（黄寅烨饰）实现梦想后回归，与记者朱艺才（Girl's Day惠利饰）重逢的浪漫喜剧"
     ],
-    "summary_zh": "ENA剧集《Dream to You》公开了李相烨与李智敏的化学反应预告。剧中，李智敏试图让李相烨加入恋爱节目，李相烨因此心动。该剧是一部浪漫喜剧，讲述天才电影导演禹秀彬（黄寅烨饰）实现梦想后回归，与记者朱艺才（Girl's Day惠利饰）重逢的故事。",
-    "extracted_at": "2026-07-09T15:40:08.813773+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Massive Surge: K-pop Album Sales 2026 Record Hits All-Time High - The Korea Daily",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNREVPWTl1MWtFdGZ3Sjc5enhpdlNONy1DblBRMnNHMXVVS0RkcnlzVnVQaFV2cXEtM29aRXEtUGtkUS1oLVdMcmNlZUhUT01JNmlSSHY1MXg3cFh5S21ObllJNUllaWduX0FHR0VwcmFmMWZ0UnNjWnQ1X0tSWFBRT2F4dHhoX0pTeld3?oc=5",
-    "content": "Massive Surge: K-pop Album Sales 2026 Record Hits All-Time High The Korea Daily",
-    "published_at": "0709google-kpop",
-    "published_ts": 1783530254.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "2026年K-pop专辑销量创历史新高，全球市场持续扩张",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "2026年K-pop专辑销量达到历史最高纪录",
-      "数据来源为The Korea Daily报道"
-    ],
-    "summary_zh": "据The Korea Daily报道，2026年K-pop专辑销量创下历史新高，显示出全球市场对K-pop音乐的持续强劲需求。具体销量数字及增长比例未在原文中详细说明。",
-    "extracted_at": "2026-07-09T15:40:10.838482+08:00"
+    "summary_zh": "ENA剧集《Dream to You》公开了李相烨与李智敏的化学反应预告。该剧是一部浪漫喜剧，讲述天才电影导演禹秀彬（黄寅烨饰）实现梦想后回归，与记者朱艺才（Girl's Day惠利饰）重逢的故事。在最新片段中，李智敏试图将李相烨拉入恋爱节目，李相烨因此对她心动。",
+    "extracted_at": "2026-07-09T22:50:54.229482+08:00"
   },
   {
     "source_id": "asianwiki",
