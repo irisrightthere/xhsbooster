@@ -20,7 +20,7 @@
       "2026年7月11日，KPop恶魔猎人Rumi与Jinu出现在《每日LITG》中"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：KPop恶魔猎人Rumi与Jinu在2026年7月11日的《每日LITG》中亮相]",
-    "extracted_at": "2026-07-11T17:24:25.057262+08:00"
+    "extracted_at": "2026-07-11T21:09:37.226289+08:00"
   },
   {
     "source_id": "soompi",
@@ -40,11 +40,36 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "苏志燮及其团队将在《重启的Agent金》下一集中执行分头行动策略",
-      "该剧改编自热门网络漫画，是SBS的新动作复仇剧，讲述看似平凡的爸爸金科长（苏志燮饰）隐藏秘密过去的故事"
+      "苏志燮与团队将在《重启的Agent金》下一集中展开分头行动",
+      "该剧改编自热门网络漫画，是SBS的新动作复仇剧",
+      "剧情讲述看似平凡的爸爸金科长（苏志燮饰）隐藏秘密过去的故事"
     ],
-    "summary_zh": "苏志燮与团队将在SBS新剧《重启的Agent金》下一集中展开分头行动。该剧改编自热门网络漫画，是一部动作复仇剧，讲述看似平凡的爸爸金科长（苏志燮饰）隐藏秘密过去的故事。",
-    "extracted_at": "2026-07-11T17:24:27.438040+08:00"
+    "summary_zh": "苏志燮与团队将在《重启的Agent金》下一集中展开分头行动。该剧改编自热门网络漫画，是SBS的新动作复仇剧，讲述看似平凡的爸爸金科长（苏志燮饰）隐藏秘密过去的故事。",
+    "extracted_at": "2026-07-11T21:09:39.673977+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Why Do So Many K-Pop Idols Paint a Single Nail in Their Hands? - Daily Music Roll",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUHFvMko5OVFSSFlHOGNrZDJFQkVKMTNaZDA3VlhxUm5rMHVvZ09QNElfYXBVTTdlcy1YS1JNMWRGU1ZZcUNMaE5pMnVEMzAydkpSYm9wRC1oa0tvd3F2Q1JRNzJEUGd6SmJVRVRWdzFTT1RWS2NkYlFqWkM0bmRybFRodVBfbUpaNFhsVVAtMlppcFZyS1JkLWhTQ3lvZFg5UXlqMllnSktoY0pMbENGeg?oc=5",
+    "content": "Why Do So Many K-Pop Idols Paint a Single Nail in Their Hands? Daily Music Roll",
+    "published_at": "0711google-kpop",
+    "published_ts": 1783751855.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "K-Pop偶像为何流行只涂一个指甲？",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "现象：许多K-Pop偶像只涂一个手指的指甲",
+      "来源：Daily Music Roll报道"
+    ],
+    "summary_zh": "Daily Music Roll报道了K-Pop偶像中流行的只涂一个指甲的现象，探讨了其可能的原因，如时尚潮流、粉丝互动或特殊意义，但未给出具体偶像或官方解释。",
+    "extracted_at": "2026-07-11T21:09:41.641318+08:00"
   },
   {
     "source_id": "soompi",
@@ -65,10 +90,10 @@
     "is_blurred": false,
     "facts_list": [
       "金明洙的悲惨过往将在《爱在同步》下一集被揭露",
-      "《爱在同步》是一部新浪漫喜剧，讲述一位拒绝共情的女性和一位过度共情的男性通过超自然现象共享情感的故事"
+      "《爱在同步》是一部新浪漫喜剧，讲述一个拒绝共情的女人和一个承受过多共情的男人，通过超自然现象分享彼此情感的故事"
     ],
-    "summary_zh": "金明洙的悲惨过往将在韩剧《爱在同步》下一集中被揭露。该剧是一部新浪漫喜剧，讲述一位拒绝共情的女性和一位过度共情的男性通过超自然现象共享情感的故事。",
-    "extracted_at": "2026-07-11T17:24:29.526066+08:00"
+    "summary_zh": "金明洙的悲惨过往将在韩剧《爱在同步》下一集中被揭露。该剧是一部新浪漫喜剧，讲述一个拒绝共情的女人和一个承受过多共情的男人，通过超自然现象分享彼此情感的故事。",
+    "extracted_at": "2026-07-11T21:09:43.702821+08:00"
   },
   {
     "source_id": "soompi",
@@ -89,10 +114,10 @@
     "is_blurred": false,
     "facts_list": [
       "NMIXX原定7月11日在高雄举行的“EPISODE 1 : ZERO FRONTIER”演唱会延期",
-      "JYP娱乐于7月10日宣布，因当地政府宣布7月11日为“台风日”，首日演出改至7月13日"
+      "JYP娱乐于7月10日宣布，因当地政府宣布7月11日为“台风日”，演唱会第一天从7月11日改至7月13日"
     ],
-    "summary_zh": "NMIXX原定7月11日在高雄举行的“EPISODE 1 : ZERO FRONTIER”演唱会因台风巴威延期。JYP娱乐于7月10日宣布，因当地政府宣布7月11日为“台风日”，首日演出改至7月13日。",
-    "extracted_at": "2026-07-11T17:24:31.841853+08:00"
+    "summary_zh": "NMIXX原定于7月11日在高雄举行的“EPISODE 1 : ZERO FRONTIER”演唱会因台风巴威延期。JYP娱乐于7月10日宣布，由于当地政府宣布7月11日为“台风日”，演唱会第一天已从7月11日改期至7月13日。",
+    "extracted_at": "2026-07-11T21:09:45.772022+08:00"
   },
   {
     "source_id": "soompi",
@@ -112,11 +137,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "KBS 2TV新剧《丈夫》中，南宫珉饰演一名濒临离婚的男子，为救妻子意外卷入与危险罪犯的殊死搏斗",
-      "公开剧照显示南宫珉持枪瞄准朴秉恩"
+      "南宫珉在KBS 2TV新剧《丈夫》中持枪瞄准朴秉恩",
+      "该剧讲述一名濒临离婚的男子为救妻子与危险罪犯展开殊死搏斗"
     ],
-    "summary_zh": "KBS 2TV新剧《丈夫》公开剧照，南宫珉饰演的角色持枪瞄准朴秉恩。该剧讲述一名濒临离婚的男子为救妻子意外卷入与危险罪犯的殊死搏斗。",
-    "extracted_at": "2026-07-11T17:24:34.189998+08:00"
+    "summary_zh": "KBS 2TV新剧《丈夫》公开剧照，南宫珉饰演的角色持枪瞄准朴秉恩。该剧是一部惊悚片，讲述一名濒临离婚的男子为救妻子与危险罪犯展开殊死搏斗的故事。",
+    "extracted_at": "2026-07-11T21:09:47.815583+08:00"
   },
   {
     "source_id": "soompi",
@@ -131,16 +156,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "池晟与河允景在《公寓工作》首集中举行假婚礼",
+    "title_zh": "池晟与河允景在《公寓计划》首集中举行假婚礼",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "JTBC新剧《公寓工作》首集将播出池晟与河允景的假婚礼场景",
+      "JTBC新剧《公寓计划》首集将播出池晟与河允景的假婚礼场景",
       "该剧讲述前Oasis Gang头目朴海康（池晟饰）为争夺公寓居民委员会会长职位而展开的故事"
     ],
-    "summary_zh": "JTBC新剧《公寓工作》首集中，池晟与河允景将举行假婚礼。该剧讲述前Oasis Gang头目朴海康（池晟饰）为争夺公寓居民委员会会长职位而展开的故事。",
-    "extracted_at": "2026-07-11T17:24:36.642817+08:00"
+    "summary_zh": "JTBC新剧《公寓计划》首集中，池晟与河允景将举行假婚礼。该剧讲述前Oasis Gang头目朴海康（池晟饰）为争夺公寓居民委员会会长职位而展开的故事。",
+    "extracted_at": "2026-07-11T21:09:49.764807+08:00"
   },
   {
     "source_id": "soompi",
@@ -155,16 +180,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "KiiiKiii确定8月回归，新专辑瞄准8月中旬发行",
+    "title_zh": "KiiiKiii确定8月回归，新专辑预计8月中旬发行",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "7月10日，STARSHIP Entertainment确认KiiiKiii正在准备回归，目标8月中旬发行新专辑",
-      "此次回归距离上一张迷你专辑《Delulu Pack》约7个月"
+      "此次回归是继迷你专辑《Delulu Pack》后约7个月的首个回归"
     ],
-    "summary_zh": "7月10日，STARSHIP Entertainment官方宣布KiiiKiii正在准备回归，计划于8月中旬发行新专辑。这将是她们继迷你专辑《Delulu Pack》后约7个月的首度回归。",
-    "extracted_at": "2026-07-11T17:24:38.716923+08:00"
+    "summary_zh": "STARSHIP Entertainment于7月10日官方确认，旗下女团KiiiKiii正在准备回归，新专辑计划于8月中旬发行。这将是她们继迷你专辑《Delulu Pack》后约7个月的首个回归。",
+    "extracted_at": "2026-07-11T21:09:52.022119+08:00"
   },
   {
     "source_id": "soompi",
@@ -184,11 +209,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "KBS 2TV新剧《丈夫》是一部惊悚剧，讲述一个濒临离婚的男人为救妻子与危险罪犯展开殊死搏斗",
-      "前两集剧透显示李雪饰演的角色正在拼命寻找逃脱绑匪的方法"
+      "KBS 2TV新剧《丈夫》是一部惊悚剧，讲述一个濒临离婚的男人为救妻子与危险罪犯展开殊死搏斗的故事。",
+      "前两集剧透显示，李雪饰演的角色正在拼命寻找逃脱绑架者的方法。"
     ],
-    "summary_zh": "KBS 2TV新剧《丈夫》是一部惊悚剧，讲述一个濒临离婚的男人为救妻子与危险罪犯展开殊死搏斗。前两集剧透显示，李雪饰演的角色正在拼命寻找逃脱绑匪的方法。",
-    "extracted_at": "2026-07-11T17:24:40.684531+08:00"
+    "summary_zh": "KBS 2TV新惊悚剧《丈夫》中，李雪饰演的角色被绑架，正在拼命寻找逃脱方法。该剧讲述一个濒临离婚的男人为救妻子与危险罪犯展开殊死搏斗的故事。",
+    "extracted_at": "2026-07-11T21:09:53.922034+08:00"
   },
   {
     "source_id": "soompi",
@@ -209,10 +234,11 @@
     "is_blurred": false,
     "facts_list": [
       "SBS金土剧《特工金重启》自首播以来首次出现收视率下降",
-      "该剧此前曾创下2026年韩剧最高收视率，突破20%大关，位居金土剧历史收视第三"
+      "该剧此前曾创下2026年至今所有韩剧最高收视率，突破20%大关",
+      "该剧曾获得金土剧历史第三高收视率"
     ],
-    "summary_zh": "SBS金土剧《特工金重启》自首播以来首次出现收视率下降，但仍是2026年收视最高的韩剧。该剧此前曾突破20%收视率，位居金土剧历史收视第三。",
-    "extracted_at": "2026-07-11T17:24:42.985474+08:00"
+    "summary_zh": "SBS金土剧《特工金重启》自首播以来首次出现收视率下降，但仍是2026年至今收视率最高的韩剧。该剧此前曾突破20%收视率，并创下金土剧历史第三高收视纪录。",
+    "extracted_at": "2026-07-11T21:09:56.098323+08:00"
   },
   {
     "source_id": "soompi",
@@ -227,16 +253,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "TXT然竣迷你专辑《NO LABELS: PART 02》首日销量创2026年韩国solo歌手最高纪录",
+    "title_zh": "TXT然竣迷你专辑《NO LABELS: PART 02》首日销量创2026年韩国solo最高纪录",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "2026年7月10日下午1点（KST），TXT成员然竣发行迷你专辑《NO LABELS: PART 02》",
-      "根据Hanteo Chart数据，该专辑首日销量创下2026年韩国solo歌手最高纪录"
+      "7月10日下午1点KST，TXT成员然竣发行迷你专辑《NO LABELS: PART 02》",
+      "根据Hanteo Chart数据，该专辑首日销量创2026年韩国solo歌手最高纪录"
     ],
-    "summary_zh": "TXT成员然竣于7月10日下午1点（KST）携迷你专辑《NO LABELS: PART 02》回归，根据Hanteo Chart数据，该专辑首日销量创下2026年韩国solo歌手最高纪录，并打破了他个人首周销量纪录。",
-    "extracted_at": "2026-07-11T17:24:45.348044+08:00"
+    "summary_zh": "TXT成员然竣于7月10日下午1点KST发行迷你专辑《NO LABELS: PART 02》，根据Hanteo Chart数据，该专辑首日销量创下2026年韩国solo歌手最高纪录。",
+    "extracted_at": "2026-07-11T21:09:58.172334+08:00"
   },
   {
     "source_id": "soompi",
@@ -256,12 +282,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "电影《我们曾经是我们》由具教焕饰演恩浩，文佳煐饰演郑媛",
-      "影片讲述两人在公交车上偶然相遇，逐渐成为彼此初恋的故事",
-      "电影展现他们经历成长中的喜悦与挑战，关系不断加深"
+      "电影《我们曾经是我们》由Koo Kyo Hwan（暂译：具教焕）和Mun Ka Young（暂译：文佳煐）主演",
+      "影片讲述两人在公交车上偶遇，逐渐成为彼此初恋的故事",
+      "文章列出4个观看理由，但原文未具体说明理由内容"
     ],
-    "summary_zh": "暖心爱情电影《我们曾经是我们》由具教焕和文佳煐主演，讲述恩浩和郑媛在公交车上偶然相遇，逐渐成为彼此初恋的故事。影片描绘了他们经历成长中的各种喜悦与挑战，关系不断加深。本文列出4个观看理由，推荐这部感人至深的作品。",
-    "extracted_at": "2026-07-11T17:24:48.186499+08:00"
+    "summary_zh": "电影《我们曾经是我们》由具教焕（暂译）和文佳煐（暂译）主演，讲述两人在公交车上偶遇并逐渐成为彼此初恋的故事。文章推荐了4个观看理由，但未详细展开。",
+    "extracted_at": "2026-07-11T21:10:00.490730+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -283,10 +309,10 @@
     "facts_list": [
       "XLOV组合推出‘无性别’概念，旨在打破性别界限",
       "组合在独家专访中表示：‘换个角度看世界’",
-      "该报道由People.com发布"
+      "该报道由People.com独家发布"
     ],
-    "summary_zh": "K-Pop新组合XLOV以‘无性别’概念引发关注，强调打破传统性别界限。在People.com的独家专访中，成员们表示希望通过音乐传递‘换个角度看世界’的信息。该组合尚未发布具体作品，但概念已引发行业讨论。",
-    "extracted_at": "2026-07-11T17:24:50.439574+08:00"
+    "summary_zh": "K-Pop新组合XLOV以‘无性别’概念引发关注，强调打破传统性别框架。在People.com的独家专访中，成员们表示希望通过音乐传递‘换个角度看世界’的信息。该概念旨在挑战K-Pop行业常规，展现多元包容的审美。",
+    "extracted_at": "2026-07-11T21:10:03.199698+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -301,16 +327,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "K-Pop主题马戏团将巡演至三城地区，儿童免费票获取方式公布",
+    "title_zh": "K-Pop主题马戏团将巡演至三城，儿童免费票获取方式公布",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "K-Pop主题马戏团即将在三城地区（Tri-Cities）进行演出",
-      "儿童可免费获取门票，具体方式已公布"
+      "K-Pop主题马戏团即将在三城地区进行演出",
+      "儿童可免费获取门票，具体方式由Tri-City Herald公布"
     ],
-    "summary_zh": "据Tri-City Herald报道，一场K-Pop主题的马戏团演出即将来到三城地区。活动方提供了儿童免费门票的获取方式，具体细节请参考原文。",
-    "extracted_at": "2026-07-11T17:24:52.605166+08:00"
+    "summary_zh": "据Tri-City Herald报道，一场以K-Pop为主题的马戏团表演即将来到三城地区。活动方提供了儿童免费门票的获取方式，具体细节请参考原文。",
+    "extracted_at": "2026-07-11T21:10:05.244302+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -330,11 +356,10 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "Hot Toys发布新款Cosbaby系列，主题为K-Pop恶魔猎人",
-      "该系列由Bleeding Cool News报道"
+      "Hot Toys发布新款K-Pop主题恶魔猎人Cosbaby玩偶"
     ],
-    "summary_zh": "Hot Toys推出新款Cosbaby系列，以K-Pop恶魔猎人为主题，由Bleeding Cool News报道。",
-    "extracted_at": "2026-07-11T17:24:54.453794+08:00"
+    "summary_zh": "Hot Toys推出了以K-Pop为灵感的恶魔猎人Cosbaby系列玩偶，具体细节未在原文中详述。",
+    "extracted_at": "2026-07-11T21:10:06.914051+08:00"
   },
   {
     "source_id": "asianwiki",
