@@ -1,5 +1,419 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Princess Anne meets K-Pop royalty NMIXX as she kicks off her tour of South Korea - Tatler",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTlVWTG9zVVBsSHd5bTdyV1NHem9YM2RjV04wSEFxWXNxWFBsUlN4TWc4dW03TmRFNTZBZU1BT2hKNkw4bHYwNUJqazEtZF9TN3ltaklYQVRiVEZxUWxRZG05bGQtZjVMdlhjZ2c3TEJYOUh6LTVreXYzMi03S29GbDFBdGY5X29pUS1ZeWVVenBwb2d1eV9kdGw0aEliNU5xdjJTNS1TaHEzbFRnbUNJMw?oc=5",
+    "content": "Princess Anne meets K-Pop royalty NMIXX as she kicks off her tour of South Korea Tatler",
+    "published_at": "0715google-kpop",
+    "published_ts": 1784108558.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "安妮公主开启韩国访问，会见K-Pop女团NMIXX",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "安妮公主在韩国访问期间会见了K-Pop女团NMIXX",
+      "该活动是安妮公主韩国之旅的一部分"
+    ],
+    "summary_zh": "英国安妮公主在韩国访问期间，与K-Pop女团NMIXX会面。此次会面是安妮公主韩国之旅的行程之一。",
+    "extracted_at": "2026-07-15T17:58:38.480834+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Gong Yoo Announces Dates And Cities For 2026 Asia Fan Meeting Tour “The Long Take”",
+    "url": "https://www.soompi.com/article/1854933wpp/watch-gong-yoo-announces-dates-and-cities-for-2026-asia-fan-meeting-tour-the-long-take",
+    "content": "Gong Yoo is set to embark on an Asia fan meeting tour! On July 15, his agency Management SOOP officially announced the dates and cities for Gong Yoo&#8217;s 2026 Asia fan meeting tour &#8220;The Long Take&#8221; through its social media channels, along with a teaser video. The tour will kick off in Yokohama on October&#8230; Continue reading Watch: Gong Yoo Announces Dates And Cities For 2026 Asia Fan Meeting Tour “The Long Take”\nThe post Watch: Gong Yoo Announces Dates And Cities For 2026 Asia Fan Meeting Tour “The Long Take” appeared first on Soompi.",
+    "published_at": "0715soompi",
+    "published_ts": 1784108404.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "孔刘2026年亚洲粉丝见面会巡演“The Long Take”公布日程与城市",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "7月15日，所属社Management SOOP通过社交媒体发布孔刘2026年亚洲粉丝见面会巡演“The Long Take”的日程与城市，并公开预告视频。",
+      "巡演首站为横滨，具体日期未在摘要中提及。"
+    ],
+    "summary_zh": "孔刘将于2026年举办亚洲粉丝见面会巡演“The Long Take”。7月15日，其所属社Management SOOP通过社交媒体正式公布巡演日程与城市，并发布预告视频。巡演首站定于横滨，更多城市及日期待后续公开。",
+    "extracted_at": "2026-07-15T17:58:40.944018+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Red Velvet Announces New Season Of Reality Show “Level Up Project”",
+    "url": "https://www.soompi.com/article/1854799wpp/red-velvet-announces-new-season-of-reality-show-level-up-project",
+    "content": "Red Velvet’s reality show “Level Up Project” is returning for a new season! On July 15, Red Velvet unveiled the group poster for “Level Up Project 6,” announcing the upcoming season. First aired in 2017, “Level Up Project” has continued to receive love from fans in Korea and around the world by showcasing Red Velvet’s&#8230; Continue reading Red Velvet Announces New Season Of Reality Show “Level Up Project”\nThe post Red Velvet Announces New Season Of Reality Show “Level Up Project” appeared first on Soompi.",
+    "published_at": "0715soompi",
+    "published_ts": 1784107527.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Red Velvet 真人秀《Level Up Project》宣布推出第六季",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "7月15日，Red Velvet公开《Level Up Project 6》团体海报，宣布新季即将播出",
+      "该节目自2017年首播，持续获得韩国及全球粉丝喜爱"
+    ],
+    "summary_zh": "Red Velvet 的真人秀《Level Up Project》将推出第六季。7月15日，组合公开了《Level Up Project 6》的团体海报，宣布新季即将到来。该节目自2017年首播以来，通过展示Red Velvet的多样魅力，持续受到韩国及全球粉丝的喜爱。",
+    "extracted_at": "2026-07-15T17:58:43.113769+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Namkoong Min And Lee Seol Celebrate Their Daughter’s Birthday Together In “The Husband”",
+    "url": "https://www.soompi.com/article/1854877wpp/namkoong-min-and-lee-seol-celebrate-their-daughters-birthday-together-in-the-husband",
+    "content": "KBS 2TV’s “The Husband” has shared new stills ahead of its upcoming episode! “The Husband” is a new thriller starring Namkoong Min as a man on the brink of divorce who unexpectedly becomes embroiled in a desperate fight with a dangerous criminal in order to rescue his wife. The newly released photos capture Kang Tae&#8230; Continue reading Namkoong Min And Lee Seol Celebrate Their Daughter’s Birthday Together In “The Husband”\nThe post Namkoong Min And Lee Seol Celebrate Their Daughter’s Birthday Together In “The Husband” appeared first on Soompi.",
+    "published_at": "0715soompi",
+    "published_ts": 1784107133.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "南宫珉李雪在《丈夫》中为女儿庆生，新剧照公开",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "KBS 2TV电视剧《丈夫》公开新剧照",
+      "南宫珉与李雪在剧中为女儿庆祝生日"
+    ],
+    "summary_zh": "KBS 2TV新剧《丈夫》公开最新剧照，南宫珉与李雪在剧中为女儿庆祝生日。该剧是一部惊悚片，讲述一名濒临离婚的男子意外卷入与危险罪犯的殊死搏斗以拯救妻子的故事。",
+    "extracted_at": "2026-07-15T17:58:45.293218+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "3 Points To Look Forward To In “A Shop For Killers 2”",
+    "url": "https://www.soompi.com/article/1854859wpp/3-points-to-look-forward-to-in-a-shop-for-killers-2",
+    "content": "With its premiere just around the corner, the upcoming drama “A Shop for Killers 2” has shared three key points to look forward to! Based on a novel by “The Killer’s Shopping List” author Kang Ji Young, “A Shop for Killers” is an action drama that follows Jeong Ji An (Kim Hye Joon), who moves&#8230; Continue reading 3 Points To Look Forward To In “A Shop For Killers 2”\nThe post 3 Points To Look Forward To In “A Shop For Killers 2” appeared first on Soompi.",
+    "published_at": "0715soompi",
+    "published_ts": 1784105768.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《杀人者的购物中心2》公开三大看点",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "《杀人者的购物中心2》即将首播，公开三大看点",
+      "该剧改编自《杀人者的购物清单》作者姜智英的小说",
+      "剧情围绕郑智安（金慧埈饰）展开"
+    ],
+    "summary_zh": "《杀人者的购物中心2》即将首播，剧组公开三大看点。该剧改编自《杀人者的购物清单》作者姜智英的小说，是一部动作剧，讲述郑智安（金慧埈饰）的故事。具体看点未在原文中详细说明。",
+    "extracted_at": "2026-07-15T17:58:47.659395+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "CJ ENM’s Mnet & Universal Music Group’s Republic Partner To Launch Global Girl Group - Deadline",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc0JwbWxpVmN4NGYzVEV4YWpuZDk4cTZBWlBOMWp4MHN5T0tCS193WlZMNTBOanNoeTJ6SDNlNVo1TDBLaXZ3NEQ2dXZmZTllX00waXZyeDVPdloyOGFZaTVEeS1Yb0E5OFNyS3F1cXIwaGk3dS1ITGE3TlpUQnRiNUV1bzZhbFNLQ2JETHlwRnc?oc=5",
+    "content": "CJ ENM’s Mnet & Universal Music Group’s Republic Partner To Launch Global Girl Group Deadline",
+    "published_at": "0715google-kpop",
+    "published_ts": 1784104980.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "CJ ENM旗下Mnet与环球音乐Republic合作推出全球女团",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "CJ ENM旗下Mnet与环球音乐集团旗下Republic唱片公司宣布合作",
+      "双方将共同推出一个全球性女子组合"
+    ],
+    "summary_zh": "CJ ENM旗下Mnet与环球音乐集团旗下Republic唱片公司宣布合作，计划共同推出一个全球性女子组合。该合作旨在结合Mnet在K-pop领域的制作经验与Republic的全球音乐网络，打造面向国际市场的女团。具体出道时间及成员选拔方式尚未公布。",
+    "extracted_at": "2026-07-15T17:58:49.718574+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kim Bo Ra To Star In New Romance Short-Form Drama",
+    "url": "https://www.soompi.com/article/1854909wpp/kim-bo-ra-to-star-in-new-romance-short-form-drama",
+    "content": "Kim Bo Ra will star in an upcoming short-form drama! On July 15, it was officially announced that Kim Bo Ra will star in the new short-form drama “I’m the Real Third-Generation Chaebol Heir!” (literal title). “I’m the Real Third-Generation Chaebol Heir!” is a high-teen romance about Hae In (Kim Bo Ra), the true heiress&#8230; Continue reading Kim Bo Ra To Star In New Romance Short-Form Drama\nThe post Kim Bo Ra To Star In New Romance Short-Form Drama appeared first on Soompi.",
+    "published_at": "0715soompi",
+    "published_ts": 1784104942.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "金宝罗将主演新短剧《我是真正的第三代财阀继承人》",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "7月15日，官方宣布金宝罗将主演新短剧《我是真正的第三代财阀继承人》（暂译）",
+      "该剧是一部青春浪漫剧，讲述真正的女继承人海仁（金宝罗饰）的故事"
+    ],
+    "summary_zh": "7月15日，官方宣布金宝罗将主演新短剧《我是真正的第三代财阀继承人》（暂译）。该剧是一部青春浪漫剧，讲述真正的女继承人海仁（金宝罗饰）的故事。",
+    "extracted_at": "2026-07-15T17:58:52.197277+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Korean Festival brings K-pop, food, fashion to Kapiolani Park - Hawaii News Now",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRVFqTER6MXp3eG1fR0U3UThoZ2c0cXYzeWk0aEF3LTF0S21zZUpXNWoxSlNPRmFKLXQ5QUt5bHg5TTdKYVFvSEJwb1AxRmxzLTNoZlJUX3FtZkp6MFNIQzN4ZGVmVnUwaEdKUEcyZWxVY3JLbExOeVdpUWwzYkNodzBoeXl4LXNHb1JReDRZMzd4YlUtdUtUbGdrbDNGR3PSAbMBQVVfeXFMTWNTdGlsaDdVeDhjZDhCdXB2WFBoTFlwME1qVEU5aVZ0Xy0wYXVrTlltUTQxMTlWSVVMM2JnbUo2QmZBMHdnSTBFSDFFLVp4cGlTLW9CdTVDaXowWE41YnBQVmJXSk9iY2x5RVRQTUE4ZEFQTFBDb2JhamVQbVVsbmZjRjhDbS1VeHo5QUIwaUZ3MzJ6Uzk2Z1E2NS1FT203MkpBZ3lkUVdaUkZacVRWaHIxTzQ?oc=5",
+    "content": "Korean Festival brings K-pop, food, fashion to Kapiolani Park Hawaii News Now",
+    "published_at": "0715google-kpop",
+    "published_ts": 1784104320.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "韩国节在卡皮欧拉尼公园举办，带来K-pop、美食与时尚",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "韩国节在夏威夷卡皮欧拉尼公园举办",
+      "活动内容包括K-pop表演、韩国美食和时尚展示"
+    ],
+    "summary_zh": "韩国节在夏威夷卡皮欧拉尼公园举行，活动融合了K-pop音乐、韩国美食和时尚元素，为当地居民和游客带来韩国文化体验。",
+    "extracted_at": "2026-07-15T17:58:54.035035+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Big Bang names world tour 'XX:Cosmos' - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1lbFdhdnZlYTM3b243eTVwbUo5THlCTUhzdGx4SGMwWmZzbUdRNzRMcUZIbzlvellqNXZiWGR0RWt3YXphQ3BYTDZXakVZNjVGcmVUSzZaTQ?oc=5",
+    "content": "Big Bang names world tour 'XX:Cosmos' The Korea Herald",
+    "published_at": "0715google-kpop",
+    "published_ts": 1784104176.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "BIGBANG公布世界巡演名称“XX:Cosmos”",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "BIGBANG公布世界巡演名称为“XX:Cosmos”",
+      "该消息由《韩国先驱报》报道"
+    ],
+    "summary_zh": "据《韩国先驱报》报道，BIGBANG公布了其世界巡演的名称“XX:Cosmos”。",
+    "extracted_at": "2026-07-15T17:58:55.733731+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-pop stars Max Changmin and Beomgyu, along with top esports player Faker, are among the cast members of the new mystery game show \"Murder Club: Liar's Table\" set to premiere on Disney+ later this month. Tap the link in the comments section to read m - facebook.com",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZXQ4ZXU0TG5ET0xGU252X1dkN3lncUVqdmNSWTVtWHFNVVFKd2M0RzBNdGV2ckZRY1k2elRQaGlMalltQURhUkRValVXdUtYMzc2bnBSM1pFRG5KNV9HaElHNHVkVFBGdDdWOXZYNWVBVEdkSUpnVWdLLUlJakZxN05uTUNrS2tzaWlDN2Z2d00xRzJZZ0RQSWZGcmh1bHd1U1BvUl8xNHBUckJQcy1zOXp6THYwaG1Jd3U5V2x5dUUtYmFUZXdfWkdNdVlpSFZFNWVaNDB5WQ?oc=5",
+    "content": "K-pop stars Max Changmin and Beomgyu, along with top esports player Faker, are among the cast members of the new mystery game show \"Murder Club: Liar's Table\" set to premiere on Disney+ later this month. Tap the link in the comments section to read m facebook.com",
+    "published_at": "0715google-kpop",
+    "published_ts": 1784103003.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "最强昌珉、崔范奎、Faker加盟Disney+新综艺《谋杀俱乐部：谎言桌》",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "K-pop艺人最强昌珉（Max Changmin）、崔范奎（Beomgyu）与电竞选手Faker加盟新综艺《谋杀俱乐部：谎言桌》（Murder Club: Liar's Table）",
+      "该节目为悬疑游戏类综艺，将于本月晚些时候在Disney+首播"
+    ],
+    "summary_zh": "K-pop艺人最强昌珉（Max Changmin）、崔范奎（Beomgyu）与顶级电竞选手Faker加盟Disney+新综艺《谋杀俱乐部：谎言桌》（Murder Club: Liar's Table），该节目为悬疑游戏类综艺，将于本月晚些时候首播。",
+    "extracted_at": "2026-07-15T17:58:57.936184+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "First Impressions: Song Wei Long And Zhang Jing Yi Shine In Bittersweet Romance “Love For You”",
+    "url": "https://www.soompi.com/article/1853206wpp/first-impressions-song-wei-long-and-zhang-jing-yi-shine-in-bittersweet-romance-love-for-you",
+    "content": "We often don’t meet people by accident. Fate can orchestrate moments and situations, forcing us to make decisions. These choices can determine the course of our lives. We either ride the waves or sink into the abyss. Chen Yi (Song Wei Long) and Miao Jing (Zhang Jing Yi) share a similar fate. Both have learned&#8230; Continue reading First Impressions: Song Wei Long And Zhang Jing Yi Shine In Bittersweet Romance &#8220;Love For You&#8221;\nThe post First Impressions: Song Wei Long And Zhang Jing Yi Shine In Bittersweet Romance &#8220;Love For You&#8221; appeared first on Soompi.",
+    "published_at": "0715soompi",
+    "published_ts": 1784102040.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "宋威龙、张婧仪新剧《爱你》首波评价：苦涩浪漫中的闪耀",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "宋威龙与张婧仪主演新剧《爱你》发布首波评价",
+      "剧情聚焦命运安排下陈毅（宋威龙饰）与苗静（张婧仪饰）的苦涩浪漫"
+    ],
+    "summary_zh": "宋威龙与张婧仪主演的新剧《爱你》发布首波评价，剧情讲述命运安排下陈毅与苗静的苦涩浪漫故事。",
+    "extracted_at": "2026-07-15T17:58:59.844575+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Lee Jung Eun And Kong Hyo Jin’s Upcoming Film “The Journey To Gyeongju” Confirms Premiere Date With Intriguing Posters",
+    "url": "https://www.soompi.com/article/1854755wpp/lee-jung-eun-and-kong-hyo-jins-upcoming-film-the-journey-to-gyeongju-confirms-premiere-date-with-intriguing-posters",
+    "content": "Upcoming film &#8220;The Journey to Gyeongju&#8221; has unveiled its first posters! “The Journey to Gyeongju” is a family revenge film about a mother and three daughters who embark on a &#8220;killer&#8221; journey after waiting eight years, all for their youngest daughter Gyeong Ju who never returned from a school field trip. The poster features what&#8230; Continue reading Lee Jung Eun And Kong Hyo Jin’s Upcoming Film &#8220;The Journey To Gyeongju&#8221; Confirms Premiere Date With Intriguing Posters\nThe post Lee Jung Eun And Kong Hyo Jin’s Upcoming Film &#8220;The Journey To Gyeongju&#8221; Confirms Premiere Date With Intriguing Posters appeared first on Soompi.",
+    "published_at": "0715soompi",
+    "published_ts": 1784101676.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "李姃垠、孔晓振新片《庆州之旅》确定上映日期，海报公开",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "电影《庆州之旅》公开首张海报",
+      "该片是一部家庭复仇题材电影，讲述母亲和三个女儿为寻找八年前在学校郊游中失踪的小女儿庆州而踏上“杀手”之旅",
+      "主演包括李姃垠和孔晓振"
+    ],
+    "summary_zh": "李姃垠和孔晓振主演的新片《庆州之旅》公开首张海报并确定上映日期。该片是一部家庭复仇题材电影，讲述母亲和三个女儿为寻找八年前在学校郊游中失踪的小女儿庆州而踏上“杀手”之旅的故事。",
+    "extracted_at": "2026-07-15T17:59:02.383176+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Jung Jun Won And Lee Sang Yi Unknowingly Chase After Kong Hyo Jin In New Drama “A Bona Fide Killer” Posters",
+    "url": "https://www.soompi.com/article/1854808wpp/jung-jun-won-and-lee-sang-yi-unknowingly-chase-after-kong-hyo-jin-in-new-drama-a-bona-fide-killer-posters",
+    "content": "MBC’s upcoming drama “A Bona Fide Killer” has unveiled new character posters! “A Bona Fide Killer” is an action drama about a working mother with a lethal job who is fighting to protect her work-life balance. In what marks her first MBC drama in 15 years, Kong Hyo Jin stars as Yu Bo Na, the&#8230; Continue reading Jung Jun Won And Lee Sang Yi Unknowingly Chase After Kong Hyo Jin In New Drama “A Bona Fide Killer” Posters\nThe post Jung Jun Won And Lee Sang Yi Unknowingly Chase After Kong Hyo Jin In New Drama “A Bona Fide Killer” Posters appeared first on Soompi.",
+    "published_at": "0715soompi",
+    "published_ts": 1784101086.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "郑俊元与李相二新剧《杀人者的购物中心》海报公开，追逐孔孝真",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "MBC新剧《杀人者的购物中心》公开新角色海报",
+      "孔孝真饰演Yu Bo Na，一名有致命工作的职场母亲",
+      "郑俊元和李相二在剧中追逐孔孝真",
+      "该剧是孔孝真15年来首次出演MBC电视剧"
+    ],
+    "summary_zh": "MBC新剧《杀人者的购物中心》公开新角色海报，孔孝真饰演一名有致命工作的职场母亲，郑俊元和李相二在剧中追逐她。该剧是孔孝真15年来首次出演MBC电视剧。",
+    "extracted_at": "2026-07-15T17:59:04.644136+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "New K-drama releases of the week (July 13-19): 13 new Korean dramas streaming on Netflix & other OTT platforms - GQ India",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOY3Nxby1VWTJsV1ZkUE55SmRNOE1paW9jWDM4SlctUlJELUF3QUVwWms4TWU1RW11WF9QT1NWWVRzU25wRTZPaVM5QktyNlU0QTljdDRnbzBkZ3FuaGhPWkZ5NU9YSzR1TEc4U29taW1INjE3ejB5Umpkd2g2aVgzd1BnYUllU1lqcjJ2amViOWFEa2dxUzdjaEZEUG1JUFY1UmplSmlKWGJIRVYtdHFWU0J4M1UweWVzMi1qWWx1T3BybzRwdXhxVFVQcUVSN3Y4dnpTb0J2NFI?oc=5",
+    "content": "New K-drama releases of the week (July 13-19): 13 new Korean dramas streaming on Netflix & other OTT platforms GQ India",
+    "published_at": "0715google-kpop",
+    "published_ts": 1784100600.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "本周新韩剧（7月13-19日）：Netflix等平台上线13部新剧",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "时间：7月13日至19日",
+      "事件：13部新韩剧在Netflix及其他OTT平台上线",
+      "来源：GQ India报道"
+    ],
+    "summary_zh": "据GQ India报道，7月13日至19日期间，共有13部新韩剧在Netflix及其他OTT平台上线。",
+    "extracted_at": "2026-07-15T17:59:06.288642+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "CORTIS’s Keonho To Limit Performances During Upcoming Tour After Hand Injuries + Shares Message To Fans",
+    "url": "https://www.soompi.com/article/1854906wpp/cortiss-keonho-to-limit-performances-during-upcoming-tour-after-hand-injuries-shares-message-to-fans",
+    "content": "CORTIS&#8217;s Keonho has suffered injuries to both of his hands. On July 15, BIGHIT MUSIC announced that Keonho will perform without choreography during CORTIS&#8217;s upcoming &#8220;PUT YOUR PHONE DOWN&#8221; tour and other scheduled activities after a fall left him with fractures around both little fingers. For the time being, he will also wear casts and&#8230; Continue reading CORTIS&#8217;s Keonho To Limit Performances During Upcoming Tour After Hand Injuries + Shares Message To Fans\nThe post CORTIS&#8217;s Keonho To Limit Performances During Upcoming Tour After Hand Injuries + Shares Message To Fans appeared first on Soompi.",
+    "published_at": "0715soompi",
+    "published_ts": 1784100316.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "CORTIS成员Keonho手部骨折，将限制巡演表演并戴石膏",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Keonho因摔倒导致双手小指周围骨折",
+      "BIGHIT MUSIC于7月15日宣布，Keonho在CORTIS即将举行的“PUT YOUR PHONE DOWN”巡演及其他活动中将不参与编舞表演",
+      "Keonho将暂时佩戴石膏"
+    ],
+    "summary_zh": "CORTIS成员Keonho因摔倒导致双手小指周围骨折。BIGHIT MUSIC于7月15日宣布，在即将举行的“PUT YOUR PHONE DOWN”巡演及其他活动中，Keonho将不参与编舞表演，并暂时佩戴石膏。",
+    "extracted_at": "2026-07-15T17:59:08.595278+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Ha Seok Jin, Jin Kyung, And Mi Ram Are A Fractured Family Hoping To Heal Old Wounds In “Love On The Menu”",
+    "url": "https://www.soompi.com/article/1854878wpp/ha-seok-jin-jin-kyung-and-mi-ram-are-a-fractured-family-hoping-to-heal-old-wounds-in-love-on-the-menu",
+    "content": "“Love on the Menu” has unveiled new stills of Ha Seok Jin’s character’s family! “Love on the Menu” is a family romance drama that follows Kim Moo Jin (Ha Seok Jin) and Han Gyu Rim (Hani), two former lovers who reunite eight years after a painful breakup. As they reconnect, they piece together the fragments&#8230; Continue reading Ha Seok Jin, Jin Kyung, And Mi Ram Are A Fractured Family Hoping To Heal Old Wounds In “Love On The Menu”\nThe post Ha Seok Jin, Jin Kyung, And Mi Ram Are A Fractured Family Hoping To Heal Old Wounds In “Love On The Menu” appeared first on Soompi.",
+    "published_at": "0715soompi",
+    "published_ts": 1784097718.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《爱情菜单》河锡辰、陈庆、美岚饰演破碎家庭，渴望治愈旧伤",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "《爱情菜单》公开河锡辰角色家族新剧照",
+      "该剧讲述河锡辰饰演的金武镇与Hani饰演的韩圭琳在痛苦分手八年后重逢，并拼凑过去碎片的故事"
+    ],
+    "summary_zh": "韩剧《爱情菜单》公开新剧照，聚焦河锡辰饰演的金武镇的家庭。该剧是一部家庭浪漫剧，讲述金武镇与旧爱韩圭琳（Hani饰）在痛苦分手八年后重逢，并逐渐拼凑过去碎片的故事。",
+    "extracted_at": "2026-07-15T17:59:11.463012+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Honne credits BTS as early supporter, hopes to collaborate with NewJeans - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMZ2VLRGtWZHpXQ3IwdU13aVpqbDZ2UHByb3E4S09DQm5XYmMtam9xamFCMVoxVGIwRDZ6QWpHN0ZnZ0hZSkdBRXd3RHlNaEVoS3dHN1RrMA?oc=5",
+    "content": "Honne credits BTS as early supporter, hopes to collaborate with NewJeans The Korea Herald",
+    "published_at": "0715google-kpop",
+    "published_ts": 1784095581.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "英伦组合Honne感谢BTS早期支持，盼与NewJeans合作",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "英国电子组合Honne在采访中称BTS是其早期支持者",
+      "Honne表示希望未来能与NewJeans合作"
+    ],
+    "summary_zh": "英国电子音乐组合Honne在《韩国先驱报》采访中感谢BTS在其早期职业生涯中的支持，并表达希望与NewJeans合作的愿望。",
+    "extracted_at": "2026-07-15T17:59:13.245823+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -12,16 +426,87 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "李阵郁与林允儿洽谈出演韩版《Unnatural》",
+    "title_zh": "李阵郁与林允儿洽谈主演韩版《Unnatural》",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "李阵郁正在洽谈出演韩版《Unnatural》",
-      "林允儿此前于5月9日被报道将出演该剧，其所属社SM娱乐同日回应称收到出演提案"
+      "李阵郁加入林允儿，正在洽谈出演韩版《Unnatural》",
+      "林允儿于5月9日被报道将主演该剧，其所属社SM娱乐同日回应称收到出演提案"
     ],
-    "summary_zh": "李阵郁有望与少女时代成员林允儿共同出演韩版《Unnatural》。此前林允儿于5月9日被报道将主演该剧，其所属社SM娱乐同日回应确认收到出演提案。",
-    "extracted_at": "2026-07-15T14:12:25.639010+08:00"
+    "summary_zh": "李阵郁与少女时代成员林允儿正在洽谈出演韩版《Unnatural》（暂定名）。此前5月9日，林允儿被报道将主演该剧，其所属社SM娱乐同日回应确认收到出演提案。",
+    "extracted_at": "2026-07-15T17:59:15.624818+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Park Eun-bin returns in movie-turned-K-drama 'Spooky In Love' - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2dTQwQWVRRXNGTW5jc1dYTjZYdjU2MkJVQ0Q2LU1Bd2hrby1pbW5jSDQyUV9TOFVJeFZmLXk1czVSbFRTUHV3MWpRRWJJRkkxalRYejFVUQ?oc=5",
+    "content": "Park Eun-bin returns in movie-turned-K-drama 'Spooky In Love' The Korea Herald",
+    "published_at": "0715google-kpop",
+    "published_ts": 1784091391.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "朴恩斌回归新剧《Spooky In Love》，改编自同名电影",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "朴恩斌将主演改编自电影的韩剧《Spooky In Love》",
+      "该剧由《韩国先驱报》报道"
+    ],
+    "summary_zh": "据《韩国先驱报》报道，演员朴恩斌将回归主演一部改编自电影的韩剧《Spooky In Love》。该剧目前尚未公布具体播出时间及平台。",
+    "extracted_at": "2026-07-15T17:59:17.649422+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "RESCENE Join Lee Kang-in’s Atlético Madrid for Manchester City’s Biggest K-pop Night in Seoul - football-asian.com",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rQzc2UmFKZ2hqVl9WWmctcGpNUmF6c3d1SXVVYjhIaVBKYnRmSDdfVzBCUnpRMy15T21UdmlGaEFfbE50dzRoR2ttYWdyWHFoOGEwams3Wk96aXloNVhYSFpmZk5WZVIzNE4zeWpObWI?oc=5",
+    "content": "RESCENE Join Lee Kang-in’s Atlético Madrid for Manchester City’s Biggest K-pop Night in Seoul football-asian.com",
+    "published_at": "0715google-kpop",
+    "published_ts": 1784090722.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "RESCENE加盟李刚仁马竞与曼城首尔K-pop之夜",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "RESCENE将参加李刚仁所属马德里竞技与曼城在首尔举办的K-pop之夜活动",
+      "活动由football-asian.com报道"
+    ],
+    "summary_zh": "据football-asian.com报道，韩国女团RESCENE将加盟李刚仁所在的马德里竞技俱乐部，与曼城共同在首尔举办大型K-pop之夜活动。",
+    "extracted_at": "2026-07-15T17:59:19.446912+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "8 South Korean Actors in Their 40s Who Continue to Rule the K-Drama World - Metro.Style",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWi1Va29QZUxtYjBGTGU5Q1didXI0aVNYR2QxN3FsOHFOYW92REJnMk5JMEhxdzhjc2drcEQxSFRkamFlUVlQQkdla1RhNGs2d19IMHJzeDVzZkttVW84WUFUQlpONFdwU3JoUWRscGdDSkpzbTU2SWh3RzRLZVU5WDRfSlV1VVl0NWxMUnlIVzhyZFpOc3g1YWN4bGNwbVAzbnNmQ1ZkVm5TNzNIWkduLVM0bw?oc=5",
+    "content": "8 South Korean Actors in Their 40s Who Continue to Rule the K-Drama World Metro.Style",
+    "published_at": "0715google-kpop",
+    "published_ts": 1784090424.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "8位40代韩国男演员持续称霸韩剧界",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Metro.Style发布文章，列举8位40代韩国男演员持续称霸韩剧界"
+    ],
+    "summary_zh": "Metro.Style发布文章，列举8位40代韩国男演员，称他们持续称霸韩剧界。文章未具体提及演员名单及作品细节。",
+    "extracted_at": "2026-07-15T17:59:21.115749+08:00"
   },
   {
     "source_id": "soompi",
@@ -36,17 +521,41 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "东方神起昌珉、TXT范奎等加盟Disney+新综艺《Murder Club》AI推理游戏",
+    "title_zh": "东方神起昌珉、TXT范奎等加盟Disney+新综艺《谋杀俱乐部》AI推理游戏",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "Disney+新综艺《Murder Club》公开预告片，公布出演阵容和播出详情",
-      "节目为AI神秘推理游戏秀，韩国顶级艺人前往神秘俱乐部，每集设定不同时代和场景",
+      "Disney+新综艺《谋杀俱乐部》公开预告片，公布出演阵容和播出详情",
+      "节目为AI神秘推理游戏秀，韩国顶级明星前往神秘俱乐部，每集设定不同时代和场景，参与者均成为谋杀案嫌疑人",
       "出演者包括东方神起昌珉、TXT范奎等"
     ],
-    "summary_zh": "Disney+新综艺《Murder Club》公开预告片，公布出演阵容和播出详情。该节目为AI神秘推理游戏秀，韩国顶级艺人前往神秘俱乐部，每集设定不同时代和场景，所有参与者均成为谋杀案嫌疑人。出演者包括东方神起昌珉、TXT范奎等。",
-    "extracted_at": "2026-07-15T14:12:28.166228+08:00"
+    "summary_zh": "Disney+新综艺《谋杀俱乐部》公开预告片，公布出演阵容和播出详情。该节目为AI神秘推理游戏秀，韩国顶级明星前往神秘俱乐部，每集设定不同时代和场景，参与者均成为谋杀案嫌疑人。出演者包括东方神起昌珉、TXT范奎等。",
+    "extracted_at": "2026-07-15T17:59:23.493070+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "OMEGA X Announces “NO LIMIT US Tour” Dates & Details - V13 Media",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBheDI0SVRaTnVxRXg3b3VCTjhYM1BrYlJrVlpYV0dORklhcGRtNVB1S3FPWTA4Y1BLNVByTmZjQXY5bEhpdFJEUWc0ekw3QjVRdDVyMW9IOVZZRE9lSDB1TFdRdm43TjJNdTNMSF9iVHhMaVhfRzh5TXJjTEU4Zw?oc=5",
+    "content": "OMEGA X Announces “NO LIMIT US Tour” Dates & Details V13 Media",
+    "published_at": "0715google-kpop",
+    "published_ts": 1784083381.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "OMEGA X 宣布“NO LIMIT”美国巡演日程及详情",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "OMEGA X 宣布举行“NO LIMIT US Tour”美国巡演",
+      "巡演具体日期和城市等细节由 V13 Media 发布"
+    ],
+    "summary_zh": "OMEGA X 通过 V13 Media 宣布了“NO LIMIT US Tour”美国巡演的日期和详情。",
+    "extracted_at": "2026-07-15T17:59:25.539130+08:00"
   },
   {
     "source_id": "soompi",
@@ -61,7 +570,7 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "第41届金唱片奖公布举办地点及详情",
+    "title_zh": "第41届金唱片奖将于2027年1月在越南河内举行",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
@@ -69,8 +578,8 @@
       "2025年7月15日，金唱片奖主办方HLL宣布第41届金唱片奖将于2027年1月在越南河内举行",
       "这是金唱片奖首次在越南举办"
     ],
-    "summary_zh": "金唱片奖主办方HLL于7月15日宣布，第41届金唱片奖将于2027年1月在越南河内举行，这将是该奖项首次在越南举办。",
-    "extracted_at": "2026-07-15T14:12:29.863495+08:00"
+    "summary_zh": "金唱片奖主办方HLL于7月15日宣布，第41届金唱片奖将于2027年1月在越南河内举行，这将是该颁奖礼首次在越南举办。",
+    "extracted_at": "2026-07-15T17:59:27.227532+08:00"
   },
   {
     "source_id": "soompi",
@@ -85,17 +594,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "安普贤与郑恩彩携手打击犯罪，新剧《Flex X Cop 2》公开海报",
+    "title_zh": "安普贤与郑恩彩联手打击犯罪，新剧《Flex X Cop 2》公开海报",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "SBS新金土剧《Flex X Cop 2》公开新海报",
-      "安普贤继续饰演财阀三代刑警陈伊秀，利用财富和人脉破案",
-      "郑恩彩饰演资深刑警，与安普贤合作打击犯罪"
+      "安普贤饰演第三代财阀继承人陈利洙，在调查陷入僵局时利用财富和人脉如同作弊码",
+      "郑恩彩饰演资深刑警"
     ],
-    "summary_zh": "SBS新金土剧《Flex X Cop 2》公开新海报，安普贤继续饰演财阀三代刑警陈伊秀，利用财富和人脉破案，郑恩彩饰演资深刑警，两人携手打击犯罪。",
-    "extracted_at": "2026-07-15T14:12:32.110807+08:00"
+    "summary_zh": "SBS新金土剧《Flex X Cop 2》公开新海报，安普贤回归饰演第三代财阀继承人陈利洙，在调查陷入僵局时利用财富和人脉如同作弊码，郑恩彩饰演资深刑警，两人联手打击犯罪。",
+    "extracted_at": "2026-07-15T17:59:29.574425+08:00"
   },
   {
     "source_id": "soompi",
@@ -110,16 +619,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "ENHYPEN成员善禹因健康问题缺席墨西哥演唱会",
+    "title_zh": "ENHYPEN成员Sunoo因健康问题缺席墨西哥演唱会",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "ENHYPEN成员善禹因健康状况突然恶化，将无法参加墨西哥演唱会",
-      "所属社BELIFT LAB于7月15日发布声明，宣布善禹因健康原因缺席"
+      "ENHYPEN成员Sunoo因健康状况突然恶化，将无法参加墨西哥演唱会",
+      "所属社BELIFT LAB于7月15日发布声明，宣布Sunoo因健康原因缺席"
     ],
-    "summary_zh": "ENHYPEN成员善禹因健康状况突然恶化，将无法参加即将在墨西哥举行的演唱会。所属社BELIFT LAB于7月15日发布声明，宣布了这一消息。",
-    "extracted_at": "2026-07-15T14:12:33.970038+08:00"
+    "summary_zh": "ENHYPEN成员Sunoo因健康状况突然恶化，将无法参加墨西哥演唱会。所属社BELIFT LAB于7月15日发布声明，表示Sunoo因健康原因无法参与演出。",
+    "extracted_at": "2026-07-15T17:59:31.610002+08:00"
   },
   {
     "source_id": "soompi",
@@ -134,15 +643,15 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "NCT 127全员与SM娱乐续约，7名成员继续同行",
+    "title_zh": "NCT 127全员与SM娱乐续约",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "7月15日，SM娱乐发布声明，确认NCT 127成员Johnny、泰容、Yuta、道英、在玹、廷祐、楷灿已与公司续约"
+      "7月15日，SM娱乐发布声明，确认NCT 127成员Johnny、泰容、Yuta、道英、在玹、廷祐、楷灿已与公司续签专属合约"
     ],
-    "summary_zh": "7月15日，SM娱乐发布声明，确认NCT 127的7名成员——Johnny、泰容、Yuta、道英、在玹、廷祐、楷灿——已与公司续签专属合约。声明表示，NCT 127将继续与SM娱乐同行。",
-    "extracted_at": "2026-07-15T14:12:36.174754+08:00"
+    "summary_zh": "7月15日，SM娱乐发布官方声明，确认NCT 127成员Johnny、泰容、Yuta、道英、在玹、廷祐、楷灿已与公司续签专属合约，将继续与SM娱乐合作。",
+    "extracted_at": "2026-07-15T17:59:33.802278+08:00"
   },
   {
     "source_id": "soompi",
@@ -157,17 +666,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《Spooky in Love》预告：梁世宗闯入朴恩彬主场",
+    "title_zh": "《鬼怪式恋爱》预告：梁世宗闯入朴恩彬主场",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "tvN新剧《Spooky in Love》发布新预告",
+      "tvN新剧《鬼怪式恋爱》发布新预告",
       "该剧翻拍自2011年电影《Spellbound》，讲述能看见鬼的酒店继承人与害怕鬼的检察官之间的混乱合作",
       "预告中梁世宗进入朴恩彬的角色领域"
     ],
-    "summary_zh": "tvN新剧《Spooky in Love》发布新预告，该剧翻拍自2011年电影《Spellbound》，是一部关于能看见鬼的酒店继承人与害怕鬼的检察官之间混乱合作的浪漫喜剧。预告中，梁世宗饰演的角色进入朴恩彬饰演的角色主场。",
-    "extracted_at": "2026-07-15T14:12:38.335239+08:00"
+    "summary_zh": "tvN新剧《鬼怪式恋爱》发布新预告，该剧翻拍自2011年电影《Spellbound》，讲述能看见鬼的酒店继承人（朴恩彬饰）与害怕鬼的检察官（梁世宗饰）之间的混乱合作。预告中梁世宗闯入朴恩彬的角色领域。",
+    "extracted_at": "2026-07-15T17:59:36.059200+08:00"
   },
   {
     "source_id": "soompi",
@@ -182,16 +691,41 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《梦到你》第2集收视率小幅上升至2.8%",
+    "title_zh": "《梦到你》第二集收视率上升至2.8%",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "7月14日，ENA新浪漫喜剧《梦到你》播出第2集",
-      "根据尼尔森韩国数据，该集全国平均收视率为2.8%"
+      "7月14日，ENA新剧《梦到你》播出第二集",
+      "尼尔森韩国数据显示，该集全国平均收视率为2.8%",
+      "主演为黄寅烨和Girl's Day成员惠利"
     ],
-    "summary_zh": "ENA新剧《梦到你》由黄寅烨和Girl's Day惠利主演，第2集收视率小幅上升至全国平均2.8%。",
-    "extracted_at": "2026-07-15T14:12:40.254577+08:00"
+    "summary_zh": "ENA新剧《梦到你》第二集收视率小幅上升，根据尼尔森韩国数据，该集全国平均收视率达到2.8%。该剧由黄寅烨和Girl's Day成员惠利主演，是一部浪漫喜剧。",
+    "extracted_at": "2026-07-15T17:59:38.259532+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Retro K-pop Comedy Film ‘Wild Sing’ Starring Gang Dong-won Streams July 31 on Netflix - About Netflix",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5uRmZfVllNVXQ5OGx1a0swRXZzT2lQaHY5c2pPZmUyYWxTLVdlRXQ3WFhVRm43a1hzcU9qa09xX3NRVHlOZEtjRTA3aDV0VU9jVW5lczUxUHFTRjBrOUtSb0pXYTE0dGt4T3NLVmExQmtHa2J1WUE?oc=5",
+    "content": "Retro K-pop Comedy Film ‘Wild Sing’ Starring Gang Dong-won Streams July 31 on Netflix About Netflix",
+    "published_at": "0715google-kpop",
+    "published_ts": 1784071891.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "姜栋元主演复古K-pop喜剧电影《Wild Sing》7月31日Netflix上线",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "电影《Wild Sing》由姜栋元主演，是一部复古K-pop喜剧片",
+      "该片将于7月31日在Netflix上线"
+    ],
+    "summary_zh": "Netflix宣布，由姜栋元主演的复古K-pop喜剧电影《Wild Sing》将于7月31日上线流媒体平台。影片背景设定在1990年代，讲述一群年轻人追逐K-pop梦想的故事。",
+    "extracted_at": "2026-07-15T17:59:40.220388+08:00"
   },
   {
     "source_id": "soompi",
@@ -211,12 +745,36 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "韩国企业评价研究所于7月15日公布7月偶像组合品牌声誉排行榜",
-      "排名基于6月15日至7月15日大数据分析，涵盖消费者参与度、媒体报道、互动及社区认知度指数",
+      "韩国企业评价研究所于7月15日发布7月偶像组合品牌声誉排行榜",
+      "排名基于6月15日至7月15日期间的大数据，分析消费者参与度、媒体报道、互动和社区认知度指数",
       "BTS保持榜首位置"
     ],
-    "summary_zh": "韩国企业评价研究所公布7月偶像组合品牌声誉排行榜，基于6月15日至7月15日的大数据，分析消费者参与度、媒体报道、互动及社区认知度指数，BTS蝉联第一。",
-    "extracted_at": "2026-07-15T14:12:42.561368+08:00"
+    "summary_zh": "韩国企业评价研究所公布了7月偶像组合品牌声誉排行榜，该排名基于6月15日至7月15日期间的大数据，分析了消费者参与度、媒体报道、互动和社区认知度指数。BTS继续位居榜首。",
+    "extracted_at": "2026-07-15T17:59:42.367206+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Top K-Pop Artists Vie in July KM Chart Voting - 조선일보",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeXJ0ZlhxZ0c4bzl0UWZvaFMzaTB0ejhEOXR3NU90bUp3MGxYci1mRDNaWUpmanJzSmx2RDVlbGtwaXF0WHQzYU1ydHBHSW9LMlRpRDljblBqTzlVaEhRcFNpTVBMSC1GU3p1ZURVeGIySUdUYW5nS1EwbUJjcVVLQjNXMGZzanhKU21fZlNR?oc=5",
+    "content": "Top K-Pop Artists Vie in July KM Chart Voting 조선일보",
+    "published_at": "0715google-kpop",
+    "published_ts": 1784069334.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "7月KM Chart投票：顶级K-POP艺人激烈竞争",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "7月KM Chart投票正在进行，多位顶级K-POP艺人参与竞争",
+      "该投票由《朝鲜日报》报道"
+    ],
+    "summary_zh": "据《朝鲜日报》报道，7月KM Chart投票中，多位顶级K-POP艺人展开激烈竞争。投票结果将反映粉丝支持度，具体参与艺人及排名细节未在原文中详述。",
+    "extracted_at": "2026-07-15T17:59:44.427678+08:00"
   },
   {
     "source_id": "soompi",
@@ -236,12 +794,36 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "Circle Chart（原Gaon Chart）于2026年7月发布2026年上半年专辑及数字榜单",
-      "榜单基于2026年1月起的每周累计数据，年初发行的作品因周数更多而积分更高",
+      "Circle Chart（原Gaon Chart）于2026年7月发布2026年上半年（1月至6月）的专辑及数字榜单",
+      "榜单基于2026年1月起每周累计数据，年初发行的作品因周数更多而占优势",
       "BTS在专辑榜中排名第一"
     ],
-    "summary_zh": "Circle Chart（原Gaon Chart）公布了2026年上半年的专辑和数字榜单。榜单基于2026年1月以来的每周累计数据，因此年初发行的作品因包含更多周数而积分更高。在专辑榜中，BTS位居榜首。",
-    "extracted_at": "2026-07-15T14:12:44.831455+08:00"
+    "summary_zh": "Circle Chart（原Gaon Chart）公布了2026年上半年的专辑及数字榜单。榜单基于2026年1月起的每周累计数据，因此年初发行的作品因包含更多周数而得分更高。在专辑榜中，BTS位居榜首。",
+    "extracted_at": "2026-07-15T17:59:46.995991+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Who is Big Bang? K-pop icon marks 20th anniversary with 2026 world tour - Korea JoongAng Daily",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FckRCMXA4UGUybmdnd3lXOTRHcm5oTjBCQ2ZNR0wtQWNqcDI2ajFmNzBhWXNWZjY3NWQ0ai1yZWdlOXZnU0gxMUpYQm5ybzZ3MmxZeHRueWozMHhwU1VvdFdwX1ItbzgzUlYzLS1Za3hPYUJKY0dabHR2VmlIZw?oc=5",
+    "content": "Who is Big Bang? K-pop icon marks 20th anniversary with 2026 world tour Korea JoongAng Daily",
+    "published_at": "0715google-kpop",
+    "published_ts": 1784062828.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "BigBang出道20周年宣布2026年世界巡演",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "BigBang为纪念出道20周年，宣布将于2026年举行世界巡演",
+      "该消息由韩国《中央日报》英文版报道"
+    ],
+    "summary_zh": "韩国《中央日报》英文版报道，K-pop标志性组合BigBang为纪念出道20周年，宣布将于2026年举行世界巡演。具体巡演日程和地点尚未公布。",
+    "extracted_at": "2026-07-15T17:59:48.820463+08:00"
   },
   {
     "source_id": "soompi",
@@ -256,16 +838,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "BLACKPINK Jennie《Dracula》混音版升至Billboard Hot 100第5位，成第二位进入前5的K-pop女歌手",
+    "title_zh": "BLACKPINK Jennie《Dracula》混音版升至Billboard Hot 100第5位，成第二位进入前5的K-pop女艺人",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "7月13日，Billboard宣布Jennie与Tame Impala合作的《Dracula》混音版在Hot 100榜单上升至第5位",
-      "Jennie成为第二位进入Billboard Hot 100前5名的K-pop女歌手"
+      "Jennie成为第二位进入Billboard Hot 100前5名的K-pop女艺人"
     ],
-    "summary_zh": "7月13日，Billboard公布最新Hot 100榜单，BLACKPINK成员Jennie与Tame Impala合作的《Dracula》混音版升至第5位，创下个人职业生涯新高。Jennie因此成为继某位歌手之后第二位进入该榜单前5名的K-pop女歌手。",
-    "extracted_at": "2026-07-15T14:12:47.022176+08:00"
+    "summary_zh": "7月13日，Billboard宣布BLACKPINK成员Jennie与Tame Impala合作的《Dracula》混音版在Hot 100榜单上升至第5位，创下个人职业生涯新高。Jennie因此成为继某位艺人之后第二位进入该榜单前5名的K-pop女艺人。",
+    "extracted_at": "2026-07-15T17:59:51.383521+08:00"
   },
   {
     "source_id": "soompi",
@@ -290,7 +872,31 @@
       "苏志燮目前位居榜首"
     ],
     "summary_zh": "韩国企业评价研究所公布了7月电视剧演员品牌声誉排名，该排名基于6月14日至7月14日期间播出的100名演员的媒体覆盖、参与、互动和社区指数数据分析。苏志燮目前位居榜首。",
-    "extracted_at": "2026-07-15T14:12:49.258889+08:00"
+    "extracted_at": "2026-07-15T17:59:53.698965+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-Pop Warriors Live Show coming to BCPA this summer - The Pantagraph",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPalBYeTNZSXc5cFBnU3M0eHdlS0ZWOTVzbmp6UWozWGI2dzVaYmE5US11cWlvOHBFNUhlMkNXUnNYaUxjSFZGYndxZU9rWUcyY19kU1pBZE1RMVRlcnBjZDlqQVZXam9pSmt4MGtMMGdCcDdiM0ZmbEJDOVVmWmJiamJmell6VTdZQjZFMEthWmFJVmV1d0w1WWl2Q1EyZTNRQzVMWElB?oc=5",
+    "content": "K-Pop Warriors Live Show coming to BCPA this summer The Pantagraph",
+    "published_at": "0715google-kpop",
+    "published_ts": 1784055600.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "K-Pop Warriors 现场秀今夏登陆BCPA",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "K-Pop Warriors 现场秀将于今年夏天在BCPA（Bloomington Center for the Performing Arts）举办",
+      "该消息由《The Pantagraph》报道"
+    ],
+    "summary_zh": "据《The Pantagraph》报道，K-Pop Warriors 现场秀将于今年夏天在BCPA（Bloomington Center for the Performing Arts）举行。",
+    "extracted_at": "2026-07-15T17:59:55.530688+08:00"
   },
   {
     "source_id": "soompi",
@@ -310,12 +916,36 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "7月13日，iHeartRadio公布2026年Z100夏日狂欢阵容，演出地点为纽约哈德逊城市广场户外场地",
+      "7月13日（当地时间），iHeartRadio公布2026年Z100夏日狂欢阵容，演出地点为纽约哈德逊城市广场户外场地",
       "崔然竣（TXT成员）确认出演，成为首位登上该舞台的韩国艺人",
       "同台艺人包括Charlie Puth、Bella Kay等"
     ],
-    "summary_zh": "7月13日，iHeartRadio公布2026年Z100夏日狂欢阵容，TXT成员崔然竣确认出演，成为首位登上该舞台的韩国艺人。演出将在纽约哈德逊城市广场户外举行，同台艺人包括Charlie Puth、Bella Kay等。",
-    "extracted_at": "2026-07-15T14:12:51.774857+08:00"
+    "summary_zh": "7月13日，iHeartRadio公布2026年Z100夏日狂欢阵容，TXT成员崔然竣确认出演，成为首位登上该舞台的韩国艺人。演出将于纽约哈德逊城市广场户外举行，同台艺人包括Charlie Puth、Bella Kay等。",
+    "extracted_at": "2026-07-15T17:59:57.878714+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-Drama IRION Launches as a Real K-Pop Group While Its Show Still Airs - Tech Times",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVGE3ZGRlY3g4QU93UnkzY09Nd183RU1ZbnV3TEJBX05WQmVFZTN3NjF0eFpKSGJSd2VhRUJLWFFycE1ickppT1l3MWR6Tnc1bU9zX1loQkJ5cVd1aTdsWGxBbGIxeXNIYWJaUmpxT3VQeDNNSXBXQWt2U0lpc0hCaVRWd2cyWHJGb0c5VVZhU1ozTnVaanhMZ3Q1ZjNFa1RXblZhSElPRjB2MWRFSDkwWkxuTmdsY0s3R19QVw?oc=5",
+    "content": "K-Drama IRION Launches as a Real K-Pop Group While Its Show Still Airs Tech Times",
+    "published_at": "0715google-kpop",
+    "published_ts": 1784048587.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "韩剧《IRION》剧中组合现实出道，剧集仍在播出",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "韩剧《IRION》中的虚拟K-pop组合在现实世界中正式出道",
+      "该组合出道时剧集仍在播出"
+    ],
+    "summary_zh": "据Tech Times报道，韩剧《IRION》中的虚拟K-pop组合在现实世界中正式出道，而该剧集目前仍在播出。这一跨界操作将剧中角色带入现实，引发粉丝关注。",
+    "extracted_at": "2026-07-15T18:00:00.010285+08:00"
   },
   {
     "source_id": "soompi",
@@ -336,11 +966,57 @@
     "is_blurred": false,
     "facts_list": [
       "OMEGA X 于7月14日（当地时间）正式宣布2026年巡演“NO LIMIT”计划",
-      "巡演将覆盖美国23个城市，首站于8月13日在迈阿密举行",
-      "8月14日在奥兰多演出"
+      "巡演将覆盖美国23个城市，首站于8月13日在迈阿密举行，8月14日在奥兰多演出"
     ],
-    "summary_zh": "OMEGA X 于7月14日（当地时间）正式宣布2026年巡演“NO LIMIT”计划，将前往美国23个城市，首站于8月13日在迈阿密举行，随后8月14日在奥兰多演出。",
-    "extracted_at": "2026-07-15T14:12:53.608795+08:00"
+    "summary_zh": "OMEGA X 于7月14日（当地时间）正式宣布2026年巡演“NO LIMIT”计划，将前往美国23个城市。巡演首站于8月13日在迈阿密举行，随后8月14日在奥兰多演出。",
+    "extracted_at": "2026-07-15T18:00:02.393871+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Princess Anne’s South Korea Trip Included a Surprise Meting with K-Pop Band NMIXX - Town & Country Magazine",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOGVxYTVSR0hZYnhxeHhYZzZMYWVoZU5IMFhxNHhoaTlTSkQ1Y0VQZy1HZmw4Sld5dnVISUhvdmFodGl6ZUotVTUzUG9LRW9xYzVjYXZiZEd6WGxHWXFaTVZreHNBM0tkaUhmbEp3MEhsdmQxSndESlpoQUpES3NnLTZhRnFWS3Q4RjVDaldYVEljODBpQW9sUWF1N3VNZVJFelRQT1d1QTE?oc=5",
+    "content": "Princess Anne’s South Korea Trip Included a Surprise Meting with K-Pop Band NMIXX Town & Country Magazine",
+    "published_at": "0715google-kpop",
+    "published_ts": 1784046240.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "安妮公主访韩惊喜会面K-POP女团NMIXX",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "安妮公主在访问韩国期间，与K-POP女团NMIXX进行了惊喜会面。"
+    ],
+    "summary_zh": "据Town & Country Magazine报道，安妮公主在访问韩国期间，与K-POP女团NMIXX进行了一场惊喜会面。",
+    "extracted_at": "2026-07-15T18:00:04.367828+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "KPop Demon Hunters Jinu and Rumi Join Jazwares Squishmallows Line - Bleeding Cool News",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU0ppeVZZak9aUzB6MGdzSF9oVmlCYmloMEJQSHVTQTd3MlNmN3JtcXBwQVM4NUNSZjRLeTJRaFBaUm4xcEZWbW5zMDFnaWV3MG5IcUlsTlhoU19LTG1oZkFyU1p3Zk1Xb1FLRHpfUkMwV083a3lwYXhwTXJ2d2p1LUtKc3VweDlWRHlCZlZsR3RUSTUtX0hVS1pGYXhkLXc3SGVpNDNiaw?oc=5",
+    "content": "KPop Demon Hunters Jinu and Rumi Join Jazwares Squishmallows Line Bleeding Cool News",
+    "published_at": "0715google-kpop",
+    "published_ts": 1784046128.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "K-pop恶魔猎人Jinu与Rumi加入Jazwares Squishmallows系列",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Jinu与Rumi作为K-pop恶魔猎人角色加入Jazwares Squishmallows产品线",
+      "该消息由Bleeding Cool News报道"
+    ],
+    "summary_zh": "据Bleeding Cool News报道，K-pop恶魔猎人角色Jinu与Rumi已加入Jazwares旗下的Squishmallows毛绒玩具系列。",
+    "extracted_at": "2026-07-15T18:00:06.431949+08:00"
   },
   {
     "source_id": "asianwiki",
