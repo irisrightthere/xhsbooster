@@ -1,5 +1,76 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "KPop Demon Hunters Squishmallows in The Daily LITG, 18th July 2026 - Bleeding Cool News",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQkhzMVBBbTNmOU5uOGUtek1EdUxsQ2JuS2JxVGx1Sk13cE9ieWZvZGxNZFlQYWdRRnFqd1l4N0QxN1Y0LXN4TXp2M0NnSUdDekFibGg4OE12RWlpTTdwcXNwR0N5MmNrWEhZQ1JCY0RGSUpjMnN4ZF92NkxLeUNTZ0tFZ0huR2c5VWdoeTB3TVBZVndDVXdxMkVWeXo3c0F3cHM3R0prSQ?oc=5",
+    "content": "KPop Demon Hunters Squishmallows in The Daily LITG, 18th July 2026 Bleeding Cool News",
+    "published_at": "0718google-kpop",
+    "published_ts": 1784372169.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《每日LITG》报道KPop Demon Hunters Squishmallows，2026年7月18日",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "2026年7月18日，Bleeding Cool News发布《每日LITG》报道，提及KPop Demon Hunters Squishmallows"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：Bleeding Cool News于2026年7月18日发布《每日LITG》报道，内容涉及KPop Demon Hunters Squishmallows。]",
+    "extracted_at": "2026-07-18T21:05:48.761220+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-pop Idol Stories: Road To Debut Launches On Consoles And PC - The Otaku's Study",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS1VtSUpJckE3Nm9aOFVSNDRERDVxVmFnQnctUGlzWFZxT0t4VVJOWUJPQTdCUmVCM01ncFVLbzFDUHp2bUg0dktYSUgtUDRmcEoyNEc0azUzclBWTHY4eUxHZ0lIU3dwSGhCREt0aGNPWXhJcmNHcWpiSld5ZzR3THI4SmJvN2FUT2c1ZTg4bmsyVFN5VDVWSHkweFdXTWVVSGVQNmpSQWZrdGs?oc=5",
+    "content": "K-pop Idol Stories: Road To Debut Launches On Consoles And PC The Otaku's Study",
+    "published_at": "0718google-kpop",
+    "published_ts": 1784370251.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "K-pop偶像养成游戏《Road To Debut》登陆主机和PC",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "游戏《K-pop Idol Stories: Road To Debut》在主机和PC平台发布",
+      "该游戏由The Otaku's Study报道"
+    ],
+    "summary_zh": "K-pop偶像养成游戏《K-pop Idol Stories: Road To Debut》正式登陆主机和PC平台，玩家可体验偶像出道之路的模拟经营。",
+    "extracted_at": "2026-07-18T21:05:50.794709+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Ken Jeong and Rei Ami Preview K-POP SHARK HEROES for Discovery Channel Shark Week - BroadwayWorld",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZGNhLVNUV3RLNXVhMnlXVmswRV95X255TG5lVW1HSFFPRHNJaEg4a1lBeWhPMzVwLVdjd2xDaDBqRS1EV2FmcDAyTjFJbkluU2xseW5EVEJDdGRJZmI3SmZOczN5MDktajUwN1dSMU5lN3FCV0w4OGh2QnRkaFFKUmI0dl92b1BrTUZDWFJDX1NaaXBvNTFmMkN5M00wTjRPWkFHdXFBUS1nOW9kVXJGaXpBQUhOdTVMWHNSSWZmYnRJSFE1dG4tZEJyVERwYlE?oc=5",
+    "content": "Ken Jeong and Rei Ami Preview K-POP SHARK HEROES for Discovery Channel Shark Week BroadwayWorld",
+    "published_at": "0718google-kpop",
+    "published_ts": 1784369192.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Ken Jeong与Rei Ami预告Discovery频道鲨鱼周节目《K-POP SHARK HEROES》",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Ken Jeong与Rei Ami参与Discovery Channel鲨鱼周节目《K-POP SHARK HEROES》的预告",
+      "节目由BroadwayWorld报道"
+    ],
+    "summary_zh": "Ken Jeong与Rei Ami为Discovery Channel的鲨鱼周节目《K-POP SHARK HEROES》进行预告，该节目结合K-pop与鲨鱼主题，具体播出时间及内容细节待公布。",
+    "extracted_at": "2026-07-18T21:05:52.784957+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -17,11 +88,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "KBS 2TV新剧《丈夫》公开新剧照，南宫珉持枪指向李尚熙",
-      "该剧为惊悚题材，南宫珉饰演离婚边缘的男子，为救妻子与危险罪犯展开殊死搏斗"
+      "KBS 2TV新剧《丈夫》公开南宫珉与李尚熙紧张对峙的剧照",
+      "南宫珉在剧中饰演一名濒临离婚的男子，意外卷入与危险罪犯的搏斗以拯救妻子",
+      "李尚熙饰演神秘角色，南宫珉持枪指向她"
     ],
-    "summary_zh": "KBS 2TV新剧《丈夫》公开新剧照，南宫珉持枪指向神秘的李尚熙，气氛紧张。该剧为惊悚题材，讲述南宫珉饰演的离婚边缘男子，为救妻子与危险罪犯展开殊死搏斗的故事。",
-    "extracted_at": "2026-07-18T17:21:12.971643+08:00"
+    "summary_zh": "KBS 2TV新剧《丈夫》公开新剧照，显示南宫珉持枪指向神秘的李尚熙。该剧是一部惊悚片，南宫珉饰演一名濒临离婚的男子，为救妻子意外卷入与危险罪犯的搏斗。",
+    "extracted_at": "2026-07-18T21:05:55.267806+08:00"
   },
   {
     "source_id": "soompi",
@@ -36,7 +108,7 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "金明洙与姜敏儿《爱在同步》情感传输在关键时刻出现故障",
+    "title_zh": "金明洙与姜敏儿《爱在同步》情感传输在关键时刻故障",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
@@ -44,8 +116,8 @@
       "金明洙和姜敏儿主演的浪漫喜剧《爱在同步》下一集中，情感传输在关键时刻出现故障",
       "该剧讲述一位拒绝共情的女性和一位承受过多共情的男性的故事，他们开始分享彼此的情感"
     ],
-    "summary_zh": "金明洙和姜敏儿主演的浪漫喜剧《爱在同步》下一集中，两人的情感传输在关键时刻出现故障。该剧讲述一位拒绝共情的女性和一位承受过多共情的男性，当他们开始分享彼此情感时发生的故事。",
-    "extracted_at": "2026-07-18T17:21:15.570012+08:00"
+    "summary_zh": "金明洙和姜敏儿主演的浪漫喜剧《爱在同步》下一集中，两人的情感传输在关键时刻出现故障。该剧讲述一位拒绝共情的女性和一位承受过多共情的男性的故事，当他们开始分享彼此的情感时，发生了意外。",
+    "extracted_at": "2026-07-18T21:05:57.607936+08:00"
   },
   {
     "source_id": "soompi",
@@ -60,17 +132,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "朴恩斌与梁世宗在tvN新剧《鬼怪恋爱》中组成意想不到的搭档",
+    "title_zh": "朴恩斌与梁世宗在《鬼怪恋爱》中意外组成完美搭档",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "朴恩斌和梁世宗将出演tvN新剧《鬼怪恋爱》",
-      "该剧翻拍自2011年电影《Spellbound》",
+      "朴恩斌和梁世宗将合作出演tvN新剧《鬼怪恋爱》",
+      "该剧翻拍自2011年电影《Spellbound》，是一部灵异浪漫剧",
       "剧情讲述能看见鬼的酒店继承人与害怕鬼的检察官之间的混乱合作"
     ],
-    "summary_zh": "朴恩斌与梁世宗将在tvN新剧《鬼怪恋爱》中合作，该剧翻拍自2011年电影《Spellbound》，是一部关于能看见鬼的酒店继承人和害怕鬼的检察官之间混乱合作的灵异浪漫剧。",
-    "extracted_at": "2026-07-18T17:21:18.223006+08:00"
+    "summary_zh": "朴恩斌和梁世宗将在tvN新剧《鬼怪恋爱》中意外组成搭档。该剧翻拍自2011年电影《Spellbound》，是一部灵异浪漫剧，讲述能看见鬼的酒店继承人与害怕鬼的检察官之间的混乱合作。",
+    "extracted_at": "2026-07-18T21:06:00.148762+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -91,10 +163,10 @@
     "is_blurred": false,
     "facts_list": [
       "G-Dragon参与推广韩国文化遗产活动",
-      "该报道由The Korea Herald发布"
+      "该报道由《韩国先驱报》发布"
     ],
-    "summary_zh": "据The Korea Herald报道，G-Dragon利用其明星影响力推广韩国文化遗产，为传统元素注入现代活力。",
-    "extracted_at": "2026-07-18T17:21:19.972304+08:00"
+    "summary_zh": "据《韩国先驱报》报道，G-Dragon利用其明星影响力推广韩国文化遗产（K-heritage），具体活动细节未在标题中详述。",
+    "extracted_at": "2026-07-18T21:06:01.812186+08:00"
   },
   {
     "source_id": "soompi",
@@ -109,40 +181,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "池晟在《公寓大作战》中为赢得选举跳舞拉票",
+    "title_zh": "池晟为赢得公寓选举大跳热舞，《The Apartment Job》公开新剧照",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "JTBC《公寓大作战》公开池晟激情竞选新片段",
-      "池晟饰演前Oasis帮老大朴海康，为获取公寓隐藏储备金而竞选居民委员会主席"
+      "JTBC电视剧《The Apartment Job》公开池晟饰演的朴海康为竞选公寓居民委员会会长而跳舞的剧照",
+      "该剧讲述前Oasis帮老大朴海康为获取公寓隐藏储备金而竞选居民委员会会长的故事"
     ],
-    "summary_zh": "JTBC《公寓大作战》公开新片段，池晟饰演的前Oasis帮老大朴海康为赢得公寓居民委员会主席选举，以跳舞方式拉票。该剧讲述朴海康为获取公寓隐藏储备金而参选的故事。",
-    "extracted_at": "2026-07-18T17:21:22.492128+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "N. Korean FM to visit Moscow, says Russian foreign ministry - The Korea Herald",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tQU4zck96dU1JTnAtTmp4bHlEb1c2aTZUa3JVUXp6UkxsRkw2WHRJUXRqNmxaanYyYkxabGozSW5xdEdZcjhjRVVjTFdBcU5RWlRja1Mtbw?oc=5",
-    "content": "N. Korean FM to visit Moscow, says Russian foreign ministry The Korea Herald",
-    "published_at": "0718google-kpop",
-    "published_ts": 1784355646.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "俄外交部：朝鲜外务相将访问莫斯科",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "俄罗斯外交部宣布朝鲜外务相将访问莫斯科",
-      "信息来源为《韩国先驱报》报道"
-    ],
-    "summary_zh": "据《韩国先驱报》报道，俄罗斯外交部宣布朝鲜外务相将访问莫斯科。",
-    "extracted_at": "2026-07-18T17:21:24.254166+08:00"
+    "summary_zh": "JTBC电视剧《The Apartment Job》公开新剧照，池晟饰演的朴海康为赢得公寓居民委员会会长选举，在竞选活动中跳舞。该剧讲述前Oasis帮老大朴海康为获取公寓隐藏储备金而参选的故事。",
+    "extracted_at": "2026-07-18T21:06:04.635495+08:00"
   },
   {
     "source_id": "soompi",
@@ -157,17 +205,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "南宫珉新剧《丈夫》与警察对峙，动作戏引期待",
+    "title_zh": "南宫珉新剧《丈夫》与警方对峙，动作戏引期待",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "KBS 2TV新剧《丈夫》由南宫珉主演，饰演一名濒临离婚的男子",
       "剧情中男主角为救妻子意外卷入与危险罪犯的搏斗",
-      "最新预告显示南宫珉将与警察展开对峙"
+      "最新预告显示南宫珉与警方发生对峙"
     ],
-    "summary_zh": "KBS 2TV新剧《丈夫》发布最新预告，南宫珉饰演的男主角在离婚边缘为救妻子与危险罪犯搏斗，并与警察展开对峙。该剧是一部惊悚题材作品，南宫珉的精彩动作戏备受期待。",
-    "extracted_at": "2026-07-18T17:21:26.778220+08:00"
+    "summary_zh": "KBS 2TV新剧《丈夫》发布最新预告，南宫珉饰演的男主角在离婚边缘为救妻子与危险罪犯搏斗，并与警方发生对峙。该剧是一部惊悚题材作品，具体播出时间尚未公布。",
+    "extracted_at": "2026-07-18T21:06:07.489482+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -190,7 +238,7 @@
       "法国总统马克龙出席BTS在法国的巡回演唱会"
     ],
     "summary_zh": "据《韩国先驱报》报道，法国总统马克龙出席了防弹少年团（BTS）在法国的巡回演唱会。",
-    "extracted_at": "2026-07-18T17:21:28.444305+08:00"
+    "extracted_at": "2026-07-18T21:06:09.208181+08:00"
   },
   {
     "source_id": "soompi",
@@ -205,17 +253,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《鬼怪恋爱》预告：梁世宗坚持要帮朴恩斌，女方却不需要",
+    "title_zh": "《鬼怪式恋爱》预告：梁世宗坚持要帮助朴恩斌，女方却不需要",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "tvN新剧《鬼怪恋爱》发布首集预告",
+      "tvN新剧《鬼怪式恋爱》发布首集预告",
       "该剧翻拍自2011年电影《Spellbound》，讲述能看见鬼的酒店继承人与害怕鬼的检察官之间的混乱合作",
-      "预告中梁世宗饰演的角色坚持要帮助朴恩斌饰演的角色，但对方似乎并不需要"
+      "预告中梁世宗坚持要帮助朴恩斌，但朴恩斌似乎并不需要"
     ],
-    "summary_zh": "tvN新剧《鬼怪恋爱》发布首集预告。该剧翻拍自2011年电影《Spellbound》，是一部关于能看见鬼的酒店继承人与害怕鬼的检察官之间混乱合作的奇幻浪漫剧。预告中，梁世宗饰演的角色坚持要帮助朴恩斌饰演的角色，但对方似乎并不需要他的帮助。",
-    "extracted_at": "2026-07-18T17:21:31.161012+08:00"
+    "summary_zh": "tvN新剧《鬼怪式恋爱》发布首集预告，该剧翻拍自2011年电影《Spellbound》，讲述能看见鬼的酒店继承人（朴恩斌饰）与害怕鬼的检察官（梁世宗饰）之间的混乱合作。预告中梁世宗坚持要帮助朴恩斌，但朴恩斌似乎并不需要他的帮助。",
+    "extracted_at": "2026-07-18T21:06:11.947082+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -230,7 +278,7 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Netflix韩剧《东宫》主演南柱赫个人简介",
+    "title_zh": "Netflix韩剧《东宫》主演南柱赫人物介绍",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
@@ -238,8 +286,8 @@
       "南柱赫是Netflix韩剧《东宫》的主演",
       "该报道由《南华早报》发布"
     ],
-    "summary_zh": "《南华早报》发布文章介绍Netflix韩剧《东宫》主演南柱赫的个人背景和演艺经历。",
-    "extracted_at": "2026-07-18T17:21:33.116693+08:00"
+    "summary_zh": "《南华早报》发布了一篇关于Netflix韩剧《东宫》主演南柱赫的人物介绍文章，介绍了他的演艺经历和作品。",
+    "extracted_at": "2026-07-18T21:06:13.774896+08:00"
   },
   {
     "source_id": "soompi",
@@ -260,11 +308,11 @@
     "is_blurred": false,
     "facts_list": [
       "SBS剧集《金代理重启》于7月17日播出第7集",
-      "该集在周五（通常收视低于周六）创下自身最高收视率",
+      "该集在周五时段创下自身最高收视率",
       "数据来源：尼尔森韩国"
     ],
-    "summary_zh": "SBS动作剧《金代理重启》在7月17日（周五）播出的第7集中，创下了自身周五最高收视纪录。该剧通常周六收视更高，但此次周五收视率刷新了个人最佳成绩，数据由尼尔森韩国提供。",
-    "extracted_at": "2026-07-18T17:21:35.754442+08:00"
+    "summary_zh": "SBS动作剧《金代理重启》在7月17日（周五）播出的第7集创下自身周五最高收视纪录。该剧通常周六收视更高，但此次周五收视率刷新了自身记录。数据由尼尔森韩国提供。",
+    "extracted_at": "2026-07-18T21:06:16.030901+08:00"
   },
   {
     "source_id": "soompi",
@@ -289,8 +337,8 @@
       "评价指标包括消费者参与度、媒体覆盖、沟通及社区意识指数",
       "BTS成员智旻（Jimin）蝉联榜首"
     ],
-    "summary_zh": "韩国企业评价研究所公布7月男团成员品牌评价排名，基于6月18日至7月18日期间对755名男团成员的大数据分析，涵盖消费者参与度、媒体覆盖、沟通及社区意识指数。BTS成员智旻（Jimin）成功蝉联第一。",
-    "extracted_at": "2026-07-18T17:21:38.277975+08:00"
+    "summary_zh": "韩国企业评价研究所公布7月男团成员品牌评价排名，基于6月18日至7月18日收集的755名男团成员大数据，分析消费者参与度、媒体覆盖、沟通及社区意识指数。BTS成员智旻（Jimin）成功蝉联第一。",
+    "extracted_at": "2026-07-18T21:06:18.354217+08:00"
   },
   {
     "source_id": "soompi",
@@ -305,16 +353,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《梦到你》首播评价：3个亮点与2个槽点",
+    "title_zh": "《致你的梦》首播：3个亮点与2个槽点",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "ENA新剧《梦到你》首播，由Girl's Day惠利饰演朱伊载，黄寅烨饰演禹秀彬",
-      "剧情讲述年轻人在人生最美好的时期以命运般的方式学会梦想未必成真"
+      "ENA新浪漫喜剧《致你的梦》首播",
+      "主演：Girl's Day惠利（饰朱伊载）、黄寅烨（饰禹秀彬）",
+      "剧情：年轻人在命运中学会梦想未必成真"
     ],
-    "summary_zh": "ENA新浪漫喜剧《梦到你》首播，由Girl's Day惠利饰演朱伊载，黄寅烨饰演禹秀彬。剧情围绕年轻人在人生最美好的时期以命运般的方式学会梦想未必成真展开。文章总结了首播的3个亮点和2个槽点，但具体内容未在摘要中详述。",
-    "extracted_at": "2026-07-18T17:21:40.949186+08:00"
+    "summary_zh": "ENA新剧《致你的梦》首播，由Girl's Day惠利与黄寅烨主演。该剧讲述年轻人在命运中领悟梦想未必成真的故事。本文总结了首播的3个亮点与2个槽点。",
+    "extracted_at": "2026-07-18T21:06:20.826722+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -337,8 +386,8 @@
       "安妮公主在首尔访问期间参与了K-pop相关活动",
       "具体活动细节未在原文中明确说明"
     ],
-    "summary_zh": "安妮公主在首尔访问期间意外体验了K-pop文化，具体活动细节未在原文中明确说明。",
-    "extracted_at": "2026-07-18T17:21:42.890741+08:00"
+    "summary_zh": "安妮公主在首尔访问期间意外体验了K-pop瞬间，具体活动内容未详细披露。",
+    "extracted_at": "2026-07-18T21:06:22.645940+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -353,7 +402,7 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "K-pop前辈Tiffany Young宣布发行个人专辑并举办亚洲巡演",
+    "title_zh": "K-pop前辈Tiffany Young宣布发行个人专辑及亚洲巡演",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
@@ -361,31 +410,8 @@
       "Tiffany Young宣布将发行个人专辑",
       "Tiffany Young宣布将举办亚洲巡演"
     ],
-    "summary_zh": "据福布斯报道，K-pop前辈Tiffany Young宣布将发行个人专辑并举办亚洲巡演。具体专辑名称、发行日期及巡演日程尚未公布。",
-    "extracted_at": "2026-07-18T17:21:44.698544+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "BTS, the South Korean group that propelled K-pop to the top of the global music industry - Le Monde.fr",
-    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNThLZDFpTUdwYVJ6MmdhX1dmWU4xQjZCUnpVaXdHSExtQldZaFBJYmkxMjBOemhkd25NejA4UThqSzVsMmFyRkY4aXdMdEFySlFlZHVNNFBIdWRrQkExZEFyeFlQY1pDYzZkR1ZqMTdtcVEyeWhjdjBTRHhNY3N5SF9qRjJnZjl5SnNncXlkZkVzcXJBV1FKOC14MW5LTUNleXVpQURETGFVTWVMSjAtdWoyZHdhOWJYUnhuNlNwS2hKY2I3d01WZVJYYkkyU3pYOWRHclA5VHQxUDBSVDJDMU13TUdEZlNfT3VGMw?oc=5",
-    "content": "BTS, the South Korean group that propelled K-pop to the top of the global music industry Le Monde.fr",
-    "published_at": "0718google-kpop",
-    "published_ts": 1784326030.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "BTS：将K-pop推向全球音乐产业巅峰的韩国组合",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "原文未提及具体行为，仅称：BTS是推动K-pop登上全球音乐产业顶峰的韩国组合"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：BTS是推动K-pop登上全球音乐产业顶峰的韩国组合]",
-    "extracted_at": "2026-07-18T17:21:46.628771+08:00"
+    "summary_zh": "据Forbes报道，K-pop前辈Tiffany Young宣布将发行个人专辑并举办亚洲巡演。具体专辑名称、发行日期及巡演日程尚未公布。",
+    "extracted_at": "2026-07-18T21:06:24.562907+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -408,8 +434,8 @@
       "Decider发布Netflix剧集《东宫》的影评",
       "影评标题为'Stream It Or Skip It?'，提供观看建议"
     ],
-    "summary_zh": "Decider网站发布了Netflix剧集《东宫》的影评，标题为'Stream It Or Skip It?'，旨在为观众提供是否值得观看的建议。",
-    "extracted_at": "2026-07-18T17:21:48.639113+08:00"
+    "summary_zh": "Decider网站发布了对Netflix剧集《东宫》的影评，以'Stream It Or Skip It?'的形式给出观看建议，但原文未提供具体评价内容或细节。",
+    "extracted_at": "2026-07-18T21:06:26.446551+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -430,10 +456,10 @@
     "is_blurred": false,
     "facts_list": [
       "Samuel发行新单曲《SAMUELiTO》，尝试融合K-Pop与雷击顿风格",
-      "该单曲获得Remezcla报道，称其以正确方式融合两种音乐类型"
+      "该单曲由Remezcla报道，具体发行日期未提及"
     ],
-    "summary_zh": "Samuel通过新单曲《SAMUELiTO》尝试将K-Pop与雷击顿音乐风格融合，获得音乐媒体Remezcla报道，称其以正确方式实现了两种风格的结合。",
-    "extracted_at": "2026-07-18T17:21:50.848036+08:00"
+    "summary_zh": "Samuel通过新单曲《SAMUELiTO》探索K-Pop与雷击顿的融合，Remezcla报道称其以正确方式连接两种音乐风格。",
+    "extracted_at": "2026-07-18T21:06:28.710765+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -455,11 +481,35 @@
     "facts_list": [
       "活动时间：周六",
       "活动地点：夏威夷",
-      "活动内容：K-pop儿童舞蹈派对",
-      "报道来源：KHON2"
+      "活动内容：K-pop儿童舞蹈派对"
     ],
-    "summary_zh": "据KHON2报道，夏威夷将于本周六举办一场K-pop儿童舞蹈派对。活动具体时间、地点及参与方式等细节未在原文中提及。",
-    "extracted_at": "2026-07-18T17:21:52.812530+08:00"
+    "summary_zh": "据KHON2报道，夏威夷将于本周六举办一场K-pop儿童舞蹈派对，具体时间和地点待进一步公布。",
+    "extracted_at": "2026-07-18T21:06:30.231678+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-Pop kids party scheduled to bring music and dancing to Hawai‘i tomorrow - KHON2",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU3RKSEQ4RmY0bmRMSm9OSTY0UG8zWVNPODRCV2hkSkJhQXVBM2RVXzIxOVM1NHlxTUZMWjNjcHNQblVhejJxMlZ1OEU0bGJocmJTY1gzNy1DQktPZm4tX2pRT0hMN2pQMzhWeFNMbDJaTllrdVc2Z0wyOW5KS3VoaVgta01qRHBzTWVwREh0Nl9yOUhUQkZVWk1QdnliNzJJM2NXQzk2WlgzbVM5RFRmOFdxbllaWEUwc040?oc=5",
+    "content": "K-Pop kids party scheduled to bring music and dancing to Hawai‘i tomorrow KHON2",
+    "published_at": "0718google-kpop",
+    "published_ts": 1784321402.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "夏威夷明日举办K-Pop儿童派对，音乐舞蹈齐上阵",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "时间：明天（原文未具体日期）",
+      "地点：夏威夷",
+      "事件：举办K-Pop儿童派对，包含音乐和舞蹈活动"
+    ],
+    "summary_zh": "据KHON2报道，一场K-Pop儿童派对将于明天在夏威夷举行，活动内容包括音乐和舞蹈表演，旨在为儿童提供K-Pop文化体验。",
+    "extracted_at": "2026-07-18T21:06:32.129392+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -479,10 +529,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "Time杂志发布文章《Breaking Down the Supernatural Ending of The East Palace》，解析韩剧《东宫》的超自然结局"
+      "Time Magazine发布文章《Breaking Down the Supernatural Ending of The East Palace》",
+      "文章对韩剧《东宫》的超自然结局进行解析"
     ],
-    "summary_zh": "Time杂志发表文章，对韩剧《东宫》的超自然结局进行了解析。文章探讨了结局中出现的超自然元素及其象征意义，分析了这些元素如何与剧情主线及角色发展相呼应。",
-    "extracted_at": "2026-07-18T17:21:54.997138+08:00"
+    "summary_zh": "Time Magazine发布文章，对韩剧《东宫》的超自然结局进行深度解析，探讨其剧情设定与象征意义。",
+    "extracted_at": "2026-07-18T21:06:34.063843+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -506,8 +557,8 @@
       "《KPop恶魔猎人》仍位列Netflix电影前五名",
       "《交换》的观看数据有望进入Netflix历史总榜"
     ],
-    "summary_zh": "根据Netflix最新观看报告，韩影《KPop恶魔猎人》仍保持在Netflix电影前五名，而另一部作品《交换》的观看数据有望进入Netflix历史总榜。",
-    "extracted_at": "2026-07-18T17:21:57.358612+08:00"
+    "summary_zh": "根据Netflix最新观看报告，韩国动画电影《KPop恶魔猎人》仍保持在Netflix电影前五名，而另一部作品《交换》的观看数据有望进入Netflix历史总榜。",
+    "extracted_at": "2026-07-18T21:06:36.516679+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -522,17 +573,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Funko扩展‘KPop Demon Hunters’系列，推出Demon Saja Boys及SDCC体验",
+    "title_zh": "Funko推出KPop Demon Hunters新系列，含Demon Saja Boys及SDCC体验",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "Funko宣布扩展‘KPop Demon Hunters’Pop!系列",
-      "新增Demon Saja Boys角色",
-      "将在SDCC（圣地亚哥国际动漫展）提供相关体验"
+      "Funko扩展KPop Demon Hunters系列，新增Demon Saja Boys角色",
+      "该系列将在SDCC（圣地亚哥国际动漫展）提供体验活动"
     ],
-    "summary_zh": "Funko宣布扩展其‘KPop Demon Hunters’Pop!系列，新增Demon Saja Boys角色，并计划在圣地亚哥国际动漫展（SDCC）上提供相关体验。",
-    "extracted_at": "2026-07-18T17:21:59.528487+08:00"
+    "summary_zh": "Funko宣布扩展其KPop Demon Hunters系列，新增Demon Saja Boys角色，并将在圣地亚哥国际动漫展（SDCC）提供相关体验活动。",
+    "extracted_at": "2026-07-18T21:06:38.764143+08:00"
   },
   {
     "source_id": "asianwiki",
