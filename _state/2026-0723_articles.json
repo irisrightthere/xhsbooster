@@ -1,5 +1,151 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Kakao’s Melon gains global K-pop fans, yet to turn traffic into profit - KED Global",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9feGJSY1R3dXV5dUZvTzRrU1MtT0xfME16dktBbTVxUFNPNWtwTWJ5VjBSZ21sTjVhNzlZYlgteWJJZVp0ZHhrSjNhQVVfN1B6RE44SzNuUlV0dlFPZkJIZWtON0Q4bHJaVDFLNkV5VmQ4Zw?oc=5",
+    "content": "Kakao’s Melon gains global K-pop fans, yet to turn traffic into profit KED Global",
+    "published_at": "0723google-kpop",
+    "published_ts": 1784809052.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Kakao旗下Melon吸引全球K-pop粉丝，但流量尚未转化为利润",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Kakao旗下音乐平台Melon吸引了全球K-pop粉丝",
+      "Melon尚未将流量转化为利润"
+    ],
+    "summary_zh": "据KED Global报道，Kakao旗下的音乐流媒体平台Melon成功吸引了全球K-pop粉丝的关注，但截至目前，该平台尚未将增长的流量转化为实际利润。",
+    "extracted_at": "2026-07-23T21:47:47.897471+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Bruno Mars Nearly Scores A Historic No. 1 — But One Of K-Pop’s Biggest Stars Stops Him - Forbes",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdlJld3JXSWJrM2MyRzRiaEdib3ZDamxmSUZQSEFwUjlsYWYtRmVIWDNWMEQ4R1BETnM5cG90NmVTV2xjNnRpU29Pdy03TllpS2pHZFFFVy0tcXJ0OVpYdWhGYXBOMnhPaExsNlBxNlViLVJaeXZqNVVYa0l1MU9XYmRRTy1mbGFnRHhnejRwaUVabUVVek5yMk01RG5kSkJfZ0cyRTdfdXFVRFFHNFhLUXRLUHRhN2wzSVBwWXlDTUlyU0ZweXo5X3U1eVZONVdPS0tzcg?oc=5",
+    "content": "Bruno Mars Nearly Scores A Historic No. 1 — But One Of K-Pop’s Biggest Stars Stops Him Forbes",
+    "published_at": "0723google-kpop",
+    "published_ts": 1784808000.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Bruno Mars险些创历史夺冠，K-pop巨星阻止其登顶",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Bruno Mars新歌在Billboard Hot 100榜单上冲击第1名，但被一位K-pop巨星的新歌超越，未能夺冠",
+      "该K-pop巨星为BTS成员田柾国（Jung Kook），其歌曲《Standing Next to You》在12月2日发布的Billboard Hot 100榜单中排名第1",
+      "Bruno Mars的歌曲《Die With a Smile》排名第2"
+    ],
+    "summary_zh": "据Forbes报道，Bruno Mars的新歌《Die With a Smile》在Billboard Hot 100榜单上冲击第1名，但被BTS成员田柾国的《Standing Next to You》超越，最终排名第2。田柾国凭借此曲成功阻止了Bruno Mars创造历史性的夺冠纪录。",
+    "extracted_at": "2026-07-23T21:47:50.875728+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-pop Idol Stories: Road to Debut Media - OpenCritic",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3ZmNkQlpQbWFNRklNeUduQXVsM2lKMkFTRzlJcmNuakc2RXFJMWZrd3Jlei1RSTRVOTNjOU5LUlNXVVppVDNGamRuUmxhRjdNci1RR0haTzFqOG1tMW9uWUNxOG93c0hvdjBtbnFyTzJjSnRoMzNLMFhZQ0g?oc=5",
+    "content": "K-pop Idol Stories: Road to Debut Media OpenCritic",
+    "published_at": "0723google-kpop",
+    "published_ts": 1784806667.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "K-pop偶像故事：出道之路媒体评分公开",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "游戏《K-pop Idol Stories: Road to Debut》在OpenCritic上获得媒体评分"
+    ],
+    "summary_zh": "游戏《K-pop Idol Stories: Road to Debut》在OpenCritic平台公开了媒体评分，具体评分细节未在原文中提及。",
+    "extracted_at": "2026-07-23T21:47:52.435067+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: ATEEZ Takes 4th Win For “BAD” On “M Countdown”; Performances By fromis_9, OURBIRTHDAY, And More",
+    "url": "https://www.soompi.com/article/1857052wpp/watch-ateez-takes-4th-win-for-bad-on-m-countdown-performances-by-fromis_9-ourbirthday-and-more",
+    "content": "ATEEZ has won their fourth music show trophy for “BAD”! On the July 23 episode of &#8220;M Countdown,&#8221; the candidates for first place were ATEEZ’s “BAD” and TXT’s Yeonjun’s “Ice Cream.” ATEEZ ultimately took the prize with a total of 6,754 points. Congratulations to ATEEZ! Watch the winner announcement below: Today&#8217;s performers included TXT’s Yeonjun, fromis_9, OURBIRTHDAY,&#8230; Continue reading Watch: ATEEZ Takes 4th Win For &#8220;BAD&#8221; On &#8220;M Countdown&#8221;; Performances By fromis_9, OURBIRTHDAY, And More\nThe post Watch: ATEEZ Takes 4th Win For &#8220;BAD&#8221; On &#8220;M Countdown&#8221;; Performances By fromis_9, OURBIRTHDAY, And More appeared first on Soompi.",
+    "published_at": "0723soompi",
+    "published_ts": 1784806139.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "ATEEZ《BAD》获《M Countdown》第四冠，fromis_9等出演",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "7月23日《M Countdown》节目中，ATEEZ凭借《BAD》以总分6754分击败TXT崔然竣《Ice Cream》获得第一名",
+      "这是ATEEZ《BAD》的第四个音乐节目冠军",
+      "本期出演艺人包括TXT崔然竣、fromis_9、OURBIRTHDAY等"
+    ],
+    "summary_zh": "在7月23日播出的《M Countdown》中，ATEEZ凭借《BAD》以6754分击败TXT崔然竣的《Ice Cream》，获得该曲第四个音乐节目冠军。本期节目还有TXT崔然竣、fromis_9、OURBIRTHDAY等艺人带来舞台。",
+    "extracted_at": "2026-07-23T21:47:54.821136+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Yum Jung Ah, Kim Sun Young, Kang You Seok, And Roh Yoon Seo Take On New Fishing Adventures In “Fresh Off The Sea 3”",
+    "url": "https://www.soompi.com/article/1857048wpp/watch-yum-jung-ah-kim-sun-young-kang-you-seok-and-roh-yoon-seo-take-on-new-fishing-adventures-in-fresh-off-the-sea-3",
+    "content": "tvN’s variety show “Fresh off the Sea 3” has unveiled a new teaser ahead of its premiere! “Fresh off the Sea” is a reality program that follows its cast as they travel across South Korea’s coastal regions for three days and two nights, showcasing scenic landscapes and local delicacies unique to each area. Yum Jung&#8230; Continue reading Watch: Yum Jung Ah, Kim Sun Young, Kang You Seok, And Roh Yoon Seo Take On New Fishing Adventures In “Fresh Off The Sea 3”\nThe post Watch: Yum Jung Ah, Kim Sun Young, Kang You Seok, And Roh Yoon Seo Take On New Fishing Adventures In “Fresh Off The Sea 3” appeared first on Soompi.",
+    "published_at": "0723soompi",
+    "published_ts": 1784801996.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "廉晶雅、金善映、姜有锡、卢允瑞加盟《渔村恰恰恰3》新预告公开",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "tvN综艺《渔村恰恰恰3》公开新预告",
+      "节目为实境秀，成员在韩国沿海地区进行三天两夜旅行，展示风景和当地美食",
+      "新一季成员包括廉晶雅、金善映、姜有锡、卢允瑞"
+    ],
+    "summary_zh": "tvN综艺《渔村恰恰恰3》公开新预告，节目为实境秀，成员在韩国沿海地区进行三天两夜旅行，展示风景和当地美食。新一季成员包括廉晶雅、金善映、姜有锡、卢允瑞。",
+    "extracted_at": "2026-07-23T21:47:57.050705+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "A Shop for Killers season 2: Lee Dong-wook leads action-packed return - South China Morning Post",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdURNSFBiRWtTOUVLdHBMaWxXWWFpdkhZbC1UR000V2pzY05UdmkzY05mLWplUTBYenF6TmNmNGdTemlPMUMxRjBLLU1RbllNSUF2SlJiNkthR3FxdkZ6Wmx4MVFqOHdEVExKTGNQVml2SGhEWTF1T2FKM04zRm1qemc1SGtWaWFtQTdRaUFpRU8zY1M1enl4Wl96QlVpS1RvUUdRR2FUMkpTZ1RTU09tQUdtX1Zlem5ZSEVxajRBOWFqSGN2UVp4aFJXWjR2cWRINTBiSzZMd9IB1wFBVV95cUxPLXE5eGc5dGV6M08tdnpZWVl0WTU0aDVJcEctUEozajAyeFdabmNzV29XZlRZaDJUUmlQY2ZORDRlb0E5bW03enBhZnlWZXdQcUJUaEdqNUo2bXFOZGE2dU0yT21jY3lGTzlCRWIyeXgtSUR5X2I4TmVkLVV3dmlzeEc0MTV1dE1JZE1QYVZZSlZ6UGpPRWZybUZVOWRNaXNWZ29icmlZLWtnZ2xnR0xLb29zeFpkZHRTeFZXZUNjdlRfaFNZcE4tbDM3Q3R4Q2VoNXN6amI2bw?oc=5",
+    "content": "A Shop for Killers season 2: Lee Dong-wook leads action-packed return South China Morning Post",
+    "published_at": "0723google-kpop",
+    "published_ts": 1784801707.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "李栋旭领衔《杀人者的购物中心》第二季回归，动作场面升级",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "《杀人者的购物中心》第二季确认制作，李栋旭继续主演",
+      "该剧由南华早报报道，称第二季将带来更精彩的动作场面"
+    ],
+    "summary_zh": "据南华早报报道，韩剧《杀人者的购物中心》第二季已确认制作，李栋旭将继续领衔主演。报道称第二季将带来更精彩的动作场面，延续第一季的高人气。",
+    "extracted_at": "2026-07-23T21:47:59.196076+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -17,12 +163,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "2024年7月23日，朴恩斌宣布将举办2026年粉丝演唱会巡演“EUNBIN NOTE: EUNiverse”",
-      "首场演出于2026年9月5日下午5点（KST）在首尔KBS Arena举行",
-      "所属社Namoo Actors负责相关事宜"
+      "朴恩斌将于2026年9月5日下午5点（KST）在首尔KBS Arena举办粉丝演唱会“EUNBIN NOTE: EUNiverse”，作为出道30周年纪念活动",
+      "该巡演由所属社Namoo Actors宣布"
     ],
-    "summary_zh": "朴恩斌将于2026年举办粉丝演唱会巡演“EUNBIN NOTE: EUNiverse”，首站定于9月5日下午5点在首尔KBS Arena举行，以纪念出道30周年。所属社Namoo Actors已确认该消息。",
-    "extracted_at": "2026-07-23T18:17:08.167879+08:00"
+    "summary_zh": "朴恩斌宣布将于2026年9月5日下午5点（KST）在首尔KBS Arena启动粉丝演唱会巡演“EUNBIN NOTE: EUNiverse”，以庆祝出道30周年。该消息由所属社Namoo Actors于7月23日公布。",
+    "extracted_at": "2026-07-23T21:48:01.172599+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -42,11 +187,11 @@
     "risk_level": "中",
     "is_blurred": false,
     "facts_list": [
-      "NewJeans以四人组形式回归，推出出道四周年特别电影系列",
+      "NewJeans以四人组形式回归，为出道四周年推出特别电影系列",
       "这是NewJeans与唱片公司ADOR发生纠纷后首次以四人组形式发布官方内容"
     ],
-    "summary_zh": "韩国女团NewJeans以四人组形式回归，为庆祝出道四周年推出特别电影系列。这是她们与唱片公司ADOR发生纠纷后首次以四人组形式发布官方内容。",
-    "extracted_at": "2026-07-23T18:17:10.533024+08:00"
+    "summary_zh": "K-pop组合NewJeans以四人组形式回归，为庆祝出道四周年推出特别电影系列。这是她们在与唱片公司ADOR发生纠纷后首次以四人组形式发布官方内容。",
+    "extracted_at": "2026-07-23T21:48:03.307374+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -69,8 +214,8 @@
       "Rei Ami（来自《KPop恶魔猎人》）与喜剧演员Ken Jeong共同参与《鲨鱼周》节目",
       "节目由Kokomo Tribune报道"
     ],
-    "summary_zh": "据Kokomo Tribune报道，来自《KPop恶魔猎人》的Rei Ami与喜剧演员Ken Jeong一起参与了《鲨鱼周》节目。",
-    "extracted_at": "2026-07-23T18:17:12.382777+08:00"
+    "summary_zh": "据Kokomo Tribune报道，来自《KPop恶魔猎人》的Rei Ami与喜剧演员Ken Jeong共同参与了《鲨鱼周》节目，具体内容未详细说明。",
+    "extracted_at": "2026-07-23T21:48:05.020365+08:00"
   },
   {
     "source_id": "soompi",
@@ -91,11 +236,11 @@
     "is_blurred": false,
     "facts_list": [
       "tvN新综艺《Space Rice Cake》公开预告片",
-      "该节目是《地球游戏厅2》惩罚任务的衍生节目",
+      "该节目是《地球游戏厅2》中惩罚任务的衍生节目",
       "李恩智、Mimi、李泳知、安宥真因未能完成Torong准备的密室逃脱任务，需在年糕店一起工作"
     ],
-    "summary_zh": "tvN新综艺《Space Rice Cake》公开预告，该节目是《地球游戏厅2》惩罚任务的衍生节目。李恩智、Mimi、李泳知、安宥真因未能完成Torong准备的密室逃脱任务，需在年糕店一起工作。",
-    "extracted_at": "2026-07-23T18:17:14.767662+08:00"
+    "summary_zh": "tvN新综艺《Space Rice Cake》公开预告，该节目是《地球游戏厅2》的衍生节目，源于惩罚任务。李恩智、Mimi、李泳知、安宥真因未能完成Torong准备的密室逃脱任务，需在年糕店一起工作。",
+    "extracted_at": "2026-07-23T21:48:07.521697+08:00"
   },
   {
     "source_id": "soompi",
@@ -110,40 +255,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "金惠峻、孔志浩、金亚荣新剧《我的本命，我的老板》公开剧照，三人饰演追星闺蜜",
+    "title_zh": "金惠峻、孔志浩、金雅英在《我的本命是老板》中饰演追星闺蜜",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "剧集《我的本命，我的老板》改编自网络漫画，讲述金惠峻饰演的南多琳为见偶像李灿（车宇敏饰）而入职公司，与公司CEO姜河基（未提及演员）之间的浪漫故事。",
-      "公开剧照显示金惠峻、孔志浩、金亚荣饰演从小一起追星的闺蜜三人组。"
+      "《我的本命是老板》公开新剧照，金惠峻、孔志浩、金雅英饰演追星闺蜜",
+      "该剧改编自网络漫画，讲述金惠峻饰演的南多林为见偶像李灿（车宇敏饰）而入职公司，与CEO姜河基（未提及演员）的浪漫故事"
     ],
-    "summary_zh": "韩剧《我的本命，我的老板》公开新剧照，金惠峻、孔志浩、金亚荣在剧中饰演从小一起追星的闺蜜。该剧改编自网络漫画，讲述金惠峻饰演的南多琳为见偶像李灿（车宇敏饰）而入职公司，与公司CEO姜河基之间的浪漫故事。",
-    "extracted_at": "2026-07-23T18:17:17.939897+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Cortis’ latest EP surpasses 3 million copies in 11 weeks - The Korea Herald",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WTE1lM3g5bkRtTnZoaHRBOTNaQUR5ZE15M3lrN2JYNmhYbnM4YklXTWNGaXNyV01BQUJRS2kteHV3ZzdETEpkRktMTDg1LXh6UkRCaVZrUQ?oc=5",
-    "content": "Cortis’ latest EP surpasses 3 million copies in 11 weeks The Korea Herald",
-    "published_at": "0723google-kpop",
-    "published_ts": 1784795284.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Cortis最新EP发行11周销量突破300万张",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "Cortis最新EP在发行11周内销量突破300万张",
-      "该数据来自The Korea Herald报道"
-    ],
-    "summary_zh": "据The Korea Herald报道，Cortis的最新EP在发行11周后销量突破300万张，展现了其强大的市场号召力。",
-    "extracted_at": "2026-07-23T18:17:19.731440+08:00"
+    "summary_zh": "韩剧《我的本命是老板》公开新剧照，金惠峻、孔志浩、金雅英在剧中饰演从小一起追星的闺蜜。该剧改编自网络漫画，讲述金惠峻饰演的南多林为见偶像李灿（车宇敏饰）而入职公司，与CEO姜河基的浪漫故事。",
+    "extracted_at": "2026-07-23T21:48:10.152140+08:00"
   },
   {
     "source_id": "soompi",
@@ -158,40 +279,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "宋江与李濬荣在《四手联弹》预告片中互相慰藉",
+    "title_zh": "宋江与李濬荣在《四手联弹》预告片中相互慰藉",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "tvN新剧《四手联弹》发布两支角色预告片",
-      "预告片展示宋江与李濬荣饰演的角色互相安慰的场景",
+      "预告片展示宋江与李濬荣在剧中相互慰藉的场景",
       "该剧讲述艺术高中学生们的友情、爱情、竞争与成长"
     ],
-    "summary_zh": "tvN新剧《四手联弹》发布两支角色预告片，主演宋江与李濬荣在片中互相慰藉。该剧以艺术高中为背景，讲述学生们在友情、爱情、竞争与成长中的故事。",
-    "extracted_at": "2026-07-23T18:17:22.219595+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "‘KPop Demon Hunters’ light sticks: Price, availability and where to buy them - Lifestyle Asia",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLXZ3d1YtV1FnWk5uSlJnbnkwSzd0bllleG1NWGJYNzhoUTFDZnhhMVJyemJ3RGVFM0ZVcF9VMDQ2YU1SN3BXRWNDS0FOLVpuOG9ZX0RaTk5Ud2JIWmpEZHU0Y1V6QlBEQ04yZ0lKbU5DbzFBUVBhY0k0Rk5RQi00czlFa1M5UkhXa1BmbTBCdUFPa29lUkZKdW9XQWdzRHU0MFJTa3BycDUyZVY0YmFyZ2RWZURVQzcyMVHSAb8BQVVfeXFMT0xqakZVOS1ISHpyYTdBdXRJMmZ5VVdCT09hU3JUZV9LVC1kMm02eGtzd1dQd1d4emNHUmE4eklKTkhpWjhfM0tfVU9nMG4wMmtUa29VWGFXczJGWWxvWkV0S3BXSlQ2M2Ryb19qU1F5UUJLMVZ1RkhOM1FnbVk5MnNiTHBfRkdhRVNrSkxuMjJ5MGk0OTFjT0JEa2lWR3hmbGFqZ3NUMHNIT19zQVVoMFNkTjdrLURQVS1WSmNtSE0?oc=5",
-    "content": "‘KPop Demon Hunters’ light sticks: Price, availability and where to buy them Lifestyle Asia",
-    "published_at": "0723google-kpop",
-    "published_ts": 1784794188.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "《KPop Demon Hunters》应援棒价格、发售信息及购买渠道公开",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "Lifestyle Asia报道了《KPop Demon Hunters》应援棒的价格、发售信息及购买渠道"
-    ],
-    "summary_zh": "Lifestyle Asia报道了《KPop Demon Hunters》应援棒的相关信息，包括价格、发售详情及购买渠道。",
-    "extracted_at": "2026-07-23T18:17:23.812936+08:00"
+    "summary_zh": "tvN新剧《四手联弹》发布两支角色预告片，主演宋江与李濬荣在预告中展现相互慰藉的温暖场面。该剧以艺术高中为背景，讲述青年们的友情、爱情、竞争与成长故事。",
+    "extracted_at": "2026-07-23T21:48:12.319272+08:00"
   },
   {
     "source_id": "soompi",
@@ -214,8 +312,8 @@
       "《爱在同步》公开新剧照，金明洙（饰车恩焕）与姜敏雅（饰刘智安）有甜蜜吻戏",
       "剧情中两人随后将面临心碎裂痕"
     ],
-    "summary_zh": "韩剧《爱在同步》公开新剧照，金明洙与姜敏雅在剧中上演甜蜜吻戏，但随后将迎来心碎裂痕。该剧讲述顶级明星刘智安（姜敏雅饰）与共情能力过强的心理学家车恩焕（金明洙饰）之间的浪漫喜剧故事。",
-    "extracted_at": "2026-07-23T18:17:26.578641+08:00"
+    "summary_zh": "韩剧《爱在同步》公开新剧照，金明洙与姜敏雅在剧中上演甜蜜吻戏，但随后将迎来心碎裂痕。该剧讲述顶级明星刘智安（姜敏雅饰）与知名心理学家车恩焕（金明洙饰）之间的浪漫喜剧故事。",
+    "extracted_at": "2026-07-23T21:48:14.859545+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -238,8 +336,8 @@
       "HYBE与韩国时尚协会建立合作伙伴关系",
       "合作旨在推动K-Pop时尚产业发展"
     ],
-    "summary_zh": "HYBE与韩国时尚协会宣布建立合作伙伴关系，共同推动K-Pop时尚产业的发展。此次合作将结合HYBE在音乐和娱乐领域的资源与韩国时尚协会的专业知识，旨在提升K-Pop时尚的国际影响力。",
-    "extracted_at": "2026-07-23T18:17:28.484207+08:00"
+    "summary_zh": "HYBE与韩国时尚协会宣布建立合作伙伴关系，共同推动K-Pop时尚产业的发展。该合作旨在结合HYBE在音乐娱乐领域的资源与韩国时尚协会的专业能力，促进K-Pop与时尚产业的融合。",
+    "extracted_at": "2026-07-23T21:48:16.535563+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -262,7 +360,7 @@
       "Rei Ami（来自《KPop恶魔猎人》）与喜剧演员郑肯（Ken Jeong）参与《鲨鱼周》节目"
     ],
     "summary_zh": "《KPop恶魔猎人》中的Rei Ami与喜剧演员郑肯（Ken Jeong）共同参与《鲨鱼周》节目，具体内容未详述。",
-    "extracted_at": "2026-07-23T18:17:30.452811+08:00"
+    "extracted_at": "2026-07-23T21:48:18.270466+08:00"
   },
   {
     "source_id": "soompi",
@@ -282,11 +380,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "SBS公布《Agent Kim Reactivated》大结局将于7月25日韩国时间晚9点45分播出，比常规时段提前5分钟",
-      "该剧改编自热门网漫，大结局将延长播出时长"
+      "SBS宣布《Agent Kim Reactivated》大结局将于7月25日韩国时间晚9点45分播出，比常规时段提前5分钟",
+      "该剧改编自热门网络漫画，大结局将延长播出时长"
     ],
-    "summary_zh": "SBS宣布，苏志燮主演的《Agent Kim Reactivated》大结局将于7月25日韩国时间晚9点45分播出，比常规时段提前5分钟，并延长播出时长。该剧改编自热门网漫。",
-    "extracted_at": "2026-07-23T18:17:33.252340+08:00"
+    "summary_zh": "SBS宣布苏志燮主演的《Agent Kim Reactivated》大结局将于7月25日韩国时间晚9点45分播出，比常规时段提前5分钟，并延长播出时长。该剧改编自热门网络漫画。",
+    "extracted_at": "2026-07-23T21:48:20.193354+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -301,40 +399,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "KiiiKiii与AKMU登顶Billboard 2026年度最佳K-pop歌曲及专辑榜",
+    "title_zh": "KiiiKiii与AKMU登顶Billboard 2026年度最佳K-pop歌曲及专辑榜单",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "KiiiKiii和AKMU在Billboard发布的2026年度最佳K-pop歌曲和专辑榜单中位列第一",
-      "该榜单由Billboard评选，涵盖2026年发行的K-pop作品"
+      "KiiiKiii和AKMU分别获得Billboard 2026年度最佳K-pop歌曲和专辑榜单第一名",
+      "该榜单由Billboard发布，具体榜单名称未在原文中详细说明"
     ],
-    "summary_zh": "据《韩国先驱报》报道，KiiiKiii和AKMU在Billboard评选的2026年度最佳K-pop歌曲和专辑榜单中分别登顶。该榜单由Billboard发布，旨在表彰年度内最优秀的K-pop作品。",
-    "extracted_at": "2026-07-23T18:17:35.456138+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Kakao’s Melon gains global K-pop fans, yet to turn traffic into profit - KED Global",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9feGJSY1R3dXV5dUZvTzRrU1MtT0xfME16dktBbTVxUFNPNWtwTWJ5VjBSZ21sTjVhNzlZYlgteWJJZVp0ZHhrSjNhQVVfN1B6RE44SzNuUlV0dlFPZkJIZWtON0Q4bHJaVDFLNkV5VmQ4Zw?oc=5",
-    "content": "Kakao’s Melon gains global K-pop fans, yet to turn traffic into profit KED Global",
-    "published_at": "0723google-kpop",
-    "published_ts": 1784787452.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Kakao旗下Melon吸引全球K-pop粉丝，但流量尚未转化为利润",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "Kakao旗下音乐平台Melon吸引了全球K-pop粉丝",
-      "Melon尚未将流量转化为利润"
-    ],
-    "summary_zh": "据KED Global报道，Kakao旗下的音乐平台Melon成功吸引了全球K-pop粉丝的关注，但尚未将这一流量转化为实际利润。",
-    "extracted_at": "2026-07-23T18:17:37.068032+08:00"
+    "summary_zh": "据《韩国先驱报》报道，KiiiKiii和AKMU在Billboard发布的2026年度最佳K-pop歌曲和专辑榜单中登顶。KiiiKiii获得最佳歌曲榜单第一名，AKMU获得最佳专辑榜单第一名。",
+    "extracted_at": "2026-07-23T21:48:22.160836+08:00"
   },
   {
     "source_id": "soompi",
@@ -354,11 +428,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "KBS 2TV新剧《丈夫》公开金大明失控的新剧照",
+      "KBS 2TV新剧《丈夫》公开金大明失控场景的新剧照",
       "该剧由南宫珉主演，讲述离婚边缘男子为救妻子与危险罪犯搏斗的故事"
     ],
     "summary_zh": "KBS 2TV新剧《丈夫》公开了金大明失控的新剧照。该剧是一部惊悚剧，由南宫珉主演，讲述一个处于离婚边缘的男人为救妻子意外卷入与危险罪犯的殊死搏斗。",
-    "extracted_at": "2026-07-23T18:17:39.316587+08:00"
+    "extracted_at": "2026-07-23T21:48:24.427196+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -378,11 +452,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "耶鲁大学阿卡贝拉组合在首尔某画廊演出",
-      "演出内容为K-pop和声"
+      "耶鲁大学阿卡贝拉组合在首尔某画廊进行演出",
+      "演出内容为K-pop歌曲的和声改编",
+      "该活动由《韩国时报》报道"
     ],
-    "summary_zh": "据《韩国时报》报道，耶鲁大学的一个阿卡贝拉组合在首尔的一家画廊进行了演出，演绎了K-pop歌曲的和声版本。",
-    "extracted_at": "2026-07-23T18:17:40.980014+08:00"
+    "summary_zh": "耶鲁大学的一个阿卡贝拉组合在首尔的一家画廊进行了K-pop歌曲的和声改编演出，该活动由《韩国时报》报道。",
+    "extracted_at": "2026-07-23T21:48:26.177807+08:00"
   },
   {
     "source_id": "soompi",
@@ -402,12 +477,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "MBC Plus剧集《我的偶像，我的出道》公开新剧照",
-      "剧照显示THE BOYZ成员Q与黄智雅秘密牵手",
+      "MBC Plus电视剧《我的偶像，我的出道》公开新剧照",
+      "剧照中THE BOYZ成员Q与黄智雅秘密牵手",
       "该剧讲述粉丝穿越回8年前阻止悲剧并成为偶像练习生的故事"
     ],
-    "summary_zh": "MBC Plus剧集《我的偶像，我的出道》公开新剧照，显示THE BOYZ成员Q与黄智雅秘密牵手。该剧是一部时间穿越成长故事，讲述一位热情粉丝穿越回8年前阻止悲剧，并成为偶像练习生的经历。",
-    "extracted_at": "2026-07-23T18:17:43.251785+08:00"
+    "summary_zh": "MBC Plus电视剧《我的偶像，我的出道》公开新剧照，显示THE BOYZ成员Q与黄智雅在剧中秘密牵手。该剧是一部时间穿越成长故事，讲述一名狂热粉丝穿越回8年前，试图阻止一场悲剧，并最终成为偶像练习生。",
+    "extracted_at": "2026-07-23T21:48:28.212145+08:00"
   },
   {
     "source_id": "soompi",
@@ -428,10 +503,10 @@
     "is_blurred": false,
     "facts_list": [
       "苏志燮1995年以模特身份出道，后在好友宋承宪帮助下转型演员",
-      "通过热门剧《对不起，我爱你》走红"
+      "通过热门剧集《对不起，我爱你》走红"
     ],
-    "summary_zh": "本文推荐了苏志燮的7部必看韩剧。苏志燮1995年以模特出道，后在好友宋承宪帮助下转型演员，凭借《对不起，我爱你》走红。",
-    "extracted_at": "2026-07-23T18:17:45.128578+08:00"
+    "summary_zh": "本文推荐了苏志燮的7部必看韩剧。苏志燮1995年以模特身份出道，后在好友宋承宪帮助下转型演员，凭借热门剧集《对不起，我爱你》走红。",
+    "extracted_at": "2026-07-23T21:48:29.861391+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -451,35 +526,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "南柱赫已发行回归作品《The East Palace》（暂译《东宫》）",
+      "南柱赫已发布回归作品《The East Palace》（暂译《东宫》）",
       "南柱赫确认将主演两部新剧"
     ],
-    "summary_zh": "南柱赫在发行回归作品《The East Palace》（暂译《东宫》）后，确认将主演两部新剧。具体剧集信息尚未公开。",
-    "extracted_at": "2026-07-23T18:17:46.976239+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "KiiiKiii, WOODZ Top Billboard’s Best K-Pop Songs, Albums - 조선일보",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRnlNNzhNdURXckxVd1I3X2Z0a1drbW5ZYmtodElHal9IYlBmQU9RbFU3eTFKanBaX2s5SDdMb1ZiR3ZwaXJfZjllN19uTnJMRVZac1UtaGc5QnBrUXVWOWtuSFdZMTNOSzZFNmRzSGg0Z3hNRDZUSjBXOFR1T0s2Tk84TlYzODA0VnZncE9B?oc=5",
-    "content": "KiiiKiii, WOODZ Top Billboard’s Best K-Pop Songs, Albums 조선일보",
-    "published_at": "0723google-kpop",
-    "published_ts": 1784783448.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "KiiiKiii与WOODZ入选Billboard最佳K-Pop歌曲及专辑榜单",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "KiiiKiii和WOODZ的作品被Billboard评选为最佳K-Pop歌曲和专辑",
-      "该榜单由Billboard发布，具体排名及入选作品名称未在原文中提及"
-    ],
-    "summary_zh": "据《朝鲜日报》报道，KiiiKiii和WOODZ的作品入选了Billboard评选的最佳K-Pop歌曲及专辑榜单。该榜单由Billboard发布，但原文未提供具体排名及入选作品名称。",
-    "extracted_at": "2026-07-23T18:17:49.335567+08:00"
+    "summary_zh": "南柱赫在发布回归作品《The East Palace》（暂译《东宫》）后，确认将主演两部新剧。具体剧集信息尚未公布。",
+    "extracted_at": "2026-07-23T21:48:31.494720+08:00"
   },
   {
     "source_id": "soompi",
@@ -494,17 +545,18 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "孔孝真、成东镒新剧《杀人者的购物中心》预告：伪装上班族打击罪犯",
+    "title_zh": "孔孝真、成东日等新剧《杀人者的购物中心》预告：伪装上班族打击罪犯",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "MBC新金土剧《杀人者的购物中心》发布新预告",
       "孔孝真饰演销售3组组长刘宝娜，表面是普通上班族",
-      "成东镒等演员出演，剧情讲述职场妈妈打击罪犯"
+      "成东日等演员参演，剧情为动作剧，讲述职场妈妈打击罪犯",
+      "预告中演员们伪装成普通上班族制服罪犯"
     ],
-    "summary_zh": "MBC新金土剧《杀人者的购物中心》公开新预告，该剧是一部动作剧，讲述一位拥有致命工作的职场妈妈为保护工作与生活平衡而战斗的故事。孔孝真饰演看似普通的销售3组组长刘宝娜，成东镒等演员共同出演，在预告中他们伪装成普通上班族打击罪犯。",
-    "extracted_at": "2026-07-23T18:17:52.361441+08:00"
+    "summary_zh": "MBC新金土剧《杀人者的购物中心》公开新预告，该剧是一部动作剧，讲述一位拥有致命工作的职场妈妈为保护工作与生活平衡而战斗的故事。孔孝真饰演看似普通的销售3组组长刘宝娜，与成东日等演员一起伪装成普通上班族打击罪犯。",
+    "extracted_at": "2026-07-23T21:48:34.482350+08:00"
   },
   {
     "source_id": "soompi",
@@ -525,10 +577,10 @@
     "is_blurred": false,
     "facts_list": [
       "泰剧《Ticket to Heaven》由Gemini和Fourth主演",
-      "剧情围绕Tanrak（Fourth Nattawat Jirochtikul饰）展开，他献身教会，希望成为神父后能与已故父母重逢"
+      "剧情讲述Tanrak（Fourth饰）为成为神父而献身教会，却遇到让他质疑一切的人"
     ],
-    "summary_zh": "泰剧《Ticket to Heaven》由Gemini和Fourth主演，讲述Tanrak（Fourth Nattawat Jirochtikul饰）献身教会，希望成为神父后能与已故父母重逢的故事。文章列出了该剧的四大看点。",
-    "extracted_at": "2026-07-23T18:17:54.347259+08:00"
+    "summary_zh": "泰剧《Ticket to Heaven》由Gemini和Fourth主演，讲述Tanrak（Fourth Nattawat Jirochtikul饰）为与逝去父母重逢而立志成为神父，却遇到让他质疑一切信仰的人。本文列出四大看点，包括主演化学反应、剧情冲突等。",
+    "extracted_at": "2026-07-23T21:48:36.832574+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -551,8 +603,8 @@
       "HYBE与韩国时尚协会建立合作伙伴关系",
       "双方将共同拓展基于K-pop的时尚业务"
     ],
-    "summary_zh": "据《韩国先驱报》报道，HYBE与韩国时尚协会达成合作，旨在利用K-pop的影响力拓展时尚业务。双方将共同探索K-pop与时尚产业的结合，推动相关商业机会的发展。",
-    "extracted_at": "2026-07-23T18:17:56.103250+08:00"
+    "summary_zh": "据《韩国先驱报》报道，HYBE与韩国时尚协会达成合作，旨在利用K-pop的影响力拓展时尚业务。双方将共同探索K-pop与时尚产业的融合机会，推动相关商业发展。",
+    "extracted_at": "2026-07-23T21:48:38.498526+08:00"
   },
   {
     "source_id": "soompi",
@@ -573,11 +625,11 @@
     "is_blurred": false,
     "facts_list": [
       "SBS剧集《金代理重启》发布新剧照",
-      "该剧改编自人气网漫，讲述看似平凡的爸爸金代理（苏志燮饰）为救女儿不惜一切代价的复仇动作剧",
+      "该剧改编自人气网漫，讲述看似平凡的父亲金代理（苏志燮饰）为救女儿不惜一切的动作复仇故事",
       "苏志燮、崔大勋、尹敬浩将执行新任务"
     ],
-    "summary_zh": "SBS剧集《金代理重启》公开新剧照，苏志燮、崔大勋、尹敬浩三人将执行新任务。该剧改编自人气网漫，讲述看似平凡的爸爸金代理（苏志燮饰）为救女儿不惜一切代价的复仇动作故事。",
-    "extracted_at": "2026-07-23T18:17:58.536648+08:00"
+    "summary_zh": "SBS剧集《金代理重启》公开新剧照，苏志燮、崔大勋、尹敬浩三人将开启新任务。该剧改编自人气网漫，讲述看似平凡的父亲金代理（苏志燮饰）为救女儿不惜一切的动作复仇故事。",
+    "extracted_at": "2026-07-23T21:48:40.851815+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -595,22 +647,23 @@
     "title_zh": "Mattel揭秘SDCC 2026限定玩具：从Piper's Pit到Prince Adam的思维",
     "source_type": "韩娱",
     "risk_level": "低",
-    "is_blurred": true,
+    "is_blurred": false,
     "facts_list": [
-      "原文未提及具体行为，仅称：Mattel在SDCC 2026推出限定玩具，涉及Piper's Pit和Prince Adam主题。"
+      "Mattel在SDCC 2026上发布限定玩具，主题包括Piper's Pit和Prince Adam的思维",
+      "具体玩具细节未在原文中提及"
     ],
-    "summary_zh": "原文未提及具体行为，仅称：Mattel在SDCC 2026推出限定玩具，涉及Piper's Pit和Prince Adam主题。",
-    "extracted_at": "2026-07-23T18:18:00.319883+08:00"
+    "summary_zh": "Mattel在SDCC 2026上公布了其限定玩具系列，主题涵盖Piper's Pit和Prince Adam的思维，但具体玩具细节未在原文中详述。",
+    "extracted_at": "2026-07-23T21:48:42.874780+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "Rei Ami from 'KPop Demon Hunters' and comedian Ken Jeong take a bite out of 'Shark Week' - jonesborosun.com",
-    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUUhRSG1XM1otQTVJaHVVMG80WXRQc2ZvV0xqakNwRzNwU0NTYWxBOUFYejQ1TEkwWDEtY3ZuZ3RSd1BzT0J3WnVFejl3dDk4NFR6YVBiT3Vfc2lKSFZuRTQ3Umd2ODhyM1JFNVFIVFBqMTd4ZlJXaDhKd3dCbW9NWk1xSmMzcjI1RmpXaDJwM01iTVF0VFhvREtPZUwxVzdvbG11QnU5X01SMC1IU0Q2emNMejJ4eWtWLVZDVWd3TVVQWk1pRW05Q00zVTZ0aGQ2aHJZTVNJYVRCSW5wS3RIWFJUb29YaFRBNUhxRGVsSkkxbV95S0FqcEhR?oc=5",
-    "content": "Rei Ami from 'KPop Demon Hunters' and comedian Ken Jeong take a bite out of 'Shark Week' jonesborosun.com",
+    "title": "Rei Ami from 'KPop Demon Hunters' and comedian Ken Jeong take a bite out of 'Shark Week' - AP News",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWHdvTFFNTW4xNE5XckNPQ1FUVjUzeDFuODF6NFp0VnVyMGdJa2drOVJxXzZOQ2gzYlB0WC1OZ2IwTEFoZTFscmZfbktyY0hMc1ZuV3pHOFkwMnFnNWJoVEVmUnhIS1FpU21zeVpKcXFMNVl3b0lwajFaRW84NjNzcg?oc=5",
+    "content": "Rei Ami from 'KPop Demon Hunters' and comedian Ken Jeong take a bite out of 'Shark Week' AP News",
     "published_at": "0723google-kpop",
-    "published_ts": 1784775250.0,
+    "published_ts": 1784775240.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
@@ -620,10 +673,35 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "Rei Ami（来自《KPop恶魔猎人》）与喜剧演员郑肯（Ken Jeong）参与《鲨鱼周》节目"
+      "Rei Ami（《KPop恶魔猎人》成员）与喜剧演员郑肯（Ken Jeong）参与《鲨鱼周》节目",
+      "该消息由美联社（AP News）报道"
     ],
-    "summary_zh": "据jonesborosun.com报道，《KPop恶魔猎人》中的Rei Ami与喜剧演员郑肯（Ken Jeong）共同参与了《鲨鱼周》节目，具体内容未详细说明。",
-    "extracted_at": "2026-07-23T18:18:02.091465+08:00"
+    "summary_zh": "据美联社报道，《KPop恶魔猎人》成员Rei Ami与喜剧演员郑肯将参与《鲨鱼周》节目，具体内容未披露。",
+    "extracted_at": "2026-07-23T21:48:44.830765+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "KPop Demon Hunters Nerf Collab Expands With HUNTR/X Weapons | Outlook Respawn - Outlook Respawn",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN0VTSGIya1dtWDhROEhCSVBWamk0aXNwWmM5c0xhWEhzcGM3T2hMZFBTRmE3Nm9RYUVqMzYyTG9mOF9vVW1EZWcyT3UyYnhYeWlDbGFpMzJrYUFKcV83cmFjLU1tTVd2UmY1MGxiblRVc2lyTVZGNGZHODRObkZBT0d6VlQ2ZmxKNGhxamdrTUhmQUhISU00NGY5Mk50RU9JZ3N4UGRwcThTcjRlQ0ZCcnUwZXI1bjQwRGgwUdIBygFBVV95cUxPeHNqdDlRQzItMUJQbE04OE5ldmt2bWlmczZhUUJ0QUVLZUU2TXNjUzlqMWFCSUEzZ2Jpa1V5NzYtVDJFSk41UEhlWUdoVHpFQ2xzdlJ4MFVTWFdHcG1jZ05tWEVuZzBYaGNFN3VxY1R0ZTU0OVhrVXZsVXVUYXJDeTRPZUxiOFRCZnF0MG0yampMRlF3ZkljemwwZzZKd3h6eW1aeTlXZ2FKcUhkRnZHd2RTVGg5MkVsYm5CZ1hTUmRMenVKVkhyNkhR?oc=5",
+    "content": "KPop Demon Hunters Nerf Collab Expands With HUNTR/X Weapons | Outlook Respawn Outlook Respawn",
+    "published_at": "0723google-kpop",
+    "published_ts": 1784774520.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "KPop Demon Hunters与Nerf联名扩展，推出HUNTR/X武器系列",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "KPop Demon Hunters与Nerf的联名合作扩展，新增HUNTR/X武器系列",
+      "该消息由Outlook Respawn报道"
+    ],
+    "summary_zh": "KPop Demon Hunters与Nerf的联名合作进一步扩展，推出了全新的HUNTR/X武器系列。该系列作为双方合作的一部分，具体细节尚未完全公开，但已引起粉丝关注。",
+    "extracted_at": "2026-07-23T21:48:46.625266+08:00"
   },
   {
     "source_id": "soompi",
@@ -638,17 +716,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "南柱赫确定出演《心跳》男主，韩素希正在商谈合作《背着善宰跑》编剧新作",
+    "title_zh": "南柱赫确定出演新剧《心跳》，韩素希正在协商中，编剧为《背着善宰跑》作家",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "南柱赫已确认将主演新剧《心跳》（暂定名）男主角",
-      "韩素希正在商谈出演同一部剧，与南柱赫合作",
-      "该剧由《背着善宰跑》编剧执笔"
+      "南柱赫已确认将主演新剧《心跳》（暂定名）",
+      "韩素希正在协商出演该剧，与南柱赫合作",
+      "该剧编剧为《背着善宰跑》的作家"
     ],
-    "summary_zh": "据7月23日更新消息，南柱赫已确认主演新浪漫爱情剧《心跳》（暂定名），该剧由热门剧《背着善宰跑》的编剧执笔。随后，韩素希被报道正在商谈出演该剧，与南柱赫搭档。韩素希的经纪公司对此作出回应，但具体细节尚未最终确定。",
-    "extracted_at": "2026-07-23T18:18:04.823645+08:00"
+    "summary_zh": "据7月23日更新消息，南柱赫已确认主演新浪漫爱情剧《心跳》（暂定名），韩素希正在协商出演该剧，与南柱赫搭档。该剧由热门剧《背着善宰跑》的作家执笔。",
+    "extracted_at": "2026-07-23T21:48:49.307688+08:00"
   },
   {
     "source_id": "soompi",
@@ -669,12 +747,12 @@
     "is_blurred": false,
     "facts_list": [
       "2024年7月22日，制作公司Hive Media Corp宣布WOODZ（曹承衍）加盟电影《南伐》（暂译）",
-      "WOODZ饰演角色Cheot Nom，一名箭术高超的弓箭手",
+      "WOODZ饰演角色Cheot Nom，是一名箭术精湛的弓箭手",
       "电影《南伐》背景设定在朝鲜王朝初期，是一部硬派武侠动作片",
       "主演阵容包括李秉宪、高允贞、李到晛"
     ],
-    "summary_zh": "WOODZ（曹承衍）正式加盟历史动作电影《南伐》（暂译），饰演箭术精湛的弓箭手Cheot Nom。该片由Hive Media Corp制作，背景设定在朝鲜王朝初期，是一部硬派武侠动作片，主演阵容包括李秉宪、高允贞、李到晛。",
-    "extracted_at": "2026-07-23T18:18:07.822169+08:00"
+    "summary_zh": "WOODZ（曹承衍）正式加盟历史动作电影《南伐》（暂译），饰演箭术高超的弓箭手Cheot Nom。该片由Hive Media Corp制作，背景设定在朝鲜王朝初期，是一部硬派武侠动作片，主演阵容包括李秉宪、高允贞、李到晛。",
+    "extracted_at": "2026-07-23T21:48:51.856946+08:00"
   },
   {
     "source_id": "soompi",
@@ -694,11 +772,35 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "7月23日，确认南柱赫、李伊丹、金义圣、朴勋将主演Disney+新剧《Code》",
+      "7月23日，南柱赫、李伊丹、金义圣、朴勋确认出演Disney+新剧《Code》",
       "该剧由导演刘秀执导"
     ],
-    "summary_zh": "7月23日，Disney+新悬疑犯罪剧《Code》确认主演阵容：南柱赫、李伊丹、金义圣、朴勋，由导演刘秀执导。",
-    "extracted_at": "2026-07-23T18:18:10.065958+08:00"
+    "summary_zh": "7月23日，Disney+新悬疑犯罪剧《Code》确认主演阵容：南柱赫、李伊丹、金义圣、朴勋将合作出演，该剧由导演刘秀执导。",
+    "extracted_at": "2026-07-23T21:48:53.815824+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-Pop’s NewJeans Hints at Comeback After Monthslong Feud With Its Label - The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRmp1SFNaNWtjYUplb3FYZFM5RmstZHBfOW51UUxoOWhZcWFkVVUxUHpDWVNiazdvNDVFRDlIRG1rZU5MVlFQeUlick5velFKRzN1YXAya0NOcEdoWEwwYmswQmJGWk91RG1hWFZZNFkwNlI0TW45ZjlBWURNdllKMQ?oc=5",
+    "content": "K-Pop’s NewJeans Hints at Comeback After Monthslong Feud With Its Label The New York Times",
+    "published_at": "0723google-kpop",
+    "published_ts": 1784769707.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "NewJeans与所属社长期纠纷后暗示回归",
+    "source_type": "韩娱",
+    "risk_level": "中",
+    "is_blurred": false,
+    "facts_list": [
+      "NewJeans在与所属社ADOR长达数月的纠纷后，暗示即将回归",
+      "该报道来自《纽约时报》，未提供具体回归日期或细节"
+    ],
+    "summary_zh": "据《纽约时报》报道，韩国女团NewJeans在与所属社ADOR发生数月纠纷后，近期暗示即将回归。报道未提及具体回归时间或新作品细节，仅指出组合在内部矛盾后释放了回归信号。",
+    "extracted_at": "2026-07-23T21:48:56.122416+08:00"
   },
   {
     "source_id": "soompi",
@@ -713,16 +815,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "李俊昊与洪花妍确认主演tvN新剧《韩国外国怪物大使馆》",
+    "title_zh": "李俊昊、洪花妍确认主演tvN新剧《韩国怪物外使馆》",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "2024年7月23日，tvN公布李俊昊与洪花妍主演新剧《韩国外国怪物大使馆》（暂译）",
-      "该剧被描述为一部神秘浪漫喜剧"
+      "7月23日，tvN公开李俊昊与洪花妍主演新剧《韩国怪物外使馆》（暂译）",
+      "该剧是一部神秘浪漫喜剧"
     ],
-    "summary_zh": "7月23日，tvN确认李俊昊与洪花妍将主演新剧《韩国外国怪物大使馆》（暂译），该剧被描述为一部神秘浪漫喜剧。",
-    "extracted_at": "2026-07-23T18:18:11.824577+08:00"
+    "summary_zh": "7月23日，tvN确认李俊昊与洪花妍将主演新剧《韩国怪物外使馆》（暂译），该剧是一部神秘浪漫喜剧。",
+    "extracted_at": "2026-07-23T21:48:57.833221+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -744,8 +846,8 @@
     "facts_list": [
       "K-Pop组合cosmosy与Anime Herald进行了访谈"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：K-Pop组合cosmosy与Anime Herald进行了访谈]",
-    "extracted_at": "2026-07-23T18:18:13.307243+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：K-Pop组合cosmosy接受了Anime Herald的采访]",
+    "extracted_at": "2026-07-23T21:48:59.283508+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -765,10 +867,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "Prime Video韩剧《明天见！》完整播出时间表由Lifestyle Asia公开"
+      "Prime Video韩剧《明天见！》完整播出时间表由Lifestyle Asia公开",
+      "该剧为Prime Video平台播出的韩剧系列"
     ],
-    "summary_zh": "Prime Video韩剧《明天见！》的完整播出时间表已由Lifestyle Asia公布。该剧的具体播出日期和集数安排详见原文。",
-    "extracted_at": "2026-07-23T18:18:15.349278+08:00"
+    "summary_zh": "Lifestyle Asia公开了Prime Video韩剧《明天见！》的完整播出时间表。该剧为Prime Video平台播出的韩剧系列，具体播出日期和时间需参考原文。",
+    "extracted_at": "2026-07-23T21:49:01.139685+08:00"
   },
   {
     "source_id": "soompi",
@@ -790,33 +893,10 @@
     "facts_list": [
       "新剧《出轨只是开始》发布角色预告和海报",
       "主演包括金惠秀、金智勋、赵汝贞等",
-      "该剧是一部黑色喜剧，讲述一对人气网红夫妇（以幸福家庭形象示人）与邻居之间引发的连锁反应"
+      "该剧是一部黑色喜剧，讲述一对网红夫妇贩卖幸福家庭形象，与邻居之间引发连锁反应的故事"
     ],
-    "summary_zh": "即将播出的韩剧《出轨只是开始》发布了主演的角色预告和海报。该剧是一部黑色喜剧，讲述一对以幸福家庭形象示人的人气网红夫妇与邻居之间引发的连锁反应。主演包括金惠秀、金智勋、赵汝贞等。",
-    "extracted_at": "2026-07-23T18:18:18.039384+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "SLL brings K-drama \"My ID Is Gangnam Beauty\" to Canal 5 in Mexico - Señal News - Senal News",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQlAyRU53Ui0yamJrZnowU2taRkEydU1CTTlkcGlQOW9aVkJ6N3hiVFV6d0UyWUl3QVZrMmUwRVhKRUR4ZDUxV2k1TnQ5VTdJTW1uZEcwT0xhd0dUQmM4X0hWVWVWMW1HdTVRT2paWThJSUlGcWRWWXRNSG02NFQ2NWp0V05XWHA1MWFzVkJWMktKWk14eUdFb21oSmHSAaIBQVVfeXFMT3dRWG0ydmJNRGs1UGNJUEhDRmhQc1dhU0VHNjhnRE91X1gwVTFrNXFRTTdtSEVZSENJRmp1NHdsdzJLSFhwZUNwOTNXMmVrOUJyZkxVUWt5ajBVLWt3UVdLaHpLcVF0UHB5TldhZjRZbzJ3REQ4WmF6akN1RDlCYTZHWjBpeXJucnNDQmt2TFAxOG1UTk9udEhvUnVkcGV4V0Nn?oc=5",
-    "content": "SLL brings K-drama \"My ID Is Gangnam Beauty\" to Canal 5 in Mexico - Señal News Senal News",
-    "published_at": "0723google-kpop",
-    "published_ts": 1784752387.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "SLL将韩剧《我的ID是江南美人》引入墨西哥Canal 5播出",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "SLL将韩剧《我的ID是江南美人》引入墨西哥Canal 5播出"
-    ],
-    "summary_zh": "SLL将韩剧《我的ID是江南美人》引入墨西哥Canal 5播出。",
-    "extracted_at": "2026-07-23T18:18:19.561983+08:00"
+    "summary_zh": "即将播出的韩剧《出轨只是开始》发布了主演阵容的角色预告和海报。该剧是一部黑色喜剧，讲述一对网红夫妇贩卖幸福家庭形象，与邻居之间引发连锁反应的故事。主演包括金惠秀、金智勋、赵汝贞等。",
+    "extracted_at": "2026-07-23T21:49:03.229704+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -831,16 +911,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "黄寅烨与惠利新剧《梦到你》完整播出时间表公开",
+    "title_zh": "黄寅烨与惠利新剧《Dream to You》完整播出时间表公开",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "黄寅烨与惠利主演的浪漫韩剧《梦到你》播出时间表已公布",
-      "该剧由Lifestyle Asia发布完整播出日程"
+      "黄寅烨与惠利主演的浪漫韩剧《Dream to You》播出时间表由Lifestyle Asia发布",
+      "具体播出日期和集数未在原文中详细说明"
     ],
-    "summary_zh": "韩剧《梦到你》由黄寅烨与惠利主演，Lifestyle Asia公开了该剧的完整播出时间表。",
-    "extracted_at": "2026-07-23T18:18:21.404132+08:00"
+    "summary_zh": "Lifestyle Asia公开了由黄寅烨和惠利主演的浪漫韩剧《Dream to You》的完整播出时间表，但具体日期和集数未在原文中详述。",
+    "extracted_at": "2026-07-23T21:49:05.050376+08:00"
   },
   {
     "source_id": "soompi",
@@ -864,56 +944,8 @@
       "榜单基于6月4日至7月4日期间50位艺人的消费者参与度、媒体覆盖、互动及社区意识指数大数据分析",
       "刘在石在本次排名中保持第一"
     ],
-    "summary_zh": "韩国企业评价研究所公布了7月综艺明星品牌声誉排行榜，该排名基于6月4日至7月4日期间50位艺人的大数据分析，包括消费者参与度、媒体覆盖、互动及社区意识指数。刘在石成功守住榜首位置。",
-    "extracted_at": "2026-07-23T18:18:23.327141+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Rei Ami from 'KPop Demon Hunters' and comedian Ken Jeong take a bite out of 'Shark Week' - Big Rapids Pioneer",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV3k4OU52dUp5bFd1X0h6MTVmQ2lJVlcyTzE0X1ZpWWp1TGJPSHI1dEU5U19XN21NWTJqakFvc3o2V19nd3pBY3Q1S3BkbktxU015eEVJR1FUeEtJbnU0QkdJekttT0hqNWc4SEtUUkhGbnJneXREZ2pQTjlyNXRzV0xybEE5cE1lSC00N0x4X29LdXp3Y3NjczZ4c0F5VjVoSkpPcG9qS1Z6UnAtYkE?oc=5",
-    "content": "Rei Ami from 'KPop Demon Hunters' and comedian Ken Jeong take a bite out of 'Shark Week' Big Rapids Pioneer",
-    "published_at": "0723google-kpop",
-    "published_ts": 1784740514.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "《KPop恶魔猎人》Rei Ami与喜剧演员Ken Jeong参与《鲨鱼周》节目",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "Rei Ami（来自《KPop恶魔猎人》）与喜剧演员Ken Jeong共同参与《鲨鱼周》节目",
-      "节目由Big Rapids Pioneer报道"
-    ],
-    "summary_zh": "《KPop恶魔猎人》的Rei Ami与喜剧演员Ken Jeong一起参加了《鲨鱼周》节目，该节目由Big Rapids Pioneer报道。",
-    "extracted_at": "2026-07-23T18:18:25.119519+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Rei Ami from 'KPop Demon Hunters' and comedian Ken Jeong take a bite out of 'Shark Week' - Ottumwa Courier",
-    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPcTRzUVVUVHRSUlZmWVBMeGNremdaWnpmZ19QZk9xNUtLRkhGdFVydzhVcXduU0lhSDl1ekwwc19XaUJGUEY0OU84b2tycDZQUk9NcFZrck44aEhuUWY5V0p3NFhaRGNJa0dzT2k0bnQwMVI3R0JUdk54SGd6MktlVzVuVkdkdV9FazNMT0xwV3FfbW94MklmemktRFlvenl3UzFleTMtd3ljTVg3ei1QVDdYTHVaZ0llWXlpZGk2a2o5RHZwZ1Vnb0pvUnk1NnpiNnBTcGdTQ0lYbFd5UG5KNlNYZ3FrTWU2T0wyVC1ZOF9sbWVqU1NCWlkyY3hVWmZhbnRB?oc=5",
-    "content": "Rei Ami from 'KPop Demon Hunters' and comedian Ken Jeong take a bite out of 'Shark Week' Ottumwa Courier",
-    "published_at": "0723google-kpop",
-    "published_ts": 1784740361.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "《KPop恶魔猎人》Rei Ami与喜剧演员Ken Jeong参与《鲨鱼周》节目",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "Rei Ami（来自《KPop恶魔猎人》）与喜剧演员Ken Jeong共同参与《鲨鱼周》节目",
-      "节目内容涉及鲨鱼相关主题，具体细节未提及"
-    ],
-    "summary_zh": "《KPop恶魔猎人》中的Rei Ami与喜剧演员Ken Jeong一起参加了《鲨鱼周》节目，具体节目内容未详细说明。",
-    "extracted_at": "2026-07-23T18:18:27.023523+08:00"
+    "summary_zh": "韩国企业评价研究所公布7月综艺明星品牌声誉排行榜，该榜单基于6月4日至7月4日期间50位艺人的大数据分析，涵盖消费者参与度、媒体覆盖、互动及社区意识指数。刘在石成功蝉联榜首。",
+    "extracted_at": "2026-07-23T21:49:07.327217+08:00"
   },
   {
     "source_id": "asianwiki",
