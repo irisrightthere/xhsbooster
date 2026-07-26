@@ -1,5 +1,128 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Pioneer Spirit, Seoul Style: High school K-pop club finds community through dance - Daily Democrat",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaXdKVWZHODVRWUNvTVV4d2J6RjhhQXVYbkcxdmtiWFhweW1UQURRN2JPR2tyMk1aRUFfc0VCNkFvbnM3Q2lqa09IaG9qbkNnVEQ0a1drNkxURFp6NVRLRHc2aHlQWHpZb3k4RDBPMDMya0QtT21zdnZMUlpRNDZNWnFUd3hMLVBCeGpVYllEYnAtYjlSbXlRQWpfUnByZjRNMEpUV25vVHhXZzBfd0llR1pQTXZEZDJUWHlJUjNn?oc=5",
+    "content": "Pioneer Spirit, Seoul Style: High school K-pop club finds community through dance Daily Democrat",
+    "published_at": "0726google-kpop",
+    "published_ts": 1785070917.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "先锋精神，首尔风格：高中K-pop社团通过舞蹈找到归属感",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "美国高中K-pop社团通过舞蹈活动建立社区归属感",
+      "社团活动包括学习K-pop舞蹈、参与表演等"
+    ],
+    "summary_zh": "美国《每日民主党》报道，一所高中的K-pop社团通过舞蹈活动，帮助学生找到社区归属感。社团成员学习K-pop舞蹈并参与表演，展现了K-pop文化在海外的影响力。",
+    "extracted_at": "2026-07-26T21:11:27.646153+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "KPop Demon Hunters merch to check out while we wait for the sequel - The Post Ph",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9lZ0JfSW9hN3d6bnF6b1B2ZTVBS2VvdUlkWWNVNEtHYlJ4S1JVZXdxRUdWcjItYXFxbzlmQ2dvbm9WZkZ1eXdwb1o0MFRZdnQ4YmE0YVY1Q3JJWE92eElQaVFZMHlrM21ycGp2TWd1a2EtQjBKNFF4aXlvR04?oc=5",
+    "content": "KPop Demon Hunters merch to check out while we wait for the sequel The Post Ph",
+    "published_at": "0726google-kpop",
+    "published_ts": 1785066044.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《KPop Demon Hunters》续集等待期间可入手的周边商品",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文未提及具体周边商品信息，仅称有相关周边可查看"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：在等待《KPop Demon Hunters》续集期间，可以查看该作品的周边商品。]",
+    "extracted_at": "2026-07-26T21:11:29.445754+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "This Twisty Netflix K-Drama Starring Oldboy's Choi Min-Sik Deserves Its Due - Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbm43cXRhOEloUG4xbU5Ybk9KNzlOX0ZKVFJUR1lvSjJvWV9SQmxHMFliLXJqcHczZHhNNFZoNUNMU1BUWTRmY19wdWJxWXI3S3lzdjRDV01LR1VxUmpFVm0yVUZyb0c1RFpOR1FqXzYzcmFGakRSZElsMklDZzkzdWFJczRCajNnTmdlNmt6eUtMYkh0Q2tPWTZ3?oc=5",
+    "content": "This Twisty Netflix K-Drama Starring Oldboy's Choi Min-Sik Deserves Its Due Yahoo",
+    "published_at": "0726google-kpop",
+    "published_ts": 1785064620.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "崔岷植主演Netflix悬疑韩剧《杀人者的购物中心》获好评",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "崔岷植主演Netflix韩剧《杀人者的购物中心》",
+      "该剧被评价为值得关注的作品"
+    ],
+    "summary_zh": "Netflix韩剧《杀人者的购物中心》由《老男孩》主演崔岷植领衔，剧情悬疑曲折，被媒体评价为值得一看的作品。",
+    "extracted_at": "2026-07-26T21:11:31.731633+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Kim Yoon Sik And Park Si Woo Bid Farewell To “The Prosecutor’s Proposal” With Heartwarming Moments From Final Filming",
+    "url": "https://www.soompi.com/article/1857481wpp/watch-kim-yoon-sik-and-park-si-woo-bid-farewell-to-the-prosecutors-proposal-with-heartwarming-moments-from-final-filming",
+    "content": "&#8220;The Prosecutor&#8217;s Proposal&#8221; has released a new making-of video! Based on a popular web novel, “The Prosecutor’s Proposal” is an office investigative BL drama. The story follows rookie investigator Lee Chae Ha (Park Si Woo), who lives with the stigma of being a killer’s son, and perfectionist prosecutor Joo Tae Sun (Kim Yoon Sik), who&#8230; Continue reading Watch: Kim Yoon Sik And Park Si Woo Bid Farewell To &#8220;The Prosecutor&#8217;s Proposal&#8221; With Heartwarming Moments From Final Filming\nThe post Watch: Kim Yoon Sik And Park Si Woo Bid Farewell To &#8220;The Prosecutor&#8217;s Proposal&#8221; With Heartwarming Moments From Final Filming appeared first on Soompi.",
+    "published_at": "0726soompi",
+    "published_ts": 1785063740.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "金允植、朴施宇《检察官的提议》杀青花絮公开，温馨告别",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "《检察官的提议》发布新制作花絮视频",
+      "该剧改编自网络小说，是一部办公室调查BL剧",
+      "朴施宇饰演新人调查员李彩夏，金允植饰演完美主义检察官朱泰善",
+      "花絮包含最终拍摄的温馨告别时刻"
+    ],
+    "summary_zh": "BL剧《检察官的提议》公开了最终拍摄花絮视频，主演金允植和朴施宇在片场温馨告别。该剧改编自网络小说，讲述背负杀人犯儿子污名的新人调查员李彩夏（朴施宇饰）与完美主义检察官朱泰善（金允植饰）的故事。",
+    "extracted_at": "2026-07-26T21:11:34.445175+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kim You Jung Talks About Her Upcoming Drama “100 Days Of Deception,” New Experiences While Traveling, And More",
+    "url": "https://www.soompi.com/article/1857447wpp/kim-you-jung-talks-about-her-upcoming-drama-100-days-of-deception-new-experiences-while-traveling-and-more",
+    "content": "Kim You Jung has joined allure for a stunning pictorial! Captivating with a bold pictorial, Kim You Jung participated in an interview with allure as part of tvN&#8217;s 20th anniversary project ahead of the release of her tvN weekend drama “100 Days of Deception.” “100 Days of Deception” is a period spy romance set during&#8230; Continue reading Kim You Jung Talks About Her Upcoming Drama &#8220;100 Days Of Deception,&#8221; New Experiences While Traveling, And More\nThe post Kim You Jung Talks About Her Upcoming Drama &#8220;100 Days Of Deception,&#8221; New Experiences While Traveling, And More appeared first on Soompi.",
+    "published_at": "0726soompi",
+    "published_ts": 1785061836.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "金裕贞为《allure》拍画报，谈新剧《百日欺骗》及旅行新体验",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "金裕贞为《allure》拍摄画报并接受采访",
+      "采访是tvN 20周年项目的一部分",
+      "金裕贞主演tvN周末剧《百日欺骗》，该剧是一部古装间谍浪漫剧",
+      "采访中谈及旅行中的新体验"
+    ],
+    "summary_zh": "金裕贞为《allure》杂志拍摄了惊艳的画报，并作为tvN 20周年项目的一部分接受了采访，宣传其主演的tvN周末剧《百日欺骗》。该剧是一部古装间谍浪漫剧。采访中，金裕贞还分享了旅行中的新体验。",
+    "extracted_at": "2026-07-26T21:11:37.061007+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -12,14 +135,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "“Agent Kim Reactivated” In Talks For Season 2",
-    "source_type": "韩娱",
+    "title_zh": "《金代理复活记》有望制作第二季，制作公司确认正在讨论中",
+    "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
-    "facts_list": [],
-    "summary_zh": "&#8220;Agent Kim Reactivated&#8221; may be returning with another season! Following the recent conclusion of the hit SBS drama, OSEN reported on July 26 that &#8220;Agent Kim Reactivated&#8221; has be",
-    "extracted_at": "2026-07-26T17:55:08.774005+08:00",
-    "extraction_failed": true
+    "facts_list": [
+      "SBS热播剧《金代理复活记》近期完结",
+      "OSEN于7月26日报道该剧已开始讨论第二季制作",
+      "制作公司向媒体确认：'感谢大家的厚爱与支持，《金代理复活记》正在讨论第二季制作'"
+    ],
+    "summary_zh": "据OSEN 7月26日报道，SBS热播剧《金代理复活记》在近期完结后，已开始讨论第二季制作。制作公司向媒体确认了这一消息，表示正在讨论中。",
+    "extracted_at": "2026-07-26T21:11:39.615520+08:00"
   },
   {
     "source_id": "soompi",
@@ -34,14 +160,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Kim Myung Soo Chases After A Fleeing Kang Min Ah On “Love In Sync” Finale",
-    "source_type": "韩娱",
+    "title_zh": "《爱在同步》大结局：金明洙追逐逃跑的姜敏儿",
+    "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
-    "facts_list": [],
-    "summary_zh": "After Kim Myung Soo’s sudden disappearance on “Love in Sync,” it’s now Kang Min Ah’s turn to go on the run! “Love in Sync” is a romantic comedy about a woman who rejects empathy and a man burdened wit",
-    "extracted_at": "2026-07-26T17:55:12.894730+08:00",
-    "extraction_failed": true
+    "facts_list": [
+      "金明洙在《爱在同步》中突然消失后，姜敏儿开始逃跑",
+      "《爱在同步》是一部浪漫喜剧，讲述拒绝共情的女人和共情过多的男人通过超自然现象共享情感的故事",
+      "该剧迎来大结局，金明洙追逐逃跑的姜敏儿"
+    ],
+    "summary_zh": "《爱在同步》大结局中，金明洙饰演的角色突然消失后，姜敏儿饰演的角色开始逃跑，金明洙追逐她。该剧是一部浪漫喜剧，讲述拒绝共情的女人和共情过多的男人通过超自然现象共享情感的故事。",
+    "extracted_at": "2026-07-26T21:11:42.160335+08:00"
   },
   {
     "source_id": "soompi",
@@ -56,14 +185,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "EXID’s Hani Lies That She’s Getting Married In “Love On The Menu”",
-    "source_type": "韩娱",
+    "title_zh": "EXID哈妮在新剧《菜单上的爱情》中谎称结婚",
+    "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
-    "facts_list": [],
-    "summary_zh": "EXID’s Hani will make a fake marriage announcement on KBS 2TV’s “Love on the Menu”! “Love on the Menu” is a new drama that tells the story of Kim Moo Jin (Ha Seok Jin) and Han Gyu Rim (Hani), two form",
-    "extracted_at": "2026-07-26T17:55:17.050452+08:00",
-    "extraction_failed": true
+    "facts_list": [
+      "EXID成员哈妮将在KBS 2TV新剧《菜单上的爱情》中出演角色韩圭琳",
+      "剧中哈妮饰演的韩圭琳与河锡辰饰演的金武镇在痛苦分手八年后重逢",
+      "哈妮的角色将谎称自己即将结婚"
+    ],
+    "summary_zh": "EXID成员哈妮（安喜延）将在KBS 2TV新剧《菜单上的爱情》中饰演韩圭琳，该剧讲述韩圭琳与河锡辰饰演的金武镇在痛苦分手八年后重逢的故事。剧中哈妮的角色将谎称自己即将结婚。",
+    "extracted_at": "2026-07-26T21:11:44.822750+08:00"
   },
   {
     "source_id": "soompi",
@@ -78,14 +210,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Watch: So Ji Sub, Joo Sang Wook, Choi Dae Hoon, And Yoon Kyung Ho Bring Laughter To The Set Of “Agent Kim Reactivated”",
-    "source_type": "韩娱",
+    "title_zh": "苏志燮、朱相昱、崔大勋、尹敬浩片场欢笑不断，《金代理复活》公开幕后花絮",
+    "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
-    "facts_list": [],
-    "summary_zh": "SBS&#8217;s &#8220;Agent Kim Reactivated&#8221; has released a new making-of video! The behind-the-scenes video begins with So Ji Sub and Joo Sang Wook practicing their action scene together, walking ",
-    "extracted_at": "2026-07-26T17:55:21.123207+08:00",
-    "extraction_failed": true
+    "facts_list": [
+      "SBS电视剧《金代理复活》公开新幕后视频",
+      "视频中苏志燮与朱相昱一起练习动作戏，逐一走位",
+      "朱相昱通过威亚向后飞出后，苏志燮扶他起身，展现专业与团队合作"
+    ],
+    "summary_zh": "SBS电视剧《金代理复活》公开新幕后花絮视频。视频中，苏志燮与朱相昱一起练习动作戏，逐一走位。朱相昱通过威亚向后飞出后，苏志燮扶他起身，展现专业与团队合作。",
+    "extracted_at": "2026-07-26T21:11:47.407889+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -100,14 +235,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Stray Kids to drop digital album ahead of new EP - The Korea Times",
+    "title_zh": "Stray Kids将发行数字专辑预热新EP",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
-    "facts_list": [],
-    "summary_zh": "Stray Kids to drop digital album ahead of new EP The Korea Times",
-    "extracted_at": "2026-07-26T17:55:25.324161+08:00",
-    "extraction_failed": true
+    "facts_list": [
+      "Stray Kids计划在发行新EP之前先发布一张数字专辑",
+      "该消息由The Korea Times报道"
+    ],
+    "summary_zh": "据The Korea Times报道，Stray Kids将在发行新EP之前先推出一张数字专辑，作为预热。具体发行日期和专辑名称尚未公布。",
+    "extracted_at": "2026-07-26T21:11:49.209145+08:00"
   },
   {
     "source_id": "soompi",
@@ -122,36 +259,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Namkoong Min And Lee Seol Are Separated By An Invisible Rift In “The Husband”",
-    "source_type": "韩娱",
+    "title_zh": "南宫珉与李雪在《丈夫》中因无形裂痕疏远",
+    "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
-    "facts_list": [],
-    "summary_zh": "KBS 2TV’s “The Husband” has shared a glimpse of the unspoken tension that has settled in between Namkoong Min and Lee Seol. “The Husband” is a thriller drama about a man on the brink of divorce who un",
-    "extracted_at": "2026-07-26T17:55:29.360282+08:00",
-    "extraction_failed": true
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "'Lovely Runner' creator's next choice is Nam Joo-hyuk - The Korea Herald",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzSHhWTlowQTl0Z0JNMTBSRjZrbU1STUdyTHRVRGZJV1dYbEVySEd2LUlrTU9wcmE0c09uNjVwdFhBN1NDU0VwNXNwUFlMSEpmY2J1M3U4QQ?oc=5",
-    "content": "'Lovely Runner' creator's next choice is Nam Joo-hyuk The Korea Herald",
-    "published_at": "0726google-kpop",
-    "published_ts": 1785048430.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "'Lovely Runner' creator's next choice is Nam Joo-hyuk - The Korea Herald",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [],
-    "summary_zh": "'Lovely Runner' creator's next choice is Nam Joo-hyuk The Korea Herald",
-    "extracted_at": "2026-07-26T17:55:33.455422+08:00",
-    "extraction_failed": true
+    "facts_list": [
+      "KBS 2TV《丈夫》公开了南宫珉与李雪之间无声紧张关系的剧照",
+      "该剧讲述离婚边缘的男人为救妻子与危险罪犯搏斗的惊悚故事"
+    ],
+    "summary_zh": "KBS 2TV惊悚剧《丈夫》公开了新剧照，显示南宫珉与李雪之间因无形裂痕而疏远。该剧讲述一个濒临离婚的男人意外卷入与危险罪犯的殊死搏斗以拯救妻子的故事。",
+    "extracted_at": "2026-07-26T21:11:51.833761+08:00"
   },
   {
     "source_id": "soompi",
@@ -166,14 +283,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Ji Sung, Park Byung Eun, And Moon So Ri Get Into A Heated Argument In “The Apartment Job”",
-    "source_type": "韩娱",
+    "title_zh": "《公寓任务》池晟、朴秉恩、文素利激烈争吵场面公开",
+    "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
-    "facts_list": [],
-    "summary_zh": "JTBC’s “The Apartment Job” has shared a sneak peek of a tense confrontation from its next episode! “The Apartment Job” tells the story of former Oasis Gang boss Park Hae Kang (Ji Sung), who runs for p",
-    "extracted_at": "2026-07-26T17:55:37.513466+08:00",
-    "extraction_failed": true
+    "facts_list": [
+      "JTBC剧集《公寓任务》公开下集预告，池晟、朴秉恩、文素利三人发生激烈争吵",
+      "该剧讲述前绿洲帮老大朴海康（池晟饰）为获取公寓隐藏储备金而竞选居民委员会会长的故事"
+    ],
+    "summary_zh": "JTBC剧集《公寓任务》公开下集预告，池晟、朴秉恩、文素利三人发生激烈争吵。该剧讲述前绿洲帮老大朴海康（池晟饰）为获取公寓隐藏储备金而竞选居民委员会会长的故事。",
+    "extracted_at": "2026-07-26T21:11:54.694172+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -188,14 +307,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Pre-fame BTS, Rescene performances put local festivals back in spotlight - The Korea Herald",
+    "title_zh": "BTS出道前演出及Rescene舞台让地方庆典重获关注",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
-    "facts_list": [],
-    "summary_zh": "Pre-fame BTS, Rescene performances put local festivals back in spotlight The Korea Herald",
-    "extracted_at": "2026-07-26T17:55:41.687874+08:00",
-    "extraction_failed": true
+    "facts_list": [
+      "BTS出道前曾在地方庆典演出，相关视频和报道重新引发关注",
+      "新人女团Rescene在地方庆典的表演也受到瞩目"
+    ],
+    "summary_zh": "据《韩国先驱报》报道，BTS出道前在地方庆典的演出视频以及新人女团Rescene的舞台表演，让韩国地方庆典重新成为公众关注的焦点。这些表演展现了地方庆典的潜力，吸引了更多游客和媒体注意。",
+    "extracted_at": "2026-07-26T21:11:57.424697+08:00"
   },
   {
     "source_id": "soompi",
@@ -210,14 +331,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Yang Se Jong Struggles To Adapt To Seeing Ghosts In “Spooky In Love”",
-    "source_type": "韩娱",
+    "title_zh": "梁世宗在《鬼神冤家》中努力适应见鬼训练",
+    "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
-    "facts_list": [],
-    "summary_zh": "On the next episode of “Spooky in Love,” Yang Se Jong will begin a tough training regimen to adapt to seeing ghosts! A remake of the 2011 film “Spellbound,” tvN’s “Spooky in Love” is a new occult roma",
-    "extracted_at": "2026-07-26T17:55:45.762353+08:00",
-    "extraction_failed": true
+    "facts_list": [
+      "《鬼神冤家》下一集中，梁世宗将开始艰苦的训练以适应见鬼",
+      "该剧是2011年电影《开心鬼上身》的翻拍，tvN出品，讲述能见鬼的酒店继承人与热情检察官的混乱合作"
+    ],
+    "summary_zh": "在tvN新剧《鬼神冤家》的下一集中，梁世宗饰演的角色将开始艰苦的训练，以适应能看见鬼魂的能力。该剧是2011年电影《开心鬼上身》的翻拍，讲述一位能见鬼的酒店继承人与一位热情检察官之间的混乱合作故事。",
+    "extracted_at": "2026-07-26T21:12:00.066805+08:00"
   },
   {
     "source_id": "soompi",
@@ -232,14 +355,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Stars Light Up The Red Carpet At The KM Chart Awards (KMA) 2026",
+    "title_zh": "2026 KM Chart Awards 红毯星光熠熠，MC与表演艺人亮相",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
-    "facts_list": [],
-    "summary_zh": "The red carpet at this year’s KM Chart Music Awards (KMA) was a stylish affair! On July 25, the KM Chart Awards 2026 were held at Korea University’s Hwajeong Tiger Dome in Seoul. Ahead of the ceremony",
-    "extracted_at": "2026-07-26T17:55:49.849039+08:00",
-    "extraction_failed": true
+    "facts_list": [
+      "2026年7月25日，KM Chart Awards 2026在首尔高丽大学Hwajeong Tiger Dome举行",
+      "颁奖典礼前，MC和表演艺人走上红毯拍照展示造型"
+    ],
+    "summary_zh": "2026年7月25日，KM Chart Awards 2026在首尔高丽大学Hwajeong Tiger Dome举行。颁奖典礼前，MC和表演艺人走上红毯拍照展示造型。",
+    "extracted_at": "2026-07-26T21:12:02.422480+08:00"
   },
   {
     "source_id": "soompi",
@@ -254,14 +379,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Seo In Guk Faces Career Crisis After Going Public With His Relationship In “See You At Work Tomorrow!”",
-    "source_type": "韩娱",
+    "title_zh": "徐仁国《明天见》公开恋情后遭遇职场危机",
+    "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
-    "facts_list": [],
-    "summary_zh": "On the next episode of “See You at Work Tomorrow!”, Seo In Guk will face the fallout of going public with his relationship. Based on the hit webtoon of the same name, tvN’s “See You at Work Tomorrow!”",
-    "extracted_at": "2026-07-26T17:55:53.960442+08:00",
-    "extraction_failed": true
+    "facts_list": [
+      "tvN剧集《明天见》下集预告中，徐仁国饰演的角色因公开恋情面临职场危机",
+      "该剧改编自同名热门网漫，由朴智贤饰演车智允"
+    ],
+    "summary_zh": "在tvN剧集《明天见》下集预告中，徐仁国饰演的角色因公开恋情而面临职场危机。该剧改编自同名热门网漫，由朴智贤饰演职场人车智允。",
+    "extracted_at": "2026-07-26T21:12:05.135211+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -276,14 +403,15 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "A 'sasaeng' is the South Korean term for a fan whose devotion crosses into surveillance and intrusion, and the reframe that lingers is that the sasaeng isn't a malfunction of K-pop's intimacy model — they're its most literal customer - Space Daily",
+    "title_zh": "韩娱私生饭：K-pop亲密模式的终极消费者",
     "source_type": "韩娱",
     "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [],
-    "summary_zh": "A 'sasaeng' is the South Korean term for a fan whose devotion crosses into surveillance and intrusion, and the reframe that lingers is that the sasaeng isn't a malfunction of K-pop's intimacy model — ",
-    "extracted_at": "2026-07-26T17:55:58.153334+08:00",
-    "extraction_failed": true
+    "is_blurred": true,
+    "facts_list": [
+      "原文未提及具体事件，仅对私生饭概念进行定义性描述"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：私生饭是韩国术语，指粉丝的忠诚演变为监视和侵入，并指出私生饭并非K-pop亲密模式的故障，而是其最直接的消费者]",
+    "extracted_at": "2026-07-26T21:12:07.315412+08:00"
   },
   {
     "source_id": "soompi",
@@ -298,14 +426,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Winners Of The KM Chart Awards (KMA) 2026",
+    "title_zh": "2026 KM Chart Awards 获奖名单揭晓 TXT 获年度艺人等五奖",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
-    "facts_list": [],
-    "summary_zh": "The KM Chart Awards (KMA) 2026 crowned its winners last night! On July 25, this year’s KM Chart Awards took place at Korea University’s Hwajeong Tiger Dome in Seoul. TXT won a total of five awards thi",
-    "extracted_at": "2026-07-26T17:56:02.213511+08:00",
-    "extraction_failed": true
+    "facts_list": [
+      "2026年7月25日，KM Chart Awards 在首尔高丽大学花亭虎穹顶体育馆举行",
+      "TXT 获得年度艺人大奖（Daesang）等共五个奖项",
+      "TXT 的五个奖项中有两个由粉丝投票决定"
+    ],
+    "summary_zh": "2026年KM Chart Awards于7月25日在首尔高丽大学花亭虎穹顶体育馆举行。TXT共获得五个奖项，包括年度艺人大奖（Daesang），其中两个奖项由粉丝投票决定。",
+    "extracted_at": "2026-07-26T21:12:09.751686+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -320,14 +451,15 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Sunday TV: Shark Week Goes K-Pop - Roger Catlin",
+    "title_zh": "周日电视：鲨鱼周与K-Pop跨界合作",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
-    "facts_list": [],
-    "summary_zh": "Sunday TV: Shark Week Goes K-Pop Roger Catlin",
-    "extracted_at": "2026-07-26T17:56:06.280452+08:00",
-    "extraction_failed": true
+    "facts_list": [
+      "鲨鱼周节目与K-Pop进行跨界合作"
+    ],
+    "summary_zh": "周日电视节目鲨鱼周与K-Pop展开跨界合作，具体内容未详细说明。",
+    "extracted_at": "2026-07-26T21:12:11.451681+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -342,14 +474,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Cortis to livestream LA concert in cinemas across 29 countries and regions - The Korea Herald",
+    "title_zh": "Cortis洛杉矶演唱会将在29国影院直播",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
-    "facts_list": [],
-    "summary_zh": "Cortis to livestream LA concert in cinemas across 29 countries and regions The Korea Herald",
-    "extracted_at": "2026-07-26T17:56:10.477878+08:00",
-    "extraction_failed": true
+    "facts_list": [
+      "Cortis将在洛杉矶举办演唱会",
+      "该演唱会将在29个国家和地区的影院进行直播"
+    ],
+    "summary_zh": "据《韩国先驱报》报道，Cortis计划在洛杉矶举办演唱会，并通过影院在29个国家和地区进行直播。",
+    "extracted_at": "2026-07-26T21:12:13.383629+08:00"
   },
   {
     "source_id": "soompi",
@@ -364,14 +498,19 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "“Agent Kim Reactivated” Ends On No. 1 Ratings As “Love On The Menu” Premieres To Promising Start",
-    "source_type": "韩娱",
+    "title_zh": "《特工金重启》大结局收视23%年度冠军，《菜单上的爱情》首播开门红",
+    "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
-    "facts_list": [],
-    "summary_zh": "SBS’s “Agent Kim Reactivated” has come to an end! On July 25, “Agent Kim Reactivated” successfully ended its run as the most-watched drama of 2026. According to Nielsen Korea, the final episode of the",
-    "extracted_at": "2026-07-26T17:56:14.527174+08:00",
-    "extraction_failed": true
+    "facts_list": [
+      "SBS剧集《特工金重启》于7月25日播出大结局",
+      "尼尔森韩国数据显示，大结局全国平均收视率为23.0%",
+      "该剧成为2026年收视最高的剧集",
+      "大结局收视率略低于该剧最高收视23.1%",
+      "新剧《菜单上的爱情》同日首播，取得良好开局"
+    ],
+    "summary_zh": "SBS剧集《特工金重启》于7月25日以23.0%的全国平均收视率收官，成为2026年收视冠军，略低于自身最高收视23.1%。同日首播的新剧《菜单上的爱情》取得良好开局。",
+    "extracted_at": "2026-07-26T21:12:16.433418+08:00"
   },
   {
     "source_id": "soompi",
@@ -386,14 +525,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "3 Sincere Moments Between Hyeri And Hwang In Youp In Episodes 3-4 Of “Dream To You”",
-    "source_type": "韩娱",
+    "title_zh": "《Dream To You》3-4集：惠利与黄寅烨的3个真挚瞬间",
+    "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
-    "facts_list": [],
-    "summary_zh": "Last week we finally met Joo Yi Jae (Girl’s Day’s Hyeri), a once enthusiastic young woman who lost her spark in the midst of a harsh reality, and Woo Soo Bin (Hwang In Youp), a successful film directo",
-    "extracted_at": "2026-07-26T17:56:18.589845+08:00",
-    "extraction_failed": true
+    "facts_list": [
+      "惠利饰演的朱伊在（Joo Yi Jae）曾是一位充满热情的女性，但在严酷现实中失去活力",
+      "黄寅烨饰演的禹秀彬（Woo Soo Bin）是一位成功的电影导演，多年后回归希望弥补过去",
+      "文章聚焦第3-4集中两人之间的3个真挚时刻"
+    ],
+    "summary_zh": "文章回顾了《Dream To You》第3-4集中惠利与黄寅烨之间的3个真挚瞬间。惠利饰演的朱伊在曾充满热情，但在现实中失去活力；黄寅烨饰演的禹秀彬是成功电影导演，多年后回归希望弥补过去。文章具体描述了两人互动中的感人片段。",
+    "extracted_at": "2026-07-26T21:12:19.524684+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -408,14 +550,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Rumi Ramen? ‘KPop Demon Hunters’ Cook Up Instant Noodle Collab That You Can Buy Online Now - K-Jewel 99.3 FM",
+    "title_zh": "K-pop恶魔猎人推出联名泡面Rumi Ramen，现已在线开售",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
-    "facts_list": [],
-    "summary_zh": "Rumi Ramen? ‘KPop Demon Hunters’ Cook Up Instant Noodle Collab That You Can Buy Online Now K-Jewel 99.3 FM",
-    "extracted_at": "2026-07-26T17:56:22.663664+08:00",
-    "extraction_failed": true
+    "facts_list": [
+      "K-pop组合‘KPop Demon Hunters’与食品品牌合作推出联名泡面产品‘Rumi Ramen’",
+      "该产品已通过在线渠道发售"
+    ],
+    "summary_zh": "K-pop组合‘KPop Demon Hunters’与食品品牌合作推出联名泡面‘Rumi Ramen’，目前该产品已通过在线渠道发售，粉丝可购买。",
+    "extracted_at": "2026-07-26T21:12:21.285562+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -430,14 +574,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "How to watch K-Pop Shark Heroes free on Discovery tonight - OregonLive.com",
+    "title_zh": "Discovery今晚播出《K-Pop Shark Heroes》免费观看指南",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
-    "facts_list": [],
-    "summary_zh": "How to watch K-Pop Shark Heroes free on Discovery tonight OregonLive.com",
-    "extracted_at": "2026-07-26T17:56:26.757298+08:00",
-    "extraction_failed": true
+    "facts_list": [
+      "节目《K-Pop Shark Heroes》将于今晚在Discovery频道播出",
+      "OregonLive.com提供免费观看指南"
+    ],
+    "summary_zh": "Discovery频道今晚将播出节目《K-Pop Shark Heroes》，OregonLive.com发布了免费观看指南，帮助观众收看该节目。",
+    "extracted_at": "2026-07-26T21:12:23.090533+08:00"
   },
   {
     "source_id": "soompi",
@@ -452,14 +598,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Watch: RESCENE Takes 1st-Ever Public Broadcast Network Music Show Win On “Music Core” With “Pretty Girl”; Performances By fromis_9 And More",
+    "title_zh": "RESCENE《Pretty Girl》获《音乐中心》一位，首次拿下公共台音乐节目冠军",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
-    "facts_list": [],
-    "summary_zh": "RESCENE has won a second music show trophy for “Pretty Girl”! On the July 25 episode of MBC’s “Music Core,” the candidates for first place were RESCENE’s “Pretty Girl,” aespa’s “LEMONADE,” and TXT&#82",
-    "extracted_at": "2026-07-26T17:56:30.908075+08:00",
-    "extraction_failed": true
+    "facts_list": [
+      "7月25日MBC《音乐中心》节目中，一位候补为RESCENE《Pretty Girl》、aespa《LEMONADE》、TXT崔然竣《Ice Cream》",
+      "RESCENE以总分6,772分获得一位，这是她们首次在公共广播电视台音乐节目夺冠"
+    ],
+    "summary_zh": "7月25日MBC《音乐中心》节目中，RESCENE凭借《Pretty Girl》以6,772分击败aespa和TXT崔然竣，获得一位。这是她们出道以来首次在公共广播电视台音乐节目（如MBC《音乐中心》）中夺冠。",
+    "extracted_at": "2026-07-26T21:12:25.936743+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -474,14 +622,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Psy's \"Gangnam Style\" Becomes First K-Pop Video to Hit 6B YouTube Views - Yahoo",
+    "title_zh": "PSY《江南Style》成K-Pop首支YouTube播放量破60亿视频",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
-    "facts_list": [],
-    "summary_zh": "Psy's \"Gangnam Style\" Becomes First K-Pop Video to Hit 6B YouTube Views Yahoo",
-    "extracted_at": "2026-07-26T17:56:34.951858+08:00",
-    "extraction_failed": true
+    "facts_list": [
+      "PSY的《江南Style》成为K-Pop首支YouTube播放量突破60亿次的视频",
+      "该纪录由Yahoo报道确认"
+    ],
+    "summary_zh": "据Yahoo报道，PSY的《江南Style》成为K-Pop历史上首支在YouTube上播放量突破60亿次的视频，再次刷新了K-Pop在全球流媒体平台的纪录。",
+    "extracted_at": "2026-07-26T21:12:28.072230+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -496,14 +646,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "NO.kpop.liv.adv.051.jpg - The Advocate",
+    "title_zh": "《The Advocate》杂志发布K-pop相关图片",
     "source_type": "韩娱",
     "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [],
-    "summary_zh": "NO.kpop.liv.adv.051.jpg The Advocate",
-    "extracted_at": "2026-07-26T17:56:39.012617+08:00",
-    "extraction_failed": true
+    "is_blurred": true,
+    "facts_list": [
+      "图片标题为NO.kpop.liv.adv.051.jpg",
+      "图片来自《The Advocate》杂志"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：发布了一张标题为NO.kpop.liv.adv.051.jpg的图片，来自《The Advocate》杂志]",
+    "extracted_at": "2026-07-26T21:12:29.913658+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -518,14 +670,15 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "NO.kpop.liv.adv.046.jpg - The Advocate",
+    "title_zh": "The Advocate发布K-pop相关报道",
     "source_type": "韩娱",
     "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [],
-    "summary_zh": "NO.kpop.liv.adv.046.jpg The Advocate",
-    "extracted_at": "2026-07-26T17:56:43.078897+08:00",
-    "extraction_failed": true
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及标题和图片文件名，无具体事实内容"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：The Advocate发布了一张名为NO.kpop.liv.adv.046.jpg的图片]",
+    "extracted_at": "2026-07-26T21:12:31.727073+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -540,14 +693,15 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "NO.kpop.liv.adv.040.jpg - The Advocate",
+    "title_zh": "《The Advocate》杂志发布K-pop专题报道",
     "source_type": "韩娱",
     "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [],
-    "summary_zh": "NO.kpop.liv.adv.040.jpg The Advocate",
-    "extracted_at": "2026-07-26T17:56:47.199599+08:00",
-    "extraction_failed": true
+    "is_blurred": true,
+    "facts_list": [
+      "《The Advocate》杂志发布了编号为NO.kpop.liv.adv.040.jpg的K-pop相关报道"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：《The Advocate》杂志发布了编号为NO.kpop.liv.adv.040.jpg的K-pop相关报道]",
+    "extracted_at": "2026-07-26T21:12:33.521571+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -562,14 +716,15 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "NO.kpop.liv.adv.032.jpg - The Advocate",
+    "title_zh": "《The Advocate》杂志发布K-pop专题报道",
     "source_type": "韩娱",
     "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [],
-    "summary_zh": "NO.kpop.liv.adv.032.jpg The Advocate",
-    "extracted_at": "2026-07-26T17:56:51.304359+08:00",
-    "extraction_failed": true
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及杂志名称《The Advocate》及图片文件名NO.kpop.liv.adv.032.jpg，无具体事实内容"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：存在一张名为NO.kpop.liv.adv.032.jpg的图片，与《The Advocate》杂志及K-pop相关]",
+    "extracted_at": "2026-07-26T21:12:35.399458+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -584,14 +739,15 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "NO.kpop.liv.adv.005.jpg - The Advocate",
+    "title_zh": "《The Advocate》杂志发布K-pop专题报道",
     "source_type": "韩娱",
     "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [],
-    "summary_zh": "NO.kpop.liv.adv.005.jpg The Advocate",
-    "extracted_at": "2026-07-26T17:56:55.426036+08:00",
-    "extraction_failed": true
+    "is_blurred": true,
+    "facts_list": [
+      "《The Advocate》杂志发布了编号为NO.kpop.liv.adv.005.jpg的K-pop相关报道"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：《The Advocate》杂志发布了编号为NO.kpop.liv.adv.005.jpg的K-pop相关报道]",
+    "extracted_at": "2026-07-26T21:12:37.268173+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -606,14 +762,15 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "An underrated Netflix K-Drama ended up being my favorite TV series of July - Yahoo",
-    "source_type": "韩娱",
+    "title_zh": "Netflix冷门韩剧成七月最爱",
+    "source_type": "韩剧",
     "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [],
-    "summary_zh": "An underrated Netflix K-Drama ended up being my favorite TV series of July Yahoo",
-    "extracted_at": "2026-07-26T17:56:59.504984+08:00",
-    "extraction_failed": true
+    "is_blurred": true,
+    "facts_list": [
+      "原文未提及具体剧名、时间、数据或声明"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：一部被低估的Netflix韩剧成为作者七月最爱的电视剧]",
+    "extracted_at": "2026-07-26T21:12:38.860979+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -628,36 +785,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Netflix officially finds its Kpop Demon Hunters replacement — but there's a catch - IMDb",
-    "source_type": "韩娱",
+    "title_zh": "Netflix确定《Kpop Demon Hunters》替代项目，但存在一个条件",
+    "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
-    "facts_list": [],
-    "summary_zh": "Netflix officially finds its Kpop Demon Hunters replacement — but there's a catch IMDb",
-    "extracted_at": "2026-07-26T17:57:03.658456+08:00",
-    "extraction_failed": true
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "‘KPop Demon Hunters’ has been watched more than twice as much as Netflix’s second-biggest film - NME",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNV1lQNmdDU28xa1IwMFhldmw5eXJqNUIzOVBiZk9nRVdHMTFHY2F4V25uYTk4QVdYSjgyRWVCc1lfNzFqNEhzOGhVcHZUVGZuX2tBSDFLUEY5RWFDcy1tdVZBd3NOMXo3NmJDb0l4a3BMNEJPdVk5Y1VieHhETE5SaXJveldIWXI0N3lXYmR6RHBHZDhOcnhlN3ZibVNwZzdmdEJDWlZJS3FLUlZPMmx6VXlNUW9OaS1Gb0M5Tm01R1NERW0wZF9RVQ?oc=5",
-    "content": "‘KPop Demon Hunters’ has been watched more than twice as much as Netflix’s second-biggest film NME",
-    "published_at": "0726google-kpop",
-    "published_ts": 1784995480.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "‘KPop Demon Hunters’ has been watched more than twice as much as Netflix’s second-biggest film - NME",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [],
-    "summary_zh": "‘KPop Demon Hunters’ has been watched more than twice as much as Netflix’s second-biggest film NME",
-    "extracted_at": "2026-07-26T17:57:07.855782+08:00",
-    "extraction_failed": true
+    "facts_list": [
+      "Netflix官方确认了《Kpop Demon Hunters》的替代项目",
+      "该替代项目存在一个未具体说明的条件"
+    ],
+    "summary_zh": "Netflix官方已确定《Kpop Demon Hunters》的替代项目，但该项目附带一个条件，具体内容尚未披露。",
+    "extracted_at": "2026-07-26T21:12:40.700616+08:00"
   },
   {
     "source_id": "asianwiki",
