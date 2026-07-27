@@ -1,5 +1,75 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "SECRET NUMBER: A Career In Song Ratings - thebiaslist.com",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sZ0NTU2h3R0QyWTRTdFBSZkFPY2VXU0NCODl6SzZlMElfYUVkM1dhbnpoQkQ3MFpGOFJOTHBiVXc3enhKcXdFbUVkRlplaEoxU29NVXhPLURQN3kwa2ZHc29DX1h2Vnd0VTg2a19wSmc5M0RPRjk1aXlfaVpSOWs?oc=5",
+    "content": "SECRET NUMBER: A Career In Song Ratings thebiaslist.com",
+    "published_at": "0727google-kpop",
+    "published_ts": 1785161266.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "SECRET NUMBER歌曲评分回顾",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文未提及具体行为，仅称：thebiaslist.com网站对SECRET NUMBER的歌曲进行了评分回顾"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：thebiaslist.com网站对SECRET NUMBER的歌曲进行了评分回顾]",
+    "extracted_at": "2026-07-27T22:23:40.615197+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "NouerA – .exe - thebiaslist.com",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5S1lDMFFYanY5YWxKcnFmYkJUbDRkZEM4TVpITGt0Q1FtUTEzYWpxSTJKcnh0Vlc1VjgtcWUyelAtdnNTSUVpTFNnZF9oUnlGaVhyNUJmTHpxVkk4WGFhY3MtdHdPbUlJckE?oc=5",
+    "content": "NouerA – .exe thebiaslist.com",
+    "published_at": "0727google-kpop",
+    "published_ts": 1785160904.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "NouerA发布新单曲.exe",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文未提及具体行为，仅称：NouerA发布新单曲.exe"
+    ],
+    "summary_zh": "原文未提及具体行为，仅称：NouerA发布新单曲.exe",
+    "extracted_at": "2026-07-27T22:23:41.962723+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "HYBE, SM, JYP & YG join forces to launch massive 11-day K-pop festival Fanomenon in December 2027 - bandwagon.asia",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSHdXdVZ1NmtDVWFwZjBRSUdZMlplMUFDNVgzU1pJOUpyUVY4Uk5pb3A0NldiSlNzN2N1UzNIeUFkTndOdlRVUVVCWFRCZXJDdklKdTVWSjhvT0R4RWU5dmYxZS1fakFEN0ZXLVNZYW1MT2p4Ti1KZ0ZLUk42MzRjaEhPeC1zak42WVhRNjlYQUVXMzN5Uy1LUzVJdjVhZHpJRUxXbm9oN2trUWNK?oc=5",
+    "content": "HYBE, SM, JYP & YG join forces to launch massive 11-day K-pop festival Fanomenon in December 2027 bandwagon.asia",
+    "published_at": "0727google-kpop",
+    "published_ts": 1785160740.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "HYBE、SM、JYP、YG四大社联手，2027年12月举办11天K-pop音乐节Fanomenon",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "HYBE、SM、JYP、YG四家娱乐公司联合举办K-pop音乐节Fanomenon",
+      "音乐节为期11天，将于2027年12月举行"
+    ],
+    "summary_zh": "据Bandwagon Asia报道，HYBE、SM、JYP、YG四大韩国娱乐公司联合宣布，将于2027年12月举办为期11天的K-pop音乐节Fanomenon。具体地点、阵容及票务信息尚未公布。",
+    "extracted_at": "2026-07-27T22:23:43.871868+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -18,10 +88,11 @@
     "is_blurred": false,
     "facts_list": [
       "孔孝真主演的MBC金土剧《杀人者的购物中心》即将首播",
-      "该剧改编自同名热门网漫，讲述一位职场母亲拥有致命职业，为保护工作与生活平衡而战斗的动作剧"
+      "该剧改编自同名热门网漫",
+      "剧情讲述一位拥有致命职业的职场母亲为保护工作与生活平衡而战斗的动作剧"
     ],
-    "summary_zh": "孔孝真主演的MBC金土剧《杀人者的购物中心》即将首播，该剧改编自同名热门网漫，是一部动作剧，讲述一位职场母亲拥有致命职业，为保护工作与生活平衡而战斗的故事。",
-    "extracted_at": "2026-07-27T19:15:47.884930+08:00"
+    "summary_zh": "孔孝真主演的MBC金土剧《杀人者的购物中心》改编自同名热门网漫，是一部关于一位拥有致命职业的职场母亲为保护工作与生活平衡而战斗的动作剧。该剧即将首播，官方发布了三大看点。",
+    "extracted_at": "2026-07-27T22:23:46.085489+08:00"
   },
   {
     "source_id": "soompi",
@@ -41,11 +112,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "《金科长重启》已完结，主演们分享了终映感言",
-      "该剧改编自热门网络漫画，是一部动作复仇剧，讲述看似平凡的爸爸金科长（苏志燮饰）为保护家人而战斗的故事"
+      "《金科长重启》剧终，主演苏志燮等分享终映感言",
+      "该剧改编自热门网漫，是一部动作复仇剧"
     ],
-    "summary_zh": "热门韩剧《金科长重启》近日完结，主演们分享了终映感言，感谢观众的支持。该剧改编自网络漫画，由苏志燮主演，讲述一位看似平凡的爸爸为保护家人而战斗的动作复仇故事。",
-    "extracted_at": "2026-07-27T19:15:50.388773+08:00"
+    "summary_zh": "热门韩剧《金科长重启》近日迎来大结局，主演苏志燮等演员分享了终映感言，感谢观众的支持。该剧改编自同名网漫，讲述看似平凡的爸爸金科长（苏志燮饰）为保护家人而展开复仇的动作故事。",
+    "extracted_at": "2026-07-27T22:23:48.378141+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -68,8 +139,8 @@
       "韩国政府计划整合多个K-pop颁奖礼，打造一个全球性颁奖典礼",
       "该活动被命名为“Fanomenon”，旨在吸引全球粉丝参与"
     ],
-    "summary_zh": "据韩国中央日报报道，韩国政府希望将多个K-pop颁奖礼整合为一个全球性颁奖典礼，命名为“Fanomenon”，旨在吸引全球粉丝参与，提升K-pop的国际影响力。",
-    "extracted_at": "2026-07-27T19:15:52.694690+08:00"
+    "summary_zh": "据韩国《中央日报》报道，韩国政府希望将多个K-pop颁奖礼整合为一个全球性活动，命名为“Fanomenon”，旨在吸引全球粉丝参与，提升K-pop的国际影响力。",
+    "extracted_at": "2026-07-27T22:23:50.576497+08:00"
   },
   {
     "source_id": "soompi",
@@ -84,16 +155,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《Flex x Cop 2》导演预告：独特案件将以华丽方式解决",
+    "title_zh": "《Flex x Cop 2》导演预告独特案件与华丽破案方式",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "《Flex x Cop 2》导演透露该剧将呈现独特案件，并以华丽方式解决",
-      "安普贤继续饰演陈利洙，一名三代财阀继承人转行的侦探，在调查陷入僵局时利用财富和人脉如同作弊码"
+      "安普贤继续饰演第三代财阀继承人转行侦探的陈怡秀，利用财富和人脉破解案件"
     ],
-    "summary_zh": "即将播出的韩剧《Flex x Cop 2》导演预告了该剧将呈现独特案件并以华丽方式解决，提升了观众的期待。安普贤继续饰演主角陈利洙，一名三代财阀继承人转行的侦探，在调查陷入僵局时利用财富和人脉如同作弊码。",
-    "extracted_at": "2026-07-27T19:15:55.287788+08:00"
+    "summary_zh": "即将播出的韩剧《Flex x Cop 2》导演在采访中透露，新一季将呈现独特案件，并以华丽方式解决。安普贤继续饰演第三代财阀继承人转行侦探的陈怡秀，在调查陷入僵局时利用财富和人脉破解案件。该剧引发观众期待。",
+    "extracted_at": "2026-07-27T22:23:52.985580+08:00"
   },
   {
     "source_id": "soompi",
@@ -114,34 +185,10 @@
     "is_blurred": false,
     "facts_list": [
       "Soompi与Viki员工讨论夏日浪漫韩剧推荐",
-      "员工Sala推荐《夏日大罢工》，称其为最喜欢的夏日浪漫剧之一"
+      "员工Sala推荐《夏日大罢工》，称其为夏日浪漫剧之一"
     ],
-    "summary_zh": "Soompi与Viki员工在夏季讨论中推荐了适合温暖天气观看的浪漫韩剧，其中员工Sala特别推荐了《夏日大罢工》，认为这是一部被低估的夏日浪漫剧。",
-    "extracted_at": "2026-07-27T19:15:57.478972+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "‘Agent Kim Reactivated’ on Netflix: Full release schedule of the K-drama - Lifestyle Asia",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZFhPZkNxcG1IM0ljWUFNQUpCRnlVSlNLMlB4R2tOa3c0QmhNQV9YRXhaOEQ5NE5fUVhVSDgwSTA3VnF6NElQS2tEUHBZV1U1V1FBYk1EcEVWX0hUbnZWQTdjS0NzcnR0Vjl2c3lzeko5M01XUmhuLVRySWFLN0ZPYVZtU09TZjVOeVRMeU5Ba3NTdzBqbVlmWmdNaDhLVDdZOXNpVmVXcmdoTHRKaWpHZ1lTSUpWLUhZRXBja2xNTnBCZVd4NDJ4SWdn0gHPAUFVX3lxTE1fN0NNaVA3SWlJd19xUy1IOXFBSXVDYXVpc05lbkhEbS1FbjViZHFjdi1kWjlpbUREUFNKaHcyMXFUWlBUbXE2eW1mUC12SVA2RExjUFFId2ladzdIY01wbW02ZDE3TndtVkZJYWFKZldFOFpIRUY2eFZnaDRueEhDSEgyQ1F3c1ctcUJ5S0trUVhhamFhZVNldTVXbFA1NTJ5TzkxZDBaTDd6ek83RUZOemphX1BuTkRoT1I1bEppTC0yVld2R185Sk1QOGdYdw?oc=5",
-    "content": "‘Agent Kim Reactivated’ on Netflix: Full release schedule of the K-drama Lifestyle Asia",
-    "published_at": "0727google-kpop",
-    "published_ts": 1785142359.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Netflix韩剧《金代理复活了》公开完整播出日程",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "Netflix韩剧《金代理复活了》公开完整播出日程",
-      "该剧由Lifestyle Asia报道"
-    ],
-    "summary_zh": "Netflix韩剧《金代理复活了》公开了完整播出日程，该剧由Lifestyle Asia报道。",
-    "extracted_at": "2026-07-27T19:15:59.298560+08:00"
+    "summary_zh": "Soompi与Viki员工讨论夏日浪漫韩剧推荐，员工Sala推荐《夏日大罢工》，称其为夏日浪漫剧之一。",
+    "extracted_at": "2026-07-27T22:23:54.779188+08:00"
   },
   {
     "source_id": "soompi",
@@ -161,11 +208,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "Seonghwa近期与Arena Homme Plus合作进行画报拍摄及采访",
+      "ATEEZ成员Seonghwa近日接受《Arena Homme Plus》画报及采访",
       "Seonghwa在采访中表示每次拍摄画报都让自己更满意，并认为这些拍摄有助于建立个人身份"
     ],
-    "summary_zh": "ATEEZ成员Seonghwa近日与时尚杂志Arena Homme Plus合作拍摄画报并接受采访。他在采访中谈到，每次参与画报拍摄都让自己感到更满意，并认为这些拍摄有助于在偶像身份之外建立自己的个人身份。",
-    "extracted_at": "2026-07-27T19:16:01.707486+08:00"
+    "summary_zh": "ATEEZ成员Seonghwa近日与《Arena Homme Plus》合作拍摄画报并接受采访。他谈到每次拍摄画报都让自己更满意，并认为这些拍摄有助于建立个人身份。",
+    "extracted_at": "2026-07-27T22:23:56.718214+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -180,16 +227,15 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "K-pop回归形式演变：街头表演成新趋势",
+    "title_zh": "K-pop回归形式演变：走向街头表演",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "《韩国先驱报》报道K-pop回归形式正在演变，街头表演成为新趋势",
-      "文章未提及具体艺人、时间或数据"
+      "韩国先驱报报道K-pop回归形式正在演变，包括街头表演等新方式"
     ],
-    "summary_zh": "据《韩国先驱报》报道，K-pop的回归形式正在演变，街头表演成为新趋势。文章未提供具体艺人、时间或数据细节。",
-    "extracted_at": "2026-07-27T19:16:03.499710+08:00"
+    "summary_zh": "据韩国先驱报报道，K-pop的回归形式正在发生变化，从传统的音乐节目和发布会扩展到街头表演等更贴近粉丝的方式。文章探讨了这种演变如何帮助偶像团体与公众建立更直接的联系，并适应数字时代的宣传需求。",
+    "extracted_at": "2026-07-27T22:23:58.805874+08:00"
   },
   {
     "source_id": "soompi",
@@ -204,16 +250,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "柳海真新片《Assassins》首曝剧照，调查第一夫人遇刺案真相",
+    "title_zh": "柳海真新片《刺客》首曝剧照，调查第一夫人遇刺真相",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "柳海真在新片《Assassins》中饰演中部警察署警监Cheol Gu，目击第一夫人遇刺事件",
-      "影片讲述调查震惊韩国的8月15日枪击事件背后真相的故事"
+      "电影《刺客》发布柳海真角色剧照",
+      "柳海真饰演中部警察署警监哲九，目击第一夫人遇刺事件",
+      "影片围绕8月15日枪击事件展开调查"
     ],
-    "summary_zh": "新片《Assassins》首次公开柳海真角色剧照。柳海真饰演中部警察署警监Cheol Gu，目击第一夫人遇刺事件。影片围绕调查震惊韩国的8月15日枪击事件背后的真相展开。",
-    "extracted_at": "2026-07-27T19:16:05.721789+08:00"
+    "summary_zh": "新片《刺客》首次公开柳海真角色剧照。柳海真饰演中部警察署警监哲九，目击第一夫人遇刺事件。影片讲述对震惊韩国的8月15日枪击事件背后真相的调查。",
+    "extracted_at": "2026-07-27T22:24:01.068457+08:00"
   },
   {
     "source_id": "soompi",
@@ -228,16 +275,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "金惠秀新剧《出轨只是开始》公开海报预告，盼丈夫出轨只是最小麻烦",
+    "title_zh": "金惠秀新剧《出轨只是开始》预告：希望丈夫出轨只是最糟的事",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "新剧《出轨只是开始》公开新海报和预告片",
-      "该剧是一部黑色喜剧，讲述一对网红夫妇（贩卖幸福家庭形象）与隔壁医生夫妇之间引发的连锁反应"
+      "金惠秀主演新剧《出轨只是开始》发布新海报和预告片",
+      "该剧是一部黑色喜剧，讲述一对网红夫妇和一对医生夫妇邻居之间因出轨引发的连锁反应"
     ],
-    "summary_zh": "金惠秀主演的新剧《出轨只是开始》公开了最新海报和预告片。该剧是一部黑色喜剧，讲述一对贩卖幸福家庭形象的网红夫妇与隔壁医生夫妇之间因出轨引发的连锁反应。预告中金惠秀饰演的角色希望丈夫的出轨只是她面临的最小问题。",
-    "extracted_at": "2026-07-27T19:16:08.233056+08:00"
+    "summary_zh": "金惠秀主演的新剧《出轨只是开始》发布新海报和预告片。该剧是一部黑色喜剧，讲述一对网红夫妇（以幸福家庭形象示人）和他们的邻居医生夫妇之间因出轨引发的连锁反应。预告中金惠秀饰演的角色希望丈夫的出轨只是她最糟的问题。",
+    "extracted_at": "2026-07-27T22:24:03.567426+08:00"
   },
   {
     "source_id": "soompi",
@@ -252,16 +299,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《明天见》雪中拥抱：姜敏儿紧抱元奎彬",
+    "title_zh": "《明天见》雪中拥抱：姜旻儿紧抱元奎彬",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "姜敏儿与元奎彬在tvN剧集《明天见》雪景中拍摄拥抱场景",
-      "该剧改编自同名热门网漫，由朴智贤饰演职场倦怠的职员车智允"
+      "tvN剧集《明天见》发布新剧照，姜旻儿在雪中紧紧抱住元奎彬",
+      "该剧改编自同名热门网漫，由朴智贤饰演职场失意的车智允"
     ],
-    "summary_zh": "tvN新剧《明天见》公开雪中剧照，姜敏儿饰演的角色在雪中紧紧抱住元奎彬饰演的角色。该剧改编自同名网漫，讲述职场倦怠的职员车智允（朴智贤饰）的故事。",
-    "extracted_at": "2026-07-27T19:16:11.107754+08:00"
+    "summary_zh": "tvN浪漫剧《明天见》公开新剧照，姜旻儿在雪中紧紧抱住元奎彬，预示两人关系可能迎来戏剧性转折。该剧改编自同名热门网漫，由朴智贤主演，讲述职场失意的车智允的故事。",
+    "extracted_at": "2026-07-27T22:24:05.967772+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -282,7 +329,7 @@
     "is_blurred": true,
     "facts_list": [],
     "summary_zh": "[原文未提及具体行为，仅称：K-Pop超级英雄‘Ani’即将登场]",
-    "extracted_at": "2026-07-27T19:16:12.375284+08:00"
+    "extracted_at": "2026-07-27T22:24:07.326088+08:00"
   },
   {
     "source_id": "soompi",
@@ -302,12 +349,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "Netflix即将推出新综艺《Take A Hike!》，这是一档关于四位从未对登山感兴趣的“非自愿徒步者”首次在隆冬时节攀登雪山雪山的“自助徒步”节目。",
-      "节目出演者包括Car, the Garden、Dowoon、李彩玟和Tarzzan。",
-      "节目公开了新剧照，展示了出演者在徒步中形成特殊纽带的情景。"
+      "Netflix新综艺《Take A Hike!》公开新预告照",
+      "节目为“自发性登山”综艺，四位对登山无兴趣的嘉宾首次挑战冬季雪山远征",
+      "出演者：Car, the Garden、Dowoon、李彩玟、Tarzzan"
     ],
-    "summary_zh": "Netflix新综艺《Take A Hike!》公开新剧照，该节目是一档关于四位从未对登山感兴趣的“非自愿徒步者”首次在隆冬时节攀登雪山的“自助徒步”节目。出演者包括Car, the Garden、Dowoon、李彩玟和Tarzzan，他们在徒步中形成了特殊纽带。",
-    "extracted_at": "2026-07-27T19:16:15.360742+08:00"
+    "summary_zh": "Netflix新综艺《Take A Hike!》公开新预告照。该节目是一档“自发性登山”综艺，讲述四位对登山毫无兴趣的嘉宾首次挑战冬季雪山远征的故事。出演者包括Car, the Garden、Dowoon、李彩玟和Tarzzan。",
+    "extracted_at": "2026-07-27T22:24:09.722332+08:00"
   },
   {
     "source_id": "soompi",
@@ -329,11 +376,11 @@
     "facts_list": [
       "《ALL or NOTHING》是一档在埃及拍摄的赢家通吃旅行综艺节目",
       "节目为期7天6夜，在开罗、卢克索和赫尔格达三座城市进行",
-      "出演者包括SUPER JUNIOR的利特和神童、DAWN、NCT的Johnny、金曜汉、NCT的志晟",
-      "他们将争夺“王子”称号及相关特权"
+      "参赛者包括SUPER JUNIOR的利特和神童、DAWN、NCT的Johnny、金曜汉、NCT的志晟",
+      "他们将争夺“王子”称号及各种特权"
     ],
-    "summary_zh": "新综艺《ALL or NOTHING》公开预告剧照，该节目是一档在埃及拍摄的赢家通吃旅行综艺，为期7天6夜，在开罗、卢克索和赫尔格达三座城市进行。出演者包括SUPER JUNIOR的利特和神童、DAWN、NCT的Johnny、金曜汉、NCT的志晟，他们将争夺“王子”称号及相关特权。",
-    "extracted_at": "2026-07-27T19:16:18.455350+08:00"
+    "summary_zh": "新综艺《ALL or NOTHING》公开了首播前的剧照。这是一档在埃及拍摄的赢家通吃旅行综艺，为期7天6夜，参赛者将在开罗、卢克索和赫尔格达三座城市争夺“王子”称号及各种特权。参赛阵容包括SUPER JUNIOR的利特和神童、DAWN、NCT的Johnny、金曜汉、NCT的志晟。",
+    "extracted_at": "2026-07-27T22:24:12.709432+08:00"
   },
   {
     "source_id": "soompi",
@@ -353,36 +400,36 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "徐仁国与朴智贤主演tvN新剧《明天见》，该剧改编自同名热门网漫",
+      "tvN新剧《明天见》改编自同名热门网漫，由徐仁国和朴智贤主演",
       "朴智贤饰演陷入职业瓶颈的上班族车智允",
-      "剧情围绕两人在困难时期相互扶持展开"
+      "剧情聚焦两人在困难时期相互扶持"
     ],
-    "summary_zh": "tvN新剧《明天见》改编自同名热门网漫，由徐仁国与朴智贤主演。朴智贤饰演陷入职业瓶颈的上班族车智允，剧情讲述两人在困难时期相互扶持的浪漫故事。",
-    "extracted_at": "2026-07-27T19:16:21.027101+08:00"
+    "summary_zh": "tvN新剧《明天见》改编自同名热门网漫，由徐仁国和朴智贤主演。朴智贤饰演陷入职业瓶颈的上班族车智允，剧情展现两人在困难时期相互扶持的浪漫故事。",
+    "extracted_at": "2026-07-27T22:24:14.979190+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "SM Entertainment and SAMG team up for K-Pop-themed animation series - Korea JoongAng Daily",
+    "title": "SM Entertainment and SAMG team up for K-pop-themed animation series - Korea JoongAng Daily",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNXzNXXzRDek1ad1BXQm5uSlNLa1hQaGpid3E2c1J5NXhFZE1MWDBweFlxcmJrRFBCY0xPRzg5cXJLaC1ELUhhazNzQzRKYjAxWEhjRi05cllRd3FaR3lJUDYzTmt6Sm81SWZXTEFhY0wwZ09lOHcxaGk3RjdiM3o3UmN3aE5HVFAxNXdwMDd1b0NaclQ0WEJQYkFtLWttY3NrTmZBY28xSHJZdVVsWHJYUFBrTF9kdUNYMFRoSlNJTXg?oc=5",
-    "content": "SM Entertainment and SAMG team up for K-Pop-themed animation series Korea JoongAng Daily",
+    "content": "SM Entertainment and SAMG team up for K-pop-themed animation series Korea JoongAng Daily",
     "published_at": "0727google-kpop",
     "published_ts": 1785135910.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "SM娱乐与SAMG合作推出K-Pop主题动画系列",
+    "title_zh": "SM娱乐与SAMG合作推出K-pop主题动画系列",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "SM娱乐与动画制作公司SAMG宣布合作，共同制作K-Pop主题动画系列",
-      "该合作由韩国《中央日报》旗下Korea JoongAng Daily报道"
+      "SM娱乐与动画制作公司SAMG宣布合作，共同制作K-pop主题动画系列",
+      "该合作由韩国《中央日报》报道"
     ],
-    "summary_zh": "据Korea JoongAng Daily报道，SM娱乐与动画制作公司SAMG达成合作，将共同推出以K-Pop为主题的动画系列。具体动画名称、播出时间及平台等细节尚未公布。",
-    "extracted_at": "2026-07-27T19:16:23.326007+08:00"
+    "summary_zh": "SM娱乐与动画制作公司SAMG宣布合作，将共同制作一部以K-pop为主题的动画系列。该消息由韩国《中央日报》报道，具体动画名称、播出时间等细节尚未公布。",
+    "extracted_at": "2026-07-27T22:24:16.922930+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -402,21 +449,21 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "四大K-pop公司（SM、YG、JYP、HYBE）联合推出名为'Global Phenomenon Festival'的音乐节",
-      "该音乐节旨在全球范围内推广K-pop文化"
+      "四大K-pop公司（SM、YG、JYP、HYBE）联合举办名为Global Phenomenon Festival的音乐节",
+      "该音乐节由조선일보报道"
     ],
-    "summary_zh": "据《朝鲜日报》报道，SM、YG、JYP、HYBE四大K-pop公司联合举办名为'Global Phenomenon Festival'的音乐节，旨在全球范围内推广K-pop文化。",
-    "extracted_at": "2026-07-27T19:16:25.348901+08:00"
+    "summary_zh": "据조선일보报道，四大K-pop公司SM、YG、JYP和HYBE联合推出名为Global Phenomenon Festival的音乐节，旨在打造全球现象级演出活动。",
+    "extracted_at": "2026-07-27T22:24:18.821225+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "Investors including Chan Ho Park, K-pop star Suga buy stake in A’s - Field Level Media",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYjNaUFNrSzJsRDV2NFozTFJOZkpUX1JxZ1ZERk1vRTN0czJTYnk3OU1vVkYxNzA1enhQbEtnNEtlNnJmZUY3bTZhY0RfSENfUDh2ZzhNQWZfUnItM3dFMVZqTlc3LUxiVzFoVXNRV2NEbDh3RXFfRS11UGZWQ0xVQWktVFpaQV9valV5cWNPbnlhNjgzMVFiOWswaC1vZw?oc=5",
-    "content": "Investors including Chan Ho Park, K-pop star Suga buy stake in A’s Field Level Media",
+    "title": "Investors including Chan Ho Park, K-pop star Suga buy stake in A's - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNk11NGd4Q1pwVGlRazRCUF9Cejk0ekJpd1ZOd0poekNLcjBSaUhRQ1RBQzR6emhUOXFBNExHZkEzS3JkQmY1cnpra2FudzJyLUtXcUtIZWlrZzNnSHhwcVhjOEo2SENtNjY0YVdENEdvMGM2WTFRWWxoMUlpcXhNd0lDMTFQUmdXM1ctWU5SNEhNYzViNkxxbG9YVm40SzktQXoxT0NrV1JWcXVNMUE?oc=5",
+    "content": "Investors including Chan Ho Park, K-pop star Suga buy stake in A's Reuters",
     "published_at": "0727google-kpop",
-    "published_ts": 1785135851.0,
+    "published_ts": 1785135480.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
@@ -427,10 +474,11 @@
     "is_blurred": false,
     "facts_list": [
       "投资者包括前MLB投手朴赞浩和K-pop明星Suga（防弹少年团成员）",
-      "他们收购了奥克兰运动家队（A's）的股份"
+      "他们收购了某运动队（A's）的股份",
+      "信息来源为路透社报道"
     ],
-    "summary_zh": "据Field Level Media报道，包括前MLB投手朴赞浩和K-pop明星Suga（防弹少年团成员）在内的投资者，收购了美国职棒大联盟奥克兰运动家队（A's）的股份。具体投资金额和持股比例未披露。",
-    "extracted_at": "2026-07-27T19:16:27.749960+08:00"
+    "summary_zh": "据路透社报道，包括前MLB投手朴赞浩和K-pop明星Suga（防弹少年团成员）在内的投资者收购了运动队A's的股份。具体交易细节未在原文中披露。",
+    "extracted_at": "2026-07-27T22:24:21.086713+08:00"
   },
   {
     "source_id": "soompi",
@@ -450,12 +498,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "7月27日，艺声公布2026年10周年巡演“ABOUT THE THINGS WE CALLED ORDINARY”的日期和场馆",
+      "7月27日，艺声公布2026年10周年巡演“ABOUT THE THINGS WE CALLED ORDINARY”日期和场馆",
       "巡演首站于10月17日至18日在首尔KBS Arena举行",
-      "后续将访问吉隆坡、澳门、高雄、新加坡等地"
+      "后续将到访吉隆坡、澳门、高雄、新加坡等地"
     ],
     "summary_zh": "Super Junior成员艺声于7月27日宣布其2026年10周年巡演“ABOUT THE THINGS WE CALLED ORDINARY”的日程。巡演将于10月17日至18日在首尔KBS Arena启动，随后前往吉隆坡、澳门、高雄、新加坡等城市。",
-    "extracted_at": "2026-07-27T19:16:30.081537+08:00"
+    "extracted_at": "2026-07-27T22:24:23.456483+08:00"
   },
   {
     "source_id": "soompi",
@@ -475,12 +523,10 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "《金科长重启》由苏志燮主演，饰演一名前朝鲜特工，因女儿被绑架而被迫复出。",
-      "该剧包含激烈动作戏和令人满足的打斗场面。",
-      "文章推荐了5部类似风格的韩剧，但未列出具体剧名。"
+      "《金科长重启》由苏志燮主演，饰演一名前朝鲜特工，因女儿被绑架而被迫复出。"
     ],
-    "summary_zh": "如果你喜欢《金科长重启》中恶人终得报应的爽感，那么这5部韩剧值得一看。《金科长重启》由苏志燮主演，讲述前朝鲜特工因女儿被绑架而被迫复出的故事，充满激烈动作和打斗场面。文章推荐了5部类似风格的韩剧，但未列出具体剧名。",
-    "extracted_at": "2026-07-27T19:16:33.056813+08:00"
+    "summary_zh": "本文推荐了5部与《金科长重启》风格相似的韩剧，该剧由苏志燮主演，讲述前朝鲜特工因女儿被绑架而被迫复出的故事，包含激烈动作和满足感的打斗场面。",
+    "extracted_at": "2026-07-27T22:24:25.726135+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -503,8 +549,8 @@
       "宋江与李濬荣将主演一部成长题材系列剧",
       "剧名为《Four Hands, Two Sonatas》（暂译《四手联弹》）"
     ],
-    "summary_zh": "据外媒报道，被称为“Netflix儿子”的韩国演员宋江与李濬荣将共同主演一部成长题材系列剧《Four Hands, Two Sonatas》（暂译《四手联弹》）。具体播出平台及时间尚未公布。",
-    "extracted_at": "2026-07-27T19:16:35.431783+08:00"
+    "summary_zh": "据外媒报道，被称为“Netflix之子”的韩国演员宋江与李濬荣将共同主演一部成长题材系列剧《Four Hands, Two Sonatas》（暂译《四手联弹》）。具体播出平台及时间尚未公布。",
+    "extracted_at": "2026-07-27T22:24:27.800955+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -519,16 +565,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "ENHYPEN在圣地亚哥国际漫画展探索K-pop叙事新方式",
+    "title_zh": "ENHYPEN在圣地亚哥国际动漫展上探索K-pop叙事新方式",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "ENHYPEN参加圣地亚哥国际漫画展（San Diego Comic-Con）",
-      "活动主题为测试K-pop叙事方式"
+      "ENHYPEN参加了圣地亚哥国际动漫展（San Diego Comic-Con）",
+      "活动主题为探索K-pop叙事方式"
     ],
-    "summary_zh": "据《韩国时报》报道，ENHYPEN在圣地亚哥国际漫画展上参与了K-pop叙事方式的探索活动。具体活动细节未在原文中详细说明。",
-    "extracted_at": "2026-07-27T19:16:37.338294+08:00"
+    "summary_zh": "据《韩国时报》报道，ENHYPEN在圣地亚哥国际动漫展上参与了关于K-pop叙事方式的讨论活动，展示了组合在音乐和故事讲述方面的创新尝试。",
+    "extracted_at": "2026-07-27T22:24:29.777772+08:00"
   },
   {
     "source_id": "soompi",
@@ -548,11 +594,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "7月27日，WAKEONE发布官方声明，称ALPHA DRIVE ONE成员Sanghyeon近日出现喉咙突发不适",
+      "7月27日，WAKEONE发布官方声明，称ALPHA DRIVE ONE成员Sanghyeon近期出现喉咙突发不适",
       "医生建议Sanghyeon避免过度用嗓"
     ],
-    "summary_zh": "7月27日，WAKEONE发布官方声明，称ALPHA DRIVE ONE成员Sanghyeon近日出现喉咙突发不适，医生建议其避免过度用嗓。",
-    "extracted_at": "2026-07-27T19:16:39.515590+08:00"
+    "summary_zh": "7月27日，WAKEONE发布官方声明，称ALPHA DRIVE ONE成员Sanghyeon近期出现喉咙突发不适，医生建议其避免过度用嗓。声明全文未完全公开，但核心信息已确认。",
+    "extracted_at": "2026-07-27T22:24:31.891218+08:00"
   },
   {
     "source_id": "soompi",
@@ -567,17 +613,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "苏志燮、崔大勋、尹敬浩为《金代理重启》拍摄画报并谈合作默契",
+    "title_zh": "苏志燮、崔大勋、尹敬浩为《金代理复活》拍摄画报并谈合作默契",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "苏志燮、崔大勋、尹敬浩为《allure Korea》拍摄画报",
-      "三人随后接受采访，讨论电视剧《金代理重启》",
-      "苏志燮表示在拍摄《Mercy for None》后觉得动作戏很有趣"
+      "苏志燮、崔大勋、尹敬浩为《金代理复活》与 allure Korea 合作拍摄画报",
+      "画报后三人接受采访，苏志燮表示在《Mercy for None》之后觉得动作戏很有趣"
     ],
-    "summary_zh": "苏志燮、崔大勋、尹敬浩为《allure Korea》拍摄画报，随后三人接受采访，分享了对电视剧《金代理重启》的化学反应和表演感想。苏志燮提到，在拍摄《Mercy for None》后，他发现了动作戏的乐趣。",
-    "extracted_at": "2026-07-27T19:16:42.216508+08:00"
+    "summary_zh": "《金代理复活》主演苏志燮、崔大勋、尹敬浩为 allure Korea 拍摄画报并接受采访。苏志燮在采访中分享了对动作戏的看法，三人还讨论了剧中的合作默契和表演心得。",
+    "extracted_at": "2026-07-27T22:24:34.245504+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -600,8 +645,8 @@
       "韩国计划于2027年举办一场科切拉风格的K文化节",
       "该消息由《韩国先驱报》报道"
     ],
-    "summary_zh": "据《韩国先驱报》报道，韩国计划于2027年举办一场类似科切拉音乐节的K文化节，旨在推广韩国流行文化。具体细节尚未公布。",
-    "extracted_at": "2026-07-27T19:16:43.933150+08:00"
+    "summary_zh": "据《韩国先驱报》报道，韩国计划于2027年举办一场类似科切拉音乐节的K文化节，旨在推广韩国流行文化。",
+    "extracted_at": "2026-07-27T22:24:35.826555+08:00"
   },
   {
     "source_id": "soompi",
@@ -621,11 +666,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "新剧《我的偏见，我的老板》改编自网络漫画，讲述金惠奫饰演的南多林为见偶像李灿（车玟优饰）而入职，与姜勋饰演的公司CEO之间的浪漫故事。",
-      "公开的剧照中，姜勋在办公室内以西装革履的严肃CEO形象示人，而在办公室外则展现出截然不同的轻松休闲面貌。"
+      "姜勋在改编自网漫的韩剧《我的偏见，我的老板》中饰演公司CEO姜河一角",
+      "新剧照展示了姜勋在办公室内外截然不同的氛围",
+      "该剧讲述金惠峻饰演的南多琳为见偶像李灿（车宇敏饰）而入职，与CEO姜河之间的浪漫故事"
     ],
-    "summary_zh": "韩剧《我的偏见，我的老板》公开姜勋新剧照，展现其饰演的CEO角色在办公室内外的反差魅力。该剧改编自网络漫画，讲述金惠奫饰演的南多林为见偶像李灿（车玟优饰）而入职，与姜勋饰演的公司CEO之间的浪漫故事。",
-    "extracted_at": "2026-07-27T19:16:47.047487+08:00"
+    "summary_zh": "韩剧《我的偏见，我的老板》公开姜勋新剧照，展现其饰演的CEO姜河在办公室内外截然不同的魅力。该剧改编自网漫，讲述南多琳（金惠峻饰）为见偶像李灿（车宇敏饰）入职后，与CEO姜河之间的浪漫故事。",
+    "extracted_at": "2026-07-27T22:24:38.694467+08:00"
   },
   {
     "source_id": "soompi",
@@ -645,12 +691,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "ENA剧集《梦到你》发布新剧照",
-      "剧照显示黄寅烨饰演的导演禹秀彬与惠利饰演的记者朱伊在隔墙相望",
-      "该剧讲述天才导演禹秀彬实现梦想后与忘记梦想的记者朱伊重逢的浪漫喜剧"
+      "ENA剧集《梦到你》发布新剧照，显示黄寅烨饰演的导演禹秀彬与惠利饰演的记者朱伊在隔墙相望",
+      "剧情讲述天才导演禹秀彬实现梦想后回归，与忘记梦想的记者朱伊重逢的浪漫喜剧"
     ],
-    "summary_zh": "ENA剧集《梦到你》公开新剧照，黄寅烨饰演的导演禹秀彬与惠利饰演的记者朱伊隔墙相望，展现两人之间心意相通。该剧是一部浪漫喜剧，讲述实现梦想后归来的天才导演与忘记梦想的记者重逢的故事。",
-    "extracted_at": "2026-07-27T19:16:49.718415+08:00"
+    "summary_zh": "ENA剧集《梦到你》公开新剧照，黄寅烨饰演的导演禹秀彬与惠利饰演的记者朱伊隔墙相望，展现两人之间心意相通。该剧讲述天才导演实现梦想后回归，与忘记梦想的记者重逢的浪漫喜剧故事。",
+    "extracted_at": "2026-07-27T22:24:41.137228+08:00"
   },
   {
     "source_id": "soompi",
@@ -670,13 +715,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "改编自同名网络小说，是一部奇幻浪漫剧",
-      "申敏儿饰演东方帝国的完美皇后纳维尔",
-      "朱智勋饰演皇帝索维舒",
-      "首张海报公开，展现申敏儿寻求再婚的剧情"
+      "电视剧《再婚皇后》公开首张海报，主演申敏儿亮相",
+      "该剧改编自同名网络小说，是一部奇幻浪漫剧",
+      "申敏儿饰演东方帝国的完美皇后Navier，朱智勋饰演皇帝Sovieshu"
     ],
-    "summary_zh": "改编自同名网络小说的奇幻浪漫剧《再婚皇后》公开首张海报。申敏儿饰演东方帝国的完美皇后纳维尔，朱智勋饰演皇帝索维舒。海报展现了纳维尔寻求再婚的剧情，引发期待。",
-    "extracted_at": "2026-07-27T19:16:52.315839+08:00"
+    "summary_zh": "改编自同名网络小说的奇幻浪漫剧《再婚皇后》公开首张海报，主演申敏儿亮相。该剧讲述东方帝国完美皇后Navier（申敏儿饰）的故事，她的丈夫皇帝Sovieshu（朱智勋饰）是帝国统治者。",
+    "extracted_at": "2026-07-27T22:24:43.575276+08:00"
   },
   {
     "source_id": "soompi",
@@ -697,11 +741,11 @@
     "is_blurred": false,
     "facts_list": [
       "7月27日，南宫珉所属社NKM Film宣布夫妇迎来儿子",
-      "所属社表示除出生外属私人事务，不便透露更多细节",
+      "所属社表示除出生外，因是私事不便透露更多细节",
       "夫妇上月曾宣布怀孕消息"
     ],
-    "summary_zh": "7月27日，南宫珉所属社NKM Film宣布南宫珉与陈雅凛迎来第一个孩子，是一名儿子。所属社表示，除出生本身外，其余细节因属私人事务不便透露。两人上月曾宣布怀孕消息。",
-    "extracted_at": "2026-07-27T19:16:54.913827+08:00"
+    "summary_zh": "南宫珉与陈雅凛于7月27日迎来他们的第一个孩子，是一个儿子。南宫珉的经纪公司NKM Film宣布了这一消息，但表示由于是私事，除出生外不便透露更多细节。此前，夫妇俩在上个月宣布了怀孕的消息。",
+    "extracted_at": "2026-07-27T22:24:46.147944+08:00"
   },
   {
     "source_id": "soompi",
@@ -716,15 +760,15 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "SEVENTEEN DK和Vernon将于8月和9月入伍",
+    "title_zh": "SEVENTEEN DK和Vernon宣布入伍日期",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "7月27日，PLEDIS娱乐在Weverse发布官方声明，宣布SEVENTEEN成员DK和Vernon将分别于9月和8月入伍服役。"
     ],
-    "summary_zh": "7月27日，PLEDIS娱乐通过Weverse发布官方声明，宣布SEVENTEEN成员DK和Vernon将分别于9月和8月入伍服役。",
-    "extracted_at": "2026-07-27T19:16:56.620854+08:00"
+    "summary_zh": "SEVENTEEN成员DK和Vernon将于8月和9月分别入伍服役。PLEDIS娱乐于7月27日在Weverse发布官方声明确认此消息。",
+    "extracted_at": "2026-07-27T22:24:47.793819+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -747,31 +791,7 @@
       "Lisa成为首位在拉斯维加斯举办驻场演出的K-Pop艺人"
     ],
     "summary_zh": "Lisa创造了历史，成为首位在拉斯维加斯举办驻场演出的K-Pop艺人。",
-    "extracted_at": "2026-07-27T19:16:58.341974+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "MANIFESTING ‘AGENT KIM REACTIVATED’ SEASON 2! 😎 South Korean rookie actress Seo Su-min shared behind-the-scenes photos from \"Agent Kim Reactivated\" following the finale of the revenge-action K-drama on Saturday. \"Thank you so much for watc - facebook.com",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMXdOckV5NHlQLVhId3p6SGZhSThGblQwdXBpVG5FQ0tuQVBqdEV0d2I1RUg1YmxHWndnbVhxVTFJVWNfQzJxX2Z4WURUWFo0M0I3TXZSZGxDWGhFcWhSSDhteUFmSUl0am1sN09QUk9OTWRvcXV1dUwwM1Fqa2dDS2Z5VnJpbHQwRGxyR3Y3WGw0dzl6b2FJNDRGQW5PbFFIQlc3WS1sY1RwaGJqTUdJdmEwdjlPNXhaY1QydTZ3c3V0RklTeDYzT2dJcDBvWmZZSVhjQjJKSDJaUjJO?oc=5",
-    "content": "MANIFESTING ‘AGENT KIM REACTIVATED’ SEASON 2! 😎 South Korean rookie actress Seo Su-min shared behind-the-scenes photos from \"Agent Kim Reactivated\" following the finale of the revenge-action K-drama on Saturday. \"Thank you so much for watc facebook.com",
-    "published_at": "0727google-kpop",
-    "published_ts": 1785112551.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "新人演员徐秀敏晒《特工金重启》幕后照，期待第二季",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "韩国新人演员徐秀敏在复仇动作剧《特工金重启》周六终映后分享了幕后照片",
-      "徐秀敏在社交媒体上表达感谢并暗示期待第二季"
-    ],
-    "summary_zh": "韩国新人演员徐秀敏在复仇动作韩剧《特工金重启》于周六播出大结局后，分享了幕后照片，并在社交媒体上发文感谢观众支持，同时表达了对第二季的期待。",
-    "extracted_at": "2026-07-27T19:17:00.427631+08:00"
+    "extracted_at": "2026-07-27T22:24:49.445467+08:00"
   },
   {
     "source_id": "soompi",
@@ -793,10 +813,34 @@
     "facts_list": [
       "7月26日，tvN《Spooky In Love》第4集全国平均收视率升至5.8%，创自身新高",
       "KBS 2TV《The Husband》也创下自身最高收视率",
-      "《Love On The Menu》同样创下自身最高收视率"
+      "《Love On The Menu》同样达到自身最高收视率"
     ],
     "summary_zh": "7月26日，周末剧收视竞争升温，三部剧集同时创下自身最高收视率：tvN《Spooky In Love》第4集全国平均收视率升至5.8%，KBS 2TV《The Husband》和《Love On The Menu》也各自刷新纪录。",
-    "extracted_at": "2026-07-27T19:17:02.813279+08:00"
+    "extracted_at": "2026-07-27T22:24:51.980246+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Young K turns inward on his most personal solo album yet - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Vc3NMbTFRampnZzY1Z1Ytck50MXpLcUNJYnFEd3ZSNjllOWhyZmF4MWN3Q3FUUDY4Y0xGX2tzVC05SmVFZTZWcHl3QnFYaHIzS1AyRXVhTQ?oc=5",
+    "content": "Young K turns inward on his most personal solo album yet The Korea Herald",
+    "published_at": "0727google-kpop",
+    "published_ts": 1785106800.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Young K发行个人专辑，展现最私密内心世界",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Young K发行个人专辑，被描述为迄今为止最个人化的作品",
+      "专辑主题聚焦于内心世界，由The Korea Herald报道"
+    ],
+    "summary_zh": "据The Korea Herald报道，韩国乐队Day6成员Young K发行了个人专辑，这张专辑被描述为他迄今为止最个人化的作品，内容聚焦于他的内心世界。",
+    "extracted_at": "2026-07-27T22:24:54.161980+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -816,11 +860,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "《东宫》是Netflix新推出的超自然题材韩剧",
-      "影评来自The Cosmic Circus，评价该剧令人毛骨悚然"
+      "Netflix新剧《东宫》被评价为一部超自然题材的韩剧",
+      "影评来自The Cosmic Circus，称该剧令人毛骨悚然"
     ],
-    "summary_zh": "The Cosmic Circus发布了对Netflix新超自然韩剧《东宫》的影评，称该剧令人毛骨悚然。",
-    "extracted_at": "2026-07-27T19:17:04.694936+08:00"
+    "summary_zh": "The Cosmic Circus发布了对Netflix新韩剧《东宫》的影评，称其为一部令人毛骨悚然的超自然题材作品。",
+    "extracted_at": "2026-07-27T22:24:56.213511+08:00"
   },
   {
     "source_id": "soompi",
@@ -840,34 +884,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "BTS在FIFA世界杯中场秀表演后，其专辑《ARIRANG》于7月26日（当地时间）重新进入Billboard 200专辑榜前十名",
+      "BTS在FIFA世界杯中场秀表演后，其专辑《ARIRANG》于7月26日（当地时间）重新进入Billboard 200专辑榜前十",
       "Billboard 200榜单统计美国最受欢迎专辑"
     ],
-    "summary_zh": "BTS在FIFA世界杯中场秀表演后，其最新专辑《ARIRANG》于7月26日（当地时间）重新进入Billboard 200专辑榜前十名。该榜单由Billboard发布，统计美国最受欢迎专辑。",
-    "extracted_at": "2026-07-27T19:17:06.845324+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "You can watch ‘K-Pop Shark Heroes’ for free. Here’s how - NJ.com",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdkt4WVdWQktaV2k5WFIyaEJiSFVfbTNBYjRvRFhocnlLVlJEUnlWS1JIcVI2YmhOdzlzN1laV0xsdVIxZzZ0OGlVcjVjajdUVi1BSlVGTE00cTZnNE5VRE5PM2l3QUtVYWd2bjNxYUdqQWtRWWxGcmI0RXpzS0lKa044bkd3dlhHblNGLThKY9IBowFBVV95cUxQUFZEbk5LSHpvcUQwV0FjRjF5MUwzd0g2QThQaUpuY0xXZWxFYUVfWHQ2cHZTNzBHQlRJQlk4TE9oZ1RSLWtHdjhvNUpZTjJfZ1pDc1NnYWNyQU9JVUZsSHduMng1NEd4cGhwdGE3cjgzMlo1RW1paEl0cm5PNzh4NWVtVkcxUnJCNWYtM2tGWGZDWGNYdEtIU1NZV1lqeUZBZncw?oc=5",
-    "content": "You can watch ‘K-Pop Shark Heroes’ for free. Here’s how NJ.com",
-    "published_at": "0727google-kpop",
-    "published_ts": 1785100020.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "免费观看《K-Pop Shark Heroes》指南",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "原文未提及具体行为，仅称：可免费观看《K-Pop Shark Heroes》"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：可免费观看《K-Pop Shark Heroes》]",
-    "extracted_at": "2026-07-27T19:17:08.351246+08:00"
+    "summary_zh": "BTS在FIFA世界杯中场秀表演后，其最新专辑《ARIRANG》于7月26日（当地时间）重新进入Billboard 200专辑榜前十。该榜单统计美国最受欢迎专辑。",
+    "extracted_at": "2026-07-27T22:24:58.310230+08:00"
   },
   {
     "source_id": "soompi",
@@ -887,12 +908,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "Netflix剧集《东宫》本周在Good Data Corporation的剧集话题度榜单中升至第1位",
-      "南柱赫在演员话题度榜单中排名第1",
+      "Netflix剧集《东宫》在Good Data Corporation本周最具话题剧集榜单中升至第1名",
+      "南柱赫在最具话题演员榜中位列第1",
       "Good Data Corporation通过收集新闻文章、博客帖子、在线社区、视频等数据确定每周排名"
     ],
-    "summary_zh": "Netflix剧集《东宫》本周在Good Data Corporation的剧集话题度榜单中升至第1位，南柱赫在演员话题度榜单中排名第1。该公司通过收集新闻文章、博客帖子、在线社区、视频等数据确定每周排名。",
-    "extracted_at": "2026-07-27T19:17:10.818850+08:00"
+    "summary_zh": "Netflix剧集《东宫》本周在Good Data Corporation最具话题剧集榜中升至第1名，南柱赫同时登顶最具话题演员榜。该排名基于新闻、博客、社区及视频等数据统计得出。",
+    "extracted_at": "2026-07-27T22:25:00.704150+08:00"
   },
   {
     "source_id": "soompi",
@@ -913,10 +934,10 @@
     "is_blurred": false,
     "facts_list": [
       "7月27日凌晨2点（KST），BTS《Butter》MV在YouTube上播放量突破11亿次",
-      "这是BTS继《DNA》《Boy With Luv》《Dynamite》《MIC Drop (Steve Aoki Remix)》《IDOL》后第7支达成11亿播放量的MV"
+      "这是BTS继《DNA》《Boy With Luv》《Dynamite》《MIC Drop (Steve Aoki Remix)》《IDOL》之后第7支达成11亿播放量的MV"
     ],
-    "summary_zh": "BTS热门歌曲《Butter》的官方MV于7月27日凌晨2点（韩国时间）在YouTube上突破11亿次播放，成为组合继《DNA》《Boy With Luv》《Dynamite》《MIC Drop (Steve Aoki Remix)》《IDOL》等之后第7支达成该里程碑的MV。",
-    "extracted_at": "2026-07-27T19:17:13.283595+08:00"
+    "summary_zh": "BTS热门歌曲《Butter》的官方MV于7月27日凌晨2点（韩国时间）在YouTube上突破11亿次播放，成为组合继《DNA》《Boy With Luv》《Dynamite》《MIC Drop (Steve Aoki Remix)》《IDOL》之后第7支达成该里程碑的MV。",
+    "extracted_at": "2026-07-27T22:25:03.294955+08:00"
   },
   {
     "source_id": "soompi",
@@ -936,12 +957,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "TXT成员然竣的个人迷你专辑《NO LABELS: PART 02》在7月25日截止的公告牌世界专辑榜空降第1名，并成为他第二张进入公告牌200强专辑榜的个人作品",
-      "ATEEZ的最新专辑在连续两周夺冠后本周排名下降",
-      "其他上榜艺人包括(G)I-DLE、CORTIS、LE SSERAFIM、BTS、aespa、BOYNEXTDOOR、Stray Kids等"
+      "TXT成员然竣的个人迷你专辑《NO LABELS: PART 02》在7月25日截止的公告牌世界专辑榜空降第1名，并成为他第二张进入公告牌200强专辑榜的个人作品。",
+      "ATEEZ的最新专辑在连续两周夺冠后，本周排名下降。",
+      "其他上榜艺人包括(G)I-DLE、CORTIS、LE SSERAFIM、BTS、aespa、BOYNEXTDOOR、Stray Kids等。"
     ],
-    "summary_zh": "公告牌发布7月25日截止周的世界专辑榜，TXT成员然竣的个人迷你专辑《NO LABELS: PART 02》空降第1名，并成为他第二张进入公告牌200强专辑榜的个人作品。ATEEZ的最新专辑在连续两周夺冠后本周排名下降。此外，(G)I-DLE、CORTIS、LE SSERAFIM、BTS、aespa、BOYNEXTDOOR、Stray Kids等艺人也在榜单上占据高位。",
-    "extracted_at": "2026-07-27T19:17:16.604821+08:00"
+    "summary_zh": "公告牌发布7月25日截止周的世界专辑榜，TXT成员然竣的个人迷你专辑《NO LABELS: PART 02》空降第1名，同时成为他第二张进入公告牌200强专辑榜的个人作品。ATEEZ的最新专辑在连续两周夺冠后本周排名下降。此外，(G)I-DLE、CORTIS、LE SSERAFIM、BTS、aespa、BOYNEXTDOOR、Stray Kids等艺人也在榜单上占据高位。",
+    "extracted_at": "2026-07-27T22:25:06.676026+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -956,16 +977,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Rei Ami与Ken Jeong开启鲨鱼周，免费观看《K-Pop Shark Heroes》",
+    "title_zh": "Rei Ami与Ken Jeong启动鲨鱼周，免费观看《K-Pop Shark Heroes》",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "Rei Ami和Ken Jeong参与鲨鱼周活动",
+      "Rei Ami与Ken Jeong参与鲨鱼周活动",
       "推出节目《K-Pop Shark Heroes》，可免费观看"
     ],
-    "summary_zh": "Rei Ami与Ken Jeong共同开启鲨鱼周，推出免费节目《K-Pop Shark Heroes》。",
-    "extracted_at": "2026-07-27T19:17:18.669452+08:00"
+    "summary_zh": "Rei Ami与Ken Jeong共同启动鲨鱼周活动，推出节目《K-Pop Shark Heroes》，观众可免费观看。",
+    "extracted_at": "2026-07-27T22:25:08.452536+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -980,16 +1001,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "郑肯与REI AMI为2026年《鲨鱼周》注入K-Pop能量",
+    "title_zh": "Ken Jeong与REI AMI为2026年《鲨鱼周》注入K-Pop活力",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "郑肯（Ken Jeong）与REI AMI参与2026年《鲨鱼周》节目",
-      "该节目由UPI.com报道，具体内容未详述"
+      "Ken Jeong与REI AMI参与2026年《鲨鱼周》节目",
+      "该节目由Discovery频道播出，具体日期未提及"
     ],
-    "summary_zh": "据UPI.com报道，演员郑肯（Ken Jeong）与歌手REI AMI将参与2026年《鲨鱼周》节目，为节目带来K-Pop能量。具体参与形式及节目细节尚未披露。",
-    "extracted_at": "2026-07-27T19:17:20.925649+08:00"
+    "summary_zh": "据UPI报道，喜剧演员Ken Jeong与歌手REI AMI将参与2026年《鲨鱼周》节目，为这一海洋主题节目带来K-Pop能量。具体播出时间尚未公布。",
+    "extracted_at": "2026-07-27T22:25:10.645276+08:00"
   },
   {
     "source_id": "asianwiki",
