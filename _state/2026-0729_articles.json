@@ -1,5 +1,197 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-pop’s BTS won’t submit music for Grammy awards next year - Washington Times",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWTkzLTRQc0FheHIzMkRwZ1FpSzk4M3VKclRlMGJ0bzdZTDh0UTdHQUFNdTM1TnYtZi1EXzU1RkRTeTdNUFBQV3pIaG5mTExmRmZjMnBYZTJDVjV2QmxyTEhZYVRnU2ZBcWtBdVJDcHIwaTM1WnVKdGJDTW5ubnZ0RXJVc2RmY0dFeFNSaEFqS0p4WG1jaXg5UzM4cGZKeHUtVzh3bQ?oc=5",
+    "content": "K-pop’s BTS won’t submit music for Grammy awards next year Washington Times",
+    "published_at": "0729google-kpop",
+    "published_ts": 1785333088.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "防弹少年团明年不提交格莱美奖参评作品",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "防弹少年团决定不提交音乐作品参加2025年格莱美奖评选",
+      "该消息由《华盛顿邮报》报道"
+    ],
+    "summary_zh": "据《华盛顿邮报》报道，韩国流行组合防弹少年团（BTS）决定不提交音乐作品参加2025年格莱美奖的评选。目前组合成员正在履行兵役义务，团体活动暂停。",
+    "extracted_at": "2026-07-29T22:00:41.307411+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-pop group BTS say they will not submit their music to the Grammy Awards - NBC News",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb1hDeURjNHg5NkVmdnRfd19EbzNSTkZaLVlXS0NVdGZmcUg0SXJpWmN5SmE1TUpDTzNJQWdQQ1ZHRnpYYnVUS0otVHFPclpVQ0FkcDhBRmRtZU91TUYwZDRuTUJyc3VHQkxmRzB6Rkctb3V4SDdOYVU5SEhyVFo2SFRPU3BxbHNoSEVOYjZ2Q25HN3F1cWhkcnB1RWdyb1hj?oc=5",
+    "content": "K-pop group BTS say they will not submit their music to the Grammy Awards NBC News",
+    "published_at": "0729google-kpop",
+    "published_ts": 1785332010.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "防弹少年团宣布不向格莱美奖提交音乐作品",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "防弹少年团宣布将不向格莱美奖提交音乐作品",
+      "该消息由NBC News报道"
+    ],
+    "summary_zh": "据NBC News报道，韩国流行组合防弹少年团（BTS）宣布将不会向格莱美奖提交他们的音乐作品。",
+    "extracted_at": "2026-07-29T22:00:43.016003+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Korean War: KPop Group BTS Rudely Takes Itself Out of the Grammy Awards, Won't Submit 2026 Album or Music - Showbiz411",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWEVmNEpncUYtbDRaYjdkMDVsZ3NzUFd6VG1DUzIwM1RwYnk3RGF0bHhRdmVDS181d2V1Wkdyb1JFV3FRWGFlQUpZY2x2ZmU1YUkyazJVUmtHTlM1NVk5VlRoZUMyN05pUWxVSE04aElyV3FDdldaMndoa2t6Y3BGZlM3N3pITGlLVEVmanhGQWVuSEdSNDcxRm0wanBqWWdxVlgxcTAxVTVGVzFIWmd2cjlZTnM1UlktTGNzQThYbm50eHlSXzlLQWE2QnE1MHJEUE1Ec2Vwdw?oc=5",
+    "content": "Korean War: KPop Group BTS Rudely Takes Itself Out of the Grammy Awards, Won't Submit 2026 Album or Music Showbiz411",
+    "published_at": "0729google-kpop",
+    "published_ts": 1785328963.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "BTS宣布不提交2026年专辑及音乐参评格莱美奖",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "BTS决定不提交2026年专辑及音乐作品参评格莱美奖",
+      "该决定由BTS方面主动宣布"
+    ],
+    "summary_zh": "据外媒报道，韩国流行组合BTS宣布将不提交2026年的专辑及音乐作品参评格莱美奖，主动退出该奖项的竞争。",
+    "extracted_at": "2026-07-29T22:00:44.955958+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "BTS’s “IDOL” Becomes Their 5th MV To Surpass 1.4 Billion Views",
+    "url": "https://www.soompi.com/article/1858416wpp/btss-idol-becomes-their-5th-mv-to-surpass-1-4-billion-views",
+    "content": "BTS&#160;has hit the 1.4 billion mark with yet another music video! On July 29 at 9:19 p.m. KST, BTS’s music video for “IDOL” surpassed 1.4 billion views on YouTube, making it the group’s fifth music video to do so after “Boy With Luv,” “DNA,” “Dynamite,” and “MIC Drop (Steve Aoki Remix).” BTS originally released the&#8230; Continue reading BTS&#8217;s &#8220;IDOL&#8221; Becomes Their 5th MV To Surpass 1.4 Billion Views\nThe post BTS&#8217;s &#8220;IDOL&#8221; Becomes Their 5th MV To Surpass 1.4 Billion Views appeared first on Soompi.",
+    "published_at": "0729soompi",
+    "published_ts": 1785327693.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "BTS《IDOL》MV YouTube播放量突破14亿，成为组合第五支达成此纪录的MV",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "7月29日晚9点19分（KST），BTS《IDOL》MV在YouTube播放量突破14亿次",
+      "这是BTS继《Boy With Luv》《DNA》《Dynamite》《MIC Drop (Steve Aoki Remix)》后第五支达成此纪录的MV"
+    ],
+    "summary_zh": "BTS的《IDOL》MV于7月29日晚9点19分（韩国时间）在YouTube上突破14亿次播放量，成为组合继《Boy With Luv》《DNA》《Dynamite》《MIC Drop (Steve Aoki Remix)》之后第五支达成此里程碑的MV。",
+    "extracted_at": "2026-07-29T22:00:47.321519+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Breakout K-Drama 'Teach You a Lesson' Enters Netflix's All-Time Top 10 Most Popular Shows List - What's on Netflix",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPenhic1hjMkxCMEtteDdwUXZUQzVMdU9kemQ4eVk1TVlJaHdrXzIzdW5DUm1xSjJSeVJLcFc5YTNmZWZlN0F0M1R1RWgyWGNDM0lSaFAybXFVZHQ5M3NqY1FBbGUyNVRFYVA5dWUteUlZYjdYZDZ3VXZVODVHWGFIWFVRVTB0UmtqdHFGWU9UaVl0RTktZk5wOUtuay01U0lnVm5QeHFIVVdENi1jaVR0d1BfczZwV2pIU19xWlBPQ2kxdmE0Ym9GX1FpeWMwWUFkajBGNURn?oc=5",
+    "content": "Breakout K-Drama 'Teach You a Lesson' Enters Netflix's All-Time Top 10 Most Popular Shows List What's on Netflix",
+    "published_at": "0729google-kpop",
+    "published_ts": 1785325376.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "韩剧《教你一课》进入Netflix历史最受欢迎剧集前十",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "韩剧《教你一课》进入Netflix历史最受欢迎剧集前十榜单",
+      "该榜单由Netflix官方发布，统计基于剧集上线前91天的观看时长"
+    ],
+    "summary_zh": "据What's on Netflix报道，韩剧《教你一课》（暂译）已进入Netflix历史最受欢迎剧集前十榜单。该榜单由Netflix官方发布，统计基于剧集上线前91天的观看时长。",
+    "extracted_at": "2026-07-29T22:00:49.494578+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "fromis_9 Announces 2026 Asia Tour “TOMORROW GLOW.”",
+    "url": "https://www.soompi.com/article/1858411wpp/fromis_9-announces-2026-asia-tour-tomorrow-glow",
+    "content": "fromis_9 is hitting the road with a new Asia tour! On July 29, fromis_9 announced their upcoming Asia tour &#8220;TOMORROW GLOW.,&#8221; which will kick off with a three-night concert in Seoul from September 4 to 6 at Korea University&#8217;s Hwajung Tiger Dome. Check out the tour poster below, and stay tuned for details on additional&#8230; Continue reading fromis_9 Announces 2026 Asia Tour “TOMORROW GLOW.”\nThe post fromis_9 Announces 2026 Asia Tour “TOMORROW GLOW.” appeared first on Soompi.",
+    "published_at": "0729soompi",
+    "published_ts": 1785324735.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "fromis_9 宣布2026年亚洲巡演“TOMORROW GLOW.”",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "2025年7月29日，fromis_9宣布亚洲巡演“TOMORROW GLOW.”",
+      "首站将于9月4日至6日在韩国大学华正虎穹顶举行三晚演唱会"
+    ],
+    "summary_zh": "fromis_9 于7月29日宣布了2026年亚洲巡演“TOMORROW GLOW.”，首站将于9月4日至6日在韩国大学华正虎穹顶举行三晚演唱会。更多详情待公布。",
+    "extracted_at": "2026-07-29T22:00:51.570032+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: fromis_9 Takes 1st Win For “Vitamin ME” On “Show Champion”",
+    "url": "https://www.soompi.com/article/1858407wpp/watch-fromis_9-takes-1st-win-for-vitamin-me-on-show-champion",
+    "content": "fromis_9 has won their first music show trophy for their new title track “Vitamin ME”! The July 29 episode of “Show Champion” was a special episode instead of the usual live broadcast. At the end of the show, it was announced that the candidates for first place were fromis_9&#8217;s “Vitamin ME,” LUN8&#8217;s “SNEAKERS,” Wonho&#8217;s “Don’t&#8230; Continue reading Watch: fromis_9 Takes 1st Win For “Vitamin ME” On &#8220;Show Champion&#8221;\nThe post Watch: fromis_9 Takes 1st Win For “Vitamin ME” On &#8220;Show Champion&#8221; appeared first on Soompi.",
+    "published_at": "0729soompi",
+    "published_ts": 1785323353.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "fromis_9《Vitamin ME》获《Show Champion》初一位",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "7月29日《Show Champion》特辑中，fromis_9凭借《Vitamin ME》获得一位",
+      "一位候补包括fromis_9《Vitamin ME》、LUN8《SNEAKERS》、Wonho《Don't...》"
+    ],
+    "summary_zh": "fromis_9在7月29日播出的《Show Champion》特辑中，凭借新曲《Vitamin ME》获得首个音乐节目一位。该期节目为特辑而非直播，一位候补包括LUN8和Wonho等艺人。",
+    "extracted_at": "2026-07-29T22:00:53.585988+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-pop’s ‘Big Four’ and South Korean government reveal plans for Fanomenon festival in Seoul and Los Angeles - Music Business Worldwide",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMTlHcmdoaGhXZnVlYi1QdVM2Zk9wMU5JVkZxczBtWmVPRmlmMk1la2ZOS2NoalR6SC14OEJiMGpyTm9CanU4YjBWZFlWZHVIMnNXQ0FGUG9SZHBRV0pra1pRZ2lGbHZZQUNJamFNamdCTHJVOVVYandTSEtwX0RIdnc0M3JyYzhtU3ZVMUNwQ1Bubzd4UFdhTEc3TzZodWtyVFpmUG1zdVUyZHRTTGswNnpOZ3c0YUdHMU5UeGYza0hKVE9TUHpHU3JGZjA5c3dTY2VhLTNlV1EyQndB?oc=5",
+    "content": "K-pop’s ‘Big Four’ and South Korean government reveal plans for Fanomenon festival in Seoul and Los Angeles Music Business Worldwide",
+    "published_at": "0729google-kpop",
+    "published_ts": 1785321492.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "K-pop四大社与韩国政府公布首尔及洛杉矶Fanomenon音乐节计划",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "K-pop四大经纪公司（SM、YG、JYP、HYBE）与韩国政府联合公布Fanomenon音乐节计划",
+      "音乐节将在首尔和洛杉矶两地举办"
+    ],
+    "summary_zh": "K-pop四大经纪公司（SM、YG、JYP、HYBE）与韩国政府联合公布Fanomenon音乐节计划，该音乐节将在首尔和洛杉矶两地举办。",
+    "extracted_at": "2026-07-29T22:00:55.518862+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -17,35 +209,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "《Flex x Cop 2》发布新预告，安普贤饰演的财阀三世刑警陈伊秀与重案1组团队将调查任务延伸至海外",
+      "安普贤在《Flex x Cop 2》中继续饰演财阀三世刑警陈义洙",
+      "重案1组将调查范围扩展至海外",
       "预告显示安普贤的海外任务出现危险转折"
     ],
-    "summary_zh": "《Flex x Cop 2》发布新预告，安普贤饰演的财阀三世刑警陈伊秀与重案1组团队将调查任务延伸至海外，预告中显示安普贤的海外任务出现危险转折。",
-    "extracted_at": "2026-07-29T18:34:57.066597+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Spotify overtakes Melon as foreign apps take Korea's top streaming spots - KED Global",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84ajZUbnRSZmhKdkJXOXUzWXZYM09pTVhLZThPdzJOYUtFeEM2em14WkltR3dTNEhjU0piYmJHY3hCMHV1dS1GTXVsT0V0NDJ3ZU5Hd3N0ckpWLUNCYkJDNDJRT1JlNDJkTVpMZzROZ0tCdw?oc=5",
-    "content": "Spotify overtakes Melon as foreign apps take Korea's top streaming spots KED Global",
-    "published_at": "0729google-kpop",
-    "published_ts": 1785318955.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Spotify超越Melon，外国应用占据韩国流媒体榜首",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "Spotify在韩国流媒体市场份额超越Melon，成为第一",
-      "外国应用占据韩国流媒体市场前几名"
-    ],
-    "summary_zh": "据KED Global报道，Spotify在韩国流媒体市场超越本土平台Melon，成为市场份额第一的应用。外国流媒体应用在韩国市场占据领先地位。",
-    "extracted_at": "2026-07-29T18:34:59.070457+08:00"
+    "summary_zh": "《Flex x Cop 2》发布新预告，安普贤饰演的财阀三世刑警陈义洙与重案1组将调查范围扩展至海外，预告中显示其海外任务出现危险转折。",
+    "extracted_at": "2026-07-29T22:00:57.762871+08:00"
   },
   {
     "source_id": "soompi",
@@ -66,10 +235,34 @@
     "is_blurred": false,
     "facts_list": [
       "KBS 2TV《丈夫》发布新剧照",
-      "南宫珉饰演一名濒临离婚的男子，为救妻子与危险罪犯展开殊死搏斗"
+      "该剧为惊悚剧，南宫珉饰演一名濒临离婚的男子，为救妻子与危险罪犯展开殊死搏斗"
     ],
-    "summary_zh": "KBS 2TV新剧《丈夫》公开新剧照，该剧由南宫珉主演，讲述一名濒临离婚的男子为救妻子与危险罪犯展开殊死搏斗的惊悚故事。",
-    "extracted_at": "2026-07-29T18:35:01.442536+08:00"
+    "summary_zh": "KBS 2TV惊悚剧《丈夫》公开新剧照。该剧由南宫珉主演，讲述一名濒临离婚的男子为救妻子与危险罪犯展开殊死搏斗的故事。",
+    "extracted_at": "2026-07-29T22:00:59.486086+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "BTS withdraw from Grammys, a month after Asian pop prize introduced - BBC",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ERHpxNGxSYzFVVWFUeWdkSlpqQWtHV2g0Wk90a1R6TXczSk5nSWVxZEJfZUQ3N0ZRM2F5c0trd2JGNi1Odk9uMmtWTUYxdk1IS2JLSWdabEYwdw?oc=5",
+    "content": "BTS withdraw from Grammys, a month after Asian pop prize introduced BBC",
+    "published_at": "0729google-kpop",
+    "published_ts": 1785312975.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "防弹少年团退出格莱美，距亚洲流行奖设立仅一个月",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "防弹少年团宣布退出格莱美奖",
+      "格莱美奖在一个月前新设立了亚洲流行奖"
+    ],
+    "summary_zh": "据BBC报道，防弹少年团宣布退出格莱美奖，而格莱美奖在一个月前刚刚设立了亚洲流行奖。",
+    "extracted_at": "2026-07-29T22:01:01.315245+08:00"
   },
   {
     "source_id": "soompi",
@@ -84,17 +277,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "李姃垠、孔晓振、朴素丹、李妍联手复仇，《庆州之旅》公开新海报预告",
+    "title_zh": "李姃垠、孔晓振、朴素丹、李妍携手复仇，《庆州之旅》公开海报预告",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "电影《庆州之旅》公开新海报和预告片",
-      "该片讲述母亲和三个女儿在等待8年后，为从未从学校旅行归来的小女儿庆州展开“杀手”复仇之旅的故事",
-      "主演包括李姃垠、孔晓振、朴素丹、李妍"
+      "影片讲述母亲和三个女儿为8年前在学校郊游中未归的小女儿庆州展开复仇之旅的故事",
+      "主演阵容包括李姃垠、孔晓振、朴素丹、李妍"
     ],
-    "summary_zh": "电影《庆州之旅》公开新海报和预告片，该片是一部家庭复仇题材作品，讲述母亲和三个女儿在等待8年后，为从未从学校旅行归来的小女儿庆州展开“杀手”复仇之旅的故事。主演阵容包括李姃垠、孔晓振、朴素丹、李妍。",
-    "extracted_at": "2026-07-29T18:35:04.404504+08:00"
+    "summary_zh": "电影《庆州之旅》公开新海报和预告片，该片是一部家庭复仇题材作品，讲述母亲和三个女儿在等待8年后，为从未从学校郊游归来的小女儿庆州展开一场“杀手”之旅。主演包括李姃垠、孔晓振、朴素丹、李妍。",
+    "extracted_at": "2026-07-29T22:01:04.089075+08:00"
   },
   {
     "source_id": "soompi",
@@ -114,12 +307,12 @@
     "risk_level": "中",
     "is_blurred": false,
     "facts_list": [
-      "7月29日，关于黄政民私生活的传闻在线上社区和社交媒体开始传播",
+      "7月29日，关于黄政民私生活的传闻在线上社区和社交媒体传播",
       "爆料人A声称社交媒体截图显示通话记录等证据",
-      "黄政民所属社发布官方声明，表示将针对私生活传闻采取法律行动"
+      "黄政民所属社发布官方声明，表示将采取法律行动"
     ],
-    "summary_zh": "演员黄政民的所属社就私生活传闻发布官方声明。7月29日，关于黄政民私生活的传闻在线上社区和社交媒体开始传播，爆料人A声称社交媒体截图显示通话记录等证据。所属社在声明中表示将采取法律行动应对这些指控。",
-    "extracted_at": "2026-07-29T18:35:07.068358+08:00"
+    "summary_zh": "演员黄政民的所属社就私生活传闻发布官方声明。7月29日，关于黄政民私生活的传闻在线上社区和社交媒体传播，爆料人A声称社交媒体截图显示通话记录等证据。所属社在声明中表示将采取法律行动应对。",
+    "extracted_at": "2026-07-29T22:01:06.056397+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -142,8 +335,8 @@
       "防弹少年团因格莱美奖设立亚洲流行类别而决定抵制该奖项",
       "该消息由韩国媒体《朝鲜日报》报道"
     ],
-    "summary_zh": "据《朝鲜日报》报道，防弹少年团因格莱美奖设立亚洲流行类别而决定抵制该奖项。具体抵制原因和后续影响尚未披露。",
-    "extracted_at": "2026-07-29T18:35:09.192226+08:00"
+    "summary_zh": "据《朝鲜日报》报道，防弹少年团因格莱美奖设立亚洲流行类别而决定抵制该奖项。具体抵制原因和后续影响尚未详细说明。",
+    "extracted_at": "2026-07-29T22:01:07.832244+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -158,15 +351,15 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "AHOF在《K-Pop Up Chart Show》中包揽四冠王",
+    "title_zh": "AHOF在《K-Pop Up Chart Show》中夺得四冠王",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "AHOF在《K-Pop Up Chart Show》中获得四冠王"
     ],
-    "summary_zh": "据《朝鲜日报》报道，AHOF在《K-Pop Up Chart Show》中凭借出色表现包揽四项冠军，实现四冠王成就。",
-    "extracted_at": "2026-07-29T18:35:10.949768+08:00"
+    "summary_zh": "据《朝鲜日报》报道，AHOF在《K-Pop Up Chart Show》中凭借出色表现夺得四冠王，具体奖项包括多个榜单第一名。",
+    "extracted_at": "2026-07-29T22:01:09.703699+08:00"
   },
   {
     "source_id": "soompi",
@@ -181,17 +374,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "金惠奫在《杀手商店2》中得知刘贤秀的真实身份",
+    "title_zh": "金惠奫在《杀手商店2》中发现柳贤秀真实身份",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "《杀手商店2》改编自《杀手购物清单》作者姜智英的小说",
-      "剧情围绕郑智安（金惠奫饰）与叔叔郑镇万（李栋旭饰）同住展开",
-      "金惠奫饰演的角色在第二季中发现了刘贤秀的真实身份"
+      "剧情围绕郑智安（金惠奫饰）与叔叔郑镇万（李栋旭饰）同住后展开",
+      "金惠奫饰演的角色发现柳贤秀的真实身份"
     ],
-    "summary_zh": "《杀手商店2》剧情更新：金惠奫饰演的郑智安得知了刘贤秀的真实身份。该剧改编自姜智英的小说，是一部动作剧，讲述郑智安与叔叔郑镇万（李栋旭饰）同住后发生的故事。",
-    "extracted_at": "2026-07-29T18:35:13.632578+08:00"
+    "summary_zh": "《杀手商店2》剧情推进：金惠奫饰演的郑智安发现了柳贤秀的真实身份。该剧改编自《杀手购物清单》作者姜智英的小说，是一部动作剧，讲述郑智安与叔叔郑镇万（李栋旭饰）同住后发生的故事。",
+    "extracted_at": "2026-07-29T22:01:11.860110+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -215,7 +408,7 @@
       "该套装还原了一个蓝色毛茸茸的K-pop恶魔猎人伙伴形象"
     ],
     "summary_zh": "Sam's Club正在销售一款825块乐高套装，该套装还原了一个蓝色毛茸茸的K-pop恶魔猎人伙伴形象。",
-    "extracted_at": "2026-07-29T18:35:15.665048+08:00"
+    "extracted_at": "2026-07-29T22:01:13.537195+08:00"
   },
   {
     "source_id": "soompi",
@@ -237,32 +430,8 @@
     "facts_list": [
       "7月29日，BTS七名成员（RM、Jin、Suga、j-hope、Jimin、V、Jungkook）同时在各自社交媒体发布相同内容，宣布不提交音乐作品参与第69届格莱美奖评选。"
     ],
-    "summary_zh": "BTS于7月29日通过七名成员在社交媒体同步发文，宣布决定不提交任何音乐作品参与第69届格莱美奖评选。",
-    "extracted_at": "2026-07-29T18:35:17.780209+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "(LEAD) BTS says it will not submit music for next year's Grammys - Yonhap News Agency",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBtUjdBYTQ1bG1NVHBIX1dHVnB6dzFzV0JLWkhza2tFeExHdE1ibF9OdzEtcXZ6bHJQTHNaeVo0bklDTlhHZ0VoOUt2Y2xaYmFBLXNCR1c0R3FWV1ZhYWU2UDhiTUh0SElpWjJLZldMS2VBdUMweGFB?oc=5",
-    "content": "(LEAD) BTS says it will not submit music for next year's Grammys Yonhap News Agency",
-    "published_at": "0729google-kpop",
-    "published_ts": 1785306456.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "BTS宣布不提交明年格莱美奖参评作品",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "BTS通过官方渠道宣布，将不提交任何音乐作品参加下一届格莱美奖评选",
-      "该决定由BTS成员及所属社共同作出，具体原因未详细说明"
-    ],
-    "summary_zh": "据韩联社报道，防弹少年团（BTS）宣布将不提交任何音乐作品参加下一届格莱美奖评选。该决定由成员及所属社共同作出，但未详细说明具体原因。",
-    "extracted_at": "2026-07-29T18:35:20.247203+08:00"
+    "summary_zh": "BTS于7月29日通过全体成员社交媒体同步宣布，决定不提交任何音乐作品参与第69届格莱美奖评选。",
+    "extracted_at": "2026-07-29T22:01:15.394706+08:00"
   },
   {
     "source_id": "soompi",
@@ -282,11 +451,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "ILLIT由五名成员组成，包括外向的队长Yunah和勤奋敏感的忙内Iroha",
-      "该测试旨在帮助粉丝找出与自身性格最相似的ILLIT成员"
+      "ILLIT由五位成员组成，包括外向的队长Yunah和勤奋敏感的忙内Iroha",
+      "该测试旨在帮助粉丝找出与自己最相似的ILLIT成员"
     ],
-    "summary_zh": "ILLIT的五名成员各有独特魅力，使这个组合迅速成为K-pop粉丝的最爱。从外向的队长Yunah到勤奋敏感的忙内Iroha，每位成员都贡献了自己的特色。本文提供了一个趣味测试，帮助粉丝找出与哪位ILLIT成员最相似。",
-    "extracted_at": "2026-07-29T18:35:22.893920+08:00"
+    "summary_zh": "ILLIT的五位成员各具独特魅力，从外向的队长Yunah到勤奋敏感的忙内Iroha，每位成员都为这个迅速成为K-pop粉丝喜爱的女团增添了个人色彩。通过这个测试，你可以找出自己与哪位成员最相似。",
+    "extracted_at": "2026-07-29T22:01:17.527208+08:00"
   },
   {
     "source_id": "soompi",
@@ -309,8 +478,8 @@
       "7月29日，SUBLIME宣布与Nana续约",
       "SUBLIME表示很高兴延续基于多年深厚信任的宝贵关系，并将继续提供全面支持"
     ],
-    "summary_zh": "7月29日，SUBLIME宣布与Nana续约，称基于多年深厚信任，将继续作为可靠伙伴提供全面支持。",
-    "extracted_at": "2026-07-29T18:35:24.928862+08:00"
+    "summary_zh": "7月29日，SUBLIME宣布与Nana续约，称很高兴延续基于多年深厚信任的宝贵关系，并将继续作为可靠伙伴提供全面支持。",
+    "extracted_at": "2026-07-29T22:01:19.236764+08:00"
   },
   {
     "source_id": "soompi",
@@ -331,11 +500,11 @@
     "is_blurred": false,
     "facts_list": [
       "7月29日，韩媒报道《单身即地狱3》出演者李官熙与刘恃?正在恋爱中",
-      "两人自去年12月开始交往，并持续发展关系",
+      "两人于去年12月开始交往，并持续发展关系",
       "报道称两人在节目结束后保持联系"
     ],
-    "summary_zh": "7月29日，韩媒报道《单身即地狱3》出演者李官熙与刘恃?正在恋爱中。据称，两人自去年12月开始交往，并在节目结束后保持联系，逐渐发展为恋人关系。",
-    "extracted_at": "2026-07-29T18:35:27.663624+08:00"
+    "summary_zh": "7月29日，韩媒报道《单身即地狱3》出演者李官熙与刘恃?正在恋爱中。据悉，两人于去年12月开始交往，并在节目结束后保持联系，逐渐发展为恋人关系。",
+    "extracted_at": "2026-07-29T22:01:21.556981+08:00"
   },
   {
     "source_id": "soompi",
@@ -350,17 +519,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "李光洙加盟古装动作片《南伐》，与李秉宪、高允贞、李到晛、WOODZ、朴海俊合作",
+    "title_zh": "李光洙确认加盟古装动作片《南伐》，与李秉宪、高允贞、李到晛、WOODZ、朴海俊合作",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "7月29日，韩媒报道李光洙将出演电影《南伐》",
-      "李光洙所属社King Kong by STARSHIP确认消息属实",
+      "李光洙所属社King Kong by STARSHIP回应确认其出演",
       "该片为古装动作片，主演阵容包括李秉宪、高允贞、李到晛、WOODZ、朴海俊"
     ],
-    "summary_zh": "李光洙确认加盟古装动作电影《南伐》，与李秉宪、高允贞、李到晛、WOODZ、朴海俊等合作。其所属社King Kong by STARSHIP于7月29日回应媒体报道，证实出演消息。",
-    "extracted_at": "2026-07-29T18:35:30.566005+08:00"
+    "summary_zh": "李光洙确认加盟古装动作片《南伐》，与李秉宪、高允贞、李到晛、WOODZ、朴海俊合作。7月29日，韩媒报道该消息后，其所属社King Kong by STARSHIP回应确认出演。",
+    "extracted_at": "2026-07-29T22:01:24.222760+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -375,16 +544,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "BBC调查：北爱尔兰观众看什么？KPop、恶魔猎人还是YouTube",
+    "title_zh": "BBC调查：北爱尔兰观众看什么？K-pop、恶魔猎人还是YouTube",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "BBC发布关于北爱尔兰观众观看内容的调查报道",
-      "报道提及KPop、恶魔猎人、Blue Lights或YouTube等关键词"
+      "报道提及K-pop、恶魔猎人（可能指某剧或游戏）、Blue Lights（剧集）及YouTube等观看选项"
     ],
-    "summary_zh": "BBC发布调查报道，探讨北爱尔兰观众的观看偏好，提及KPop、恶魔猎人、Blue Lights或YouTube等内容类型。",
-    "extracted_at": "2026-07-29T18:35:32.544867+08:00"
+    "summary_zh": "BBC发布调查报道，探讨北爱尔兰观众的观看偏好，提及K-pop、恶魔猎人、Blue Lights及YouTube等内容。",
+    "extracted_at": "2026-07-29T22:01:26.057345+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -405,10 +574,10 @@
     "is_blurred": false,
     "facts_list": [
       "格莱美奖新增“最佳亚洲流行专辑”类别",
-      "BTS宣布将不再向格莱美提交音乐作品参评"
+      "BTS通过官方声明表示将不再提交音乐作品参评格莱美奖"
     ],
-    "summary_zh": "据《韩国时报》报道，在格莱美奖宣布新增“最佳亚洲流行专辑”类别后，防弹少年团（BTS）表示将不再提交音乐作品参评格莱美。",
-    "extracted_at": "2026-07-29T18:35:34.664168+08:00"
+    "summary_zh": "据《韩国时报》报道，在格莱美奖宣布新增“最佳亚洲流行专辑”类别后，BTS通过官方声明表示将不再提交音乐作品参评格莱美奖。",
+    "extracted_at": "2026-07-29T22:01:27.944066+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -431,8 +600,8 @@
       "俄罗斯韩语课堂将K-pop和韩食文化纳入教学内容",
       "该报道来自《韩国先驱报》"
     ],
-    "summary_zh": "据《韩国先驱报》报道，俄罗斯的韩语课堂开始引入K-pop和韩食文化作为教学素材，以提升学生对韩国语言和文化的兴趣。",
-    "extracted_at": "2026-07-29T18:35:36.698066+08:00"
+    "summary_zh": "据《韩国先驱报》报道，俄罗斯的韩语课堂开始引入K-pop和韩食文化作为教学元素，以提升学生对韩国语言和文化的兴趣。",
+    "extracted_at": "2026-07-29T22:01:29.520140+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -455,8 +624,8 @@
       "BTS通过官方渠道宣布将不参加明年格莱美颁奖礼",
       "该消息由韩国媒体The Korea Herald报道"
     ],
-    "summary_zh": "据韩国媒体The Korea Herald报道，防弹少年团（BTS）宣布将缺席明年举行的格莱美颁奖典礼。",
-    "extracted_at": "2026-07-29T18:35:38.658494+08:00"
+    "summary_zh": "据韩国媒体The Korea Herald报道，防弹少年团（BTS）宣布将缺席明年的格莱美颁奖典礼。",
+    "extracted_at": "2026-07-29T22:01:31.077697+08:00"
   },
   {
     "source_id": "soompi",
@@ -471,15 +640,15 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "姜基栋将迎来双胞胎，现实与剧中同步当爸",
+    "title_zh": "姜基栋妻子怀双胞胎，现实中将成双胞胎父亲",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "7月29日，娱乐界消息人士向JTBC娱乐新闻透露，姜基栋的妻子目前怀有双胞胎，已进入稳定期"
+      "7月29日，娱乐行业消息源向JTBC娱乐新闻透露，姜基栋的妻子目前怀有双胞胎，已进入稳定期"
     ],
-    "summary_zh": "演员姜基栋在最新剧中饰演双胞胎父亲后，现实中也将迎来双胞胎。7月29日，娱乐界消息人士向JTBC娱乐新闻透露，姜基栋的妻子目前怀有双胞胎，已进入稳定期。",
-    "extracted_at": "2026-07-29T18:35:40.891993+08:00"
+    "summary_zh": "演员姜基栋在最新剧中饰演双胞胎父亲后，现实中也将迎来双胞胎。7月29日，娱乐行业消息源向JTBC娱乐新闻透露，姜基栋的妻子目前怀有双胞胎，已进入稳定期。",
+    "extracted_at": "2026-07-29T22:01:33.116549+08:00"
   },
   {
     "source_id": "soompi",
@@ -499,11 +668,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "HYBE旗下女团LE SSERAFIM、ILLIT、KATSEYE合作单曲《ICONIC BY MISTAKE》MV于7月29日突破1亿次观看",
-      "数据由BELIFT LAB、Source Music和HYBE-Geffen Records共同确认"
+      "HYBE旗下女团LE SSERAFIM、ILLIT、KATSEYE合作单曲《ICONIC BY MISTAKE》MV在YouTube播放量突破1亿次",
+      "BELIFT LAB、Source Music和HYBE-Geffen Records于7月29日宣布该MV在当天约7时达成1亿播放量"
     ],
-    "summary_zh": "HYBE旗下女团LE SSERAFIM、ILLIT、KATSEYE的合作单曲《ICONIC BY MISTAKE》MV在YouTube上突破1亿次观看。据BELIFT LAB、Source Music和HYBE-Geffen Records于7月29日公布的数据，该MV于当天达到这一里程碑。",
-    "extracted_at": "2026-07-29T18:35:43.368137+08:00"
+    "summary_zh": "HYBE旗下女团LE SSERAFIM、ILLIT、KATSEYE的合作单曲《ICONIC BY MISTAKE》MV在YouTube上突破1亿次播放。据BELIFT LAB、Source Music和HYBE-Geffen Records于7月29日透露，该MV在当天约7时达成这一里程碑。",
+    "extracted_at": "2026-07-29T22:01:35.518400+08:00"
   },
   {
     "source_id": "soompi",
@@ -518,16 +687,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "高志溶自曝两年前已离婚，发文宣布消息",
+    "title_zh": "高志溶自曝两年前已离婚，发文说明未公开原因",
     "source_type": "韩娱",
     "risk_level": "中",
     "is_blurred": false,
     "facts_list": [
-      "高志溶于7月29日在社交媒体发布长文，宣布离婚消息",
+      "高志溶于7月29日在个人社交媒体发布长文，宣布离婚消息",
       "高志溶称两年前已与妻子离婚"
     ],
-    "summary_zh": "高志溶于7月29日在社交媒体发布长文，宣布自己两年前已与妻子离婚，并解释了未及时公开的原因。",
-    "extracted_at": "2026-07-29T18:35:45.514397+08:00"
+    "summary_zh": "高志溶于7月29日在社交媒体上发布长文，宣布自己两年前已与妻子离婚，并解释了未公开的原因。",
+    "extracted_at": "2026-07-29T22:01:37.406772+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -542,16 +711,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "世界最新舞蹈联盟为何押注首尔",
+    "title_zh": "世界最新舞蹈联赛为何押注首尔",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "《韩国先驱报》报道，世界最新舞蹈联盟选择首尔作为其重点发展城市",
-      "该联盟认为首尔拥有活跃的舞蹈文化和市场潜力"
+      "《韩国先驱报》报道，世界最新舞蹈联赛选择首尔作为其重点城市",
+      "该联赛旨在通过首尔推广舞蹈文化，具体细节未在原文中详述"
     ],
-    "summary_zh": "据《韩国先驱报》报道，世界最新成立的舞蹈联盟将首尔视为关键市场，认为该城市拥有活跃的舞蹈文化和巨大的发展潜力，因此决定重点投资首尔。",
-    "extracted_at": "2026-07-29T18:35:47.928234+08:00"
+    "summary_zh": "据《韩国先驱报》报道，世界最新成立的舞蹈联赛将首尔作为其战略重点，认为首尔在舞蹈文化方面具有独特优势。报道未提供联赛名称、具体时间或数据，仅强调首尔在全球舞蹈产业中的潜力。",
+    "extracted_at": "2026-07-29T22:01:39.801986+08:00"
   },
   {
     "source_id": "soompi",
@@ -571,11 +740,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "7月29日，Galaxy Corporation宣布演员丁一宇已与该公司签约",
+      "7月29日，Galaxy Corporation宣布丁一宇已与该公司签约",
       "Galaxy Corporation CEO崔容浩表示丁一宇是多年受亚洲喜爱的全球韩流明星"
     ],
-    "summary_zh": "7月29日，Galaxy Corporation宣布演员丁一宇已与该公司签约。CEO崔容浩称丁一宇是多年受亚洲喜爱的全球韩流明星。",
-    "extracted_at": "2026-07-29T18:35:50.023864+08:00"
+    "summary_zh": "7月29日，Galaxy Corporation宣布演员丁一宇已与公司签约。CEO崔容浩称丁一宇是多年受亚洲喜爱的全球韩流明星，且具有竞争力。",
+    "extracted_at": "2026-07-29T22:01:41.813575+08:00"
   },
   {
     "source_id": "soompi",
@@ -595,11 +764,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "《Flex X Cop 2》公开新剧照，安普贤饰演的财阀三代刑警陈利洙与郑恩彩饰演的资深刑警展开对决",
-      "郑恩彩在剧中让安普贤的角色尝到失败滋味"
+      "《Flex X Cop 2》公开新剧照，安普贤饰演财阀三代出身刑警陈利洙，郑恩彩饰演资深刑警",
+      "剧情中郑恩彩的角色让安普贤的角色尝到失败滋味"
     ],
-    "summary_zh": "即将播出的韩剧《Flex X Cop 2》公开新剧照，安普贤继续饰演财阀三代刑警陈利洙，他利用财富和人脉破案；郑恩彩饰演资深刑警，在剧中让安普贤的角色尝到失败滋味。",
-    "extracted_at": "2026-07-29T18:35:52.853033+08:00"
+    "summary_zh": "韩剧《Flex X Cop 2》公开新剧照，安普贤继续饰演财阀三代刑警陈利洙，郑恩彩饰演资深刑警，在剧中让安普贤的角色尝到失败滋味。该剧即将首播。",
+    "extracted_at": "2026-07-29T22:01:44.003870+08:00"
   },
   {
     "source_id": "soompi",
@@ -620,11 +789,11 @@
     "is_blurred": false,
     "facts_list": [
       "2026年亚洲艺术家奖（AAA）于7月29日公布首批演员阵容",
-      "金宣虎和高允贞将出席本届颁奖礼",
-      "两人曾共同主演电视剧《Can This Love Be Translated?》"
+      "金宣虎和高允贞确定出席本届颁奖礼",
+      "两人曾共同主演电视剧《爱情翻译》"
     ],
-    "summary_zh": "2026年亚洲艺术家奖（AAA）于7月29日公布首批演员阵容，金宣虎和高允贞确定出席。两人曾共同主演电视剧《Can This Love Be Translated?》，该剧在全球范围内赢得观众喜爱。",
-    "extracted_at": "2026-07-29T18:35:55.317829+08:00"
+    "summary_zh": "2026年亚洲艺术家奖（AAA）于7月29日公布首批演员阵容，金宣虎和高允贞确定出席。两人曾共同主演电视剧《爱情翻译》，在全球范围内赢得观众喜爱。",
+    "extracted_at": "2026-07-29T22:01:46.118900+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -639,15 +808,15 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "韩最大夏季音乐节是否愈发大胆？《韩国先驱报》发文探讨",
+    "title_zh": "韩最大夏季音乐节是否愈发大胆引讨论",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文未提及具体行为，仅称：韩最大夏季音乐节被指更具挑衅性"
+      "原文未提及具体行为，仅称：The Korea Herald发文探讨K-pop最大夏季音乐节是否变得更具挑衅性"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：韩最大夏季音乐节被指更具挑衅性]",
-    "extracted_at": "2026-07-29T18:35:57.203599+08:00"
+    "summary_zh": "原文未提及具体行为，仅称：The Korea Herald发文探讨K-pop最大夏季音乐节是否变得更具挑衅性",
+    "extracted_at": "2026-07-29T22:01:47.861396+08:00"
   },
   {
     "source_id": "soompi",
@@ -662,16 +831,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "文瑾莹与音乐剧演员郑平结婚，公开手写信",
+    "title_zh": "文瑾莹与音乐剧演员郑平结婚，手写信宣布喜讯",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "7月29日，媒体报道文瑾莹与长期交往的音乐剧演员郑平结婚",
-      "文瑾莹所属社确认其近期结婚"
+      "文瑾莹所属社确认其近期结婚",
+      "文瑾莹通过手写信亲自宣布婚讯"
     ],
-    "summary_zh": "7月29日，媒体报道演员文瑾莹与音乐剧演员郑平结婚，两人已交往多年。文瑾莹的经纪公司随后确认了这一消息，称文瑾莹近期已与郑平结婚。文瑾莹还通过手写信向粉丝传达了这一喜讯。",
-    "extracted_at": "2026-07-29T18:35:59.479406+08:00"
+    "summary_zh": "7月29日，媒体报道演员文瑾莹与音乐剧演员郑平结婚，两人已交往多年。文瑾莹的经纪公司随后确认了这一消息，称她近期已完婚。文瑾莹本人也通过一封手写信向粉丝传达了喜讯。",
+    "extracted_at": "2026-07-29T22:01:49.993811+08:00"
   },
   {
     "source_id": "soompi",
@@ -695,7 +865,7 @@
       "该剧改编自同名热门网络漫画，预计明年播出"
     ],
     "summary_zh": "7月29日，tvN正式宣布李彩玟与卢允瑞将主演新剧《我死去的理由》（暂定名），该剧改编自同名热门网络漫画，预计明年播出。这是两位演员继《浪漫速成班》后的再次合作。",
-    "extracted_at": "2026-07-29T18:36:01.825806+08:00"
+    "extracted_at": "2026-07-29T22:01:51.995570+08:00"
   },
   {
     "source_id": "soompi",
@@ -716,10 +886,10 @@
     "is_blurred": false,
     "facts_list": [
       "tvN新剧《我的偏见，我的老板》发布首播预告",
-      "该剧改编自同名网络漫画，讲述金惠奫饰演的南多林为见偶像李灿（车宇饰）而入职公司，与姜勋饰演的角色展开浪漫故事"
+      "该剧改编自同名网络漫画，讲述金惠奫饰演的南多林为见偶像李灿（车宇饰）而入职公司，却意外对姜勋饰演的角色心动的故事"
     ],
-    "summary_zh": "tvN新剧《我的偏见，我的老板》发布首播预告，该剧改编自同名网络漫画，讲述金惠奫饰演的南多林为见偶像李灿（车宇饰）而入职公司，却意外对姜勋饰演的角色心动的浪漫故事。",
-    "extracted_at": "2026-07-29T18:36:04.793593+08:00"
+    "summary_zh": "tvN新剧《我的偏见，我的老板》发布首播预告。该剧改编自同名网络漫画，讲述金惠奫饰演的南多林为见偶像李灿（车宇饰）而入职公司，却意外对姜勋饰演的角色心动的浪漫故事。",
+    "extracted_at": "2026-07-29T22:01:54.422016+08:00"
   },
   {
     "source_id": "soompi",
@@ -734,7 +904,7 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "7月新锐歌手品牌声誉榜出炉，RESCENE蝉联榜首",
+    "title_zh": "7月新锐歌手品牌声誉排行榜出炉，RESCENE蝉联榜首",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
@@ -742,8 +912,8 @@
       "韩国企业评价研究所于6月29日至7月29日收集大数据，分析新锐歌手的媒体曝光、消费者参与、互动及社区认知指数，发布7月品牌声誉排名",
       "RESCENE在本次排名中保持第一"
     ],
-    "summary_zh": "韩国企业评价研究所公布7月新锐歌手品牌声誉排名，基于6月29日至7月29日的大数据，分析媒体曝光、消费者参与、互动及社区认知指数。RESCENE蝉联榜首。",
-    "extracted_at": "2026-07-29T18:36:07.129624+08:00"
+    "summary_zh": "韩国企业评价研究所公布了7月新锐歌手品牌声誉排名，基于6月29日至7月29日的大数据，分析媒体曝光、消费者参与、互动及社区认知指数。RESCENE继续位居榜首。",
+    "extracted_at": "2026-07-29T22:01:56.396166+08:00"
   },
   {
     "source_id": "soompi",
@@ -763,12 +933,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "7月28日，tvN《明天见！》播出大结局，尼尔森韩国数据显示该集在有线频道同时段平均收视率排名第一",
-      "《明天见！》大结局创下该剧周二播出最高收视纪录",
+      "tvN《明天见！》于7月28日播出大结局，周二收视率创自身最高",
+      "据尼尔森韩国数据，该剧大结局在有线频道同时段平均收视率排名第一",
       "《梦到你》进入后半程，收视率呈上升趋势"
     ],
-    "summary_zh": "tvN《明天见！》于7月28日播出大结局，尼尔森韩国数据显示该集在有线频道同时段平均收视率排名第一，并创下该剧周二播出最高收视纪录。同时，《梦到你》进入后半程，收视率呈上升趋势。",
-    "extracted_at": "2026-07-29T18:36:09.950930+08:00"
+    "summary_zh": "tvN《明天见！》于7月28日以自身最高收视率收官，尼尔森韩国数据显示其大结局在有线频道同时段平均收视率夺冠。另一部剧《梦到你》进入后半程，收视率持续上升。",
+    "extracted_at": "2026-07-29T22:01:58.633188+08:00"
   },
   {
     "source_id": "soompi",
@@ -789,12 +959,12 @@
     "is_blurred": false,
     "facts_list": [
       "Circle Chart公布7月12日至18日周榜排名",
-      "idntt凭借新EP《itsnotover》获得专辑周榜第1名",
-      "SUPER JUNIOR-83z的出道迷你专辑《Promise》进入专辑周榜第2名",
-      "TXT成员延准的《NO LABELS: PART 02》在专辑周榜中保持排名"
+      "idntt凭借新EP《itsnotover》在实体专辑榜夺冠",
+      "SUPER JUNIOR-83z的出道迷你专辑《Promise》位列第2",
+      "TXT成员延准的《NO LABELS: PART 02》保持排名"
     ],
-    "summary_zh": "Circle Chart公布7月12日至18日周榜排名。idntt凭借新EP《itsnotover》获得专辑周榜第1名，SUPER JUNIOR-83z的出道迷你专辑《Promise》位列第2名，TXT成员延准的《NO LABELS: PART 02》保持排名。其他登顶榜单的艺人包括RESCENE、CORTIS、ILLIT等。",
-    "extracted_at": "2026-07-29T18:36:12.808910+08:00"
+    "summary_zh": "Circle Chart公布7月12日至18日周榜排名。idntt凭借新EP《itsnotover》在实体专辑榜夺冠，SUPER JUNIOR-83z的出道迷你专辑《Promise》位列第2，TXT成员延准的《NO LABELS: PART 02》保持排名。",
+    "extracted_at": "2026-07-29T22:02:00.888140+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -809,13 +979,13 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "K-pop能否让粉丝每年赴韩旅游？",
+    "title_zh": "K-pop能否说服粉丝每年赴韩旅游？",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [],
-    "summary_zh": "[原文未提及具体行为，仅称：K-pop能否让粉丝每年赴韩旅游？]",
-    "extracted_at": "2026-07-29T18:36:14.598381+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：探讨K-pop能否说服粉丝每年赴韩旅游的问题]",
+    "extracted_at": "2026-07-29T22:02:02.259120+08:00"
   },
   {
     "source_id": "soompi",
@@ -830,16 +1000,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "BLACKPINK Jennie与Tame Impala合作曲《Dracula》登Billboard电台榜第2",
+    "title_zh": "BLACKPINK Jennie与Tame Impala合作曲《Dracula》登顶Billboard电台榜第2",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "7月28日，Billboard公布Jennie与Tame Impala合作的《Dracula》混音版在Radio Songs榜单升至第2名",
+      "7月28日，Billboard宣布Jennie与Tame Impala合作的《Dracula》混音版在Radio Songs榜单升至第2名",
       "该榜单统计美国电台每周播放量"
     ],
-    "summary_zh": "BLACKPINK成员Jennie与Tame Impala的合作曲《Dracula》混音版在美国Billboard Radio Songs榜单上攀升至第2名，创下新高。该榜单基于美国电台每周播放量进行排名。",
-    "extracted_at": "2026-07-29T18:36:17.208501+08:00"
+    "summary_zh": "BLACKPINK成员Jennie与Tame Impala的合作曲《Dracula》混音版在美国电台榜单Radio Songs中升至第2名，创下新高。Billboard于7月28日公布该消息，该榜单基于美国电台每周播放量统计。",
+    "extracted_at": "2026-07-29T22:02:04.454858+08:00"
   },
   {
     "source_id": "soompi",
@@ -854,16 +1024,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "DAY6 Young K新专辑《YOUNGEST》发售2天销量即达首周纪录2倍",
+    "title_zh": "DAY6 Young K新专辑《YOUNGEST》发售两天销量即超首周纪录两倍",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "7月27日，DAY6成员Young K发行第二张正规专辑《YOUNGEST》及主打曲《Shut The Door》",
-      "专辑发售首日销量即超过其个人此前首周销量纪录的两倍"
+      "7月27日，DAY6成员Young K携第二张正规专辑《YOUNGEST》及主打曲《Shut The Door》回归",
+      "专辑发售首日销量即达到可观数字，两天内销量已超过其个人首周销量纪录的两倍"
     ],
-    "summary_zh": "DAY6成员Young K于7月27日携第二张正规专辑《YOUNGEST》回归，主打曲为《Shut The Door》。仅发售两天，专辑销量已超过其个人此前首周销量纪录的两倍，首日销量表现尤为亮眼。",
-    "extracted_at": "2026-07-29T18:36:19.862333+08:00"
+    "summary_zh": "DAY6成员Young K于7月27日发行第二张正规专辑《YOUNGEST》及主打曲《Shut The Door》，仅两天时间，专辑销量便已超过其个人此前首周销量纪录的两倍。",
+    "extracted_at": "2026-07-29T22:02:06.904933+08:00"
   },
   {
     "source_id": "soompi",
@@ -878,17 +1048,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "BTS《NORMAL》重返Billboard Hot 100创新高，登顶数字歌曲销量榜",
+    "title_zh": "BTS《NORMAL》重返Billboard Hot 100创下新高，并登顶数字歌曲销量榜",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "7月28日，Billboard公布BTS歌曲《NORMAL》重新进入Hot 100榜单，并创下新高",
-      "《NORMAL》在Billboard数字歌曲销量榜上获得第1名",
-      "此次回升得益于近期发布的《NORMAL》新MV"
+      "7月28日（当地时间），Billboard公布BTS歌曲《NORMAL》重新进入Hot 100榜单，并创下新高",
+      "该歌曲因近期发布新MV而重新入榜",
+      "《NORMAL》同时登顶Billboard数字歌曲销量榜（Digital Song Sales Chart）第1名"
     ],
-    "summary_zh": "BTS的歌曲《NORMAL》在7月28日重新进入Billboard Hot 100榜单并创下新高，同时登顶数字歌曲销量榜。此次回升得益于近期发布的新MV。",
-    "extracted_at": "2026-07-29T18:36:22.577498+08:00"
+    "summary_zh": "BTS的歌曲《NORMAL》在7月28日（当地时间）重新进入Billboard Hot 100榜单，并创下新高。此次重新入榜得益于近期发布的新MV。此外，该歌曲还登顶了Billboard数字歌曲销量榜第1名。",
+    "extracted_at": "2026-07-29T22:02:09.149095+08:00"
   },
   {
     "source_id": "asianwiki",
