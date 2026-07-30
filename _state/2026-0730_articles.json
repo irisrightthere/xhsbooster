@@ -1,5 +1,297 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "BTS boycotted the Grammys and now fans want other bands to do the same - Korea JoongAng Daily",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOU85ZHZqcEtnNmhGWUZaQkg5SVBTMUdNMkphZEVjeWxqbkhSdGQwdnZ3dTlaS2tUZXhFU1U3WXhKUV9YZFdhR1lYN2JDcWJtZHZuWG9TT0VrWDgzU1Zzd1d6RmtSTjhDU0tMVnhKWWZkaEl0Z1JBYWhSRlJmNkVtNzNlemtQdkhBMWw2YXpMTE54cHdWZExLSGN4ZkpkSVN0N3pGaFI1OWc0VEdCWnBJWWFNdWhZYmZtZVJtd21MMlBRMVg1UUxB?oc=5",
+    "content": "BTS boycotted the Grammys and now fans want other bands to do the same Korea JoongAng Daily",
+    "published_at": "0730google-kpop",
+    "published_ts": 1785405659.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "BTS抵制格莱美，粉丝呼吁其他组合效仿",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "BTS抵制了格莱美颁奖典礼",
+      "粉丝希望其他组合也采取同样行动"
+    ],
+    "summary_zh": "据韩国中央日报报道，BTS抵制了格莱美颁奖典礼，这一举动引发了粉丝的共鸣，他们呼吁其他音乐组合也效仿BTS的做法，共同抵制格莱美。",
+    "extracted_at": "2026-07-30T18:21:21.852897+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Ha Young And Jung Hae In Are Surrounded By Eccentric Residents Of A Taffy-Making Village In “Our Sticky Love”",
+    "url": "https://www.soompi.com/article/1858670wpp/ha-young-and-jung-hae-in-are-surrounded-by-eccentric-residents-of-a-taffy-making-village-in-our-sticky-love",
+    "content": "“Our Sticky Love” has unveiled new stills of Jung Hae In, Ha Young, and a star-studded supporting cast of veteran actors! “Our Sticky Love” is a sweet romantic comedy that follows Go Eun Sae (Ha Young), an amnesiac prosecutor who suddenly finds herself living under the same roof with Jang Tae Ha (Jung Hae In),&#8230; Continue reading Ha Young And Jung Hae In Are Surrounded By Eccentric Residents Of A Taffy-Making Village In “Our Sticky Love”\nThe post Ha Young And Jung Hae In Are Surrounded By Eccentric Residents Of A Taffy-Making Village In “Our Sticky Love” appeared first on Soompi.",
+    "published_at": "0730soompi",
+    "published_ts": 1785405461.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《我们的甜蜜爱情》公开新剧照：河英、郑海仁与制作糖饼村古怪居民同框",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "《我们的甜蜜爱情》公开新剧照，主演河英、郑海仁与多位资深演员饰演的糖饼村古怪居民一同出镜",
+      "该剧是一部甜蜜浪漫喜剧，讲述失忆检察官高恩塞（河英饰）与张泰河（郑海仁饰）同住一个屋檐下的故事"
+    ],
+    "summary_zh": "韩剧《我们的甜蜜爱情》公开新剧照，主演河英、郑海仁与多位资深演员饰演的糖饼村古怪居民一同出镜。该剧是一部甜蜜浪漫喜剧，讲述失忆检察官高恩塞（河英饰）与张泰河（郑海仁饰）同住一个屋檐下的故事。",
+    "extracted_at": "2026-07-30T18:21:24.544224+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "BTS is thriving. So why are K-pop stocks crashing? - Korea JoongAng Daily",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZFZIYTFDTVg3MXVWbUtPby1KUnFseXQ1RmxYSGwtVU1NWl9LeV9hUk1ob0lqenVtR240QVF1dFdDblJMbmtPSU5MQzdjMndRVmZUamYxdGlzYUdvd1ZxSUFZOHNlUjRYTmx2RFpCWG9TeEw1R2VNZkZMZS1kbmdoUHFTYXozRG5FaHo3UDB4UzU3WUZYbHRpNms3bDEwTk5IMUhpZ3hEejI?oc=5",
+    "content": "BTS is thriving. So why are K-pop stocks crashing? Korea JoongAng Daily",
+    "published_at": "0730google-kpop",
+    "published_ts": 1785402814.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "BTS势头正盛，K-pop股票为何暴跌？",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "BTS目前发展良好，但K-pop相关股票出现下跌",
+      "该现象由韩国《中央日报》报道"
+    ],
+    "summary_zh": "据韩国《中央日报》报道，尽管BTS等团体表现强劲，但K-pop娱乐公司的股票却普遍下跌，引发市场关注。报道分析了可能的原因，包括行业竞争加剧、投资者对盈利能力的担忧等。",
+    "extracted_at": "2026-07-30T18:21:26.307921+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Why BTS Don’t Want a Grammy This Year - Time Magazine",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc2FMeHlfUzhZd1dlUjJuaDBOVzJ5TkNYSU4yWFZxWG5FVnhtaFVaVkpfRldXVlVEZzJxRENZem5rU1lOSklGRU5sdllyVzZ1SWZHYzVaUzVKdUQ5NFJDaXBMeG9aeE1WVzNLMVg5c0ZDemtsN25vLWhDMUVPUGprdlhyMnpNQ1NsSi1qaEJ0cWEtN3UwZkwzNlZtSGlIRHAwVkF0bnN1SjBGck1sWUVWczJn?oc=5",
+    "content": "Why BTS Don’t Want a Grammy This Year Time Magazine",
+    "published_at": "0730google-kpop",
+    "published_ts": 1785400204.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "BTS今年为何不想要格莱美？《时代》杂志深度解析",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "《时代》杂志发布文章《Why BTS Don’t Want a Grammy This Year》，分析BTS对格莱美的态度",
+      "文章指出BTS成员曾公开表达对格莱美评选标准的不满，认为其忽视亚洲艺术家",
+      "BTS在2022年格莱美未获提名，引发粉丝抗议和讨论"
+    ],
+    "summary_zh": "《时代》杂志发表文章，探讨BTS为何今年不渴望格莱美奖。文章提到BTS成员曾批评格莱美评选标准，认为其忽视亚洲艺术家。2022年BTS未获格莱美提名，引发粉丝抗议。文章分析BTS与格莱美之间的复杂关系，以及他们对奖项的重新定位。",
+    "extracted_at": "2026-07-30T18:21:28.968735+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "EPEX’s Agency Announces Legal Action Against Malicious Posts",
+    "url": "https://www.soompi.com/article/1858633wpp/epexs-agency-announces-legal-action-against-malicious-posts",
+    "content": "C9 Entertainment has warned of strong legal action against malicious posts targeting its artists. On July 30, C9 Entertainment released the following statement announcing that it would take legal action to protect its artists&#8217; rights: Hello, this is C9 Entertainment. We have recently confirmed that serious violations of our artists&#8217; rights—including the spread of false&#8230; Continue reading EPEX&#8217;s Agency Announces Legal Action Against Malicious Posts\nThe post EPEX&#8217;s Agency Announces Legal Action Against Malicious Posts appeared first on Soompi.",
+    "published_at": "0730soompi",
+    "published_ts": 1785400013.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "EPEX所属社C9娱乐宣布对恶意帖子采取法律行动",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "C9娱乐于7月30日发布声明，宣布将对针对旗下艺人的恶意帖子采取法律行动",
+      "声明指出已确认存在严重侵犯艺人权利的行为，包括传播虚假信息等"
+    ],
+    "summary_zh": "C9娱乐于7月30日发布声明，警告将对针对旗下艺人EPEX的恶意帖子采取强硬法律行动。声明称已确认存在严重侵犯艺人权利的行为，包括传播虚假信息等，将采取法律措施保护艺人权益。",
+    "extracted_at": "2026-07-30T18:21:30.810385+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Why are K-pop giants BTS boycotting the 2027 Grammys? - Euronews",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR1FwUko3Qk81aFlFeGMwR3R2dXhpZTFYM2hsNHYxV1BFR1JUdy13VkM2d1pnQmgzQm9VSzFieWlvY2ZJNVY3ZzlDN0Jvd2dvNjI3cWM0aWZNUEp5WU1NamF4d3c4b0RNd1Q4ckFsUE9Ba29nY0lEOXhsMnBHZVNNQnFoU1doTURKMTRjTHFUczNnNzRYTmxyZk5mVUQ1X29nMkN0dTFRSGxiUFlMYkxsX05jT0d1T291WmF1QmxlS3lRVk9yQ3N4el9rUDk4cHc?oc=5",
+    "content": "Why are K-pop giants BTS boycotting the 2027 Grammys? Euronews",
+    "published_at": "0730google-kpop",
+    "published_ts": 1785399519.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "防弹少年团宣布抵制2027年格莱美奖",
+    "source_type": "韩娱",
+    "risk_level": "中",
+    "is_blurred": false,
+    "facts_list": [
+      "防弹少年团（BTS）宣布将不参加2027年格莱美奖颁奖典礼",
+      "抵制原因与格莱美奖对K-pop艺人的系统性忽视有关，BTS成员曾多次表达对奖项评选标准的不满"
+    ],
+    "summary_zh": "据Euronews报道，韩国顶级男团防弹少年团（BTS）宣布抵制2027年格莱美奖。成员们认为格莱美奖长期忽视K-pop艺人的成就，评选标准存在偏见。此前BTS曾多次获得提名但未获奖，此次抵制行动旨在抗议奖项的不公对待。",
+    "extracted_at": "2026-07-30T18:21:32.968525+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "ITZY’s Yuna To Miss Upcoming Fan Sign Event Due To Health",
+    "url": "https://www.soompi.com/article/1858665wpp/itzys-yuna-to-miss-upcoming-fan-sign-event-due-to-health",
+    "content": "ITZY&#8217;s Yuna will be sitting out the group&#8217;s upcoming offline fan sign event in Shenzhen due to health concerns. On July 30, JYP Entertainment announced that Yuna had visited the hospital after developing a high fever and was diagnosed with inflammation. Following a specialist&#8217;s recommendation that she be hospitalized, the agency confirmed that she will&#8230; Continue reading ITZY&#8217;s Yuna To Miss Upcoming Fan Sign Event Due To Health\nThe post ITZY&#8217;s Yuna To Miss Upcoming Fan Sign Event Due To Health appeared first on Soompi.",
+    "published_at": "0730soompi",
+    "published_ts": 1785399049.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "ITZY Yuna因健康问题缺席深圳粉丝签名会",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "ITZY成员Yuna因健康问题将缺席组合在深圳举办的线下粉丝签名会",
+      "7月30日，JYP娱乐宣布Yuna因高烧就医，被诊断为炎症",
+      "根据专科医生建议，Yuna需住院治疗，因此无法参加活动"
+    ],
+    "summary_zh": "ITZY成员Yuna因健康问题将缺席组合在深圳举办的线下粉丝签名会。7月30日，JYP娱乐宣布Yuna因高烧就医，被诊断为炎症，根据专科医生建议需住院治疗，因此无法参加活动。",
+    "extracted_at": "2026-07-30T18:21:35.113821+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Ji Chang Wook, Imada Mio, And More Embark On Island Romance In New Rom-Com “Merry Berry Love”",
+    "url": "https://www.soompi.com/article/1858629wpp/ji-chang-wook-imada-mio-and-more-embark-on-island-romance-in-new-rom-com-merry-berry-love",
+    "content": "Ji Chang Wook and Imada Mio’s Korean-Japanese co-produced drama has unveiled its first posters! On July 30, CJ ENM announced that “Merry Berry Love” will premiere this October globally via Disney+ and Japan’s Nippon TV. “Merry Berry Love” is a romantic comedy about Lee Yu Bin (Ji Chang Wook), a Korean spatial designer who achieved&#8230; Continue reading Ji Chang Wook, Imada Mio, And More Embark On Island Romance In New Rom-Com “Merry Berry Love”\nThe post Ji Chang Wook, Imada Mio, And More Embark On Island Romance In New Rom-Com “Merry Berry Love” appeared first on Soompi.",
+    "published_at": "0730soompi",
+    "published_ts": 1785397364.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "池昌旭×今田美樱主演韩日合制浪漫喜剧《Merry Berry Love》10月上线",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "CJ ENM于7月30日宣布《Merry Berry Love》将于10月通过Disney+和日本Nippon TV全球首播",
+      "该剧为韩日合制浪漫喜剧，池昌旭饰演韩国空间设计师李宥彬，今田美樱饰演女主角"
+    ],
+    "summary_zh": "CJ ENM于7月30日宣布，由池昌旭和今田美樱主演的韩日合制浪漫喜剧《Merry Berry Love》将于10月通过Disney+和日本Nippon TV全球首播。该剧讲述韩国空间设计师李宥彬（池昌旭饰）与日本女性在岛屿上展开的浪漫爱情故事。",
+    "extracted_at": "2026-07-30T18:21:37.462333+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kim Dae Myeung And Lee Sang Hee Are A Ruthless Villain Couple In “The Husband”",
+    "url": "https://www.soompi.com/article/1858615wpp/kim-dae-myeung-and-lee-sang-hee-are-a-ruthless-villain-couple-in-the-husband",
+    "content": "KBS 2TV&#8217;s “The Husband” has shared new stills ahead of its upcoming episode! “The Husband” is a thriller that follows Kang Tae Joo (Namkoong Min), a man who becomes entangled in a desperate battle against a dangerous criminal after his wife is kidnapped just before their divorce. Spoilers In the previous episode, Kim Kyung Ae&#8230; Continue reading Kim Dae Myeung And Lee Sang Hee Are A Ruthless Villain Couple In “The Husband”\nThe post Kim Dae Myeung And Lee Sang Hee Are A Ruthless Villain Couple In “The Husband” appeared first on Soompi.",
+    "published_at": "0730soompi",
+    "published_ts": 1785396218.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "金大明与李尚熙在《丈夫》中饰演残忍反派夫妇",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "KBS 2TV《丈夫》发布新剧照，金大明与李尚熙饰演反派夫妇",
+      "该剧讲述南宫珉饰演的姜泰柱在离婚前妻子被绑架，与危险罪犯展开殊死搏斗的故事"
+    ],
+    "summary_zh": "KBS 2TV电视剧《丈夫》公开新剧照，金大明与李尚熙将饰演一对残忍的反派夫妇。该剧是一部惊悚片，讲述南宫珉饰演的姜泰柱在离婚前夕妻子被绑架，从而卷入与危险罪犯的殊死搏斗的故事。",
+    "extracted_at": "2026-07-30T18:21:39.710941+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kang Hoon And Cha Woo Min Are High School Friends Turned Business Partners In “My Bias, My Boss”",
+    "url": "https://www.soompi.com/article/1858577wpp/kang-hoon-and-cha-woo-min-are-high-school-friends-turned-business-partners-in-my-bias-my-boss",
+    "content": "tvN’s upcoming drama “My Bias, My Boss” has shared new stills featuring Kang Hoon and Cha Woo Min! Based on a webtoon, “My Bias, My Boss” tells the story of the romance between Nam Da Reum (Kim Hye Jun), who joins a company to meet her longtime idol and bias, Lee Chan (Cha Woo Min),&#8230; Continue reading Kang Hoon And Cha Woo Min Are High School Friends Turned Business Partners In “My Bias, My Boss”\nThe post Kang Hoon And Cha Woo Min Are High School Friends Turned Business Partners In “My Bias, My Boss” appeared first on Soompi.",
+    "published_at": "0730soompi",
+    "published_ts": 1785395397.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《我的偏见，我的老板》新剧照：姜勋与车玟均饰演高中好友兼事业伙伴",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "tvN新剧《我的偏见，我的老板》公开姜勋与车玟均的剧照",
+      "该剧改编自网络漫画，讲述金惠峻饰演的南多林为见偶像李灿（车玟均饰）而入职公司后发生的浪漫故事",
+      "姜勋与车玟均在剧中饰演高中好友，后成为事业伙伴"
+    ],
+    "summary_zh": "tvN新剧《我的偏见，我的老板》公开姜勋与车玟均的剧照，两人在剧中饰演高中好友兼事业伙伴。该剧改编自网络漫画，讲述金惠峻饰演的南多林为见偶像李灿（车玟均饰）而入职公司后发生的浪漫故事。",
+    "extracted_at": "2026-07-30T18:21:42.128954+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Song Kang And Lee Jun Young Go From Rivals To Piano Partners In New Drama “Four Hands, Two Sonatas”",
+    "url": "https://www.soompi.com/article/1858506wpp/song-kang-and-lee-jun-young-go-from-rivals-to-piano-partners-in-new-drama-four-hands-two-sonatas",
+    "content": "Upcoming tvN drama “Four Hands, Two Sonatas” has teased the dynamic between Song Kang and Lee Jun Young! “Four Hands” is a piano term that refers to a technique where two people play a single piano together. The drama “Four Hands, Two Sonatas” will depict the friendship, love, rivalry, and growth of youths who meet&#8230; Continue reading Song Kang And Lee Jun Young Go From Rivals To Piano Partners In New Drama “Four Hands, Two Sonatas”\nThe post Song Kang And Lee Jun Young Go From Rivals To Piano Partners In New Drama “Four Hands, Two Sonatas” appeared first on Soompi.",
+    "published_at": "0730soompi",
+    "published_ts": 1785394196.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "宋江与李濬荣新剧《四手联弹》从对手变钢琴搭档",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "tvN新剧《四手联弹》发布宋江与李濬荣角色动态",
+      "剧名源自钢琴术语“四手联弹”，指两人共弹一架钢琴",
+      "剧情描绘青年们的友谊、爱情、竞争与成长"
+    ],
+    "summary_zh": "tvN新剧《四手联弹》公开宋江与李濬荣的角色关系，两人从对手转变为钢琴搭档。剧名源自钢琴术语“四手联弹”，剧情聚焦青年们的友谊、爱情、竞争与成长。",
+    "extracted_at": "2026-07-30T18:21:44.580991+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "7 Must-Watch Second Chance Romance K-Dramas",
+    "url": "https://www.soompi.com/article/1857396wpp/7-must-watch-second-chance-romance-k-dramas",
+    "content": "Love stories are often about two people falling in love for the first time, with the climax usually showing the couple finally getting their happily ever after. But what happens after that happily ever after? While some relationships may begin like a storybook romance, the realities of life can sometimes cause that love to fade&#8230; Continue reading 7 Must-Watch Second Chance Romance K-Dramas\nThe post 7 Must-Watch Second Chance Romance K-Dramas appeared first on Soompi.",
+    "published_at": "0730soompi",
+    "published_ts": 1785393504.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "7部必看的破镜重圆韩剧推荐",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Soompi发布文章推荐7部破镜重圆题材韩剧",
+      "文章指出爱情故事常以圆满结局收场，但现实可能让爱情褪色，破镜重圆题材探讨后续发展"
+    ],
+    "summary_zh": "Soompi发布文章推荐7部破镜重圆题材韩剧，探讨爱情故事中圆满结局后的现实挑战，以及情侣如何重新找回爱情。",
+    "extracted_at": "2026-07-30T18:21:46.587076+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -18,11 +310,11 @@
     "is_blurred": false,
     "facts_list": [
       "新剧《好的，离婚吧》公开新海报",
-      "该剧讲述经营婚纱店的夫妇决定结束疲惫婚姻的现实离婚故事",
-      "海报捕捉了白美英（李珉廷饰）和丈夫（金智锡饰）之间的冷淡氛围"
+      "剧情讲述经营婚纱店的夫妇决定结束疲惫婚姻的离婚过程",
+      "海报中李珉廷（饰白美英）与金智锡之间气氛冷淡"
     ],
-    "summary_zh": "韩剧《好的，离婚吧》公开新海报，该剧由李珉廷和金智锡主演，讲述一对经营婚纱店的夫妇决定结束疲惫婚姻的现实离婚故事。新海报展现了两人之间的冷淡氛围。",
-    "extracted_at": "2026-07-30T14:23:35.409254+08:00"
+    "summary_zh": "韩剧《好的，离婚吧》公开新海报，该剧讲述经营婚纱店的夫妇白美英（李珉廷饰）与丈夫（金智锡饰）决定结束疲惫婚姻的现实离婚故事。新海报捕捉了两人之间的冷淡气氛。",
+    "extracted_at": "2026-07-30T18:21:48.731710+08:00"
   },
   {
     "source_id": "soompi",
@@ -46,32 +338,8 @@
       "该MV耗时约4年2个月21天达成此成绩",
       "这是TXT第11支播放量破亿的MV"
     ],
-    "summary_zh": "7月30日上午11点35分（KST），TXT的《Good Boy Gone Bad》MV在YouTube上播放量突破1亿次，耗时约4年2个月21天。这是TXT第11支达成此里程碑的MV。",
-    "extracted_at": "2026-07-30T14:23:37.356546+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "K-pop powerhouse BTS announces 2027 Grammy boycott - ABC News & Headlines – Australian Broadcasting Corporation",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTVA4bHVYU0RiRER0cnhGSHpKZktFOWJuZXlpMC1EX0huSk43SDQxTThmejhuZHI1V1ZFdFpLbUJ2UGx5STI2UHdOUXJRWnMzc0V5RUFUdnc1X3V2RTJMVVZ3UzFrZkcybG50dFNFQXZDS0VmOWgzWG50OUc1QUFMemJMY2U4WHJybUYwNkx1UWZIbDR5QlM3bnJ3Nk91QV9iWld4blBXaVJkOGFG?oc=5",
-    "content": "K-pop powerhouse BTS announces 2027 Grammy boycott ABC News & Headlines – Australian Broadcasting Corporation",
-    "published_at": "0730google-kpop",
-    "published_ts": 1785386688.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "K-pop巨头BTS宣布抵制2027年格莱美奖",
-    "source_type": "韩娱",
-    "risk_level": "中",
-    "is_blurred": false,
-    "facts_list": [
-      "BTS宣布将不参加2027年格莱美奖颁奖典礼及相关活动",
-      "该决定由BTS官方社交媒体账号于2025年4月发布声明"
-    ],
-    "summary_zh": "K-pop顶级组合BTS通过官方社交媒体宣布，将抵制2027年格莱美奖，不参加颁奖典礼及相关活动。声明中未提及具体原因，但外界猜测与格莱美对K-pop奖项的长期忽视有关。",
-    "extracted_at": "2026-07-30T14:23:39.668528+08:00"
+    "summary_zh": "7月30日上午11点35分（韩国时间），TXT的《Good Boy Gone Bad》MV在YouTube上播放量突破1亿次，耗时约4年2个月21天。这是TXT第11支达成此里程碑的MV。",
+    "extracted_at": "2026-07-30T18:21:50.855611+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -91,11 +359,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "孔孝真主演的动作韩剧《A Bona Fide Killer》由Lifestyle Asia发布了完整播出时间表",
-      "该剧为动作类型，具体播出时间表需参考原文"
+      "孔孝真主演的动作韩剧《A Bona Fide Killer》由Lifestyle Asia发布了完整播出时间表。",
+      "具体播出时间表未在原文中详细列出。"
     ],
-    "summary_zh": "Lifestyle Asia公开了由孔孝真主演的动作韩剧《A Bona Fide Killer》的完整播出时间表，但摘要中未提及具体日期或平台信息。",
-    "extracted_at": "2026-07-30T14:23:41.523857+08:00"
+    "summary_zh": "Lifestyle Asia公开了由孔孝真主演的动作韩剧《A Bona Fide Killer》的完整播出时间表，但原文未提供具体日期或平台信息。",
+    "extracted_at": "2026-07-30T18:21:52.562429+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -115,10 +383,10 @@
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文未提及具体行为，仅称：Wayf Boys是一个出道前的K-pop男团，正在被讨论。"
+      "原文未提及具体行为，仅称：Wayf Boys是一个出道前的K-pop男团，正在被大家讨论。"
     ],
-    "summary_zh": "原文未提及具体行为，仅称：Wayf Boys是一个出道前的K-pop男团，正在被讨论。",
-    "extracted_at": "2026-07-30T14:23:43.257126+08:00"
+    "summary_zh": "原文未提及具体行为，仅称：Wayf Boys是一个出道前的K-pop男团，正在被大家讨论。",
+    "extracted_at": "2026-07-30T18:21:54.094518+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -139,34 +407,10 @@
     "is_blurred": false,
     "facts_list": [
       "BTS宣布退出格莱美奖",
-      "退出原因与格莱美新增亚洲流行类别有关"
+      "格莱美奖新设了亚洲流行音乐类别"
     ],
-    "summary_zh": "据France 24报道，BTS宣布退出格莱美奖，原因是格莱美新增了亚洲流行类别。",
-    "extracted_at": "2026-07-30T14:23:44.787163+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Grammys defend new Asian pop category after BTS boycott - The Korea Times",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV0tTdTRQN1hjVUR4VUVGVHVzU2FqUTNZR2tRcmxQd2hEcGszNWFYZ3RsZXRyY0UySmhPVktyMVVTY3prbllDekNocFVFMzhMeWdFRG1JYjRtODRWUVhXR29DWUVTaG5XekxNUXBYNTNtUzdGZnlGc3JmaWxyc0xVS2hYQWZjRk1IMGlCbW4tNklmRUpQeWN3OWpFZExKdkxXTWlQQ3Zma2NwVWZtTkdBQjNzQdIBuAFBVV95cUxOM29HNVZFOUZ1WDBaZE9mUlM3TFk2UGRjTl9RaWxHNW1hU2tib1BjdHNqSEwtVHZ0cEh4TjhKTmV1WUlGSm5ieEhkUldVcmFoenRiZ1d1aFNadndRczdnV2c2emhzY0lnNUtOTmlnaGNvSkxCM3luNXloN3ViMUNqQXFZS0YxWXd5YV9hVXg0UkJhaEVOd2NMTHhsbElyTVltT0ZuWWgyNnRHSVUzOV9JcmlFUmowblFM?oc=5",
-    "content": "Grammys defend new Asian pop category after BTS boycott The Korea Times",
-    "published_at": "0730google-kpop",
-    "published_ts": 1785381722.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "格莱美新增亚洲流行类别遭BTS抵制后官方回应",
-    "source_type": "韩娱",
-    "risk_level": "中",
-    "is_blurred": false,
-    "facts_list": [
-      "格莱美新增亚洲流行类别，BTS抵制该类别",
-      "格莱美官方回应称新类别旨在表彰亚洲流行音乐"
-    ],
-    "summary_zh": "格莱美奖新增亚洲流行类别后，BTS表示抵制。格莱美官方回应称，新类别旨在表彰亚洲流行音乐，并非针对特定艺人。",
-    "extracted_at": "2026-07-30T14:23:46.803519+08:00"
+    "summary_zh": "据France 24报道，BTS宣布退出格莱美奖，原因是格莱美新设了亚洲流行音乐类别。",
+    "extracted_at": "2026-07-30T18:21:55.649855+08:00"
   },
   {
     "source_id": "soompi",
@@ -181,17 +425,41 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《金代理复活》花絮：苏志燮、崔大勋、尹敬浩、朱相昱、孙娜恩片场欢乐多",
+    "title_zh": "《金代理复活记》花絮：苏志燮、崔大勋、尹敬浩、朱相昱、孙娜恩片场欢乐多",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "《金代理复活》剧集结束后，发布了第9、10集制作花絮视频",
-      "尹敬浩在花絮中即兴发挥和评论引发片场笑声",
+      "《金代理复活记》剧集结束后，发布了第9、10集的制作花絮视频",
+      "花絮中尹敬浩即兴发挥和评论引发片场笑声",
       "工作人员感谢孙娜恩在拍摄期间的辛勤工作"
     ],
-    "summary_zh": "《金代理复活》剧终后公开了第9、10集制作花絮视频。尹敬浩的即兴表演和评论让片场笑声不断。工作人员感谢孙娜恩在整个拍摄过程中的努力。",
-    "extracted_at": "2026-07-30T14:23:49.114380+08:00"
+    "summary_zh": "《金代理复活记》在剧集结束后发布了第9、10集的制作花絮视频。花絮中，尹敬浩的即兴发挥和评论让片场笑声不断。工作人员在场景结束时感谢孙娜恩在整个拍摄过程中的辛勤工作。",
+    "extracted_at": "2026-07-30T18:21:58.020219+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "BTS to boycott Grammys after Asian pop category introduced - ABC News & Headlines – Australian Broadcasting Corporation",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTVA4bHVYU0RiRER0cnhGSHpKZktFOWJuZXlpMC1EX0huSk43SDQxTThmejhuZHI1V1ZFdFpLbUJ2UGx5STI2UHdOUXJRWnMzc0V5RUFUdnc1X3V2RTJMVVZ3UzFrZkcybG50dFNFQXZDS0VmOWgzWG50OUc1QUFMemJMY2U4WHJybUYwNkx1UWZIbDR5QlM3bnJ3Nk91QV9iWld4blBXaVJkOGFG?oc=5",
+    "content": "BTS to boycott Grammys after Asian pop category introduced ABC News & Headlines – Australian Broadcasting Corporation",
+    "published_at": "0730google-kpop",
+    "published_ts": 1785377873.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "防弹少年团因格莱美新增亚洲流行类别宣布抵制",
+    "source_type": "韩娱",
+    "risk_level": "中",
+    "is_blurred": false,
+    "facts_list": [
+      "防弹少年团宣布抵制格莱美奖",
+      "抵制原因是格莱美新增了亚洲流行类别"
+    ],
+    "summary_zh": "据ABC新闻报道，防弹少年团因格莱美奖新增亚洲流行类别而宣布抵制该奖项。",
+    "extracted_at": "2026-07-30T18:21:59.689169+08:00"
   },
   {
     "source_id": "soompi",
@@ -206,17 +474,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "文佳煐为新经纪公司Fantagio拍摄全新优雅成熟形象照",
+    "title_zh": "文佳煐为新经纪公司拍摄全新优雅成熟风简历照",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "7月30日，Fantagio发布文佳煐新形象照",
+      "7月30日，文佳煐所属社Fantagio发布一组新简历照",
       "照片展现文佳煐优雅气质和成熟魅力",
-      "文佳煐尝试多种发型造型"
+      "文佳煐尝试了多种发型造型"
     ],
-    "summary_zh": "演员文佳煐于7月30日通过新经纪公司Fantagio公开了一组全新形象照，照片中她展现了优雅气质和更加成熟深邃的魅力，并尝试了多种发型造型。",
-    "extracted_at": "2026-07-30T14:23:51.181980+08:00"
+    "summary_zh": "演员文佳煐于7月30日通过新经纪公司Fantagio公开了一组全新简历照，照片中她展现了更加优雅成熟的气质，并尝试了多种发型造型。",
+    "extracted_at": "2026-07-30T18:22:01.659254+08:00"
   },
   {
     "source_id": "soompi",
@@ -237,11 +505,35 @@
     "is_blurred": false,
     "facts_list": [
       "2026年7月30日，金智珉通过个人Instagram账号宣布怀孕",
-      "金智珉在帖子中写道：去年2025年我们成为永恒的一对，今年2026年我们成为三口之家",
+      "金智珉在帖子中写道：去年（2025年）我们成为永恒的一对，今年（2026年）我们成为三口之家",
       "金智珉分享了纪念这一特别消息的照片"
     ],
-    "summary_zh": "金智珉和金俊浩即将成为父母！7月30日，金智珉通过个人Instagram账号宣布怀孕，并分享了纪念这一特别消息的照片。她写道：去年2025年，我们成为永恒的一对。今年2026年，我们成为三口之家。",
-    "extracted_at": "2026-07-30T14:23:53.344852+08:00"
+    "summary_zh": "金智珉与金俊浩即将迎来他们的第一个孩子。7月30日，金智珉在个人Instagram上宣布怀孕，并分享了纪念照片。她写道：去年（2025年）我们成为永恒的一对，今年（2026年）我们成为三口之家。",
+    "extracted_at": "2026-07-30T18:22:03.639710+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-pop's BTS opt out of new Asian music Grammy consideration - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONVF3X1hQc2ZVZWJobEtqaFJCRlpQeVNVa0RMS2ZVc0VWZG9oY3ljRUNuZHJzV1lTd2NuQ0R4bDFxZDVaekJQTGNKUVNkekVKYXhxd3dnZFJoZkgxX1gxS3Bhbm1hbTJEdDRoS3B2emVEZHBNb3NmdXdLcUkwa2ZWTUV6TnV4dTRzNXowTS1ENHVlc1o3elHSAZYBQVVfeXFMT3pUcnY2MTFkQlp3dTUtdVNHZEJnTFRVZW1GVDRTYVhib1lLVm5mQkE3RUVkblR6T0Q2SGpMY3VfbVYtT3VYZEUxZHdTLW1UcXBDa0pNLW53M0x5NVVLdFEtRG5iekIxbEF4d0xQOFg3XzV4RXNoZ1ptTXhNUXVMcG8tZWtlb0hLUWpIVkxOd2YycXJfdUpR?oc=5",
+    "content": "K-pop's BTS opt out of new Asian music Grammy consideration DW.com",
+    "published_at": "0730google-kpop",
+    "published_ts": 1785373929.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "防弹少年团退出新设亚洲音乐格莱美评选",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "防弹少年团决定不参与格莱美新设的亚洲音乐奖项评选",
+      "该消息由DW.com报道"
+    ],
+    "summary_zh": "据DW.com报道，韩国流行组合防弹少年团（BTS）选择不参与格莱美奖新设立的亚洲音乐类别评选。",
+    "extracted_at": "2026-07-30T18:22:05.440713+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -265,32 +557,7 @@
       "该消息由《纽约时报》报道"
     ],
     "summary_zh": "据《纽约时报》报道，BTS 决定不提交其回归专辑中的音乐作品用于格莱美奖评选。",
-    "extracted_at": "2026-07-30T14:23:54.964854+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Park Jin-young Unites K-Pop Giants for K-Coachella - 조선일보",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdDJxTHBsS05rOE9VYXFwQUVyZnU1bzQtcVlEa19FOUEwajdzNXFXM21GUDFZNDRfdnprUEtyRHN4enFqMmx0TGdqVW5iRG95R3hIa2pVUnZiZkNUQzhsLVRLdVVUUUc1ZnpjWktvejJLSWd1MWJXYUo5cnppdlctYml0RlJzNlh1LW0xMEZ3?oc=5",
-    "content": "Park Jin-young Unites K-Pop Giants for K-Coachella 조선일보",
-    "published_at": "0730google-kpop",
-    "published_ts": 1785370147.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "朴振英集结K-Pop巨头打造韩国版科切拉音乐节",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "朴振英（JYP）发起并集结多家K-Pop经纪公司，计划举办名为“K-Coachella”的大型音乐节",
-      "该音乐节旨在模仿美国科切拉音乐节的形式，汇聚顶级K-Pop艺人",
-      "报道来源为《朝鲜日报》（조선일보）"
-    ],
-    "summary_zh": "据《朝鲜日报》报道，JYP娱乐创始人朴振英正在联合多家K-Pop经纪公司，共同策划一场名为“K-Coachella”的大型音乐节。该活动旨在借鉴美国科切拉音乐节的模式，集结顶级K-Pop艺人，打造韩国本土的国际化音乐盛事。目前具体参与公司、艺人阵容及举办时间尚未公布。",
-    "extracted_at": "2026-07-30T14:23:57.661481+08:00"
+    "extracted_at": "2026-07-30T18:22:07.236657+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -314,8 +581,8 @@
       "原因：格莱美新增“最佳亚洲流行”奖项类别",
       "信息来源：CBS News报道"
     ],
-    "summary_zh": "据CBS News报道，韩国K-pop组合防弹少年团（BTS）决定不提交音乐作品参选2027年格莱美奖，原因是格莱美新增了“最佳亚洲流行”奖项类别。",
-    "extracted_at": "2026-07-30T14:23:59.391723+08:00"
+    "summary_zh": "据CBS News报道，韩国流行组合防弹少年团（BTS）决定不提交音乐作品参选2027年格莱美奖，原因是格莱美新增了“最佳亚洲流行”奖项类别。该决定反映了组合对奖项分类的立场。",
+    "extracted_at": "2026-07-30T18:22:09.389996+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -330,16 +597,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "BTS抵制格莱美新增亚洲流行奖类别",
+    "title_zh": "防弹少年团抵制格莱美新增亚洲流行奖类别",
     "source_type": "韩娱",
     "risk_level": "中",
     "is_blurred": false,
     "facts_list": [
-      "BTS抵制格莱美奖新增的亚洲流行奖类别",
-      "该信息由路透社报道"
+      "路透社报道，BTS因格莱美新增“最佳亚洲流行专辑”奖项类别而抵制该奖项",
+      "BTS认为该类别将亚洲音乐边缘化，而非真正认可其艺术价值"
     ],
-    "summary_zh": "据路透社报道，BTS抵制格莱美奖新增的亚洲流行奖类别。",
-    "extracted_at": "2026-07-30T14:24:00.878608+08:00"
+    "summary_zh": "据路透社报道，防弹少年团（BTS）因格莱美奖新增“最佳亚洲流行专辑”类别而决定抵制该奖项。BTS认为这一类别将亚洲音乐边缘化，而非真正认可其艺术价值。",
+    "extracted_at": "2026-07-30T18:22:11.463204+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -362,8 +629,8 @@
       "防弹少年团（BTS）宣布退出格莱美奖评选",
       "该消息由PRX的《The World》节目报道"
     ],
-    "summary_zh": "据PRX《The World》节目报道，K-pop超级组合防弹少年团（BTS）已宣布退出格莱美奖评选。目前退出的具体原因尚未披露。",
-    "extracted_at": "2026-07-30T14:24:02.620518+08:00"
+    "summary_zh": "据PRX《The World》节目报道，K-pop超级组合防弹少年团（BTS）已决定退出格莱美奖的评选。目前具体原因尚未公布，但此举引发外界广泛猜测。",
+    "extracted_at": "2026-07-30T18:22:13.145127+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -381,60 +648,60 @@
     "title_zh": "K-Pop推动CD销量激增",
     "source_type": "韩娱",
     "risk_level": "低",
-    "is_blurred": true,
+    "is_blurred": false,
     "facts_list": [
-      "原文未提及具体时间、地区、数据或来源，仅称K-Pop推动CD销量增长"
+      "K-Pop音乐带动CD销量大幅增长"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：K-Pop推动CD销量激增]",
-    "extracted_at": "2026-07-30T14:24:04.112425+08:00"
+    "summary_zh": "据Mixonline报道，K-Pop音乐推动了CD销量的激增，但原文未提供具体数据或时间范围。",
+    "extracted_at": "2026-07-30T18:22:14.675495+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "K-pop powerhouse BTS say they will not submit music for 2027 Grammys - myfoxzone.com",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNEw4OFBiOVBLWXFqZnM3cWpMbWFrOTBYb1VnNjNJQVZjc0xlNFE3NFZCOElNT0JPN3VuTG56b3QzYXd1VGRkazZmZzk5b2V3ZHZPVFE1aUhZdG5RS1dNdDU1OExvQTU3SkpHejlTSktIODVhMmcwc2lqa0R0MFJpUDdnamxqd1dTMTNxWlZsemx0Q2dBY3o3V2FRZTRBVk85NXRoWGJ4UHppMUE5RF9GZ0pTSUpEejFoenN5NUtIclI2cGp6alRsTnJkOERKem02NFdr?oc=5",
-    "content": "K-pop powerhouse BTS say they will not submit music for 2027 Grammys myfoxzone.com",
+    "title": "K-pop powerhouse BTS say they will not submit music for 2027 Grammys - wfmynews2.com",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeURZR05iZF9DeHdHMDh0RHhGVUNxV1Jzb0N6R1lnMW1jZk9BbFpadTVFX0MzekpUQmtQNHZGamVqT1NFNHBwOG43LXlHekZpWnZTaTVNXzdpLTdrSmdvWUtORzUyQ2l3WTZndXROREFnZThhNnVFMm0ya2tGM2pmYzVfZzZ2NTYzSGV1VnZ4QTVUSHpvLXl1dDFsYnQzSF9hQUhSb2c1bi1SSkRmR2N2MGd2UkIxdnEyazZSLWJ0Q0h6Rm1RMjl5eTF3S0ZUd2JXSTRJ?oc=5",
+    "content": "K-pop powerhouse BTS say they will not submit music for 2027 Grammys wfmynews2.com",
     "published_at": "0730google-kpop",
     "published_ts": 1785349680.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "K-pop巨头BTS宣布不提交2027年格莱美奖参评作品",
+    "title_zh": "BTS宣布不提交2027年格莱美参评作品",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "BTS宣布不会为2027年格莱美奖提交参评作品",
-      "信息来源为myfoxzone.com"
+      "BTS宣布不会为2027年格莱美奖提交音乐作品",
+      "信息来源为wfmynews2.com"
     ],
-    "summary_zh": "据myfoxzone.com报道，K-pop巨头BTS宣布不会为2027年格莱美奖提交参评作品。",
-    "extracted_at": "2026-07-30T14:24:05.650505+08:00"
+    "summary_zh": "据wfmynews2.com报道，K-pop巨头BTS宣布将不会为2027年格莱美奖提交任何音乐作品。",
+    "extracted_at": "2026-07-30T18:22:16.095446+08:00"
   },
   {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
-    "title": "Watch: Kim Hye Joon Is A Successful Fan Who Faces An Impossible Choice In “My Bias, My Boss” Highlight Trailer",
+    "title": "Watch: Kim Hye Jun Is A Successful Fan Who Faces An Impossible Choice In “My Bias, My Boss” Highlight Trailer",
     "url": "https://www.soompi.com/article/1858492wpp/watch-kim-hye-joon-is-a-successful-fan-who-faces-an-impossible-choice-in-my-bias-my-boss-highlight-trailer",
-    "content": "tvN has released a highlight trailer for its upcoming drama “My Bias, My Boss”! Based on the webtoon of the same name, “My Bias, My Boss” tells the story of the romance between Nam Da Reum (Kim Hye Joon), who joins a company to meet her longtime idol bias Lee Chan (Cha Woo Min), and&#8230; Continue reading Watch: Kim Hye Joon Is A Successful Fan Who Faces An Impossible Choice In &#8220;My Bias, My Boss&#8221; Highlight Trailer\nThe post Watch: Kim Hye Joon Is A Successful Fan Who Faces An Impossible Choice In &#8220;My Bias, My Boss&#8221; Highlight Trailer appeared first on Soompi.",
+    "content": "tvN has released a highlight trailer for its upcoming drama “My Bias, My Boss”! Based on the webtoon of the same name, “My Bias, My Boss” tells the story of the romance between Nam Da Reum (Kim Hye Jun), who joins a company to meet her longtime idol bias Lee Chan (Cha Woo Min), and&#8230; Continue reading Watch: Kim Hye Jun Is A Successful Fan Who Faces An Impossible Choice In &#8220;My Bias, My Boss&#8221; Highlight Trailer\nThe post Watch: Kim Hye Jun Is A Successful Fan Who Faces An Impossible Choice In &#8220;My Bias, My Boss&#8221; Highlight Trailer appeared first on Soompi.",
     "published_at": "0730soompi",
     "published_ts": 1785349643.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "金惠峻新剧《我的偏见，我的老板》预告：成功粉丝面临艰难抉择",
+    "title_zh": "金惠峻新剧《我的本命是老板》预告：成功粉丝面临艰难抉择",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "tvN发布新剧《我的偏见，我的老板》高光预告",
-      "该剧改编自同名网络漫画，讲述金惠峻饰演的南多林为见偶像李灿（车玟优饰）而入职其公司后发生的浪漫故事"
+      "tvN发布新剧《我的本命是老板》高光预告片",
+      "该剧改编自同名网络漫画，讲述金惠峻饰演的南多林为见偶像李灿（车宇旻饰）而入职其公司后发生的浪漫故事"
     ],
-    "summary_zh": "tvN公开了新剧《我的偏见，我的老板》的高光预告。该剧改编自同名网络漫画，讲述了金惠峻饰演的南多林为了见到长期偶像李灿（车玟优饰）而加入其公司后发生的浪漫故事。预告中展现了作为成功粉丝的南多林面临一个不可能的选择。",
-    "extracted_at": "2026-07-30T14:24:08.020244+08:00"
+    "summary_zh": "tvN公开了新剧《我的本命是老板》的高光预告片。该剧改编自同名网络漫画，讲述了金惠峻饰演的南多林为见到偶像李灿（车宇旻饰）而进入其公司工作后发生的浪漫故事。预告片中，南多林作为成功粉丝面临一个不可能的选择。",
+    "extracted_at": "2026-07-30T18:22:18.486779+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -449,17 +716,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "K-Pop明星抵制2027年格莱美，因新增争议性奖项类别",
+    "title_zh": "K-Pop明星抵制2027年格莱美：因新增争议性分类拒绝提交作品",
     "source_type": "韩娱",
     "risk_level": "中",
     "is_blurred": false,
     "facts_list": [
-      "K-Pop明星决定不提交作品参选2027年格莱美奖",
-      "抵制原因：格莱美新增了一个被指具有分裂性的奖项类别",
+      "K-Pop明星拒绝提交作品参加2027年格莱美奖评选",
+      "抵制原因：格莱美新增了一个被指具有分裂性的分类",
       "信息来源：VICE报道"
     ],
-    "summary_zh": "据VICE报道，多位K-Pop明星决定不提交作品参选2027年格莱美奖，以抗议格莱美新增的一个被指具有分裂性的奖项类别。具体新增类别名称及涉及艺人名单尚未公布。",
-    "extracted_at": "2026-07-30T14:24:10.156102+08:00"
+    "summary_zh": "据VICE报道，多位K-Pop明星决定不提交作品参加2027年格莱美奖评选，原因是格莱美新增了一个被指具有分裂性的分类。具体新增分类名称及抵制艺人名单尚未公布。",
+    "extracted_at": "2026-07-30T18:22:20.503958+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -479,11 +746,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "K-pop现场音乐与杂技表演将在美国加州莫德斯托举办",
-      "具体时间与购票方式详见《莫德斯托蜜蜂报》报道"
+      "K-pop现场音乐与杂技表演将在美国加州莫德斯托举行",
+      "具体演出时间与购票方式需参考原文"
     ],
-    "summary_zh": "据《莫德斯托蜜蜂报》报道，一场融合K-pop现场音乐与杂技表演的活动即将在美国加州莫德斯托举行。报道提供了活动时间及购票方式等详细信息。",
-    "extracted_at": "2026-07-30T14:24:11.998895+08:00"
+    "summary_zh": "K-pop现场音乐与杂技表演即将在美国加州莫德斯托市上演，演出内容包括现场音乐和杂技等。具体演出时间及购票方式请参阅原文。",
+    "extracted_at": "2026-07-30T18:22:22.543614+08:00"
   },
   {
     "source_id": "soompi",
@@ -506,8 +773,8 @@
       "7月28日，KATSEYE官方宣布成员Sophia因生病无法参加Hinterland音乐节",
       "其余成员将按原计划于7月30日进行演出"
     ],
-    "summary_zh": "KATSEYE成员Sophia因生病将缺席即将举行的Hinterland音乐节。7月28日，KATSEYE官方发布公告，宣布Sophia因病无法参加演出，其余成员将按原计划于7月30日登台表演。",
-    "extracted_at": "2026-07-30T14:24:13.739751+08:00"
+    "summary_zh": "KATSEYE成员Sophia因生病将缺席即将举行的Hinterland音乐节。7月28日，KATSEYE官方发布公告，宣布Sophia无法参加该音乐节，其余成员将按原计划于7月30日登台表演。",
+    "extracted_at": "2026-07-30T18:22:24.402090+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -522,16 +789,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "防弹少年团抵制格莱美新设亚洲流行奖",
+    "title_zh": "防弹少年团抵制格莱美新增亚洲流行奖",
     "source_type": "韩娱",
     "risk_level": "中",
     "is_blurred": false,
     "facts_list": [
-      "防弹少年团因格莱美新设亚洲流行奖而决定抵制该奖项",
-      "该报道由《卫报》发布"
+      "防弹少年团宣布抵制格莱美奖，原因是格莱美新设立了亚洲流行奖类别",
+      "该报道源自《卫报》"
     ],
-    "summary_zh": "据《卫报》报道，防弹少年团（BTS）因格莱美奖新设亚洲流行奖而决定抵制该奖项。具体抵制原因和后续行动尚未详细说明。",
-    "extracted_at": "2026-07-30T14:24:15.536174+08:00"
+    "summary_zh": "据《卫报》报道，防弹少年团因格莱美奖新设亚洲流行奖类别而决定抵制该奖项。",
+    "extracted_at": "2026-07-30T18:22:26.220682+08:00"
   },
   {
     "source_id": "asianwiki",
