@@ -1,5 +1,149 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "'KPop Demon Hunters' Is Officially Back - Collider",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJZnozM29wZWN1V1VYSGlpdlk2VlVMc0cxZkdCbGVsMmRQNndLNGJPNkk1b08yZVI3ZzFMSVF3S2FCdk9rQTlQVmhMSml1MUIxd0hKbUxFaUJtODJTS1I5X094Sko0dGtQeHc?oc=5",
+    "content": "'KPop Demon Hunters' Is Officially Back Collider",
+    "published_at": "0801google-kpop",
+    "published_ts": 1785573014.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《KPop Demon Hunters》正式回归",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "事实点1：原文未提及具体行为，仅称：《KPop Demon Hunters》正式回归"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters》正式回归]",
+    "extracted_at": "2026-08-01T17:54:34.666902+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Ji Sung Is Surrounded By An Angry Mob In “The Apartment Job”",
+    "url": "https://www.soompi.com/article/1859193wpp/ji-sung-is-surrounded-by-an-angry-mob-in-the-apartment-job",
+    "content": "On the next episode of “The Apartment Job,” Ji Sung will go from the hero of his apartment complex to the target of his neighbors’ wrath! JTBC’s “The Apartment Job” tells the story of former Oasis Gang boss Park Hae Kang (Ji Sung), who runs for president of an apartment complex’s resident council in order&#8230; Continue reading Ji Sung Is Surrounded By An Angry Mob In &#8220;The Apartment Job&#8221;\nThe post Ji Sung Is Surrounded By An Angry Mob In &#8220;The Apartment Job&#8221; appeared first on Soompi.",
+    "published_at": "0801soompi",
+    "published_ts": 1785571928.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "池晟新剧《公寓任务》下集预告：被愤怒邻居围攻",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：JTBC剧集《The Apartment Job》（暂译：公寓任务）下集中，池晟饰演的前Oasis Gang头目朴海康（暂译）从公寓英雄变为邻居愤怒对象。",
+      "事实点2：该剧讲述朴海康为竞选公寓居民委员会会长而展开的故事。"
+    ],
+    "summary_zh": "JTBC剧集《The Apartment Job》（暂译：公寓任务）下集预告显示，池晟饰演的朴海康（暂译）将陷入被愤怒邻居包围的境地。该剧讲述前Oasis Gang头目朴海康为竞选公寓居民委员会会长而卷入一系列事件的故事。",
+    "extracted_at": "2026-08-01T17:54:37.454315+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Park Eun Bin Faces Off With A Furious Murderer In “Spooky In Love”",
+    "url": "https://www.soompi.com/article/1859192wpp/park-eun-bin-faces-off-with-a-furious-murderer-in-spooky-in-love",
+    "content": "tvN’s “Spooky in Love” has shared a glimpse of a life-threatening encounter between Park Eun Bin and a cold-blooded murderer! A remake of the 2011 film “Spellbound,” “Spooky in Love” is a new occult romance drama about&#160; the chaotic partnership between a hotel heiress who can see ghosts and a passionate prosecutor who is terrified&#8230; Continue reading Park Eun Bin Faces Off With A Furious Murderer In &#8220;Spooky In Love&#8221;\nThe post Park Eun Bin Faces Off With A Furious Murderer In &#8220;Spooky In Love&#8221; appeared first on Soompi.",
+    "published_at": "0801soompi",
+    "published_ts": 1785569818.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "朴恩斌新剧《Spooky in Love》与愤怒杀人魔对峙场面公开",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "tvN新剧《Spooky in Love》公开了朴恩斌与冷血杀人魔发生生命威胁性对峙的场面。",
+      "该剧翻拍自2011年电影《Spellbound》，是一部 occult 浪漫爱情剧，讲述能看见鬼魂的酒店继承人（朴恩斌饰）与害怕鬼魂的热血检察官之间的混乱合作。"
+    ],
+    "summary_zh": "tvN新剧《Spooky in Love》公开了朴恩斌与冷血杀人魔发生生命威胁性对峙的场面。该剧翻拍自2011年电影《Spellbound》，是一部 occult 浪漫爱情剧，讲述能看见鬼魂的酒店继承人（朴恩斌饰）与害怕鬼魂的热血检察官之间的混乱合作。",
+    "extracted_at": "2026-08-01T17:54:40.151502+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Namkoong Min Relentlessly Grills Lee Sang Hee After She Regains Consciousness In “The Husband”",
+    "url": "https://www.soompi.com/article/1859183wpp/namkoong-min-relentlessly-grills-lee-sang-hee-after-she-regains-consciousness-in-the-husband",
+    "content": "Namkoong Min has no intention of going easy on Lee Sang Hee on KBS 2TV’s “The Husband”! “The Husband” is a thriller drama about a man on the brink of divorce who unexpectedly becomes embroiled in a desperate fight with a dangerous criminal in order to rescue his wife. Spoilers In newly released stills from&#8230; Continue reading Namkoong Min Relentlessly Grills Lee Sang Hee After She Regains Consciousness In &#8220;The Husband&#8221;\nThe post Namkoong Min Relentlessly Grills Lee Sang Hee After She Regains Consciousness In &#8220;The Husband&#8221; appeared first on Soompi.",
+    "published_at": "0801soompi",
+    "published_ts": 1785568494.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "南宫珉在《丈夫》中对苏醒的李尚熙进行严厉盘问",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：KBS 2TV电视剧《丈夫》中，南宫珉饰演的角色在李尚熙饰演的角色恢复意识后，对其进行严厉盘问。",
+      "事实点2：该剧是一部惊悚剧，讲述一个濒临离婚的男人为救妻子而与危险罪犯展开殊死搏斗的故事。"
+    ],
+    "summary_zh": "KBS 2TV电视剧《丈夫》公开了新剧照，显示南宫珉在李尚熙恢复意识后对其严厉盘问。该剧是一部惊悚剧，讲述一个濒临离婚的男人为救妻子而与危险罪犯展开殊死搏斗的故事。",
+    "extracted_at": "2026-08-01T17:54:43.432351+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "All the K-drama favourites who won big at the 2026 Blue Dragon Series Awards - t2ONLINE",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVndKX3N3UGdJdHF5aTZoSlhvN29VcWNXNU1LT0lVVkFsb2dnVkVVTzg0TDgycm9RS3lycmFaRV9rNG13bk1Pck5hajg2ZlBSQ3NzOURncDhBeGx6WkdDMWl3Y0oxb0ZWQjUwM2VoVGlaN05mMEZjalJwRUJUT2tCVXZzVDVJUWRYYzdKdnBYMnBjem5GRDZFVE5Pd0JNbmJTV3hMaVdTUmZ2bjM5a1RlV3g0RVlDLXNDVENB?oc=5",
+    "content": "All the K-drama favourites who won big at the 2026 Blue Dragon Series Awards t2ONLINE",
+    "published_at": "0801google-kpop",
+    "published_ts": 1785568200.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "2026年青龙系列大赏：热门韩剧演员斩获大奖",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：2026年青龙系列大赏（Blue Dragon Series Awards）举行，多位热门韩剧演员获奖。",
+      "事实点2：具体获奖名单未在原文中详细列出。"
+    ],
+    "summary_zh": "2026年青龙系列大赏（Blue Dragon Series Awards）举行，多位热门韩剧演员获奖。该奖项旨在表彰优秀的韩剧及流媒体剧集。具体获奖名单及细节尚未公布。",
+    "extracted_at": "2026-08-01T17:54:45.654333+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kong Hyo Jin Goes After Person Who Threatened Her Husband Jung Jun Won In “A Bona Fide Killer”",
+    "url": "https://www.soompi.com/article/1859175wpp/kong-hyo-jin-goes-after-person-who-threatened-her-husband-jung-jun-won-in-a-bona-fide-killer",
+    "content": "MBC’s “A Bona Fide Killer” has shared a new glimpse of its upcoming second episode! Based on the hit webtoon of the same name, “A Bona Fide Killer” is an action drama about a working mother with a lethal job who is fighting to protect her work-life balance. Kong Hyo Jin will star as Yu&#8230; Continue reading Kong Hyo Jin Goes After Person Who Threatened Her Husband Jung Jun Won In &#8220;A Bona Fide Killer&#8221;\nThe post Kong Hyo Jin Goes After Person Who Threatened Her Husband Jung Jun Won In &#8220;A Bona Fide Killer&#8221; appeared first on Soompi.",
+    "published_at": "0801soompi",
+    "published_ts": 1785566019.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "孔晓振新剧《杀人者的购物中心》预告：追查威胁丈夫郑俊元之人",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "MBC剧集《杀人者的购物中心》公开第二集新预告",
+      "该剧改编自同名热门网络漫画，讲述一位拥有致命职业的职场母亲为守护工作与生活平衡而奋斗的动作剧",
+      "孔晓振饰演主角，在预告中追查威胁其丈夫郑俊元的人"
+    ],
+    "summary_zh": "MBC剧集《杀人者的购物中心》公开了第二集新预告。该剧改编自同名热门网络漫画，是一部动作剧，讲述一位拥有致命职业的职场母亲为守护工作与生活平衡而奋斗的故事。孔晓振饰演主角，在预告中，她追查威胁其丈夫郑俊元的人。",
+    "extracted_at": "2026-08-01T17:54:48.275662+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -18,10 +162,10 @@
     "is_blurred": false,
     "facts_list": [
       "KBS 2TV新剧《菜单上的爱情》讲述河锡辰饰演的金武镇与哈妮饰演的韩圭林在痛苦分手八年后重逢的故事。",
-      "河锡辰饰演的角色因与哈妮饰演的角色的关系而与母亲发生冲突。"
+      "剧中河锡辰饰演的角色因与哈妮饰演的角色的关系而与母亲发生冲突。"
     ],
-    "summary_zh": "KBS 2TV新剧《菜单上的爱情》中，河锡辰饰演的金武镇与EXID哈妮饰演的韩圭林在分手八年后重逢，但他们的恋情面临危机。河锡辰的角色因这段关系与母亲发生冲突，具体冲突细节未在原文中透露。",
-    "extracted_at": "2026-08-01T14:24:53.004287+08:00"
+    "summary_zh": "KBS 2TV新剧《菜单上的爱情》中，河锡辰饰演的金武镇与EXID哈妮饰演的韩圭林在分手八年后重逢，但两人的恋情面临危机。河锡辰的角色因这段关系与母亲发生冲突，剧情将展现母子间的矛盾。",
+    "extracted_at": "2026-08-01T17:54:51.220665+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -36,15 +180,15 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "市场快讯：凯文·沃什的困境与韩剧终局？",
+    "title_zh": "市场快讯：Kevin Warsh的困境与韩剧热潮是否终结？",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文标题提及凯文·沃什的困境（Dharam Sankat）及韩剧是否结束，但未提供具体事实。"
+      "原文未提及具体行为，仅称：市场快讯讨论Kevin Warsh的困境及韩剧是否终结。"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：市场快讯探讨凯文·沃什的困境及韩剧是否终于结束。]",
-    "extracted_at": "2026-08-01T14:24:55.156382+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：市场快讯讨论Kevin Warsh的困境及韩剧是否终结。]",
+    "extracted_at": "2026-08-01T17:54:52.896038+08:00"
   },
   {
     "source_id": "soompi",
@@ -59,16 +203,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《公寓大作战》池晟安慰泪流满面的河允景，剧情迎来转折点",
+    "title_zh": "《公寓任务》池晟安慰泪流满面的河允京，剧情迎来转折点",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "JTBC电视剧《公寓大作战》中，池晟饰演前绿洲帮老大朴海康，为竞选公寓居民委员会会长而行动。",
-      "在下一集中，池晟将安慰泪流满面的河允景，两人关系迎来转折点。"
+      "JTBC电视剧《公寓任务》中，池晟饰演前Oasis Gang老大朴海康，为竞选公寓居民委员会会长而行动",
+      "在下一集中，池晟将安慰泪流满面的河允京，两人关系迎来转折点"
     ],
-    "summary_zh": "JTBC电视剧《公寓大作战》即将播出新一集，剧情迎来转折点。池晟饰演的前绿洲帮老大朴海康，为掌控公寓而竞选居民委员会会长。在下一集中，他将安慰泪流满面的河允景，两人关系将发生重要变化。",
-    "extracted_at": "2026-08-01T14:24:58.269465+08:00"
+    "summary_zh": "JTBC电视剧《公寓任务》即将播出新一集，剧情迎来转折点。池晟饰演的前Oasis Gang老大朴海康，为了掌控公寓而竞选居民委员会会长。在下一集中，他将安慰泪流满面的河允京，两人之间的互动将发生重要变化。",
+    "extracted_at": "2026-08-01T17:54:55.538660+08:00"
   },
   {
     "source_id": "soompi",
@@ -88,11 +232,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：8月1日，Mimi所属社宣布她正在准备于本月晚些时候solo出道。",
+      "事实点1：8月1日，Mimi所属社宣布她正在准备于本月晚些时候以solo歌手身份出道。",
       "事实点2：这是Mimi自2015年随OH MY GIRL出道以来的首支个人单曲，她将发行一首自作曲单曲。"
     ],
-    "summary_zh": "OH MY GIRL成员Mimi正在准备她的正式solo出道。8月1日，她的所属社宣布她将于本月晚些时候以solo歌手身份出道。这将是Mimi自2015年随OH MY GIRL出道以来的首支个人单曲，她将发行一首自作曲单曲。",
-    "extracted_at": "2026-08-01T14:25:00.409934+08:00"
+    "summary_zh": "OH MY GIRL成员Mimi即将迎来个人出道。8月1日，其所属社宣布她正在准备于本月晚些时候以solo歌手身份出道。这将是Mimi自2015年随OH MY GIRL出道以来的首支个人单曲，她将发行一首自作曲单曲。",
+    "extracted_at": "2026-08-01T17:54:57.984358+08:00"
   },
   {
     "source_id": "soompi",
@@ -112,12 +256,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：朴恩斌主演的tvN新剧《Spooky in Love》翻拍自2011年电影《Spellbound》",
-      "事实点2：该剧是一部奇幻爱情剧，讲述能看见鬼魂的酒店继承人（朴恩斌饰）与害怕鬼魂的热血检察官之间的混乱合作",
-      "事实点3：朴恩斌在剧中将遇到一位来自朝鲜时代的鬼魂客户"
+      "事实点1：tvN新剧《Spooky in Love》翻拍自2011年电影《Spellbound》，是一部 occult 浪漫喜剧。",
+      "事实点2：该剧讲述能看到鬼魂的酒店继承人（朴恩斌饰）与害怕鬼魂的热血检察官之间的混乱合作。",
+      "事实点3：朴恩斌饰演的角色在剧中将遇到一位来自朝鲜时代的鬼魂客户。"
     ],
-    "summary_zh": "朴恩斌主演的tvN新剧《Spooky in Love》翻拍自2011年电影《Spellbound》，是一部奇幻爱情剧，讲述能看见鬼魂的酒店继承人与害怕鬼魂的热血检察官之间的混乱合作。朴恩斌在剧中将遇到一位来自朝鲜时代的鬼魂客户。",
-    "extracted_at": "2026-08-01T14:25:03.109442+08:00"
+    "summary_zh": "tvN新剧《Spooky in Love》翻拍自2011年电影《Spellbound》，是一部 occult 浪漫喜剧，讲述能看到鬼魂的酒店继承人（朴恩斌饰）与害怕鬼魂的热血检察官之间的混乱合作。最新剧透显示，朴恩斌饰演的角色将遇到一位来自朝鲜时代的鬼魂客户。",
+    "extracted_at": "2026-08-01T17:55:01.020358+08:00"
   },
   {
     "source_id": "soompi",
@@ -137,11 +281,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "JTBC电视剧《公寓任务》中，池晟饰演的前Oasis Gang头目朴海康为获取公寓隐藏储备金而竞选居民委员长。",
-      "剧中，朴海康的假家人为他举办惊喜生日派对，池晟被感动。"
+      "JTBC电视剧《公寓任务》中，池晟饰演的前Oasis Gang老大朴海康为获取公寓隐藏储备金而竞选居民委员会主席。",
+      "剧中，池晟的假家人为他举办惊喜生日派对，池晟被感动。"
     ],
-    "summary_zh": "JTBC电视剧《公寓任务》中，池晟饰演的前Oasis Gang头目朴海康为获取公寓隐藏储备金而竞选居民委员长。在最新剧情中，他的假家人为他举办了一场惊喜生日派对，池晟被这份心意深深打动。",
-    "extracted_at": "2026-08-01T14:25:05.605874+08:00"
+    "summary_zh": "JTBC电视剧《公寓任务》中，池晟饰演的前Oasis Gang老大朴海康为获取公寓隐藏储备金而竞选居民委员会主席。在最新剧情中，他的假家人为他举办了一场惊喜生日派对，池晟被这份心意深深打动。",
+    "extracted_at": "2026-08-01T17:55:03.378968+08:00"
   },
   {
     "source_id": "soompi",
@@ -161,11 +305,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：7月31日，MBC新剧《A Bona Fide Killer》（暂译：杀人者的购物中心）首播。",
-      "事实点2：据尼尔森韩国数据，该剧第一集在全国范围内平均收视率位居同时段所有频道第一。"
+      "事实点1：7月31日，MBC新剧《A Bona Fide Killer》首播。",
+      "事实点2：据尼尔森韩国数据，该剧第一集在全国范围内同时段所有频道中收视率排名第一。"
     ],
-    "summary_zh": "MBC新剧《A Bona Fide Killer》（暂译：杀人者的购物中心）于7月31日首播，由孔晓振主演。据尼尔森韩国数据，该剧第一集在全国范围内平均收视率位居同时段所有频道第一，取得良好开局。",
-    "extracted_at": "2026-08-01T14:25:08.086161+08:00"
+    "summary_zh": "MBC新剧《A Bona Fide Killer》于7月31日首播，由孔晓振主演，首集收视率表现强劲。根据尼尔森韩国的数据，该剧第一集在全国范围内同时段所有频道中收视率位居第一。",
+    "extracted_at": "2026-08-01T17:55:05.837293+08:00"
   },
   {
     "source_id": "soompi",
@@ -186,34 +330,11 @@
     "is_blurred": false,
     "facts_list": [
       "事实点1：文章列举了11部韩剧，其中同一K-Pop组合的多名成员共同出演。",
-      "事实点2：这些成员在剧中扮演对手、好友或浪漫主角等角色。"
+      "事实点2：这些成员在剧中扮演对手、好友或浪漫主角等角色。",
+      "事实点3：文章发布于Soompi网站。"
     ],
-    "summary_zh": "该文章盘点了11部韩剧，这些剧集的特点是同一K-Pop组合的多名成员共同出演。文章指出，偶像跨界演戏并不新鲜，但同组合成员同框会带来特别的趣味和魅力，无论是饰演对手、好友还是浪漫主角，都为观众提供了额外的娱乐性。",
-    "extracted_at": "2026-08-01T14:25:10.581063+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "BTS’ Jimin hits 2.5 billion Spotify streams with ‘Who’ - The Korea Herald",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LZnV5YTFMeHlmT3dUc3ZJR0d4NWlzNUdxUUFpZHhQS0JjRnpNRDRYRmhXVjRGWUNwdXhUaF9QaEZZeklocS1EdXExZUx3M2NVNXEtNHg2cw?oc=5",
-    "content": "BTS’ Jimin hits 2.5 billion Spotify streams with ‘Who’ The Korea Herald",
-    "published_at": "0801google-kpop",
-    "published_ts": 1785548297.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "BTS Jimin《Who》Spotify播放量突破25亿次",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：BTS成员Jimin的歌曲《Who》在Spotify上的播放量达到25亿次。",
-      "事实点2：该消息由The Korea Herald报道。"
-    ],
-    "summary_zh": "据The Korea Herald报道，BTS成员Jimin的歌曲《Who》在Spotify上的播放量已突破25亿次，展现了其强大的全球影响力。",
-    "extracted_at": "2026-08-01T14:25:12.288837+08:00"
+    "summary_zh": "该文章盘点了11部韩剧，这些剧集的特点是同一K-Pop组合的多名成员共同出演。文章指出，偶像跨界演戏并不新鲜，但同组合成员同框会带来特别的趣味和魅力，他们可能饰演对手、好友或恋人等角色，为观众提供额外的娱乐体验。文章未提及具体剧名或组合名称。",
+    "extracted_at": "2026-08-01T17:55:08.898924+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -234,34 +355,34 @@
     "is_blurred": false,
     "facts_list": [
       "事实点1：ENHYPEN成为首个在骁龙体育场（Snapdragon Stadium）演出的K-pop组合",
-      "事实点2：该信息由The Daily Aztec报道"
+      "事实点2：该体育场位于美国，具体地点未在原文中提及"
     ],
-    "summary_zh": "据The Daily Aztec报道，韩国男子组合ENHYPEN成为首个在骁龙体育场（Snapdragon Stadium）演出的K-pop组合。这一成就标志着K-pop在海外演出市场的进一步拓展。",
-    "extracted_at": "2026-08-01T14:25:14.256282+08:00"
+    "summary_zh": "据The Daily Aztec报道，韩国男子组合ENHYPEN成为首个在美国骁龙体育场（Snapdragon Stadium）进行演出的K-pop组合。这一成就标志着K-pop在海外演出市场的进一步拓展。",
+    "extracted_at": "2026-08-01T17:55:11.276017+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "Listen: K-pop boy band CORTIS and rapper Juicy J drop new collab MOTION - Contactmusic.com",
+    "title": "Listen: K-pop boy band CORTIS and rapper Juicy J drop new collab MOTION - contactmusic.com",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPczBYUkc1UWtTYkM5UUFqbFAyS1hNMUZkNjF3VWdoRF91SmIySHJQcFRBc3JsZFVXQXJVWl9lMGo0elozZG9lb3BYR09lbFZFTG9tSXQ1SXRyejlVTW9ZVXdDTjlXc2RmaExrSlo2cnFDamRENUFjVnM2YmFYcVNBaHJObnFHY2V0b2hfclZOT2t6NE1DUmpLSkx5QnJxZVhjV05ZcnBGUGc0ZVFRZzVXMWxsMXNsTzVa?oc=5",
-    "content": "Listen: K-pop boy band CORTIS and rapper Juicy J drop new collab MOTION Contactmusic.com",
+    "content": "Listen: K-pop boy band CORTIS and rapper Juicy J drop new collab MOTION contactmusic.com",
     "published_at": "0801google-kpop",
     "published_ts": 1785541210.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "K-pop男团CORTIS与说唱歌手Juicy J合作新曲《MOTION》发布",
+    "title_zh": "K-pop男团CORTIS联手说唱歌手Juicy J发布新合作曲《MOTION》",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "K-pop男团CORTIS与说唱歌手Juicy J合作发布新曲《MOTION》",
-      "该消息由Contactmusic.com报道"
+      "该消息由contactmusic.com报道"
     ],
-    "summary_zh": "据Contactmusic.com报道，K-pop男团CORTIS与知名说唱歌手Juicy J合作的新曲《MOTION》已发布。此次合作是CORTIS与海外艺人的一次跨界合作，融合了K-pop与嘻哈风格，引发了粉丝的关注。",
-    "extracted_at": "2026-08-01T14:25:16.496789+08:00"
+    "summary_zh": "据contactmusic.com报道，K-pop男团CORTIS与知名说唱歌手Juicy J合作，发布了新曲《MOTION》。此次合作是CORTIS在音乐风格上的新尝试，融合了K-pop与嘻哈元素，为粉丝带来全新听觉体验。",
+    "extracted_at": "2026-08-01T17:55:14.084945+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -281,11 +402,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：Billboard报道，《KPop Demon Hunters》推出新款手机挂件（Phone Huggers）",
-      "事实点2：该产品延续了盲盒（Blind Box）的销售模式"
+      "事实点1：KPop Demon Hunters推出新款手机挂件（Phone Huggers），延续盲盒趋势。",
+      "事实点2：该产品由Billboard报道，具体发售日期、价格及销售渠道未提及。"
     ],
-    "summary_zh": "据Billboard报道，韩国娱乐IP《KPop Demon Hunters》继续其盲盒系列，推出新款手机挂件（Phone Huggers）。该产品延续了盲盒的随机抽取模式，吸引粉丝购买。",
-    "extracted_at": "2026-08-01T14:25:18.692386+08:00"
+    "summary_zh": "据Billboard报道，KPop Demon Hunters系列继续其盲盒营销策略，推出新款手机挂件（Phone Huggers）。该产品延续了盲盒的随机抽取模式，但报道未提供具体发售日期、价格或销售渠道等详细信息。",
+    "extracted_at": "2026-08-01T17:55:16.131199+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -305,11 +426,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：KPop Demon Hunters推出新款手机挂件（Phone Huggers），延续盲盒趋势。",
-      "事实点2：该产品属于盲盒系列，具体款式和发售信息未在原文中提及。"
+      "《KPop Demon Hunters》推出新款手机挂件（Phone Huggers），延续盲盒趋势。",
+      "该产品由Yahoo报道，具体发售日期、价格及销售渠道未提及。"
     ],
-    "summary_zh": "据Yahoo报道，KPop Demon Hunters品牌继续其盲盒系列，推出了新款手机挂件（Phone Huggers）。该产品延续了盲盒的随机抽取模式，但原文未提供具体款式、价格或发售日期等详细信息。",
-    "extracted_at": "2026-08-01T14:25:21.237488+08:00"
+    "summary_zh": "据Yahoo报道，《KPop Demon Hunters》系列继续其盲盒产品线，最新推出名为“Phone Huggers”的手机挂件。该产品延续了盲盒的随机抽取模式，但报道未提供具体发售日期、价格或销售渠道等详细信息。",
+    "extracted_at": "2026-08-01T17:55:18.982235+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -332,8 +453,8 @@
       "事实点1：Rei Ami（来自《KPop恶魔猎人》）与喜剧演员Ken Jeong共同参与《鲨鱼周》节目。",
       "事实点2：该消息由Aurora Sentinel报道。"
     ],
-    "summary_zh": "据Aurora Sentinel报道，来自《KPop恶魔猎人》的Rei Ami与喜剧演员Ken Jeong一同参与了《鲨鱼周》节目。具体节目内容及播出细节未在原文中提及。",
-    "extracted_at": "2026-08-01T14:25:23.284567+08:00"
+    "summary_zh": "据Aurora Sentinel报道，来自《KPop恶魔猎人》的Rei Ami与喜剧演员Ken Jeong共同参与了《鲨鱼周》节目。具体节目内容及播出时间未在原文中提及。",
+    "extracted_at": "2026-08-01T17:55:21.066944+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -348,16 +469,15 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "iHeartRadio KPOP舞台现场体验：AtHeart专访",
+    "title_zh": "iHeartRadio KPOP舞台现场体验AtHeart表演",
     "source_type": "韩娱",
     "risk_level": "低",
-    "is_blurred": false,
+    "is_blurred": true,
     "facts_list": [
-      "事实点1：AtHeart在iHeartRadio KPOP舞台进行了现场表演",
-      "事实点2：该报道由mamasgeeky.com发布"
+      "事实点1：在iHeartRadio KPOP舞台上，AtHeart进行了现场表演。"
     ],
-    "summary_zh": "本文报道了在iHeartRadio KPOP舞台上体验AtHeart现场表演的经历。文章由mamasgeeky.com发布，主要描述了现场氛围和表演感受，但未提及具体曲目、时间或数据。",
-    "extracted_at": "2026-08-01T14:25:25.279208+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：在iHeartRadio KPOP舞台上体验AtHeart的现场表演。]",
+    "extracted_at": "2026-08-01T17:55:23.039000+08:00"
   },
   {
     "source_id": "soompi",
@@ -372,17 +492,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "第5届青龙系列大赏获奖名单揭晓，金高银获最高荣誉",
+    "title_zh": "第5届蓝龙系列奖获奖名单揭晓，金高银获大奖",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：第5届青龙系列大赏于7月31日举行，由林允儿和全炫茂主持。",
-      "事实点2：该颁奖礼是韩国首个专门针对流媒体平台的颁奖典礼。",
-      "事实点3：最高大赏由金高银凭借作品《柔美的细胞小将》获得。"
+      "事实点1：第5届蓝龙系列奖于7月31日举行，由林允儿和全炫茂主持。",
+      "事实点2：金高银凭借在《You and...》中的角色获得大奖。"
     ],
-    "summary_zh": "第5届青龙系列大赏于7月31日举行，由林允儿和全炫茂主持，这是韩国首个专门针对流媒体平台的颁奖典礼。最高大赏由金高银凭借在《柔美的细胞小将》中的表现获得。",
-    "extracted_at": "2026-08-01T14:25:27.701913+08:00"
+    "summary_zh": "第5届蓝龙系列奖于7月31日举行，这是韩国首个专门针对流媒体平台的颁奖典礼，由林允儿和全炫茂主持。金高银凭借在《You and...》中的角色获得大奖。完整获奖名单已公布。",
+    "extracted_at": "2026-08-01T17:55:25.575459+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -405,16 +524,16 @@
       "事实点1：BTS组合回归，引发美国经济热潮",
       "事实点2：该报道由《卫报》发布"
     ],
-    "summary_zh": "据《卫报》报道，韩国男子组合BTS的回归在美国引发了经济热潮。报道指出，BTS作为K-pop巨星，其回归不仅受到粉丝热烈欢迎，还带动了相关经济活动，显示出巨大的市场影响力。",
-    "extracted_at": "2026-08-01T14:25:30.153897+08:00"
+    "summary_zh": "据《卫报》报道，韩国男子组合BTS的回归在美国引发了经济热潮。报道指出，BTS作为K-pop超级巨星，其回归不仅受到粉丝热烈欢迎，还带动了相关经济活动，对美国经济产生了积极影响。",
+    "extracted_at": "2026-08-01T17:55:27.967532+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "CORTIS and Juicy J cook up some red-hot beats with digital single MOTION - t2online.in",
+    "title": "CORTIS and Juicy J cook up some red-hot beats with digital single MOTION - t2ONLINE",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTHZoWG40dXZDclBPUDVvZHprdlp4eXRQeldVajJkUmE3a3poeDRCTGtqWUNuMGtJSHJRb1lTZ3lDNzlwVFNSUkdkMUdka19CdU1oY1dhNUVfR0FaY0pUQlYzT0JVbUtoNXlNellwSGNBRXlhOV91ZHVMWVRDX2Jpb2tQYzhQZ3VtU0RBVHFxRG5WQmNDTENrWjRsVFRkWFJDczJDQWxFTkVSTS1LSENQRUJB?oc=5",
-    "content": "CORTIS and Juicy J cook up some red-hot beats with digital single MOTION t2online.in",
+    "content": "CORTIS and Juicy J cook up some red-hot beats with digital single MOTION t2ONLINE",
     "published_at": "0801google-kpop",
     "published_ts": 1785514440.0,
     "category": "韩娱",
@@ -426,11 +545,10 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：CORTIS与Juicy J合作，推出数字单曲《MOTION》。",
-      "事实点2：该单曲被描述为“红热节拍”（red-hot beats）。"
+      "事实点1：CORTIS与Juicy J合作推出数字单曲《MOTION》"
     ],
-    "summary_zh": "CORTIS与Juicy J合作，推出了数字单曲《MOTION》。该单曲以“红热节拍”为特色，展现了两位音乐人的合作。",
-    "extracted_at": "2026-08-01T14:25:32.191694+08:00"
+    "summary_zh": "CORTIS与Juicy J合作推出数字单曲《MOTION》，该单曲以火热的节奏为特点。",
+    "extracted_at": "2026-08-01T17:55:29.861394+08:00"
   },
   {
     "source_id": "asianwiki",
