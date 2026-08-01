@@ -3,9 +3,9 @@
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "'KPop Demon Hunters' Is Officially Back - Collider",
+    "title": "'KPop Demon Hunters' Is Officially Back - collider.com",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJZnozM29wZWN1V1VYSGlpdlk2VlVMc0cxZkdCbGVsMmRQNndLNGJPNkk1b08yZVI3ZzFMSVF3S2FCdk9rQTlQVmhMSml1MUIxd0hKbUxFaUJtODJTS1I5X094Sko0dGtQeHc?oc=5",
-    "content": "'KPop Demon Hunters' Is Officially Back Collider",
+    "content": "'KPop Demon Hunters' Is Officially Back collider.com",
     "published_at": "0801google-kpop",
     "published_ts": 1785573014.0,
     "category": "韩娱",
@@ -17,10 +17,10 @@
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "事实点1：原文未提及具体行为，仅称：《KPop Demon Hunters》正式回归"
+      "事实点1：原文未提及具体回归时间、平台或内容细节，仅宣布《KPop Demon Hunters》正式回归。"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters》正式回归]",
-    "extracted_at": "2026-08-01T17:54:34.666902+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters》正式回归。]",
+    "extracted_at": "2026-08-01T21:10:09.854880+08:00"
   },
   {
     "source_id": "soompi",
@@ -35,16 +35,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "池晟新剧《公寓任务》下集预告：被愤怒邻居围攻",
+    "title_zh": "池晟新剧《公寓任务》下集预告：被愤怒邻居包围",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：JTBC剧集《The Apartment Job》（暂译：公寓任务）下集中，池晟饰演的前Oasis Gang头目朴海康（暂译）从公寓英雄变为邻居愤怒对象。",
-      "事实点2：该剧讲述朴海康为竞选公寓居民委员会会长而展开的故事。"
+      "事实点1：JTBC剧集《公寓任务》下集中，池晟饰演的前Oasis Gang头目朴海康从公寓英雄变为邻居愤怒对象。",
+      "事实点2：该剧讲述朴海康为竞选公寓居民委员会主席而展开的故事。"
     ],
-    "summary_zh": "JTBC剧集《The Apartment Job》（暂译：公寓任务）下集预告显示，池晟饰演的朴海康（暂译）将陷入被愤怒邻居包围的境地。该剧讲述前Oasis Gang头目朴海康为竞选公寓居民委员会会长而卷入一系列事件的故事。",
-    "extracted_at": "2026-08-01T17:54:37.454315+08:00"
+    "summary_zh": "JTBC剧集《公寓任务》发布下集预告，池晟饰演的朴海康（前Oasis Gang头目）在公寓内被愤怒的邻居们包围。此前他是公寓的英雄，如今却成为众矢之的。该剧围绕他竞选公寓居民委员会主席的历程展开。",
+    "extracted_at": "2026-08-01T21:10:12.748591+08:00"
   },
   {
     "source_id": "soompi",
@@ -65,10 +65,10 @@
     "is_blurred": false,
     "facts_list": [
       "tvN新剧《Spooky in Love》公开了朴恩斌与冷血杀人魔发生生命威胁性对峙的场面。",
-      "该剧翻拍自2011年电影《Spellbound》，是一部 occult 浪漫爱情剧，讲述能看见鬼魂的酒店继承人（朴恩斌饰）与害怕鬼魂的热血检察官之间的混乱合作。"
+      "该剧翻拍自2011年电影《Spellbound》，讲述能看见鬼魂的酒店继承人（朴恩斌饰）与害怕鬼魂的热血检察官之间的混乱合作。"
     ],
-    "summary_zh": "tvN新剧《Spooky in Love》公开了朴恩斌与冷血杀人魔发生生命威胁性对峙的场面。该剧翻拍自2011年电影《Spellbound》，是一部 occult 浪漫爱情剧，讲述能看见鬼魂的酒店继承人（朴恩斌饰）与害怕鬼魂的热血检察官之间的混乱合作。",
-    "extracted_at": "2026-08-01T17:54:40.151502+08:00"
+    "summary_zh": "tvN新剧《Spooky in Love》公开了朴恩斌与冷血杀人魔发生生命威胁性对峙的场面。该剧翻拍自2011年电影《Spellbound》，是一部新的灵异爱情剧，讲述能看见鬼魂的酒店继承人与害怕鬼魂的热血检察官之间的混乱合作。",
+    "extracted_at": "2026-08-01T21:10:16.077472+08:00"
   },
   {
     "source_id": "soompi",
@@ -83,7 +83,7 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "南宫珉在《丈夫》中对苏醒的李尚熙进行严厉盘问",
+    "title_zh": "南宫珉在《丈夫》中毫不留情地盘问苏醒后的李尚熙",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
@@ -91,8 +91,8 @@
       "事实点1：KBS 2TV电视剧《丈夫》中，南宫珉饰演的角色在李尚熙饰演的角色恢复意识后，对其进行严厉盘问。",
       "事实点2：该剧是一部惊悚剧，讲述一个濒临离婚的男人为救妻子而与危险罪犯展开殊死搏斗的故事。"
     ],
-    "summary_zh": "KBS 2TV电视剧《丈夫》公开了新剧照，显示南宫珉在李尚熙恢复意识后对其严厉盘问。该剧是一部惊悚剧，讲述一个濒临离婚的男人为救妻子而与危险罪犯展开殊死搏斗的故事。",
-    "extracted_at": "2026-08-01T17:54:43.432351+08:00"
+    "summary_zh": "KBS 2TV电视剧《丈夫》公开了新剧照，显示南宫珉在李尚熙恢复意识后毫不留情地盘问她。该剧是一部惊悚剧，讲述一个濒临离婚的男人为救妻子而与危险罪犯展开殊死搏斗的故事。",
+    "extracted_at": "2026-08-01T21:10:18.518956+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -112,11 +112,35 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：2026年青龙系列大赏（Blue Dragon Series Awards）举行，多位热门韩剧演员获奖。",
-      "事实点2：具体获奖名单未在原文中详细列出。"
+      "事实点1：2026年青龙系列大赏颁奖典礼举行，多位热门韩剧演员获奖。",
+      "事实点2：具体获奖名单及奖项细节未在原文中提及。"
     ],
-    "summary_zh": "2026年青龙系列大赏（Blue Dragon Series Awards）举行，多位热门韩剧演员获奖。该奖项旨在表彰优秀的韩剧及流媒体剧集。具体获奖名单及细节尚未公布。",
-    "extracted_at": "2026-08-01T17:54:45.654333+08:00"
+    "summary_zh": "2026年青龙系列大赏颁奖典礼举行，多位热门韩剧演员斩获大奖。该奖项旨在表彰优秀的韩剧及流媒体剧集，获奖者包括观众喜爱的演员和作品。具体获奖名单及奖项细节未在原文中详细列出。",
+    "extracted_at": "2026-08-01T21:10:20.649980+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "10 Korean Dramas You Need to Be Watching in August 2026 - Kdrama Kisses -",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMDR0MzVlYVhCQkxxclkza3BpTzdmbG5zQVpDUko4Nm84SHZ6NngybjBZWU13YXMzaXozRFBjQ1drMG1QOWZmTVh4OEFvUm5ucmZYX2xqcWstd09NaEEwSEZKdmhmZDBPdFJkWUNyNzZYanlOSzdFNzA5MXhYMWtKRWhxcW84Z2RkUzRnWl9PMHJIWGFkV0VF?oc=5",
+    "content": "10 Korean Dramas You Need to Be Watching in August 2026 Kdrama Kisses -",
+    "published_at": "0801google-kpop",
+    "published_ts": 1785567655.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "2026年8月必看10部韩剧推荐",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "事实点1：文章标题为《2026年8月必看10部韩剧推荐》，来源为Kdrama Kisses。",
+      "事实点2：原文未提及具体剧名、播出平台、演员或播出时间等具体信息。"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：2026年8月有10部韩剧值得观看。]",
+    "extracted_at": "2026-08-01T21:10:22.577528+08:00"
   },
   {
     "source_id": "soompi",
@@ -136,12 +160,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "MBC剧集《杀人者的购物中心》公开第二集新预告",
-      "该剧改编自同名热门网络漫画，讲述一位拥有致命职业的职场母亲为守护工作与生活平衡而奋斗的动作剧",
-      "孔晓振饰演主角，在预告中追查威胁其丈夫郑俊元的人"
+      "MBC新剧《杀人者的购物中心》公开第二集新预告。",
+      "该剧改编自同名热门网络漫画，讲述一位拥有致命职业的职场妈妈为守护工作与生活平衡而奋斗的动作剧。",
+      "孔晓振饰演主角，在预告中追查威胁其丈夫郑俊元的人。"
     ],
-    "summary_zh": "MBC剧集《杀人者的购物中心》公开了第二集新预告。该剧改编自同名热门网络漫画，是一部动作剧，讲述一位拥有致命职业的职场母亲为守护工作与生活平衡而奋斗的故事。孔晓振饰演主角，在预告中，她追查威胁其丈夫郑俊元的人。",
-    "extracted_at": "2026-08-01T17:54:48.275662+08:00"
+    "summary_zh": "MBC新剧《杀人者的购物中心》公开第二集预告。该剧改编自同名热门网络漫画，是一部动作剧，讲述一位拥有致命职业的职场妈妈为守护工作与生活平衡而奋斗的故事。孔晓振饰演主角，在预告中追查威胁其丈夫郑俊元的人。",
+    "extracted_at": "2026-08-01T21:10:25.220861+08:00"
   },
   {
     "source_id": "soompi",
@@ -156,39 +180,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《菜单上的爱情》河锡辰与EXID哈妮恋情遭母亲反对，母子冲突一触即发",
+    "title_zh": "《菜单上的爱情》河锡辰与母亲因与EXID哈妮的关系发生冲突",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "KBS 2TV新剧《菜单上的爱情》讲述河锡辰饰演的金武镇与哈妮饰演的韩圭林在痛苦分手八年后重逢的故事。",
-      "剧中河锡辰饰演的角色因与哈妮饰演的角色的关系而与母亲发生冲突。"
+      "事实点1：KBS 2TV新剧《菜单上的爱情》中，河锡辰饰演的金武镇与EXID哈妮饰演的韩圭琳在痛苦分手八年后重逢。",
+      "事实点2：河锡辰饰演的角色与母亲因与哈妮饰演的角色之间的关系发生冲突。"
     ],
-    "summary_zh": "KBS 2TV新剧《菜单上的爱情》中，河锡辰饰演的金武镇与EXID哈妮饰演的韩圭林在分手八年后重逢，但两人的恋情面临危机。河锡辰的角色因这段关系与母亲发生冲突，剧情将展现母子间的矛盾。",
-    "extracted_at": "2026-08-01T17:54:51.220665+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Markets Espresso: The Dharam Sankat of Kevin Warsh and is the K-drama finally over? - LinkedIn",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbll6MHRiVWw2NTB1d0kxdXpaQS1PLTVIamtPWnRLVTQtd2xjNG1uSkU2RU1ER05xZU00TkFxY2Yxcy1DeFNYb2JkcFZ5cm9MVnUwN05hSE9XckRVLWhZSlExdTc0d0ktb0FDWDA1dnJlUTljOUNDZkJQUlhlS1k3ZXpZZS1CMEdNdjYtMUZvSFVoZmxTZmFZSzNyYi1OUk5pbkFQRklsbFk3SGxTMW90S09PZnlKS09GY2c?oc=5",
-    "content": "Markets Espresso: The Dharam Sankat of Kevin Warsh and is the K-drama finally over? LinkedIn",
-    "published_at": "0801google-kpop",
-    "published_ts": 1785562223.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "市场快讯：Kevin Warsh的困境与韩剧热潮是否终结？",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "原文未提及具体行为，仅称：市场快讯讨论Kevin Warsh的困境及韩剧是否终结。"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：市场快讯讨论Kevin Warsh的困境及韩剧是否终结。]",
-    "extracted_at": "2026-08-01T17:54:52.896038+08:00"
+    "summary_zh": "KBS 2TV新剧《菜单上的爱情》中，河锡辰饰演的金武镇与EXID哈妮饰演的韩圭琳在痛苦分手八年后重逢，但他们的恋情将面临意外危机。河锡辰的角色与母亲因与哈妮饰演的角色之间的关系发生冲突。",
+    "extracted_at": "2026-08-01T21:10:27.996731+08:00"
   },
   {
     "source_id": "soompi",
@@ -208,11 +209,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "JTBC电视剧《公寓任务》中，池晟饰演前Oasis Gang老大朴海康，为竞选公寓居民委员会会长而行动",
-      "在下一集中，池晟将安慰泪流满面的河允京，两人关系迎来转折点"
+      "JTBC电视剧《公寓任务》下一集中，池晟饰演的朴海康将安慰河允京饰演的角色，两人关系迎来转折点。",
+      "该剧讲述前Oasis帮派老大朴海康为竞选公寓居民委员会主席而展开的故事。"
     ],
-    "summary_zh": "JTBC电视剧《公寓任务》即将播出新一集，剧情迎来转折点。池晟饰演的前Oasis Gang老大朴海康，为了掌控公寓而竞选居民委员会会长。在下一集中，他将安慰泪流满面的河允京，两人之间的互动将发生重要变化。",
-    "extracted_at": "2026-08-01T17:54:55.538660+08:00"
+    "summary_zh": "JTBC电视剧《公寓任务》即将播出新一集，池晟饰演的朴海康将安慰河允京饰演的角色，两人关系迎来转折点。该剧讲述前Oasis帮派老大朴海康为竞选公寓居民委员会主席而展开的故事。",
+    "extracted_at": "2026-08-01T21:10:30.579896+08:00"
   },
   {
     "source_id": "soompi",
@@ -232,11 +233,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：8月1日，Mimi所属社宣布她正在准备于本月晚些时候以solo歌手身份出道。",
-      "事实点2：这是Mimi自2015年随OH MY GIRL出道以来的首支个人单曲，她将发行一首自作曲单曲。"
+      "事实点1：8月1日，Mimi所属社宣布她正在准备以solo歌手身份出道。",
+      "事实点2：Mimi将于本月晚些时候发行自作曲单曲，这是她2015年随OH MY GIRL出道后的首支个人单曲。"
     ],
-    "summary_zh": "OH MY GIRL成员Mimi即将迎来个人出道。8月1日，其所属社宣布她正在准备于本月晚些时候以solo歌手身份出道。这将是Mimi自2015年随OH MY GIRL出道以来的首支个人单曲，她将发行一首自作曲单曲。",
-    "extracted_at": "2026-08-01T17:54:57.984358+08:00"
+    "summary_zh": "OH MY GIRL成员Mimi即将solo出道。8月1日，其所属社宣布她正在准备于本月晚些时候以solo歌手身份出道。Mimi将发行一首自作曲单曲，这将是她在2015年随OH MY GIRL出道后的首支个人单曲。",
+    "extracted_at": "2026-08-01T21:10:33.662382+08:00"
   },
   {
     "source_id": "soompi",
@@ -258,10 +259,10 @@
     "facts_list": [
       "事实点1：tvN新剧《Spooky in Love》翻拍自2011年电影《Spellbound》，是一部 occult 浪漫喜剧。",
       "事实点2：该剧讲述能看到鬼魂的酒店继承人（朴恩斌饰）与害怕鬼魂的热血检察官之间的混乱合作。",
-      "事实点3：朴恩斌饰演的角色在剧中将遇到一位来自朝鲜时代的鬼魂客户。"
+      "事实点3：朴恩斌在剧中将遇到一位来自朝鲜时代的鬼魂客户。"
     ],
-    "summary_zh": "tvN新剧《Spooky in Love》翻拍自2011年电影《Spellbound》，是一部 occult 浪漫喜剧，讲述能看到鬼魂的酒店继承人（朴恩斌饰）与害怕鬼魂的热血检察官之间的混乱合作。最新剧透显示，朴恩斌饰演的角色将遇到一位来自朝鲜时代的鬼魂客户。",
-    "extracted_at": "2026-08-01T17:55:01.020358+08:00"
+    "summary_zh": "tvN新剧《Spooky in Love》翻拍自2011年电影《Spellbound》，是一部 occult 浪漫喜剧，讲述能看到鬼魂的酒店继承人（朴恩斌饰）与害怕鬼魂的热血检察官之间的混乱合作。朴恩斌在剧中将遇到一位来自朝鲜时代的鬼魂客户。",
+    "extracted_at": "2026-08-01T21:10:36.980800+08:00"
   },
   {
     "source_id": "soompi",
@@ -276,16 +277,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "池晟在《公寓任务》中被假家人惊喜庆生感动落泪",
+    "title_zh": "池晟在《公寓工作》中被假家人惊喜庆生感动落泪",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "JTBC电视剧《公寓任务》中，池晟饰演的前Oasis Gang老大朴海康为获取公寓隐藏储备金而竞选居民委员会主席。",
+      "JTBC电视剧《公寓工作》中，池晟饰演的前Oasis Gang老大朴海康为获取公寓隐藏储备金而竞选居民代表。",
       "剧中，池晟的假家人为他举办惊喜生日派对，池晟被感动。"
     ],
-    "summary_zh": "JTBC电视剧《公寓任务》中，池晟饰演的前Oasis Gang老大朴海康为获取公寓隐藏储备金而竞选居民委员会主席。在最新剧情中，他的假家人为他举办了一场惊喜生日派对，池晟被这份心意深深打动。",
-    "extracted_at": "2026-08-01T17:55:03.378968+08:00"
+    "summary_zh": "JTBC电视剧《公寓工作》中，池晟饰演的前Oasis Gang老大朴海康为获取公寓隐藏储备金而竞选居民代表。在最新剧情中，他的假家人为他举办了一场惊喜生日派对，池晟被这份心意深深打动。",
+    "extracted_at": "2026-08-01T21:10:39.378257+08:00"
   },
   {
     "source_id": "soompi",
@@ -300,16 +301,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《杀人者的购物中心》首播收视夺冠，孔晓振新剧开门红",
+    "title_zh": "孔孝真新剧《杀人者的购物中心》首播收视夺冠",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：7月31日，MBC新剧《A Bona Fide Killer》首播。",
-      "事实点2：据尼尔森韩国数据，该剧第一集在全国范围内同时段所有频道中收视率排名第一。"
+      "事实点1：7月31日，MBC新动作剧《A Bona Fide Killer》首播，由孔孝真主演。",
+      "事实点2：据尼尔森韩国数据，该剧首集在全国范围内同时段所有频道中收视率排名第一。"
     ],
-    "summary_zh": "MBC新剧《A Bona Fide Killer》于7月31日首播，由孔晓振主演，首集收视率表现强劲。根据尼尔森韩国的数据，该剧第一集在全国范围内同时段所有频道中收视率位居第一。",
-    "extracted_at": "2026-08-01T17:55:05.837293+08:00"
+    "summary_zh": "MBC新剧《A Bona Fide Killer》于7月31日首播，由孔孝真主演，首播收视率表现强劲。据尼尔森韩国数据，该剧首集在全国范围内同时段所有频道中收视率排名第一。",
+    "extracted_at": "2026-08-01T21:10:41.714015+08:00"
   },
   {
     "source_id": "soompi",
@@ -324,17 +325,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "11部韩剧：同一K-Pop组合多名成员共同出演",
+    "title_zh": "盘点11部同团多位成员共同出演的韩剧",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：文章列举了11部韩剧，其中同一K-Pop组合的多名成员共同出演。",
-      "事实点2：这些成员在剧中扮演对手、好友或浪漫主角等角色。",
+      "事实点1：文章列举了11部韩剧，其中同一K-Pop组合的多位成员共同出演。",
+      "事实点2：文章指出这些成员在剧中可能饰演对手、好友或恋人等角色。",
       "事实点3：文章发布于Soompi网站。"
     ],
-    "summary_zh": "该文章盘点了11部韩剧，这些剧集的特点是同一K-Pop组合的多名成员共同出演。文章指出，偶像跨界演戏并不新鲜，但同组合成员同框会带来特别的趣味和魅力，他们可能饰演对手、好友或恋人等角色，为观众提供额外的娱乐体验。文章未提及具体剧名或组合名称。",
-    "extracted_at": "2026-08-01T17:55:08.898924+08:00"
+    "summary_zh": "本文盘点了11部韩剧，这些剧集的特点是同一K-Pop组合的多位成员共同出演。文章提到，偶像跨界演戏并不新鲜，但当同组合的两位或更多成员同框时，会带来特别的趣味和魅力。他们可能在剧中饰演对手、好友或恋人，这种现实中的队友在虚构剧情中的互动增加了额外的娱乐性。文章未具体列出剧名和成员名单，仅作为盘点性质的内容。",
+    "extracted_at": "2026-08-01T21:10:45.395382+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -355,10 +356,10 @@
     "is_blurred": false,
     "facts_list": [
       "事实点1：ENHYPEN成为首个在骁龙体育场（Snapdragon Stadium）演出的K-pop组合",
-      "事实点2：该体育场位于美国，具体地点未在原文中提及"
+      "事实点2：该演出由The Daily Aztec报道"
     ],
-    "summary_zh": "据The Daily Aztec报道，韩国男子组合ENHYPEN成为首个在美国骁龙体育场（Snapdragon Stadium）进行演出的K-pop组合。这一成就标志着K-pop在海外演出市场的进一步拓展。",
-    "extracted_at": "2026-08-01T17:55:11.276017+08:00"
+    "summary_zh": "据The Daily Aztec报道，韩国男子组合ENHYPEN成为首个在美国骁龙体育场（Snapdragon Stadium）进行演出的K-pop组合。这一里程碑事件标志着K-pop在海外大型场馆的进一步拓展。",
+    "extracted_at": "2026-08-01T21:10:47.396539+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -381,8 +382,8 @@
       "K-pop男团CORTIS与说唱歌手Juicy J合作发布新曲《MOTION》",
       "该消息由contactmusic.com报道"
     ],
-    "summary_zh": "据contactmusic.com报道，K-pop男团CORTIS与知名说唱歌手Juicy J合作，发布了新曲《MOTION》。此次合作是CORTIS在音乐风格上的新尝试，融合了K-pop与嘻哈元素，为粉丝带来全新听觉体验。",
-    "extracted_at": "2026-08-01T17:55:14.084945+08:00"
+    "summary_zh": "据contactmusic.com报道，K-pop男团CORTIS与知名说唱歌手Juicy J合作，发布了新曲《MOTION》。此次合作是CORTIS与海外艺人的一次跨界合作，融合了K-pop与嘻哈风格，引发了粉丝的关注。",
+    "extracted_at": "2026-08-01T21:10:49.463042+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -402,11 +403,10 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：KPop Demon Hunters推出新款手机挂件（Phone Huggers），延续盲盒趋势。",
-      "事实点2：该产品由Billboard报道，具体发售日期、价格及销售渠道未提及。"
+      "事实点1：据Billboard报道，《KPop Demon Hunters》推出新款手机挂件（Phone Huggers），延续盲盒趋势。"
     ],
-    "summary_zh": "据Billboard报道，KPop Demon Hunters系列继续其盲盒营销策略，推出新款手机挂件（Phone Huggers）。该产品延续了盲盒的随机抽取模式，但报道未提供具体发售日期、价格或销售渠道等详细信息。",
-    "extracted_at": "2026-08-01T17:55:16.131199+08:00"
+    "summary_zh": "据Billboard报道，《KPop Demon Hunters》系列继续其盲盒趋势，推出了新款手机挂件（Phone Huggers）。该产品延续了盲盒的随机抽取模式，旨在吸引粉丝收藏。",
+    "extracted_at": "2026-08-01T21:10:51.387421+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -426,11 +426,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "《KPop Demon Hunters》推出新款手机挂件（Phone Huggers），延续盲盒趋势。",
-      "该产品由Yahoo报道，具体发售日期、价格及销售渠道未提及。"
+      "事实点1：KPop Demon Hunters推出新款手机挂件（Phone Huggers）",
+      "事实点2：该产品延续了盲盒（Blind Box）销售模式"
     ],
-    "summary_zh": "据Yahoo报道，《KPop Demon Hunters》系列继续其盲盒产品线，最新推出名为“Phone Huggers”的手机挂件。该产品延续了盲盒的随机抽取模式，但报道未提供具体发售日期、价格或销售渠道等详细信息。",
-    "extracted_at": "2026-08-01T17:55:18.982235+08:00"
+    "summary_zh": "据Yahoo报道，KPop Demon Hunters品牌继续其盲盒趋势，推出了新款手机挂件（Phone Huggers）。该产品延续了盲盒的随机抽取模式，旨在吸引K-pop粉丝收藏。",
+    "extracted_at": "2026-08-01T21:10:53.575706+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -450,11 +450,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：Rei Ami（来自《KPop恶魔猎人》）与喜剧演员Ken Jeong共同参与《鲨鱼周》节目。",
-      "事实点2：该消息由Aurora Sentinel报道。"
+      "Rei Ami（来自《KPop恶魔猎人》）与喜剧演员Ken Jeong参与《鲨鱼周》节目",
+      "该消息由Aurora Sentinel报道"
     ],
-    "summary_zh": "据Aurora Sentinel报道，来自《KPop恶魔猎人》的Rei Ami与喜剧演员Ken Jeong共同参与了《鲨鱼周》节目。具体节目内容及播出时间未在原文中提及。",
-    "extracted_at": "2026-08-01T17:55:21.066944+08:00"
+    "summary_zh": "据Aurora Sentinel报道，来自《KPop恶魔猎人》的Rei Ami与喜剧演员Ken Jeong共同参与了《鲨鱼周》节目。具体节目内容及细节未在原文中提及。",
+    "extracted_at": "2026-08-01T21:10:55.960319+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -469,15 +469,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "iHeartRadio KPOP舞台现场体验AtHeart表演",
+    "title_zh": "iHeartRadio KPOP舞台现场体验：AtHeart专访报道",
     "source_type": "韩娱",
     "risk_level": "低",
-    "is_blurred": true,
+    "is_blurred": false,
     "facts_list": [
-      "事实点1：在iHeartRadio KPOP舞台上，AtHeart进行了现场表演。"
+      "事实点1：报道来源为mamasgeeky.com，内容为在iHeartRadio KPOP舞台现场体验AtHeart的表演。",
+      "事实点2：文章标题为“Experiencing AtHeart Live At The iHeartRadio KPOP Stage”，未提及具体日期、曲目或数据。"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：在iHeartRadio KPOP舞台上体验AtHeart的现场表演。]",
-    "extracted_at": "2026-08-01T17:55:23.039000+08:00"
+    "summary_zh": "该报道来自mamasgeeky.com，记录了作者在iHeartRadio KPOP舞台现场观看AtHeart演出的体验。文章未提供具体表演细节、日期或数据，仅以第一人称视角描述现场感受。",
+    "extracted_at": "2026-08-01T21:10:58.431421+08:00"
   },
   {
     "source_id": "soompi",
@@ -492,16 +493,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "第5届蓝龙系列奖获奖名单揭晓，金高银获大奖",
+    "title_zh": "第5届蓝龙系列奖获奖名单公布，金高银获大奖",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "事实点1：第5届蓝龙系列奖于7月31日举行，由林允儿和全炫茂主持。",
-      "事实点2：金高银凭借在《You and...》中的角色获得大奖。"
+      "事实点2：该奖项是韩国首个专门针对流媒体平台的颁奖典礼。",
+      "事实点3：金高银凭借在《You and...》中的角色获得大奖。"
     ],
-    "summary_zh": "第5届蓝龙系列奖于7月31日举行，这是韩国首个专门针对流媒体平台的颁奖典礼，由林允儿和全炫茂主持。金高银凭借在《You and...》中的角色获得大奖。完整获奖名单已公布。",
-    "extracted_at": "2026-08-01T17:55:25.575459+08:00"
+    "summary_zh": "第5届蓝龙系列奖于7月31日举行，由林允儿和全炫茂主持，这是韩国首个专门针对流媒体平台的颁奖典礼。金高银凭借在《You and...》中的角色获得大奖。",
+    "extracted_at": "2026-08-01T21:11:00.677428+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -516,16 +518,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "BTS回归：K-pop巨星重返舞台引发美国经济热潮",
+    "title_zh": "防弹少年团回归：K-pop巨星重返舞台引发美国经济热潮",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：BTS组合回归，引发美国经济热潮",
-      "事实点2：该报道由《卫报》发布"
+      "事实点1：防弹少年团（BTS）回归，引发美国经济热潮",
+      "事实点2：该报道由《卫报》发布，标题为“BTS are back: return of K-pop superstars sparks US economic boom”"
     ],
-    "summary_zh": "据《卫报》报道，韩国男子组合BTS的回归在美国引发了经济热潮。报道指出，BTS作为K-pop超级巨星，其回归不仅受到粉丝热烈欢迎，还带动了相关经济活动，对美国经济产生了积极影响。",
-    "extracted_at": "2026-08-01T17:55:27.967532+08:00"
+    "summary_zh": "据《卫报》报道，防弹少年团（BTS）的回归引发了美国经济热潮。报道指出，K-pop超级巨星的回归带来了显著的经济影响，但具体细节未在标题中详述。",
+    "extracted_at": "2026-08-01T21:11:03.429750+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -548,7 +550,7 @@
       "事实点1：CORTIS与Juicy J合作推出数字单曲《MOTION》"
     ],
     "summary_zh": "CORTIS与Juicy J合作推出数字单曲《MOTION》，该单曲以火热的节奏为特点。",
-    "extracted_at": "2026-08-01T17:55:29.861394+08:00"
+    "extracted_at": "2026-08-01T21:11:05.345082+08:00"
   },
   {
     "source_id": "asianwiki",
