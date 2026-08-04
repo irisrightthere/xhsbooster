@@ -1,5 +1,438 @@
 [
   {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: “Made In Korea 2” Announces Premiere Date With New Teaser",
+    "url": "https://www.soompi.com/article/1859744wpp/watch-made-in-korea-2-announces-premiere-date-with-new-teaser",
+    "content": "Season 2 of the Disney+ original series “Made in Korea” has unveiled a new teaser! The first season of “Made in Korea” followed Baek Ki Tae (Hyun Bin), a man driven by ambition for wealth and power, and prosecutor Jang Geon Young (Jung Woo Sung), who sacrificed everything to stop him, as they confronted a&#8230; Continue reading Watch: “Made In Korea 2” Announces Premiere Date With New Teaser\nThe post Watch: “Made In Korea 2” Announces Premiere Date With New Teaser appeared first on Soompi.",
+    "published_at": "0804soompi",
+    "published_ts": 1785824153.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Disney+《韩国制造2》公开新预告，确定首播日期",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Disney+原创剧集《韩国制造》第二季公开新预告",
+      "预告中宣布了该剧的首播日期"
+    ],
+    "summary_zh": "Disney+原创剧集《韩国制造》第二季公开了新预告，并确定了首播日期。第一季讲述了玄彬饰演的白基泰和郑雨盛饰演的检察官张建英之间的对抗故事。",
+    "extracted_at": "2026-08-04T14:23:46.164701+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "8 Shows That Made Us Fall In Love With K-Dramas",
+    "url": "https://www.soompi.com/article/1858207wpp/8-shows-that-made-us-fall-in-love-with-k-dramas",
+    "content": "We’ve all been there. There was that first K-drama you stumbled onto, whether it was out of curiosity and you decided to press play on the first episode, or it was because a close friend insisted you watch it. There&#8217;s always that first K-drama that sucked us into a world of love triangles, first love&#8230; Continue reading 8 Shows That Made Us Fall In Love With K-Dramas\nThe post 8 Shows That Made Us Fall In Love With K-Dramas appeared first on Soompi.",
+    "published_at": "0804soompi",
+    "published_ts": 1785824099.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "8部让我们爱上韩剧的剧集盘点",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文未提及具体剧集名称，仅称有8部剧集让观众爱上韩剧。"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：有8部剧集让我们爱上韩剧，这些剧集通常包含三角恋、初恋等元素。]",
+    "extracted_at": "2026-08-04T14:23:50.685743+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Nearly half of K-pop acts disappear within three years, study finds - Korea JoongAng Daily",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWEkxYndXdXlRRHdDZjZ1cTB1QTJEYzduSFJHUVh2ZzNOZjZkZ1l4ZGxkT2pTa2x2VmFoTmtMZ3FYQS1Yam9GRGlJdkdWajFSNDhkNG54V2M1YnVHeUtzc0Vzek4xWWxHZjNPU1k2elczWVhJYTZUeGRPbi1lZ3EyQ1FIaE96MWRpSVRicXdtbmNDV2VYZFNtX1lSNm1JRWp0dFI4WEpMbktxZFNvNlA1ejFkNDMwZURyWm9kZnphNGM?oc=5",
+    "content": "Nearly half of K-pop acts disappear within three years, study finds Korea JoongAng Daily",
+    "published_at": "0804google-kpop",
+    "published_ts": 1785822767.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "研究：近半数K-pop组合出道三年内消失",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：研究显示，近半数K-pop组合在出道三年内消失。",
+      "事实点2：该研究由韩国中央日报（Korea JoongAng Daily）报道。"
+    ],
+    "summary_zh": "据韩国中央日报报道，一项研究发现，近半数K-pop组合在出道三年内消失。该研究揭示了K-pop行业的高淘汰率，但未提供具体数据或原因。",
+    "extracted_at": "2026-08-04T14:23:52.727900+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "He choreographed routines for K-pop stars like BTS and Seventeen. Now he's building AI for dance. - AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONjBEUl9wZmNRWWdWaUxXNHdrTXNQTGlkcGVCaWlBeUpWb1lrem1keGxBTHZhcDN6a3ZBRENWVXlLOGxCTHZYNTdGS0NROXo3amZKb054ZFFYZml3eGdZU2ppWV9Nd0NudmZ5dVJvb2FuWmZ0YnpLT1hZTHFnSjJUeXJqYk4?oc=5",
+    "content": "He choreographed routines for K-pop stars like BTS and Seventeen. Now he's building AI for dance. AOL.com",
+    "published_at": "0804google-kpop",
+    "published_ts": 1785821757.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "曾为BTS和Seventeen编舞的舞蹈家，如今投身AI舞蹈技术开发",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：该人物曾为BTS和Seventeen等K-pop明星编舞。",
+      "事实点2：该人物目前正在开发用于舞蹈的AI技术。"
+    ],
+    "summary_zh": "据AOL.com报道，一位曾为BTS和Seventeen等K-pop明星编舞的舞蹈家，现在正致力于开发AI舞蹈技术。该报道未提及具体技术细节或项目名称，仅确认了其职业转型。",
+    "extracted_at": "2026-08-04T14:23:54.917776+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Lee Seo Jin And Kim Kwang Kyu’s Variety Show Returns With New Season Titled “My Genie Secretary” + Confirms Premiere Date",
+    "url": "https://www.soompi.com/article/1859758wpp/lee-seo-jin-and-kim-kwang-kyus-variety-show-returns-with-new-season-titled-my-genie-secretary-confirms-premiere-date",
+    "content": "Lee Seo Jin and Kim Kwang Kyu’s variety show “My Grumpy Secretary” is returning with a new season! On August 4, SBS announced that the new season, now titled “My Genie Secretary,” will premiere on August 28. The previous season, “My Grumpy Secretary,” followed the two hosts as they provided personalized support and attentive care&#8230; Continue reading Lee Seo Jin And Kim Kwang Kyu’s Variety Show Returns With New Season Titled “My Genie Secretary” + Confirms Premiere Date\nThe post Lee Seo Jin And Kim Kwang Kyu’s Variety Show Returns With New Season Titled “My Genie Secretary” + Confirms Premiere Date appeared first on Soompi.",
+    "published_at": "0804soompi",
+    "published_ts": 1785821570.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "李瑞镇与金光奎综艺《我的脾气秘书》回归，新季更名《我的精灵秘书》定档8月28日",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：8月4日，SBS宣布李瑞镇与金光奎的综艺节目《我的脾气秘书》将推出新季，新季更名为《我的精灵秘书》。",
+      "事实点2：新季《我的精灵秘书》确定于8月28日首播。",
+      "事实点3：上一季《我的脾气秘书》中，两位主持人提供个性化支持和细致关怀。"
+    ],
+    "summary_zh": "李瑞镇与金光奎的综艺节目《我的脾气秘书》将回归，新季更名为《我的精灵秘书》。SBS于8月4日宣布，新季将于8月28日首播。上一季中，两位主持人提供个性化支持和细致关怀。",
+    "extracted_at": "2026-08-04T14:23:59.209760+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: aespa And Ty Dolla $ign Show How They Switch It Up In Bold MV For B-Side “Switchblade”",
+    "url": "https://www.soompi.com/article/1859794wpp/watch-aespa-and-ty-dolla-ign-show-how-they-switch-it-up-in-bold-mv-for-b-side-switchblade",
+    "content": "aespa is here with a new music video! On August 4 at 1 p.m. KST, aespa unveiled the music video for &#8220;Switchblade (Feat. Ty Dolla $ign),&#8221; one of the B-side tracks from their recent second album &#8220;LEMONADE.&#8221; Featuring famous hip hop artist Ty Dolla $ign, &#8220;Switchblade&#8221; is an electronic dance song that compares how one&#8230; Continue reading Watch: aespa And Ty Dolla $ign Show How They Switch It Up In Bold MV For B-Side &#8220;Switchblade&#8221;\nThe post Watch: aespa And Ty Dolla $ign Show How They Switch It Up In Bold MV For B-Side &#8220;Switchblade&#8221; appeared first on Soompi.",
+    "published_at": "0804soompi",
+    "published_ts": 1785820255.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "aespa公开新曲《Switchblade》MV，与Ty Dolla $ign合作展现大胆风格",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：8月4日下午1点（韩国时间），aespa公开了第二张专辑《LEMONADE》收录曲《Switchblade》的MV。",
+      "事实点2：《Switchblade》由著名嘻哈歌手Ty Dolla $ign参与伴唱，是一首电子舞曲。"
+    ],
+    "summary_zh": "aespa于8月4日下午1点（韩国时间）公开了第二张专辑《LEMONADE》中收录曲《Switchblade》的音乐视频。该曲由著名嘻哈歌手Ty Dolla $ign参与伴唱，是一首电子舞曲，MV展现了aespa与Ty Dolla $ign的大胆风格转换。",
+    "extracted_at": "2026-08-04T14:24:01.774046+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Marvel Rivals’ K-pop superstar Luna Snow gets a sixth scale figure from Hot Toys - Flickering Myth",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWXQwUUxuOHZMcTFEeG14T1huU25uY1ZDTklJR1FBaFZwM3JOUDI0b2h1cmpHOEVST0V2eThDUTh5YjRVYWVDWjlRQXlDdFpuYm1zQkx6RHYxY2VfWFRhWnZZd1l5SGtPd0o1S3RoQlVBV0NhNFBvNWRieUszTEZDekhmUmxfMU5hNmpzZmxJVnhnekVnYTBVX0tNNkV1RnY5QW5GVTJFQVp2MENoNmNvVQ?oc=5",
+    "content": "Marvel Rivals’ K-pop superstar Luna Snow gets a sixth scale figure from Hot Toys Flickering Myth",
+    "published_at": "0804google-kpop",
+    "published_ts": 1785819627.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Hot Toys推出《漫威争锋》K-pop巨星Luna Snow六分之一比例人偶",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Hot Toys推出《漫威争锋》中K-pop巨星Luna Snow的六分之一比例人偶",
+      "该人偶由Hot Toys制作，具体细节未提及"
+    ],
+    "summary_zh": "Hot Toys宣布推出《漫威争锋》中K-pop巨星Luna Snow的六分之一比例人偶。该人偶基于游戏角色设计，具体细节尚未公布。",
+    "extracted_at": "2026-08-04T14:24:03.847864+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "He choreographed routines for K-pop stars like BTS and Seventeen. Now he's building AI for dance. - Business Insider",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZUxjY0RGRHMwU0tlNmplZU90VkFkaG9GUkF0OHZTcm1FY2o5VmUtYkV2dkVBQ0E1WFR3b3pRV0owckpZYVZ6bGtwM2dmaERnY2dLR0YxOTlxR0Y0V09aZHVSMF80djI0WlpyaDBrcTYxOFZpMVdUbWpoWTh2LXIxMXJYbEpicVNaN2xDNmtYU3owb2xzNVQ0NXZqUFQ5UEE5dmc3UXQ3WEZjUjB0eldJbl95X2RFUQ?oc=5",
+    "content": "He choreographed routines for K-pop stars like BTS and Seventeen. Now he's building AI for dance. Business Insider",
+    "published_at": "0804google-kpop",
+    "published_ts": 1785819184.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "曾为BTS和Seventeen编舞的K-pop编舞家，如今投身AI舞蹈技术开发",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：该编舞家曾为BTS和Seventeen等K-pop明星编舞。",
+      "事实点2：他现在正在开发用于舞蹈的AI技术。"
+    ],
+    "summary_zh": "据Business Insider报道，一位曾为BTS和Seventeen等K-pop明星编舞的编舞家，现在正在开发AI舞蹈技术。该报道聚焦于他将舞蹈艺术与人工智能结合的新方向，但未提及具体技术细节或项目名称。",
+    "extracted_at": "2026-08-04T14:24:06.220628+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "10 K-pop comebacks to watch in August 2026, from Red Velvet to Stray Kids - Hashtag Legend Hong Kong",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CRUpIbm1pclItVVQ0TVFQaHRJSjJocGVwLUo1dUpTcjJuYVFKOFRwdGI4VE9QdUVPVjMyaDV3aHExQ3plMnktWlVGZHZQWEpJYlhBUllXU3FnUnhWeldUREFvb3ZaR0F6Z3ZnMk9aZ0Q1bUpjcWZjaDVTU1A?oc=5",
+    "content": "10 K-pop comebacks to watch in August 2026, from Red Velvet to Stray Kids Hashtag Legend Hong Kong",
+    "published_at": "0804google-kpop",
+    "published_ts": 1785817957.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "2026年8月值得关注的10个K-pop回归：Red Velvet到Stray Kids",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：2026年8月，Red Velvet将回归。",
+      "事实点2：2026年8月，Stray Kids将回归。",
+      "事实点3：文章列出了10个K-pop组合的回归计划，但具体名单未在标题中全部列出。"
+    ],
+    "summary_zh": "据Hashtag Legend Hong Kong报道，2026年8月将有10个K-pop组合回归，其中包括Red Velvet和Stray Kids。文章列出了这些回归计划，但具体名单未在标题中全部列出。",
+    "extracted_at": "2026-08-04T14:24:08.664546+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "AKIN LAHAT TO !?!? 🇰🇷🇵🇭 K-Pop GOT7 member Mark Tuan shared a selfie with SB19’s Stell and Justin, giving fans a major K-pop x P-pop crossover moment. Mark also joined the dance challenge for SB19’s latest release “LAWLESS,” while Stell and Justin - facebook.com",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZHVBcmpFZmF1M2VzM2VjQTk5WXA3Z25qQ0l3c2M0UndOdUtubnlWY1p1cG1Yc0wtNVowaV9Nc3BTN2Q5X1Rkcnk0cFBqNnF3U0drUjJOZU03OEhYX3Z0emx2X0VqODZoQzM2UnJ0Ti1CSFU1SEEwdDFLNkRJMlZhcVp0VmRSYTBpbHVtNEM4T25fSnZNNzBsUEJIaENhOW9iWXc5SzJSeDl5X0VDNWpSN3ZKcDZPZU01aDdDTHNRREVqUVlfbld5dGlmM1Zkbnp3V2pvYTVvbGhjYlhXZUhv?oc=5",
+    "content": "AKIN LAHAT TO !?!? 🇰🇷🇵🇭 K-Pop GOT7 member Mark Tuan shared a selfie with SB19’s Stell and Justin, giving fans a major K-pop x P-pop crossover moment. Mark also joined the dance challenge for SB19’s latest release “LAWLESS,” while Stell and Justin facebook.com",
+    "published_at": "0804google-kpop",
+    "published_ts": 1785817114.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "GOT7 Mark Tuan与SB19成员Stell、Justin合照并参与新曲舞蹈挑战",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "GOT7成员Mark Tuan与SB19成员Stell和Justin拍摄了自拍照。",
+      "Mark Tuan参与了SB19最新歌曲《LAWLESS》的舞蹈挑战。"
+    ],
+    "summary_zh": "GOT7成员Mark Tuan在社交媒体上分享了与菲律宾组合SB19成员Stell和Justin的自拍照，引发了K-pop与P-pop粉丝的关注。此外，Mark Tuan还参与了SB19最新单曲《LAWLESS》的舞蹈挑战，展现了跨团体的互动。",
+    "extracted_at": "2026-08-04T14:24:14.262450+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "AKIN LAHAT TO !?!? 🇰🇷🇵🇭 K-Pop GOT7 member Mark Tuan shared a selfie with SB19’s Stell and Justin, giving fans a major K-pop x P-pop crossover moment. Mark also joined the dance challenge for SB19’s latest release “LAWLESS,” while Stell and Justin - facebook.com",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVHRsYnRQbDF5OGZ1NHp6STU0bEF1RnctX1htUXJRZHpYeFB4M0xtOUFDTHVDLVZSQzhLQXREUF9YYjE1SkJsMFFoampzSVBGVE1UZUcwMzhwdkNYS0lvMlZpVFluTTZ5T25VRnRlREZ5QXJGWHp2cjJZTmxfVjJ2di0za1VZX2xrb1NVYVJCRmtrd09jUk9zMGpwWFBlRVZYOWVKZ3ZiUTlZQ2Fla0MtWWNTOVBpNGo4enM4d3paZFNNU0I5ZC1LZllfNS01QjdUQjJXYmRtRWUxWmhsd09INQ?oc=5",
+    "content": "AKIN LAHAT TO !?!? 🇰🇷🇵🇭 K-Pop GOT7 member Mark Tuan shared a selfie with SB19’s Stell and Justin, giving fans a major K-pop x P-pop crossover moment. Mark also joined the dance challenge for SB19’s latest release “LAWLESS,” while Stell and Justin facebook.com",
+    "published_at": "0804google-kpop",
+    "published_ts": 1785817114.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "GOT7段宜恩与SB19 Stell、Justin合影，并参与新曲舞蹈挑战",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "GOT7成员Mark Tuan（段宜恩）与SB19成员Stell和Justin合影，并公开了自拍照。",
+      "Mark Tuan参与了SB19最新歌曲《LAWLESS》的舞蹈挑战。"
+    ],
+    "summary_zh": "GOT7成员Mark Tuan（段宜恩）在社交媒体上分享了与菲律宾组合SB19成员Stell和Justin的自拍合照，引发粉丝对K-pop与P-pop跨界合作的关注。此外，Mark Tuan还参与了SB19最新单曲《LAWLESS》的舞蹈挑战，展现了跨团体的友好互动。",
+    "extracted_at": "2026-08-04T14:24:16.792373+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Red Velvet tops iTunes chart in 15 regions with summer album - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5TVUFXdFNQQmFjSkx6d0RicDloZXY2a1F6SU0xVkI0d3lNZXhjdFNpNHRLVFhhV20yQWlUMEJxYjd6aXlOUERkZV9PRE5tb2lGQThhREhwQQ?oc=5",
+    "content": "Red Velvet tops iTunes chart in 15 regions with summer album The Korea Herald",
+    "published_at": "0804google-kpop",
+    "published_ts": 1785812375.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Red Velvet夏日专辑登顶15国iTunes排行榜",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Red Velvet的夏日专辑在iTunes排行榜上登顶15个地区",
+      "该专辑在15个地区的iTunes排行榜上排名第一"
+    ],
+    "summary_zh": "据The Korea Herald报道，韩国女子组合Red Velvet的夏日专辑在iTunes排行榜上登顶15个地区，展现了其全球影响力。",
+    "extracted_at": "2026-08-04T14:24:18.928955+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "P-POP X K-POP ❤️‍🔥 K-pop boy group GOT7 member Mark Tuan shared a selfie with Kings of P-pop SB19 members Stell and Justin. Mark did not miss dancing to the P-pop group's new release \"Lawless\" while Stell and Justin also joined the dance challeng - facebook.com",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOenhXWDBUNVVGRGo3cXdxN0VMdGlvOFZIVm5NWmxxWEpfeVBqUUVrWmlvWExNOTF0S2VPY3JOWFppUUtTRFpXSWQtTnhjOTY4QWlpdUI3ZzNESVhHaUtnbkprcG8zRXhBeXgzbWVxMmhLaFd5bzIyWjE1TkRCRFkzWnN1aXVZRld6eG5ud2ZGclVIRE1pNVVfai1IZF9JOWlTN2JmWW5fanBiTTREZmNVOWFPOHd3aEVUZjh4M0Y5OUhsQkRiTklFVnZSSVo5RElsSW1XWFNzc0tLaWlyT0s3WTFn?oc=5",
+    "content": "P-POP X K-POP ❤️‍🔥 K-pop boy group GOT7 member Mark Tuan shared a selfie with Kings of P-pop SB19 members Stell and Justin. Mark did not miss dancing to the P-pop group's new release \"Lawless\" while Stell and Justin also joined the dance challeng facebook.com",
+    "published_at": "0804google-kpop",
+    "published_ts": 1785812104.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "GOT7段宜恩与SB19成员Stell、Justin合影，并参与新曲《Lawless》舞蹈挑战",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：GOT7成员Mark Tuan（段宜恩）与P-pop组合SB19成员Stell和Justin合影。",
+      "事实点2：Mark Tuan参与了SB19新曲《Lawless》的舞蹈挑战，Stell和Justin也一同加入。"
+    ],
+    "summary_zh": "GOT7成员Mark Tuan（段宜恩）在社交媒体上分享了与菲律宾P-pop组合SB19成员Stell和Justin的合照，并参与了SB19新曲《Lawless》的舞蹈挑战，Stell和Justin也一同加入，展现了K-pop与P-pop的友好互动。",
+    "extracted_at": "2026-08-04T14:24:21.554119+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kim Hae Sook, Kim Sun Young, And Kim Young Min Form A Strong Family Bond In New Film “Portrait Of A Family”",
+    "url": "https://www.soompi.com/article/1859709wpp/kim-hae-sook-kim-sun-young-and-kim-young-min-form-a-strong-family-bond-in-new-film-portrait-of-a-family",
+    "content": "Upcoming film “Portrait of a Family” has unveiled new stills ahead of its premiere! “Portrait of a Family” is a family chronicle that follows top star couple Jung Gu (Ryu Seung Ryong) and Nam Mi (Ha Ji Won). After their marriage falls apart due to the sudden appearance of Jung Gu’s daughter Dong Ju (Kim&#8230; Continue reading Kim Hae Sook, Kim Sun Young, And Kim Young Min Form A Strong Family Bond In New Film &#8220;Portrait Of A Family&#8221;\nThe post Kim Hae Sook, Kim Sun Young, And Kim Young Min Form A Strong Family Bond In New Film &#8220;Portrait Of A Family&#8221; appeared first on Soompi.",
+    "published_at": "0804soompi",
+    "published_ts": 1785811686.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "金海淑、金善英、金英敏在电影《家庭肖像》中展现深厚家族纽带",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "电影《家庭肖像》发布新剧照，该片为家庭题材，由柳承龙饰演郑九，河智苑饰演南美。",
+      "金海淑、金善英、金英敏在片中饰演家族成员，展现紧密的家族关系。"
+    ],
+    "summary_zh": "即将上映的电影《家庭肖像》公开了新剧照。该片讲述顶级明星夫妇郑九（柳承龙饰）和南美（河智苑饰）因郑九女儿东珠的突然出现而婚姻破裂，但最终家族纽带得以重建的故事。金海淑、金善英、金英敏在片中饰演家族成员，展现了深厚的家族情感。",
+    "extracted_at": "2026-08-04T14:24:25.113400+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Noel’s Kang Kyun Sung Announces Marriage With Actress Yu Ha Jin",
+    "url": "https://www.soompi.com/article/1859721wpp/noels-kang-kyun-sung-announces-marriage-with-actress-yu-ha-jin",
+    "content": "Noel’s Kang Kyun Sung and actress Yu Ha Jin are tying the knot! On August 3, Kang Kyun Sung personally announced the happy news by sharing a photo of a handwritten letter on social media, revealing that he will marry on October 30. In the letter, he wrote: To Noeulbit, whom I&#8217;m always grateful for.&#8230; Continue reading Noel’s Kang Kyun Sung Announces Marriage With Actress Yu Ha Jin\nThe post Noel’s Kang Kyun Sung Announces Marriage With Actress Yu Ha Jin appeared first on Soompi.",
+    "published_at": "0804soompi",
+    "published_ts": 1785811377.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Noel姜均成宣布与演员柳河珍结婚，10月30日举行婚礼",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：8月3日，Noel成员姜均成通过社交媒体公开手写信，宣布结婚消息。",
+      "事实点2：姜均成在信中透露婚礼日期为10月30日，结婚对象为演员柳河珍。"
+    ],
+    "summary_zh": "韩国组合Noel成员姜均成于8月3日通过社交媒体公开手写信，宣布将与演员柳河珍结婚，婚礼定于10月30日举行。他在信中表达了对粉丝的感谢，并分享了这一喜讯。",
+    "extracted_at": "2026-08-04T14:24:27.729640+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Choi Min Sik And Han So Hee Foreshadow Chaotic Office Chemistry In Teaser For Korean Remake Of “The Intern”",
+    "url": "https://www.soompi.com/article/1859749wpp/watch-choi-min-sik-and-han-so-hee-foreshadow-chaotic-office-chemistry-in-teaser-for-korean-remake-of-the-intern",
+    "content": "Choi Min Sik and Han So Hee&#8217;s new film &#8220;The Intern&#8221; has unveiled its first poster and teaser! As a remake of the Hollywood film of the same name, &#8220;The Intern&#8221; is a story depicting an office life that transcends generations and job titles, beginning when Gi Ho (Choi Min Sik), a senior intern with&#8230; Continue reading Watch: Choi Min Sik And Han So Hee Foreshadow Chaotic Office Chemistry In Teaser For Korean Remake Of &#8220;The Intern&#8221;\nThe post Watch: Choi Min Sik And Han So Hee Foreshadow Chaotic Office Chemistry In Teaser For Korean Remake Of &#8220;The Intern&#8221; appeared first on Soompi.",
+    "published_at": "0804soompi",
+    "published_ts": 1785810357.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "崔岷植与韩素希主演韩版《实习生》公开首款海报及预告，预示混乱办公室化学反应",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "电影《The Intern》韩版翻拍自同名好莱坞电影，由崔岷植和韩素希主演。",
+      "该片发布了首款海报和预告片。",
+      "剧情讲述超越世代和职位的办公室生活，始于资深实习生Gi Ho（崔岷植饰）的加入。"
+    ],
+    "summary_zh": "崔岷植和韩素希主演的新片《The Intern》公开了首款海报和预告。该片翻拍自好莱坞同名电影，讲述资深实习生Gi Ho（崔岷植饰）加入后，展开一段超越世代与职位的办公室生活故事。预告片预示了两人之间混乱的办公室化学反应。",
+    "extracted_at": "2026-08-04T14:24:30.738085+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Xdinary Heroes to host fan meetup in Seoul next month - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KbG9IS1pnRWhwN0RnbmlwZzR4MEZXNl9BdUpNRVNScndTemc1Y0N4M3RPOVdlanJjbWlfLURqOE40YW16bU9VSmxiaTZuNFg2Q3hTUWhpOA?oc=5",
+    "content": "Xdinary Heroes to host fan meetup in Seoul next month The Korea Herald",
+    "published_at": "0804google-kpop",
+    "published_ts": 1785810148.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Xdinary Heroes 下月将在首尔举办粉丝见面会",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：韩国乐队Xdinary Heroes将于下月在首尔举办粉丝见面会。",
+      "事实点2：该消息由The Korea Herald报道。"
+    ],
+    "summary_zh": "据The Korea Herald报道，韩国乐队Xdinary Heroes将于下月在首尔举办粉丝见面会。具体日期、地点和活动细节尚未公布。",
+    "extracted_at": "2026-08-04T14:24:32.372045+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-pop Groups Join 2026 K WORLD DREAM AWARDS Lineup - chosun.com",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNHVnbzYwcnVTeHFJX0JYbjR4cE5TZmE3NHBpbjM3TEhHTG5Bb21lQTdjVzBMdlJoalJJaHE3eXp4YXFybFVUM3JTOUY2Q2FJeXdFYTUzRVNiTWJFNFRobDMxNjU0SlZZY2lRZXloYzBaZnE0U192UFRBOHRUdHE0Mk1QRE00aVc2eTBFelhR?oc=5",
+    "content": "K-pop Groups Join 2026 K WORLD DREAM AWARDS Lineup chosun.com",
+    "published_at": "0804google-kpop",
+    "published_ts": 1785809609.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "K-pop组合加盟2026 K WORLD DREAM AWARDS阵容",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "事实点1：2026 K WORLD DREAM AWARDS公布新一批K-pop组合加盟阵容"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：K-pop组合加入2026 K WORLD DREAM AWARDS阵容]",
+    "extracted_at": "2026-08-04T14:24:33.937254+08:00"
+  },
+  {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
@@ -17,11 +450,10 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：BTS成员田柾国在Spotify上的流媒体播放量第二次突破15亿次。",
-      "事实点2：该数据由The Korea Herald报道。"
+      "事实点1：BTS成员田柾国在Spotify上的流媒体播放量第二次突破15亿次。"
     ],
-    "summary_zh": "据The Korea Herald报道，BTS成员田柾国在Spotify上的流媒体播放量第二次突破15亿次。这一成就标志着他在音乐流媒体领域的持续影响力。",
-    "extracted_at": "2026-08-04T10:06:03.171025+08:00"
+    "summary_zh": "据韩国先驱报报道，BTS成员田柾国在Spotify上的流媒体播放量第二次突破15亿次。这一成就再次证明了他在全球音乐市场的影响力和人气。",
+    "extracted_at": "2026-08-04T14:24:36.045589+08:00"
   },
   {
     "source_id": "soompi",
@@ -46,31 +478,7 @@
       "事实点3：该剧改编自网络漫画。"
     ],
     "summary_zh": "tvN新剧《我的偏见，我的老板》于8月3日首播，据尼尔森韩国数据，首集全国平均收视率为4.2%，开局表现良好。该剧改编自网络漫画，具体剧情细节未在原文中详述。",
-    "extracted_at": "2026-08-04T10:06:05.112811+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Lee says revision to Criminal Procedure Act will be 'start of judicial normalization' - The Korea Herald",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvNjByWHZYdjlVQzlNaG51RkdsdnlIN2dDcnNVQmN6WWlXQVBHaTFzZmU2T0lRdVc1Y2RYc1BYQ1FNSG81VXZSTzhwcy1uS1RLS3JSdmVlRQ?oc=5",
-    "content": "Lee says revision to Criminal Procedure Act will be 'start of judicial normalization' The Korea Herald",
-    "published_at": "0804google-kpop",
-    "published_ts": 1785808129.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "李在明称《刑事诉讼法》修订将是“司法正常化的开始”",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：韩国共同民主党党首李在明就《刑事诉讼法》修订发表言论",
-      "事实点2：李在明称该修订将是“司法正常化的开始”"
-    ],
-    "summary_zh": "据《韩国先驱报》报道，韩国共同民主党党首李在明就《刑事诉讼法》修订发表言论，称该修订将是“司法正常化的开始”。",
-    "extracted_at": "2026-08-04T10:06:08.248788+08:00"
+    "extracted_at": "2026-08-04T14:24:38.504778+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -93,8 +501,8 @@
       "日本男团JO1取消了原定在首尔举行的演唱会",
       "取消原因是遭遇抗议活动"
     ],
-    "summary_zh": "据韩国先驱报报道，日本男团JO1因遭遇抗议活动，取消了原定在首尔举行的演唱会。具体抗议内容及演唱会细节未在原文中提及。",
-    "extracted_at": "2026-08-04T10:06:10.016443+08:00"
+    "summary_zh": "据韩国先驱报报道，日本男团JO1因遭遇抗议活动，取消了原定在首尔举行的演唱会。具体抗议原因及后续安排未在原文中提及。",
+    "extracted_at": "2026-08-04T14:24:40.475517+08:00"
   },
   {
     "source_id": "soompi",
@@ -109,17 +517,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "ALPHA DRIVE ONE成员Sanghyeon将接受手术并暂时中断活动",
+    "title_zh": "ALPHA DRIVE ONE成员尚贤将接受手术并暂停活动",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：ALPHA DRIVE ONE所属社WAKEONE于8月4日发布后续声明，宣布Sanghyeon将接受手术。",
-      "事实点2：此前WAKEONE曾声明，Sanghyeon因喉咙不适就医后，被建议限制声带使用。",
-      "事实点3：Sanghyeon将暂时中断活动，以进行手术和恢复。"
+      "事实点1：ALPHA DRIVE ONE所属社WAKEONE于8月4日发布后续声明，宣布尚贤将接受手术。",
+      "事实点2：此前WAKEONE曾声明尚贤因喉咙不适就医，被建议减少声带负担。",
+      "事实点3：尚贤将暂时中断活动，专注于恢复。"
     ],
-    "summary_zh": "ALPHA DRIVE ONE成员Sanghyeon因喉咙不适就医，被建议限制声带使用。所属社WAKEONE于8月4日发布后续声明，宣布Sanghyeon将接受手术，并暂时中断活动以进行恢复。",
-    "extracted_at": "2026-08-04T10:06:15.567975+08:00"
+    "summary_zh": "ALPHA DRIVE ONE成员尚贤因喉咙不适就医，被建议减少声带负担。8月4日，所属社WAKEONE发布后续声明，宣布尚贤将接受手术，并暂时中断活动以恢复健康。具体手术日期和恢复时间未在原文中提及。",
+    "extracted_at": "2026-08-04T14:24:42.942321+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -139,35 +547,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "Kiss of Life于夏季携新曲《Sweat》回归",
-      "该报道由The Korea Herald发布"
+      "事实点1：韩国女团Kiss of Life于夏季携新曲《Sweat》回归",
+      "事实点2：该消息由The Korea Herald报道"
     ],
-    "summary_zh": "据The Korea Herald报道，韩国女子组合Kiss of Life在夏季携新曲《Sweat》回归乐坛。",
-    "extracted_at": "2026-08-04T10:06:17.410811+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "After making hearts flutter with a guest appearance in \"Boyfriend on Demand\" earlier this year, K-drama heartthrob Seo Kang-joon is set to return this September as the lead of a new romance series alongside actress Ahn Eun-jin. More details in the comments - facebook.com",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSVZ4ZHRnNXFxVC1aakMtTEFSb19fZ0Yyckh5NWthMUY3VG44VEFOZ0xvRm9YSy1PYjUwLUZHbjQtbXJYbndNeWJleDk4Rml2dXlJUTBKaWZ3VF9pLVRRR3BXNnM5cVY0TTdzZEpsaHdiblNVN3JEeHlHR0dRbjJidTFhRnFGck1SS2FDeWJRUFdOWE0yTjJlcmJHY0ZGRl9JLWV5M3JsRENYSHdoTXZKa08yQm1hZmdKSlVjTWRzNFB0WTBndkZaa1VCM01WdUJRbUdOSHhKQQ?oc=5",
-    "content": "After making hearts flutter with a guest appearance in \"Boyfriend on Demand\" earlier this year, K-drama heartthrob Seo Kang-joon is set to return this September as the lead of a new romance series alongside actress Ahn Eun-jin. More details in the comments facebook.com",
-    "published_at": "0804google-kpop",
-    "published_ts": 1785802113.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "徐康俊9月携新爱情剧回归，与安恩真搭档主演",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：今年早些时候，徐康俊客串出演《Boyfriend on Demand》",
-      "事实点2：徐康俊将于今年9月回归，作为新爱情剧主演，与演员安恩真合作"
-    ],
-    "summary_zh": "韩剧男神徐康俊今年早些时候客串出演《Boyfriend on Demand》后，将于9月携新爱情剧回归，与女演员安恩真搭档主演。更多详情请见评论区。",
-    "extracted_at": "2026-08-04T10:06:19.369876+08:00"
+    "summary_zh": "据The Korea Herald报道，韩国女团Kiss of Life在夏季携新曲《Sweat》回归乐坛。",
+    "extracted_at": "2026-08-04T14:24:44.635699+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -182,16 +566,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Kiss of Life携新曲《Sweat》回归，称“这只是开始”",
+    "title_zh": "Kiss of Life新曲《Sweat》回归：血汗泪水化作夏日狂欢，成员称这只是开始",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "Kiss of Life发布新曲《Sweat》，并称“这只是开始”",
-      "该报道来自Korea JoongAng Daily"
+      "Kiss of Life于近期发布新曲《Sweat》，以夏日为主题。",
+      "成员在采访中表示'这只是开始'，暗示后续有更多活动。",
+      "报道来自Korea JoongAng Daily。"
     ],
-    "summary_zh": "据Korea JoongAng Daily报道，韩国女团Kiss of Life携新曲《Sweat》回归，成员们表示“这只是开始”，预示着未来将有更多活动。报道将此次回归形容为“将血汗泪化为炽热的夏日乐趣”。",
-    "extracted_at": "2026-08-04T10:06:23.054551+08:00"
+    "summary_zh": "韩国女团Kiss of Life携新曲《Sweat》回归，将血、汗与泪水转化为炽热的夏日乐趣。成员们表示这只是开始，预示着更多精彩即将到来。该报道来自Korea JoongAng Daily。",
+    "extracted_at": "2026-08-04T14:24:47.263940+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -211,11 +596,11 @@
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "事实点1：原文未提及具体偶像姓名、具体机场、具体穿搭细节或具体时间。",
+      "事实点1：原文未提及具体偶像姓名、具体机场、具体穿搭细节或时间。",
       "事实点2：原文仅列出9位偶像的机场时尚，但未提供任何具体事实。"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：K-Pop机场时尚：9位不容错过的偶像盘点]",
-    "extracted_at": "2026-08-04T10:06:25.164655+08:00"
+    "extracted_at": "2026-08-04T14:24:49.058640+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -230,18 +615,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "BTS本周将在吉列体育场举行两场演唱会",
+    "title_zh": "BTS本周将在吉列体育场举行两场演出",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "时间：本周",
-      "地点：美国马萨诸塞州福克斯堡的吉列体育场",
-      "主体：BTS",
-      "具体动作：举行两场演唱会"
+      "事实点1：BTS本周将在美国马萨诸塞州福克斯堡的吉列体育场举行两场演出。",
+      "事实点2：该消息由WWLP报道。"
     ],
-    "summary_zh": "据WWLP报道，韩国男子组合BTS将于本周在美国马萨诸塞州福克斯堡的吉列体育场举行两场演唱会。",
-    "extracted_at": "2026-08-04T10:06:27.248678+08:00"
+    "summary_zh": "据WWLP报道，韩国男子组合BTS本周将在美国马萨诸塞州福克斯堡的吉列体育场举行两场演出。具体演出日期和更多细节未在原文中提及。",
+    "extracted_at": "2026-08-04T14:24:51.013656+08:00"
   },
   {
     "source_id": "asianwiki",
