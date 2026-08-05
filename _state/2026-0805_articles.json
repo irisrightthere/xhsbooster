@@ -1,5 +1,320 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "25 South Korean K-pop idols and actors with August birthdays - Tatler Asia",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSFZOVDFoU0VTTElJNWliOF9TOUpQaVBVZjZOX1I2R05uN2tBaTVBSkFVa0JIbEhRczlPWWREdklRMTNrVTJUV0diOC1JTzNudWhGQUxXSlB2TWJ2N0stOUR6RlBGUFNXRV9LdC03cHY2OGVvOGNUWmpjeU8zU0xvb2laUVBiY2NFa3l5X0J4aGNqZ1hE?oc=5",
+    "content": "25 South Korean K-pop idols and actors with August birthdays Tatler Asia",
+    "published_at": "0805google-kpop",
+    "published_ts": 1785893666.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Tatler Asia盘点25位8月生日的韩国K-pop偶像与演员",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Tatler Asia发布文章，列出25位在8月生日的韩国K-pop偶像和演员。"
+    ],
+    "summary_zh": "Tatler Asia发布了一篇盘点文章，列出了25位在8月生日的韩国K-pop偶像和演员。文章未提供具体名单，仅作为生日汇总资讯。",
+    "extracted_at": "2026-08-05T10:05:00.273359+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "The Red Sox lineup as K-Pop songs - Over the Monster",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeE4zajVYdzFnZldIc1hQSGw1M3NsRHdlOVowdTJlZ2ZrbW96dVptUk96YS1NTk1tWVlHODNZelN0cTl0Wllzc0xSU2xCcWdBSV9nYVhPX3IyMmpydXhRNUI2ZFhDTkNCQ1BfZWNqc2R0UHhlWnlYNTAySjE2WjhqcjV5VVVLVVlBRjJxV2piZ0dDNlE?oc=5",
+    "content": "The Red Sox lineup as K-Pop songs Over the Monster",
+    "published_at": "0805google-kpop",
+    "published_ts": 1785890520.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "红袜队阵容对应K-Pop歌曲：Over the Monster",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文未提及具体行为，仅称：红袜队阵容与K-Pop歌曲的对应关系"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：红袜队阵容与K-Pop歌曲的对应关系]",
+    "extracted_at": "2026-08-05T10:05:01.833152+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "“Dream To You” Ratings Rise Ahead Of Final 2 Weeks",
+    "url": "https://www.soompi.com/article/1860021wpp/dream-to-you-ratings-rise-ahead-of-final-2-weeks",
+    "content": "ENA’s “Dream to You” is heading into the final two weeks of its run! On August 4, the rom-com enjoyed a significant rise in viewership ahead of its final four episodes. According to Nielsen Korea, “Dream to You” climbed to an average nationwide rating of 2.5 percent for its latest episode. Meanwhile, tvN’s new drama&#8230; Continue reading &#8220;Dream To You&#8221; Ratings Rise Ahead Of Final 2 Weeks\nThe post &#8220;Dream To You&#8221; Ratings Rise Ahead Of Final 2 Weeks appeared first on Soompi.",
+    "published_at": "0805soompi",
+    "published_ts": 1785889951.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《Dream to You》收视率上升，距终映仅剩两周",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：8月4日，ENA电视剧《Dream to You》收视率显著上升。",
+      "事实点2：据尼尔森韩国数据，最新一集全国平均收视率达2.5%。",
+      "事实点3：该剧距离大结局仅剩最后四集。"
+    ],
+    "summary_zh": "ENA电视剧《Dream to You》在播出最后两周前收视率显著上升。8月4日播出的最新一集，根据尼尔森韩国数据，全国平均收视率达到2.5%。该剧目前仅剩最后四集。",
+    "extracted_at": "2026-08-05T10:05:03.767136+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "IST’s New Boy Group TUNEXX To Make 1st-Ever Comeback In September",
+    "url": "https://www.soompi.com/article/1860015wpp/ists-new-boy-group-tunexx-to-make-1st-ever-comeback-in-september",
+    "content": "Get ready for TUNEXX’s first-ever comeback! On August 5, IST Entertainment officially announced, “TUNEXX will be making a comeback with a new album in September.” The agency added, “Please give lots of interest and anticipation to TUNEXX, who will be displaying a new level of growth as they embark on their first comeback promotions.” TUNEXX&#8230; Continue reading IST&#8217;s New Boy Group TUNEXX To Make 1st-Ever Comeback In September\nThe post IST&#8217;s New Boy Group TUNEXX To Make 1st-Ever Comeback In September appeared first on Soompi.",
+    "published_at": "0805soompi",
+    "published_ts": 1785888799.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "IST新男团TUNEXX将于9月携新专辑首次回归",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：8月5日，IST Entertainment官方宣布TUNEXX将于9月携新专辑回归。",
+      "事实点2：IST Entertainment表示，TUNEXX将展现新的成长面貌，并请求粉丝给予关注和期待。"
+    ],
+    "summary_zh": "IST Entertainment于8月5日正式宣布，旗下新男团TUNEXX将于9月携新专辑进行首次回归。公司表示，TUNEXX将在首次回归活动中展现新的成长，并请求大家给予关注和期待。",
+    "extracted_at": "2026-08-05T10:05:05.932183+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "CORTIS Sets K-pop Record with 12-Week Billboard Run - 조선일보",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ1pRNHRkb0RrODhJeURDMWVoYVZpS3l3ZGtLNzI0WVBkTnV3MHVoeWhfOHlpZmNTWGY4VHZLbEZ3bVJkYXFLVzBxbUJDY09tZXZnXzFmWVVwWEVCR040X3l6REdPNkpBbzYxUk5odGo3NEtDMVMwLVJYZExvbS1OQzc3clFQQi1aZFNiOXN3?oc=5",
+    "content": "CORTIS Sets K-pop Record with 12-Week Billboard Run 조선일보",
+    "published_at": "0805google-kpop",
+    "published_ts": 1785888519.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "CORTIS创K-pop纪录，Billboard连续12周在榜",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：CORTIS在Billboard榜单上连续12周在榜，创下K-pop纪录。",
+      "事实点2：该纪录由《朝鲜日报》报道。"
+    ],
+    "summary_zh": "据《朝鲜日报》报道，CORTIS在Billboard榜单上连续12周在榜，创下K-pop新纪录。",
+    "extracted_at": "2026-08-05T10:05:07.610225+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kim Woo Bin Confirmed To Star In New Drama Premiering This Year",
+    "url": "https://www.soompi.com/article/1860009wpp/kim-woo-bin-confirmed-to-star-in-new-drama-premiering-this-year",
+    "content": "It’s official: Kim Woo Bin is returning to the small screen with a new drama! On August 5, tvN confirmed that Kim Woo Bin was set to star in its upcoming drama “Gifted” (working title), which is based on the popular webtoon of the same name. “Our new drama ‘Gifted’ will premiere in the second&#8230; Continue reading Kim Woo Bin Confirmed To Star In New Drama Premiering This Year\nThe post Kim Woo Bin Confirmed To Star In New Drama Premiering This Year appeared first on Soompi.",
+    "published_at": "0805soompi",
+    "published_ts": 1785887397.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "金宇彬确定出演tvN新剧《Gifted》，预计今年首播",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：8月5日，tvN确认金宇彬将出演其新剧《Gifted》（暂定名）。",
+      "事实点2：该剧改编自同名热门网络漫画。",
+      "事实点3：tvN表示《Gifted》将于今年第二季度首播。"
+    ],
+    "summary_zh": "8月5日，tvN确认金宇彬将出演其新剧《Gifted》（暂定名），该剧改编自同名热门网络漫画。tvN表示《Gifted》将于今年第二季度首播。",
+    "extracted_at": "2026-08-05T10:05:09.736379+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "ONF’s E-Tion Sustains Partial Rotator Cuff Tear; To Minimize Movement For Time Being",
+    "url": "https://www.soompi.com/article/1860005wpp/onfs-e-tion-sustains-partial-rotator-cuff-tear-to-minimize-movement-for-time-being",
+    "content": "ONF’s E-Tion will be temporarily avoiding strenuous motion due to a shoulder injury. On August 4, ONF’s agency KI Entertainment announced that E-Tion had been diagnosed with a partial rotator cuff tear. The agency’s full statement is as follows: Hello.This is the ONF management team. We are making an announcement regarding the state of ONF&#8230; Continue reading ONF&#8217;s E-Tion Sustains Partial Rotator Cuff Tear; To Minimize Movement For Time Being\nThe post ONF&#8217;s E-Tion Sustains Partial Rotator Cuff Tear; To Minimize Movement For Time Being appeared first on Soompi.",
+    "published_at": "0805soompi",
+    "published_ts": 1785885703.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "ONF成员E-Tion肩部部分肩袖撕裂，将暂时减少活动",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：8月4日，ONF所属社KI Entertainment宣布E-Tion被诊断为部分肩袖撕裂。",
+      "事实点2：所属社表示E-Tion将暂时避免剧烈运动，以减少肩部负担。"
+    ],
+    "summary_zh": "ONF成员E-Tion因肩部受伤，被诊断为部分肩袖撕裂。所属社KI Entertainment于8月4日发布官方声明，宣布这一消息，并表示E-Tion将暂时减少活动，避免剧烈运动，以促进恢复。具体回归日程将视恢复情况而定。",
+    "extracted_at": "2026-08-05T10:05:12.241515+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Official ‘KPop Demon Hunters’ Light Sticks Release Ahead of Global Tour — Here’s Where to Shop - K-Jewel 99.3 FM",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWDRUVzVISGdtdy0yUDU4Y1RFZFlOUFpnQmMwOUF3dzZ2bzlHaVRYb1dMTDNYeEdfWHFUb09vWjkxbVc0dmxxa0VTOXdLYjJuQ0N4VXl6aVFnc0xISzl2Q1RlamRGcHJlQVFSaUJEcHp0NlZwc0pRdElURDVhVlhHdFhGZzVDOUQ4LTA0bGFLZUdkNTJqU1VYWUxlUUFMVUlFaWkzT1ozcWNZOFAzTUZ4UzhUOXB5TDZWdmxTNTBtOEFKUQ?oc=5",
+    "content": "Official ‘KPop Demon Hunters’ Light Sticks Release Ahead of Global Tour — Here’s Where to Shop K-Jewel 99.3 FM",
+    "published_at": "0805google-kpop",
+    "published_ts": 1785885281.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "KPop Demon Hunters官方应援棒发布，全球巡演在即，购买渠道公布",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：KPop Demon Hunters官方应援棒正式发布，时间未具体说明。",
+      "事实点2：应援棒发布与全球巡演相关，巡演即将开始。",
+      "事实点3：购买渠道已公布，但具体渠道未在原文中说明。"
+    ],
+    "summary_zh": "KPop Demon Hunters官方应援棒已正式发布，为即将到来的全球巡演预热。目前购买渠道已公布，但具体信息未在原文中详述。粉丝可关注官方渠道获取更多购买详情。",
+    "extracted_at": "2026-08-05T10:05:14.810428+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "CORTIS, KATSEYE, And GIRLSET Make Billboard’s “21 Under 21” List For 2026",
+    "url": "https://www.soompi.com/article/1860002wpp/cortis-katseye-and-girlset-make-billboards-21-under-21-list-for-2026",
+    "content": "Billboard has published its “21 Under 21” list for 2026! Every year, Billboard selects 21 “fast-rising” artists under the age of 21 who have had a major impact on the industry in the 12 preceding months and have the potential to fly even higher in the future. This year, CORTIS, KATSEYE, and GIRLSET were among&#8230; Continue reading CORTIS, KATSEYE, And GIRLSET Make Billboard&#8217;s &#8220;21 Under 21&#8221; List For 2026\nThe post CORTIS, KATSEYE, And GIRLSET Make Billboard&#8217;s &#8220;21 Under 21&#8221; List For 2026 appeared first on Soompi.",
+    "published_at": "0805soompi",
+    "published_ts": 1785883299.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "CORTIS、KATSEYE、GIRLSET入选Billboard 2026年“21 Under 21”榜单",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Billboard发布2026年“21 Under 21”榜单，每年评选21位21岁以下快速上升的艺人。",
+      "CORTIS、KATSEYE、GIRLSET入选该榜单。"
+    ],
+    "summary_zh": "Billboard发布了2026年“21 Under 21”榜单，该榜单每年评选21位21岁以下对行业产生重大影响且未来潜力巨大的快速上升艺人。今年，CORTIS、KATSEYE和GIRLSET入选。",
+    "extracted_at": "2026-08-05T10:05:16.937400+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "The Best ‘KPop Demon Hunters’ Backpacks for the School Year Ahead, Featuring 3D and Glow-In-The-Dark Designs - Billboard",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcWlMeDJrUHdvNlJoTEo2aHpHZ2c0b2pYV1ZIWkJtZ3FGSFV4NmRfR2lmdy14ekZJa3JaejZpSWhZS0ZZc3pTLWUyNlIxQngxSFI5ek93TXdOcF9BbWJuOTdnZTF1NDVjbEpWNzl2QUt0aHlpNi1Nb3ZFVWxydy1Wa2pDWTM3c3BOTndUTmFxSzR4bUFKV0xSSm9VcDRKSGtJQ2M0M1BneHhNV1ZnaXYtb2gyMEpPaTRIZHc4VThfLUEyUQ?oc=5",
+    "content": "The Best ‘KPop Demon Hunters’ Backpacks for the School Year Ahead, Featuring 3D and Glow-In-The-Dark Designs Billboard",
+    "published_at": "0805google-kpop",
+    "published_ts": 1785883166.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "K-Pop恶魔猎人主题背包推荐：3D与夜光设计引领新学期潮流",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Billboard发布文章推荐K-Pop恶魔猎人主题背包",
+      "背包设计包含3D和夜光元素",
+      "文章针对新学期开学季"
+    ],
+    "summary_zh": "Billboard发布了一篇关于K-Pop恶魔猎人主题背包的推荐文章，这些背包专为新学期设计，具有3D和夜光效果，旨在吸引K-Pop粉丝和学生群体。",
+    "extracted_at": "2026-08-05T10:05:19.144823+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "August Individual Rookie Idol Brand Reputation Rankings Announced",
+    "url": "https://www.soompi.com/article/1859999wpp/august-individual-rookie-idol-brand-reputation-rankings-announced-2",
+    "content": "The Korean Business Research Institute has revealed this month’s brand reputation rankings for individual rookie idols! The rankings were determined through an analysis of the consumer participation, media coverage, interaction, and community awareness indexes of various rookie idols, using big data collected from July 5 to August 5. RESCENE once again dominated the list, with&#8230; Continue reading August Individual Rookie Idol Brand Reputation Rankings Announced\nThe post August Individual Rookie Idol Brand Reputation Rankings Announced appeared first on Soompi.",
+    "published_at": "0805soompi",
+    "published_ts": 1785881759.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "8月新人偶像个人品牌评价榜公布 RESCENE再次登顶",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "韩国企业评价研究所于8月公布7月5日至8月5日期间的新人偶像个人品牌评价排名",
+      "排名基于消费者参与度、媒体覆盖、互动及社区认知度指数分析",
+      "RESCENE组合成员再次占据榜单首位"
+    ],
+    "summary_zh": "韩国企业评价研究所公布了8月新人偶像个人品牌评价排名，该排名基于7月5日至8月5日期间收集的大数据，分析了消费者参与度、媒体覆盖、互动及社区认知度等指标。RESCENE组合再次在榜单中占据主导地位，具体排名详情见原文。",
+    "extracted_at": "2026-08-05T10:05:21.352176+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "New Must-Watch K-Drama on Our Radar: Seo Kang Jun and Ahn Eun Jin's 'A Love Other Than Yours' - Metro.Style",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWl9HelR0NmlKclAtTWtkQV9HaHpYS3ZVNXdRSUI0N1NPZW5KQXNMQUt4c29rS0t1QXpUZDJTR1ZTUldhdm1tOGZlbmdqbDRTUmVRa2FETFZraDFfbldOOUhIVHlyVTZfdXRTS1MyeF85dmJaTnlhTldJYnVlQXJjU1Nybmg3T1pZemxDNkpiS2V1bEozYXA4LWxDWjNXdlV5NHE5TVJ1YlE3cEVhSVRhZEpISlRBMlgzQkpnZjNBMzNuMXJvRzQ4N1ZrRQ?oc=5",
+    "content": "New Must-Watch K-Drama on Our Radar: Seo Kang Jun and Ahn Eun Jin's 'A Love Other Than Yours' Metro.Style",
+    "published_at": "0805google-kpop",
+    "published_ts": 1785877019.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "徐康俊与安恩真主演新剧《不是你的爱》备受期待",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：该剧由徐康俊和安恩真主演，剧名为《A Love Other Than Yours》（暂译：不是你的爱）",
+      "事实点2：该剧被Metro.Style列为必看新韩剧"
+    ],
+    "summary_zh": "据Metro.Style报道，由徐康俊和安恩真主演的新韩剧《A Love Other Than Yours》（暂译：不是你的爱）被列为必看新剧。该剧尚未播出，但已引起关注。",
+    "extracted_at": "2026-08-05T10:05:23.552743+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Jennie Breaks Top 10 Of Billboard’s Summer Songs Chart With “Dracula” As “Less than a Lover” Debuts On Global 200",
+    "url": "https://www.soompi.com/article/1859996wpp/jennie-breaks-top-10-of-billboards-summer-songs-chart-with-dracula-as-less-than-a-lover-debuts-on-global-200",
+    "content": "BLACKPINK’s Jennie and Tame Impala’s collab version of “Dracula” is on its way to becoming one of the top 10 hits of the summer! On August 4 local time, Billboard revealed that Jennie and Tame Impala’s remix of “Dracula” had entered the top 10 of its Songs of the Summer chart for the first time.&#8230; Continue reading Jennie Breaks Top 10 Of Billboard&#8217;s Summer Songs Chart With &#8220;Dracula&#8221; As &#8220;Less than a Lover&#8221; Debuts On Global 200\nThe post Jennie Breaks Top 10 Of Billboard&#8217;s Summer Songs Chart With &#8220;Dracula&#8221; As &#8220;Less than a Lover&#8221; Debuts On Global 200 appeared first on Soompi.",
+    "published_at": "0805soompi",
+    "published_ts": 1785876314.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Jennie《Dracula》进入Billboard夏季歌曲榜前十，《Less than a Lover》首登Global 200",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "当地时间8月4日，Billboard公布BLACKPINK成员Jennie与Tame Impala合作的《Dracula》混音版首次进入其夏季歌曲榜（Songs of the Summer）前十名。",
+      "Jennie的另一首歌曲《Less than a Lover》首次登上Billboard Global 200榜单。"
+    ],
+    "summary_zh": "当地时间8月4日，Billboard公布BLACKPINK成员Jennie与Tame Impala合作的《Dracula》混音版首次进入其夏季歌曲榜（Songs of the Summer）前十名。此外，Jennie的另一首歌曲《Less than a Lover》也首次登上Billboard Global 200榜单。",
+    "extracted_at": "2026-08-05T10:05:25.848762+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -20,8 +335,8 @@
       "事实点1：8月5日午夜（韩国时间），YG娱乐发布BIGBANG 20周年纪念版官方应援棒预告视频",
       "事实点2：视频展示了新版应援棒的设计，为即将到来的“XX：”活动做准备"
     ],
-    "summary_zh": "8月5日午夜（韩国时间），YG娱乐公开了BIGBANG 20周年纪念版官方应援棒的预告视频。视频展示了新版应援棒的设计，该应援棒将用于组合即将举行的“XX：”活动。",
-    "extracted_at": "2026-08-05T01:42:19.232165+08:00"
+    "summary_zh": "8月5日午夜（韩国时间），YG娱乐发布了BIGBANG 20周年纪念版官方应援棒的预告视频。视频中展示了新版应援棒的设计，该应援棒将用于组合即将举行的“XX：”活动。",
+    "extracted_at": "2026-08-05T10:05:28.056114+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -36,16 +351,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "K-Pop明星延俊将亮相GMA夏日音乐会系列中央公园演出",
+    "title_zh": "K-Pop明星Yeonjun将亮相GMA夏季音乐会系列中央公园演出",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：K-Pop明星延俊（Yeonjun）将参加GMA夏日音乐会系列（GMA Summer Concert Series）的演出。",
-      "事实点2：演出地点为纽约中央公园（Central Park）。"
+      "事实点1：K-Pop明星Yeonjun将参加GMA夏季音乐会系列，在中央公园进行表演。",
+      "事实点2：该演出由BroadwayWorld报道。"
     ],
-    "summary_zh": "据BroadwayWorld报道，K-Pop明星延俊（Yeonjun）确定将参加GMA夏日音乐会系列（GMA Summer Concert Series），在纽约中央公园（Central Park）进行表演。具体演出日期和更多细节尚未公布。",
-    "extracted_at": "2026-08-05T01:42:21.264337+08:00"
+    "summary_zh": "据BroadwayWorld报道，K-Pop明星Yeonjun将参加GMA夏季音乐会系列，在中央公园进行表演。具体演出日期和更多细节尚未公布。",
+    "extracted_at": "2026-08-05T10:05:29.866735+08:00"
   },
   {
     "source_id": "soompi",
@@ -66,34 +381,35 @@
     "is_blurred": false,
     "facts_list": [
       "事实点1：7月27日，DAY6成员Young K发行第二张个人正规专辑《YOUNGEST》",
-      "事实点2：截至发行当日，专辑销量已超过50,000张，打破其个人首周销量纪录（此前纪录为40,189张）"
+      "事实点2：截至发行当日，专辑销量已超过5万张",
+      "事实点3：该销量打破了Young K此前个人首周销量纪录（40,189张）"
     ],
-    "summary_zh": "DAY6成员Young K于7月27日携第二张个人正规专辑《YOUNGEST》回归，专辑发行当日销量即突破5万张，刷新了他个人首周销量纪录（此前为40,189张），显示出显著的成长。",
-    "extracted_at": "2026-08-05T01:42:23.777915+08:00"
+    "summary_zh": "DAY6成员Young K于7月27日携第二张个人正规专辑《YOUNGEST》回归，专辑发行当日销量即突破5万张，刷新了他个人首周销量纪录（此前为40,189张），显示出显著的成长势头。",
+    "extracted_at": "2026-08-05T10:05:32.193583+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "Alert: There’s a New Batch of ‘KPop Demon Hunters’ Toys for Your Huntr/x Fans - Good Housekeeping",
+    "title": "Alert: There’s a New Batch of ‘KPop Demon Hunters’ Toys for Your Huntr/x Fans - goodhousekeeping.com",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc01pSXNhRU5YUkd1MjV0RjZOWjNmcVFrMEtHVlFlOC1IdkZycVcydUxpVllkRk0zc0pFUGtKZmRRS2JTRTFXamo4MHZkYzRnWGhLZFMtdC1tdlpPNjlZTEM5Nl9FdDdDSS1ZV2RvckdJbDNFSEU0UkdyVHRaY05jOXFLV0lLQVAwQ0JJam5mWVZxTkloVVZXdENB?oc=5",
-    "content": "Alert: There’s a New Batch of ‘KPop Demon Hunters’ Toys for Your Huntr/x Fans Good Housekeeping",
+    "content": "Alert: There’s a New Batch of ‘KPop Demon Hunters’ Toys for Your Huntr/x Fans goodhousekeeping.com",
     "published_at": "0805google-kpop",
     "published_ts": 1785861247.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "KPop Demon Hunters新玩具系列发布，Huntr/x粉丝不容错过",
+    "title_zh": "KPop Demon Hunters 推出新玩具系列，Huntr/x 粉丝不容错过",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：Good Housekeeping发布警报，宣布推出新一批'KPop Demon Hunters'玩具。",
-      "事实点2：该玩具系列面向Huntr/x粉丝。"
+      "事实点1：KPop Demon Hunters 推出新一批玩具，面向 Huntr/x 粉丝。",
+      "事实点2：该消息由 goodhousekeeping.com 发布。"
     ],
-    "summary_zh": "据Good Housekeeping报道，新一批'KPop Demon Hunters'玩具已经发布，专为Huntr/x粉丝设计。该系列玩具以K-pop为主题，结合了恶魔猎人元素，为粉丝提供新的收藏选择。",
-    "extracted_at": "2026-08-05T01:42:25.892945+08:00"
+    "summary_zh": "据 goodhousekeeping.com 报道，KPop Demon Hunters 系列推出了新一批玩具，专为 Huntr/x 的粉丝设计。该系列玩具的具体细节尚未披露，但已引起粉丝关注。",
+    "extracted_at": "2026-08-05T10:05:34.298545+08:00"
   },
   {
     "source_id": "soompi",
@@ -108,16 +424,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Red Velvet新专辑《Velvet Summer》登顶全球多国iTunes排行榜",
+    "title_zh": "Red Velvet新专辑《Velvet Summer》全球iTunes榜单登顶",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "事实点1：8月3日下午6点（韩国时间），Red Velvet携迷你专辑《Velvet Summer》及主打曲《Surfin' Boy》回归。",
-      "事实点2：专辑发行后，立即在多个国家的iTunes排行榜上位列第一。"
+      "事实点2：专辑发行后立即在全球多个国家的iTunes排行榜上位居榜首。"
     ],
-    "summary_zh": "Red Velvet于8月3日下午6点（韩国时间）发行了迷你专辑《Velvet Summer》及主打曲《Surfin' Boy》，回归乐坛。专辑发行后迅速在全球多个国家的iTunes排行榜上登顶，展现了组合的强大影响力。",
-    "extracted_at": "2026-08-05T01:42:28.509663+08:00"
+    "summary_zh": "Red Velvet于8月3日下午6点（韩国时间）携迷你专辑《Velvet Summer》及主打曲《Surfin' Boy》回归，专辑发行后迅速在全球多个国家的iTunes排行榜上登顶。",
+    "extracted_at": "2026-08-05T10:05:36.322399+08:00"
   },
   {
     "source_id": "asianwiki",
