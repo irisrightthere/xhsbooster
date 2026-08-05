@@ -1,5 +1,344 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "‘KPop Demon Hunters’ bumper art book to offer a deep-dive on the hit musical - NME",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPblZDNWl0Ni04Y2VnSTU2a3JNc0xFejh1dERyLWdBSUk3enVjR2I4RUw0RXYzUWIxaXFlVEtCSFUtV3pXc3RPZTNGVzJKVXlxM1FXa3pYQ2lTcWpqNkNPeXg4Mk9SZ2wzVVh5RkViZlhzY2o2b2ZRMk5WNjdLeWRtUkhlbUdfZDRUT192NmVSX3pzck9TMzJNTDRGZjE2YkpnUXpMNU83SXNSMFNjYTBZYkhn?oc=5",
+    "content": "‘KPop Demon Hunters’ bumper art book to offer a deep-dive on the hit musical NME",
+    "published_at": "0805google-kpop",
+    "published_ts": 1785924165.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《KPop Demon Hunters》豪华艺术画册将深度解析热门音乐剧",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：NME报道，《KPop Demon Hunters》将推出豪华艺术画册",
+      "事实点2：该画册将深度解析这部热门音乐剧"
+    ],
+    "summary_zh": "据NME报道，热门音乐剧《KPop Demon Hunters》将推出一本豪华艺术画册，为粉丝提供对这部音乐剧的深度解析。画册内容将涵盖音乐剧的创作背景、舞台设计、角色造型等幕后细节，让读者更全面地了解这部作品。",
+    "extracted_at": "2026-08-05T18:30:14.866048+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "ALPHA DRIVE ONE Confirmed As 2nd Players For Horror Variety Show “SUMBAKKOKJIL 2”",
+    "url": "https://www.soompi.com/article/1860242wpp/alpha-drive-one-confirmed-as-2nd-players-for-horror-variety-show-sumbakkokjil-2",
+    "content": "ALPHA DRIVE ONE has been confirmed as the next group to enter Mnet&#8217;s spine-chilling horror variety show &#8220;SUMBAKKOKJIL 2&#8221; (literally meaning &#8220;hide-and-seek&#8221; in Korean)! On August 5, Mnet Plus announced that ALPHA DRIVE ONE will be the second lineup to take on &#8220;SUMBAKKOKJIL 2,&#8221; following the first players CORTIS. &#8220;SUMBAKKOKJIL&#8221; is a survival-style variety show&#8230; Continue reading ALPHA DRIVE ONE Confirmed As 2nd Players For Horror Variety Show &#8220;SUMBAKKOKJIL 2&#8221;\nThe post ALPHA DRIVE ONE Confirmed As 2nd Players For Horror Variety Show &#8220;SUMBAKKOKJIL 2&#8221; appeared first on Soompi.",
+    "published_at": "0805soompi",
+    "published_ts": 1785923621.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "ALPHA DRIVE ONE确定出演恐怖综艺《捉迷藏2》 成为第二组玩家",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：8月5日，Mnet Plus宣布ALPHA DRIVE ONE将作为第二组玩家出演恐怖综艺《SUMBAKKOKJIL 2》（韩语意为“捉迷藏”）。",
+      "事实点2：第一组玩家为CORTIS，该节目为生存型综艺。"
+    ],
+    "summary_zh": "Mnet的恐怖综艺《SUMBAKKOKJIL 2》确认ALPHA DRIVE ONE为第二组出演玩家。8月5日，Mnet Plus发布此消息，此前已公布第一组玩家为CORTIS。该节目为生存型综艺，具体播出日期尚未公开。",
+    "extracted_at": "2026-08-05T18:30:17.659128+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "ENHYPEN fan’s death sparks debate over cyberbullying and toxic fandom - The Standard (HK)",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY3ZNNXg1cDVUQ0RFblRGNVBnV3JQSGRyNmdLcTc0LTgyMGhJZm01ZDIzajFnN01wdDF2dUw3WTI0eHJIR1Azdk9NdFUwQzh2a3F5Nl9DQ244TllCaXl1TW1iZTNiT0QtbmRxaHhNcHpzSFVvWERLRHZLSWxEQnBybDhoMnBuLUFGampEUTROS0MxTGMtUTlzbF9KY00teWhOcDNoU2ZOVjlCX290ZHByRmVOcnU0d3VLdjFBQjRjaHR1cTlG?oc=5",
+    "content": "ENHYPEN fan’s death sparks debate over cyberbullying and toxic fandom The Standard (HK)",
+    "published_at": "0805google-kpop",
+    "published_ts": 1785922853.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "ENHYPEN粉丝去世引发网络霸凌与有毒粉丝文化讨论",
+    "source_type": "韩娱",
+    "risk_level": "高",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：一名ENHYPEN粉丝去世，具体时间、地点及死因未在原文中明确提及。",
+      "事实点2：该事件引发关于网络霸凌和有毒粉丝文化的讨论，但原文未提供具体案例或数据。"
+    ],
+    "summary_zh": "据《The Standard (HK)》报道，一名ENHYPEN粉丝的去世引发了关于网络霸凌和有毒粉丝文化的广泛讨论。然而，原文未提及该粉丝去世的具体时间、地点、原因，也未提供任何具体事件细节或数据支持。讨论焦点在于粉丝文化中的负面现象，但缺乏具体事实依据。",
+    "extracted_at": "2026-08-05T18:30:20.032171+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Doh Kyung Soo’s Agency Announces Legal Action Against Malicious Posts",
+    "url": "https://www.soompi.com/article/1860236wpp/doh-kyung-soos-agency-announces-legal-action-against-malicious-posts",
+    "content": "Doh Kyung Soo&#8217;s agency has announced that it will be taking legal action against malicious posts targeting the star. On August 5, Blitzway Entertainment released an official statement stating it will pursue both civil and criminal legal action against those responsible for spreading false information, defamation, sexual harassment, privacy violations, and other malicious content directed&#8230; Continue reading Doh Kyung Soo&#8217;s Agency Announces Legal Action Against Malicious Posts\nThe post Doh Kyung Soo&#8217;s Agency Announces Legal Action Against Malicious Posts appeared first on Soompi.",
+    "published_at": "0805soompi",
+    "published_ts": 1785921695.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "都暻秀所属社Blitzway宣布对恶意帖子采取法律行动",
+    "source_type": "韩娱",
+    "risk_level": "中",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：8月5日，Blitzway Entertainment发布官方声明，宣布将对针对都暻秀的恶意帖子采取法律行动。",
+      "事实点2：声明称将追究散布虚假信息、诽谤、性骚扰、侵犯隐私等恶意内容相关人员的民事和刑事责任。"
+    ],
+    "summary_zh": "8月5日，都暻秀所属社Blitzway Entertainment发布官方声明，宣布将对针对该艺人的恶意帖子采取法律行动。声明指出，公司将追究散布虚假信息、诽谤、性骚扰、侵犯隐私等恶意内容相关人员的民事和刑事责任。此举旨在保护艺人权益，应对网络恶意行为。",
+    "extracted_at": "2026-08-05T18:30:22.432854+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "6 K-Dramas With Male Leads So Jealous, It’s Basically A Personality Trait",
+    "url": "https://www.soompi.com/article/1858071wpp/6-k-dramas-with-male-leads-so-jealous-its-basically-a-personality-trait",
+    "content": "There&#8217;s a very specific breed of K-drama male leads who don&#8217;t just fall in love, they combust. One stray smile at another guy, one old flame showing up, one too-friendly co-worker, and suddenly he&#8217;s brooding in the doorway, sulking in a corner, or ready to wrestle his rival and take him down. It shouldn&#8217;t be&#8230; Continue reading 6 K-Dramas With Male Leads So Jealous, It&#8217;s Basically A Personality Trait\nThe post 6 K-Dramas With Male Leads So Jealous, It&#8217;s Basically A Personality Trait appeared first on Soompi.",
+    "published_at": "0805soompi",
+    "published_ts": 1785920692.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "6部韩剧男主嫉妒成性，堪称人格特质",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文未提及具体剧名、播出时间或具体情节，仅以概括性描述列举了6部韩剧的男主具有强烈嫉妒心。"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：6部韩剧的男主角不仅坠入爱河，而且嫉妒心极强，几乎成为其人格特质。他们因他人对女主微笑、前任出现或同事过于友好而表现出阴郁、生闷气或与对手争斗的行为。]",
+    "extracted_at": "2026-08-05T18:30:24.811705+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Ryu Seung Ryong Is A Former Baseball Star Who Will Risk Everything For His Daughter In “Portrait Of A Family”",
+    "url": "https://www.soompi.com/article/1860213wpp/ryu-seung-ryong-is-a-former-baseball-star-who-will-risk-everything-for-his-daughter-in-portrait-of-a-family",
+    "content": "The upcoming film “Portrait of a Family” has unveiled new stills of Ryu Seung Ryong! “Portrait of a Family” is a family chronicle that follows top star couple Jung Gu (Ryu Seung Ryong) and Nam Mi (Ha Ji Won). After their marriage falls apart due to the sudden appearance of Jung Gu’s daughter Dong Ju&#8230; Continue reading Ryu Seung Ryong Is A Former Baseball Star Who Will Risk Everything For His Daughter In “Portrait Of A Family”\nThe post Ryu Seung Ryong Is A Former Baseball Star Who Will Risk Everything For His Daughter In “Portrait Of A Family” appeared first on Soompi.",
+    "published_at": "0805soompi",
+    "published_ts": 1785919472.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "柳承龙新片《家族的肖像》剧照公开，饰演为女儿不惜一切的前棒球明星",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "电影《家族的肖像》公开了柳承龙的新剧照",
+      "柳承龙在片中饰演前棒球明星郑九（暂译）",
+      "该片讲述顶级明星夫妇郑九（柳承龙饰）和南美（河智苑饰）因郑九女儿东珠（暂译）的突然出现而婚姻破裂的家庭故事"
+    ],
+    "summary_zh": "电影《家族的肖像》公开了柳承龙的新剧照。该片是一部家庭编年史，讲述顶级明星夫妇郑九（柳承龙饰）和南美（河智苑饰）因郑九女儿东珠的突然出现而婚姻破裂的故事。柳承龙饰演的前棒球明星郑九，将为了女儿不惜一切。",
+    "extracted_at": "2026-08-05T18:30:27.592704+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Sunmi's 'Forever July' Challenge Heats Up K-Pop - 조선일보",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX1ljRUFleHpZQ2tYbDdabUZaQzBmOXhZWnJwWThBT0gwMXdfcml4aGNyYTlTV3ZkTkdiQXlDbGpKVXVqTWM0VVdvWEhMQnZGcEZic0J3elV3a2pKLVV2OVNPa29rUkhGRnd5VUF3MmRqVXVjSndDSE1JazNVQlFlZVBGa1c1ZGtFZzM1NjFn?oc=5",
+    "content": "Sunmi's 'Forever July' Challenge Heats Up K-Pop 조선일보",
+    "published_at": "0805google-kpop",
+    "published_ts": 1785918989.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "宣美《Forever July》挑战点燃K-POP热潮",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "宣美发起《Forever July》挑战，在K-POP圈引发参与热潮"
+    ],
+    "summary_zh": "宣美的新歌《Forever July》挑战在K-POP圈掀起热潮，众多粉丝和艺人参与其中，进一步提升了歌曲的流行度。",
+    "extracted_at": "2026-08-05T18:30:29.571315+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Official 'KPop Demon Hunters' Light Sticks Release Ahead of Global Tour — Here's Where to Shop - Billboard",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdngwSml4aUMxWTM4eUhYa05UR0Q4ZmxhTzFiMzJYUmsxM0lVZE9XRG0zVXV0Wndzb0Z5UlQxX3dpQnk3ZHo0cEdGMFFfMVg1LVdMbXhxcmZJcno5UzFudUlXN1lnZWlSNHB3UC1WNHdGS01teWh4SkZ0cl9aempicURtaXUtclIzdjV1NFhCZ1pkdHZxWmpsQ2xoemlRUnIxcXc2c2lZaVdrTnpQLTNUUl9mNnlrR3Zvc2dqUldRbllVc3Nv?oc=5",
+    "content": "Official 'KPop Demon Hunters' Light Sticks Release Ahead of Global Tour — Here's Where to Shop Billboard",
+    "published_at": "0805google-kpop",
+    "published_ts": 1785916172.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "KPop Demon Hunters官方应援棒发布，全球巡演在即，购买渠道公布",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：KPop Demon Hunters官方应援棒已发布，时间未具体说明",
+      "事实点2：应援棒发布与全球巡演相关，巡演即将开始",
+      "事实点3：购买渠道已公布，具体渠道未在原文中详述"
+    ],
+    "summary_zh": "KPop Demon Hunters组合在即将举行的全球巡演前，发布了官方应援棒。应援棒现已上市，粉丝可通过官方渠道购买。具体购买地点和巡演日期未在原文中详细说明。",
+    "extracted_at": "2026-08-05T18:30:31.723836+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "SM Announces Comeback Lineup For Remainder Of 2026",
+    "url": "https://www.soompi.com/article/1860159wpp/sm-announces-comeback-lineup-for-remainder-of-2026",
+    "content": "SM Entertainment has announced its artist lineup for the second half of 2026! On August 5, SM Entertainment shared its business results for the second quarter of 2026, which includes a preview of upcoming music releases for the remainder of the year. Girls&#8217; Generation unit Girls&#8217; Generation-HRS (consisting of members Hyoyeon, Yuri, and Sooyoung) is&#8230; Continue reading SM Announces Comeback Lineup For Remainder Of 2026\nThe post SM Announces Comeback Lineup For Remainder Of 2026 appeared first on Soompi.",
+    "published_at": "0805soompi",
+    "published_ts": 1785914863.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "SM娱乐公布2026年下半年回归阵容，少女时代小分队HRS在列",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：8月5日，SM娱乐公布2026年第二季度业绩报告，其中包含下半年音乐发行预告。",
+      "事实点2：少女时代小分队Girls' Generation-HRS（成员：孝渊、Yuri、秀英）被列入回归阵容。"
+    ],
+    "summary_zh": "SM娱乐于8月5日发布2026年第二季度业绩报告，并借此公开了下半年的回归阵容预告。其中，少女时代小分队Girls' Generation-HRS（由孝渊、Yuri、秀英组成）确认将发行新音乐。具体回归日期和作品细节尚未披露。",
+    "extracted_at": "2026-08-05T18:30:34.173690+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Namkoong Min Coldly Confronts His Father-In-Law In “The Husband”",
+    "url": "https://www.soompi.com/article/1860182wpp/namkoong-min-coldly-confronts-his-father-in-law-in-the-husband",
+    "content": "Namkoong Min is finally confronting his father-in-law in the next episode of “The Husband”! “The Husband” is a thriller that follows Kang Tae Joo (Namkoong Min), a man who becomes entangled in a desperate battle against a dangerous criminal after his wife is kidnapped just before their divorce. Spoilers Previously, Kang Tae Joo was left&#8230; Continue reading Namkoong Min Coldly Confronts His Father-In-Law In “The Husband”\nThe post Namkoong Min Coldly Confronts His Father-In-Law In “The Husband” appeared first on Soompi.",
+    "published_at": "0805soompi",
+    "published_ts": 1785914785.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《丈夫》南宫珉冷面相对岳父，剧情紧张升级",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：在《丈夫》下一集中，南宫珉饰演的姜泰柱与岳父正面相对，态度冷淡。",
+      "事实点2：该剧为惊悚题材，讲述姜泰柱在离婚前夕妻子被绑架，与危险罪犯展开殊死搏斗的故事。"
+    ],
+    "summary_zh": "韩剧《丈夫》公开新剧照，南宫珉饰演的姜泰柱在下一集中将与岳父冷面对峙。该剧为惊悚题材，讲述姜泰柱在离婚前夕妻子被绑架，他因此陷入与危险罪犯的殊死搏斗。此前剧情中，姜泰柱已陷入困境，此次与岳父的冲突或将推动剧情进一步发展。",
+    "extracted_at": "2026-08-05T18:30:37.261969+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Park So Dam Is The Strategist Behind Her Family’s Dangerous Mission In New Film “The Journey To Gyeongju”",
+    "url": "https://www.soompi.com/article/1860031wpp/park-so-dam-is-the-strategist-behind-her-familys-dangerous-mission-in-new-film-the-journey-to-gyeongju",
+    "content": "“The Journey to Gyeongju” has unveiled new stills of Park So Dam in character! “The Journey to Gyeongju” is a family revenge film about a mother and three daughters who embark on a “killer” journey after waiting eight years, all for their youngest daughter Gyeong Ju who never returned from a school field trip. Park&#8230; Continue reading Park So Dam Is The Strategist Behind Her Family’s Dangerous Mission In New Film “The Journey To Gyeongju”\nThe post Park So Dam Is The Strategist Behind Her Family’s Dangerous Mission In New Film “The Journey To Gyeongju” appeared first on Soompi.",
+    "published_at": "0805soompi",
+    "published_ts": 1785914137.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "朴素丹新片《庆州之旅》剧照公开，饰演家族危险任务背后的战略家",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "电影《庆州之旅》公开了朴素丹的角色新剧照。",
+      "该片是一部家庭复仇电影，讲述母亲和三个女儿在等待八年后，为从未从学校郊游归来的小女儿庆州展开一场“杀手”之旅。"
+    ],
+    "summary_zh": "电影《庆州之旅》公开了朴素丹的新剧照，她在片中饰演家族危险任务背后的战略家。该片是一部家庭复仇电影，讲述母亲和三个女儿在等待八年后，为从未从学校郊游归来的小女儿庆州展开一场“杀手”之旅。",
+    "extracted_at": "2026-08-05T18:30:39.687686+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "SM Entertainment posts 15 percent revenue growth in Q2 on concert boom - koreajoongangdaily.com",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTV90V3FOSVZyNl9hM1NJUjhMcEVlY3BSS3kyWnlOTkl1RmFzS2ZyeS1BbGF1cE40YlczX3lJLVZOYVZwemM0LWdUSUN1TGNWNjF6cmJVUkFqS3JFRXgwVkVsb3NJVU9NaHJRQVlkbzBwSFU3M04wOWZSd19KRzY4YmI0bVJWLUZMdGdNVXZiNVBfUmQtMzM3eVMzNFZudTNSd0lmY2VleGJ2VkI4VG1seGNETkFBekt0RXpVcGtjcVM?oc=5",
+    "content": "SM Entertainment posts 15 percent revenue growth in Q2 on concert boom koreajoongangdaily.com",
+    "published_at": "0805google-kpop",
+    "published_ts": 1785913148.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "SM娱乐第二季度营收增长15%，演唱会热潮推动业绩",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "SM娱乐第二季度营收同比增长15%",
+      "增长主要得益于演唱会活动的增加"
+    ],
+    "summary_zh": "据韩国中央日报报道，SM娱乐公司第二季度营收同比增长15%，主要得益于演唱会活动的繁荣。具体数据未详细披露，但公司业绩增长显著。",
+    "extracted_at": "2026-08-05T18:30:41.617805+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Byun Yo Han, Roh Jae Won, And More Take The Spotlight In Unique Illustrated Poster For “Tazza 4”",
+    "url": "https://www.soompi.com/article/1860063wpp/byun-yo-han-roh-jae-won-and-more-take-the-spotlight-in-unique-illustrated-poster-for-tazza-4",
+    "content": "Upcoming film “Tazza 4: The Song of Beelzebub” (working title) has unveiled a new poster! Returning with a new chapter after six years, “Tazza 4: The Song of Beelzebub” follows Jang Tae Young (Byun Yo Han), who thought he had everything after building a thriving online casino empire, until his best friend Park Tae Young&#8230; Continue reading Byun Yo Han, Roh Jae Won, And More Take The Spotlight In Unique Illustrated Poster For “Tazza 4”\nThe post Byun Yo Han, Roh Jae Won, And More Take The Spotlight In Unique Illustrated Poster For “Tazza 4” appeared first on Soompi.",
+    "published_at": "0805soompi",
+    "published_ts": 1785913048.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《老千4》公开独特插画海报，卞约汉、卢在元等主演亮相",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "电影《老千4：别西卜之歌》（暂译）公开新海报",
+      "该片为《老千》系列时隔六年的新作",
+      "海报采用独特插画风格，突出卞约汉、卢在元等演员",
+      "剧情讲述卞约汉饰演的张泰英（暂译）在建立在线赌场帝国后，与好友朴泰英（暂译）之间的故事"
+    ],
+    "summary_zh": "电影《老千4：别西卜之歌》（暂译）公开了全新插画风格海报，该片是《老千》系列时隔六年的新作。海报中，卞约汉、卢在元等主演亮相。影片讲述卞约汉饰演的张泰英（暂译）在建立在线赌场帝国后，与好友朴泰英（暂译）之间的故事。",
+    "extracted_at": "2026-08-05T18:30:44.477913+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "SEVENTEEN’s Seungkwan, Ko Kyung Pyo, And More Confirmed For New Season Of “The Great Escape”",
+    "url": "https://www.soompi.com/article/1860160wpp/seventeens-seungkwan-ko-kyung-pyo-and-more-confirmed-for-new-season-of-the-great-escape",
+    "content": "“The Great Escape” is officially returning with a brand-new season! On August 5, CJ ENM announced that “The Great Escape” will return with a new season in the second half of 2026. “The Great Escape” is an adventure variety show where the cast works together to solve elaborate escape room challenges. Since premiering on tvN&#8230; Continue reading SEVENTEEN&#8217;s Seungkwan, Ko Kyung Pyo, And More Confirmed For New Season Of &#8220;The Great Escape&#8221;\nThe post SEVENTEEN&#8217;s Seungkwan, Ko Kyung Pyo, And More Confirmed For New Season Of &#8220;The Great Escape&#8221; appeared first on Soompi.",
+    "published_at": "0805soompi",
+    "published_ts": 1785911330.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "SEVENTEEN夫胜宽、高庚杓等确认出演《大逃脱》新一季",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：8月5日，CJ ENM宣布《大逃脱》将于2026年下半年回归新一季。",
+      "事实点2：出演阵容包括SEVENTEEN的夫胜宽、高庚杓等。",
+      "事实点3：《大逃脱》是一档冒险综艺，成员们合作解决复杂的密室逃脱挑战。"
+    ],
+    "summary_zh": "CJ ENM于8月5日宣布，《大逃脱》将在2026年下半年推出新一季。该节目是一档冒险综艺，成员们需合作解开复杂的密室逃脱谜题。已确认出演的包括SEVENTEEN的夫胜宽、高庚杓等。",
+    "extracted_at": "2026-08-05T18:30:46.951463+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -12,25 +351,25 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "柳海真、朴海日、李敏镐等主演新片《刺客》剧照公开，联手追寻真相",
+    "title_zh": "柳海真、朴海日、李敏镐等携手追查真相，新片《刺客》公开剧照",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：新片《Assassins》（暂译《刺客》）公开新剧照，主演包括柳海真、朴海日、李敏镐等。",
-      "事实点2：影片讲述调查震惊韩国的8月15日枪击事件背后神秘力量的故事。",
-      "事实点3：剧照中，柳海真饰演的Cheol Gu、朴海日饰演的Jae Hwan、李敏镐饰演的Young Il聚集一处，表情坚定。"
+      "新片《刺客》公开新剧照，主演包括柳海真、朴海日、李敏镐等。",
+      "影片讲述对震惊韩国的8月15日枪击事件背后谜团和势力的调查。",
+      "剧照中，哲九（柳海真饰）、在焕（朴海日饰）、英一（李敏镐饰）聚集一处，表情坚定。"
     ],
-    "summary_zh": "新片《Assassins》（暂译《刺客》）公开新剧照，主演柳海真、朴海日、李敏镐等齐聚。影片围绕震惊韩国的8月15日枪击事件展开调查，揭示其背后的神秘力量。剧照中，三人表情坚定，共同追寻真相。",
-    "extracted_at": "2026-08-05T14:24:08.258562+08:00"
+    "summary_zh": "新片《刺客》公开新剧照，主演柳海真、朴海日、李敏镐等集结。影片围绕震惊韩国的8月15日枪击事件展开调查，揭示背后的谜团与势力。剧照中，三位主角哲九、在焕、英一聚集一处，神情坚定，展现追查真相的决心。",
+    "extracted_at": "2026-08-05T18:30:49.752399+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "New K-drama releases of the week (August 3-9): 14 new Korean dramas streaming on Netflix & other OTT platforms - GQ India",
+    "title": "New K-drama releases of the week (August 3-9): 14 new Korean dramas streaming on Netflix & other OTT platforms - gqindia.com",
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTTNsOTJ0Q3NiS1kzR1pkTkxvM2FvWFJUdG9MMEN4X1ZDNXotc25DMWFkalhaM2hOTGNpWFJnOEJUcmtyVmxqOG5PdkM3X0J1TFM4M0NmS09BZHd6YzNYTkNTaWZNQjEtWDhkY1NIS3RvSExJaHUyQTR5QUlSMnB3cUtNc0lxQTEyNW50ajAzbFJkSGl3cHBlZjZhaWM2ek9DemxWYTlEMHlTMlE1UkMwU004MERia2pTMUEwVVlERmVKUGtzVmFRYUhfUWpDNTZxZk95WS1jWFg?oc=5",
-    "content": "New K-drama releases of the week (August 3-9): 14 new Korean dramas streaming on Netflix & other OTT platforms GQ India",
+    "content": "New K-drama releases of the week (August 3-9): 14 new Korean dramas streaming on Netflix & other OTT platforms gqindia.com",
     "published_at": "0805google-kpop",
     "published_ts": 1785909600.0,
     "category": "韩娱",
@@ -44,11 +383,10 @@
     "facts_list": [
       "时间：8月3日至9日",
       "数量：14部新韩剧",
-      "平台：Netflix及其他OTT平台",
-      "来源：GQ India"
+      "平台：Netflix及其他OTT平台"
     ],
-    "summary_zh": "据GQ India报道，8月3日至9日期间，Netflix及其他OTT平台将上线14部新韩剧。具体剧名和详情未在原文中列出。",
-    "extracted_at": "2026-08-05T14:24:10.293730+08:00"
+    "summary_zh": "据GQ India报道，本周（8月3日至9日）共有14部新韩剧在Netflix及其他OTT平台上线。具体剧名和详情未在摘要中提及。",
+    "extracted_at": "2026-08-05T18:30:51.640917+08:00"
   },
   {
     "source_id": "soompi",
@@ -69,10 +407,10 @@
     "is_blurred": false,
     "facts_list": [
       "Netflix新剧《Mousetrap》公开新剧照，主演包括柳俊烈、薛景求、李奎炯。",
-      "该剧改编自网络漫画，讲述隐居小说家因神秘男子“老鼠”失去名字、身份和财产，为夺回人生与追债人联手的故事。"
+      "该剧改编自网络漫画，讲述隐居小说家因神秘男子“老鼠”失去名字、身份和财产，为夺回人生与曾追捕他的高利贷者结成联盟。"
     ],
-    "summary_zh": "Netflix新剧《Mousetrap》公开新剧照，主演柳俊烈、薛景求、李奎炯在剧中追查神秘男子。该剧改编自网络漫画，是一部惊悚剧，讲述隐居小说家因神秘男子“老鼠”失去一切，为夺回人生与追债人结成意外联盟的故事。",
-    "extracted_at": "2026-08-05T14:24:12.754682+08:00"
+    "summary_zh": "Netflix新剧《Mousetrap》公开新剧照，主演柳俊烈、薛景求、李奎炯在剧中追查一名神秘男子。该剧改编自网络漫画，是一部惊悚剧，讲述隐居小说家因神秘男子“老鼠”失去一切，为夺回人生与曾追捕他的高利贷者结成意外联盟的故事。",
+    "extracted_at": "2026-08-05T18:30:54.242910+08:00"
   },
   {
     "source_id": "soompi",
@@ -87,25 +425,25 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "宋江、张圭悧、李濬荣新剧《四手联弹》公开剧照，展现十年后惊人蜕变",
+    "title_zh": "宋江、张圭悧、李濬荣新剧《四手联弹》剧照公开，展现十年后惊人蜕变",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "tvN新剧《四手联弹》公开新剧照，主演宋江、张圭悧、李濬荣出镜。",
-      "剧名“四手联弹”指两人共弹一架钢琴的演奏技法。",
-      "剧情讲述艺术高中相识的年轻人之间的友情、爱情、竞争与成长，时间跨度十年。"
+      "剧名“四手联弹”为钢琴术语，指两人共弹一架钢琴。",
+      "剧情讲述艺术高中相识的年轻人，在初次相遇10年后的友情、爱情、竞争与成长故事。"
     ],
-    "summary_zh": "tvN新剧《四手联弹》公开了主演宋江、张圭悧、李濬荣的新剧照，展现他们初次相遇十年后的惊人变化。该剧剧名源自钢琴术语“四手联弹”，指两人同弹一架钢琴的演奏形式。剧情围绕艺术高中相识的年轻人展开，描绘他们之间的友情、爱情、竞争与成长。",
-    "extracted_at": "2026-08-05T14:24:15.994814+08:00"
+    "summary_zh": "tvN新剧《四手联弹》公开了主演宋江、张圭悧、李濬荣的新剧照。该剧剧名源自钢琴术语“四手联弹”，指两人同弹一架钢琴。剧情围绕在艺术高中相遇的年轻人展开，描绘他们初次相遇10年后的友情、爱情、竞争与成长。",
+    "extracted_at": "2026-08-05T18:30:57.020061+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "BTS boycott puts K-pop labels on spot - Korea JoongAng Daily",
+    "title": "BTS boycott puts K-pop labels on spot - koreajoongangdaily.com",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdm1hVXVnTkZXNG5hdlNSMVlIdjlOOVhGSlg5ZUpwc29rMEYwZkNKc2hCYktBZGNIc2ZRZHdwMVVfYkpQQ3RyOXNjR1JpckFVUlB4OHhpUHYyZjdYVENXeXEtLTVqV0xBcWliaVFXMlFNbDNUdmdMZ0NuWFU3NXVaLTJ6VnNLSHViN0pWTy1NWVRSMjh3Y3g3Zzl3?oc=5",
-    "content": "BTS boycott puts K-pop labels on spot Korea JoongAng Daily",
+    "content": "BTS boycott puts K-pop labels on spot koreajoongangdaily.com",
     "published_at": "0805google-kpop",
     "published_ts": 1785906417.0,
     "category": "韩娱",
@@ -115,13 +453,12 @@
     "title_zh": "BTS抵制事件令K-pop经纪公司陷入困境",
     "source_type": "韩娱",
     "risk_level": "中",
-    "is_blurred": false,
+    "is_blurred": true,
     "facts_list": [
-      "事实点1：韩国《中央日报》报道，BTS抵制事件使K-pop经纪公司面临压力。",
-      "事实点2：报道未提及具体抵制行为、时间或涉及公司。"
+      "事实点1：原文未提及具体行为，仅称：BTS抵制事件令K-pop经纪公司陷入困境"
     ],
-    "summary_zh": "据韩国《中央日报》报道，BTS的抵制事件使K-pop经纪公司陷入困境。报道未提供具体细节，如抵制原因、时间或涉及的公司。",
-    "extracted_at": "2026-08-05T14:24:17.970540+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：BTS抵制事件令K-pop经纪公司陷入困境]",
+    "extracted_at": "2026-08-05T18:30:58.792585+08:00"
   },
   {
     "source_id": "soompi",
@@ -145,32 +482,8 @@
       "该剧讲述一对交往10年的情侣在熟悉的关系中经历意想不到的情感变化",
       "主演包括徐康俊和安恩真"
     ],
-    "summary_zh": "KBS2新剧《不是你的爱》公开了首次剧本围读的照片和视频。该剧是一部现实浪漫剧，讲述一对交往10年的情侣在熟悉的关系中经历意想不到的情感变化。主演徐康俊和安恩真展现了十年情侣的化学反应。",
-    "extracted_at": "2026-08-05T14:24:20.018518+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Official 'KPop Demon Hunters' Light Sticks Release Ahead of Global Tour — Here's Where to Shop - Billboard",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdngwSml4aUMxWTM4eUhYa05UR0Q4ZmxhTzFiMzJYUmsxM0lVZE9XRG0zVXV0Wndzb0Z5UlQxX3dpQnk3ZHo0cEdGMFFfMVg1LVdMbXhxcmZJcno5UzFudUlXN1lnZWlSNHB3UC1WNHdGS01teWh4SkZ0cl9aempicURtaXUtclIzdjV1NFhCZ1pkdHZxWmpsQ2xoemlRUnIxcXc2c2lZaVdrTnpQLTNUUl9mNnlrR3Zvc2dqUldRbllVc3Nv?oc=5",
-    "content": "Official 'KPop Demon Hunters' Light Sticks Release Ahead of Global Tour — Here's Where to Shop Billboard",
-    "published_at": "0805google-kpop",
-    "published_ts": 1785905372.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "KPop Demon Hunters官方应援棒全球巡演前发售，购买渠道公布",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：KPop Demon Hunters官方应援棒在全球巡演前发售",
-      "事实点2：购买渠道已公布，详见Billboard报道"
-    ],
-    "summary_zh": "KPop Demon Hunters官方应援棒在全球巡演前正式发售，购买渠道已公布。具体发售时间、价格及购买方式等细节需参考Billboard原文。",
-    "extracted_at": "2026-08-05T14:24:22.028171+08:00"
+    "summary_zh": "KBS2新剧《不是你的爱》公开了首次剧本围读的照片和视频。该剧是一部现实浪漫剧，讲述一对交往10年的情侣在熟悉的关系中经历意想不到的情感变化。主演徐康俊和安恩真在围读中展现了十年情侣的化学反应。",
+    "extracted_at": "2026-08-05T18:31:01.107824+08:00"
   },
   {
     "source_id": "soompi",
@@ -185,17 +498,41 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《出轨只是开始》新剧照：金憓秀、金智勋生活失控，赵如晶、金宰哲登场",
+    "title_zh": "《出轨只是开始》新剧照：金憓秀、金智勋生活失控，赵汝贞、金宰哲登场",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：韩剧《出轨只是开始》公开新剧照，展示金憓秀和金智勋饰演的角色生活陷入混乱。",
-      "事实点2：赵如晶和金宰哲饰演的角色将登场，介入剧情发展。",
-      "事实点3：该剧为黑色喜剧，讲述一对网红夫妇（金憓秀、金智勋饰）与邻居医生夫妇（赵如晶、金宰哲饰）之间因出轨引发的连锁反应。"
+      "事实点1：韩剧《出轨只是开始》公开新剧照，涉及金憓秀、金智勋、赵汝贞、金宰哲四位演员。",
+      "事实点2：该剧为黑色喜剧，讲述人气网红夫妇（金憓秀、金智勋饰）与邻居医生夫妇（赵汝贞、金宰哲饰）之间因出轨引发的连锁反应。"
     ],
-    "summary_zh": "韩剧《出轨只是开始》公开新剧照，显示金憓秀和金智勋饰演的网红夫妇生活失控，赵如晶和金宰哲饰演的医生夫妇将登场。该剧为黑色喜剧，围绕两对夫妇因出轨引发的连锁反应展开。",
-    "extracted_at": "2026-08-05T14:24:24.822406+08:00"
+    "summary_zh": "韩剧《出轨只是开始》公开新剧照，金憓秀、金智勋饰演的网红夫妇生活失控，赵汝贞、金宰哲饰演的医生夫妇登场。该剧为黑色喜剧，围绕两对夫妇因出轨引发的连锁反应展开。",
+    "extracted_at": "2026-08-05T18:31:03.803550+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Reshuffled lineups, solo returns, wave of debuts define August's K-pop releases - The Korea Times",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRXRtYy05TXFTQmZpWm44MUNoVmZpQlpLN0xCLURGWXM1WFZHMGZ1MlZyQTRtSjVLaWVQLV9CWDZCX2FnTXpNVTFwS2NBa1lpRW5reTdMd1hfdEhEZzBOYW5sSW1xb3J1WDFmeUhKbU1obF9Nanl1ZndFN0dWQkNDTUw1Qk90cDhmMnI2cnVHN0x3ZTV1b1VOWnE5RGE3Mkl1UjZrekY0ZjBfaWNNZ1U1bkc1aDB2LXBwTnpkY0RsYzk0MUU4NktOcjFvdHBQdGvSAdQBQVVfeXFMUEpBcTJObThGVy1ya2JaQm91amJONENlMXpla183eWY1LTN3NzVQZ3JEUFhrdDE1VmxzQlVTQWpSWEhVSE54SmpFR2lza0lmcUtHLUVSdDc1cEhoY1FMMERrRVhPRW9DUHpBSDZLUFU0ODV6V0c1Q1VoZ3h6NU1Wb0NMWHlVdm13cXFfWXJIN2YwMURDME0zNlJPcWgzRGlYRnhPNnZSb2oxZHdFY3FBU2dtRkVpMXhQd2h6NXBHRFZ0TG5UVHladlRnR2Y1RG12WXlxY2o?oc=5",
+    "content": "Reshuffled lineups, solo returns, wave of debuts define August's K-pop releases The Korea Times",
+    "published_at": "0805google-kpop",
+    "published_ts": 1785898811.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "八月K-pop回归潮：重组阵容、solo回归与新人出道齐发",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "时间：八月",
+      "主体：K-pop行业",
+      "具体动作：多组艺人发布新作，包括重组阵容、solo回归、新人出道"
+    ],
+    "summary_zh": "据韩国时报报道，八月K-pop发行市场呈现三大趋势：部分组合经历成员变动后以新阵容回归，多位歌手进行solo活动，同时涌现大量新人出道。具体艺人名单及作品细节未在原文中提及。",
+    "extracted_at": "2026-08-05T18:31:06.013975+08:00"
   },
   {
     "source_id": "soompi",
@@ -210,40 +547,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "NCT 127《Kick It》MV播放量突破2亿，成为组合首支达成此里程碑的MV",
+    "title_zh": "NCT 127《Kick It》MV突破2亿观看，成为组合首支达成此里程碑的MV",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：8月5日上午11点40分（韩国时间），NCT 127的《Kick It》MV在YouTube上播放量突破2亿次。",
-      "事实点2：该MV耗时约6年5个月零12小时达成此成绩。",
-      "事实点3：这是NCT 127首支播放量突破2亿的MV。"
+      "事实点1：8月5日上午11点40分（韩国时间），NCT 127的《Kick It》MV在YouTube上突破2亿观看次数。",
+      "事实点2：该MV用时约6年5个月零12小时达成此成绩。",
+      "事实点3：这是NCT 127首支观看次数突破2亿的MV。"
     ],
-    "summary_zh": "NCT 127的歌曲《Kick It》MV于8月5日上午11点40分（韩国时间）在YouTube上突破2亿次观看，成为组合首支达成此里程碑的MV。该MV自发布以来，历时约6年5个月零12小时达到这一数字。",
-    "extracted_at": "2026-08-05T14:24:27.336224+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "25 South Korean K-pop idols and actors with August birthdays - Tatler Asia",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSFZOVDFoU0VTTElJNWliOF9TOUpQaVBVZjZOX1I2R05uN2tBaTVBSkFVa0JIbEhRczlPWWREdklRMTNrVTJUV0diOC1JTzNudWhGQUxXSlB2TWJ2N0stOUR6RlBGUFNXRV9LdC03cHY2OGVvOGNUWmpjeU8zU0xvb2laUVBiY2NFa3l5X0J4aGNqZ1hE?oc=5",
-    "content": "25 South Korean K-pop idols and actors with August birthdays Tatler Asia",
-    "published_at": "0805google-kpop",
-    "published_ts": 1785893666.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Tatler Asia盘点25位8月生日的韩国K-pop偶像与演员",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：Tatler Asia发布文章，列出25位在8月生日的韩国K-pop偶像和演员。"
-    ],
-    "summary_zh": "Tatler Asia发布了一篇盘点文章，列出了25位在8月生日的韩国K-pop偶像和演员。文章未提供具体名单细节，仅作为生日汇总资讯。",
-    "extracted_at": "2026-08-05T14:24:29.131073+08:00"
+    "summary_zh": "NCT 127的歌曲《Kick It》MV于8月5日上午11点40分（韩国时间）在YouTube上突破2亿观看次数，用时约6年5个月零12小时。这一成绩使《Kick It》成为NCT 127首支观看次数突破2亿的MV，标志着组合在YouTube上的又一里程碑。",
+    "extracted_at": "2026-08-05T18:31:08.406433+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -262,9 +576,11 @@
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
-    "facts_list": [],
+    "facts_list": [
+      "原文未提及具体行为，仅称：红袜队阵容与K-Pop歌曲的对应关系"
+    ],
     "summary_zh": "[原文未提及具体行为，仅称：红袜队阵容与K-Pop歌曲的对应关系]",
-    "extracted_at": "2026-08-05T14:24:30.474601+08:00"
+    "extracted_at": "2026-08-05T18:31:09.998697+08:00"
   },
   {
     "source_id": "soompi",
@@ -284,11 +600,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：8月4日，ENA电视剧《Dream to You》收视率显著上升，全国平均收视率达2.5%。",
-      "事实点2：该剧距离大结局仅剩两周，还有四集未播出。"
+      "事实点1：8月4日，ENA电视剧《Dream to You》收视率显著上升。",
+      "事实点2：据尼尔森韩国数据，最新一集全国平均收视率达2.5%。",
+      "事实点3：该剧距离大结局仅剩最后四集。"
     ],
-    "summary_zh": "ENA电视剧《Dream to You》在8月4日播出的最新一集收视率显著上升，根据尼尔森韩国数据，全国平均收视率达到2.5%。该剧目前距离大结局仅剩两周，还有四集未播出。",
-    "extracted_at": "2026-08-05T14:24:32.582849+08:00"
+    "summary_zh": "ENA电视剧《Dream to You》在播出最后两周前收视率上升。8月4日，该浪漫喜剧在最后四集播出前收视率显著提升。据尼尔森韩国数据，最新一集全国平均收视率达2.5%。",
+    "extracted_at": "2026-08-05T18:31:12.184859+08:00"
   },
   {
     "source_id": "soompi",
@@ -308,11 +625,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：8月5日，IST Entertainment官方宣布TUNEXX将于9月携新专辑回归。",
-      "事实点2：IST Entertainment表示，TUNEXX将展现新的成长面貌，并请求粉丝给予关注和期待。"
+      "事实点1：8月5日，IST娱乐正式宣布TUNEXX将于9月携新专辑回归。",
+      "事实点2：IST娱乐补充表示，TUNEXX将展现新的成长面貌，请给予关注和期待。"
     ],
-    "summary_zh": "IST Entertainment于8月5日正式宣布，旗下新男团TUNEXX将于9月携新专辑进行首次回归。公司表示，TUNEXX将在首次回归活动中展现新的成长，并请求大家给予关注和期待。",
-    "extracted_at": "2026-08-05T14:24:34.629547+08:00"
+    "summary_zh": "IST娱乐于8月5日官方宣布，旗下新男团TUNEXX将于9月携新专辑进行首次回归。公司表示，TUNEXX将在首次回归活动中展现新的成长，并呼吁粉丝给予关注和期待。",
+    "extracted_at": "2026-08-05T18:31:14.142513+08:00"
   },
   {
     "source_id": "soompi",
@@ -336,8 +653,8 @@
       "事实点2：该剧改编自同名热门网络漫画",
       "事实点3：该剧预计于今年首播"
     ],
-    "summary_zh": "8月5日，tvN确认金宇彬将出演其新剧《Gifted》（暂定名），该剧改编自同名热门网络漫画，预计于今年首播。",
-    "extracted_at": "2026-08-05T14:24:36.765476+08:00"
+    "summary_zh": "8月5日，tvN确认金宇彬将出演其新剧《Gifted》（暂定名），该剧改编自同名热门网络漫画，预计今年首播。",
+    "extracted_at": "2026-08-05T18:31:16.253379+08:00"
   },
   {
     "source_id": "soompi",
@@ -352,39 +669,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "ONF成员E-Tion肩部部分肩袖撕裂，将暂时减少活动",
+    "title_zh": "ONF成员E-Tion肩袖部分撕裂，将减少活动量",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：8月4日，ONF所属社KI Entertainment宣布E-Tion被诊断为部分肩袖撕裂。",
-      "事实点2：所属社表示E-Tion将暂时避免剧烈运动，以促进恢复。"
+      "事实点1：8月4日，ONF所属社KI Entertainment宣布E-Tion被诊断为肩袖部分撕裂。",
+      "事实点2：所属社表示E-Tion将暂时避免剧烈运动，以减少肩部负担。"
     ],
-    "summary_zh": "ONF成员E-Tion因肩部受伤，被诊断为部分肩袖撕裂。其所属社KI Entertainment于8月4日发布官方声明，宣布这一消息，并表示E-Tion将暂时减少活动，避免剧烈运动，以利于恢复。",
-    "extracted_at": "2026-08-05T14:24:38.953640+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Katseye's 'Animal' debuts at No. 24 on Billboard Hot 100 - Yonhap News Agency",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40cDNjYWRET00yaWpEQ29wM2hCbEkxOU02dlkzRk5YdEh5MGpLWTRqdXBLWTNrbUxZTl9OUklmZ1ppRUpzSjRkQmQwdHRzX2VZUXdFQ2RTUlcxZw?oc=5",
-    "content": "Katseye's 'Animal' debuts at No. 24 on Billboard Hot 100 Yonhap News Agency",
-    "published_at": "0805google-kpop",
-    "published_ts": 1785884332.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Katseye《Animal》首登Billboard Hot 100第24位",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：Katseye的歌曲《Animal》在Billboard Hot 100榜单上首次亮相，排名第24位。"
-    ],
-    "summary_zh": "据韩联社报道，Katseye的歌曲《Animal》在Billboard Hot 100榜单上首次亮相，排名第24位。",
-    "extracted_at": "2026-08-05T14:24:40.796628+08:00"
+    "summary_zh": "ONF成员E-Tion因肩部受伤，被诊断为肩袖部分撕裂。8月4日，其所属社KI Entertainment发布官方声明，宣布E-Tion将暂时避免剧烈运动，以减少肩部负担。声明中未提及具体恢复时间或是否影响近期活动。",
+    "extracted_at": "2026-08-05T18:31:18.431880+08:00"
   },
   {
     "source_id": "soompi",
@@ -408,7 +702,7 @@
       "事实点2：CORTIS、KATSEYE、GIRLSET入选该榜单。"
     ],
     "summary_zh": "Billboard发布了2026年“21 Under 21”榜单，该榜单每年评选21位21岁以下对行业产生重大影响且未来潜力巨大的快速上升艺人。今年，CORTIS、KATSEYE和GIRLSET入选其中。",
-    "extracted_at": "2026-08-05T14:24:42.794069+08:00"
+    "extracted_at": "2026-08-05T18:31:20.311129+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -429,11 +723,11 @@
     "is_blurred": false,
     "facts_list": [
       "Billboard发布文章推荐K-Pop恶魔猎人主题背包",
-      "背包设计包含3D和夜光元素",
+      "背包设计包括3D和夜光元素",
       "文章针对新学期开学季"
     ],
     "summary_zh": "Billboard发布了一篇关于K-Pop恶魔猎人主题背包的推荐文章，这些背包专为新学期设计，具有3D和夜光效果，旨在吸引K-Pop粉丝和学生群体。",
-    "extracted_at": "2026-08-05T14:24:44.873657+08:00"
+    "extracted_at": "2026-08-05T18:31:22.422152+08:00"
   },
   {
     "source_id": "soompi",
@@ -448,17 +742,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "8月新人偶像个人品牌声誉排行榜公布，RESCENE再次登顶",
+    "title_zh": "8月新人偶像个人品牌声誉排行榜公布 RESCENE再次登顶",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "韩国企业评价研究所于8月发布新人偶像个人品牌声誉排行榜，数据采集时间为7月5日至8月5日。",
+      "韩国企业评价研究所于8月公布新人偶像个人品牌声誉排行榜，数据采集自7月5日至8月5日。",
       "排名基于消费者参与度、媒体报道、互动和社区认知度指数分析得出。",
-      "RESCENE组合成员再次占据榜首。"
+      "RESCENE组合再次在该榜单中占据首位。"
     ],
-    "summary_zh": "韩国企业评价研究所公布了8月新人偶像个人品牌声誉排行榜，该排名基于7月5日至8月5日期间收集的大数据，分析了消费者参与度、媒体报道、互动和社区认知度等指标。RESCENE组合再次在该榜单中占据领先位置。",
-    "extracted_at": "2026-08-05T14:24:47.123178+08:00"
+    "summary_zh": "韩国企业评价研究所公布了8月新人偶像个人品牌声誉排行榜，该排名基于7月5日至8月5日期间收集的大数据，分析了消费者参与度、媒体报道、互动和社区认知度等指标。RESCENE组合再次在该榜单中占据首位。",
+    "extracted_at": "2026-08-05T18:31:24.691044+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -478,11 +772,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：该剧由徐康俊和安恩真主演，剧名为《A Love Other Than Yours》（暂译：不是你的爱）。",
-      "事实点2：该剧被Metro.Style列为值得关注的新韩剧。"
+      "事实点1：该剧由徐康俊和安恩真主演，剧名为《A Love Other Than Yours》（暂译：不是你的爱）",
+      "事实点2：该剧被Metro.Style列为必看新韩剧"
     ],
-    "summary_zh": "据Metro.Style报道，由徐康俊和安恩真主演的新韩剧《A Love Other Than Yours》（暂译：不是你的爱）成为值得关注的作品。该剧尚未公布具体播出日期和剧情细节，但两位主演的加盟已引发期待。",
-    "extracted_at": "2026-08-05T14:24:49.359736+08:00"
+    "summary_zh": "据Metro.Style报道，由徐康俊和安恩真主演的新韩剧《A Love Other Than Yours》（暂译：不是你的爱）被列为必看剧集。该报道未提供具体播出日期或剧情细节，仅强调该剧值得关注。",
+    "extracted_at": "2026-08-05T18:31:26.956568+08:00"
   },
   {
     "source_id": "soompi",
@@ -497,7 +791,7 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Jennie《Dracula》进入公告牌夏季歌曲榜前十，《Less than a Lover》首登全球200榜",
+    "title_zh": "Jennie《Dracula》打入公告牌夏季歌曲榜前十，《Less than a Lover》首登全球200榜",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
@@ -505,8 +799,8 @@
       "8月4日（当地时间），公告牌公布Jennie与Tame Impala合作的《Dracula》混音版首次进入其夏季歌曲榜前十。",
       "Jennie的《Less than a Lover》首次登上公告牌全球200榜。"
     ],
-    "summary_zh": "据公告牌8月4日（当地时间）公布，BLACKPINK成员Jennie与Tame Impala合作的《Dracula》混音版首次进入其夏季歌曲榜前十。此外，Jennie的另一首歌曲《Less than a Lover》也首次登上公告牌全球200榜。",
-    "extracted_at": "2026-08-05T14:24:51.523119+08:00"
+    "summary_zh": "据公告牌8月4日公布，BLACKPINK成员Jennie与Tame Impala合作的《Dracula》混音版首次进入其夏季歌曲榜前十。此外，Jennie的另一首歌曲《Less than a Lover》也首次登上公告牌全球200榜。",
+    "extracted_at": "2026-08-05T18:31:29.260962+08:00"
   },
   {
     "source_id": "soompi",
@@ -530,7 +824,7 @@
       "事实点2：视频展示了新版应援棒的设计，为即将到来的“XX：”活动做准备"
     ],
     "summary_zh": "8月5日午夜（韩国时间），YG娱乐发布了BIGBANG 20周年纪念版官方应援棒的预告视频。视频中展示了新版应援棒的设计，该应援棒将用于组合即将举行的“XX：”活动。",
-    "extracted_at": "2026-08-05T14:24:53.594915+08:00"
+    "extracted_at": "2026-08-05T18:31:31.290079+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -545,16 +839,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "K-Pop明星Yeonjun将亮相GMA夏日音乐会系列中央公园演出",
+    "title_zh": "K-Pop明星Yeonjun将亮相GMA夏季音乐会系列中央公园演出",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：K-Pop明星Yeonjun将参加GMA夏日音乐会系列，在中央公园进行表演。",
+      "事实点1：K-Pop明星Yeonjun将参加GMA夏季音乐会系列，在中央公园进行表演。",
       "事实点2：该演出由BroadwayWorld报道。"
     ],
-    "summary_zh": "据BroadwayWorld报道，K-Pop明星Yeonjun将参加GMA夏日音乐会系列，在中央公园进行表演。具体演出日期和更多细节尚未公布。",
-    "extracted_at": "2026-08-05T14:24:55.456861+08:00"
+    "summary_zh": "据BroadwayWorld报道，K-Pop明星Yeonjun将参加GMA夏季音乐会系列，在中央公园进行表演。具体演出日期和细节尚未公布。",
+    "extracted_at": "2026-08-05T18:31:33.204064+08:00"
   },
   {
     "source_id": "soompi",
@@ -574,12 +868,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：7月27日，DAY6成员Young K发行第二张正规个人专辑《YOUNGEST》",
-      "事实点2：截至发行当日，专辑销量已超过50,000张",
+      "事实点1：7月27日，DAY6成员Young K发行第二张个人正规专辑《YOUNGEST》",
+      "事实点2：截至发行当日，专辑销量已超过5万张",
       "事实点3：该销量打破了Young K此前个人首周销量纪录（40,189张）"
     ],
-    "summary_zh": "DAY6成员Young K于7月27日携第二张正规个人专辑《YOUNGEST》回归，专辑发行当日销量即突破50,000张，刷新了他个人首周销量纪录（此前为40,189张），显示出显著的成长。",
-    "extracted_at": "2026-08-05T14:24:57.672629+08:00"
+    "summary_zh": "DAY6成员Young K于7月27日携第二张个人正规专辑《YOUNGEST》回归，专辑发行当日销量即突破5万张，刷新了他个人首周销量纪录（此前为40,189张），显示出显著的成长。",
+    "extracted_at": "2026-08-05T18:31:35.522329+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -602,8 +896,8 @@
       "事实点1：Good Housekeeping发布警报，宣布推出新一批'KPop Demon Hunters'玩具。",
       "事实点2：该玩具系列面向Huntr/x粉丝。"
     ],
-    "summary_zh": "据Good Housekeeping报道，新一批'KPop Demon Hunters'玩具已经发布，专为Huntr/x粉丝设计。该系列玩具以K-pop为主题，结合了恶魔猎人的元素，为粉丝提供新的收藏选择。",
-    "extracted_at": "2026-08-05T14:24:59.863728+08:00"
+    "summary_zh": "据Good Housekeeping报道，新一批'KPop Demon Hunters'玩具已发布，专为Huntr/x粉丝设计。该系列玩具以K-pop为主题，结合了恶魔猎人元素，为粉丝提供新的收藏选择。",
+    "extracted_at": "2026-08-05T18:31:37.481540+08:00"
   },
   {
     "source_id": "soompi",
@@ -618,16 +912,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Red Velvet新专辑《Velvet Summer》全球iTunes榜单登顶",
+    "title_zh": "Red Velvet新专辑《Velvet Summer》全球iTunes榜单夺冠",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "事实点1：8月3日下午6点（韩国时间），Red Velvet携迷你专辑《Velvet Summer》及主打曲《Surfin' Boy》回归。",
-      "事实点2：专辑发行后立即在全球多个国家的iTunes排行榜上位居榜首。"
+      "事实点2：专辑发行后，迅速登上全球多个国家iTunes排行榜榜首。"
     ],
-    "summary_zh": "Red Velvet于8月3日下午6点（韩国时间）携迷你专辑《Velvet Summer》及主打曲《Surfin' Boy》回归，专辑发行后迅速在全球多个国家的iTunes排行榜上登顶。",
-    "extracted_at": "2026-08-05T14:25:01.933587+08:00"
+    "summary_zh": "Red Velvet于8月3日下午6点（韩国时间）发行迷你专辑《Velvet Summer》及主打曲《Surfin' Boy》，回归乐坛。专辑发行后立即在全球多个国家的iTunes排行榜上占据首位，展现了强大的国际影响力。",
+    "extracted_at": "2026-08-05T18:31:39.437495+08:00"
   },
   {
     "source_id": "asianwiki",
