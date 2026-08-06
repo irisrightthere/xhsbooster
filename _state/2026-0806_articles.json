@@ -1,5 +1,150 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "The KPop Demon Hunters karaoke machine is coming to Sam's Club — and it's under $60 - creators.yahoo.com",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX0FyOFVXdUpYcktTVHZQOXRCVHJ3VEtaZnk2WHhYTHRndXRSUy1jM2xsNkNjbkE1eWRpbVM5eklUR0RPY1NNbUxEVkVfbVpReDJ6VU5QQS1GUVE0LTZrVHN2UnZmcXBtOUxZNGM4dXNVdXhKSHoyWU1TdTcyVGUzSkRkU0tXMU9tcGNMNFZ6ay1mUmN5WUNBOVBpTVpfME4za1pTYU9uR1NGRkxYRjBaUHFjemdrd1U1bmRWVnN5S2EzVnpKN0s5MGhBUG9JaHVwblRv?oc=5",
+    "content": "The KPop Demon Hunters karaoke machine is coming to Sam's Club — and it's under $60 creators.yahoo.com",
+    "published_at": "0806google-kpop",
+    "published_ts": 1786021680.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "KPop Demon Hunters卡拉OK机将登陆山姆会员店，售价低于60美元",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：KPop Demon Hunters卡拉OK机即将在山姆会员店上架。",
+      "事实点2：该产品售价低于60美元。"
+    ],
+    "summary_zh": "据雅虎创作者报道，KPop Demon Hunters卡拉OK机即将登陆山姆会员店，售价低于60美元。该产品面向K-pop粉丝，提供卡拉OK体验。具体上市日期和更多细节暂未披露。",
+    "extracted_at": "2026-08-06T21:56:12.892194+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-POP MURDER THINGS HUNTERS to Premiere at Petite Violette - BroadwayWorld",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcVg2NU5ob3gwYVI2Zjd1TTUxdmdvQ1kySXJWblF3ZG05OVlPMlV2QTV2aUIzN24tU09uVWZORzN5ZmgtbEUtTGJLcGd5akFjSEZLSkxPT1hKd20wRzJSbnVfZFFDOGhPdzloT0lFakduRnVZSGV4N1BpcXk2Wk9kdGUtcGZTZ0ZwQlAtWkdOamVQRjdHTHFPSENLdEJ1Q3BDRGktS3VWQld5OXJuUGc2RlFwOA?oc=5",
+    "content": "K-POP MURDER THINGS HUNTERS to Premiere at Petite Violette BroadwayWorld",
+    "published_at": "0806google-kpop",
+    "published_ts": 1786021650.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "音乐剧《K-POP谋杀事件猎人》将在Petite Violette首演",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "音乐剧《K-POP谋杀事件猎人》将在Petite Violette剧院首演",
+      "该消息由BroadwayWorld报道"
+    ],
+    "summary_zh": "据BroadwayWorld报道，音乐剧《K-POP谋杀事件猎人》即将在Petite Violette剧院举行首演。该剧以K-POP为背景，融合谋杀悬疑元素，具体演出日期和阵容尚未公布。",
+    "extracted_at": "2026-08-06T21:56:14.630895+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "KPop Demon Hunters star Audrey Nuna signs with Republic Records ahead of new single superHuman - Music-News.com",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOV3hCdnczWC1TczVQakhwWmJaZERnVmlGUUQ0SUdYMzBzLTNiX3pCUmpNQmNsbWFTckJlLTB0b09HRlpDNEdUNnhNM2NMd24tREYwUmdLdGlJVGc5SjlLc1FJT2Z1aGJvRW4wVTlqZng5dnhBS2hZZmt4OGZSZWhnZjhJaW14RG1NZklqUlZHRDN1ZlNESFRnUl81WTF3MFhYb0txUjJ2NTlJbHZ4MEowVzRQV2l6YktJR29Sd2FDRnJFVzN6aVJiYzN2VHJvdWlTN1E?oc=5",
+    "content": "KPop Demon Hunters star Audrey Nuna signs with Republic Records ahead of new single superHuman Music-News.com",
+    "published_at": "0806google-kpop",
+    "published_ts": 1786021334.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "KPop Demon Hunters主演Audrey Nuna签约Republic Records，新单曲superHuman即将发布",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：Audrey Nuna与Republic Records签约",
+      "事实点2：新单曲名为superHuman，即将发布"
+    ],
+    "summary_zh": "据Music-News.com报道，KPop Demon Hunters的主演Audrey Nuna已与Republic Records签约，并计划发布新单曲superHuman。",
+    "extracted_at": "2026-08-06T21:56:16.422229+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "North Korean defections to South fall 35% in first half amid tighter border controls - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1jbEdvZVZxZEYwVjhwSGZob2lTdzd6OHlCRnJnRVRrVkU5VW1CU1RqZ2ZyLS1EbUtPcFVnWmJXcEZ6SG11Y2dNYW9fVW82OUpPWC1vbVVNcw?oc=5",
+    "content": "North Korean defections to South fall 35% in first half amid tighter border controls The Korea Herald",
+    "published_at": "0806google-kpop",
+    "published_ts": 1786019626.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "韩媒：上半年脱北者入韩人数同比降35%，边境管控加强",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：2023年上半年，脱北者进入韩国的人数同比下降35%",
+      "事实点2：原因：朝鲜加强边境管控"
+    ],
+    "summary_zh": "据韩国《先驱报》报道，2023年上半年，脱北者进入韩国的人数较去年同期下降了35%，主要原因是朝鲜方面加强了边境管控措施。",
+    "extracted_at": "2026-08-06T21:56:18.267672+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Ji Sung And Ha Yun Kyung’s Bottled-Up Emotions Explode In Their First Major Fight In “The Apartment Job”",
+    "url": "https://www.soompi.com/article/1860722wpp/ji-sung-and-ha-yun-kyungs-bottled-up-emotions-explode-in-their-first-major-fight-in-the-apartment-job",
+    "content": "Ji Sung and Ha Yun Kyung’s fake marriage will hit its first major obstacle in “The Apartment Job”! “The Apartment Job” tells the story of former Oasis Gang boss Park Hae Kang (Ji Sung), who runs for president of an apartment complex’s resident council in order to get his hands on the complex’s hidden reserve&#8230; Continue reading Ji Sung And Ha Yun Kyung’s Bottled-Up Emotions Explode In Their First Major Fight In “The Apartment Job”\nThe post Ji Sung And Ha Yun Kyung’s Bottled-Up Emotions Explode In Their First Major Fight In “The Apartment Job” appeared first on Soompi.",
+    "published_at": "0806soompi",
+    "published_ts": 1786016280.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "池晟与河允景在《公寓任务》中首次大吵，压抑情绪爆发",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：在《公寓任务》中，池晟饰演的前Oasis Gang老板朴海康与河允景饰演的角色因假结婚关系面临首次重大冲突。",
+      "事实点2：两人压抑的情绪在首次大吵中爆发，具体情节未在原文中详述。"
+    ],
+    "summary_zh": "《公寓任务》中，池晟饰演的朴海康（前Oasis Gang老板）为获取公寓隐藏储备金而竞选居民委员会主席，与河允景饰演的角色维持假结婚关系。然而，他们的假婚姻将遭遇首次重大障碍，两人压抑已久的情绪在首次大吵中爆发。具体争吵原因和细节未在原文中透露。",
+    "extracted_at": "2026-08-06T21:56:21.397206+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Jennie Takes 2nd Win For “Less than a Lover” On “M Countdown”; Performances By Red Velvet, Dino, And More",
+    "url": "https://www.soompi.com/article/1860719wpp/watch-jennie-takes-2nd-win-for-less-than-a-lover-on-m-countdown-performances-by-red-velvet-dino-and-more",
+    "content": "BLACKPINK&#8217;s Jennie has won her second music show trophy for her new single “Less than a Lover”! On the August 6 episode of &#8220;M Countdown,&#8221; the candidates for first place were Young K’s “Shut The Door” and Jennie’s “Less than a Lover.” Jennie ultimately took the prize with a total of 7,253 points. Congratulations to Jennie!&#8230; Continue reading Watch: Jennie Takes 2nd Win For &#8220;Less than a Lover&#8221; On &#8220;M Countdown&#8221;; Performances By Red Velvet, Dino, And More\nThe post Watch: Jennie Takes 2nd Win For &#8220;Less than a Lover&#8221; On &#8220;M Countdown&#8221;; Performances By Red Velvet, Dino, And More appeared first on Soompi.",
+    "published_at": "0806soompi",
+    "published_ts": 1786015195.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Jennie《Less than a Lover》获《M Countdown》第二冠，Red Velvet、Dino等献上舞台",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "8月6日《M Countdown》节目中，Jennie凭借《Less than a Lover》以7,253分击败Young K的《Shut The Door》获得第一名",
+      "这是Jennie新单曲《Less than a Lover》的第二个音乐节目冠军",
+      "该期节目还有Red Velvet、Dino等艺人的表演舞台"
+    ],
+    "summary_zh": "BLACKPINK成员Jennie的新单曲《Less than a Lover》在8月6日的《M Countdown》节目中，以7,253分的总分击败Young K的《Shut The Door》，获得该节目第一名，这也是该曲的第二个音乐节目冠军。此外，本期节目还包含了Red Velvet、Dino等艺人的精彩表演。",
+    "extracted_at": "2026-08-06T21:56:24.081919+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -12,42 +157,18 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《新兵4》公开主海报与预告：金敏浩、金东俊、李元贞遭遇严厉新指挥官",
+    "title_zh": "《新兵4》公开主海报与预告：金珉浩、金东俊、李元贞军营生活因新指挥官而波澜再起",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "《新兵4》公开了主海报和预告片。",
-      "该剧改编自同名热门动画，是一部黑色喜剧，讲述韩国军队中20多岁年轻人的生活、文化和荒谬之处。",
+      "该剧改编自同名热门动画，是一部黑色喜剧，讲述韩国军队中20多岁年轻人的文化、秘密和荒诞。",
       "第四季将描绘故事的后半部分。",
-      "主演包括金敏浩、金东俊和李元贞。"
+      "金珉浩、金东俊和李元贞的军营生活因一位严厉的新指挥官而受到冲击。"
     ],
-    "summary_zh": "《新兵4》公开了主海报和预告片。该剧改编自同名热门动画，是一部黑色喜剧，深入探讨韩国军队中20多岁年轻人的生活、文化和荒谬之处。第四季将描绘故事的后半部分，主演包括金敏浩、金东俊和李元贞，他们的军旅生活将因一位严厉的新指挥官而发生变化。",
-    "extracted_at": "2026-08-06T18:34:32.262326+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "KPop Demon Hunters star Audrey Nuna signs with Republic Records ahead of new single superHuman - music-news.com",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOV3hCdnczWC1TczVQakhwWmJaZERnVmlGUUQ0SUdYMzBzLTNiX3pCUmpNQmNsbWFTckJlLTB0b09HRlpDNEdUNnhNM2NMd24tREYwUmdLdGlJVGc5SjlLc1FJT2Z1aGJvRW4wVTlqZng5dnhBS2hZZmt4OGZSZWhnZjhJaW14RG1NZklqUlZHRDN1ZlNESFRnUl81WTF3MFhYb0txUjJ2NTlJbHZ4MEowVzRQV2l6YktJR29Sd2FDRnJFVzN6aVJiYzN2VHJvdWlTN1E?oc=5",
-    "content": "KPop Demon Hunters star Audrey Nuna signs with Republic Records ahead of new single superHuman music-news.com",
-    "published_at": "0806google-kpop",
-    "published_ts": 1786010476.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "KPop Demon Hunters主演Audrey Nuna签约Republic Records，新单曲superHuman即将发布",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "Audrey Nuna与Republic Records签约",
-      "新单曲《superHuman》即将发布"
-    ],
-    "summary_zh": "KPop Demon Hunters主演Audrey Nuna已与Republic Records签约，并计划发布新单曲《superHuman》。",
-    "extracted_at": "2026-08-06T18:34:34.116996+08:00"
+    "summary_zh": "《新兵4》公开了主海报和预告片。该剧改编自同名热门动画，是一部黑色喜剧，深入探讨韩国军队中20多岁年轻人的文化、秘密和荒诞。第四季将描绘故事的后半部分，金珉浩、金东俊和李元贞的军营生活因一位严厉的新指挥官而受到冲击。",
+    "extracted_at": "2026-08-06T21:56:27.081432+08:00"
   },
   {
     "source_id": "soompi",
@@ -70,8 +191,8 @@
       "事实点1：8月6日，Woollim娱乐宣布秀润的专属合约已到期，双方协商后决定分开。",
       "事实点2：2024年12月，Rocket Punch其他所有成员在专属合约到期后均已离开Woollim娱乐。"
     ],
-    "summary_zh": "Rocket Punch成员秀润已离开Woollim娱乐。8月6日，Woollim娱乐宣布秀润的专属合约已结束，双方协商后决定分开。此前，2024年12月，Rocket Punch其他所有成员在合约到期后均已离开公司。",
-    "extracted_at": "2026-08-06T18:34:36.412399+08:00"
+    "summary_zh": "Rocket Punch成员秀润已离开Woollim娱乐。8月6日，Woollim娱乐宣布秀润的专属合约已结束，双方协商后决定分开。此前，2024年12月，Rocket Punch其他所有成员在合约到期后均已离开该公司。",
+    "extracted_at": "2026-08-06T21:56:29.639909+08:00"
   },
   {
     "source_id": "soompi",
@@ -92,10 +213,36 @@
     "is_blurred": false,
     "facts_list": [
       "事实点1：8月6日，演员李信永通过Instagram公开手写信，宣布已入伍。",
-      "事实点2：李信永在信中表示，他安静地入伍并完成了基础军事训练，并为此前未提前告知而道歉。"
+      "事实点2：李信永在信中表示，他安静入伍并已完成基础军事训练。",
+      "事实点3：李信永在信中首先向粉丝道歉，但具体道歉原因未在摘要中说明。"
     ],
-    "summary_zh": "演员李信永于8月6日通过Instagram公开手写信，透露自己已入伍并完成基础军事训练。他在信中向粉丝道歉，表示此前未提前告知入伍消息，并感谢粉丝的支持。",
-    "extracted_at": "2026-08-06T18:34:38.836637+08:00"
+    "summary_zh": "演员李信永于8月6日通过Instagram发布手写信，透露自己已入伍并完成基础军事训练。他在信中向粉丝道歉，但未说明具体原因。该消息由Soompi报道。",
+    "extracted_at": "2026-08-06T21:56:32.395380+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "My Bias, My Boss: Kim Hye-jun leads cookie-cutter workplace romcom K-drama - South China Morning Post",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQ3ZLQ1Y2YjhIb2s4LVVEX0dFY05LVG5FRWM1VUFjTzlfSkh6eDNYOXhjYTFxZEJEZjE3c1BUVlI2RmJaZlh6bDFMSzk5cUVZMk1nb0h4Sm1pbEdfMEVvek5pWjhjN19aRXdVY0tNWGxtVS1sanlTeVl1aXc3RHh5bENsZnl0Q0h6NS1JdWlTNm9ZY081NF9vZXFoU3o5c1pMQWtvcWFRZElnbHFJLVBfOTJlSHhMenZ1RHlQWE9BLWtoOEJQUU5vUUpXLUh4bkY2TGM40gHTAUFVX3lxTFB6VldRSGd6VFRZV2hQZkR6amhzWGFQOE9Ddm43ZTY4cm5xdWVQejlpS05wUXVxcjR1NDZrT2NiaUpxc1lLUXd0LTdVa3ZWQ25xYTFtR3kyRENLTnBSenA5LVg5N3dzaDdpSERZdmNIT21QUnUxX1BXMDBtVzFVWGg0TTlFQk1rcmNMYTE2WFNMV3lFc2VHM05xREIyYll4MFZxb0dHQi1zMkVpZUpfZHZMVVFUWl9JckFKdnp0VUtxTWg2TldabzlBRm5WMWhEbGZaYlU?oc=5",
+    "content": "My Bias, My Boss: Kim Hye-jun leads cookie-cutter workplace romcom K-drama South China Morning Post",
+    "published_at": "0806google-kpop",
+    "published_ts": 1786004105.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "金惠奫主演新剧《我的偏见，我的老板》：职场浪漫喜剧套路化引关注",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：金惠奫（Kim Hye-jun）主演新剧《My Bias, My Boss》（暂译：我的偏见，我的老板）",
+      "事实点2：该剧被评价为“cookie-cutter”（套路化）职场浪漫喜剧",
+      "事实点3：报道来源为《南华早报》（South China Morning Post）"
+    ],
+    "summary_zh": "据《南华早报》报道，金惠奫（Kim Hye-jun）主演的新剧《My Bias, My Boss》（暂译：我的偏见，我的老板）是一部职场浪漫喜剧，但被批评为“cookie-cutter”（套路化），缺乏新意。报道未提及具体播出平台、日期或收视数据。",
+    "extracted_at": "2026-08-06T21:56:35.378919+08:00"
   },
   {
     "source_id": "soompi",
@@ -115,11 +262,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：8月6日，潘敏贞方面相关人士透露，她将于9月6日在首尔某处举行婚礼。",
-      "事实点2：未婚夫是比她年长一岁的商人，两人经人介绍相识。"
+      "事实点1：8月6日，潘敏贞方面相关人士表示，潘敏贞将于9月6日在首尔某处举行婚礼。",
+      "事实点2：未婚夫为比她年长一岁的商人，两人通过介绍相识。"
     ],
-    "summary_zh": "演员潘敏贞宣布结婚。8月6日，其身边相关人士表示，潘敏贞将于9月6日在首尔某处举行婚礼。据悉，未婚夫是比她年长一岁的商人，两人经人介绍相识。",
-    "extracted_at": "2026-08-06T18:34:41.105703+08:00"
+    "summary_zh": "演员潘敏贞宣布结婚。8月6日，其方面相关人士透露，她将于9月6日在首尔某处举行婚礼。未婚夫为比她年长一岁的商人，两人经人介绍相识。",
+    "extracted_at": "2026-08-06T21:56:37.975829+08:00"
   },
   {
     "source_id": "soompi",
@@ -139,11 +286,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：文章列举了7部改编自韩国网络漫画（webtoons）、韩国漫画（manhwas）和网络小说（web novels）的韩国BL剧集。",
-      "事实点2：文章提到这些剧集探索了多种浪漫关系，例如从敌对到相爱的角色，以及童年朋友逐渐意识到感情超越友谊的故事。"
+      "事实点1：文章列举了7部韩国BL剧，这些剧集改编自webtoons、manhwas和web novels。",
+      "事实点2：文章提到韩国BL剧近年来探索了多种浪漫关系，包括敌对关系转变为爱情，以及青梅竹马逐渐意识到超越友谊的感情。"
     ],
-    "summary_zh": "本文介绍了7部必看的韩国BL剧，这些剧集均改编自网络漫画、韩国漫画或网络小说。文章指出，近年来韩国BL剧以多种方式探索浪漫关系，包括从互相讨厌的敌人到逐渐意识到感情超越友谊的童年朋友。这些剧集最初以数字形式连载，后被改编为电视剧。",
-    "extracted_at": "2026-08-06T18:34:43.816648+08:00"
+    "summary_zh": "本文介绍了7部必看的韩国BL剧，这些剧集均改编自网络漫画（webtoons）、韩国漫画（manhwas）和网络小说。文章指出，近年来韩国BL剧以多种方式探索浪漫关系，例如从互相讨厌的敌人逐渐产生感情，或是青梅竹马慢慢意识到彼此的感情超越了友谊。这些故事最初以数字形式连载，后被改编为剧集。",
+    "extracted_at": "2026-08-06T21:56:40.807786+08:00"
   },
   {
     "source_id": "soompi",
@@ -158,16 +305,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "朴志训上海粉丝见面会因不可抗力取消，所属社YY娱乐发布官方声明",
+    "title_zh": "朴志训上海粉丝见面会取消，所属社YY娱乐发布官方声明",
     "source_type": "韩娱",
-    "risk_level": "低",
+    "risk_level": "中",
     "is_blurred": false,
     "facts_list": [
       "事实点1：8月5日，朴志训所属社YY娱乐宣布，原定于9月26日举行的上海粉丝见面会取消。",
       "事实点2：取消原因为“不可避免的情况”，所属社发布了完整声明。"
     ],
-    "summary_zh": "朴志训原定于9月26日在上海举行的粉丝见面会，因不可避免的情况被取消。8月5日，其所属社YY娱乐发布了官方声明，宣布了这一决定。此次取消涉及朴志训的粉丝演唱会巡演“RE:FLECT”的上海站。",
-    "extracted_at": "2026-08-06T18:34:46.313078+08:00"
+    "summary_zh": "朴志训原定于9月26日在上海举行的粉丝见面会，因不可避免的情况被取消。8月5日，其所属社YY娱乐发布了官方声明，宣布了这一决定。声明中未提及具体取消原因，但表示遗憾，并希望粉丝理解。",
+    "extracted_at": "2026-08-06T21:56:43.477516+08:00"
   },
   {
     "source_id": "soompi",
@@ -182,17 +329,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "柳承龙与河智苑主演《家庭肖像》新剧照公开，家庭因突发事件破裂",
+    "title_zh": "柳承龙与河智苑新片《家族肖像》剧照公开，家庭因突发事件支离破碎",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "电影《家庭肖像》公开新剧照，展示神秘故事线索",
-      "该片讲述顶级明星夫妇郑九（柳承龙饰）和南美（河智苑饰）的家庭故事",
-      "因郑九女儿的突然出现，夫妇婚姻破裂"
+      "电影《Portrait of a Family》（暂译：家族肖像）公开新剧照，展示神秘故事线。",
+      "该片为家庭编年史，讲述顶级明星夫妇郑九（柳承龙饰）与南美（河智苑饰）的故事。",
+      "因郑九女儿突然出现，两人婚姻破裂。"
     ],
-    "summary_zh": "即将上映的电影《家庭肖像》公开了新剧照，引发观众对神秘故事的好奇。该片是一部家庭编年史，讲述顶级明星夫妇郑九（柳承龙饰）和南美（河智苑饰）的故事。由于郑九女儿的突然出现，他们的婚姻走向破裂。",
-    "extracted_at": "2026-08-06T18:34:48.880394+08:00"
+    "summary_zh": "即将上映的电影《Portrait of a Family》（暂译：家族肖像）公开了新剧照，引发期待。该片是一部家庭编年史，围绕顶级明星夫妇郑九（柳承龙饰）和南美（河智苑饰）展开。由于郑九女儿的突然出现，他们的婚姻走向破裂，家庭被一场突发事件撕裂。影片具体上映日期尚未公布。",
+    "extracted_at": "2026-08-06T21:56:46.366504+08:00"
   },
   {
     "source_id": "soompi",
@@ -212,35 +359,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：韩剧《丈夫》公开新剧照，显示金大明饰演的卢万熙与禹智贤饰演的角色发生紧张对峙，金大明揪住对方衣领。",
+      "事实点1：韩剧《丈夫》公开新剧照，显示金大明饰演的卢万熙与禹智贤饰演的角色发生肢体冲突，金大明揪住对方衣领。",
       "事实点2：该剧为惊悚题材，讲述南宫珉饰演的姜泰柱在离婚前夕妻子被绑架，与危险罪犯展开殊死搏斗的故事。"
     ],
-    "summary_zh": "韩剧《丈夫》公开最新剧照，展现金大明（饰卢万熙）与禹智贤之间紧张对峙的场景，金大明揪住对方衣领。该剧为惊悚题材，由南宫珉主演，讲述姜泰柱在离婚前夕妻子遭绑架，与危险罪犯展开殊死搏斗的故事。新剧照暗示剧情冲突升级，具体情节待播出揭晓。",
-    "extracted_at": "2026-08-06T18:34:51.971519+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Longer lunches, more breaks as Korea’s workplaces battle heat - The Korea Herald",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Bay1ROEJwUzJYYldPWW51d3lTSDdmT204S0xfZnFxUXhDMFh5UFM3aHFTWURYTTBLSy1Vbk5INXBYOE1DQkozS1c0Q1VlRVVsN3R0UEhGTQ?oc=5",
-    "content": "Longer lunches, more breaks as Korea’s workplaces battle heat The Korea Herald",
-    "published_at": "0806google-kpop",
-    "published_ts": 1785996408.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "韩国职场应对酷暑：延长午休、增加休息时间",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：韩国职场为应对高温，采取延长午餐时间和增加休息时间的措施。",
-      "事实点2：该报道来自《韩国先驱报》。"
-    ],
-    "summary_zh": "据《韩国先驱报》报道，随着高温天气持续，韩国职场正在调整工作安排，包括延长午餐时间和增加休息时间，以帮助员工应对酷暑。",
-    "extracted_at": "2026-08-06T18:34:53.934430+08:00"
+    "summary_zh": "韩剧《丈夫》公开最新剧照，展现金大明饰演的卢万熙与禹智贤饰演的角色之间紧张对峙的场面，金大明揪住对方衣领。该剧为惊悚题材，由南宫珉主演，讲述姜泰柱在离婚前夕妻子被绑架，为救妻子与危险罪犯展开激烈斗争的故事。新剧照暗示剧情将迎来新的冲突。",
+    "extracted_at": "2026-08-06T21:56:49.643939+08:00"
   },
   {
     "source_id": "soompi",
@@ -255,16 +378,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "郭时旸特别出演《Flex X Cop 2》 剧照公开再现监狱场景",
+    "title_zh": "郭时旸特别出演《Flex X Cop 2》 剧照公开再现狱中形象",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：SBS新剧《Flex X Cop 2》公开新剧照，显示郭时旸特别出演，场景为监狱。",
-      "事实点2：该剧由安普贤主演，饰演财阀三世转行侦探的陈利洙，利用财富和人脉解决案件。"
+      "事实点1：SBS新剧《Flex X Cop 2》公开新剧照，显示郭时旸特别出演，角色身处监狱。",
+      "事实点2：该剧由安普贤主演，饰演财阀三世转行侦探的Jin Yi Soo，利用财富和人脉解决案件。"
     ],
-    "summary_zh": "SBS新剧《Flex X Cop 2》公开新剧照，郭时旸特别出演，角色身处监狱。该剧由安普贤主演，饰演财阀三世转行侦探的陈利洙，他利用财富和人脉解决案件。郭时旸的特别出演引发期待，具体角色细节尚未公开。",
-    "extracted_at": "2026-08-06T18:34:56.826604+08:00"
+    "summary_zh": "SBS新剧《Flex X Cop 2》公开了郭时旸特别出演的剧照，他在剧中再次以监狱形象亮相。该剧由安普贤主演，他饰演的Jin Yi Soo是财阀三世转行侦探，在调查遇到瓶颈时，会利用财富和人脉作为“作弊码”解决问题。郭时旸的特别出演为剧情增添了新的看点。",
+    "extracted_at": "2026-08-06T21:56:52.836733+08:00"
   },
   {
     "source_id": "soompi",
@@ -287,56 +410,8 @@
       "事实点1：8月6日，STARSHIP Entertainment新男团AEN通过官方YouTube视频公布官方粉丝名。",
       "事实点2：官方粉丝名为Aneee，意为无论现在还是未来都将与AEN永远在一起的人。"
     ],
-    "summary_zh": "STARSHIP Entertainment旗下新男团AEN于8月6日通过官方YouTube视频公布了官方粉丝名。粉丝名为Aneee，寓意着无论现在还是未来都将与AEN永远相伴的人。",
-    "extracted_at": "2026-08-06T18:34:58.847585+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "T’way Air rebrands as Trinity Airways in premium push - The Korea Herald",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMTnBhTDFqNUgwcy0yb2pnT2JENzRQOFlNQjF2YkpjTW0ta3Bfenc0OWxGWVZXTElhZWRlZXlWaHU4REVaMTUySUJhNmo5ZzJRMDZ6bDBLSQ?oc=5",
-    "content": "T’way Air rebrands as Trinity Airways in premium push The Korea Herald",
-    "published_at": "0806google-kpop",
-    "published_ts": 1785994152.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "T'way Air更名Trinity Airways，推进高端化转型",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "T'way Air宣布更名为Trinity Airways，旨在推进高端化转型。",
-      "该消息由The Korea Herald报道。"
-    ],
-    "summary_zh": "据The Korea Herald报道，韩国低成本航空公司T'way Air宣布更名为Trinity Airways，此举是其推进高端化转型的一部分。",
-    "extracted_at": "2026-08-06T18:35:00.591025+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "LG Uplus posts record profit on AI data center growth - The Korea Herald",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBeXN3TnNtU3h6MFpnNTV5SU50eTh4WWhGaHhiSFdaa09JWWpkR0txMzNZaE1kSEpiY3JrYzItbUFpTlQ1TGRMdlZLVE1HUXBxVTVQbTItQQ?oc=5",
-    "content": "LG Uplus posts record profit on AI data center growth The Korea Herald",
-    "published_at": "0806google-kpop",
-    "published_ts": 1785993921.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "LG Uplus因AI数据中心业务增长创纪录利润",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "LG Uplus公布创纪录利润，得益于AI数据中心业务增长。",
-      "报道来源为《韩国先驱报》。"
-    ],
-    "summary_zh": "据《韩国先驱报》报道，LG Uplus因AI数据中心业务增长而实现了创纪录的利润。该报道未提供具体财务数据，但强调了AI数据中心业务对利润增长的贡献。",
-    "extracted_at": "2026-08-06T18:35:02.477356+08:00"
+    "summary_zh": "STARSHIP Entertainment旗下新男团AEN于8月6日通过官方YouTube视频公布了官方粉丝名。粉丝名定为Aneee，寓意与AEN永远相伴，无论现在还是未来。",
+    "extracted_at": "2026-08-06T21:56:54.844748+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -357,12 +432,12 @@
     "is_blurred": false,
     "facts_list": [
       "时间：今年8月",
-      "地点：洛杉矶（L.A.）",
+      "地点：美国洛杉矶",
       "主体：全球最大K-pop音乐节",
-      "具体动作：公布阵容，包含34组艺人，设置4个舞台，并举办独家after-party（名为Secret Los Angeles）"
+      "具体动作：公布阵容包括34组艺人，设置四个舞台，并举办独家after-party"
     ],
-    "summary_zh": "全球最大规模的K-pop音乐节将于今年8月在美国洛杉矶举行，届时将有34组艺人参与演出，共设四个舞台，并举办名为Secret Los Angeles的独家after-party。",
-    "extracted_at": "2026-08-06T18:35:04.883014+08:00"
+    "summary_zh": "全球最大规模的K-pop音乐节将于今年8月在美国洛杉矶举办，届时将有34组艺人登台，设置四个舞台，并举办独家after-party。",
+    "extracted_at": "2026-08-06T21:56:57.027993+08:00"
   },
   {
     "source_id": "soompi",
@@ -377,7 +452,7 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "邕圣祐公布2026年亚洲粉丝见面会巡演“Let's go-ONG!”场次",
+    "title_zh": "邕圣祐公布2026年亚洲粉丝见面会巡演“Let's go-ONG!”日程",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
@@ -386,7 +461,7 @@
       "事实点2：该巡演于7月25日在首尔成功举办后，将前往横滨、雅加达、台北、曼谷和香港。"
     ],
     "summary_zh": "邕圣祐将于2026年举办亚洲粉丝见面会巡演“Let's go-ONG!”。8月5日，他公开了巡演海报。此次巡演在7月25日首尔站成功举办后，将依次在横滨、雅加达、台北、曼谷和香港举行。",
-    "extracted_at": "2026-08-06T18:35:07.277868+08:00"
+    "extracted_at": "2026-08-06T21:56:59.429502+08:00"
   },
   {
     "source_id": "soompi",
@@ -406,12 +481,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "新剧《好的，离婚吧》公开新海报，主演为金基石和李珉廷。",
-      "该剧讲述经营婚纱店的一对夫妇，因厌倦婚姻而决定离婚的现实离婚过程。",
-      "海报中展现了白美英（角色名）的形象。"
+      "事实点1：新剧《好的，离婚吧》公开新海报，主演为金基石和李珉廷。",
+      "事实点2：该剧讲述经营婚纱店的一对夫妇因疲惫的婚姻决定离婚的现实故事。",
+      "事实点3：海报中展现了白美英（角色名）的形象。"
     ],
-    "summary_zh": "新剧《好的，离婚吧》公开了金基石和李珉廷主演的新海报。该剧讲述一对经营婚纱店的夫妇，因厌倦婚姻而决定离婚的现实故事。海报中展现了白美英的角色形象，暗示了爱情消逝的主题。",
-    "extracted_at": "2026-08-06T18:35:09.920794+08:00"
+    "summary_zh": "新剧《好的，离婚吧》公开了由金基石和李珉廷主演的新海报。该剧讲述一对经营婚纱店的夫妇因婚姻疲惫而决定离婚的现实故事。海报中展现了白美英的角色形象。",
+    "extracted_at": "2026-08-06T21:57:02.047861+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -432,10 +507,10 @@
     "is_blurred": false,
     "facts_list": [
       "事实点1：BLACKPINK迎来出道十周年，韩国时报发文回顾其全球影响力。",
-      "事实点2：文章标题称BLACKPINK改写了K-pop的全球规则。"
+      "事实点2：文章标题称BLACKPINK“改写K-pop全球规则”，具体内容未提及具体数据或事件。"
     ],
-    "summary_zh": "韩国时报发文纪念BLACKPINK出道十周年，称其改写了K-pop的全球规则。文章回顾了组合在海外市场的突破性成就，强调其在全球音乐产业中的影响力。",
-    "extracted_at": "2026-08-06T18:35:12.277212+08:00"
+    "summary_zh": "韩国时报发文纪念BLACKPINK出道十周年，称其改写了K-pop的全球规则。文章回顾了组合的全球影响力，但未提及具体数据或事件。",
+    "extracted_at": "2026-08-06T21:57:04.487745+08:00"
   },
   {
     "source_id": "soompi",
@@ -450,16 +525,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "车太贤与严智媛确认出演Netflix新喜剧电影《两个警察和五个孩子》",
+    "title_zh": "车太贤与严智苑确认出演Netflix新喜剧电影《两个警察和五个孩子》",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：8月6日，Netflix宣布新电影《两个警察和五个孩子》制作确定，并公开主演阵容包括车太贤和严智媛。",
-      "事实点2：电影讲述一名侦探的故事，具体情节未在原文中详述。"
+      "事实点1：8月6日，Netflix宣布新电影《两个警察和五个孩子》制作确定，并公开主演阵容。",
+      "事实点2：车太贤和严智苑确认出演该片，影片讲述一名侦探的故事。"
     ],
-    "summary_zh": "8月6日，Netflix宣布新喜剧电影《两个警察和五个孩子》制作确定，主演阵容包括车太贤和严智媛。该片讲述一名侦探的故事，但具体情节细节尚未公开。",
-    "extracted_at": "2026-08-06T18:35:14.752644+08:00"
+    "summary_zh": "8月6日，Netflix宣布新喜剧电影《两个警察和五个孩子》制作确定，并公开主演阵容，车太贤和严智苑将携手出演。影片讲述一名侦探的故事，具体情节尚未披露。",
+    "extracted_at": "2026-08-06T21:57:06.798516+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -483,8 +558,8 @@
       "评测对象：游戏《K-Pop偶像故事：出道之路》",
       "评测性质：游戏评测，非娱乐新闻"
     ],
-    "summary_zh": "WayTooManyGames 发布了关于游戏《K-Pop偶像故事：出道之路》的评测。该评测聚焦于游戏内容、玩法及体验，属于游戏评测类资讯，不涉及具体艺人或娱乐事件。",
-    "extracted_at": "2026-08-06T18:35:17.002591+08:00"
+    "summary_zh": "WayTooManyGames发布了对游戏《K-Pop偶像故事：出道之路》的评测。该评测聚焦于游戏内容、玩法及与K-Pop主题的结合，属于常规游戏评测，不涉及艺人或娱乐产业的具体事件。",
+    "extracted_at": "2026-08-06T21:57:08.977301+08:00"
   },
   {
     "source_id": "soompi",
@@ -499,16 +574,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "THE BOYZ 9人续约新公司，继续团体活动",
+    "title_zh": "THE BOYZ 以9人组继续活动，与新所属社签订团体合约",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：8月6日，THE BOYZ成员Sangyeon、Jacob、Younghoon、Hyunjae、Juyeon、Kevin、Q、Sunwoo和Eric宣布，已达成协议以9人形式继续团体活动。",
-      "事实点2：成员们表示已最终确定团体合约，以支持这一决定。"
+      "事实点1：8月6日，THE BOYZ成员Sangyeon、Jacob、Younghoon、Hyunjae、Juyeon、Kevin、Q、Sunwoo、Eric宣布，全员同意以9人组继续团体活动。",
+      "事实点2：成员们表示已最终确定团体合约，以9人形式继续活动。"
     ],
-    "summary_zh": "THE BOYZ将以9人组形式继续活动。8月6日，成员Sangyeon、Jacob、Younghoon、Hyunjae、Juyeon、Kevin、Q、Sunwoo和Eric宣布，他们已达成一致，以9人形式继续团体活动，并已最终确定团体合约。",
-    "extracted_at": "2026-08-06T18:35:19.438040+08:00"
+    "summary_zh": "THE BOYZ 将以9人组形式继续团体活动。8月6日，成员Sangyeon、Jacob、Younghoon、Hyunjae、Juyeon、Kevin、Q、Sunwoo、Eric共同宣布，已达成一致意见，以9人组继续活动，并已最终确定团体合约。",
+    "extracted_at": "2026-08-06T21:57:11.742924+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -532,7 +607,7 @@
       "事实点2：活动主题为K-POP，由Character Media主办或报道"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：好莱坞环球影城CityWalk举办K-POP活动，由Character Media报道。]",
-    "extracted_at": "2026-08-06T18:35:21.027676+08:00"
+    "extracted_at": "2026-08-06T21:57:13.681689+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -553,10 +628,10 @@
     "is_blurred": false,
     "facts_list": [
       "事实点1：BTS Army粉丝团在美国马萨诸塞州福克斯堡的吉列体育场聚集，观看BTS组合的演出。",
-      "事实点2：该活动由NBC Boston报道。"
+      "事实点2：该活动由NBC Boston报道，具体演出日期和细节未在原文中提及。"
     ],
-    "summary_zh": "据NBC Boston报道，BTS的粉丝团Army在美国马萨诸塞州福克斯堡的吉列体育场聚集，以观看K-pop组合BTS的演出。报道未提供具体演出日期、曲目或更多细节。",
-    "extracted_at": "2026-08-06T18:35:23.079467+08:00"
+    "summary_zh": "据NBC Boston报道，BTS的粉丝团Army在美国马萨诸塞州福克斯堡的吉列体育场聚集，以观看K-pop组合BTS的现场演出。报道未提供演出具体日期、曲目或其他细节，仅确认了粉丝聚集和观看演出这一事实。",
+    "extracted_at": "2026-08-06T21:57:16.340060+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -571,16 +646,15 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "KPop Demon Hunters卡拉OK机通过山姆会员店发售",
+    "title_zh": "KPop Demon Hunters卡拉OK机通过Sam's Club发售",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：KPop Demon Hunters卡拉OK机已发布",
-      "事实点2：该产品通过山姆会员店（Sam's Club）销售"
+      "事实点1：KPop Demon Hunters卡拉OK机已通过Sam's Club发售。"
     ],
-    "summary_zh": "据Bleeding Cool News报道，KPop Demon Hunters卡拉OK机已正式发布，并通过山姆会员店（Sam's Club）进行销售。该产品结合了K-pop主题与卡拉OK功能，具体细节未在原文中详述。",
-    "extracted_at": "2026-08-06T18:35:25.239766+08:00"
+    "summary_zh": "据Bleeding Cool News报道，KPop Demon Hunters卡拉OK机已通过Sam's Club发售。该产品与K-pop相关，但具体细节未在原文中提及。",
+    "extracted_at": "2026-08-06T21:57:18.249367+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -600,11 +674,10 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：IGN报道称，现实版《生化危机》角色艾达·王已被找到，是一位K-Pop明星。",
-      "事实点2：该报道未提及具体明星姓名、所属社或具体作品。"
+      "事实点1：IGN报道称，现实版艾达·王已被找到，是一位K-Pop明星。"
     ],
-    "summary_zh": "据IGN报道，现实版艾达·王已被找到，她是一位K-Pop明星。报道未透露具体姓名、所属社或相关作品，仅指出其身份为K-Pop明星。",
-    "extracted_at": "2026-08-06T18:35:27.392421+08:00"
+    "summary_zh": "据IGN报道，现实版艾达·王已被找到，她是一位K-Pop明星。该报道未提及具体艺人姓名、所属社或更多细节。",
+    "extracted_at": "2026-08-06T21:57:20.023336+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -624,11 +697,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：The Hollywood Reporter报道，《KPop Demon Hunters》周边产品线扩展，新增一款乐高套装。",
+      "事实点1：据《好莱坞报道者》报道，《KPop Demon Hunters》的周边产品线扩展，新增一款乐高套装。",
       "事实点2：该乐高套装以创纪录的时间设计完成。"
     ],
-    "summary_zh": "据The Hollywood Reporter报道，韩娱IP《KPop Demon Hunters》的周边产品线进一步扩展，推出了一款乐高套装。该套装的设计过程以创纪录的速度完成，具体设计时长未在原文中提及。",
-    "extracted_at": "2026-08-06T18:35:29.541470+08:00"
+    "summary_zh": "据《好莱坞报道者》报道，《KPop Demon Hunters》的周边产品线进一步扩展，推出了一款乐高套装。该套装以创纪录的速度完成设计，但报道未提及具体设计时长、发售日期或价格等细节。",
+    "extracted_at": "2026-08-06T21:57:22.165553+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -648,11 +721,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：Yahoo发布报道，介绍官方《KPop Demon Hunters》卡拉OK机。",
-      "事实点2：该卡拉OK机设计面向业余歌手和流行明星。"
+      "Yahoo发布报道，介绍官方《KPop Demon Hunters》卡拉OK机",
+      "该卡拉OK机面向业余歌手和流行明星设计"
     ],
-    "summary_zh": "Yahoo报道，官方《KPop Demon Hunters》卡拉OK机正式发布，该设备专为业余歌手和流行明星设计，旨在提供专业级的卡拉OK体验。",
-    "extracted_at": "2026-08-06T18:35:31.470573+08:00"
+    "summary_zh": "据Yahoo报道，官方《KPop Demon Hunters》卡拉OK机已发布，该设备专为业余歌手和流行明星设计，旨在提供专业的卡拉OK体验。",
+    "extracted_at": "2026-08-06T21:57:24.083768+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -667,16 +740,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "BTS粉丝挤满吉列体育场，K-Pop热潮席卷波士顿",
+    "title_zh": "粉丝涌入吉列体育场观看K-Pop巨星BTS演唱会",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：粉丝聚集在吉列体育场（Gillette Stadium）观看BTS演出",
+      "事实点1：粉丝聚集在吉列体育场（Gillette Stadium）观看BTS演唱会",
       "事实点2：该体育场位于美国马萨诸塞州福克斯堡，是NFL新英格兰爱国者队主场"
     ],
-    "summary_zh": "据WHDH报道，K-Pop组合BTS在美国马萨诸塞州福克斯堡的吉列体育场举行演唱会，吸引了大量粉丝到场。吉列体育场是NFL新英格兰爱国者队的主场，此次BTS的演出再次证明了其在全球范围内的高人气。",
-    "extracted_at": "2026-08-06T18:35:34.194065+08:00"
+    "summary_zh": "据WHDH报道，大量粉丝涌入位于美国马萨诸塞州福克斯堡的吉列体育场，观看K-Pop巨星BTS的演唱会。该体育场是NFL新英格兰爱国者队的主场，此次演唱会吸引了众多粉丝前来。",
+    "extracted_at": "2026-08-06T21:57:26.559971+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -696,11 +769,14 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：BTS粉丝前往美国马萨诸塞州福克斯堡的吉列体育场，参加该体育场历史上首场K-pop演唱会。",
-      "事实点2：粉丝在采访中表达兴奋之情，如“我兴奋极了”（I am buzzing）。"
+      "时间：未明确提及具体日期，但为首次在吉列体育场举办的K-pop演唱会",
+      "地点：美国马萨诸塞州福克斯堡的吉列体育场",
+      "主体：BTS及其粉丝（ARMY）",
+      "事件：BTS在吉列体育场举办演唱会，这是该体育场首次举办K-pop演唱会",
+      "粉丝反应：有粉丝表示“I am buzzing”（我非常兴奋）"
     ],
-    "summary_zh": "BTS粉丝前往美国吉列体育场，参加该体育场首次举办的K-pop演唱会。粉丝们难掩激动，在采访中表示“我兴奋极了”。此次演唱会标志着K-pop在主流体育场馆的又一里程碑。",
-    "extracted_at": "2026-08-06T18:35:36.783266+08:00"
+    "summary_zh": "据WGBH报道，BTS粉丝前往美国马萨诸塞州福克斯堡的吉列体育场，参加该体育场历史上首场K-pop演唱会。粉丝们对此表现出极大的兴奋，其中一位粉丝表示“I am buzzing”（我非常兴奋）。此次演唱会标志着K-pop在主流体育场馆的进一步拓展。",
+    "extracted_at": "2026-08-06T21:57:29.437657+08:00"
   },
   {
     "source_id": "soompi",
@@ -721,11 +797,11 @@
     "is_blurred": false,
     "facts_list": [
       "SBS新剧《Flex x Cop 2》公开了新的精彩预告。",
-      "安普贤将继续饰演陈伊秀，一个第三代财阀继承人兼侦探，在调查陷入僵局时利用财富和人脉。",
-      "郑恩彩将加入，与安普贤联手抓捕包括刘承浩饰演的角色在内的反派。"
+      "安普贤将继续饰演陈利洙，一个第三代财阀继承人兼侦探，在调查陷入僵局时利用财富和人脉。",
+      "郑恩彩加入，与安普贤联手抓捕包括刘承浩饰演的角色在内的反派。"
     ],
-    "summary_zh": "SBS新剧《Flex x Cop 2》公开了新的精彩预告。安普贤将继续饰演陈伊秀，一个第三代财阀继承人兼侦探，在调查陷入僵局时利用财富和人脉。郑恩彩将加入，与安普贤联手抓捕包括刘承浩饰演的角色在内的反派。",
-    "extracted_at": "2026-08-06T18:35:39.552561+08:00"
+    "summary_zh": "SBS新剧《Flex x Cop 2》公开了新的精彩预告。安普贤将继续饰演陈利洙，一个第三代财阀继承人兼侦探，在调查陷入僵局时利用财富和人脉。郑恩彩加入，与安普贤联手抓捕包括刘承浩饰演的角色在内的反派。",
+    "extracted_at": "2026-08-06T21:57:32.283137+08:00"
   },
   {
     "source_id": "soompi",
@@ -746,10 +822,10 @@
     "is_blurred": false,
     "facts_list": [
       "事实点1：8月5日（当地时间），《今夜秀》官方宣布KATSEYE将出演该节目。",
-      "事实点2：KATSEYE将在节目中表演并接受采访，以宣传即将发行的EP《WILD》。"
+      "事实点2：KATSEYE将在节目中登台表演，并坐下接受访谈，以宣传即将发行的EP《WILD》。"
     ],
-    "summary_zh": "KATSEYE将于下周首次亮相美国深夜电视节目《今夜秀》。8月5日（当地时间），该节目官方宣布KATSEYE将出演，以宣传他们的新EP《WILD》。KATSEYE将进行舞台表演并参与访谈。",
-    "extracted_at": "2026-08-06T18:35:41.897877+08:00"
+    "summary_zh": "KATSEYE将于下周首次亮相美国深夜电视节目《今夜秀》。8月5日（当地时间），该节目官方宣布KATSEYE将出演，以宣传其即将发行的EP《WILD》。KATSEYE将在节目中登台表演，并坐下接受访谈。",
+    "extracted_at": "2026-08-06T21:57:34.823121+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -769,12 +845,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：活动名称为“KPop Demon Hunters”体验活动",
-      "事实点2：活动地点为佛罗里达剧院（Florida Theatre）",
+      "事实点1：活动名称为“KPop Demon Hunters”沉浸式体验",
+      "事实点2：活动地点为美国佛罗里达剧院（Florida Theatre）",
       "事实点3：活动主题涉及唱歌、跳舞和“Slay”元素"
     ],
-    "summary_zh": "据104.5 WOKV报道，名为“KPop Demon Hunters”的K-Pop主题沉浸式体验活动将登陆佛罗里达剧院。该活动融合唱歌、跳舞等元素，为粉丝提供独特的K-Pop文化体验。具体日期和票价等细节暂未公布。",
-    "extracted_at": "2026-08-06T18:35:44.268549+08:00"
+    "summary_zh": "据104.5 WOKV报道，名为“KPop Demon Hunters”的沉浸式体验活动将前往佛罗里达剧院。该活动以K-Pop为主题，融合唱歌、跳舞等元素，为参与者提供独特的娱乐体验。目前具体日期和票务信息尚未公布。",
+    "extracted_at": "2026-08-06T21:57:37.177230+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -794,11 +870,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "美泰公司（Mattel）推出Kpop Demon Hunters歌唱玩偶",
-      "该玩偶系列已正式发售"
+      "事实点1：美泰（Mattel）推出Kpop Demon Hunters歌唱玩偶",
+      "事实点2：该玩偶已正式发售"
     ],
-    "summary_zh": "美泰公司（Mattel）备受期待的Kpop Demon Hunters歌唱玩偶现已正式发售。该系列玩偶结合了K-pop元素与歌唱功能，具体细节及发售渠道未在原文中详细说明。",
-    "extracted_at": "2026-08-06T18:35:46.236937+08:00"
+    "summary_zh": "美泰（Mattel）备受期待的Kpop Demon Hunters歌唱玩偶现已正式发售。该系列玩偶结合了K-pop元素与歌唱功能，具体细节暂未披露。",
+    "extracted_at": "2026-08-06T21:57:39.110912+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -813,16 +889,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "安德玛携手K-pop，开启合作新篇章",
+    "title_zh": "安德玛与K-pop合作，开启新篇章",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：运动品牌安德玛（Under Armour）宣布与K-pop展开合作。",
-      "事实点2：该消息由行业媒体Retail Dive报道。"
+      "事实点1：运动品牌安德玛宣布与K-pop展开合作",
+      "事实点2：该消息由Retail Dive报道"
     ],
-    "summary_zh": "运动品牌安德玛（Under Armour）宣布与K-pop展开合作，此举旨在借助K-pop的全球影响力拓展市场。该消息由行业媒体Retail Dive报道，但具体合作对象、合作形式及细节尚未披露。",
-    "extracted_at": "2026-08-06T18:35:48.281906+08:00"
+    "summary_zh": "运动品牌安德玛宣布与K-pop展开合作，该消息由Retail Dive报道。具体合作对象和细节尚未披露。",
+    "extracted_at": "2026-08-06T21:57:40.706953+08:00"
   },
   {
     "source_id": "asianwiki",
