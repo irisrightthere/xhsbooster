@@ -1,5 +1,274 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "East Brown Cow welcomes K-Pop Kimbap to the Old Port Square district - NEREJ",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVUpoQld0WXYyb0ZiT0xKLVJ4TVRQY29yY2U1TVQ3czh3eGNqNldNNTFtZ2xUR1E0MUdpdTQ5Q3JoSng0OGZST0R2SlgzbkxuZmp3Mkdua1ZTLXlXODhUeU5GVW5jMDFEcjl4bEFrY2ZEelpLQmtwN0JZY0xGNUxXYTcxdXcxNUswMFI5VWVUTQ?oc=5",
+    "content": "East Brown Cow welcomes K-Pop Kimbap to the Old Port Square district NEREJ",
+    "published_at": "0807google-kpop",
+    "published_ts": 1786106700.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "East Brown Cow欢迎K-Pop Kimbap入驻老港广场区",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：East Brown Cow（房地产公司）欢迎K-Pop Kimbap（餐饮品牌）入驻老港广场区（Old Port Square district）",
+      "事实点2：该消息由NEREJ报道"
+    ],
+    "summary_zh": "据NEREJ报道，East Brown Cow公司欢迎K-Pop Kimbap品牌入驻老港广场区。该消息表明K-Pop Kimbap将在该区域开设门店，但具体开业时间、店铺详情等未提及。",
+    "extracted_at": "2026-08-07T20:53:38.268081+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "'KPop Demon Hunters' singer' Audrey Nuna captures “feeling of redemption, of validation, of the tides finally turning\" on bold new single ‘superHuman’ - NME",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQV9qSFd0WUp1RG1ReF9MTUJkYWJNZXhyLWVBVUZiamxpWnJrb1paSU9OdkotRXFsVDNQNUNuWnpnbnFuS3ZKcGlpNVpFV2ZPSTh1dnlpRWZHNVRKdnlWNkdwQXVVeGhJVWtpRHNia05sWHRfd1RTZlNiczN5Q1gxdHBLTVpVRVR6QThmcGg0SDMzTVhncGJTa3hWQUxhY2JpaUx0YnpR?oc=5",
+    "content": "'KPop Demon Hunters' singer' Audrey Nuna captures “feeling of redemption, of validation, of the tides finally turning\" on bold new single ‘superHuman’ NME",
+    "published_at": "0807google-kpop",
+    "published_ts": 1786106075.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Audrey Nuna新单曲《superHuman》表达救赎与验证之感",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：Audrey Nuna发行新单曲《superHuman》",
+      "事实点2：歌曲主题为“救赎、验证、时来运转的感觉”"
+    ],
+    "summary_zh": "据NME报道，歌手Audrey Nuna发行了大胆的新单曲《superHuman》，她表示这首歌捕捉了“救赎、验证、时来运转的感觉”。",
+    "extracted_at": "2026-08-07T20:53:39.951313+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Namkoong Min Sits By Lee Seol’s Side For A Quiet Heart-To-Heart In “The Husband”",
+    "url": "https://www.soompi.com/article/1860978wpp/namkoong-min-sits-by-lee-seols-side-for-a-quiet-heart-to-heart-in-the-husband",
+    "content": "“The Husband” has shared a new glimpse of its upcoming episode! “The Husband” is a thriller that follows Kang Tae Joo (Namkoong Min), a man who becomes entangled in a desperate battle against a dangerous criminal after his wife is kidnapped just before their divorce. Spoilers Previously, Kang Tae Joo revealed to Go Se Yoon&#8230; Continue reading Namkoong Min Sits By Lee Seol’s Side For A Quiet Heart-To-Heart In “The Husband”\nThe post Namkoong Min Sits By Lee Seol’s Side For A Quiet Heart-To-Heart In “The Husband” appeared first on Soompi.",
+    "published_at": "0807soompi",
+    "published_ts": 1786105279.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《丈夫》新剧照：南宫珉与李雪并肩而坐，展开安静谈心",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：韩剧《丈夫》公开新剧照，显示南宫珉饰演的姜泰柱与李雪饰演的具世妍并肩而坐，进行安静谈心。",
+      "事实点2：该剧为惊悚题材，讲述姜泰柱在离婚前夕妻子被绑架，与危险罪犯展开殊死搏斗的故事。"
+    ],
+    "summary_zh": "韩剧《丈夫》公开新剧照，南宫珉饰演的姜泰柱与李雪饰演的具世妍并肩而坐，进行安静谈心。该剧为惊悚题材，讲述姜泰柱在离婚前夕妻子被绑架，与危险罪犯展开殊死搏斗的故事。此前剧情中，姜泰柱曾向具世妍透露某些信息，具体内容未在原文中详述。",
+    "extracted_at": "2026-08-07T20:53:42.763488+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Lee Min Jung And Kim Ji Seok’s Happy Marriage Quickly Turns Sour In “OK, Let’s Get Divorced” Teaser",
+    "url": "https://www.soompi.com/article/1860639wpp/watch-lee-min-jung-and-kim-ji-seoks-happy-marriage-quickly-turns-sour-in-ok-lets-get-divorced-teaser",
+    "content": "Upcoming drama “OK, Let’s Get Divorced” has released a new teaser! “OK, Let’s Get Divorced” follows the realistic divorce journey of a married couple who run a wedding dress shop as they decide to put an end to their exhausting marriage. The newly released teaser offers a glimpse of Baek Mi Young (Lee Min Jung)&#8230; Continue reading Watch: Lee Min Jung And Kim Ji Seok’s Happy Marriage Quickly Turns Sour In “OK, Let’s Get Divorced” Teaser\nThe post Watch: Lee Min Jung And Kim Ji Seok’s Happy Marriage Quickly Turns Sour In “OK, Let’s Get Divorced” Teaser appeared first on Soompi.",
+    "published_at": "0807soompi",
+    "published_ts": 1786104637.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "李珉廷金智锡新剧《好，离婚吧》预告：幸福婚姻迅速变质",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "新剧《好，离婚吧》发布新预告，该剧讲述经营婚纱店的夫妇决定结束疲惫婚姻的现实离婚过程。",
+      "预告中展示了白美英（李珉廷饰）与丈夫（金智锡饰）的婚姻从幸福迅速走向破裂的片段。"
+    ],
+    "summary_zh": "新剧《好，离婚吧》公开新预告。该剧讲述一对经营婚纱店的夫妇决定结束疲惫婚姻的现实离婚故事。预告中，李珉廷饰演的白美英与金智锡饰演的丈夫，展现了他们幸福婚姻迅速变质的过程。",
+    "extracted_at": "2026-08-07T20:53:45.309284+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: NouerA Takes 2nd Win For “.exe” On “Music Bank”; Performances By Stray Kids, Dayoung, Jay Park, And More",
+    "url": "https://www.soompi.com/article/1860975wpp/watch-nouera-takes-2nd-win-for-exe-on-music-bank-performances-by-stray-kids-dayoung-jay-park-and-more",
+    "content": "NouerA has won a second music show trophy of their career! On the August 7 episode of “Music Bank,” the candidates for first place were NouerA’s “.exe” and CORTIS’s “REDRED.” NouerA ultimately took the prize with a total of 8,827 points, marking the first public broadcast network music show win of their career. Congratulations to NouerA! Watch&#8230; Continue reading Watch: NouerA Takes 2nd Win For “.exe” On &#8220;Music Bank&#8221;; Performances By Stray Kids, Dayoung, Jay Park, And More\nThe post Watch: NouerA Takes 2nd Win For “.exe” On &#8220;Music Bank&#8221;; Performances By Stray Kids, Dayoung, Jay Park, And More appeared first on Soompi.",
+    "published_at": "0807soompi",
+    "published_ts": 1786103307.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "NouerA凭借“.exe”获《音乐银行》第二冠，Stray Kids、Dayoung、Jay Park等献上舞台",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：8月7日播出的《音乐银行》中，NouerA的“.exe”以8,827分击败CORTIS的“REDRED”获得第一名。",
+      "事实点2：这是NouerA出道以来第二个音乐节目冠军，也是首次获得公共电视台音乐节目冠军。",
+      "事实点3：本期节目还有Stray Kids、Dayoung、Jay Park等人的表演。"
+    ],
+    "summary_zh": "在8月7日播出的《音乐银行》中，NouerA凭借歌曲“.exe”以8,827分战胜CORTIS的“REDRED”，获得职业生涯第二个音乐节目冠军，同时也是首个公共电视台音乐节目冠军。本期节目还包含了Stray Kids、Dayoung、Jay Park等艺人的精彩舞台。",
+    "extracted_at": "2026-08-07T20:53:47.923299+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "i-dle’s “Tomboy” Becomes Their 3rd MV To Hit 400 Million Views",
+    "url": "https://www.soompi.com/article/1860969wpp/i-dles-tomboy-becomes-their-3rd-mv-to-hit-400-million-views",
+    "content": "i-dle has hit the 400 million mark with yet another music video on YouTube! On August 7 at approximately 5:16 p.m. KST, i-dle’s music video for their 2022 hit “Tomboy” surpassed 400 million views on YouTube, making it their third music video to reach the milestone after “Queencard” and “Nxde.” i-dle originally released the music&#8230; Continue reading i-dle&#8217;s &#8220;Tomboy&#8221; Becomes Their 3rd MV To Hit 400 Million Views\nThe post i-dle&#8217;s &#8220;Tomboy&#8221; Becomes Their 3rd MV To Hit 400 Million Views appeared first on Soompi.",
+    "published_at": "0807soompi",
+    "published_ts": 1786100119.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "(G)I-DLE《Tomboy》MV观看量突破4亿，成为组合第三支达成此里程碑的MV",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：8月7日下午5点16分（韩国时间），(G)I-DLE的《Tomboy》MV在YouTube观看量突破4亿次。",
+      "事实点2：这是继《Queencard》和《Nxde》之后，(G)I-DLE第三支观看量达到4亿的MV。"
+    ],
+    "summary_zh": "(G)I-DLE的歌曲《Tomboy》MV于8月7日下午5点16分（韩国时间）在YouTube上突破4亿观看量，成为组合继《Queencard》和《Nxde》之后第三支达成此里程碑的MV。该MV于2022年发布。",
+    "extracted_at": "2026-08-07T20:53:50.077610+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-pop idols are flaunting a hot new accessory – Pokémon cards - Lifestyle Asia",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYkxjZDV2QlJwTnE0TG5pS0RzQTZ4NXhSTlg1a2NXR3hKdm1rWmlFeTM3cF9ISXFmQjJDUGFDdGFtQkNwMmJzODdNQm80ZFZrV0pUQ1NYMVdmUU1ERzhrZVp3b2o2cjdxZEdJSHFxUXpqNzVzM1NjbjVzaWo5eE5QNEJ0VHd3M0dTZ2kyWEc2QlRQT0J1U1JraGY5cHB2M2RZTVU5N9IBqgFBVV95cUxNOHN1M0M0ZVozOHg5X1EzZjlFdGptTFdMcUtzOU05R3drbVFadWJ0NVNlVlZLU09nZWpFMDJ4a3ZFaTM5azQ2MjhDdTBTX2xRNk5UQ3BzV28tTUJ1Z2pWTHQtVnByRmZRYV85ZjBYS3JyQldwcEk5LXE1dmF6c2d1SGp6eHdYV0dJdlVGSEZxV09mczBpVjJmcnpDakNEVm5salgtcnRQTUt3UQ?oc=5",
+    "content": "K-pop idols are flaunting a hot new accessory – Pokémon cards Lifestyle Asia",
+    "published_at": "0807google-kpop",
+    "published_ts": 1786099688.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "K-pop偶像新潮流：晒宝可梦卡牌成时尚配饰",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：K-pop偶像近期在公开场合展示宝可梦卡牌，将其作为时尚配饰。",
+      "事实点2：该趋势由Lifestyle Asia报道，指出宝可梦卡牌成为偶像新宠。"
+    ],
+    "summary_zh": "据Lifestyle Asia报道，K-pop偶像近期流行将宝可梦卡牌作为时尚配饰展示。这一趋势表明偶像们不仅在音乐领域引领潮流，也在时尚配饰上展现个性。报道未提及具体偶像姓名或具体场合，但强调了宝可梦卡牌在偶像群体中的流行现象。",
+    "extracted_at": "2026-08-07T20:53:52.652375+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: MONSTA X Announces September Comeback With A New Teaser",
+    "url": "https://www.soompi.com/article/1860959wpp/watch-monsta-x-announces-september-comeback-with-a-new-teaser",
+    "content": "Get ready for MONSTA X’s return! On August 6, MONSTA X officially announced their return by unveiling a “coming soon” teaser for their upcoming mini album “The Phase,” due out on September 4 at 1 p.m. KST. The teaser transforms the members into glowing particles of light that eventually converge to form their silhouettes, symbolizing&#8230; Continue reading Watch: MONSTA X Announces September Comeback With A New Teaser\nThe post Watch: MONSTA X Announces September Comeback With A New Teaser appeared first on Soompi.",
+    "published_at": "0807soompi",
+    "published_ts": 1786098638.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "MONSTA X 发布新预告，宣布9月携迷你专辑《The Phase》回归",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：8月6日，MONSTA X 发布“即将到来”预告，正式宣布回归。",
+      "事实点2：新迷你专辑名为《The Phase》，将于9月4日下午1点（韩国时间）发行。",
+      "事实点3：预告中，成员们化作发光粒子，最终汇聚成他们的剪影。"
+    ],
+    "summary_zh": "MONSTA X 于8月6日通过公开“即将到来”预告，正式宣布回归。他们的新迷你专辑《The Phase》定于9月4日下午1点（韩国时间）发行。预告片中，成员们化作发光的粒子，最终汇聚成他们的轮廓，象征着重生与团结。",
+    "extracted_at": "2026-08-07T20:53:54.970617+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Song Kang And Lee Jun Young’s Friendship Is Torn Apart By Constant Comparisons In “Four Hands, Two Sonatas”",
+    "url": "https://www.soompi.com/article/1860922wpp/watch-song-kang-and-lee-jun-youngs-friendship-is-torn-apart-by-constant-comparisons-in-four-hands-two-sonatas",
+    "content": "Upcoming tvN drama “Four Hands, Two Sonatas” has unveiled a new teaser! “Four Hands” is a piano term that refers to a technique where two people play a single piano together. The drama “Four Hands, Two Sonatas” will depict the friendship, love, rivalry, and growth of youths who meet at an arts high school, following&#8230; Continue reading Watch: Song Kang And Lee Jun Young’s Friendship Is Torn Apart By Constant Comparisons In “Four Hands, Two Sonatas”\nThe post Watch: Song Kang And Lee Jun Young’s Friendship Is Torn Apart By Constant Comparisons In “Four Hands, Two Sonatas” appeared first on Soompi.",
+    "published_at": "0807soompi",
+    "published_ts": 1786096756.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "宋康与李濬荣新剧《四手联弹》预告公开，友情因不断比较而破裂",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "tvN新剧《Four Hands, Two Sonatas》公开新预告",
+      "剧名“Four Hands”为钢琴术语，指两人共弹一架钢琴",
+      "剧情讲述艺术高中里青年们的友情、爱情、竞争与成长",
+      "主演包括宋康和李濬荣"
+    ],
+    "summary_zh": "tvN新剧《Four Hands, Two Sonatas》公开新预告。剧名“Four Hands”为钢琴术语，指两人共弹一架钢琴。该剧将描绘在艺术高中相遇的青年们的友情、爱情、竞争与成长。预告中，宋康与李濬荣饰演的角色因不断的比较而友情破裂。",
+    "extracted_at": "2026-08-07T20:53:57.305794+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "6 K-pop idols who are proud cat parents, from GD to Lisa - Hashtag Legend Hong Kong",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNXQ1TTJ1a0tDMHJUc2Z4Y1k0emljMXU3RnNiZUQ2eXduOW56OTI5U0NsUW9pWl9PUFBOZktfWkJSNElDNF9oLTNnaTN1RVVkcmlOYndiUUN6YXN5VFVzejY4STh4YkZqZHRxX3drNk83WXNhdnNqX1dMTkszdXdhNlZ1Zw?oc=5",
+    "content": "6 K-pop idols who are proud cat parents, from GD to Lisa Hashtag Legend Hong Kong",
+    "published_at": "0807google-kpop",
+    "published_ts": 1786095115.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "从GD到Lisa：6位自豪的K-pop偶像猫奴盘点",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：文章列举了6位K-pop偶像，包括G-Dragon（权志龙）和Lisa（BLACKPINK成员），他们是自豪的猫主人。",
+      "事实点2：文章标题为“从GD到Lisa”，具体内容未提供，但提及了这些偶像的猫父母身份。"
+    ],
+    "summary_zh": "该资讯盘点了6位K-pop偶像，他们以养猫为傲，其中包括G-Dragon（权志龙）和BLACKPINK的Lisa。文章标题为“从GD到Lisa”，暗示了这些偶像在养猫方面的共同点，但具体细节未在原文中展开。",
+    "extracted_at": "2026-08-07T20:54:00.170369+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Namkoong Min Watches From Above As Police Talk To Lee Seol In “The Husband”",
+    "url": "https://www.soompi.com/article/1860912wpp/namkoong-min-watches-from-above-as-police-talk-to-lee-seol-in-the-husband",
+    "content": "“The Husband” has unveiled new stills ahead of its upcoming episode! “The Husband” is a thriller that follows Kang Tae Joo (Namkoong Min), a man who becomes entangled in a desperate battle against a dangerous criminal after his wife is kidnapped just before their divorce. Spoilers Previously, Episode 10 revealed Choi Chi Woong’s (Woo Ji&#8230; Continue reading Namkoong Min Watches From Above As Police Talk To Lee Seol In “The Husband”\nThe post Namkoong Min Watches From Above As Police Talk To Lee Seol In “The Husband” appeared first on Soompi.",
+    "published_at": "0807soompi",
+    "published_ts": 1786093021.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《丈夫》新剧照：南宫珉高处注视李雪与警方交谈",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：韩剧《丈夫》公开新剧照，显示南宫珉饰演的姜泰柱在高处注视李雪饰演的角色与警方交谈。",
+      "事实点2：该剧为惊悚题材，讲述姜泰柱在离婚前夕妻子被绑架后，与危险罪犯展开殊死搏斗的故事。",
+      "事实点3：此前第10集已揭示崔智雄（宇智雄饰）的相关情节，具体内容未在原文中详述。"
+    ],
+    "summary_zh": "韩剧《丈夫》公开新剧照，南宫珉饰演的姜泰柱在高处注视李雪饰演的角色与警方交谈。该剧为惊悚题材，讲述姜泰柱在离婚前夕妻子被绑架后，与危险罪犯展开殊死搏斗的故事。此前第10集已揭示崔智雄（宇智雄饰）的相关情节，具体内容未在原文中详述。",
+    "extracted_at": "2026-08-07T20:54:03.282669+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -12,17 +281,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "李妍新片《庆州之旅》剧照公开，饰演行动先于思考的家庭捣蛋鬼",
+    "title_zh": "李妍新片《庆州之旅》剧照公开，饰演先行动后思考的家庭捣蛋鬼",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "电影《庆州之旅》公开了李妍的角色新剧照。",
-      "该片是一部家庭复仇电影，讲述母亲和三个女儿在等待八年后，为从未从学校旅行归来的小女儿庆州踏上“杀手”之旅的故事。",
-      "李妍在片中饰演行动先于思考的家庭捣蛋鬼。"
+      "该片是一部家庭复仇电影，讲述母亲和三个女儿在等待八年后，为在修学旅行中未归的小女儿庆州踏上‘杀手’之旅的故事。"
     ],
-    "summary_zh": "电影《庆州之旅》公开了李妍的新剧照。该片是一部家庭复仇电影，讲述母亲和三个女儿在等待八年后，为从未从学校旅行归来的小女儿庆州踏上“杀手”之旅的故事。李妍在片中饰演行动先于思考的家庭捣蛋鬼。",
-    "extracted_at": "2026-08-07T16:54:12.220804+08:00"
+    "summary_zh": "电影《庆州之旅》公开了李妍的新剧照。该片是一部家庭复仇电影，讲述母亲和三个女儿在等待八年后，为在修学旅行中未归的小女儿庆州踏上‘杀手’之旅的故事。李妍在片中饰演先行动后思考的家庭捣蛋鬼角色。",
+    "extracted_at": "2026-08-07T20:54:05.508813+08:00"
   },
   {
     "source_id": "soompi",
@@ -37,39 +305,40 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "AND2BLE金奎彬与TWS道勋将卸任《音乐中心》MC，8月22日播出最后一期",
+    "title_zh": "AND2BLE金奎彬与TWS道勋将卸任《音乐中心》MC，8月22日最后一次主持",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：8月7日，MBC《音乐中心》节目组宣布AND2BLE成员金奎彬和TWS成员道勋将卸任MC职位。",
-      "事实点2：两人担任MC约一年五个月，最后一期节目将于8月22日播出。"
+      "事实点1：8月7日，MBC《音乐中心》节目组宣布AND2BLE成员金奎彬与TWS成员道勋将卸任MC职位。",
+      "事实点2：两人担任MC约一年五个月，最后一次主持的节目将于8月22日播出。"
     ],
-    "summary_zh": "据Soompi报道，MBC音乐节目《音乐中心》于8月7日宣布，AND2BLE成员金奎彬和TWS成员道勋将卸任该节目MC。两人担任此职位约一年五个月，其最后一期节目将于8月22日播出。",
-    "extracted_at": "2026-08-07T16:54:14.378851+08:00"
+    "summary_zh": "据Soompi报道，AND2BLE的金奎彬和TWS的道勋将卸任MBC《音乐中心》的MC。8月7日，节目组宣布两人在担任约一年五个月后离开MC岗位，他们的最后一次广播将于8月22日播出。",
+    "extracted_at": "2026-08-07T20:54:07.792656+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "What are the most popular searches on Korean culture? - The Korea Herald",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZcF9CWFB2SFJHdHZNQ2lJZVFCUW1kX2FERWtDeVlWN3pzVGZTNEFYZHp0LUttMFZqNzd1TGVsNG9nV1VRcXVNR2xnVy1KeENWbUtacl9vSQ?oc=5",
-    "content": "What are the most popular searches on Korean culture? The Korea Herald",
+    "title": "KPop Demon Hunters merch shows how Netflix extends fandom - contentgrip.com",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BMjhzWnoyVk1kTDFjdURxZ0N1NFZlNGNoOWxpQ2U5TExINVJMa1hUeWFpZFQ4dUlUOWgwZVJmd1JYNHFod1V2VXpzMEw0UDBZRkRuY0dsYmhHRGVheHhBS1JnYk40Y0xadzZIczBkQQ?oc=5",
+    "content": "KPop Demon Hunters merch shows how Netflix extends fandom contentgrip.com",
     "published_at": "0807google-kpop",
-    "published_ts": 1786089719.0,
+    "published_ts": 1786089856.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "韩国文化最热门搜索是什么？——韩国先驱报",
+    "title_zh": "Netflix《KPop Demon Hunters》周边商品展示粉丝圈层延伸策略",
     "source_type": "韩娱",
     "risk_level": "低",
-    "is_blurred": true,
+    "is_blurred": false,
     "facts_list": [
-      "事实点1：原文未提及具体行为，仅称：韩国文化最热门搜索是什么？"
+      "事实点1：Netflix推出《KPop Demon Hunters》相关周边商品",
+      "事实点2：该举措旨在展示Netflix如何延伸粉丝圈层"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：韩国文化最热门搜索是什么？]",
-    "extracted_at": "2026-08-07T16:54:15.911246+08:00"
+    "summary_zh": "Netflix通过推出《KPop Demon Hunters》的周边商品，展示了其如何延伸粉丝圈层。该剧集结合了K-pop与奇幻元素，周边商品包括服饰、配饰等，旨在满足粉丝的收藏需求，并进一步扩大IP影响力。此举体现了Netflix在内容衍生品开发上的策略，通过实体商品增强粉丝互动与忠诚度。",
+    "extracted_at": "2026-08-07T20:54:10.323924+08:00"
   },
   {
     "source_id": "soompi",
@@ -84,17 +353,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "孔晓振新剧《杀人者的购物中心》公司团建变生死危机，最新剧照公开",
+    "title_zh": "孔晓振新剧《杀人者的购物中心》公司团建变生死危机",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "MBC剧集《杀人者的购物中心》公开新剧照，该剧改编自同名热门网漫。",
-      "该剧为动作剧，讲述一位拥有致命职业的职场妈妈为守护工作与生活平衡而奋斗的故事。",
-      "孔晓振饰演主角Yu Bo Na，公司团建演变为生死危机。"
+      "MBC剧集《杀人者的购物中心》公开新剧照",
+      "该剧改编自同名热门网络漫画，讲述孔晓振饰演的柳宝娜为保护工作与生活平衡而战斗的动作剧",
+      "新剧照显示公司团建陷入生死危机"
     ],
-    "summary_zh": "MBC剧集《杀人者的购物中心》公开新剧照，该剧改编自同名热门网漫，是一部动作剧，讲述一位拥有致命职业的职场妈妈为守护工作与生活平衡而奋斗的故事。孔晓振饰演主角Yu Bo Na，在即将播出的剧集中，公司团建将演变为生死危机。",
-    "extracted_at": "2026-08-07T16:54:18.505826+08:00"
+    "summary_zh": "MBC剧集《杀人者的购物中心》公开新剧照，该剧改编自同名热门网络漫画，是一部动作剧，讲述孔晓振饰演的柳宝娜作为职场妈妈，拥有致命职业，为保护工作与生活平衡而战斗。新剧照显示，公司团建演变成生死危机。",
+    "extracted_at": "2026-08-07T20:54:12.648199+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -114,36 +383,11 @@
     "risk_level": "中",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：THE BOYZ在与前经纪公司的合约纠纷中胜诉。",
-      "事实点2：组合宣布将以九人组形式继续活动。",
-      "事实点3：组合将签约新经纪公司，开启新篇章。"
+      "事实点1：韩国男团THE BOYZ在与前经纪公司的合约纠纷中胜诉。",
+      "事实点2：THE BOYZ宣布将以九人组形式在新经纪公司旗下继续活动。"
     ],
-    "summary_zh": "据韩国媒体报道，韩国男团THE BOYZ在与前经纪公司的合约纠纷中胜诉，并宣布将以九人组形式继续活动，签约新经纪公司，开启新篇章。",
-    "extracted_at": "2026-08-07T16:54:20.622599+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Hollywood is owning the summer box office. Will Korean films take it back in the fall? - The Korea Herald",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fQjBiMlhhV3E5U0tGZGJ4Q0ROb2s2TXFJU0ZQQS1VcHhrazZxVXdQM2U2QTRmdGdxNVRKOWptdXRvWFVLSFItVnBvODJsczF5ZU9yNUtKQQ?oc=5",
-    "content": "Hollywood is owning the summer box office. Will Korean films take it back in the fall? The Korea Herald",
-    "published_at": "0807google-kpop",
-    "published_ts": 1786086109.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "好莱坞称霸暑期档，韩国电影能否在秋季夺回市场？",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：2024年夏季，好莱坞电影在韩国票房市场占据主导地位。",
-      "事实点2：韩国电影界计划在秋季推出多部新片，以期扭转票房颓势。"
-    ],
-    "summary_zh": "据韩国先驱报报道，2024年夏季档期好莱坞电影在韩国票房市场表现强劲，占据主导地位。面对这一局面，韩国电影界计划在秋季档期推出多部本土新片，试图夺回市场份额。报道分析了韩国电影面临的挑战与机遇，并展望了秋季档期的竞争态势。",
-    "extracted_at": "2026-08-07T16:54:22.844266+08:00"
+    "summary_zh": "据韩国媒体报道，韩国男团THE BOYZ在与前经纪公司的合约纠纷中胜诉，并宣布将以九人组形式在新经纪公司旗下继续活动，开启新篇章。",
+    "extracted_at": "2026-08-07T20:54:14.673202+08:00"
   },
   {
     "source_id": "soompi",
@@ -166,8 +410,8 @@
       "事实点1：丁海寅与河英主演的浪漫喜剧《Our Sticky Love》于今日首播。",
       "事实点2：该剧讲述失忆检察官高恩瑟（河英饰）与自称是其丈夫的拳击教练张泰河（丁海寅饰）同居的故事。"
     ],
-    "summary_zh": "丁海寅与河英主演的浪漫喜剧《Our Sticky Love》今日首播。该剧讲述失忆检察官高恩瑟（河英饰）与拳击教练张泰河（丁海寅饰）同居的故事，张泰河声称自己是她的丈夫。",
-    "extracted_at": "2026-08-07T16:54:25.168925+08:00"
+    "summary_zh": "丁海寅与河英主演的浪漫喜剧《Our Sticky Love》于今日首播。该剧讲述失忆检察官高恩瑟（河英饰）与自称是其丈夫的拳击教练张泰河（丁海寅饰）同居的故事。",
+    "extracted_at": "2026-08-07T20:54:17.089202+08:00"
   },
   {
     "source_id": "soompi",
@@ -182,17 +426,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《Flex X Cop 2》首播：安普贤与郑恩彩重逢，开场即遇炸弹危机",
+    "title_zh": "《Flex X Cop 2》首播：安普贤与郑恩彩重逢，炸弹危机开场",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "《Flex X Cop 2》于今晚首播，公开了新剧照。",
-      "安普贤继续饰演陈利洙，一名利用财富和人脉解决案件的三代财阀继承人转行侦探。",
-      "郑恩彩饰演前警察教官，与安普贤的角色重逢，开场即面临炸弹危机。"
+      "事实点1：韩剧《Flex X Cop 2》于今晚首播，公开了新剧照。",
+      "事实点2：安普贤继续饰演陈伊秀，一名利用财富和人脉破案的第三代财阀继承人转行侦探。",
+      "事实点3：郑恩彩饰演前警察教官，与安普贤的角色重逢，剧情以炸弹危机开场。"
     ],
-    "summary_zh": "《Flex X Cop 2》在今晚首播前公开了新剧照。安普贤继续饰演陈利洙，一个利用财富和人脉解决案件的三代财阀继承人转行侦探。郑恩彩饰演前警察教官，与安普贤的角色重逢，开场即面临炸弹危机。",
-    "extracted_at": "2026-08-07T16:54:27.677640+08:00"
+    "summary_zh": "韩剧《Flex X Cop 2》今晚首播，公开新剧照。安普贤继续饰演陈伊秀，一名利用财富和人脉破案的第三代财阀继承人转行侦探。郑恩彩饰演前警察教官，与安普贤的角色重逢，剧情以炸弹危机开场。",
+    "extracted_at": "2026-08-07T20:54:19.656360+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -213,34 +457,10 @@
     "is_blurred": false,
     "facts_list": [
       "KCON 2026将于下周在美国洛杉矶举办",
-      "KCON被描述为全球最大的K-Pop庆典"
+      "KCON 2026被描述为全球最大的K-Pop庆典"
     ],
     "summary_zh": "据Time Out Worldwide报道，全球最大的K-Pop庆典KCON 2026将于下周在美国洛杉矶举行。该活动预计将吸引大量粉丝参与，具体演出阵容和活动细节尚未公布。",
-    "extracted_at": "2026-08-07T16:54:29.907060+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Song Review: ARTMS – Blue Blood - thebiaslist.com",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKQk5peTZTY1Iwd3JWS3RJRVluNzhVSnJEbHRTaTVwMFJUZDZyQW5XUHJ4NTFoanA4RDcxNHNoNjJaX1JQZnhMVHM0ZWo0OFQ1NFBuT3diUzZWM09mVWhFeW40VzBUdmxqeUFBTnY2Ui15UQ?oc=5",
-    "content": "Song Review: ARTMS – Blue Blood thebiaslist.com",
-    "published_at": "0807google-kpop",
-    "published_ts": 1786076897.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "ARTMS新曲《Blue Blood》乐评：暗黑美学与实验性编曲获赞",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：乐评网站thebiaslist.com发布对ARTMS歌曲《Blue Blood》的乐评",
-      "事实点2：乐评指出歌曲采用暗黑美学和实验性编曲，并给予正面评价"
-    ],
-    "summary_zh": "乐评网站thebiaslist.com发布了对ARTMS新曲《Blue Blood》的评论，称赞其暗黑美学和实验性编曲，认为歌曲展现了组合的音乐多样性。",
-    "extracted_at": "2026-08-07T16:54:31.764541+08:00"
+    "extracted_at": "2026-08-07T20:54:21.331607+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -255,40 +475,40 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Stray Kids新曲《This & That》乐评：风格延续与突破并存",
+    "title_zh": "Stray Kids新曲《This & That》乐评：风格转变获好评",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "事实点1：thebiaslist.com发布Stray Kids歌曲《This & That》的乐评",
-      "事实点2：乐评内容涉及对歌曲风格的评价，指出其延续与突破"
+      "事实点2：乐评指出该曲风格与以往不同，获得积极评价"
     ],
-    "summary_zh": "thebiaslist.com发布了对Stray Kids歌曲《This & That》的乐评。乐评指出，该曲在风格上既有延续性，也有突破之处，具体评价内容未详细展开。",
-    "extracted_at": "2026-08-07T16:54:33.842401+08:00"
+    "summary_zh": "thebiaslist.com发布了对Stray Kids歌曲《This & That》的乐评。乐评认为该曲展现了与以往不同的风格，并给予了积极评价。具体细节未在原文中提及。",
+    "extracted_at": "2026-08-07T20:54:23.281029+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "ANOTHER BANGER FROM SKZ ❤️‍🔥🎧 K-pop boy group Stray Kids dropped the music video for their cool beat title track \"This & That,\" which is part of their latest mini-album of the same name. (Screenshots from Stray Kids/YouTube) - facebook.com",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQktfOG4tTnNyRVVtMmpHQTB3SW1WZnEzX0NoWTQ4Mk9tclktZUd0bGxNa1FBUG0tYTlNbmc5VDNaYUpaLXRfbDVFSmEycnlwejUyMlZvYjBKanFPZWF1RmJMenFOWkVwYllLM3QyT2V2WXBUUjlOSFNkaE9PRGNYQXBsSFY1dEh4OExmbWdjZFZ1YVp4MHRad245V1JFaldaV1pZbG9wRGpHUDh0VUFXOVlYSWh4Y3V1RFNUc0NCUzBTZ2k5LUF5akd6S1QySk94N29sX1JpNkpsQkxnc0sxejRB?oc=5",
-    "content": "ANOTHER BANGER FROM SKZ ❤️‍🔥🎧 K-pop boy group Stray Kids dropped the music video for their cool beat title track \"This & That,\" which is part of their latest mini-album of the same name. (Screenshots from Stray Kids/YouTube) facebook.com",
+    "title": "SWITCH IT UP, SWITCHBLADE K-pop sensation aespa has kept the momentum going by releasing a music video for their collaboration \"Switchblade\" featuring American singer and rapper Ty Dolla $ign, shortly after sharing the stage with him at Lollapalooza. - facebook.com",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZVRFV0FyRFdFTFk1SjcxSjFuQnp5M2xic0dTRUtkS0lvU09YX2Y1VUJRZG5tOG5qVTNPbjZmUFo1TFZXQ1FHdHBYMXZPeFlGTG5DcjdDck1QMjNSQ0lsU2hzWlY5RXdVQUQ5WGZXQzlBejBlVV9nSElGX0ptQV9ZcGhaWnAtalpLc1RNcE05LWhtSmpoNjJDd1hvNjVyNVhTNG5WbXhpSXRYMzMwaG9wdXZ1cXprWDBybHBoaHJfZ2RUZlJ4Z09ZUDg0bDJYOXo5S2JmRnB1bw?oc=5",
+    "content": "SWITCH IT UP, SWITCHBLADE K-pop sensation aespa has kept the momentum going by releasing a music video for their collaboration \"Switchblade\" featuring American singer and rapper Ty Dolla $ign, shortly after sharing the stage with him at Lollapalooza. facebook.com",
     "published_at": "0807google-kpop",
-    "published_ts": 1786076507.0,
+    "published_ts": 1786076403.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Stray Kids发布新迷你专辑同名主打曲《This & That》MV",
+    "title_zh": "aespa发布与Ty Dolla $ign合作曲《Switchblade》MV，延续Lollapalooza舞台热度",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：Stray Kids发布了新迷你专辑《This & That》的同名主打曲MV",
-      "事实点2：MV截图来源为Stray Kids官方YouTube频道"
+      "事实点1：韩国女团aespa发布与美国歌手兼说唱歌手Ty Dolla $ign的合作曲《Switchblade》的MV。",
+      "事实点2：此前aespa与Ty Dolla $ign在Lollapalooza音乐节上同台表演。"
     ],
-    "summary_zh": "韩国男团Stray Kids发布了最新迷你专辑《This & That》的同名主打曲MV，该曲以其酷炫的节奏为特点。MV已通过官方YouTube频道公开。",
-    "extracted_at": "2026-08-07T16:54:35.623946+08:00"
+    "summary_zh": "韩国女团aespa在Lollapalooza音乐节与Ty Dolla $ign同台表演后，发布了合作曲《Switchblade》的MV，延续了近期势头。",
+    "extracted_at": "2026-08-07T20:54:25.446345+08:00"
   },
   {
     "source_id": "soompi",
@@ -308,11 +528,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "MBC剧集《杀人者的购物中心》发布新剧照，展示孔晓振饰演的柳宝娜面对河律利身份真相的场面。",
-      "该剧改编自同名热门网络漫画，讲述一位拥有致命职业的职场妈妈为守护工作与生活平衡而奋斗的动作剧。"
+      "MBC剧集《杀人者的购物中心》发布新预告，该剧改编自同名热门网络漫画。",
+      "孔晓振饰演柳宝娜，剧中她将面对河律利身份的真相。"
     ],
-    "summary_zh": "MBC剧集《杀人者的购物中心》公开新剧照，孔晓振饰演的柳宝娜将直面河律利身份的真相。该剧改编自同名热门网络漫画，是一部动作剧，讲述一位拥有致命职业的职场妈妈为守护工作与生活平衡而奋斗的故事。",
-    "extracted_at": "2026-08-07T16:54:38.277060+08:00"
+    "summary_zh": "MBC剧集《杀人者的购物中心》公开新一集预告。该剧改编自同名热门网络漫画，是一部动作剧，讲述一位身怀绝技的职业杀手母亲为守护工作与生活的平衡而奋斗的故事。孔晓振饰演柳宝娜，在新预告中，她将直面河律利身份的真相。",
+    "extracted_at": "2026-08-07T20:54:27.878093+08:00"
   },
   {
     "source_id": "soompi",
@@ -332,12 +552,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：韩剧《出轨只是开始》已播出首集，该剧为黑色喜剧题材。",
-      "事实点2：剧集开篇设定在大多数故事结局之后，探讨不完美家庭与夫妻关系。",
-      "事实点3：媒体Soompi发布首播点评，提出2个喜欢之处和1个不喜欢之处。"
+      "事实点1：韩剧《出轨只是开始》已播出首集，该剧为黑色喜剧。",
+      "事实点2：剧集主题聚焦于不完美家庭与夫妻关系，开篇即从多数故事结局处展开。",
+      "事实点3：媒体Soompi发布首播点评，列出2个喜欢之处和1个不喜欢之处。"
     ],
-    "summary_zh": "韩剧《出轨只是开始》首播，该剧是一部黑色喜剧，与传统韩剧以幸福结局收尾不同，它从大多数故事结束的地方开始，揭示没有完美的家庭和夫妻。媒体Soompi发布了首播点评，列出了2个喜欢之处和1个不喜欢之处，具体内容需阅读全文。",
-    "extracted_at": "2026-08-07T16:54:40.808998+08:00"
+    "summary_zh": "韩剧《出轨只是开始》首播，该剧是一部黑色喜剧，与传统韩剧以幸福结局收尾不同，它从大多数故事结束的地方开始，探讨不完美家庭与夫妻关系。媒体Soompi的首播点评列出了2个喜欢之处和1个不喜欢之处，但具体内容未在摘要中详述。",
+    "extracted_at": "2026-08-07T20:54:30.393380+08:00"
   },
   {
     "source_id": "soompi",
@@ -352,17 +572,41 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《Flex X Cop 2》公开拍摄花絮：安普贤、郑恩彩、姜尚俊、金信飞展现默契",
+    "title_zh": "《Flex X Cop 2》公开拍摄花絮：安普贤、郑恩彩、姜尚俊、金伸比展现默契配合",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "SBS新剧《Flex X Cop 2》公开制作花絮视频",
-      "安普贤继续饰演陈利洙，一个第三代财阀继承人兼侦探，在调查陷入僵局时利用财富和人脉如同作弊码",
-      "花絮中展现了安普贤、郑恩彩、姜尚俊、金信飞四位演员的化学反应"
+      "安普贤继续饰演陈利洙，该角色是第三代财阀继承人兼刑警，在调查陷入僵局时利用财富和人脉解决问题",
+      "花絮中展示了安普贤、郑恩彩、姜尚俊、金伸比四位演员的拍摄互动"
     ],
-    "summary_zh": "SBS新剧《Flex X Cop 2》公开了制作花絮视频。在第二季中，安普贤继续饰演陈利洙，一个第三代财阀继承人兼侦探，在调查陷入僵局时利用财富和人脉如同作弊码。花絮中展现了安普贤、郑恩彩、姜尚俊、金信飞四位演员的默契配合。",
-    "extracted_at": "2026-08-07T16:54:43.244394+08:00"
+    "summary_zh": "SBS新剧《Flex X Cop 2》公开了制作花絮视频。安普贤将继续饰演陈利洙，一个第三代财阀继承人兼刑警，在调查遇到瓶颈时利用财富和人脉解决问题。花絮中展示了安普贤、郑恩彩、姜尚俊、金伸比四位演员在拍摄现场的默契配合。",
+    "extracted_at": "2026-08-07T20:54:33.065204+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "D AWARDS to Debut in Paris as First K-Pop Awards in Europe - 조선일보",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQajdOSUdNbjBVUVdObm9oNV9tMUFfSTZXRVltby0zUVBCblE4NHcwdFhrdjdsZzBZRUZaZFU1amI1dW5qRWFodEdsMGFBeUJLQVN1d21ycGZmUkRHNUJ4bnNSVW5mSjdIdHRLS05nZWRzZ0M2R0g3WnRfSDhhZWg4LUZ0UkdLWGs0YmxybW5B?oc=5",
+    "content": "D AWARDS to Debut in Paris as First K-Pop Awards in Europe 조선일보",
+    "published_at": "0807google-kpop",
+    "published_ts": 1786072224.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "D Awards将在巴黎首次举办，成为欧洲首个K-Pop颁奖典礼",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：D Awards将在巴黎首次举办，成为欧洲首个K-Pop颁奖典礼。",
+      "事实点2：该消息由《朝鲜日报》报道。"
+    ],
+    "summary_zh": "据《朝鲜日报》报道，D Awards将在巴黎首次举办，成为欧洲首个K-Pop颁奖典礼。这一事件标志着K-Pop颁奖典礼首次登陆欧洲，具有里程碑意义。",
+    "extracted_at": "2026-08-07T20:54:34.991096+08:00"
   },
   {
     "source_id": "soompi",
@@ -383,11 +627,11 @@
     "is_blurred": false,
     "facts_list": [
       "事实点1：8月7日，Off The Record娱乐宣布与李大辉签订专属合约。",
-      "事实点2：Off The Record娱乐表示：“我们与拥有杰出音乐才华和多样魅力的李大辉签订了专属合约。”",
-      "事实点3：李大辉与金在奂同为Wanna One成员，此次签约后两人成为同门。"
+      "事实点2：Off The Record娱乐表示，李大辉拥有出色的音乐才华和多样的魅力，将给予全力支持。",
+      "事实点3：李大辉与金在奂同为Wanna One成员，此次签约后成为同门。"
     ],
-    "summary_zh": "8月7日，Off The Record娱乐宣布与AB6IX成员李大辉签订专属合约。该公司表示，李大辉拥有杰出的音乐才华和多样的魅力，将给予全力支持。李大辉曾与金在奂同为Wanna One成员，此次签约后两人成为同门。",
-    "extracted_at": "2026-08-07T16:54:45.670194+08:00"
+    "summary_zh": "8月7日，Off The Record娱乐宣布与AB6IX成员李大辉签订专属合约。该公司表示，李大辉拥有出色的音乐才华和多样的魅力，将给予全力支持。李大辉曾与金在奂同为Wanna One成员，此次签约后两人成为同门。",
+    "extracted_at": "2026-08-07T20:54:37.215283+08:00"
   },
   {
     "source_id": "soompi",
@@ -402,18 +646,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《Spooky in Love》后半程开启，朴恩斌与梁世宗假订婚，吴成旭真实面貌曝光",
+    "title_zh": "《Spooky in Love》后半程开启，吴成旭在朴恩斌与梁世宗假订婚后的真实面貌揭晓",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "tvN电视剧《Spooky in Love》进入后半段播出",
-      "该剧翻拍自2011年电影《Spellbound》",
-      "剧情围绕能看见鬼的酒店继承人（朴恩斌饰）与怕鬼的检察官（梁世宗饰）的混乱合作展开",
-      "吴成旭在朴恩斌与梁世宗假订婚事件后展现真实面貌"
+      "事实点1：tvN电视剧《Spooky in Love》进入后半段播出。",
+      "事实点2：该剧翻拍自2011年电影《Spellbound》，讲述能看到鬼魂的酒店继承人（朴恩斌饰）与害怕鬼魂的热血检察官（梁世宗饰）之间的混乱合作。",
+      "事实点3：吴成旭在朴恩斌和梁世宗假订婚后的剧情中展现真实面貌。"
     ],
-    "summary_zh": "tvN电视剧《Spooky in Love》进入后半段，该剧翻拍自2011年电影《Spellbound》，讲述能看见鬼的酒店继承人与怕鬼的检察官之间的混乱合作。在朴恩斌与梁世宗假订婚事件后，吴成旭展现出真实面貌。",
-    "extracted_at": "2026-08-07T16:54:48.121245+08:00"
+    "summary_zh": "tvN电视剧《Spooky in Love》进入后半段，该剧翻拍自2011年电影《Spellbound》，讲述能看到鬼魂的酒店继承人与害怕鬼魂的检察官之间的浪漫喜剧。最新剧情中，吴成旭在朴恩斌和梁世宗假订婚后的表现揭示其真实面貌，引发观众期待。",
+    "extracted_at": "2026-08-07T20:54:40.221829+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -437,7 +680,7 @@
       "事实点2：该消息由The Korea Herald报道。"
     ],
     "summary_zh": "据The Korea Herald报道，韩国女子组合BLACKPINK将于首尔举办粉丝活动，以庆祝出道十周年。具体活动日期和地点尚未公布。",
-    "extracted_at": "2026-08-07T16:54:49.806523+08:00"
+    "extracted_at": "2026-08-07T20:54:41.978442+08:00"
   },
   {
     "source_id": "soompi",
@@ -457,11 +700,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：8月7日（韩国时间），YG娱乐正式表示，与各成员所属社确认后，四名成员均确认参加出道10周年活动。",
-      "事实点2：前一天（8月6日），YG娱乐宣布BLACKPINK将举办特别粉丝见面会活动。"
+      "事实点1：8月7日（韩国时间），YG娱乐正式表示，经与各成员所属社确认，四名成员均确认参加出道10周年活动。",
+      "事实点2：前一天（8月6日），YG娱乐宣布BLACKPINK将于8月举行特别粉丝见面会活动。"
     ],
-    "summary_zh": "YG娱乐于8月7日韩国时间正式确认，BLACKPINK四名成员（Jisoo、Jennie、Rosé、Lisa）将全部参加出道10周年纪念活动。此前一天，YG娱乐已宣布BLACKPINK将举办特别粉丝见面会。YG娱乐表示，已与各成员所属社确认，四人均确认出席。",
-    "extracted_at": "2026-08-07T16:54:52.324609+08:00"
+    "summary_zh": "YG娱乐于8月7日韩国时间正式确认，BLACKPINK四名成员（Jisoo、Jennie、Rosé、Lisa）将全部参加出道10周年纪念活动。此前一天，YG娱乐已宣布组合将举办特别粉丝见面会。YG娱乐表示，已与各成员所属社确认，四人均将参与。",
+    "extracted_at": "2026-08-07T20:54:44.534045+08:00"
   },
   {
     "source_id": "soompi",
@@ -476,17 +719,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "徐康俊与安恩真主演KBS新剧《你的爱情之外》首支预告公开，从朋友变恋人",
+    "title_zh": "徐康俊与安恩真主演KBS新剧《不是你的爱》首支预告公开，从朋友变恋人",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "KBS 2TV新剧《你的爱情之外》公开首支预告",
+      "KBS 2TV新剧《不是你的爱》公开首支预告片",
       "该剧讲述一对交往10年的情侣在熟悉的关系中经历意想不到的情感变化",
-      "预告中展现徐康俊和安恩真从朋友发展为恋人的过程"
+      "预告片展示了徐康俊和安恩真从朋友发展为恋人的过程"
     ],
-    "summary_zh": "KBS 2TV新剧《你的爱情之外》公开首支预告。该剧是一部现实浪漫剧，讲述一对交往10年的情侣在熟悉的关系中经历意想不到的情感变化。预告中展现了徐康俊和安恩真从朋友发展为恋人的过程。",
-    "extracted_at": "2026-08-07T16:54:54.632148+08:00"
+    "summary_zh": "KBS 2TV新剧《不是你的爱》公开首支预告。该剧是一部现实浪漫剧，讲述一对交往10年的情侣在熟悉的关系中经历意想不到的情感变化。预告片展示了徐康俊和安恩真从朋友发展为恋人的过程。",
+    "extracted_at": "2026-08-07T20:54:46.640351+08:00"
   },
   {
     "source_id": "soompi",
@@ -501,17 +744,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "2027 D Awards 将在巴黎举行，成为首个在欧洲举办的 K-POP 颁奖典礼",
+    "title_zh": "2027 D Awards 将在巴黎举行，成为首个在欧洲举办的 K-Pop 颁奖典礼",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：8月7日（韩国时间），D Awards 宣布2027年颁奖典礼将在巴黎举行。",
+      "事实点1：8月7日（韩国时间），D Awards 宣布其2027年颁奖典礼将在巴黎举行。",
       "事实点2：2027 D Awards 将于2027年1月15日至16日举行，为期两天。",
-      "事实点3：这是首次在欧洲举办的 K-POP 颁奖典礼。"
+      "事实点3：这将是首个在欧洲举办的 K-Pop 颁奖典礼。"
     ],
-    "summary_zh": "D Awards 于8月7日（韩国时间）宣布，2027年颁奖典礼将在巴黎举行，为期两天，具体日期为2027年1月15日至16日。这将是首次在欧洲举办的 K-POP 颁奖典礼。",
-    "extracted_at": "2026-08-07T16:54:56.740359+08:00"
+    "summary_zh": "D Awards 于8月7日（韩国时间）宣布，其2027年颁奖典礼将在巴黎举行，为期两天，具体日期为2027年1月15日至16日。此举使其成为首个在欧洲举办的 K-Pop 颁奖典礼。",
+    "extracted_at": "2026-08-07T20:54:48.765804+08:00"
   },
   {
     "source_id": "soompi",
@@ -531,11 +774,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：8月7日（韩国时间），JYP娱乐宣布Seungmin因康复治疗将缺席Stray Kids迷你专辑《THIS & THAT》的部分回归宣传活动。",
-      "事实点2：该迷你专辑将于今日晚些时候发行。"
+      "事实点1：8月7日（韩国时间），JYP娱乐宣布Seungmin因康复治疗将缺席Stray Kids即将发行的迷你专辑《THIS & THAT》的部分宣传活动。",
+      "事实点2：该迷你专辑将于今日晚些时候发行，Seungmin将参与部分活动，但具体缺席哪些活动未详细说明。"
     ],
-    "summary_zh": "Stray Kids成员Seungmin因康复治疗，将缺席组合即将发行的迷你专辑《THIS & THAT》的部分回归宣传活动。JYP娱乐于8月7日韩国时间发布了这一消息。该专辑预计于今日晚些时候发行。",
-    "extracted_at": "2026-08-07T16:54:58.653446+08:00"
+    "summary_zh": "Stray Kids成员Seungmin因健康原因将缺席部分回归宣传活动。JYP娱乐于8月7日韩国时间发布公告，称Seungmin因康复治疗，将不参与组合即将发行的迷你专辑《THIS & THAT》的部分宣传活动。该专辑预计今日稍后发行，Seungmin仍会参与部分活动，但具体缺席日程未透露。",
+    "extracted_at": "2026-08-07T20:54:51.321229+08:00"
   },
   {
     "source_id": "soompi",
@@ -550,16 +793,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "THE BOYZ成员英勋签约新经纪公司Namoo Actors",
+    "title_zh": "THE BOYZ成员英勋签约Namoo Actors，开启新篇章",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "事实点1：8月7日，Namoo Actors宣布与THE BOYZ成员英勋签订专属合约。",
-      "事实点2：Namoo Actors表示：“很高兴能与拥有无限潜力的英勋合作，将给予他全力支持，以发挥其独特魅力。”"
+      "事实点2：Namoo Actors表示：“我们很高兴能与拥有无限潜力的英勋合作，并将给予他全力支持，以发挥他独特的魅力。”"
     ],
-    "summary_zh": "8月7日，Namoo Actors宣布THE BOYZ成员英勋已与公司签订专属合约。公司方面表示，很高兴能与拥有无限潜力的英勋合作，并将给予他全力支持，以发挥其独特魅力。",
-    "extracted_at": "2026-08-07T16:55:00.670784+08:00"
+    "summary_zh": "8月7日，Namoo Actors宣布THE BOYZ成员英勋已与公司签订专属合约。公司表示很高兴能与拥有无限潜力的英勋合作，并将全力支持他展现独特魅力。",
+    "extracted_at": "2026-08-07T20:54:53.389491+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -574,16 +817,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "HUNTR/X主唱饥饿灵感 3D拼图‘拉面杯里的Rumi’成必买品",
+    "title_zh": "HUNTR/X主唱饥饿灵感 3D拼图“拉面杯里的Rumi”成必买品",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：Billboard报道，一款名为‘Rumi In a Ramyeon Cup’的3D拼图成为必买品。",
-      "事实点2：该拼图灵感来源于HUNTR/X乐队主唱（饥饿状态）的形象。"
+      "事实点1：Billboard报道，一款名为“Rumi In a Ramyeon Cup”的3D拼图成为必买品。",
+      "事实点2：该拼图灵感来源于HUNTR/X乐队主唱（Hungry Lead Singer）的形象。"
     ],
-    "summary_zh": "据Billboard报道，一款名为‘Rumi In a Ramyeon Cup’的3D拼图成为粉丝必买品。该拼图的设计灵感来源于HUNTR/X乐队主唱在饥饿状态下的形象，将主唱与拉面杯结合，创意独特，吸引了众多粉丝关注。",
-    "extracted_at": "2026-08-07T16:55:03.103817+08:00"
+    "summary_zh": "据Billboard报道，一款名为“Rumi In a Ramyeon Cup”的3D拼图成为粉丝必买品。该拼图的设计灵感来源于HUNTR/X乐队主唱（Hungry Lead Singer）的形象，将主唱与拉面杯结合，创意独特，吸引了众多粉丝关注。",
+    "extracted_at": "2026-08-07T20:54:55.779121+08:00"
   },
   {
     "source_id": "soompi",
@@ -606,40 +849,16 @@
       "事实点1：8月6日KST，YG娱乐宣布BLACKPINK将于8月8日举行特别粉丝见面会，庆祝出道十周年。",
       "事实点2：THEBLACKLABEL就Rosé参与该活动的传闻发布声明进行澄清。"
     ],
-    "summary_zh": "THEBLACKLABEL就Rosé参与BLACKPINK十周年活动的传闻发布声明。8月6日KST，YG娱乐宣布BLACKPINK将于8月8日举行特别粉丝见面会以庆祝出道十周年，并在正式公告中提及活动将有成员出席。随后，THEBLACKLABEL针对Rosé是否参与该活动的传闻进行了澄清。",
-    "extracted_at": "2026-08-07T16:55:05.435307+08:00"
+    "summary_zh": "THEBLACKLABEL针对Rosé参与BLACKPINK十周年活动的传闻发布声明。8月6日KST，YG娱乐宣布BLACKPINK将于8月8日举行特别粉丝见面会以庆祝出道十周年，并在正式公告中提及活动将有成员出席。随后，THEBLACKLABEL澄清了关于Rosé参与该活动的相关传闻。",
+    "extracted_at": "2026-08-07T20:54:57.952520+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "‘KPop Demon Hunters’ Writers Land Drama ‘A Really Bad Person’ at FX - IMDb",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1uTkRscXQxTE9pSkVvNVpycTBYT0JYOXNFV2lNZjVCMnRrT2RqNEJyYmlnTnJKYzlpeTNzZ0JFN0lrSklLVlBkXzBJRHlOblNlVTFfS2JHZ08ySVFTY09YZlJSN2FkQQ?oc=5",
-    "content": "‘KPop Demon Hunters’ Writers Land Drama ‘A Really Bad Person’ at FX IMDb",
-    "published_at": "0807google-kpop",
-    "published_ts": 1786056026.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "《KPop恶魔猎人》编剧新作《大坏蛋》落户FX",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：FX电视台宣布开发新剧《A Really Bad Person》（暂译《大坏蛋》）。",
-      "事实点2：该剧由《KPop Demon Hunters》（暂译《KPop恶魔猎人》）的编剧执笔。"
-    ],
-    "summary_zh": "据IMDb报道，FX电视台已确定开发新剧《A Really Bad Person》（暂译《大坏蛋》），该剧由《KPop Demon Hunters》（暂译《KPop恶魔猎人》）的编剧创作。目前关于该剧的具体情节、演员阵容及播出时间等细节尚未公布。",
-    "extracted_at": "2026-08-07T16:55:07.637393+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "‘KPop Demon Hunters’ Writers Land Drama ‘A Really Bad Person’ at FX - hollywoodreporter.com",
+    "title": "‘KPop Demon Hunters’ Writers Land Drama ‘A Really Bad Person’ at FX - The Hollywood Reporter",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ05fZmdsN0F1eVlkczRzSFdZd3BqOVdEbGtCN0hDMlBvX3ZueDhrVEdQdmpOQlVsVG05SnUxN0ZPLUVSZ1diSndQckRsTURkUGdOU2VMakVMTVZuLXByOTNNWHFtWGdOOVk1UloyUXQyTzBocDBuOUhkY2wwZmFfZ3k1WHpGQkpHb3dkVFd6SmpWcDBoVFdUdkVoYURlcGhmSTVyWnVwQm53T1pLQUVN?oc=5",
-    "content": "‘KPop Demon Hunters’ Writers Land Drama ‘A Really Bad Person’ at FX hollywoodreporter.com",
+    "content": "‘KPop Demon Hunters’ Writers Land Drama ‘A Really Bad Person’ at FX The Hollywood Reporter",
     "published_at": "0807google-kpop",
     "published_ts": 1786053638.0,
     "category": "韩娱",
@@ -654,8 +873,8 @@
       "事实点1：FX电视台宣布开发新剧《A Really Bad Person》（暂译《大坏蛋》）。",
       "事实点2：该剧由《KPop Demon Hunters》（暂译《KPop恶魔猎人》）的编剧执笔。"
     ],
-    "summary_zh": "据好莱坞报道者消息，FX电视台已确定开发新剧《A Really Bad Person》（暂译《大坏蛋》），该剧将由《KPop Demon Hunters》（暂译《KPop恶魔猎人》）的编剧团队执笔。目前该剧的具体情节、演员阵容及播出时间尚未公布。",
-    "extracted_at": "2026-08-07T16:55:09.874840+08:00"
+    "summary_zh": "据《好莱坞报道者》消息，FX电视台已确定开发新剧《A Really Bad Person》（暂译《大坏蛋》），该剧将由《KPop Demon Hunters》（暂译《KPop恶魔猎人》）的编剧团队执笔。目前该剧的具体剧情、演员阵容及播出时间尚未公布。",
+    "extracted_at": "2026-08-07T20:55:00.162054+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -675,11 +894,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：Danya Jimenez与Hannah McMechan正在为FX开发新剧《A Really Bad Person》",
-      "事实点2：该消息由Deadline报道"
+      "Danya Jimenez与Hannah McMechan正在为FX开发新剧《A Really Bad Person》",
+      "该消息由Deadline报道"
     ],
-    "summary_zh": "据Deadline报道，Danya Jimenez与Hannah McMechan正在为FX开发新剧《A Really Bad Person》。目前该剧的具体情节、演员阵容及播出时间等细节尚未公布。",
-    "extracted_at": "2026-08-07T16:55:11.921966+08:00"
+    "summary_zh": "据Deadline报道，Danya Jimenez与Hannah McMechan正在为FX开发一部新剧，剧名为《A Really Bad Person》（暂译）。目前该剧的具体情节、演员阵容及播出时间等细节尚未公布。",
+    "extracted_at": "2026-08-07T20:55:02.086343+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -694,16 +913,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Caramoor 9月13日呈现K-Pop新星Big Ocean演出",
+    "title_zh": "Caramoor音乐节9月13日呈现K-Pop新星Big Ocean",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：Caramoor 将于9月13日举办K-Pop组合Big Ocean的演出。",
+      "事实点1：Caramoor音乐节将于9月13日举办K-Pop组合Big Ocean的演出。",
       "事实点2：该活动由ILoveNY.com报道。"
     ],
-    "summary_zh": "据ILoveNY.com报道，Caramoor将于9月13日呈现K-Pop新星Big Ocean的演出。Big Ocean是一支K-Pop组合，此次演出是其在美国的活动之一。具体演出地点和更多细节未在原文中提及。",
-    "extracted_at": "2026-08-07T16:55:14.187690+08:00"
+    "summary_zh": "据ILoveNY.com报道，Caramoor音乐节将于9月13日呈现K-Pop组合Big Ocean的演出。Big Ocean是一支K-Pop新星组合，此次演出是其在美国的活动之一。",
+    "extracted_at": "2026-08-07T20:55:03.914888+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -718,16 +937,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《KPop Demon Hunters》OST连续54周登顶Billboard原声带榜，仅次于历史第一",
+    "title_zh": "《KPop Demon Hunters》OST登顶Billboard原声带榜54周，仅次于历史最长冠军纪录",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：Billboard原声带榜（Top Soundtracks Chart）显示，《KPop Demon Hunters》原声带已连续54周位居榜首。",
-      "事实点2：该榜单历史上仅有一部原声带领先周数更长，但具体名称未在原文中提及。"
+      "《KPop Demon Hunters》原声带在Billboard Top Soundtracks Chart上连续54周位居第一",
+      "该纪录在Billboard原声带榜历史上排名第二，仅有一部原声带保持冠军周数更长",
+      "Billboard发布了完整榜单列表，列出了所有曾登顶该榜的原声带"
     ],
-    "summary_zh": "据Billboard报道，韩流原声带《KPop Demon Hunters》已连续54周占据Billboard原声带榜冠军位置，成为该榜单历史上持续时间第二长的原声带。目前仅有一部原声带领先周数超过54周，但原文未指明具体是哪部作品。",
-    "extracted_at": "2026-08-07T16:55:16.613654+08:00"
+    "summary_zh": "据Billboard报道，韩流原声带《KPop Demon Hunters》已在Billboard Top Soundtracks Chart上连续54周位居榜首，成为该榜单历史上冠军周数第二长的原声带，仅次于另一部作品。Billboard同时发布了完整榜单，列出了所有曾登顶该榜的原声带。",
+    "extracted_at": "2026-08-07T20:55:06.753703+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -750,8 +970,8 @@
       "事实点1：aespa成员Karina为Converse最具实验性的Chuck系列进行展示",
       "事实点2：该资讯由WWD发布"
     ],
-    "summary_zh": "据WWD报道，aespa成员Karina展示了Converse最具实验性的Chuck系列。该系列是Converse推出的创新设计，Karina作为代言人将其置于焦点位置。",
-    "extracted_at": "2026-08-07T16:55:18.426108+08:00"
+    "summary_zh": "据WWD报道，aespa成员Karina展示了Converse最具实验性的Chuck系列。该系列以创新设计为特点，Karina的演绎将其置于焦点位置。",
+    "extracted_at": "2026-08-07T20:55:08.717024+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -772,10 +992,10 @@
     "is_blurred": false,
     "facts_list": [
       "事实点1：K-Pop组合Big Ocean将参加在美国纽约州Katonah举办的Caramoor音乐节。",
-      "事实点2：该消息由Patch网站报道。"
+      "事实点2：该消息由当地媒体Patch报道。"
     ],
-    "summary_zh": "据Patch报道，K-Pop组合Big Ocean将亮相位于美国纽约州Katonah的Caramoor音乐节。该音乐节是当地知名的文化活动，Big Ocean的参与将为观众带来K-Pop表演。具体演出日期和细节尚未公布。",
-    "extracted_at": "2026-08-07T16:55:20.541551+08:00"
+    "summary_zh": "据Patch报道，K-Pop组合Big Ocean将亮相位于美国纽约州Katonah的Caramoor音乐节。该音乐节是当地知名的文化活动，Big Ocean的参与将为观众带来K-Pop表演。具体演出日期和更多细节尚未公布。",
+    "extracted_at": "2026-08-07T20:55:10.813043+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -790,40 +1010,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "首尔推出非官方“K-Pop恶魔猎人”之旅，参与者可获专属出道单曲",
+    "title_zh": "首尔非官方“K-Pop恶魔猎人”之旅：还能拥有自己的出道单曲",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：首尔推出非官方“K-Pop恶魔猎人”主题旅游项目",
-      "事实点2：参与者可获得专属出道单曲"
+      "地点：韩国首尔",
+      "活动：非官方“K-Pop恶魔猎人”主题旅游",
+      "特色：参与者可获得自己的出道单曲"
     ],
-    "summary_zh": "据Travel + Leisure报道，首尔推出了一项非官方的“K-Pop恶魔猎人”主题旅游项目。该项目将K-Pop文化与城市探索相结合，参与者不仅能体验独特的旅游路线，还能获得属于自己的出道单曲。这一创新旅游形式吸引了K-Pop粉丝的关注，为游客提供了沉浸式的娱乐体验。",
-    "extracted_at": "2026-08-07T16:55:22.886251+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Converse Tapped K-Pop Star KARINA to Debut the New Run Star Crush - Sole Retriever",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTmNzb1F0SlF2TThYMFd3SGQ2RFI0YnpVWTFudjNUR2RCc05YNVhjcno5c1ZvUWt2NUJaOHF5b21VRm5HeE9SU2ZxQUpTWmNISUp3M1JtSHNpaWhsS1hDaER6YzZ1Y1pnX1dzMlBjRHFDclhQUzIxY1dPWjFiVUNwUmNn?oc=5",
-    "content": "Converse Tapped K-Pop Star KARINA to Debut the New Run Star Crush Sole Retriever",
-    "published_at": "0807google-kpop",
-    "published_ts": 1786041050.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Converse携手K-Pop明星KARINA首发全新Run Star Crush系列",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：Converse选择K-Pop明星KARINA（韩国女团aespa成员）作为全新Run Star Crush系列的代言人。",
-      "事实点2：KARINA将首次亮相该系列，具体发布时间和产品细节未在原文中提及。"
-    ],
-    "summary_zh": "据Sole Retriever报道，Converse已邀请K-Pop明星KARINA（aespa成员）担任其全新Run Star Crush系列的代言人，并负责该系列的首次亮相。KARINA将参与该系列的宣传推广，但具体产品细节和发布时间尚未公布。",
-    "extracted_at": "2026-08-07T16:55:25.129468+08:00"
+    "summary_zh": "据Travel + Leisure报道，首尔推出了一项非官方的“K-Pop恶魔猎人”主题旅游活动。该活动结合了K-Pop文化和城市探索，参与者不仅能体验独特的旅游路线，还能获得属于自己的出道单曲。这一旅游项目为K-Pop粉丝提供了沉浸式的娱乐体验。",
+    "extracted_at": "2026-08-07T20:55:12.974561+08:00"
   },
   {
     "source_id": "asianwiki",
