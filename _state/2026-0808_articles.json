@@ -3,6 +3,27 @@
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
+    "title": "Animated Musical Dairy Products - Trend Hunter",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oSERfcUFCWV82elNNUDRpTzFSbmduVUNVNHhfVTV1MVhBdkstbFh5R0RiNTBsZk5zZk1JTmhUNkNpMlNQYjdDY2NXMUtUS3BtMlNjWEN1eUJCeDlyaENsbnhyV0lUZW1RQkVwX0JSTGM?oc=5",
+    "content": "Animated Musical Dairy Products Trend Hunter",
+    "published_at": "0808google-kpop",
+    "published_ts": 1786179766.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "动画音乐乳制品趋势猎人",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [],
+    "summary_zh": "[原文未提及具体行为，仅称：动画音乐乳制品趋势猎人]",
+    "extracted_at": "2026-08-08T20:38:27.872577+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
     "title": "Latest K-drama casting news about Lee Chae-min, Roh Yoon-seo and more - South China Morning Post",
     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdEM5TVZNZUJSb29ERjNTUkkwQVJnMUVTbnRQZ2NuLTZfVnZTTzdPcDVab1FhdjVNTnEyTHM0UGp6Zk1VR3d6T2dxWUZwN1ZiNTRHT0dIeGFEZFd3Z0ppVDZTSzdDcWZoenNTbFJZS1ItZU94YlBjNHF2QWZXSnVub0FpbXc4LW1FUmVGQ2tZZGxCbENVaVdjamM5M19ISUlFV1hZejBFR2ZISWNvbVBoN2xoOHRFbHdUYThOX0tIZU5MeE9FN3czeW9uWENkc1hrcGRPaGphQUxSQnVJZVlTWWJR0gHiAUFVX3lxTE0xb3cxVnVpeU5PdEhiZ0MzbXZKcWF5Mk1oNzhGNjdQRGFlTWFKZEZ1ZUxmeDJSX2xsa1VUZnlSRTVsMlpVRHJ6LWt3dWNQcWNvNXNWSDJfQnl6NDJQQlhGZFpMcWJ5aXF3OFVJbVpLR3NLSmYzTzBFOE1zZm95bm5HYTFVd3JrNlNsQ1FlWHVLZGdXdjBESkVjOGgxYVBvUGNRZGFYbkEybXozcklMejN0MUJzX2NtWWdLajFld2ZrTjBPSFlxclN0QjQ5cVQyQ0M3dGdJMzVER3hTOXZVOUNtQ1E?oc=5",
     "content": "Latest K-drama casting news about Lee Chae-min, Roh Yoon-seo and more South China Morning Post",
@@ -18,10 +39,10 @@
     "is_blurred": false,
     "facts_list": [
       "事实点1：报道来源为《南华早报》，内容为李彩玟、卢允瑞等演员的韩剧选角最新消息。",
-      "事实点2：具体选角细节未在原文中提及。"
+      "事实点2：具体选角作品、角色及剧情细节未在原文中提及。"
     ],
-    "summary_zh": "据《南华早报》报道，韩剧界近期公布了李彩玟、卢允瑞等演员的选角消息，但具体作品名称、角色及播出平台等细节尚未披露。",
-    "extracted_at": "2026-08-08T16:35:28.570679+08:00"
+    "summary_zh": "据《南华早报》报道，韩剧界近期公布了李彩玟、卢允瑞等演员的选角消息，但报道未提供具体作品名称、角色设定或剧情细节。",
+    "extracted_at": "2026-08-08T20:38:29.717881+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -41,11 +62,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：Audrey Nuna（暂译）发布新歌《superHUMAN》",
-      "事实点2：Audrey Nuna为《KPop Demon Hunters》主演"
+      "Audrey Nuna为《KPop Demon Hunters》主演之一",
+      "Audrey Nuna发布了新歌《superHUMAN》"
     ],
-    "summary_zh": "据Contactmusic.com报道，Audrey Nuna（暂译）发布了新歌《superHUMAN》。她曾出演《KPop Demon Hunters》。",
-    "extracted_at": "2026-08-08T16:35:30.287879+08:00"
+    "summary_zh": "据Contactmusic.com报道，Audrey Nuna，作为《KPop Demon Hunters》的明星之一，发布了她的新歌《superHUMAN》。",
+    "extracted_at": "2026-08-08T20:38:31.235955+08:00"
   },
   {
     "source_id": "soompi",
@@ -65,36 +86,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：朴恩斌和梁世宗在tvN新剧《Spooky in Love》中饰演假订婚的情侣。",
+      "事实点1：朴恩斌和梁世宗在tvN新剧《Spooky in Love》中饰演一对假订婚的情侣。",
       "事实点2：该剧翻拍自2011年电影《Spellbound》，讲述能看到鬼魂的酒店继承人（朴恩斌饰）与热情男子（梁世宗饰）之间的混乱合作。"
     ],
-    "summary_zh": "朴恩斌和梁世宗在tvN新剧《Spooky in Love》中饰演假订婚的情侣，但两人之间的化学反应却异常真实。该剧翻拍自2011年电影《Spellbound》，是一部灵异浪漫剧，讲述能看到鬼魂的酒店继承人与热情男子之间的混乱合作。",
-    "extracted_at": "2026-08-08T16:35:32.931182+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "As Korea drinks less, liquor goes lighter — and global - koreaherald.com",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBab05RaFExOEVwOExRbXJYTWJIMEFwWmRveEZsYTVDWXRlZ0ZoZF9YSWRyVXZvVWJ6aXdQMy13OXVaZDRzLXpkYnpmbTVseXN6b3NWUEVYNA?oc=5",
-    "content": "As Korea drinks less, liquor goes lighter — and global koreaherald.com",
-    "published_at": "0808google-kpop",
-    "published_ts": 1786172400.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "韩国饮酒量下降，酒类趋向低度化与全球化",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "韩国饮酒量呈下降趋势",
-      "酒类产品趋向低度化",
-      "酒类市场趋向全球化"
-    ],
-    "summary_zh": "据韩国先驱报报道，随着韩国人饮酒量的减少，酒类市场正呈现出低度化和全球化的趋势。报道指出，韩国消费者对酒类的偏好正在发生变化，低度酒和进口酒的市场份额逐渐增加。",
-    "extracted_at": "2026-08-08T16:35:34.955350+08:00"
+    "summary_zh": "朴恩斌和梁世宗在tvN新剧《Spooky in Love》中饰演一对假订婚的情侣，但两人之间的化学反应却异常真实。该剧翻拍自2011年电影《Spellbound》，是一部灵异浪漫剧，讲述能看到鬼魂的酒店继承人与热情男子之间的混乱合作。",
+    "extracted_at": "2026-08-08T20:38:33.384418+08:00"
   },
   {
     "source_id": "soompi",
@@ -118,7 +114,7 @@
       "《丈夫》是一部惊悚剧，讲述一个濒临离婚的男人为救妻子而与危险罪犯展开殊死搏斗的故事。"
     ],
     "summary_zh": "KBS 2TV电视剧《丈夫》公开了南宫珉和金大明之间紧张最终对决的预告。该剧是一部惊悚剧，讲述一个濒临离婚的男人为救妻子而与危险罪犯展开殊死搏斗的故事。",
-    "extracted_at": "2026-08-08T16:35:37.090510+08:00"
+    "extracted_at": "2026-08-08T20:38:35.191214+08:00"
   },
   {
     "source_id": "soompi",
@@ -139,11 +135,11 @@
     "is_blurred": false,
     "facts_list": [
       "事实点1：8月8日中午12点左右，TWICE的《FANCY》MV在YouTube上的播放量突破7亿次。",
-      "事实点2：这是TWICE继《What is Love?》和《TT》之后，第三支达到7亿播放量的MV。",
+      "事实点2：该MV是TWICE继《What is Love?》和《TT》之后，第三支达到7亿播放量的MV。",
       "事实点3：该消息由JYP娱乐确认。"
     ],
-    "summary_zh": "据JYP娱乐消息，8月8日中午12点左右，TWICE于2019年发行的热门歌曲《FANCY》的MV在YouTube上的播放量突破了7亿次。这使得《FANCY》成为TWICE继《What is Love?》和《TT》之后，第三支达到7亿播放量的MV。",
-    "extracted_at": "2026-08-08T16:35:39.301642+08:00"
+    "summary_zh": "据JYP娱乐消息，8月8日中午12点左右，TWICE于2019年发行的歌曲《FANCY》的MV在YouTube上的播放量突破了7亿次。这使得《FANCY》成为TWICE继《What is Love?》和《TT》之后，第三支达到7亿播放量的MV。",
+    "extracted_at": "2026-08-08T20:38:37.419686+08:00"
   },
   {
     "source_id": "soompi",
@@ -158,16 +154,40 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "池晟携蒙面妈妈团在《公寓计划》中直播曝光内幕",
+    "title_zh": "池晟携蒙面妈妈团在《公寓任务》中直播曝光内幕",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "JTBC电视剧《公寓计划》讲述前绿洲帮老大朴海康（池晟饰）为获取公寓地下储备金而竞选居民代表会主席的故事。",
+      "JTBC电视剧《公寓任务》讲述前绿洲帮老大朴海康（池晟饰）为获取公寓地下储备金而竞选居民代表的故事。",
       "在下一集中，池晟与蒙面妈妈团将进行一场大胆的YouTube直播曝光。"
     ],
-    "summary_zh": "JTBC电视剧《公寓计划》最新一集将呈现一场大胆的直播。该剧讲述前绿洲帮老大朴海康（池晟饰）为获取公寓地下储备金而竞选居民代表会主席的故事。在即将播出的剧集中，池晟将与其蒙面妈妈团队进行YouTube直播曝光。",
-    "extracted_at": "2026-08-08T16:35:42.053437+08:00"
+    "summary_zh": "JTBC电视剧《公寓任务》即将播出新一集，剧中池晟饰演的前绿洲帮老大朴海康，为了获取公寓地下储备金，竞选居民代表。在下一集中，他将与蒙面妈妈团一起进行一场大胆的YouTube直播曝光。",
+    "extracted_at": "2026-08-08T20:38:39.603034+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Will Netflix renew Jung Hae-in’s K-drama ‘Our Sticky Love’ for season 2? - Lifestyle Asia Hong Kong",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQalkwQ1RHZTRMSVJDcFAtNVhXTVl5MWNBemwwM29TYTJwanZQT0ZfMmRHZFgtNUV4QTFib0o2ZDBieTNMaFVSQVgzalVhS3FmMExHYWZwRXdUWmhZTV9mZFhzTnBFMzdNY0VOeVp2WlBqcnRNa055ZUN4ZGRKZWk0Q1VKYmlCVXFLaU5kMHNfMVFNZ05LSVNiZXo0Mm5nWHg3dUpwcTdFVVpUNlhHaUQyYlloT2xVbTF3OUHSAb8BQVVfeXFMTnVKQ0s3RFFHUExLU1BZS3hnQVlRb3dtWnhqeWZaVUVraGl2clBiTEpNLWpVcDdfalBlTFlkVGd0c0p1UzllOXZ1R2xOU25VaVBBUy1XVDFKdkI1YXg1UndjWEh0TlVJVV92dTluXzNyT3paRnp0RHlZeWRXVWhVRFZuT3VVZXA5d19KTWIyOW9NV3o2MTFsR3g0ZFROTjdOMWN6NERpejYtLU8tdlNSbFRKWHJBby03WGdwWEprb1k?oc=5",
+    "content": "Will Netflix renew Jung Hae-in’s K-drama ‘Our Sticky Love’ for season 2? Lifestyle Asia Hong Kong",
+    "published_at": "0808google-kpop",
+    "published_ts": 1786166114.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Netflix是否会续订丁海寅主演的韩剧《我们的黏糊爱情》第二季？",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：Netflix尚未宣布续订丁海寅主演的韩剧《我们的黏糊爱情》第二季。",
+      "事实点2：该剧由丁海寅主演，目前第一季已播出，续订与否尚未有官方消息。"
+    ],
+    "summary_zh": "据Lifestyle Asia Hong Kong报道，Netflix尚未宣布是否续订由丁海寅主演的韩剧《我们的黏糊爱情》第二季。目前该剧第一季已播出，但官方尚未公布续订决定。",
+    "extracted_at": "2026-08-08T20:38:41.619779+08:00"
   },
   {
     "source_id": "soompi",
@@ -182,16 +202,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《Spooky in Love》朴恩斌遭杨世宗奶奶盘问，新剧照公开",
+    "title_zh": "《Spooky in Love》朴恩斌遭杨世宗奶奶盘问，下集预告引期待",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "事实点1：tvN剧《Spooky in Love》为2011年电影《Spellbound》的翻拍，讲述能看见鬼的酒店继承人（朴恩斌饰）与怕鬼的检察官（杨世宗饰）之间的混乱合作。",
-      "事实点2：在下一集中，朴恩斌饰演的角色将受到杨世宗饰演角色的奶奶的“盘问”。"
+      "事实点2：下集预告中，朴恩斌将接受杨世宗奶奶的盘问。"
     ],
-    "summary_zh": "tvN新剧《Spooky in Love》公开新剧照，显示朴恩斌饰演的酒店继承人将在下一集中遭到杨世宗饰演的检察官的奶奶的盘问。该剧翻拍自2011年电影《Spellbound》，是一部灵异爱情剧，讲述能看见鬼的酒店继承人与怕鬼的检察官之间的混乱合作。",
-    "extracted_at": "2026-08-08T16:35:44.701067+08:00"
+    "summary_zh": "tvN新剧《Spooky in Love》翻拍自2011年电影《Spellbound》，是一部灵异爱情剧，讲述能看见鬼的酒店继承人（朴恩斌饰）与怕鬼的检察官（杨世宗饰）之间的混乱合作。在即将播出的下一集中，朴恩斌将面临杨世宗奶奶的意外盘问，剧情引人期待。",
+    "extracted_at": "2026-08-08T20:38:44.009360+08:00"
   },
   {
     "source_id": "soompi",
@@ -206,16 +226,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Stray Kids携新专辑《THIS & THAT》回归，全球YouTube和iTunes榜单登顶",
+    "title_zh": "Stray Kids携新迷你专辑《THIS & THAT》回归，全球YouTube及iTunes榜单登顶",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：8月7日下午1点（韩国时间），Stray Kids发行新迷你专辑《THIS & THAT》及同名主打歌。",
-      "事实点2：专辑和主打歌在发行后迅速登上全球多个国家及地区的YouTube和iTunes榜单首位。"
+      "事实点1：8月7日下午1点（韩国时间），Stray Kids发行新迷你专辑《THIS & THAT》及同名主打曲。",
+      "事实点2：专辑和主打曲在发行后迅速登上YouTube和iTunes多个国家的榜单首位。"
     ],
-    "summary_zh": "Stray Kids于8月7日下午1点（韩国时间）携新迷你专辑《THIS & THAT》及同名主打歌回归，发行后迅速在全球多个国家及地区的YouTube和iTunes榜单上登顶。",
-    "extracted_at": "2026-08-08T16:35:47.071000+08:00"
+    "summary_zh": "Stray Kids于8月7日下午1点（韩国时间）携新迷你专辑《THIS & THAT》及同名主打曲回归，发行后迅速在全球范围内的YouTube和iTunes榜单上登顶。",
+    "extracted_at": "2026-08-08T20:38:45.873208+08:00"
   },
   {
     "source_id": "soompi",
@@ -230,17 +250,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《Flex X Cop 2》首播收视高于第一季，《真正的杀手》创自身新高",
+    "title_zh": "《Flex X Cop 2》首播收视率超越第一季，《真正的杀手》创自身新高",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "事实点1：8月7日，SBS《Flex X Cop 2》首播，全国平均收视率为6.1%，高于第一季首播收视率。",
-      "事实点2：尼尔森韩国数据显示，《Flex X Cop 2》首播收视率高于第一季。",
-      "事实点3：另一部剧《A Bona Fide Killer》收视率创自身历史新高。"
+      "事实点2：根据尼尔森韩国数据，《Flex X Cop 2》首播收视率创下该时段自身最高纪录。"
     ],
-    "summary_zh": "SBS《Flex X Cop 2》于8月7日首播，根据尼尔森韩国数据，全国平均收视率为6.1%，高于第一季首播收视率。同时，《A Bona Fide Killer》收视率创下自身历史新高。",
-    "extracted_at": "2026-08-08T16:35:49.228319+08:00"
+    "summary_zh": "SBS《Flex X Cop 2》于8月7日首播，根据尼尔森韩国数据，全国平均收视率为6.1%，高于第一季首播收视率，并创下该时段自身最高纪录。该剧由安普贤主演，第二季开播表现强劲。",
+    "extracted_at": "2026-08-08T20:38:47.867242+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -260,10 +279,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "K-pop组合AtHeart向瑞典千禧年热门歌曲《Lovefool》致敬"
+      "事实点1：K-pop组合AtHeart向瑞典千禧年热门歌曲《Lovefool》致敬。",
+      "事实点2：该资讯由Jae-Ha Kim的K-Culture栏目报道。"
     ],
-    "summary_zh": "K-pop组合AtHeart向瑞典千禧年热门歌曲《Lovefool》致敬。该曲原为瑞典乐队The Cardigans的经典之作，此次AtHeart的致敬行为展现了K-pop对国际流行文化的融合与借鉴。",
-    "extracted_at": "2026-08-08T16:35:51.299038+08:00"
+    "summary_zh": "据K-Culture with Jae-Ha Kim报道，K-pop组合AtHeart向瑞典千禧年热门歌曲《Lovefool》致敬。该曲目原为瑞典乐队The Cardigans于1996年发行的经典之作，此次AtHeart的致敬行为展现了K-pop对国际流行文化的融合与致敬。",
+    "extracted_at": "2026-08-08T20:38:49.647315+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -283,11 +303,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：组合WAYF BOYS正式出道，提出'NU K-POP'概念",
-      "事实点2：出道主打'不可预测的魅力'，具体作品及发行日期未提及"
+      "事实点1：组合WAYF BOYS出道，提出'NU K-POP'愿景",
+      "事实点2：组合以不可预测的魅力为特点"
     ],
-    "summary_zh": "据朝鲜日报报道，新人男子组合WAYF BOYS以'NU K-POP'的大胆愿景正式出道，强调其不可预测的独特魅力。报道未提及具体出道曲目、发行时间或所属社等细节。",
-    "extracted_at": "2026-08-08T16:35:53.605902+08:00"
+    "summary_zh": "据朝鲜日报报道，新组合WAYF BOYS以大胆的'NU K-POP'愿景出道，强调其不可预测的魅力。报道未提及具体成员、出道日期或作品细节。",
+    "extracted_at": "2026-08-08T20:38:51.368182+08:00"
   },
   {
     "source_id": "soompi",
@@ -309,10 +329,10 @@
     "facts_list": [
       "韩国企业评价研究所于8月公布男团品牌评价排名，数据采集时间为7月8日至8月8日。",
       "排名基于消费者参与度、媒体覆盖、互动和社区指数分析。",
-      "BTS（防弹少年团）保持榜首位置。"
+      "BTS（防弹少年团）在本次排名中保持第一。"
     ],
-    "summary_zh": "韩国企业评价研究所公布了8月男团品牌评价排名，该排名基于7月8日至8月8日期间收集的大数据，分析了消费者参与度、媒体覆盖、互动和社区指数。BTS（防弹少年团）继续稳居榜首。",
-    "extracted_at": "2026-08-08T16:35:55.436442+08:00"
+    "summary_zh": "韩国企业评价研究所公布了8月男团品牌评价排名，该排名基于7月8日至8月8日期间收集的大数据，分析了消费者参与度、媒体覆盖、互动和社区指数。BTS（防弹少年团）在本次排名中继续保持第一的位置。",
+    "extracted_at": "2026-08-08T20:38:53.149626+08:00"
   },
   {
     "source_id": "soompi",
@@ -327,17 +347,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "KATSEYE成员Sophia因健康问题将暂时中断活动",
+    "title_zh": "KATSEYE成员Sophia因健康问题暂时中断活动",
     "source_type": "韩娱",
-    "risk_level": "中",
+    "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：8月7日（当地时间），HYBE x Geffen宣布Sophia将“暂时无法参加宣传活动”。",
+      "事实点1：8月7日（当地时间），HYBE x Geffen宣布Sophia因健康问题暂时无法参与宣传活动。",
       "事实点2：官方声明称，该决定是为了优先考虑“她的心理健康和福祉”。",
-      "事实点3：声明还提到，Sophia一直在接受（治疗或支持，原文未明确具体内容）。"
+      "事实点3：声明还提到Sophia一直在接受（治疗或咨询），但具体内容未详述。"
     ],
-    "summary_zh": "KATSEYE成员Sophia因健康问题将暂时中断团体活动。8月7日（当地时间），HYBE x Geffen宣布Sophia将“暂时无法参加宣传活动”，并表示该决定是为了优先考虑“她的心理健康和福祉”。官方声明还提到，Sophia一直在接受相关支持，但未透露具体细节。",
-    "extracted_at": "2026-08-08T16:35:57.846179+08:00"
+    "summary_zh": "KATSEYE成员Sophia因健康问题将暂时缺席组合活动。8月7日（当地时间），HYBE x Geffen发布官方公告，宣布Sophia“暂时无法参与宣传活动”，并解释此举是为了优先考虑“她的心理健康和福祉”。公告还提到Sophia一直在接受相关帮助，但未透露更多细节。",
+    "extracted_at": "2026-08-08T20:38:55.333856+08:00"
   },
   {
     "source_id": "soompi",
@@ -358,11 +378,11 @@
     "is_blurred": false,
     "facts_list": [
       "事实点1：该剧为古装爱情题材，融合动作元素，故事始于双月之夜，命运之门开启，给予寻求正义或复仇者第二次生命机会。",
-      "事实点2：核心角色包括复仇之魂和狡黠王子，两人命运般相遇。",
-      "事实点3：文章列出四大看点，但具体内容未在摘要中详述。"
+      "事实点2：核心角色包括一个复仇之魂和一个狡黠的王子，他们的相遇构成独特故事。",
+      "事实点3：文章标题提出四大看点，但原文未具体列出各看点内容。"
     ],
-    "summary_zh": "古装爱情剧《花开有时》以双月之夜为背景，命运之门开启，复仇之魂与狡黠王子命运般相遇，展开一段独特故事。该剧融合动作元素，为观众带来全新体验。文章列出四大看点，吸引观众关注。",
-    "extracted_at": "2026-08-08T16:36:00.968300+08:00"
+    "summary_zh": "古装爱情剧《花开有时》以双月之夜为背景，命运之门开启，让寻求正义或复仇者获得重生机会。故事围绕复仇之魂与狡黠王子的命运邂逅展开，融合动作元素，打造独特叙事。该剧被推荐为值得一看的作品，但具体看点细节未在摘要中详述。",
+    "extracted_at": "2026-08-08T20:38:58.009646+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -382,10 +402,10 @@
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "事实点1：原文未提及具体行为，仅称：奥克兰运动家队与德州游骑兵队的比赛，主题为KPop恶魔猎人夜，并定位为家庭欢乐周二。"
+      "事实点1：原文未提及具体行为，仅称：奥克兰运动家队与德州游骑兵队的比赛，主题为KPop恶魔猎人夜，时间为周二。"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：奥克兰运动家队与德州游骑兵队的比赛，主题为KPop恶魔猎人夜，并定位为家庭欢乐周二。]",
-    "extracted_at": "2026-08-08T16:36:03.281626+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：奥克兰运动家队与德州游骑兵队的比赛，主题为KPop恶魔猎人夜，时间为周二。]",
+    "extracted_at": "2026-08-08T20:38:59.608136+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -409,7 +429,7 @@
       "该活动由Bleacher Report报道"
     ],
     "summary_zh": "纽约洋基队在其官方渠道发布了即将举行的'KPop Demon Hunters'主题夜的专属特许菜单照片。该菜单为此次主题夜特别设计，结合了K-Pop与恶魔猎人元素。Bleacher Report对此进行了报道。",
-    "extracted_at": "2026-08-08T16:36:05.298165+08:00"
+    "extracted_at": "2026-08-08T20:39:01.712076+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -424,15 +444,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《我们的甜蜜爱情》甜蜜结局解析：Time Magazine深度解读",
+    "title_zh": "《我们的黏腻爱情》甜蜜结局解析：Time杂志深度解读",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "Time Magazine发布文章，解析浪漫韩剧《Our Sticky Love》的甜蜜结局。"
+      "Time杂志发布文章，标题为《Breaking Down the Sweet Ending of Romantic K-Drama Our Sticky Love》",
+      "文章聚焦于韩剧《Our Sticky Love》的结局，进行深度解析"
     ],
-    "summary_zh": "Time Magazine发布文章，深入解析浪漫韩剧《Our Sticky Love》的甜蜜结局。文章聚焦于该剧结局的温馨元素，探讨其情感表达和叙事手法，为观众提供对结局的深度理解。",
-    "extracted_at": "2026-08-08T16:36:07.330164+08:00"
+    "summary_zh": "Time杂志发布了一篇关于浪漫韩剧《Our Sticky Love》的深度解析文章，重点探讨了该剧甜蜜的结局。文章标题为《Breaking Down the Sweet Ending of Romantic K-Drama Our Sticky Love》，内容围绕结局的细节和情感表达展开，为观众提供了更深入的理解。",
+    "extracted_at": "2026-08-08T20:39:03.759101+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -447,16 +468,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "KPop Demon Hunters老虎抱枕：模拟拥抱助眠，重压设计带来安全感",
+    "title_zh": "KPop Demon Hunters 老虎抱枕：模拟拥抱助眠，重压设计引关注",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：该产品为KPop Demon Hunters主题的加重抱枕，设计模仿老虎的拥抱。",
-      "事实点2：产品旨在帮助用户放松入睡，提供类似被拥抱的感觉。"
+      "产品：一款名为“KPop Demon Hunters”的Tiger主题加重抱枕，设计模仿老虎的拥抱，旨在帮助用户放松入睡。",
+      "来源：该资讯由billboard.com发布，未提及具体发售日期、价格或销售数据。"
     ],
-    "summary_zh": "据Billboard报道，一款以KPop Demon Hunters中老虎为原型的加重抱枕已推出，其设计旨在模拟被拥抱的感觉，帮助用户放松并入睡。该产品结合了加重和可爱的外观，为粉丝提供情感慰藉。",
-    "extracted_at": "2026-08-08T16:36:09.833115+08:00"
+    "summary_zh": "据billboard.com报道，一款以“KPop Demon Hunters”中的老虎为灵感的加重抱枕问世，其设计模拟老虎的拥抱，通过重力压迫感帮助用户缓解压力、促进睡眠。报道未提供具体发售信息或销售数据。",
+    "extracted_at": "2026-08-08T20:39:06.057300+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -476,11 +497,11 @@
     "risk_level": "高",
     "is_blurred": false,
     "facts_list": [
-      "日本网红Mina Chan去世，年仅26岁",
-      "去世前曾遭受K-pop粉丝的骚扰"
+      "事实点1：日本网红Mina Chan去世，年仅26岁",
+      "事实点2：去世前曾遭受K-pop粉丝的骚扰"
     ],
-    "summary_zh": "据northeasttimes.com报道，日本网红Mina Chan去世，年仅26岁。报道称，她在去世前曾遭受K-pop粉丝的骚扰。具体骚扰细节和死因尚未披露。",
-    "extracted_at": "2026-08-08T16:36:11.544551+08:00"
+    "summary_zh": "据northeasttimes.com报道，日本网红Mina Chan去世，年仅26岁。报道称，她在生前曾遭受K-pop粉丝的骚扰。具体骚扰细节及死因尚未明确披露。",
+    "extracted_at": "2026-08-08T20:39:07.700064+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -502,33 +523,8 @@
     "facts_list": [
       "事实点1：据Bleeding Cool News报道，《KPop Demon Hunters》的编剧正在为FX Networks开发一部新剧集。"
     ],
-    "summary_zh": "据Bleeding Cool News报道，热门剧集《KPop Demon Hunters》的编剧团队目前正在为FX Networks开发一部全新的剧集。目前关于该新项目的具体细节尚未公布，但这一消息表明编剧团队与FX Networks的合作正在推进中。",
-    "extracted_at": "2026-08-08T16:36:13.651841+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "K-Pop Meets the Circus in Family Show Coming to Downtown Stockton - caravannews.com",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc1EwUldhNVBXWUxyRzdZb0xFeXhCbURYRm1XbVFFcVhqV3dfTTY1V0ZULVZCc1YtUk9IX1dUVnhGUUJlc2poX0NMaHF5OHBXTUg2TnoyUFVabl83dW9qd2hhS0s4WE9MTHBaTGhWTVJLMmlCci12S1RiQThKU0ctNEltcnRKWUJ2OER5OUZLd0xsSlBsa0Y0Q3dXdWRWZHc?oc=5",
-    "content": "K-Pop Meets the Circus in Family Show Coming to Downtown Stockton caravannews.com",
-    "published_at": "0808google-kpop",
-    "published_ts": 1786125974.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "K-Pop与马戏团融合的家庭秀将登陆斯托克顿市中心",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：该家庭秀将K-Pop与马戏团元素结合。",
-      "事实点2：演出地点为斯托克顿市中心。",
-      "事实点3：演出即将在当地举行。"
-    ],
-    "summary_zh": "一场融合K-Pop与马戏团元素的家庭秀即将在斯托克顿市中心上演。该演出将K-Pop音乐与马戏表演相结合，为家庭观众带来独特体验。具体演出时间、场馆及参演艺人等细节尚未公布。",
-    "extracted_at": "2026-08-08T16:36:16.012872+08:00"
+    "summary_zh": "据Bleeding Cool News报道，《KPop Demon Hunters》的编剧正在为FX Networks开发一部新剧集。目前关于该项目的具体细节尚未披露，包括剧名、剧情或播出时间。",
+    "extracted_at": "2026-08-08T20:39:09.348543+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -548,11 +544,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：Audrey Nuna 在参与《KPop Demon Hunters》项目后，准备重新介绍自己。",
+      "事实点1：Audrey Nuna 在参与《KPop Demon Hunters》后，准备重新介绍自己。",
       "事实点2：该资讯来源于 billboard.com。"
     ],
-    "summary_zh": "据 billboard.com 报道，Audrey Nuna 在参与《KPop Demon Hunters》后，准备重新介绍自己。该资讯未提及具体回归时间、作品细节或更多背景信息。",
-    "extracted_at": "2026-08-08T16:36:17.838539+08:00"
+    "summary_zh": "据 billboard.com 报道，Audrey Nuna 在参与《KPop Demon Hunters》之后，准备重新介绍自己。文章可能涉及她的音乐活动或形象转变，但具体细节未在原文中提及。",
+    "extracted_at": "2026-08-08T20:39:11.089390+08:00"
   },
   {
     "source_id": "asianwiki",
