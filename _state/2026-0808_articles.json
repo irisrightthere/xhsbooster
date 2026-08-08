@@ -1,27 +1,197 @@
 [
   {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
+    "source_id": "soompi",
+    "source_name": "Soompi",
     "l1_tab": "韩娱",
-    "title": "Yang Hyun-suk's Performance Videos Revolutionize K-pop - 조선일보",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYXVNUXktbTUxQm5uVWJ2Q3Q4Z085RmU3Y3czWEV3Y2IwczY1MzZLVlBGbTlKV2NzOWN2YjZXb05iMVl0VFdrblFPU29ZNHJHbUw2Q0hOM05lUWRUd3Y2TnVVcGJiRnRjN0ZoU3hkUzhZSDBuUkF6U09jQ01uWl8yOEJvOEh4eUN4aXdSN3lB?oc=5",
-    "content": "Yang Hyun-suk's Performance Videos Revolutionize K-pop 조선일보",
-    "published_at": "0808google-kpop",
-    "published_ts": 1786147469.0,
+    "title": "Stray Kids Tops YouTube And iTunes Charts All Over The World With “THIS & THAT”",
+    "url": "https://www.soompi.com/article/1861061wpp/stray-kids-tops-youtube-and-itunes-charts-all-over-the-world-with-this-that",
+    "content": "Stray Kids is back—and already topping charts worldwide! On August 7 at 1 p.m. KST, Stray Kids made their highly-anticipated comeback with their new mini album “THIS &#38; THAT” and its title track of the same name. Immediately upon their release, both the EP and the song “This &#38; That” soared to the top of&#8230; Continue reading Stray Kids Tops YouTube And iTunes Charts All Over The World With &#8220;THIS &#38; THAT&#8221;\nThe post Stray Kids Tops YouTube And iTunes Charts All Over The World With &#8220;THIS & THAT&#8221; appeared first on Soompi.",
+    "published_at": "0808soompi",
+    "published_ts": 1786164271.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "梁铉锡表演视频革新K-pop产业",
+    "title_zh": "Stray Kids携新迷你专辑《THIS & THAT》回归，全球YouTube和iTunes榜单夺冠",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：梁铉锡（YG娱乐前代表）制作的表演视频在K-pop领域引发革新",
-      "事实点2：该报道由《朝鲜日报》发布，标题为'Yang Hyun-suk's Performance Videos Revolutionize K-pop'"
+      "事实点1：8月7日下午1点（韩国时间），Stray Kids发行新迷你专辑《THIS & THAT》及同名主打歌。",
+      "事实点2：专辑和主打歌在发行后迅速登上YouTube和iTunes多个国家的榜单首位。"
     ],
-    "summary_zh": "据《朝鲜日报》报道，梁铉锡（YG娱乐前代表）的表演视频正在革新K-pop产业。报道指出，这些视频在视觉呈现和制作水准上具有开创性，对行业产生了深远影响。",
-    "extracted_at": "2026-08-08T09:15:33.583765+08:00"
+    "summary_zh": "Stray Kids于8月7日下午1点（韩国时间）携新迷你专辑《THIS & THAT》及同名主打歌回归，发行后迅速在全球多个国家的YouTube和iTunes榜单上占据首位。",
+    "extracted_at": "2026-08-08T12:52:23.129921+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "“Flex X Cop 2” Premieres To Higher Ratings Than Season 1 As “A Bona Fide Killer” Hits New All-Time High",
+    "url": "https://www.soompi.com/article/1861058wpp/flex-x-cop-2-premieres-to-higher-ratings-than-season-1-as-a-bona-fide-killer-hits-new-all-time-high",
+    "content": "SBS’s “Flex x Cop 2” is off to a promising start! On August 7, Season 2 of Ahn Bo Hyun’s returning series “Flex x Cop” premiered to higher viewership ratings than Season 1. According to Nielsen Korea, “Flex x Cop 2” kicked off on an average nationwide rating of 6.1 percent (while Season 1 premiered&#8230; Continue reading &#8220;Flex X Cop 2&#8221; Premieres To Higher Ratings Than Season 1 As &#8220;A Bona Fide Killer&#8221; Hits New All-Time High\nThe post &#8220;Flex X Cop 2&#8221; Premieres To Higher Ratings Than Season 1 As &#8220;A Bona Fide Killer&#8221; Hits New All-Time High appeared first on Soompi.",
+    "published_at": "0808soompi",
+    "published_ts": 1786160386.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《Flex X Cop 2》首播收视高于第一季，《真正的杀手》创自身新高",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：8月7日，SBS《Flex X Cop 2》首播，全国平均收视率为6.1%，高于第一季首播收视率。",
+      "事实点2：据尼尔森韩国数据，《Flex X Cop 2》首播收视率创下该时段自身最高纪录。"
+    ],
+    "summary_zh": "SBS《Flex X Cop 2》于8月7日首播，根据尼尔森韩国数据，全国平均收视率为6.1%，高于第一季首播收视率，并创下该时段自身最高纪录。该剧由安普贤主演，第二季开播表现强劲。",
+    "extracted_at": "2026-08-08T12:52:25.403312+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-pop's AtHeart Pays Homage to the Swedish Millenial Hit, \"Lovefool\" - K-Culture with Jae-Ha Kim",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oVVdzSUNxa1JHbEgycjU1R3ZNS0NfWFlHWDhsb1I0MElCQXJQZVptRkI5bC11UFc5N1BlMXFxUWgwSzhDRW8yQkk2MlpvVlB1dzVJd3ZCOEc0VUV0ZUZIVTlSYmNtVEd2TVZnaEVGcVhZQl9TeHZVN2Y3Vlc4WG8?oc=5",
+    "content": "K-pop's AtHeart Pays Homage to the Swedish Millenial Hit, \"Lovefool\" K-Culture with Jae-Ha Kim",
+    "published_at": "0808google-kpop",
+    "published_ts": 1786159368.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "K-pop组合AtHeart致敬瑞典千禧年热曲《Lovefool》",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "K-pop组合AtHeart向瑞典千禧年热门歌曲《Lovefool》致敬"
+    ],
+    "summary_zh": "K-pop组合AtHeart向瑞典千禧年热门歌曲《Lovefool》致敬。该曲原为瑞典乐队The Cardigans的经典之作，AtHeart通过翻唱或改编的方式向其致敬。",
+    "extracted_at": "2026-08-08T12:52:27.321457+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "WAYF BOYS Debut With Bold 'NU K-POP' Vision, Unpredictable Charm - 조선일보",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaVE4TEl3NTBwNkRpV0ljaWVXMGs1WGVEXzF6M29PWm1DTDlmMjY5QUhTVmlPY3RfVjQ5bWRYdjBWUjNNZHE4VE1kalotdnl6Rk0wbTNRaW0xS1NQQ1pMaS1IT2doeGFGd1RfMXRHaV84bXZMZm9xeTJfUVFlbXl3UmtJNGpyUWo0WlduUjV3?oc=5",
+    "content": "WAYF BOYS Debut With Bold 'NU K-POP' Vision, Unpredictable Charm 조선일보",
+    "published_at": "0808google-kpop",
+    "published_ts": 1786157942.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "WAYF BOYS携'NU K-POP'大胆愿景出道，展现不可预测魅力",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：组合WAYF BOYS正式出道，提出'NU K-POP'概念",
+      "事实点2：出道主打'不可预测的魅力'，具体音乐风格和舞台表现未详细披露"
+    ],
+    "summary_zh": "据朝鲜日报报道，新组合WAYF BOYS以'NU K-POP'为概念正式出道，强调其大胆的愿景和不可预测的魅力。报道未提及具体成员、出道曲名或发行日期等细节，仅聚焦于组合的定位和风格标签。",
+    "extracted_at": "2026-08-08T12:52:29.817869+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "August Boy Group Brand Reputation Rankings Announced",
+    "url": "https://www.soompi.com/article/1861054wpp/august-boy-group-brand-reputation-rankings-announced-9",
+    "content": "The Korean Business Research Institute has revealed this month’s brand reputation rankings for male idol groups! The rankings were determined through an analysis of the consumer participation, media coverage, interaction, and community indexes of various boy groups, using big data collected from July 8 to August 8. BTS held onto their spot at the top&#8230; Continue reading August Boy Group Brand Reputation Rankings Announced\nThe post August Boy Group Brand Reputation Rankings Announced appeared first on Soompi.",
+    "published_at": "0808soompi",
+    "published_ts": 1786155926.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "8月男团品牌评价排行榜公布，BTS连续登顶",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "韩国企业评价研究所于8月公布男团品牌评价排行榜，数据采集时间为7月8日至8月8日。",
+      "评价指数基于消费者参与度、媒体覆盖、互动和社区指数分析。",
+      "BTS（防弹少年团）在本次排名中保持第一。"
+    ],
+    "summary_zh": "韩国企业评价研究所公布了8月男团品牌评价排行榜，该排名基于7月8日至8月8日期间收集的大数据，分析了消费者参与度、媒体覆盖、互动和社区指数。BTS（防弹少年团）在本次排名中继续保持第一的位置。",
+    "extracted_at": "2026-08-08T12:52:31.869952+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "KATSEYE’s Sophia To Take Temporary Break From Activities",
+    "url": "https://www.soompi.com/article/1861051wpp/katseyes-sophia-to-take-temporary-break-from-activities",
+    "content": "KATSEYE’s Sophia will be temporarily sitting out the group’s activities due to health concerns. On August 7 local time, HYBE x Geffen announced that Sophia would be “temporarily unable to participate in promotional activities,” explaining that the decision was made to prioritize “her mental health and wellness.” The official announcement continued, “Sophia has been receiving&#8230; Continue reading KATSEYE&#8217;s Sophia To Take Temporary Break From Activities\nThe post KATSEYE&#8217;s Sophia To Take Temporary Break From Activities appeared first on Soompi.",
+    "published_at": "0808soompi",
+    "published_ts": 1786154807.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "KATSEYE成员Sophia因健康问题将暂时中断活动",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：8月7日（当地时间），HYBE x Geffen宣布Sophia将“暂时无法参加宣传活动”。",
+      "事实点2：官方声明称，该决定是为了优先考虑“她的心理健康和福祉”。",
+      "事实点3：声明还提到，Sophia一直在接受（治疗或支持），但具体内容未详述。"
+    ],
+    "summary_zh": "KATSEYE成员Sophia因健康问题将暂时中断团体活动。8月7日（当地时间），HYBE x Geffen宣布Sophia将“暂时无法参加宣传活动”，并解释该决定是为了优先考虑“她的心理健康和福祉”。官方声明还表示，Sophia一直在接受相关支持，但未透露更多细节。",
+    "extracted_at": "2026-08-08T12:52:34.236298+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "4 Reasons To Watch Costume Romance C-Drama “Blossoms Of Power”",
+    "url": "https://www.soompi.com/article/1860537wpp/4-reasons-to-watch-costume-romance-c-drama-blossoms-of-power",
+    "content": "A vengeful spirit, a cunning prince, and a fateful encounter combine to create a unique story. On a mystical night marked by a double moon, the gates of fate open, granting those who seek justice or revenge a second chance at life. That’s how “Blossoms of Power” begins, a new costume period C-drama with action,&#8230; Continue reading 4 Reasons To Watch Costume Romance C-Drama &#8220;Blossoms Of Power&#8221;\nThe post 4 Reasons To Watch Costume Romance C-Drama &#8220;Blossoms Of Power&#8221; appeared first on Soompi.",
+    "published_at": "0808soompi",
+    "published_ts": 1786153214.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "古装爱情剧《花开有时》四大看点：复仇之魂与狡黠王子的命运邂逅",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：该剧为古装爱情题材，融合动作元素，故事始于双月之夜，命运之门开启，给予寻求正义或复仇者第二次生命机会。",
+      "事实点2：核心角色包括一个复仇的鬼魂和一个狡猾的王子，他们的相遇构成独特故事。",
+      "事实点3：文章标题提出四大看点，但原文未具体列出，仅概述剧情开端。"
+    ],
+    "summary_zh": "古装爱情剧《花开有时》以双月之夜为背景，命运之门开启，让寻求正义或复仇者获得重生机会。故事围绕复仇之魂与狡黠王子的命运邂逅展开，融合动作元素，形成独特叙事。文章标题列出四大看点，但正文仅介绍剧情开端，未详细展开看点内容。",
+    "extracted_at": "2026-08-08T12:52:37.346176+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "KPop Demon Hunters Nights bring Netflix IP to MLB games - ContentGrip",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zeVFkMGszcXJ6WHNYWElpdDM4SjI0QldERFF6NGhqVjREbFlmaXR0RFFEVnAzdV9jelRCMmZybzU0SzNZN2JVUkxVR0FGUmVOZHFRRVA3ejVjX1RVVi05SVNPeHl2d2d3Umc?oc=5",
+    "content": "KPop Demon Hunters Nights bring Netflix IP to MLB games ContentGrip",
+    "published_at": "0808google-kpop",
+    "published_ts": 1786147456.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Netflix《恶魔猎人》IP联动MLB赛事，K-Pop主题夜活动登场",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Netflix与MLB合作，将《恶魔猎人》IP引入棒球比赛现场",
+      "活动名称为'KPop Demon Hunters Nights'，在MLB比赛中举办"
+    ],
+    "summary_zh": "Netflix与MLB合作，将热门韩剧《恶魔猎人》IP引入棒球比赛，推出'KPop Demon Hunters Nights'主题活动。该活动将K-Pop元素与棒球赛事结合，为观众带来独特的跨界体验。具体活动细节和场次安排尚未公布。",
+    "extracted_at": "2026-08-08T12:52:39.735848+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -36,26 +206,23 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "奥克兰运动家对阵德州游骑兵：KPop恶魔猎人主题夜与家庭欢乐周二",
+    "title_zh": "奥克兰运动家对阵德州游骑兵：KPop恶魔猎人之夜与家庭欢乐周二",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "赛事：奥克兰运动家对阵德州游骑兵",
-      "活动：KPop恶魔猎人主题夜与家庭欢乐周二",
-      "地点：美国德克萨斯州沃斯堡",
-      "来源：Fort Worth Magazine"
+      "事实点1：原文未提及具体行为，仅称：奥克兰运动家队与德州游骑兵队的比赛，主题为KPop恶魔猎人之夜与家庭欢乐周二。"
     ],
-    "summary_zh": "原文未提及具体行为，仅称：奥克兰运动家对阵德州游骑兵的比赛中，将举办KPop恶魔猎人主题夜与家庭欢乐周二活动。",
-    "extracted_at": "2026-08-08T09:15:35.932987+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：奥克兰运动家队与德州游骑兵队的比赛，主题为KPop恶魔猎人之夜与家庭欢乐周二。]",
+    "extracted_at": "2026-08-08T12:52:41.451060+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "Yankees Post Photo of Exclusive Concession Menu Items for 'KPop Demon Hunters' Night - bleacherreport.com",
+    "title": "Yankees Post Photo of Exclusive Concession Menu Items for 'KPop Demon Hunters' Night - Bleacher Report",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcEZiUXU0dVRZV0E2SFVKeGNlckVHWjVXTm5yXzVKRlpMWGRDQUZ5eU5qMUpsOW5rbDVtbXc3ckJFSmVwZEVlMFNJYkIyaVRLa3ZxeXZWQ3g4LVMzaVhBRGZpeVpJTjkxTTlzLTZ3clVPSUhyby11VVR2SV9oSkxfNkRSdVFUc0h1eUJmRnJLMm5nWEp6cnMwbk1HQU55b2Q0Y2dDSHViTDJZY1ZfOG9zaWVRUUpkQmhpS3otVw?oc=5",
-    "content": "Yankees Post Photo of Exclusive Concession Menu Items for 'KPop Demon Hunters' Night bleacherreport.com",
+    "content": "Yankees Post Photo of Exclusive Concession Menu Items for 'KPop Demon Hunters' Night Bleacher Report",
     "published_at": "0808google-kpop",
     "published_ts": 1786143448.0,
     "category": "韩娱",
@@ -67,34 +234,34 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：纽约洋基队在其官方渠道发布了为'KPop Demon Hunters'主题夜准备的专属特许菜单照片。",
-      "事实点2：该活动由洋基队举办，旨在结合K-Pop文化与棒球赛事，具体菜单内容未在原文中详细列出。"
+      "事实点1：纽约洋基队官方发布了K-Pop恶魔猎人主题夜的专属菜单照片",
+      "事实点2：该主题夜活动由洋基队举办，菜单为活动限定"
     ],
-    "summary_zh": "纽约洋基队为即将举行的'KPop Demon Hunters'主题夜活动，发布了专属特许经营菜单的照片。该活动将K-Pop元素融入棒球比赛，但原文未提供菜单具体项目或活动日期等详细信息。",
-    "extracted_at": "2026-08-08T09:15:38.579147+08:00"
+    "summary_zh": "纽约洋基队官方发布了即将举办的'KPop Demon Hunters'主题夜的专属菜单照片。该活动将结合K-Pop文化与棒球比赛，菜单为活动限定，具体菜品细节未在原文中详细说明。",
+    "extracted_at": "2026-08-08T12:52:43.708799+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "Breaking Down the Sweet Ending of Romantic K-Drama Our Sticky Love - Time Magazine",
+    "title": "Breaking Down the Sweet Ending of Romantic K-Drama Our Sticky Love - time.com",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DMFFEVkZQVXJMVThRdjlSbGNzQngyZWR0UzN3NUVlVmtUNnlvSmp5WUE3STdVeVp1UjFlU0VkaGFpZGdhaVZQWGhneE9FcEFMOEdNWEoxN2EzM2k2d0RFNms2YUo3RGlGTllmTFUtd29XeHJpQWc?oc=5",
-    "content": "Breaking Down the Sweet Ending of Romantic K-Drama Our Sticky Love Time Magazine",
+    "content": "Breaking Down the Sweet Ending of Romantic K-Drama Our Sticky Love time.com",
     "published_at": "0808google-kpop",
     "published_ts": 1786139965.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《我们的甜蜜爱情》甜蜜结局解析：Time Magazine深度解读",
+    "title_zh": "《我们的黏黏爱》甜蜜结局解析：浪漫韩剧的完美收官",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "Time Magazine发布文章，解析浪漫韩剧《Our Sticky Love》的甜蜜结局。"
+      "事实点1：时间：未提及具体时间；地点：未提及；主体：韩剧《Our Sticky Love》；动作：time.com发布文章解析该剧甜蜜结局。"
     ],
-    "summary_zh": "Time Magazine发布文章，深入解析浪漫韩剧《Our Sticky Love》的甜蜜结局。文章聚焦于该剧结局的细节与情感表达，为观众提供解读视角。",
-    "extracted_at": "2026-08-08T09:15:40.345219+08:00"
+    "summary_zh": "time.com发布文章，解析浪漫韩剧《Our Sticky Love》的甜蜜结局。文章详细分析了结局中的关键情节和情感走向，探讨了主角们的最终归宿和剧集主题的升华。该剧以温馨治愈的风格著称，结局被评价为圆满且令人满意，为观众带来了温暖的观感体验。",
+    "extracted_at": "2026-08-08T12:52:46.252185+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -109,16 +276,40 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "KPop Demon Hunters老虎抱枕：模拟拥抱助眠，引发粉丝热议",
+    "title_zh": "KPop Demon Hunters老虎抱枕：模拟拥抱助眠，重压设计引关注",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：Billboard报道，一款名为'KPop Demon Hunters'的Tiger抱枕上市，该抱枕为加重型，模拟拥抱感，旨在帮助用户入睡。",
-      "事实点2：该抱枕设计灵感来源于'KPop Demon Hunters'中的老虎角色，具体品牌和售价未在原文中提及。"
+      "产品：一款名为'KPop Demon Hunters'的Tiger主题加重抱枕，设计用于模拟拥抱的感觉，帮助用户放松入睡。",
+      "来源：该资讯由billboard.com发布。"
     ],
-    "summary_zh": "据Billboard报道，一款以'KPop Demon Hunters'中老虎为原型的加重抱枕已推出，该抱枕模拟拥抱的触感，旨在帮助用户放松并入睡。原文未提及具体品牌、价格或销售渠道，仅介绍了产品概念。",
-    "extracted_at": "2026-08-08T09:15:43.050408+08:00"
+    "summary_zh": "据billboard.com报道，一款以'KPop Demon Hunters'中的老虎为原型的加重抱枕问世，其设计旨在模拟被拥抱的感觉，帮助用户温和入睡。该产品结合了加重和可爱的外观，为粉丝提供情感慰藉。",
+    "extracted_at": "2026-08-08T12:52:49.083932+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Listen: KPop Demon Hunters star Audrey Nuna drops new song superHUMAN - Contactmusic.com",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc0hMZllvRTdybXNvZEpkNUtTbGJpTHk4QS1ya2hBUDlZZVNjNVE1NXF1dXBUTW5ZY25EVzlmejhjNU5nci12dlhEV2NoOWRwQS1WMFVuTzZVcnN3bi1YR3pITy1ITDMwSV94aURiZS15QXllZmdWZTdFRmVhekVrY0FQUlF4Wm1feDZOZkNOTDYzblQxMTNxS3NUT2tzaGJPMUZZUVV5OG8xT2Y5bUFIRkdSU1NnUQ?oc=5",
+    "content": "Listen: KPop Demon Hunters star Audrey Nuna drops new song superHUMAN Contactmusic.com",
+    "published_at": "0808google-kpop",
+    "published_ts": 1786139678.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《KPop Demon Hunters》主演Audrey Nuna发布新曲《superHUMAN》",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Audrey Nuna发布了新歌《superHUMAN》",
+      "Audrey Nuna是《KPop Demon Hunters》的演员"
+    ],
+    "summary_zh": "据Contactmusic.com报道，Audrey Nuna，作为《KPop Demon Hunters》的演员，发布了她的新歌《superHUMAN》。",
+    "extracted_at": "2026-08-08T12:52:50.929612+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -141,32 +332,8 @@
       "日本网红Mina Chan去世，年仅26岁",
       "Mina Chan生前曾遭受K-pop粉丝的骚扰"
     ],
-    "summary_zh": "据东北时报报道，日本网红Mina Chan去世，年仅26岁。报道称，她生前曾遭受K-pop粉丝的骚扰。具体骚扰细节及死因未在原文中提及。",
-    "extracted_at": "2026-08-08T09:15:45.068083+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Listen: KPop Demon Hunters star Audrey Nuna drops new song superHUMAN - Contactmusic.com",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc0hMZllvRTdybXNvZEpkNUtTbGJpTHk4QS1ya2hBUDlZZVNjNVE1NXF1dXBUTW5ZY25EVzlmejhjNU5nci12dlhEV2NoOWRwQS1WMFVuTzZVcnN3bi1YR3pITy1ITDMwSV94aURiZS15QXllZmdWZTdFRmVhekVrY0FQUlF4Wm1feDZOZkNOTDYzblQxMTNxS3NUT2tzaGJPMUZZUVV5OG8xT2Y5bUFIRkdSU1NnUQ?oc=5",
-    "content": "Listen: KPop Demon Hunters star Audrey Nuna drops new song superHUMAN Contactmusic.com",
-    "published_at": "0808google-kpop",
-    "published_ts": 1786129769.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "《KPop Demon Hunters》主演Audrey Nuna发布新曲《superHUMAN》",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "Audrey Nuna发布了新歌《superHUMAN》",
-      "Audrey Nuna是《KPop Demon Hunters》的演员"
-    ],
-    "summary_zh": "据Contactmusic.com报道，Audrey Nuna，作为《KPop Demon Hunters》的演员，发布了她的新歌《superHUMAN》。",
-    "extracted_at": "2026-08-08T09:15:46.826085+08:00"
+    "summary_zh": "据东北时报报道，日本网红Mina Chan去世，年仅26岁。报道称，她在生前曾遭受K-pop粉丝的骚扰。具体骚扰细节及死因尚未披露。",
+    "extracted_at": "2026-08-08T12:52:52.554204+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -188,8 +355,8 @@
     "facts_list": [
       "事实点1：据Bleeding Cool News报道，《KPop Demon Hunters》的编剧正在为FX Networks开发一部新剧集。"
     ],
-    "summary_zh": "据Bleeding Cool News报道，《KPop Demon Hunters》的编剧正在为FX Networks开发一部新剧集。目前尚未透露该剧的具体情节、演员阵容或播出时间。",
-    "extracted_at": "2026-08-08T09:15:48.751528+08:00"
+    "summary_zh": "据Bleeding Cool News报道，曾参与《KPop Demon Hunters》的编剧目前正在为FX Networks开发一部新的剧集。目前关于该新剧的具体情节、演员阵容或播出时间等细节尚未公布。",
+    "extracted_at": "2026-08-08T12:52:54.456698+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -204,15 +371,15 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "K-Pop与马戏团融合的家庭秀将登陆市中心",
+    "title_zh": "K-Pop与马戏团融合的家庭秀即将登陆市中心",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文未提及具体时间、地点、艺人或组合名称，仅称该家庭秀将登陆市中心。"
+      "原文未提及具体时间、地点、艺人或团体名称，仅称该家庭秀将登陆市中心。"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：K-Pop与马戏团融合的家庭秀将登陆市中心。]",
-    "extracted_at": "2026-08-08T09:15:50.564511+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：K-Pop与马戏团元素融合的家庭秀即将在市中心上演。]",
+    "extracted_at": "2026-08-08T12:52:56.076040+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -232,11 +399,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：Audrey Nuna 在参与《KPop Demon Hunters》项目后，准备重新介绍自己。",
-      "事实点2：该资讯来源于 billboard.com。"
+      "Audrey Nuna 在参与《KPop Demon Hunters》项目后，准备重新介绍自己。",
+      "该资讯来源于 billboard.com。"
     ],
     "summary_zh": "据 billboard.com 报道，Audrey Nuna 在参与《KPop Demon Hunters》后，准备重新介绍自己。文章可能涉及她的音乐活动或形象转变，但具体细节未在原文中提及。",
-    "extracted_at": "2026-08-08T09:15:52.433091+08:00"
+    "extracted_at": "2026-08-08T12:52:58.069513+08:00"
   },
   {
     "source_id": "asianwiki",
