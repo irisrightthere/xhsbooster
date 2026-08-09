@@ -1,5 +1,273 @@
 [
   {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "“The Husband” Stars Namkoong Min, Kim Dae Myeung, Lee Seol, And Lee Sang Hee Pick Their Favorite Scenes Ahead Of Finale",
+    "url": "https://www.soompi.com/article/1861339wpp/the-husband-stars-namkoong-min-kim-dae-myeung-lee-seol-and-lee-sang-hee-pick-their-favorite-scenes-ahead-of-finale",
+    "content": "KBS2&#8217;s &#8220;The Husband&#8221; is winding down to a close! “The Husband” is a thriller drama about a man on the brink of divorce who unexpectedly becomes embroiled in a desperate fight with a dangerous criminal in order to rescue his wife. Spoilers Ahead of the August 9 finale, &#8220;The Husband&#8221; leads Namkoong Min, Kim Dae&#8230; Continue reading &#8220;The Husband&#8221; Stars Namkoong Min, Kim Dae Myeung, Lee Seol, And Lee Sang Hee Pick Their Favorite Scenes Ahead Of Finale\nThe post &#8220;The Husband&#8221; Stars Namkoong Min, Kim Dae Myeung, Lee Seol, And Lee Sang Hee Pick Their Favorite Scenes Ahead Of Finale appeared first on Soompi.",
+    "published_at": "0809soompi",
+    "published_ts": 1786274874.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《The Husband》主演南宫珉、金大明、李雪、李尚熙选最爱场景迎大结局",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "KBS2电视剧《The Husband》将于8月9日播出大结局。",
+      "主演南宫珉、金大明、李雪、李尚熙各自挑选了最喜欢的场景。",
+      "该剧讲述面临离婚的男人为救妻子与危险罪犯展开殊死搏斗的惊悚故事。"
+    ],
+    "summary_zh": "KBS2电视剧《The Husband》临近尾声，将于8月9日迎来大结局。该剧是一部惊悚剧，讲述一个濒临离婚的男人为救妻子而意外卷入与危险罪犯的殊死搏斗。在大结局前，主演南宫珉、金大明、李雪和李尚熙分享了他们各自最喜欢的场景。",
+    "extracted_at": "2026-08-09T20:40:22.679366+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "30,000-50,000 N. Koreans to be deployed in Russia: Zelenskyy - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzYU1VSkwxVU55b19FZTRFZXM2Qks0d2FMQ2tvZ1dwTldpSHpId0REUU5QSUt2WjMyTGJCMW9OcUNIdXl2U1ZfMXpRM2dKZFNWN25FTmxtOA?oc=5",
+    "content": "30,000-50,000 N. Koreans to be deployed in Russia: Zelenskyy The Korea Herald",
+    "published_at": "0809google-kpop",
+    "published_ts": 1786274522.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "泽连斯基：朝鲜将向俄罗斯部署3万至5万兵力",
+    "source_type": "韩娱",
+    "risk_level": "高",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：乌克兰总统泽连斯基表示，朝鲜计划向俄罗斯部署3万至5万名士兵。",
+      "事实点2：该消息由《韩国先驱报》报道，但未提供具体部署时间或更多细节。"
+    ],
+    "summary_zh": "据《韩国先驱报》报道，乌克兰总统泽连斯基称，朝鲜将向俄罗斯部署3万至5万名士兵。这一数字是泽连斯基公开透露的，但报道未提及具体部署时间或更多细节。",
+    "extracted_at": "2026-08-09T20:40:24.878981+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Kim extends lead over Jung in Sunday primaries - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IMWVEYkxia0NIS1NMVlNCTU9JLWw4M1NDN2Y5WVNIeWlETURXU3BxbTFfcWhvenlUUHBmQjE5YmY1SlZkVm43NWF3elhoNVQ5OG9aU1RpNA?oc=5",
+    "content": "Kim extends lead over Jung in Sunday primaries The Korea Herald",
+    "published_at": "0809google-kpop",
+    "published_ts": 1786274385.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "周日初选：金氏扩大对郑氏领先优势",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "时间：周日初选",
+      "主体：金氏与郑氏",
+      "事件：金氏在初选中扩大了对郑氏的领先优势"
+    ],
+    "summary_zh": "据《韩国先驱报》报道，在周日举行的初选中，金氏扩大了对郑氏的领先优势。报道未提供具体数据或细节。",
+    "extracted_at": "2026-08-09T20:40:26.686752+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "When will Mattel and Hasbro KPop Demon Hunters toys come out? UPDATE August 2026 - Revista Merca2.0",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQazVJb3A5SWZwdTJZVVlSU0tKT0c4eVZ2blUxd1ZJV1JLVUp6VmZ6bVNxRzV5SzNlS2E5MEgyMnJkQUpMcGZrdV95X1l0bm1CbnExVUpldndiREs1YUw1aVVNVzZhNWE2U1dCSnZDTGFKVFNKWUhkQ2EzclBCVE95UjE2WXdIUVRuazd4a2ZuWGV1NURrRlhsQ1oyTlZzMGh5N2VwYS1Xbw?oc=5",
+    "content": "When will Mattel and Hasbro KPop Demon Hunters toys come out? UPDATE August 2026 Revista Merca2.0",
+    "published_at": "0809google-kpop",
+    "published_ts": 1786271931.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "美泰与孩之宝KPop Demon Hunters玩具发售时间更新：2026年8月",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文未提及具体发售日期，仅称更新时间为2026年8月。"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：美泰与孩之宝的KPop Demon Hunters玩具发售时间有更新，更新时间为2026年8月。]",
+    "extracted_at": "2026-08-09T20:40:28.549267+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Stars Rock The Blue Carpet At 2026 SBS Gayo Daejeon Summer",
+    "url": "https://www.soompi.com/article/1861302wpp/stars-rock-the-blue-carpet-at-2026-sbs-gayo-daejeon-summer",
+    "content": "Ahead of the 2026 SBS Gayo Daejeon Summer, stars greeted fans on the blue carpet! The SBS Gayo Daejeon Summer is a midyear special that wraps up the first half of 2026 with special performances by a star-studded lineup of artists. In addition to RIIZE’s Sungchan, Hearts2Hearts’ Ian, and NCT WISH’s Sion hosting the event,&#8230; Continue reading Stars Rock The Blue Carpet At 2026 SBS Gayo Daejeon Summer\nThe post Stars Rock The Blue Carpet At 2026 SBS Gayo Daejeon Summer appeared first on Soompi.",
+    "published_at": "0809soompi",
+    "published_ts": 1786271375.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "2026 SBS歌谣大田夏季庆典蓝毯星光熠熠，众星亮相",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：2026年SBS歌谣大田夏季庆典前，众星在蓝毯上向粉丝致意。",
+      "事实点2：该庆典为年中特别活动，以明星阵容的特别表演总结2026年上半年。",
+      "事实点3：RIIZE的Sungchan、Hearts2Hearts的Ian和NCT WISH的Sion担任主持人。"
+    ],
+    "summary_zh": "2026年SBS歌谣大田夏季庆典前夕，众多明星亮相蓝毯，与粉丝互动。该庆典是年中特别活动，旨在以华丽阵容的特别舞台为2026年上半年画上句号。RIIZE的Sungchan、Hearts2Hearts的Ian和NCT WISH的Sion担任活动主持人。",
+    "extracted_at": "2026-08-09T20:40:31.065349+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "WEi’s Kim Dong Han Announces Military Enlistment Date In Heartfelt Letter",
+    "url": "https://www.soompi.com/article/1861288wpp/weis-kim-dong-han-announces-military-enlistment-date-in-heartfelt-letter",
+    "content": "WEi&#8217;s Kim Dong Han will be enlisting in the military. On August 9, WEI&#8217;s agency OUI Entertainment released the following official statement: Hello.This is OUI Entertainment. First, we would like to sincerely thank all RUi (WEi&#8217;s official fan club) who always give WEi your unwavering love and support. We would like to inform you regarding&#8230; Continue reading WEi&#8217;s Kim Dong Han Announces Military Enlistment Date In Heartfelt Letter\nThe post WEi&#8217;s Kim Dong Han Announces Military Enlistment Date In Heartfelt Letter appeared first on Soompi.",
+    "published_at": "0809soompi",
+    "published_ts": 1786267978.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "WEi金东汉宣布入伍日期，手写信向粉丝告别",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：8月9日，WEi所属社OUI Entertainment发布官方声明，宣布金东汉将入伍。",
+      "事实点2：声明中感谢粉丝RUi的支持，并提及入伍相关事宜。",
+      "事实点3：金东汉通过手写信向粉丝传达入伍消息。"
+    ],
+    "summary_zh": "8月9日，WEi成员金东汉的所属社OUI Entertainment发布官方声明，宣布金东汉即将入伍。声明中感谢粉丝RUi一直以来的支持，并告知入伍相关事宜。金东汉本人也通过手写信向粉丝传达了这一消息，表达了对粉丝的感谢与不舍。具体入伍日期未在原文中明确提及。",
+    "extracted_at": "2026-08-09T20:40:33.452925+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Ji Sung Storms Into A Press Conference Wielding A Sledgehammer In “The Apartment Job”",
+    "url": "https://www.soompi.com/article/1861286wpp/ji-sung-storms-into-a-press-conference-wielding-a-sledgehammer-in-the-apartment-job",
+    "content": "Get ready for Ji Sung to crash a press conference on the next episode of “The Apartment Job”! JTBC’s “The Apartment Job” tells the story of former Oasis Gang boss Park Hae Kang (Ji Sung), who runs for president of an apartment complex’s resident council in order to get his hands on the complex’s hidden&#8230; Continue reading Ji Sung Storms Into A Press Conference Wielding A Sledgehammer In &#8220;The Apartment Job&#8221;\nThe post Ji Sung Storms Into A Press Conference Wielding A Sledgehammer In &#8220;The Apartment Job&#8221; appeared first on Soompi.",
+    "published_at": "0809soompi",
+    "published_ts": 1786267341.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "池晟新剧《公寓任务》手持大锤闯入记者会",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "JTBC电视剧《公寓任务》中，池晟饰演前Oasis Gang头目朴海康，为获取公寓小区隐藏之物而竞选居民代表。",
+      "在下一集中，朴海康将手持大锤闯入记者会。"
+    ],
+    "summary_zh": "JTBC新剧《公寓任务》公开新剧照，池晟饰演的前Oasis Gang头目朴海康将在下一集中手持大锤闯入记者会。该剧讲述朴海康为获取公寓小区隐藏之物而竞选居民代表的故事。",
+    "extracted_at": "2026-08-09T20:40:35.593728+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Korea Football Association's 'sex bribery' scandal spreads through int'l football community - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9JSjZOdUozYXdNTDlIRUROYVlTbjF3RjZmZDZVcFdJNjFmVXpubC1tdmx4WFUwRXRaaDlYbWdCLTd3bnMtTC1rYXQ0ZXFKLTk4dF9xMmZnWQ?oc=5",
+    "content": "Korea Football Association's 'sex bribery' scandal spreads through int'l football community The Korea Herald",
+    "published_at": "0809google-kpop",
+    "published_ts": 1786266144.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "韩国足协性贿赂丑闻蔓延至国际足坛",
+    "source_type": "韩娱",
+    "risk_level": "高",
+    "is_blurred": false,
+    "facts_list": [
+      "韩国足协（KFA）卷入性贿赂丑闻，该事件已通过国际足球界传播。",
+      "该报道由《韩国先驱报》发布，标题明确指出丑闻涉及性贿赂。"
+    ],
+    "summary_zh": "据《韩国先驱报》报道，韩国足球协会（KFA）的性贿赂丑闻已蔓延至国际足球界。报道标题直接指出该丑闻涉及性贿赂，但具体细节、涉事人员、时间地点等尚未在标题中披露。",
+    "extracted_at": "2026-08-09T20:40:37.763265+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "DP rules out lawmaker's 'bus house' idea, apologizes to young people - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xdlFEZ29wYTM3NWJwV0F6cFUtRkRVY0JEMWxEejdIdWZaTEw4M2VoVzlWblZ2SEhtME93d1JmSFJuME9XblFIVlJBZm1rT1cxQ2NUSnhiYw?oc=5",
+    "content": "DP rules out lawmaker's 'bus house' idea, apologizes to young people The Korea Herald",
+    "published_at": "0809google-kpop",
+    "published_ts": 1786265413.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "韩民主党否决议员'巴士住房'提议，向年轻人致歉",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "韩国共同民主党否决了某议员的'巴士住房'提议",
+      "共同民主党就此事向年轻人道歉"
+    ],
+    "summary_zh": "据韩国先驱报报道，韩国共同民主党否决了党内议员提出的'巴士住房'构想，并就此向年轻人表示歉意。该提议的具体内容及否决原因未在原文中详述。",
+    "extracted_at": "2026-08-09T20:40:39.649348+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Kong Hyo Jin, Jung Jun Won, Sung Dong Il, And More Show Heartwarming And Chaotic Energy On Set Of “A Bona Fide Killer”",
+    "url": "https://www.soompi.com/article/1861279wpp/watch-kong-hyo-jin-jung-jun-won-sung-dong-il-and-more-show-heartwarming-and-chaotic-energy-on-set-of-a-bona-fide-killer",
+    "content": "&#8220;A Bona Fide Killer&#8221; has unveiled a new making-of video! The behind-the-scenes video shows the heartwarming atmosphere among the cast members. Kong Hyo Jin and Jung Jun Won brainstorm how to film a scene realistically, making each other laugh while tossing out funny ideas. Meanwhile, Kong Hyo Jin gestures to Sung Dong Il and calls&#8230; Continue reading Watch: Kong Hyo Jin, Jung Jun Won, Sung Dong Il, And More Show Heartwarming And Chaotic Energy On Set Of &#8220;A Bona Fide Killer&#8221;\nThe post Watch: Kong Hyo Jin, Jung Jun Won, Sung Dong Il, And More Show Heartwarming And Chaotic Energy On Set Of &#8220;A Bona Fide Killer&#8221; appeared first on Soompi.",
+    "published_at": "0809soompi",
+    "published_ts": 1786265213.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《杀人者的购物中心》公开幕后花絮：孔晓振、郑俊元、成东日等展现温馨混乱片场",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：电视剧《A Bona Fide Killer》公开了新的制作花絮视频。",
+      "事实点2：花絮中，孔晓振和郑俊元讨论如何真实拍摄场景，互相逗笑。",
+      "事实点3：孔晓振向成东日做手势并呼唤他。"
+    ],
+    "summary_zh": "电视剧《A Bona Fide Killer》公开了新的制作花絮视频，展现了演员们温馨的片场氛围。孔晓振和郑俊元在讨论如何真实拍摄场景时互相逗笑，孔晓振还向成东日做手势并呼唤他。",
+    "extracted_at": "2026-08-09T20:40:42.375989+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Messi absent in Inter Miami match after father's death - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54SkdkcnkzbVVnSEd2akJwa21nbWpXSDQtNHM5M05EZG02blRZeVZ5c3phV3BsaUhTbi1RR0pnR05NbGxtNndZa0JOclBUMUhpSUZheW5tYw?oc=5",
+    "content": "Messi absent in Inter Miami match after father's death The Korea Herald",
+    "published_at": "0809google-kpop",
+    "published_ts": 1786264535.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "梅西因父亲去世缺席国际迈阿密比赛",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：梅西因父亲去世缺席国际迈阿密比赛",
+      "事实点2：消息来源为《韩国先驱报》"
+    ],
+    "summary_zh": "据《韩国先驱报》报道，梅西因父亲去世缺席了国际迈阿密队的比赛。",
+    "extracted_at": "2026-08-09T20:40:43.861621+08:00"
+  },
+  {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
@@ -17,11 +285,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "韩国政府拒绝了日本对韩国在独岛（竹岛）周边进行海洋调查的抗议。",
-      "该消息由《韩国先驱报》报道。"
+      "韩国政府拒绝了日本对韩国在独岛周边进行海洋调查的抗议。",
+      "该调查由韩国实施，日本提出抗议，但韩国未接受。"
     ],
-    "summary_zh": "据《韩国先驱报》报道，韩国政府拒绝了日本对韩国在独岛（竹岛）周边进行海洋调查的抗议。日本方面对此提出抗议，但韩国政府坚持其立场，拒绝了日本的抗议。",
-    "extracted_at": "2026-08-09T16:36:39.085442+08:00"
+    "summary_zh": "据《韩国先驱报》报道，韩国政府拒绝了日本对韩国在独岛周边进行海洋调查的抗议。韩国坚持其调查活动，未接受日本的抗议。",
+    "extracted_at": "2026-08-09T20:40:45.934922+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -41,11 +309,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：独岛首任居民与末任居民的女儿们就居住权及父亲遗产问题发生冲突。",
-      "事实点2：该报道由韩国先驱报发布。"
+      "事实点1：独岛首任与末任居民的女儿们就居住权及父亲遗产问题发生冲突。",
+      "事实点2：该报道由The Korea Herald发布。"
     ],
-    "summary_zh": "据韩国先驱报报道，独岛首任居民与末任居民的女儿们就居住权及父亲遗产问题发生冲突。报道未提供具体细节，仅提及双方立场对立。",
-    "extracted_at": "2026-08-09T16:36:41.201174+08:00"
+    "summary_zh": "据The Korea Herald报道，独岛首任与末任居民的女儿们就居住权及父亲遗产问题发生冲突。报道未提供具体细节，仅提及双方就上述问题存在分歧。",
+    "extracted_at": "2026-08-09T20:40:47.843716+08:00"
   },
   {
     "source_id": "soompi",
@@ -60,16 +328,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "梁世宗向朴恩斌浪漫求婚，《幽灵恋人》下集预告引期待",
+    "title_zh": "梁世宗向朴恩斌浪漫求婚，《幽灵恋人》下集预告",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：梁世宗在tvN电视剧《幽灵恋人》下集中向朴恩斌饰演的角色进行浪漫求婚。",
-      "事实点2：《幽灵恋人》是2011年电影《Spellbound》的翻拍剧，讲述能看见鬼魂的酒店继承人（朴恩斌饰）与害怕鬼魂的热血检察官（梁世宗饰）之间的混乱合作。"
+      "事实点1：tvN剧集《幽灵恋人》为2011年电影《Spellbound》的翻拍，讲述能看见鬼魂的酒店继承人（朴恩斌饰）与害怕鬼魂的热血检察官（梁世宗饰）之间的混乱合作。",
+      "事实点2：梁世宗将在下一集中向朴恩斌进行浪漫求婚，但计划可能不会顺利进行。"
     ],
-    "summary_zh": "据Soompi报道，梁世宗在tvN电视剧《幽灵恋人》的下一集中将向朴恩斌饰演的角色进行浪漫求婚，但这一计划可能不会顺利进行。《幽灵恋人》是2011年电影《Spellbound》的翻拍剧，是一部灵异爱情剧，讲述能看见鬼魂的酒店继承人与害怕鬼魂的热血检察官之间的混乱合作。该集具体播出时间未在原文中提及。",
-    "extracted_at": "2026-08-09T16:36:44.120228+08:00"
+    "summary_zh": "tvN剧集《幽灵恋人》发布新预告，梁世宗饰演的检察官将在下一集中向朴恩斌饰演的酒店继承人浪漫求婚，但剧情暗示求婚可能不会按计划进行。该剧翻拍自2011年电影《Spellbound》，是一部灵异爱情剧，讲述能看见鬼魂的酒店继承人与害怕鬼魂的检察官之间的混乱合作。",
+    "extracted_at": "2026-08-09T20:40:50.680599+08:00"
   },
   {
     "source_id": "soompi",
@@ -86,14 +354,14 @@
     "is_new": true,
     "title_zh": "李镇浩脑出血晕倒后出院，所属社称其正在休息",
     "source_type": "韩娱",
-    "risk_level": "高",
+    "risk_level": "中",
     "is_blurred": false,
     "facts_list": [
       "事实点1：4月，喜剧人李镇浩因突发脑出血晕倒住院。",
       "事实点2：8月9日，所属社SM C&C透露，李镇浩已出院，目前正在休息。"
     ],
-    "summary_zh": "喜剧人李镇浩于4月因突发脑出血晕倒住院，8月9日其所属社SM C&C确认他已出院，并透露他目前正在休息。",
-    "extracted_at": "2026-08-09T16:36:46.305098+08:00"
+    "summary_zh": "喜剧人李镇浩于4月因突发脑出血晕倒住院，近日被确认已出院。8月9日，其所属社SM C&C表示，李镇浩目前正在休息。",
+    "extracted_at": "2026-08-09T20:40:53.073083+08:00"
   },
   {
     "source_id": "soompi",
@@ -108,64 +376,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《菜单上的爱情》河锡辰连环提问令EXID哈妮惊慌失措",
+    "title_zh": "河锡辰在《菜单上的爱》中追问EXID哈妮，令其慌乱",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "事实点1：KBS 2TV新剧《Love on the Menu》中，河锡辰饰演金武镇，EXID哈妮饰演韩圭琳。",
-      "事实点2：在下一集中，河锡辰和尹河彬将更接近哈妮饰演角色的隐藏秘密，河锡辰的追问令哈妮惊慌。"
+      "事实点2：在下一集中，河锡辰和尹河彬将更接近哈妮饰演角色的隐藏秘密，河锡辰的追问令哈妮慌乱。"
     ],
-    "summary_zh": "KBS 2TV新剧《Love on the Menu》讲述河锡辰饰演的金武镇与EXID哈妮饰演的韩圭琳之间的故事。在即将播出的下一集中，河锡辰和尹河彬将更接近哈妮角色的隐藏秘密，河锡辰的追问令哈妮惊慌失措。",
-    "extracted_at": "2026-08-09T16:36:48.938402+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Lee faces pressure after proposed changes to ISA tax rules spark backlash - The Korea Herald",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NVTZyOXRUYnlUQWVsY2FnWkVSR0huenVldy1fQ2VOU01fRXlVYUtQTW1yTlhJY2NHQUJ6X0R6Q1lnWnFWTHF3S0tPUEtnZ1FtX3cxWmxoUQ?oc=5",
-    "content": "Lee faces pressure after proposed changes to ISA tax rules spark backlash The Korea Herald",
-    "published_at": "0809google-kpop",
-    "published_ts": 1786257523.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "韩国ISA税制改革提案引发反弹，李在明面临压力",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "韩国政府提出ISA（个人储蓄账户）税制改革方案",
-      "该提案引发公众和反对党的强烈反弹",
-      "李在明（Lee Jae-myung）因此面临政治压力"
-    ],
-    "summary_zh": "据《韩国先驱报》报道，韩国政府提出的ISA（个人储蓄账户）税制改革方案引发广泛反弹，导致共同民主党党首李在明面临政治压力。具体改革内容及反对细节未在原文中详述。",
-    "extracted_at": "2026-08-09T16:36:51.073090+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Report on US missile shortage raises concerns over South Korea's air defenses - The Korea Herald",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1yTUpkdjFjcjBVLVQyUGt3amtfU3pYVXh5M0JicEUzblV0T0RrMFFXaS01blRKa1pFNGRyUWJyUWZqVkI0R05tLUp2dWVQd3F0TTVlTk45OA?oc=5",
-    "content": "Report on US missile shortage raises concerns over South Korea's air defenses The Korea Herald",
-    "published_at": "0809google-kpop",
-    "published_ts": 1786255747.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "美国导弹短缺报告引发对韩国防空能力的担忧",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：韩国《韩国先驱报》报道，美国导弹短缺的报告引发对韩国防空能力的担忧。"
-    ],
-    "summary_zh": "据《韩国先驱报》报道，一份关于美国导弹短缺的报告引发了对韩国防空能力的担忧。该报道指出，美国导弹库存的不足可能影响其对韩国的安全承诺，进而影响韩国的防御态势。",
-    "extracted_at": "2026-08-09T16:36:53.168132+08:00"
+    "summary_zh": "KBS 2TV新剧《Love on the Menu》讲述河锡辰饰演的金武镇和EXID哈妮饰演的韩圭琳的故事。在即将播出的下一集中，河锡辰和尹河彬将更接近韩圭琳的隐藏秘密，河锡辰的追问让哈妮感到慌乱。",
+    "extracted_at": "2026-08-09T20:40:55.990313+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -180,16 +400,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "韩国一执勤受伤警官与病魔和抑郁症抗争后身亡",
+    "title_zh": "韩国一执勤受伤警察患抑郁症后死亡",
     "source_type": "韩娱",
     "risk_level": "高",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：一名韩国警官在执勤中受伤，后与疾病和抑郁症抗争，最终被发现死亡。",
-      "事实点2：该事件由《韩国先驱报》报道，具体时间、地点及详细经过未在原文中提及。"
+      "事实点1：一名在执行任务时受伤的警察，在对抗疾病和抑郁症后被发现死亡。",
+      "事实点2：该事件由韩国媒体The Korea Herald报道。"
     ],
-    "summary_zh": "据《韩国先驱报》报道，一名韩国警官在执勤中受伤，之后一直与疾病和抑郁症作斗争，最终被发现死亡。报道未提供具体时间、地点及更多细节。",
-    "extracted_at": "2026-08-09T16:36:55.245933+08:00"
+    "summary_zh": "据The Korea Herald报道，一名在执行任务时受伤的警察，在对抗疾病和抑郁症后被发现死亡。报道未提及具体时间、地点及该警察的姓名等详细信息。",
+    "extracted_at": "2026-08-09T20:40:58.170300+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -204,40 +424,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "李浩宰德甲首秀破门，达姆施塔特迎来开门红",
+    "title_zh": "李浩宰德甲首秀即破门，达姆施塔特迎来开门红",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "事实点1：李浩宰在达姆施塔特的首秀中取得进球",
-      "事实点2：该消息由韩国媒体The Korea Herald报道"
+      "事实点2：该消息由韩国媒体《韩国先驱报》报道"
     ],
-    "summary_zh": "韩国球员李浩宰在达姆施塔特的首秀中取得进球，帮助球队取得胜利。这一表现引起了韩国媒体的关注，The Korea Herald对此进行了报道。",
-    "extracted_at": "2026-08-09T16:36:57.626887+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Investors unlikely to go 'all-in' even if Kospi rally resumes: Bloomberg analyst - The Korea Herald",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0Q3hJVmlTT2hCUWZUeEFnVUYwRGE5RXhHVllNTkw4LU1WZkpBNG5rMGZrM0JrQU43VVplOFc5WHpXYmdvanBGalNLTVB5ZFRMU0pyN1IzOA?oc=5",
-    "content": "Investors unlikely to go 'all-in' even if Kospi rally resumes: Bloomberg analyst The Korea Herald",
-    "published_at": "0809google-kpop",
-    "published_ts": 1786255288.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "彭博分析师：即使Kospi反弹，投资者也不太可能全力投入",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：彭博分析师表示，即使韩国综合股价指数（Kospi）反弹，投资者也不太可能全力投入。",
-      "事实点2：该观点由《韩国先驱报》报道。"
-    ],
-    "summary_zh": "据《韩国先驱报》报道，彭博分析师指出，即使Kospi指数出现反弹，投资者也不太可能采取‘全力投入’的策略。这一观点反映了市场对当前经济形势的谨慎态度。",
-    "extracted_at": "2026-08-09T16:36:59.542346+08:00"
+    "summary_zh": "据《韩国先驱报》报道，韩国球员李浩宰在达姆施塔特的首秀中成功破门得分，为球队贡献了关键进球。这一表现标志着他在新球队的良好开端。",
+    "extracted_at": "2026-08-09T20:41:00.244409+08:00"
   },
   {
     "source_id": "soompi",
@@ -257,11 +453,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：本周，英国官方排行榜（Official Charts）宣布BTS最新专辑《ARIRANG》在官方专辑榜上排名第43位，这是该专辑上榜的第20周。",
+      "事实点1：本周，英国官方排行榜（Official Charts）宣布，BTS最新专辑《ARIRANG》在官方专辑榜上排名第43位，这是该专辑上榜的第20周。",
       "事实点2：这一成绩打破了BTS七年前在该榜单上创下的个人纪录。"
     ],
-    "summary_zh": "英国官方排行榜本周宣布，BTS最新专辑《ARIRANG》在官方专辑榜上攀升至第43位，这是该专辑上榜的第20周，打破了BTS七年前在该榜单上创下的个人纪录。",
-    "extracted_at": "2026-08-09T16:37:01.703826+08:00"
+    "summary_zh": "英国官方排行榜本周宣布，BTS的最新专辑《ARIRANG》在官方专辑榜上攀升至第43位，这是该专辑上榜的第20周。这一成绩打破了BTS七年前在该榜单上创下的个人纪录。",
+    "extracted_at": "2026-08-09T20:41:02.601943+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -284,8 +480,8 @@
       "事实点1：韩国政府计划在龙山公园区域增加住房供应",
       "事实点2：该计划引发关于龙山公园未来用途的争议"
     ],
-    "summary_zh": "据韩国先驱报报道，韩国政府计划在龙山公园区域增加住房供应，此举引发了对龙山公园未来用途的争议。目前，政府与相关利益方之间存在摩擦，但具体细节尚未披露。",
-    "extracted_at": "2026-08-09T16:37:03.681074+08:00"
+    "summary_zh": "据韩国先驱报报道，韩国政府计划在龙山公园区域增加住房供应，此举引发了关于该公园未来用途的争议。目前，政府与相关利益方之间存在摩擦，但具体细节尚未披露。",
+    "extracted_at": "2026-08-09T20:41:04.554264+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -305,11 +501,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：韩国执政党党首选举中，前总理目前以微弱优势领先。",
-      "事实点2：选举结果可能取决于首尔和西南地区的投票结果。"
+      "事实点1：韩国执政党党首选举中，前总理以微弱优势领先。",
+      "事实点2：选举结果可能取决于首尔和西南地区的投票。"
     ],
-    "summary_zh": "据韩国先驱报报道，韩国执政党党首选举中，前总理目前以微弱优势领先，最终结果可能取决于首尔和西南地区的投票情况。",
-    "extracted_at": "2026-08-09T16:37:05.444905+08:00"
+    "summary_zh": "据《韩国先驱报》报道，韩国执政党党首选举中，前总理目前以微弱优势领先，最终结果可能取决于首尔和西南地区的投票情况。",
+    "extracted_at": "2026-08-09T20:41:06.543774+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -324,16 +520,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "韩国青少年为救张允基受害者被刺伤，获国家荣誉",
+    "title_zh": "韩国青少年因救助张允基受害者被刺伤获国家荣誉",
     "source_type": "韩娱",
-    "risk_level": "中",
+    "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "事实点1：一名青少年在救助张允基受害者时被刺伤",
       "事实点2：该青少年因此获得国家荣誉"
     ],
-    "summary_zh": "据韩国先驱报报道，一名青少年在救助张允基受害者时被刺伤，并因此获得了国家荣誉。具体细节未在原文中提及。",
-    "extracted_at": "2026-08-09T16:37:07.240291+08:00"
+    "summary_zh": "据韩国先驱报报道，一名青少年在救助张允基受害者时被刺伤，并因此获得了国家荣誉。",
+    "extracted_at": "2026-08-09T20:41:08.232957+08:00"
   },
   {
     "source_id": "soompi",
@@ -353,11 +549,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：韩剧《Dream to You》播出第7-8集，观众反应两极分化。",
-      "事实点2：该剧在浪漫喜剧中混合类型，引发观众强烈印象。"
+      "事实点1：韩剧《Dream to You》第7-8集播出，观众反应两极分化。",
+      "事实点2：该剧在浪漫喜剧中混合多种类型，引发观众强烈印象。"
     ],
-    "summary_zh": "韩剧《Dream to You》正成为一部让人又爱又恨的作品，观众立场鲜明，中间地带很少。截至目前，故事节奏和角色塑造给剧迷留下了深刻印象，无论好坏。该剧在浪漫喜剧中直接混合类型，引发讨论。本文列举了第7-8集中令人心情复杂的4个瞬间。",
-    "extracted_at": "2026-08-09T16:37:09.654894+08:00"
+    "summary_zh": "韩剧《Dream to You》正成为一部让人又爱又恨的作品，观众对其评价两极分化。第7-8集中，剧情节奏和角色塑造给观众留下了深刻印象，无论好坏。该剧在浪漫喜剧中大胆混合类型，引发讨论。本文列举了4个令人心情复杂的瞬间，但具体内容未在摘要中详述。",
+    "extracted_at": "2026-08-09T20:41:10.736874+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -377,59 +573,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：据《韩国先驱报》报道，大多数韩国人希望有更多孩子。",
-      "事实点2：但受访者表示，经济状况和职业发展是主要限制因素。"
+      "根据《韩国先驱报》报道，大多数韩国人希望有更多孩子。",
+      "但受访者表示，经济状况和职业发展是限制生育的主要原因。"
     ],
-    "summary_zh": "据《韩国先驱报》报道，一项调查显示，大多数韩国人希望生育更多子女，但经济压力和职业发展方面的顾虑成为主要障碍。",
-    "extracted_at": "2026-08-09T16:37:11.642836+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Military Manpower Administration to phase out supplementary service - The Korea Herald",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1JMHFtTHY1UDRtOWVuV1gyTlQ1NV9Td2RTel96UmpEdHFFbllDWkdyb3JpWk0xUXdVVG1JVmw0TWxiVkxMWFNJY3I4QUhzcm9vTGMzR3hvMA?oc=5",
-    "content": "Military Manpower Administration to phase out supplementary service The Korea Herald",
-    "published_at": "0809google-kpop",
-    "published_ts": 1786248811.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "韩国兵务厅将逐步废除补充役制度",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：韩国兵务厅宣布将逐步废除补充役制度。",
-      "事实点2：该消息由《韩国先驱报》报道。"
-    ],
-    "summary_zh": "据《韩国先驱报》报道，韩国兵务厅宣布将逐步废除补充役制度。该制度此前允许部分因健康等原因无法服现役的人员以替代形式履行兵役义务。具体废除时间表及替代方案尚未公布。",
-    "extracted_at": "2026-08-09T16:37:13.653009+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Ryu Hae-ran ranks 7th in prize money earnings - The Korea Herald",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5uNE9nU09ZcG1RYW1pSENPUFlTbWxCckxveFk5NUVMSGE3TmNZZktibk9GUl9VUkFRdFhXaUhqdXVWVGgwLS14SnNtcUUxVE9JeUZyZXBmQQ?oc=5",
-    "content": "Ryu Hae-ran ranks 7th in prize money earnings The Korea Herald",
-    "published_at": "0809google-kpop",
-    "published_ts": 1786248452.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "柳海兰奖金收入排名第7位",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：柳海兰在奖金收入排名中位列第7位",
-      "事实点2：该排名由韩国先驱报报道"
-    ],
-    "summary_zh": "据韩国先驱报报道，韩国高尔夫选手柳海兰在奖金收入排名中位列第7位。",
-    "extracted_at": "2026-08-09T16:37:15.330129+08:00"
+    "summary_zh": "据《韩国先驱报》报道，大多数韩国人希望生育更多子女，但经济压力和职业发展限制了他们。调查显示，财务问题和职业规划是影响生育意愿的主要因素。",
+    "extracted_at": "2026-08-09T20:41:12.615248+08:00"
   },
   {
     "source_id": "soompi",
@@ -452,31 +600,8 @@
       "事实点1：8月8日，BIGHIT MUSIC宣布CORTIS官方Instagram账号于8月5日粉丝数突破1500万。",
       "事实点2：CORTIS用时不到一年达成该里程碑，成为Instagram上最快达到1500万粉丝的K-POP组合。"
     ],
-    "summary_zh": "据Soompi报道，BIGHIT MUSIC于8月8日宣布，旗下组合CORTIS的官方Instagram账号在8月5日粉丝数突破1500万。CORTIS达成这一里程碑用时不到一年，成为Instagram上最快达到1500万粉丝的K-POP组合。",
-    "extracted_at": "2026-08-09T16:37:17.314511+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "An Byeong-hun tied for sixth at LIV Golf New York - The Korea Herald",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwTkltSWJsb1hUSW5BNnptWU9zUnFQYzJrM2ZvUGpUM29aSmVWSS1SRjhfY2FWUGZGOVR1ZWx5M2lUdDRtTXkxQWxoVWpTd01IRDZZQ1Rlcw?oc=5",
-    "content": "An Byeong-hun tied for sixth at LIV Golf New York The Korea Herald",
-    "published_at": "0809google-kpop",
-    "published_ts": 1786246629.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "安秉勋在LIV高尔夫纽约站并列第六",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：安秉勋在LIV高尔夫纽约站比赛中并列第六名。"
-    ],
-    "summary_zh": "据《韩国先驱报》报道，韩国高尔夫选手安秉勋在LIV高尔夫纽约站比赛中表现出色，最终并列第六名。",
-    "extracted_at": "2026-08-09T16:37:19.063477+08:00"
+    "summary_zh": "CORTIS在Instagram上创下新纪录。8月8日，BIGHIT MUSIC宣布CORTIS官方Instagram账号于8月5日粉丝数突破1500万。值得注意的是，CORTIS达成这一里程碑用时不到一年，成为Instagram上最快达到1500万粉丝的K-POP组合。",
+    "extracted_at": "2026-08-09T20:41:14.668135+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -491,16 +616,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "韩国电影业就六个月窗口期规则展开激烈讨论",
+    "title_zh": "韩国电影业就六个月窗口期规则展开博弈",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：韩国电影业正在就六个月窗口期规则进行讨论，该规则涉及电影在影院上映后需等待六个月才能在流媒体平台上线。",
-      "事实点2：该讨论由《韩国先驱报》报道，反映了行业内部对现有规则的不同意见。"
+      "事实点1：韩国电影业正在就六个月窗口期规则进行讨论，该规则规定电影在院线上映后需等待六个月才能上线流媒体平台。",
+      "事实点2：该规则由韩国电影委员会（KOFIC）提出，旨在保护院线利益，但遭到流媒体平台和部分制片方的反对。",
+      "事实点3：韩国电影委员会计划在2024年实施该规则，但具体细节仍在协商中。"
     ],
-    "summary_zh": "据《韩国先驱报》报道，韩国电影业正就六个月窗口期规则展开讨论。该规则要求电影在影院上映后需等待六个月才能在流媒体平台上线，引发了行业内不同意见的碰撞。支持者认为该规则保护影院利益，反对者则认为其限制了流媒体发展。目前，行业内部尚未达成共识。",
-    "extracted_at": "2026-08-09T16:37:21.419620+08:00"
+    "summary_zh": "韩国电影业正就六个月窗口期规则展开激烈讨论。该规则要求电影在院线上映后必须等待六个月才能上线流媒体平台，由韩国电影委员会提出，旨在保护院线利益。然而，流媒体平台和部分制片方对此表示反对，认为这限制了内容分发和观众选择。目前，该规则计划于2024年实施，但具体细节仍在协商中，行业内部意见不一。",
+    "extracted_at": "2026-08-09T20:41:17.527377+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -515,15 +641,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "韩国警察家属涉案案件中逾三成嫌疑人为亲属",
+    "title_zh": "韩国警察家属涉案超三分之一案件嫌疑人为亲属",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：根据韩国先驱报报道，涉及警察家属的案件中，超过三分之一的案件嫌疑人为亲属。"
+      "事实点1：根据韩国先驱报报道，涉及警察家属的案件中，超过三分之一的案件嫌疑人为亲属。",
+      "事实点2：该报道未提供具体案件数量或时间范围。"
     ],
-    "summary_zh": "据韩国先驱报报道，一项调查显示，在涉及警察家属的警方案件中，超过三分之一的案件嫌疑人为亲属。该报道未提供具体案例或数据来源，仅提及这一比例。",
-    "extracted_at": "2026-08-09T16:37:23.247185+08:00"
+    "summary_zh": "据韩国先驱报报道，在涉及警察家属的案件中，超过三分之一的案件嫌疑人为亲属。该报道未提供具体案件数量或时间范围。",
+    "extracted_at": "2026-08-09T20:41:19.479746+08:00"
   },
   {
     "source_id": "soompi",
@@ -538,16 +665,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "KARA韩胜妍所属社回应健康担忧：粉丝发现其手部及上身颤抖",
+    "title_zh": "KARA韩胜妍所属社回应健康担忧：粉丝生日咖啡店视频引关注",
     "source_type": "韩娱",
     "risk_level": "中",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：近期，韩胜妍在访问粉丝为其准备的生日咖啡厅时，被粉丝拍到其手部和上身出现颤抖症状。",
-      "事实点2：韩胜妍所属社已就粉丝对其健康状况的担忧作出正式回应。"
+      "事实点1：近期，韩胜妍在粉丝准备的生日咖啡店被拍到，视频中她的手部和上半身出现颤抖症状。",
+      "事实点2：粉丝对此表示担忧，韩胜妍所属社已正式回应此健康问题。"
     ],
-    "summary_zh": "KARA成员韩胜妍的所属社已就粉丝对其健康状况的担忧作出正式回应。近期，韩胜妍在访问粉丝为其准备的生日咖啡厅时，被粉丝发现其手部和上身出现颤抖症状，引发粉丝对其健康的担忧。所属社的回应内容尚未详细披露。",
-    "extracted_at": "2026-08-09T16:37:25.487742+08:00"
+    "summary_zh": "KARA成员韩胜妍的所属社就近期粉丝对其健康状况的担忧作出正式回应。起因是韩胜妍在访问粉丝准备的生日咖啡店时，被拍到双手和上半身出现颤抖，引发粉丝关注。所属社的回应内容尚未详细披露，但已确认官方立场。",
+    "extracted_at": "2026-08-09T20:41:22.023420+08:00"
   },
   {
     "source_id": "soompi",
@@ -562,40 +689,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《杀人者的购物中心》与《恋爱至上区域》收视率再创新高",
+    "title_zh": "《杀人者的购物中心》与《爱情菜单》收视率再创新高",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：8月8日，MBC《杀人者的购物中心》第4集全国平均收视率达9.4%，刷新自身最高纪录",
-      "事实点2：同日，《恋爱至上区域》收视率也创下自身最高纪录"
+      "事实点1：8月8日，MBC《杀人者的购物中心》第4集全国平均收视率达9.4%，刷新自身最高纪录。",
+      "事实点2：同日，《爱情菜单》收视率也创下自身最高纪录。"
     ],
-    "summary_zh": "据尼尔森韩国数据，8月8日，MBC电视剧《杀人者的购物中心》第4集全国平均收视率升至9.4%，创下该剧自身最高纪录。同时，另一部新剧《恋爱至上区域》的收视率也攀升至自身最高水平。两部剧均展现出强劲的上升势头。",
-    "extracted_at": "2026-08-09T16:37:27.670529+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Food prices surge amid unprecedented heat wave - The Korea Herald",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9uN2Q1MW5FMmVNRGdMRnBUMnBESjN6bmUwOVBuQjBDbENZTjJoc1NZbjQ3NnpEY1I0amVqRjZIVmNXejFzRTNKRVRxdzZvZ0VLay1fNnROZw?oc=5",
-    "content": "Food prices surge amid unprecedented heat wave The Korea Herald",
-    "published_at": "0809google-kpop",
-    "published_ts": 1786239975.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "韩国遭遇空前热浪 食品价格飙升",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：韩国遭遇空前热浪，导致食品价格飙升。",
-      "事实点2：该报道来自《韩国先驱报》。"
-    ],
-    "summary_zh": "据《韩国先驱报》报道，韩国正经历前所未有的热浪，导致食品价格大幅上涨。报道指出，极端高温天气对农业生产造成影响，推高了食品价格。",
-    "extracted_at": "2026-08-09T16:37:29.460771+08:00"
+    "summary_zh": "据尼尔森韩国数据，8月8日，MBC电视剧《杀人者的购物中心》第4集全国平均收视率升至9.4%，创下该剧自身最高纪录。同时，另一部新剧《爱情菜单》的收视率也攀升至自身最高水平。两部剧均展现出强劲的上升势头。",
+    "extracted_at": "2026-08-09T20:41:24.563541+08:00"
   },
   {
     "source_id": "soompi",
@@ -610,17 +713,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "8月女团品牌评价榜出炉 RESCENE登顶",
+    "title_zh": "8月女团品牌评价排名公布 RESCENE登顶",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "韩国企业评价研究所于8月发布女团品牌评价排名。",
-      "排名基于2023年7月9日至8月9日收集的大数据，分析消费者参与度、媒体覆盖、互动及社区指数。",
+      "韩国企业评价研究所于8月公布女团品牌评价排名，数据采集自7月9日至8月9日。",
+      "排名依据消费者参与度、媒体覆盖、互动及社区指数分析得出。",
       "RESCENE在本次排名中升至榜首。"
     ],
-    "summary_zh": "韩国企业评价研究所公布了本月女团品牌评价排名。该排名基于7月9日至8月9日收集的大数据，分析了各女团的消费者参与度、媒体覆盖、互动及社区指数。RESCENE在本次排名中升至榜首。",
-    "extracted_at": "2026-08-09T16:37:31.732399+08:00"
+    "summary_zh": "韩国企业评价研究所公布了8月女团品牌评价排名，该排名基于7月9日至8月9日收集的大数据，分析了消费者参与度、媒体覆盖、互动及社区指数。RESCENE在本次排名中升至榜首。",
+    "extracted_at": "2026-08-09T20:41:26.569987+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -635,16 +738,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "从K-pop粉丝到演出翻译，April Kim带来超越语言的沟通",
+    "title_zh": "从K-pop粉丝到演出翻译，April Kim带来超越语言的价值",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：April Kim从K-pop粉丝转变为演出翻译，为K-pop演唱会提供翻译服务",
-      "事实点2：该报道由The Korea Herald发布，标题为'From K-pop fan to show interpreter, April Kim brings more than words'"
+      "事实点1：April Kim从K-pop粉丝转变为演出翻译，为K-pop演唱会提供翻译服务。",
+      "事实点2：该报道由The Korea Herald发布，标题为'From K-pop fan to show interpreter, April Kim brings more than words'。"
     ],
-    "summary_zh": "据The Korea Herald报道，April Kim从一名K-pop粉丝转变为演出翻译，为K-pop演唱会提供翻译服务。她的经历体现了粉丝对K-pop文化的热爱如何转化为职业，并为国际粉丝与艺人之间搭建沟通桥梁。报道强调她不仅翻译语言，更传递文化内涵，为演出增添价值。",
-    "extracted_at": "2026-08-09T16:37:34.083512+08:00"
+    "summary_zh": "据The Korea Herald报道，April Kim从一名K-pop粉丝成长为演出翻译，为K-pop演唱会提供翻译服务。她的经历体现了粉丝文化向职业发展的转变，其工作不仅限于语言转换，还涉及文化传递。",
+    "extracted_at": "2026-08-09T20:41:28.741489+08:00"
   },
   {
     "source_id": "soompi",
@@ -664,12 +767,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "8月1日MBC《音乐中心》节目中，RESCENE凭借翻唱KARA的《Pretty Girl》获得第一名，总分7518分。",
+      "8月1日MBC《音乐中心》节目中，RESCENE凭借翻唱KARA的《Pretty Girl》获得第一名，总分7,518分。",
       "候补曲目包括ATEEZ的《BAD》和BLACKPINK成员Jennie的《Less than a Lover》。",
       "该期节目还有Stray Kids、Red Velvet、BABYMONSTER等艺人的表演。"
     ],
-    "summary_zh": "在8月1日播出的MBC《音乐中心》中，RESCENE凭借翻唱KARA的《Pretty Girl》以7518分获得第一名，这是她们为该曲赢得的第三个音乐节目冠军。候补包括ATEEZ的《BAD》和Jennie的《Less than a Lover》。本期节目还带来了Stray Kids、Red Velvet、BABYMONSTER等艺人的精彩舞台。",
-    "extracted_at": "2026-08-09T16:37:36.452535+08:00"
+    "summary_zh": "在8月1日播出的MBC《音乐中心》中，RESCENE凭借翻唱KARA的《Pretty Girl》以7,518分获得第一名，这是她们为这首歌拿下的第三个音乐节目冠军。候补包括ATEEZ的《BAD》和Jennie的《Less than a Lover》。本期节目还播出了Stray Kids、Red Velvet、BABYMONSTER等艺人的舞台。",
+    "extracted_at": "2026-08-09T20:41:31.435463+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -691,11 +794,11 @@
     "facts_list": [
       "时间：8月8日",
       "地点：水牛城野牛队主场（MLB小联盟球队）",
-      "主体：水牛城野牛队",
-      "具体动作：举办KPOP之夜活动，包含烟花秀和赛前派对"
+      "事件：举办KPOP之夜活动",
+      "活动内容：包含烟花秀和赛前派对"
     ],
-    "summary_zh": "据MLB.com报道，水牛城野牛队将于8月8日举办KPOP之夜活动，届时将有烟花表演和赛前派对。该活动旨在吸引KPOP粉丝，结合棒球比赛与韩国流行文化元素。",
-    "extracted_at": "2026-08-09T16:37:38.761696+08:00"
+    "summary_zh": "据MLB.com报道，水牛城野牛队（Bisons）将于8月8日举办KPOP之夜活动，届时将有烟花秀和赛前派对。该活动旨在吸引KPOP粉丝，结合棒球比赛与韩国流行文化元素。",
+    "extracted_at": "2026-08-09T20:41:33.877357+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -710,18 +813,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Dream Asia Festival登陆哥伦比亚：相扑、K-pop与70+美食摊位",
+    "title_zh": "Dream Asia Festival 登陆哥伦比亚：相扑、K-pop与70多个美食摊位",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：Dream Asia Festival在哥伦比亚举办",
-      "事实点2：活动包含相扑表演",
-      "事实点3：活动包含K-pop相关环节",
-      "事实点4：活动设有70多个美食摊位"
+      "事实点1：Dream Asia Festival 在哥伦比亚举办，活动内容包括相扑、K-pop表演。",
+      "事实点2：活动设有70多个美食摊位。"
     ],
-    "summary_zh": "Dream Asia Festival在哥伦比亚举行，活动内容包括相扑表演、K-pop元素以及超过70个美食摊位，为当地带来亚洲文化体验。",
-    "extracted_at": "2026-08-09T16:37:40.481410+08:00"
+    "summary_zh": "Dream Asia Festival 在哥伦比亚举行，活动融合了相扑、K-pop表演，并设有70多个美食摊位，为当地带来丰富的亚洲文化体验。",
+    "extracted_at": "2026-08-09T20:41:35.671937+08:00"
   },
   {
     "source_id": "asianwiki",
