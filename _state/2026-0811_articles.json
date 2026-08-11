@@ -1,53 +1,388 @@
 [
   {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
+    "source_id": "soompi",
+    "source_name": "Soompi",
     "l1_tab": "韩娱",
-    "title": "Police raid Korea Airports Corp., transport ministry over Jeju Air crash - The Korea Herald",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBMURLOHhydUViX0VBUDhybUdpWWFUNnl2ZGR5NFA4LVJqV0ozemxDaFRoS1dkUUcwSko4ckVpNTVpZFg1c2xwTXJDMDVHVUxXRmFPbGtQTQ?oc=5",
-    "content": "Police raid Korea Airports Corp., transport ministry over Jeju Air crash The Korea Herald",
-    "published_at": "0811google-kpop",
-    "published_ts": 1786410805.0,
+    "title": "Sung Hoon Confirmed To Star In New Romance Drama",
+    "url": "https://www.soompi.com/article/1861892wpp/sung-hoon-confirmed-to-star-in-new-romance-drama",
+    "content": "On August 11, MBN’s upcoming drama “What a Boss Wants” (working title) confirmed the casting of Sung Hoon. Based on a web novel of the same name, “What a Boss Wants” is a romance drama that follows Kwon Do Hyuk, a chaebol boss with zero sense of taste who sets out to find the woman&#8230; Continue reading Sung Hoon Confirmed To Star In New Romance Drama\nThe post Sung Hoon Confirmed To Star In New Romance Drama appeared first on Soompi.",
+    "published_at": "0811soompi",
+    "published_ts": 1786424180.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "韩国警方搜查机场公社和国土交通部，调查济州航空空难",
-    "source_type": "韩娱",
-    "risk_level": "高",
+    "title_zh": "成勋确定出演MBN新剧《老板想要什么》男主角",
+    "source_type": "韩剧",
+    "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：韩国警方对韩国机场公社和国土交通部进行了搜查，针对济州航空空难事件。",
-      "事实点2：搜查行动由韩国警方执行，涉及机构包括韩国机场公社和国土交通部。"
+      "事实点1：8月11日，MBN新剧《老板想要什么》（暂定名）确认成勋出演。",
+      "事实点2：该剧改编自同名网络小说，成勋饰演对味道毫无感觉的财阀老板权道赫，剧情围绕他寻找某位女性展开。"
     ],
-    "summary_zh": "据《韩国先驱报》报道，韩国警方就济州航空空难事件，对韩国机场公社和国土交通部进行了搜查。此次搜查是空难调查的一部分，旨在查明事故原因及相关责任。",
-    "extracted_at": "2026-08-11T09:19:59.924036+08:00"
+    "summary_zh": "8月11日，MBN新剧《老板想要什么》（暂定名）确认成勋出演。该剧改编自同名网络小说，是一部浪漫爱情剧，成勋饰演对味道毫无感觉的财阀老板权道赫，剧情围绕他寻找某位女性展开。",
+    "extracted_at": "2026-08-11T13:03:35.220776+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "Foreigners' credit card spending surges nearly 10-fold in June from 2023 level: report - The Korea Herald",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NMk00LWpWU0ZhLUZhWGJQLTA2SjBib1NSNDlDUk1XWGVDTjluNkNlbHRocDlxY3VqdXNsX081TGxmWXVNMjAxVEluSXhhZTFMOVJwaFlTSQ?oc=5",
-    "content": "Foreigners' credit card spending surges nearly 10-fold in June from 2023 level: report The Korea Herald",
+    "title": "Webtoon buys majority stake in Korean game studio - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HbXNRQ2V3OFpPOFZUTHN6S3kyVW1wUERDZUNjelR3RTk0YjFaTldwREVBdV8tZ0wxVjcwTWlMQzBoSXBpSGRnRjBPOUtXWVZCMEs4eTl1NA?oc=5",
+    "content": "Webtoon buys majority stake in Korean game studio The Korea Herald",
     "published_at": "0811google-kpop",
-    "published_ts": 1786407114.0,
+    "published_ts": 1786423987.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "报告：6月外国游客信用卡消费额较2023年同期激增近10倍",
+    "title_zh": "Webtoon收购韩国游戏工作室多数股权",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "时间：2024年6月",
-      "主体：外国游客",
-      "具体动作：信用卡消费额较2023年同期激增近10倍",
-      "数据来源：韩国先驱报报道"
+      "事实点1：Webtoon收购了韩国一家游戏工作室的多数股权。",
+      "事实点2：该消息由《韩国先驱报》报道。"
     ],
-    "summary_zh": "据韩国先驱报报道，2024年6月外国游客在韩国的信用卡消费额较2023年同期激增近10倍。该数据反映了韩国旅游业的强劲复苏，但报道未提供具体金额或更多细节。",
-    "extracted_at": "2026-08-11T09:20:01.944297+08:00"
+    "summary_zh": "据《韩国先驱报》报道，Webtoon已收购一家韩国游戏工作室的多数股权。具体交易细节未在原文中提及。",
+    "extracted_at": "2026-08-11T13:03:36.928275+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "[Room Tone] The K-paradox - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5SeGN5VmcwMFVBX2xTZjk0dF8wSUduWXJJaVBCYk5lc3BFeklZVGl3S3lUc0w0eFBqd0hOVTJvT20tUDEtTGR5N1lrbWhkMlJqSk9JdU90dw?oc=5",
+    "content": "[Room Tone] The K-paradox The Korea Herald",
+    "published_at": "0811google-kpop",
+    "published_ts": 1786423748.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "韩国媒体评论：K-pop的悖论——全球热潮与国内困境并存",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "事实点1：原文为韩国先驱报专栏文章，标题为《The K-paradox》，讨论K-pop的悖论现象。",
+      "事实点2：原文未提及具体时间、地点、人物或数据，仅以评论形式探讨K-pop的全球影响力与国内问题。"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：韩国先驱报专栏文章《The K-paradox》探讨K-pop的悖论，即全球热潮与国内困境并存。]",
+    "extracted_at": "2026-08-11T13:03:39.114905+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Police raid Transport Ministry, Korea Airports Corp. over Jeju Air crash - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KWVF0VUIwLUVmOGJuVWRhRlEyOUs3NXFUZW1CbjdZMzVWY0VWb0YwdVhGWUNOQnBmY24ySUZfa1owVE1hdFZWczVFN3NqY2Rsamp6cTRKTQ?oc=5",
+    "content": "Police raid Transport Ministry, Korea Airports Corp. over Jeju Air crash The Korea Herald",
+    "published_at": "0811google-kpop",
+    "published_ts": 1786423373.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "警方搜查韩国交通部和机场公社，调查济州航空空难",
+    "source_type": "韩娱",
+    "risk_level": "高",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：韩国警方对韩国交通部和韩国机场公社进行了搜查，针对济州航空空难事件。",
+      "事实点2：搜查行动由韩国警方执行，涉及部门包括交通部和机场公社。"
+    ],
+    "summary_zh": "据韩国先驱报报道，韩国警方对交通部和韩国机场公社进行了搜查，以调查济州航空空难事件。此次搜查是空难调查的一部分，旨在查明事故原因和相关责任。具体搜查细节和结果尚未公布。",
+    "extracted_at": "2026-08-11T13:03:41.172624+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Hanbok models wanted — all ages, pets too - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xV0s2dllrVUNRWTlDUFdueGxybjJWQVA3cFNidHd6S2VtSVYtTFYzdnlPeVQ1VTFUZ1B6OHk2S3hVMEVRZVYtdDJPZ3pOU0VQWFRoWnUzWQ?oc=5",
+    "content": "Hanbok models wanted — all ages, pets too The Korea Herald",
+    "published_at": "0811google-kpop",
+    "published_ts": 1786423362.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "韩国韩服模特招募：不限年龄，宠物也可参加",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：韩国《韩国先驱报》报道，韩服模特招募活动正在进行，招募对象不限年龄，宠物也可参加。"
+    ],
+    "summary_zh": "据《韩国先驱报》报道，韩国正在招募韩服模特，招募条件宽松，不限年龄，甚至宠物也可以参与。该活动旨在推广韩服文化，吸引更多人关注和体验传统服饰。",
+    "extracted_at": "2026-08-11T13:03:43.347741+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Marine says he was forced to train despite muscle breakdown - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE03bkRKeFhESGhwNkdqYl9ESmpCZEpZYjFuRXlkTWFHVHZuOGEwOFV1UlIwZjdBbE9TXzhYTzBwdDV1Tk5Jd1JIOE16cFZxQjcyT0dRdzctZw?oc=5",
+    "content": "Marine says he was forced to train despite muscle breakdown The Korea Herald",
+    "published_at": "0811google-kpop",
+    "published_ts": 1786423325.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "海军陆战队员称肌肉溶解仍被迫训练",
+    "source_type": "韩娱",
+    "risk_level": "高",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：一名海军陆战队员声称，在肌肉溶解的情况下仍被强制要求继续训练。",
+      "事实点2：该报道由The Korea Herald发布，具体时间、地点及涉事人员身份未在原文中明确。"
+    ],
+    "summary_zh": "据The Korea Herald报道，一名海军陆战队员声称，尽管其出现肌肉溶解症状，仍被强制要求继续训练。该事件涉及军事训练中的健康与安全问题，具体细节尚未完全披露。",
+    "extracted_at": "2026-08-11T13:03:45.944301+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Ha Young’s Agency Releases Official Statement Regarding Recent Controversy Over Her Family History",
+    "url": "https://www.soompi.com/article/1861860wpp/ha-youngs-agency-releases-official-statement-regarding-recent-controversy-over-her-family-history",
+    "content": "Actress Ha Young&#8217;s agency has released a new statement regarding the recent controversy surrounding her family history. Ha Young recently appeared on programs such as the KBS2 variety show &#8220;Problem Child in House,&#8221; where she mentioned her family&#8217;s four-generation legacy in the medical field, spanning from her great-grandfather and grandfather to her father and older&#8230; Continue reading Ha Young&#8217;s Agency Releases Official Statement Regarding Recent Controversy Over Her Family History\nThe post Ha Young&#8217;s Agency Releases Official Statement Regarding Recent Controversy Over Her Family History appeared first on Soompi.",
+    "published_at": "0811soompi",
+    "published_ts": 1786416876.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "河英所属社就家族史争议发布官方声明",
+    "source_type": "韩娱",
+    "risk_level": "中",
+    "is_blurred": false,
+    "facts_list": [
+      "河英近期出演KBS2综艺节目《屋塔房的问题儿童们》，提及家族四代从医（曾祖父、祖父、父亲及兄长）",
+      "河英所属社针对其家族史引发的争议发布官方声明"
+    ],
+    "summary_zh": "演员河英的所属社就近期围绕其家族史的争议发布了官方声明。河英近期出演了KBS2综艺节目《屋塔房的问题儿童们》，在节目中提及家族四代从医的背景，从曾祖父、祖父到父亲和兄长。该言论引发争议后，所属社发布声明进行回应。",
+    "extracted_at": "2026-08-11T13:03:48.773263+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "2026 K-World Dream Awards Announces Presenter Lineup",
+    "url": "https://www.soompi.com/article/1861828wpp/2026-k-world-dream-awards-announces-presenter-lineup",
+    "content": "The star-studded lineup of presenters for the 2026 K-World Dream Awards has been unveiled! On August 11, the organizing committee announced that this year’s presenter lineup includes actors Kim Seon Ho, Lee Seol, Lee Chae Min, Jung Ryeo Won, Jung Sung Il, Jin Ki Joo, and Choo Young Woo, along with professional billiards player Kim&#8230; Continue reading 2026 K-World Dream Awards Announces Presenter Lineup\nThe post 2026 K-World Dream Awards Announces Presenter Lineup appeared first on Soompi.",
+    "published_at": "0811soompi",
+    "published_ts": 1786416228.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "2026 K-World Dream Awards公布颁奖嘉宾阵容，金宣虎、郑丽媛等出席",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：8月11日，2026 K-World Dream Awards组织委员会公布颁奖嘉宾阵容。",
+      "事实点2：嘉宾包括演员金宣虎、李雪、李彩玟、郑丽媛、郑成日、陈基周、秋英宇，以及职业台球选手金佳映（暂译）。"
+    ],
+    "summary_zh": "2026 K-World Dream Awards于8月11日公布颁奖嘉宾阵容，包括演员金宣虎、李雪、李彩玟、郑丽媛、郑成日、陈基周、秋英宇，以及职业台球选手金佳映（暂译）。",
+    "extracted_at": "2026-08-11T13:03:51.216957+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "The Boyz members begin forging individual paths - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53M3dSNkF5VjdIQm1MSXk3ZGQ5cllBcUJwcFExeTMzcHVhWHlmUnRGYTJBRHhMZkJqeXhGNXZQZzlMU001Ylp6bEhCTDNXQ3hKNEMtaURmcw?oc=5",
+    "content": "The Boyz members begin forging individual paths The Korea Herald",
+    "published_at": "0811google-kpop",
+    "published_ts": 1786416119.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "The Boyz成员开始各自发展个人事业",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：The Boyz成员开始探索个人发展路径",
+      "事实点2：该报道由The Korea Herald发布"
+    ],
+    "summary_zh": "据The Korea Herald报道，韩国男子组合The Boyz的成员们开始各自发展个人事业，探索不同的领域和机会。报道指出，成员们正在寻求个人成长和多元化发展，但未提及具体成员或具体活动细节。",
+    "extracted_at": "2026-08-11T13:03:53.651282+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "UY, PILIPINS 🇵🇭 K-pop girl group MAMAMOO member Hwasa did not miss out on taking photos around Cubao in Quezon City despite the rain. The K-pop group successfully concluded their '4WARD' concert at the Big Dome on Saturday. (📷: Hwasa/Instagram - facebook.com",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNHRaLUVZLTJjcjd0OEJld01VcElvdEQ5Mlh1SFpBNmswNGRNdlVoRkJSR3d5WThKZUxuWFZORlItazlKNGNCVXNQRU15dG9QaTNhYkdFbVJYNl9sOHNHWGJER2g3d0FYRHRsMXBscWNabjJNWVZuMlFXSE9VT0NJTndDWFZxLTBPdEhoZjZHWjlydDQ1S3lYVjJkVVdyQko4azBjZk1yN3A4c05xM2VLaDRYamVDeTA2dzh2VjdzTUxuLTFoOWxQS3NoaXU3RGpKbkNwcWtKNA?oc=5",
+    "content": "UY, PILIPINS 🇵🇭 K-pop girl group MAMAMOO member Hwasa did not miss out on taking photos around Cubao in Quezon City despite the rain. The K-pop group successfully concluded their '4WARD' concert at the Big Dome on Saturday. (📷: Hwasa/Instagram facebook.com",
+    "published_at": "0811google-kpop",
+    "published_ts": 1786415703.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "MAMAMOO华莎雨中游奎松市，'4WARD'演唱会圆满落幕",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：MAMAMOO成员华莎在菲律宾奎松市库宝区冒雨拍照。",
+      "事实点2：MAMAMOO于周六在菲律宾大圆顶体育馆成功结束'4WARD'演唱会。"
+    ],
+    "summary_zh": "韩国女团MAMAMOO成员华莎在菲律宾奎松市库宝区冒雨拍照留念，尽管下雨也未错过。该组合于周六在菲律宾大圆顶体育馆成功结束了'4WARD'演唱会。照片来源为华莎的Instagram。",
+    "extracted_at": "2026-08-11T13:03:55.903807+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "“My Bias, My Boss” Remains No. 1 With Boost In Ratings",
+    "url": "https://www.soompi.com/article/1861835wpp/my-bias-my-boss-remains-no-1-with-boost-in-ratings",
+    "content": "&#8220;My Bias, My Boss&#8221; has enjoyed a boost in ratings for its third episode! According to Nielsen Korea, episode 3 of tvN&#8217;s &#8220;My Bias, My Boss&#8221; earned an average nationwide viewership rating of 3.9 percent. This is a 0.8 percent boost from its previous episode&#8217;s rating of 3.1 percent. Meanwhile, the August 10 broadcast for&#8230; Continue reading &#8220;My Bias, My Boss&#8221; Remains No. 1 With Boost In Ratings\nThe post &#8220;My Bias, My Boss&#8221; Remains No. 1 With Boost In Ratings appeared first on Soompi.",
+    "published_at": "0811soompi",
+    "published_ts": 1786414830.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《我的偏见，我的老板》收视率升至3.9% 稳居同时段第一",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：据尼尔森韩国数据，tvN《我的偏见，我的老板》第3集全国平均收视率为3.9%。",
+      "事实点2：该收视率较上一集的3.1%上升了0.8个百分点。",
+      "事实点3：该剧在同时段节目中保持收视第一。"
+    ],
+    "summary_zh": "tvN电视剧《我的偏见，我的老板》第3集收视率上升。据尼尔森韩国统计，该集全国平均收视率为3.9%，较上一集的3.1%上涨0.8个百分点，并继续保持同时段收视第一。",
+    "extracted_at": "2026-08-11T13:03:58.335406+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Shinee’s Onew ready for Japanese single, concert - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXMmFFaUNkekJtcVNSS2JERGt1M1EzUEpqV1pnbUVhTTZIT0doRmZpZi15U2RfQXJ4LXRxU1U4d0w3R0xVc1FkQXBweWdfZU05eTRGT3daOA?oc=5",
+    "content": "Shinee’s Onew ready for Japanese single, concert The Korea Herald",
+    "published_at": "0811google-kpop",
+    "published_ts": 1786414367.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "SHINee温流将发行日本单曲并举办演唱会",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：SHINee成员温流将发行日本单曲",
+      "事实点2：温流将举办演唱会"
+    ],
+    "summary_zh": "据韩国先驱报报道，SHINee成员温流准备发行日本单曲，并计划举办演唱会。具体发行日期、曲目及演唱会日程等细节尚未披露。",
+    "extracted_at": "2026-08-11T13:04:00.049863+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Stray Kids’ Changbin Makes Meaningful Donation On His Birthday",
+    "url": "https://www.soompi.com/article/1861834wpp/stray-kids-changbin-makes-meaningful-donation-on-his-birthday",
+    "content": "Stray Kids&#8217; Changbin is celebrating his birthday in a heartwarming way! On August 11, Changbin donated 100 million won (approximately $70,000) to the Samsung Medical Center, with 50 million won (approximately $35,000) each being used to support treatment costs for children and adolescent patients as well as programs providing emotional support for the families of&#8230; Continue reading Stray Kids&#8217; Changbin Makes Meaningful Donation On His Birthday\nThe post Stray Kids&#8217; Changbin Makes Meaningful Donation On His Birthday appeared first on Soompi.",
+    "published_at": "0811soompi",
+    "published_ts": 1786413778.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Stray Kids彰彬生日捐款1亿韩元，支援儿童青少年患者治疗及家属情绪支持",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：8月11日，Stray Kids成员彰彬向三星首尔医院捐款1亿韩元（约7万美元）。",
+      "事实点2：捐款中5000万韩元（约3.5万美元）用于支援儿童及青少年患者的治疗费用，另5000万韩元用于为患者家属提供情绪支持的项目。"
+    ],
+    "summary_zh": "Stray Kids成员彰彬在8月11日生日当天，向三星首尔医院捐赠了1亿韩元（约7万美元）。其中5000万韩元（约3.5万美元）用于支援儿童及青少年患者的治疗费用，另外5000万韩元用于为患者家属提供情绪支持的项目。这一善举展现了他对社会的关怀。",
+    "extracted_at": "2026-08-11T13:04:02.604985+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "BTS fans pack Baltimore for K-pop superstars’ first Maryland show | PHOTOS - Baltimore Sun",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSG55eTJLamRXdFFad0Zoc19RNzUxcExITzdJM2xiYzRfYlFLMjN3U19GWDViSlM1UC1oMzI1UC1ndzZ4ZlRjeVdHVWZ2RmpRTTRvU3Q0aTV0cndPWFduQ2JrcnVsbWIxWjFvendyWU5ZLUt5TnlOVkh5Q2dkdUhsZVVyT2k4REtEZEg0TXFFOXpMQ2VNcEE?oc=5",
+    "content": "BTS fans pack Baltimore for K-pop superstars’ first Maryland show | PHOTOS Baltimore Sun",
+    "published_at": "0811google-kpop",
+    "published_ts": 1786412187.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "BTS粉丝涌入巴尔的摩，K-pop巨星马里兰首秀现场照",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：BTS在巴尔的摩举办首次马里兰州演出，粉丝大量涌入。",
+      "事实点2：演出由《巴尔的摩太阳报》报道，并附有现场照片。"
+    ],
+    "summary_zh": "据《巴尔的摩太阳报》报道，韩国男子组合BTS在巴尔的摩举行了他们在马里兰州的首次演出，吸引了大量粉丝涌入现场。报道中包含了现场照片，展示了粉丝的热情和演出的盛况。",
+    "extracted_at": "2026-08-11T13:04:05.138366+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Babymonster logs 200m views with ‘Drip’ dance video - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBSS3NSc2Myay1CWnN3WWp2cUNBVmhSZTJNX3ZIRFNBZ3ZPUWJVQTd4M0hpNlZMRF9FYzQwRGFRcklidk9rcV8wOVdaSzlVcldQU0poN19ZUQ?oc=5",
+    "content": "Babymonster logs 200m views with ‘Drip’ dance video The Korea Herald",
+    "published_at": "0811google-kpop",
+    "published_ts": 1786411243.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Babymonster《Drip》舞蹈视频播放量突破2亿次",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Babymonster的《Drip》舞蹈视频在YouTube上播放量突破2亿次",
+      "该视频是Babymonster于2024年发布的歌曲《Drip》的舞蹈版"
+    ],
+    "summary_zh": "据The Korea Herald报道，韩国女子组合Babymonster的歌曲《Drip》舞蹈视频在YouTube上的播放量已突破2亿次。这一成绩显示了该组合在全球范围内的高人气。",
+    "extracted_at": "2026-08-11T13:04:07.039741+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "BTS fans pack Baltimore for K-pop superstars’ first Maryland show - Baltimore Sun",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Ybks5Y3NoRWNyZkwyRk4tWlVfS0R4emJzR3d2Ym1yZ3JpOHJnX3M5TERZZXhyS2dIR1pUQ3pqSTdlRHJqQ1lKMURuNlhBdGpDYm5TUWF3dUloX3ktMEJISHFTV3hUby1vNzNLRnM1a1Vmdw?oc=5",
+    "content": "BTS fans pack Baltimore for K-pop superstars’ first Maryland show Baltimore Sun",
+    "published_at": "0811google-kpop",
+    "published_ts": 1786408120.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "BTS粉丝挤爆巴尔的摩，K-pop巨星马里兰首秀",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：BTS在巴尔的摩举行首次马里兰州演出，粉丝蜂拥而至。",
+      "事实点2：演出地点为巴尔的摩，具体场馆未提及。",
+      "事实点3：报道来源为《巴尔的摩太阳报》。"
+    ],
+    "summary_zh": "据《巴尔的摩太阳报》报道，韩国男子组合BTS在巴尔的摩举行了他们在马里兰州的首次演出，吸引了大量粉丝到场，现场气氛热烈。报道未提及具体演出日期、场馆及更多细节。",
+    "extracted_at": "2026-08-11T13:04:09.464243+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -68,10 +403,11 @@
     "is_blurred": false,
     "facts_list": [
       "事实点1：K-pop网红Mina Chan去世，年仅26岁。",
-      "事实点2：去世前曾进行TikTok直播，直播内容引发担忧。"
+      "事实点2：去世前曾进行TikTok直播，直播内容令人担忧。",
+      "事实点3：报道来源为Page Six。"
     ],
     "summary_zh": "据Page Six报道，K-pop网红Mina Chan去世，年仅26岁。她在去世前曾进行TikTok直播，直播内容令人担忧。具体死因及直播细节尚未披露。",
-    "extracted_at": "2026-08-11T09:20:03.944708+08:00"
+    "extracted_at": "2026-08-11T13:04:11.344984+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -86,64 +422,41 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "纽约举办KPop Demon Hunters之夜：洋基棒球赛门票在线购买指南",
+    "title_zh": "纽约洋基队举办K-Pop主题之夜，门票在线开售",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：纽约市将举办KPop Demon Hunters之夜活动",
-      "事实点2：活动与洋基棒球赛相关，提供在线购票指南"
+      "纽约洋基队将举办K-Pop主题之夜活动",
+      "活动地点为纽约洋基体育场",
+      "门票已在网上开售"
     ],
-    "summary_zh": "据Billboard报道，纽约市将举办KPop Demon Hunters之夜活动，该活动与洋基棒球赛相关。文章提供了在线购买洋基棒球赛门票的指南。",
-    "extracted_at": "2026-08-11T09:20:06.032472+08:00"
+    "summary_zh": "纽约洋基队宣布将举办K-Pop主题之夜活动，地点位于纽约洋基体育场。目前，该活动的门票已在网上开售，粉丝可通过官方渠道购买。",
+    "extracted_at": "2026-08-11T13:04:13.468228+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "Boy who starred in Baby Shark YouTube video launches career as K-pop singer - aol.com",
+    "title": "Boy who starred in Baby Shark YouTube video launches career as K-pop singer - AOL.com",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1NTN4YkFIYlkzb0ZzNEdZZm9YR2FLM1pibGttckdneFd3M3FpSmV2REptbzZlbzQzXzhILW5FSEMyNmR4amt1LXlZVWFyMHR6SFFPRHhiT0ZiRGtVemRrQWVGcE05MXYzR1JXcVUxX0Y1elNfUV9uWXJySnJmUkk?oc=5",
-    "content": "Boy who starred in Baby Shark YouTube video launches career as K-pop singer aol.com",
+    "content": "Boy who starred in Baby Shark YouTube video launches career as K-pop singer AOL.com",
     "published_at": "0811google-kpop",
     "published_ts": 1786395454.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《Baby Shark》MV男孩转型K-pop歌手出道",
+    "title_zh": "《Baby Shark》MV小男孩转型K-pop歌手出道",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：该男孩曾出演《Baby Shark》YouTube视频",
-      "事实点2：他现已开启K-pop歌手职业生涯"
+      "事实点1：曾出演《Baby Shark》YouTube视频的男孩，现以K-pop歌手身份出道",
+      "事实点2：该视频在YouTube上爆红，男孩因此获得知名度"
     ],
-    "summary_zh": "曾出演热门儿童歌曲《Baby Shark》YouTube视频的男孩，现已正式开启其K-pop歌手职业生涯。该消息由aol.com报道，但未提供具体出道时间、所属社或作品等细节。",
-    "extracted_at": "2026-08-11T09:20:08.646137+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "K-Pop Influencer Dies During TikTok Live Days After Perez Hilton’s Disturbing Incident - Yahoo",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY1hfRXZCMWFhTXNLd2ttdkQzeExBLS0tajdDZW8xdnhYSlZXVlFYb2c1VmU4NjlEc0ViMVJUZkNTdEFlRXMxYVpkYUZMY09MQmE4NUxXbGluVHgxakNXT0MxZ0xCazhEZmZYckhKMzJLN3dsR3A3cG9vRG1PaTdNVnNpU3U2UGZOS1MtanFR?oc=5",
-    "content": "K-Pop Influencer Dies During TikTok Live Days After Perez Hilton’s Disturbing Incident Yahoo",
-    "published_at": "0811google-kpop",
-    "published_ts": 1786393800.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "K-Pop网红直播中猝死，距佩雷斯·希尔顿事件仅数日",
-    "source_type": "韩娱",
-    "risk_level": "高",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：一位K-Pop网红在TikTok直播过程中死亡",
-      "事实点2：该事件发生在佩雷斯·希尔顿的令人不安的事件之后数日"
-    ],
-    "summary_zh": "据Yahoo报道，一位K-Pop网红在TikTok直播期间去世，此事发生在佩雷斯·希尔顿的令人不安的事件之后仅数日。报道未提供更多细节，如死者身份、具体时间或死亡原因。",
-    "extracted_at": "2026-08-11T09:20:11.079084+08:00"
+    "summary_zh": "曾出演热门儿童歌曲《Baby Shark》YouTube视频的男孩，近日宣布以K-pop歌手身份正式出道。该视频在全球范围内获得巨大成功，男孩因此积累了知名度，如今开启音乐事业新篇章。",
+    "extracted_at": "2026-08-11T13:04:15.719848+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -163,10 +476,11 @@
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "事实点1：文章由Grace Kao撰写，发表于The Korea Herald，主题为BTS对格莱美的回应。"
+      "事实点1：文章由Grace Kao撰写，发表于The Korea Herald",
+      "事实点2：文章标题为“BTS’ reply to the Grammys”，内容涉及BTS对格莱美的回应"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：BTS对格莱美的回应（文章标题）]",
-    "extracted_at": "2026-08-11T09:20:13.504650+08:00"
+    "extracted_at": "2026-08-11T13:04:17.594913+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -181,13 +495,13 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "K-Pop Demon Hunters 相关报道",
+    "title_zh": "K-Pop Demon Hunters WV News",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [],
     "summary_zh": "[原文未提及具体行为，仅称：K-Pop Demon Hunters WV News]",
-    "extracted_at": "2026-08-11T09:20:15.475860+08:00"
+    "extracted_at": "2026-08-11T13:04:19.125025+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -208,10 +522,10 @@
     "is_blurred": false,
     "facts_list": [
       "EJAE在BAFTA颁奖礼表演期间，称莱昂纳多·迪卡普里奥的举动让她分心。",
-      "具体干扰行为未在原文中详细说明。"
+      "该事件发生在BAFTA颁奖礼的表演环节。"
     ],
-    "summary_zh": "KPop组合Demon Hunters成员EJAE在出席BAFTA颁奖礼并表演时，表示莱昂纳多·迪卡普里奥的某个行为让她在表演中分心。但原文未具体说明迪卡普里奥做了什么，也未提及更多细节。",
-    "extracted_at": "2026-08-11T09:20:18.032856+08:00"
+    "summary_zh": "KPop组合Demon Hunters成员EJAE透露，在BAFTA颁奖礼表演时，莱昂纳多·迪卡普里奥的某个行为让她分了心。她未具体说明迪卡普里奥做了什么，但表示这影响了她的表演。",
+    "extracted_at": "2026-08-11T13:04:21.463369+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -232,11 +546,11 @@
     "is_blurred": true,
     "facts_list": [
       "活动名称：Movie Nights In The D – KPOP Demon Hunters",
-      "地点：美国底特律（Detroit）",
-      "主办方：LittleGuide Detroit"
+      "活动地点：底特律（Detroit）",
+      "活动性质：电影之夜活动，与KPOP相关"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：底特律的LittleGuide Detroit将举办一场名为“Movie Nights In The D – KPOP Demon Hunters”的KPOP主题电影之夜活动。]",
-    "extracted_at": "2026-08-11T09:20:20.451879+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：底特律将举办名为“Movie Nights In The D – KPOP Demon Hunters”的KPOP主题电影之夜活动。]",
+    "extracted_at": "2026-08-11T13:04:23.520884+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -251,41 +565,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "aespa谈Lollapalooza音乐节、Lemonade与K-pop偶像现实",
+    "title_zh": "aespa谈Lollapalooza、Lemonade与K-pop偶像现实",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "aespa接受The Fader采访，谈及参加Lollapalooza音乐节的经历",
-      "aespa在采访中提及歌曲Lemonade",
-      "aespa在采访中讨论K-pop偶像的现实"
+      "事实点1：aespa接受The Fader采访，谈及参加Lollapalooza音乐节的经历。",
+      "事实点2：aespa在采访中提及歌曲《Lemonade》。",
+      "事实点3：aespa在采访中讨论了K-pop偶像的现实。"
     ],
-    "summary_zh": "韩国女子组合aespa接受了The Fader的采访，在采访中她们分享了参加Lollapalooza音乐节的感受，提到了歌曲Lemonade，并探讨了作为K-pop偶像的现实。",
-    "extracted_at": "2026-08-11T09:20:23.062155+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "bb.q Chicken Celebrates Partnership with K-pop Star Felix of Stray Kids with Launch of Feel Crunch Chicken in Canada - Chinook Observer",
-    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxON05DSXBvaXFkdnlDQlpNVWpNdkg2NWFPcW9wT2pveExUb2ZXUFJzMm9jaFhEeWlqWnI0ZjBwYkJKQU11X2IxaHViZTl6LVl0TXhDdmxHT3pvbjFXYm5Tck1JYmZEazRteDJteWdQRnB4TDlubW9JU3ZHNnc0WThxNXpiVkpSQ3RaUnVYWmZoUHc0R0RsMXprM2RicEgydU9POHcySi1tOWRqd1RoZ2lKV19vbE1OdldQRHNiWVk4eWx3OFBFSVR5QjdyYWNacnQwWEZHeGVDN3VtaW5SZ1VBYnBKTVhTUkdUVi1iODZqekhIOEVrRE5tWUJ4UTN2elB0eEtDR2RJSWkyRVk?oc=5",
-    "content": "bb.q Chicken Celebrates Partnership with K-pop Star Felix of Stray Kids with Launch of Feel Crunch Chicken in Canada Chinook Observer",
-    "published_at": "0811google-kpop",
-    "published_ts": 1786385624.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "bb.q Chicken携手Stray Kids成员Felix，在加拿大推出Feel Crunch Chicken",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：bb.q Chicken宣布与Stray Kids成员Felix合作，在加拿大推出新品Feel Crunch Chicken。",
-      "事实点2：该合作旨在庆祝双方伙伴关系，具体上市时间和门店信息未在原文中提及。"
-    ],
-    "summary_zh": "bb.q Chicken宣布与韩国男团Stray Kids成员Felix合作，在加拿大市场推出新品Feel Crunch Chicken，以庆祝双方的伙伴关系。原文未提供具体上市日期、价格或销售渠道等细节。",
-    "extracted_at": "2026-08-11T09:20:25.578703+08:00"
+    "summary_zh": "韩国女子组合aespa近日接受The Fader采访，分享了参加Lollapalooza音乐节的感受，并提及了歌曲《Lemonade》。此外，她们还坦诚讨论了作为K-pop偶像的现实，包括训练、生活与公众形象等方面。",
+    "extracted_at": "2026-08-11T13:04:26.002878+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -308,8 +598,8 @@
       "EJAE是《KPop Demon Hunters》的演员",
       "EJAE承认某个BAFTA相关时刻仍让她感到困扰"
     ],
-    "summary_zh": "据Yahoo报道，韩剧《KPop Demon Hunters》的主演EJAE在接受采访时坦言，某个与BAFTA相关的时刻至今仍让她心有余悸。她并未详细说明具体事件，但表示这一经历对她产生了深远影响。",
-    "extracted_at": "2026-08-11T09:20:27.923803+08:00"
+    "summary_zh": "据Yahoo报道，韩剧《KPop Demon Hunters》的主演EJAE在接受采访时坦言，某个与BAFTA相关的时刻至今仍让她心有余悸。她并未详细说明具体事件，但承认这一经历对她产生了持续的影响。",
+    "extracted_at": "2026-08-11T13:04:28.179873+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -330,10 +620,10 @@
     "is_blurred": false,
     "facts_list": [
       "事实点1：Billboard报道一款K-Pop主题马克杯，具有变色功能。",
-      "事实点2：该马克杯在加入热水后，会显现出隐藏的角色图案。"
+      "事实点2：该马克杯在加入热水后，会显现隐藏角色，主题为“KPop Demon Hunters”。"
     ],
-    "summary_zh": "据Billboard报道，一款名为“K-Pop恶魔猎人”的马克杯具有变色功能，当加入热水时，杯身会显现出隐藏的角色图案。该产品结合了K-Pop元素与趣味设计，吸引了粉丝关注。",
-    "extracted_at": "2026-08-11T09:20:30.337236+08:00"
+    "summary_zh": "据Billboard报道，一款名为“KPop Demon Hunters”的变色马克杯在加入热水后会显现隐藏角色。该产品结合了K-Pop元素与变色技术，为粉丝提供互动体验。",
+    "extracted_at": "2026-08-11T13:04:30.587342+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -356,10 +646,10 @@
       "时间：演唱会前夕",
       "地点：美国巴尔的摩M&T银行体育场",
       "主体：BTS粉丝团（ARMY）",
-      "动作：提前聚集，形成粉丝文化现象"
+      "动作：提前聚集，形成粉丝活动热潮"
     ],
-    "summary_zh": "据CBS新闻报道，在韩国男团BTS于美国巴尔的摩M&T银行体育场举行演唱会前夕，其粉丝团ARMY已提前占领该城市，形成大规模聚集。报道描述了粉丝们对演唱会的期待和热情，以及他们对城市氛围的影响。",
-    "extracted_at": "2026-08-11T09:20:32.881351+08:00"
+    "summary_zh": "据CBS新闻报道，在韩国男团BTS于美国巴尔的摩M&T银行体育场举行演唱会前夕，其粉丝团ARMY已提前占领该城市，形成大规模粉丝聚集活动。报道未提及具体人数或活动细节，但强调了粉丝团对城市的影响。",
+    "extracted_at": "2026-08-11T13:04:32.996646+08:00"
   },
   {
     "source_id": "asianwiki",
