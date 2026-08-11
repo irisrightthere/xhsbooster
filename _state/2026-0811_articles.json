@@ -1,5 +1,302 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Here’s Where to Buy New York Mets Tickets for ‘KPop Demon Hunters’ Night Online - Billboard",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbWk5TVkwa19MU3RVUFJQVlZtdTJjM3F6bkRCbUNmNDF5TjRYcDJWSnZJX3hYQUtWVlRVTHJyQjhIQVNJVUJPbUNGR2pnU3B6VVN6ZjkxajRfT01Zd2EwbFAxMzN2b3o4bzNyNVNUYUN4SFAyVVllZmFFbjN2cG9HaWRjZ3ZJN2pzc0FXU01aTmVaM2xnZHhlS3Z6WnpGY05odjRWMHZqbDcxREJJTGp1U2VOUEhBcF9EZG1YNUlVUG8weUEzSGdvVVFiaUw?oc=5",
+    "content": "Here’s Where to Buy New York Mets Tickets for ‘KPop Demon Hunters’ Night Online Billboard",
+    "published_at": "0811google-kpop",
+    "published_ts": 1786451828.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "纽约大都会队推出K-Pop主题之夜，门票在线开售",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "纽约大都会队（New York Mets）将举办名为'KPop Demon Hunters'的主题之夜活动。",
+      "该活动的门票已可在网上购买，具体购买渠道为Billboard网站提供的链接。"
+    ],
+    "summary_zh": "据Billboard报道，纽约大都会队（New York Mets）将举办一场名为'KPop Demon Hunters'的主题之夜活动，该活动与K-pop相关。目前，该活动的门票已开始在线销售，球迷可通过Billboard网站提供的链接进行购买。",
+    "extracted_at": "2026-08-11T20:54:17.356955+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Ahn Bo Hyun, Claudia Kim, And More Set Out To Retrieve A “Sacred Jewel” Amid A Brutal War In New Historical Drama",
+    "url": "https://www.soompi.com/article/1861904wpp/watch-ahn-bo-hyun-claudia-kim-and-more-set-out-to-retrieve-a-sacred-jewel-amid-a-brutal-war-in-new-historical-drama",
+    "content": "Upcoming drama “Sacred Jewel” has released its first teaser! “Sacred Jewel” is set in the year 1258 during the Goryeo Dynasty, when the kingdom is on the brink of defeat after 30 years of war with Mongolia. The story follows the heroic fight of an expedition unit that sets out onto the battlefield in search&#8230; Continue reading Watch: Ahn Bo Hyun, Claudia Kim, And More Set Out To Retrieve A “Sacred Jewel” Amid A Brutal War In New Historical Drama\nThe post Watch: Ahn Bo Hyun, Claudia Kim, And More Set Out To Retrieve A “Sacred Jewel” Amid A Brutal War In New Historical Drama appeared first on Soompi.",
+    "published_at": "0811soompi",
+    "published_ts": 1786449419.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "安普贤、金秀贤等主演新古装剧《圣珠》首发预告，战火中寻回圣珠",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：新剧《圣珠》发布首支预告片",
+      "事实点2：该剧背景设定在1258年高丽王朝，与蒙古战争30年后王国濒临败亡",
+      "事实点3：剧情讲述远征部队在战场上寻找圣珠的英勇斗争",
+      "事实点4：主演包括安普贤、金秀贤（Claudia Kim）等"
+    ],
+    "summary_zh": "新古装剧《圣珠》公开首支预告。该剧以1258年高丽王朝为背景，当时高丽与蒙古交战30年，王国濒临灭亡。故事讲述一支远征部队在战场上寻找“圣珠”的英勇斗争。主演包括安普贤、金秀贤（Claudia Kim）等。",
+    "extracted_at": "2026-08-11T20:54:20.174553+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Byun Yo Han, Roh Jae Won, Jo Woo Jin, Yoon Kyung Ho, And More Dive Into The World Of Gambling In “Tazza 4”",
+    "url": "https://www.soompi.com/article/1861872wpp/byun-yo-han-roh-jae-won-jo-woo-jin-yoon-kyung-ho-and-more-dive-into-the-world-of-gambling-in-tazza-4",
+    "content": "Upcoming film “Tazza 4: The Song of Beelzebub” (working title) has unveiled new stills featuring its cast! Returning with a new chapter after six years, “Tazza 4: The Song of Beelzebub” follows Jang Tae Young (Byun Yo Han), who thought he had everything after building a thriving online casino empire, until his best friend Park&#8230; Continue reading Byun Yo Han, Roh Jae Won, Jo Woo Jin, Yoon Kyung Ho, And More Dive Into The World Of Gambling In “Tazza 4”\nThe post Byun Yo Han, Roh Jae Won, Jo Woo Jin, Yoon Kyung Ho, And More Dive Into The World Of Gambling In “Tazza 4” appeared first on Soompi.",
+    "published_at": "0811soompi",
+    "published_ts": 1786448614.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《老千4》公开新剧照：卞约汉、卢在元、赵宇镇、尹敬浩等深陷赌博世界",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "电影《老千4：别西卜之歌》（暂定名）公开新剧照，主演包括卞约汉、卢在元、赵宇镇、尹敬浩等。",
+      "该片为《老千》系列时隔六年的新篇章，讲述卞约汉饰演的张泰英在建立蓬勃发展的在线赌场帝国后，认为拥有一切，直到他最好的朋友朴某（暂译）出现变故。"
+    ],
+    "summary_zh": "电影《老千4：别西卜之歌》（暂定名）公开新剧照，主演卞约汉、卢在元、赵宇镇、尹敬浩等亮相。该片是《老千》系列时隔六年的新作，讲述卞约汉饰演的张泰英在建立在线赌场帝国后，自认拥有一切，直到挚友朴某（暂译）的出现打破一切。",
+    "extracted_at": "2026-08-11T20:54:23.648305+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Lee Dong Wook, Kim Hye Jun, And Squad Enjoy Rare Moments Of Peace In “A Shop For Killers 2”",
+    "url": "https://www.soompi.com/article/1862069wpp/lee-dong-wook-kim-hye-jun-and-squad-enjoy-rare-moments-of-peace-in-a-shop-for-killers-2",
+    "content": "Disney+ original series “A Shop for Killers 2” has unveiled heartwarming new stills of the Murthehelp team! Based on a novel by “The Killer’s Shopping List” author Kang Ji Young, “A Shop for Killers” is an action drama that follows Jeong Ji An (Kim Hye Jun), who moves in with her uncle Jeong Jin Man&#8230; Continue reading Lee Dong Wook, Kim Hye Jun, And Squad Enjoy Rare Moments Of Peace In “A Shop For Killers 2”\nThe post Lee Dong Wook, Kim Hye Jun, And Squad Enjoy Rare Moments Of Peace In “A Shop For Killers 2” appeared first on Soompi.",
+    "published_at": "0811soompi",
+    "published_ts": 1786448217.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《杀人者的购物中心2》公开新剧照，李栋旭金慧埈等享受难得平静时光",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：Disney+原创剧集《杀人者的购物中心2》公开新剧照，展示Murthehelp团队享受平静时刻。",
+      "事实点2：该剧改编自《杀人者的购物清单》作者姜智英的小说，由金慧埈饰演郑智安，与叔叔郑镇万（李栋旭饰）同住。"
+    ],
+    "summary_zh": "Disney+原创剧集《杀人者的购物中心2》公开了温馨新剧照，Murthehelp团队享受难得的平静时光。该剧改编自姜智英的小说，是一部动作剧，讲述金慧埈饰演的郑智安搬去与叔叔郑镇万同住后发生的故事。",
+    "extracted_at": "2026-08-11T20:54:26.498301+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-pop fans swarm Downtown Baltimore - Baltimore Fishbowl",
+    "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNb19UVkFYMW1pUkswbHlxSW1FZUxkcDRVWE1Ec3A3LVEyQ2tyVU15Y05pR0VwM0FPVFMyX1RHWmJId0dKUWhwdTdkT1pISk5qTERNQXVkVEMtbnYxM1g1NHN0X2pMTTVSbDk5VjJ4d05pU09qOGctd3E0Ni11eGdEanBwMk9DRHBsaEhQY3NRVVVMd05tNnJEVkM3X1FFWjFEbTRvOXMzbmFHRWotSnJUMWNLdWM0WURra3hHNVNUOUlwLXVkSzlHYWk0RW0tZ1R2ZEdiWDJRZDg2ei1WcmVCdngwLXcwRk1IY1JPemR2RVZGalB5aHBTY21PdmRCQzczdjJKQkY3NHZpSHJCdG9HVzlkWkp4UjFsbGJKb2wxMngyZw?oc=5",
+    "content": "K-pop fans swarm Downtown Baltimore Baltimore Fishbowl",
+    "published_at": "0811google-kpop",
+    "published_ts": 1786447800.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "K-pop粉丝涌入巴尔的摩市中心",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：K-pop粉丝聚集在美国巴尔的摩市中心",
+      "事实点2：该事件由Baltimore Fishbowl报道"
+    ],
+    "summary_zh": "据Baltimore Fishbowl报道，K-pop粉丝涌入美国巴尔的摩市中心，形成大规模聚集。报道未提及具体活动名称、时间或参与人数，仅描述了粉丝聚集的现象。",
+    "extracted_at": "2026-08-11T20:54:28.391556+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kim Min Ho, Kim Dong Jun, Lee Won Jung, And More Gear Up For A New Chapter In “New Recruit 4” Poster",
+    "url": "https://www.soompi.com/article/1861901wpp/kim-min-ho-kim-dong-jun-lee-won-jung-and-more-gear-up-for-a-new-chapter-in-new-recruit-4-poster",
+    "content": "“New Recruit 4” has unveiled a new poster! Based on the hit animation of the same name, “New Recruit” is a black comedy drama that explores the lives of young adults in their 20s, delving into the culture, secrets, and absurdities of South Korea’s military. Season 4 will depict the second half of Park Min&#8230; Continue reading Kim Min Ho, Kim Dong Jun, Lee Won Jung, And More Gear Up For A New Chapter In “New Recruit 4” Poster\nThe post Kim Min Ho, Kim Dong Jun, Lee Won Jung, And More Gear Up For A New Chapter In “New Recruit 4” Poster appeared first on Soompi.",
+    "published_at": "0811soompi",
+    "published_ts": 1786445731.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《新兵4》公开新海报，金敏浩、金东俊、李元贞等开启新篇章",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "《新兵4》公开了新海报。",
+      "该剧改编自同名热门动画，是一部黑色喜剧，讲述韩国军队中20多岁年轻人的文化、秘密和荒诞。",
+      "第四季将描绘朴敏浩（暂译）角色的后半部分故事。",
+      "金敏浩、金东俊、李元贞等演员将出演。"
+    ],
+    "summary_zh": "《新兵4》公开了新海报，该剧改编自同名热门动画，是一部黑色喜剧，深入探讨韩国军队中20多岁年轻人的文化、秘密和荒诞。第四季将描绘朴敏浩（暂译）角色的后半部分故事，金敏浩、金东俊、李元贞等演员将出演，共同开启新篇章。",
+    "extracted_at": "2026-08-11T20:54:31.009207+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: KISS OF LIFE Takes 1st Win For “SWEAT” On “The Show”",
+    "url": "https://www.soompi.com/article/1862065wpp/watch-kiss-of-life-takes-1st-win-for-sweat-on-the-show",
+    "content": "KISS OF LIFE has won their first music show trophy for “SWEAT”! On the August 11 episode of “The Show,” the candidates for first place were ARTMS&#8217;s &#8220;Born Stunner,&#8221; KISS OF LIFE&#8217;s &#8220;SWEAT,&#8221; and POW&#8217;s &#8220;Flavor.&#8221; KISS OF LIFE ultimately took home the win with 8,868 points. Congratulations to KISS OF LIFE! Watch their win and&#8230; Continue reading Watch: KISS OF LIFE Takes 1st Win For “SWEAT” On &#8220;The Show&#8221;\nThe post Watch: KISS OF LIFE Takes 1st Win For “SWEAT” On &#8220;The Show&#8221; appeared first on Soompi.",
+    "published_at": "0811soompi",
+    "published_ts": 1786444716.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "KISS OF LIFE凭《SWEAT》获《The Show》首个音乐节目冠军",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "时间：8月11日",
+      "地点：音乐节目《The Show》",
+      "候选组合：ARTMS《Born Stunner》、KISS OF LIFE《SWEAT》、POW《Flavor》",
+      "KISS OF LIFE以8,868分获得第一名"
+    ],
+    "summary_zh": "在8月11日播出的音乐节目《The Show》中，KISS OF LIFE凭借歌曲《SWEAT》以8,868分的成绩击败了ARTMS的《Born Stunner》和POW的《Flavor》，获得了他们的首个音乐节目冠军。",
+    "extracted_at": "2026-08-11T20:54:32.987343+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-pop influencer’s sister speaks out after she dies by suicide on TikTok live after bullying - The Tab",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMHBPUEt3a0VhbVpERmctbUQ2R0lFNmljbmtDa2RSblo3OE5hUVVCLUZBX0NpV3FVZUtYUGEwMV9Vb25OVzVROWQ0bnRIejl3akZmdThSMml6SzczV1NUX3Z5SE5KcE5wNXI5UHAtUjhUSV9RbG5tZld3V1Bta0oxX0htZVJOOVRYcUFVZFJiZ3FoRFNGX2I0UVVsbWhtQXloMjBRQm5wUlN6Y2JVcG5UYUc4ZVluVVZlemFDZTRn?oc=5",
+    "content": "K-pop influencer’s sister speaks out after she dies by suicide on TikTok live after bullying The Tab",
+    "published_at": "0811google-kpop",
+    "published_ts": 1786444714.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "K-pop网红直播中自杀身亡，其姐发声回应霸凌事件",
+    "source_type": "韩娱",
+    "risk_level": "高",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：K-pop网红在TikTok直播中自杀身亡",
+      "事实点2：该网红生前曾遭受霸凌",
+      "事实点3：其姐姐在事件发生后公开发声"
+    ],
+    "summary_zh": "据The Tab报道，一名K-pop网红在TikTok直播中自杀身亡，此前她曾遭受霸凌。事件发生后，她的姐姐公开发声回应。具体霸凌细节、直播时间、地点等未在原文中提及。",
+    "extracted_at": "2026-08-11T20:54:34.958327+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Woo Do Hwan Is Torn Between His Brother Hyun Bin And His Own Principles In “Made In Korea 2”",
+    "url": "https://www.soompi.com/article/1861994wpp/woo-do-hwan-is-torn-between-his-brother-hyun-bin-and-his-own-principles-in-made-in-korea-2",
+    "content": "Season 2 of the Disney+ original series “Made in Korea” has released new stills of Woo Do Hwan’s in character! The first season of “Made in Korea” followed Baek Ki Tae (Hyun Bin), a man driven by ambition for wealth and power, and prosecutor Jang Geon Young (Jung Woo Sung), who sacrificed everything to stop&#8230; Continue reading Woo Do Hwan Is Torn Between His Brother Hyun Bin And His Own Principles In “Made In Korea 2”\nThe post Woo Do Hwan Is Torn Between His Brother Hyun Bin And His Own Principles In “Made In Korea 2” appeared first on Soompi.",
+    "published_at": "0811soompi",
+    "published_ts": 1786443112.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《韩国制造2》剧照：都暻秀在兄弟玄彬与个人原则间挣扎",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：Disney+原创剧集《韩国制造》第二季公开了都暻秀（Woo Do Hwan）的角色新剧照。",
+      "事实点2：第一季剧情围绕玄彬饰演的白基泰（Baek Ki Tae）追求财富与权力的野心，以及郑雨盛饰演的检察官张建英（Jang Geon Young）为阻止他而牺牲一切的故事展开。"
+    ],
+    "summary_zh": "Disney+原创剧集《韩国制造》第二季公开了都暻秀的新剧照，展现其角色在兄弟玄彬与个人原则之间的挣扎。第一季讲述了玄彬饰演的白基泰为财富和权力而奋斗，以及郑雨盛饰演的检察官张建英为阻止他而牺牲一切的故事。",
+    "extracted_at": "2026-08-11T20:54:37.785148+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Jinro Green Grape goes K-pop - The Spirits Business",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1sTzRDTDl4NkNhSzFSdzBlUWJRY2hXLWd4OURRMms5WElnS2F1d1hFX2p5VUNGRkppSzFKcnFCY0VLRWVUTm5PUl94eHBtUnNObVJ1ZlpVdWo4WThnbjJTMGIyblBjYWtVVVZCNHpIekdodUczYXlmLXRSa1U?oc=5",
+    "content": "Jinro Green Grape goes K-pop The Spirits Business",
+    "published_at": "0811google-kpop",
+    "published_ts": 1786441408.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "真露青葡萄烧酒跨界K-pop，推出联名营销活动",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：真露青葡萄烧酒（Jinro Green Grape）与K-pop展开合作，推出联名营销活动。",
+      "事实点2：该活动由《The Spirits Business》报道，具体合作对象和活动细节未在原文中提及。"
+    ],
+    "summary_zh": "据《The Spirits Business》报道，真露青葡萄烧酒（Jinro Green Grape）宣布与K-pop进行跨界合作，推出联名营销活动。报道未透露具体合作艺人或活动细节，但表明该品牌正借助K-pop文化扩大市场影响力。",
+    "extracted_at": "2026-08-11T20:54:39.803483+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Uhm Jung Hwa, Park Sung Woong, Sooyoung, And More Reveal Distinct Personalities In New Film “OK! Madam: Bon Voyage” Posters",
+    "url": "https://www.soompi.com/article/1861800wpp/uhm-jung-hwa-park-sung-woong-sooyoung-and-more-reveal-distinct-personalities-in-new-film-ok-madam-bon-voyage-posters",
+    "content": "“OK! Madam: Bon Voyage” has revealed a new set of character posters! A sequel to the 2020 hit movie “Okay! Madam,” “OK! Madam: Bon Voyage” once again follows Mi Young (Uhm Jung Hwa) and her family as their luxury cruise vacation takes a dangerous turn when the ship is hijacked in the middle of the&#8230; Continue reading Uhm Jung Hwa, Park Sung Woong, Sooyoung, And More Reveal Distinct Personalities In New Film “OK! Madam: Bon Voyage” Posters\nThe post Uhm Jung Hwa, Park Sung Woong, Sooyoung, And More Reveal Distinct Personalities In New Film “OK! Madam: Bon Voyage” Posters appeared first on Soompi.",
+    "published_at": "0811soompi",
+    "published_ts": 1786439592.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "严正化、朴星雄、秀英等新片《OK! Madam: Bon Voyage》角色海报公开，展现鲜明个性",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：电影《OK! Madam: Bon Voyage》公开了一组新的角色海报。",
+      "事实点2：该片是2020年热门电影《Okay! Madam》的续集，由严正化、朴星雄、秀英等主演。",
+      "事实点3：剧情讲述美英（严正化饰）一家在豪华游轮度假时，游轮被劫持，度假陷入危险。"
+    ],
+    "summary_zh": "电影《OK! Madam: Bon Voyage》公开了新角色海报，展现了主演们的鲜明个性。该片是2020年热门电影《Okay! Madam》的续集，由严正化、朴星雄、秀英等主演，讲述美英一家在豪华游轮度假时遭遇劫持，度假之旅陷入危险的故事。",
+    "extracted_at": "2026-08-11T20:54:42.663838+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "4 Reasons Why Japanese BL Drama “Your Summer, My Storm” Is The Perfect Summer Watch",
+    "url": "https://www.soompi.com/article/1861225wpp/4-reasons-why-japanese-bl-drama-your-summer-my-storm-is-the-perfect-summer-watch",
+    "content": "Summer is supposed to be a carefree time, but for Takemiya Natsuki (Fukada Ryusei), it couldn’t have come at a worse moment. With a breakup behind him, disappointing exam results, and an uncertain future ahead, Natsuki finds himself struggling to figure out what comes next. Things take an unexpected turn when his older sister asks&#8230; Continue reading 4 Reasons Why Japanese BL Drama “Your Summer, My Storm” Is The Perfect Summer Watch\nThe post 4 Reasons Why Japanese BL Drama “Your Summer, My Storm” Is The Perfect Summer Watch appeared first on Soompi.",
+    "published_at": "0811soompi",
+    "published_ts": 1786439468.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "日剧《你的夏天，我的风暴》成夏日必看BL剧的4大理由",
+    "source_type": "日剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：该剧为日本BL剧，剧名《Your Summer, My Storm》（暂译：你的夏天，我的风暴）",
+      "事实点2：主角为Takemiya Natsuki（Fukada Ryusei饰），剧情设定在夏天，涉及分手、考试失利和未来迷茫",
+      "事实点3：文章列出4个理由推荐该剧作为夏日观看选择"
+    ],
+    "summary_zh": "日剧《你的夏天，我的风暴》被推荐为夏日必看BL剧。主角Takemiya Natsuki（Fukada Ryusei饰）在夏天经历分手、考试失利和未来迷茫，剧情围绕他的生活转折展开。文章给出4个理由，强调该剧适合夏日观看，但具体理由未在摘要中详述。",
+    "extracted_at": "2026-08-11T20:54:45.436651+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -12,17 +309,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "安恩真新剧《他人的爱情》饰演电影导演，为事业挣扎前行",
+    "title_zh": "安恩真新剧《不是你的爱》饰演电影导演，为事业奋斗",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：KBS2新剧《他人的爱情》发布安恩真新剧照",
-      "事实点2：该剧讲述一对交往10年的情侣在熟悉的关系中经历意外情感变化的现实浪漫剧",
-      "事实点3：安恩真在剧中饰演李美（暂译），为推进电影导演事业而挣扎"
+      "KBS2新剧《不是你的爱》公开安恩真新剧照",
+      "该剧讲述交往10年的情侣经历情感变化的现实爱情故事",
+      "安恩真饰演电影导演李美（暂译）"
     ],
-    "summary_zh": "KBS2新剧《他人的爱情》公开了安恩真的新剧照。该剧是一部现实浪漫剧，讲述交往10年的情侣在熟悉的关系中经历意外情感变化的故事。安恩真饰演李美（暂译），她为推进电影导演事业而挣扎。",
-    "extracted_at": "2026-08-11T16:49:28.036648+08:00"
+    "summary_zh": "KBS2新剧《不是你的爱》公开了安恩真的新剧照。该剧是一部现实爱情剧，讲述交往10年的情侣在熟悉的关系中经历意想不到的情感变化。安恩真在剧中饰演电影导演李美（暂译），她为事业发展而奋斗。",
+    "extracted_at": "2026-08-11T20:54:47.674803+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -42,82 +339,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：MAMAMOO成员华莎在菲律宾奎松市库宝区冒雨拍照。",
-      "事实点2：MAMAMOO于周六在菲律宾Big Dome（阿拉内塔体育馆）成功结束'4WARD'演唱会。"
+      "事实点1：MAMAMOO成员华莎在雨中于菲律宾奎松市库宝区拍照。",
+      "事实点2：MAMAMOO于周六在菲律宾大圆顶体育馆成功结束'4WARD'演唱会。"
     ],
-    "summary_zh": "韩国女团MAMAMOO成员华莎在菲律宾奎松市库宝区冒雨拍照，并分享至Instagram。此前，MAMAMOO于周六在菲律宾Big Dome（阿拉内塔体育馆）成功举办了'4WARD'演唱会，为当地粉丝带来精彩演出。",
-    "extracted_at": "2026-08-11T16:49:30.244258+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Yang Min-hyeok set for 4th loan since joining Tottenham - The Korea Herald",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZWTZ1cGxHd3NsREJxY0gyZ3U5RlZBdTRpZWhfQlNXZG9GU3lad1JyLTRKXzE2MEx2SjJncXBwaWJQVjI5Z0RXMEhwVGhXQTdCcGFPdzBTaw?oc=5",
-    "content": "Yang Min-hyeok set for 4th loan since joining Tottenham The Korea Herald",
-    "published_at": "0811google-kpop",
-    "published_ts": 1786436449.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "杨敏赫将迎来加盟热刺后第4次外租",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：杨敏赫自加盟热刺以来，即将迎来第4次外租。",
-      "事实点2：该消息由韩国媒体《韩国先驱报》报道。"
-    ],
-    "summary_zh": "据《韩国先驱报》报道，韩国球员杨敏赫在加盟托特纳姆热刺后，即将迎来他的第4次外租。这一消息表明，杨敏赫在热刺的生涯中多次被外租以获取比赛经验，但具体外租目的地和期限尚未披露。",
-    "extracted_at": "2026-08-11T16:49:32.324114+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "S. Korea reaches round of 16 at U-17 Women's Volleyball World Championship - The Korea Herald",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10aWFaRFR2M3VmVmZ6bjlKTE5fWUs4Vi1HR2pjdk9TZkNqem55cXJ5eGZUZFJuR2NPNS1aektydjY0OGNtdVdCOHUyOG4yc0JIZVp4MXdiQQ?oc=5",
-    "content": "S. Korea reaches round of 16 at U-17 Women's Volleyball World Championship The Korea Herald",
-    "published_at": "0811google-kpop",
-    "published_ts": 1786436435.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "韩国U17女排世锦赛晋级16强",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：韩国U17女子排球队在U17女排世锦赛中晋级16强。",
-      "事实点2：该消息由The Korea Herald报道。"
-    ],
-    "summary_zh": "据The Korea Herald报道，韩国U17女子排球队在U17女排世锦赛中成功晋级16强。",
-    "extracted_at": "2026-08-11T16:49:33.938231+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "MLB Postseason to begin on Sept. 30 - The Korea Herald",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2OTlnanh2VGJEdHltdFdYS0ZtRkFXOUgxRkhiMVg1QmxqRG1kVVB3VXpydkRscV9ZbVNEZXAzVFhjN043T3IxT2p0YU5vbXNuLVBzUnh1aw?oc=5",
-    "content": "MLB Postseason to begin on Sept. 30 The Korea Herald",
-    "published_at": "0811google-kpop",
-    "published_ts": 1786436421.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "MLB季后赛将于9月30日开赛",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "MLB季后赛定于9月30日开始"
-    ],
-    "summary_zh": "据韩国先驱报报道，美国职棒大联盟（MLB）季后赛将于9月30日开始。",
-    "extracted_at": "2026-08-11T16:49:35.161279+08:00"
+    "summary_zh": "MAMAMOO成员华莎在菲律宾奎松市库宝区冒雨拍照，展现亲民魅力。此前，MAMAMOO于周六在菲律宾大圆顶体育馆成功举办了'4WARD'演唱会，为当地粉丝带来精彩表演。",
+    "extracted_at": "2026-08-11T20:54:50.132091+08:00"
   },
   {
     "source_id": "soompi",
@@ -141,7 +367,7 @@
       "该剧改编自网络漫画，讲述为见偶像而入社的南多林与公司代表李灿之间的浪漫故事。"
     ],
     "summary_zh": "tvN剧集《我的偶像老板》公开新剧照，显示金惠奫饰演的南多林探访其偶像车玗玧饰演的李灿的家。该剧改编自网络漫画，讲述为见偶像而入社的南多林与公司代表李灿之间的浪漫故事。",
-    "extracted_at": "2026-08-11T16:49:37.460049+08:00"
+    "extracted_at": "2026-08-11T20:54:53.035226+08:00"
   },
   {
     "source_id": "soompi",
@@ -156,16 +382,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "黄寅烨举行记者会，惠利担忧不已，《梦到你》公开新剧照",
+    "title_zh": "黄仁烨在《梦到你》中举行记者会，惠利担忧不已",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "ENA剧集《梦到你》公开新剧照，显示黄寅烨饰演的导演禹秀彬举行记者会，惠利饰演的记者朱伊在旁担忧。",
-      "该剧为浪漫喜剧，讲述实现梦想后回归的天才导演禹秀彬与忘记梦想的记者朱伊在重逢的故事。"
+      "ENA剧集《梦到你》公开新剧照，显示黄仁烨饰演的导演禹秀彬举行记者会",
+      "惠利饰演的记者朱伊在记者会上显得担忧"
     ],
-    "summary_zh": "ENA剧集《梦到你》公开新剧照，显示黄寅烨饰演的导演禹秀彬举行记者会，惠利饰演的记者朱伊在旁担忧。该剧为浪漫喜剧，讲述实现梦想后回归的天才导演禹秀彬与忘记梦想的记者朱伊在重逢的故事。",
-    "extracted_at": "2026-08-11T16:49:39.506826+08:00"
+    "summary_zh": "ENA剧集《梦到你》公开了新剧照，显示黄仁烨饰演的天才导演禹秀彬在实现梦想后回归，并举行记者会，而惠利饰演的记者朱伊在记者会上显得担忧。该剧是一部浪漫喜剧，讲述禹秀彬与忘记自己梦想的记者朱伊重逢的故事。",
+    "extracted_at": "2026-08-11T20:54:55.096601+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -188,8 +414,8 @@
       "事实点1：Blackpink于2023年迎来出道10周年，但庆典活动筹备困难。",
       "事实点2：文章由The Korea Herald发布，探讨了筹备过程中的挑战。"
     ],
-    "summary_zh": "据The Korea Herald报道，Blackpink的10周年庆典筹备面临诸多困难。文章分析了可能的原因，包括成员个人活动与团体活动的平衡、合约问题等，但未提供具体细节。",
-    "extracted_at": "2026-08-11T16:49:41.280573+08:00"
+    "summary_zh": "据The Korea Herald报道，Blackpink的10周年庆典筹备面临诸多困难。文章未具体说明困难细节，但指出这一里程碑式的庆祝活动难以实现。",
+    "extracted_at": "2026-08-11T20:54:57.419532+08:00"
   },
   {
     "source_id": "soompi",
@@ -209,36 +435,36 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "电影《庆州之旅》公开了卞约汉的角色新剧照。",
-      "该片是一部家庭复仇电影，讲述母亲和三个女儿在等待八年后，为从未从学校郊游归来的小女儿庆州踏上‘杀手’之旅的故事。",
-      "剧情中，卞约汉饰演的角色在出狱后立即被绑架。"
+      "电影《庆州之旅》公开了卞约汉的角色新剧照",
+      "该片是一部家庭复仇电影，讲述母亲和三个女儿在等待八年后，为从未从学校郊游归来的小女儿庆州展开一场“杀手”之旅",
+      "剧情中，卞约汉饰演的角色在出狱后立即被绑架"
     ],
-    "summary_zh": "电影《庆州之旅》公开了卞约汉的新剧照。该片是一部家庭复仇电影，讲述母亲和三个女儿在等待八年后，为从未从学校郊游归来的小女儿庆州踏上‘杀手’之旅的故事。剧照显示，卞约汉饰演的角色在出狱后立即被绑架。",
-    "extracted_at": "2026-08-11T16:49:43.412548+08:00"
+    "summary_zh": "电影《庆州之旅》公开了卞约汉的新剧照。该片是一部家庭复仇电影，讲述母亲和三个女儿在等待八年后，为从未从学校郊游归来的小女儿庆州展开一场“杀手”之旅。在剧情中，卞约汉饰演的角色在出狱后立即被绑架。",
+    "extracted_at": "2026-08-11T20:54:59.753511+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "EVAN to take creative leadership in fresh artistic journey with debut mini-album DEATH OF ME - t2ONLINE",
+    "title": "EVAN: K-pop Soloist Set to Drop Debut Mini-Album | EVAN DEATH OF ME - t2ONLINE",
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVWNHcUZDV1Awajh2cko0Qno1cE5neFhadWt0Nl9nTVhOLUFBV2VaQnRCLUFOZXMzZDV2clItM2d0bkVMSVRZQ19vYUxZbEVYVjFoZ1FjeUgwUUczd19GYm81d01HdU40blJzUnRsRFhxMnhKdU9JNWFhZGw3Vm5YemdXa08yeU9fQXctck01cFhHMFRLRmgzcFJ1eXpxRWlNMW9BN1N5cnI0elc0dEpiZzZ6eHpFZm5ldUVNNDhEd0FubndyYmxxODBHV1Y?oc=5",
-    "content": "EVAN to take creative leadership in fresh artistic journey with debut mini-album DEATH OF ME t2ONLINE",
+    "content": "EVAN: K-pop Soloist Set to Drop Debut Mini-Album | EVAN DEATH OF ME t2ONLINE",
     "published_at": "0811google-kpop",
     "published_ts": 1786433280.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "EVAN携出道迷你专辑《DEATH OF ME》开启全新艺术旅程，亲自操刀创意主导",
+    "title_zh": "K-pop Solo歌手EVAN将发行出道迷你专辑《DEATH OF ME》",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：艺人EVAN将发行出道迷你专辑《DEATH OF ME》",
-      "事实点2：EVAN在该专辑中担任创意主导，展现全新艺术方向"
+      "事实点1：K-pop Solo歌手EVAN即将发行出道迷你专辑。",
+      "事实点2：该迷你专辑名为《DEATH OF ME》。"
     ],
-    "summary_zh": "据t2ONLINE报道，艺人EVAN即将发行出道迷你专辑《DEATH OF ME》，并在此次音乐项目中担任创意主导，开启全新的艺术旅程。专辑名称及创意方向体现了EVAN个人艺术风格的探索，但具体发行日期、曲目列表等细节尚未披露。",
-    "extracted_at": "2026-08-11T16:49:45.721154+08:00"
+    "summary_zh": "K-pop Solo歌手EVAN即将发行出道迷你专辑《DEATH OF ME》。该专辑是EVAN的出道作品，具体发行日期和曲目列表尚未公布。",
+    "extracted_at": "2026-08-11T20:55:01.506146+08:00"
   },
   {
     "source_id": "soompi",
@@ -253,16 +479,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "河英因曾祖父亲日争议，SBS就与李帝勋新剧《长审判》发表声明",
+    "title_zh": "河英因曾祖父亲日争议，SBS就与李帝勋新剧《长试》发布声明",
     "source_type": "韩娱",
     "risk_level": "中",
     "is_blurred": false,
     "facts_list": [
       "事实点1：河英因曾祖父安相浩（音译）被确认在1916年担任亲日组织委员而陷入争议。",
-      "事实点2：SBS针对河英与李帝勋主演的电视剧《长审判》（暂译）发布官方声明。"
+      "事实点2：SBS就河英与李帝勋合作的新剧《长试》（暂译）发布官方声明。"
     ],
-    "summary_zh": "河英因曾祖父安相浩（音译）被确认在1916年担任亲日组织委员而陷入争议，SBS就此发表声明，涉及她与李帝勋主演的电视剧《长审判》（暂译）。声明具体内容未在原文中提及。",
-    "extracted_at": "2026-08-11T16:49:47.964255+08:00"
+    "summary_zh": "河英因曾祖父安相浩（音译）被确认在1916年担任亲日组织委员而陷入争议，SBS就此发布声明，涉及她与李帝勋合作的新剧《长试》（暂译）。声明具体内容未在原文中提及。",
+    "extracted_at": "2026-08-11T20:55:04.292887+08:00"
   },
   {
     "source_id": "soompi",
@@ -277,17 +503,41 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "车银优有望出演《西罗伐尔之刀》，系《殿下，请先用餐》导演新作",
+    "title_zh": "车银优有望出演《西拉贝尔之刃》，系《殿下，请先用餐》导演新作",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：8月11日，媒体报道车银优选择《西罗伐尔之刀》（暂译）作为退伍后首部作品。",
-      "事实点2：车银优所属社Fantagio回应称正在讨论中。",
-      "事实点3：该剧由《殿下，请先用餐》导演执导。"
+      "事实点1：8月11日，媒体报道车银优已选定《西拉贝尔之刃》（暂译）作为退伍后首部作品。",
+      "事实点2：车银优所属社Fantagio回应称，车银优正在讨论出演该剧，该剧由《殿下，请先用餐》导演执导。",
+      "事实点3：车银优距离退伍还有5个月。"
     ],
-    "summary_zh": "据8月11日报道，车银优正在考虑出演新剧《西罗伐尔之刀》（暂译），该剧由《殿下，请先用餐》导演执导。车银优距离退伍还有五个月，此剧有望成为其退伍后的首部作品。所属社Fantagio回应称，车银优已开始讨论该剧的出演事宜。",
-    "extracted_at": "2026-08-11T16:49:50.442993+08:00"
+    "summary_zh": "据8月11日报道，车银优正在考虑出演新剧《西拉贝尔之刃》（暂译），该剧由《殿下，请先用餐》导演执导。车银优的所属社Fantagio确认了这一消息，表示他正在讨论中。距离车银优退伍还有5个月，该剧有望成为他退伍后的首部作品。",
+    "extracted_at": "2026-08-11T20:55:07.117222+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "A Love Other Than Yours: Everything we know about Seo Kang-joon’s K-drama - Lifestyle Asia Hong Kong",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMFRULXF1Qms3ZEFaTHdCQW5oR0FiY19kUlVqelpaMXFzdnV3dXdLWHdiR1I0QXNWWVdlOXBxLXR4VXNYemZpMWpiSWlOZkYzOVVNVHZmYWE3U3pZQnliVnF2eG90WDFYVmJHWGxtMzE4d09zUkhQVmVHVU1GR2diYm9fUmFHZGRDX1ZVRWFPTHplVlBZZ3VSdm1KLXlOUFNKNkVxUFFLVXB6U2x0NEkwUmVsdTVzS3Y0cmdlQ2ZjaEFfdEXSAcgBQVVfeXFMTkhEMEZwQW1URmxHYnMweGc4TWd6RzUxdDNoc2FRMWdUNmRFUURGOEJfakxBTE5qUFZFVV84RWczMWd0d1NMemE1N0ZEcllROHlDLUNPZ29hYUdTNzZnM0l0ZWNGRDFYdTh0UVBVYl84VmZubDJFX2ROUmhiU1RHVUVRM2xUWUktdmI1QUYzd1JndmpLSThndWktN0FVMWM5UG5fQUF3UWtDc3hjY0xjbFZSdDgyelZudVRLbmJ2cmhNcW51QzZpTGs?oc=5",
+    "content": "A Love Other Than Yours: Everything we know about Seo Kang-joon’s K-drama Lifestyle Asia Hong Kong",
+    "published_at": "0811google-kpop",
+    "published_ts": 1786429879.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "徐康俊新剧《你的爱非我》全解析：剧情、阵容与播出信息",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：该剧为徐康俊主演的韩剧，剧名暂译《你的爱非我》",
+      "事实点2：资讯来源为Lifestyle Asia Hong Kong，内容为关于该剧的已知信息汇总"
+    ],
+    "summary_zh": "据Lifestyle Asia Hong Kong报道，徐康俊将主演新韩剧《你的爱非我》（暂译），该报道汇总了目前已知的剧情、演员阵容及播出信息。具体细节尚未完全公开，但该剧备受期待。",
+    "extracted_at": "2026-08-11T20:55:09.407401+08:00"
   },
   {
     "source_id": "soompi",
@@ -307,12 +557,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：EXO成员Doh Kyung Soo（都暻秀）宣布举办2026-27年演唱会巡演“DAY OFF”。",
+      "事实点1：EXO成员Doh Kyung Soo（都暻秀）宣布举办2026-27年巡回演唱会“DAY OFF”。",
       "事实点2：巡演将于2026年10月2日至4日在首尔开始。",
-      "事实点3：后续巡演城市包括澳门、曼谷、雅加达、高雄、新加坡、香港、马尼拉、东京和台北。"
+      "事实点3：后续将到访澳门、曼谷、雅加达、高雄、新加坡、香港、马尼拉、东京和台北。"
     ],
-    "summary_zh": "EXO成员都暻秀（Doh Kyung Soo）宣布将举办2026-27年个人演唱会巡演“DAY OFF”。巡演将于2026年10月2日至4日在首尔拉开帷幕，随后前往澳门、曼谷、雅加达、高雄、新加坡、香港、马尼拉、东京和台北等城市。具体日程和票务信息尚未公布。",
-    "extracted_at": "2026-08-11T16:49:52.622971+08:00"
+    "summary_zh": "EXO成员都暻秀（Doh Kyung Soo）宣布举办2026-27年巡回演唱会“DAY OFF”。巡演将于2026年10月2日至4日在首尔拉开帷幕，随后前往澳门、曼谷、雅加达、高雄、新加坡、香港、马尼拉、东京和台北等城市。具体日程和售票信息尚未公布，敬请期待。",
+    "extracted_at": "2026-08-11T20:55:11.878549+08:00"
   },
   {
     "source_id": "soompi",
@@ -327,16 +577,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "崔允智确认出演《Iseop的浪漫》女主角，与李钟硕搭档",
+    "title_zh": "崔允智确认出演《Iseop's Romance》女主角，与李钟硕搭档",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：8月11日，据News1报道，崔允智将出演新剧《Iseop的浪漫》女主角姜敏京。",
-      "事实点2：制作公司ACE FACTORY确认了该消息。"
+      "事实点1：8月11日，News1报道崔允智将出演新剧《Iseop's Romance》女主角姜敏京。",
+      "事实点2：制作公司ACE FACTORY确认该消息，表示崔允智将与李钟硕搭档。"
     ],
-    "summary_zh": "据8月11日News1报道，崔允智确认出演新爱情剧《Iseop的浪漫》女主角姜敏京，与李钟硕搭档。制作公司ACE FACTORY已确认此消息。",
-    "extracted_at": "2026-08-11T16:49:54.443419+08:00"
+    "summary_zh": "据8月11日News1报道，崔允智确定出演新爱情剧《Iseop's Romance》女主角姜敏京，与李钟硕搭档。制作公司ACE FACTORY确认了该消息。",
+    "extracted_at": "2026-08-11T20:55:13.999341+08:00"
   },
   {
     "source_id": "soompi",
@@ -357,12 +607,12 @@
     "is_blurred": false,
     "facts_list": [
       "8月11日，RBW Inc.发布关于公司厂牌运营结构变化的声明。",
-      "声明称257 Entertainment和WM Entertainment并入RBW，并共同以StrangeLab Inc.的新名称重新开始。",
+      "声明称，257 Entertainment和WM Entertainment并入RBW，并共同以StrangeLab Inc.的新名称重新开始。",
       "OH MY GIRL将转至DSP Media。",
       "XLOV的所属社宣布更名。"
     ],
-    "summary_zh": "RBW Inc.于8月11日宣布公司厂牌运营结构变动，257 Entertainment和WM Entertainment将并入RBW，并以新名称StrangeLab Inc.共同运营。受此影响，OH MY GIRL将转至DSP Media，XLOV的所属社也宣布更名。",
-    "extracted_at": "2026-08-11T16:49:56.860135+08:00"
+    "summary_zh": "RBW Inc.于8月11日宣布公司厂牌运营结构变动。根据声明，257 Entertainment和WM Entertainment将并入RBW，并共同以StrangeLab Inc.的新名称运营。受此影响，OH MY GIRL将转至DSP Media，而XLOV的所属社也宣布更名。",
+    "extracted_at": "2026-08-11T20:55:16.294204+08:00"
   },
   {
     "source_id": "soompi",
@@ -377,7 +627,7 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "崔岷植新片《实习生》剧照公开，饰演37年资历高龄实习生",
+    "title_zh": "崔岷植新片《实习生》剧照公开，变身37年资历高龄实习生",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
@@ -386,8 +636,8 @@
       "该片翻拍自好莱坞同名电影，讲述跨越世代与职位的办公室生活",
       "崔岷植饰演的基浩（暂译）是一位拥有37年工作经验的资深实习生"
     ],
-    "summary_zh": "即将上映的电影《实习生》公开了崔岷植的首批剧照。该片翻拍自好莱坞同名电影，讲述跨越世代与职位的办公室生活，故事始于拥有37年工作经验的资深实习生基浩（崔岷植饰）。",
-    "extracted_at": "2026-08-11T16:49:59.089574+08:00"
+    "summary_zh": "即将上映的电影《实习生》首次公开了崔岷植的角色剧照。该片翻拍自好莱坞同名电影，讲述了一位拥有37年工作经验的资深实习生基浩（崔岷植饰）进入现代职场后，与不同世代和职位的同事共事，展开一段跨越年龄与职级的办公室生活故事。",
+    "extracted_at": "2026-08-11T20:55:18.915747+08:00"
   },
   {
     "source_id": "soompi",
@@ -402,18 +652,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "宋江、李濬荣、张圭悧新剧《四手联弹》发布音乐主题海报",
+    "title_zh": "宋江、李浚荣、张圭悧新剧《四手联弹》发布音乐主题海报",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "tvN新剧《Four Hands, Two Sonatas》发布新海报",
-      "主演包括宋江、李濬荣、张圭悧",
-      "剧名“Four Hands”为钢琴术语，指两人同弹一架钢琴",
-      "剧情讲述艺术高中学生们的友情、爱情、竞争与成长"
+      "tvN新剧《Four Hands, Two Sonatas》（暂译：四手联弹）发布新海报",
+      "该剧以钢琴术语“四手联弹”为背景，讲述艺术高中学生们的友情、爱情、竞争与成长"
     ],
-    "summary_zh": "tvN新剧《Four Hands, Two Sonatas》公开了新海报，主演宋江、李濬荣、张圭悧出镜。该剧剧名中的“Four Hands”是钢琴术语，指两人共同演奏一架钢琴。剧情将围绕艺术高中学生们之间的友情、爱情、竞争与成长展开。",
-    "extracted_at": "2026-08-11T16:50:01.943619+08:00"
+    "summary_zh": "tvN新剧《Four Hands, Two Sonatas》（暂译：四手联弹）公开了新海报。该剧剧名源自钢琴术语“四手联弹”，指两人共同演奏一架钢琴。剧情将围绕艺术高中学生们展开，描绘他们的友情、爱情、竞争与成长。主演包括宋江、李浚荣和张圭悧。",
+    "extracted_at": "2026-08-11T20:55:21.597562+08:00"
   },
   {
     "source_id": "soompi",
@@ -434,10 +682,10 @@
     "is_blurred": false,
     "facts_list": [
       "事实点1：8月11日，MBN新剧《老板想要什么》（暂定名）确认成勋出演。",
-      "事实点2：该剧改编自同名网络小说，是一部浪漫爱情剧，讲述财阀老板权道赫（成勋饰）寻找心仪女性的故事。"
+      "事实点2：该剧改编自同名网络小说，是一部浪漫爱情剧，成勋饰演毫无味觉的财阀老板权道赫。"
     ],
-    "summary_zh": "8月11日，MBN新剧《老板想要什么》（暂定名）确认成勋出演男主角。该剧改编自同名网络小说，是一部浪漫爱情剧，讲述财阀老板权道赫寻找心仪女性的故事。",
-    "extracted_at": "2026-08-11T16:50:03.704007+08:00"
+    "summary_zh": "8月11日，MBN新剧《老板想要什么》（暂定名）确认成勋出演。该剧改编自同名网络小说，是一部浪漫爱情剧，讲述了毫无味觉的财阀老板权道赫寻找真命天女的故事。成勋将饰演男主角权道赫。",
+    "extracted_at": "2026-08-11T20:55:23.899241+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -457,11 +705,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：韩国男星宋康、李到晛等完成兵役后，陆续回归影视圈。",
-      "事实点2：文章列举了多位演员的退伍时间及回归作品，具体包括宋康、李到晛等。"
+      "事实点1：韩国媒体The Korea Herald报道，宋康、李到晛等韩剧男星在完成兵役后陆续回归荧幕。",
+      "事实点2：报道列举了多位演员的退伍时间及回归作品，具体包括宋康、李到晛等。"
     ],
-    "summary_zh": "据韩国先驱报报道，多位韩剧男星在完成兵役后陆续回归，包括宋康、李到晛等。文章列举了他们的退伍时间和回归作品，展现了韩剧界的新一轮演员更替。具体回归作品和播出时间未详细说明。",
-    "extracted_at": "2026-08-11T16:50:06.064797+08:00"
+    "summary_zh": "据韩国媒体The Korea Herald报道，多位韩剧男星在完成兵役后陆续回归荧幕，包括宋康、李到晛等。报道聚焦于这些演员的退伍时间及回归作品，展现了他们从军队生活重返演艺圈的动态。具体回归作品及时间细节需以原文为准。",
+    "extracted_at": "2026-08-11T20:55:26.808801+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -476,15 +724,39 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "韩国媒体专栏：K-Pop的悖论",
+    "title_zh": "韩流悖论：韩国文化输出繁荣与国内产业困境并存",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文为韩国先驱报专栏文章，标题为'The K-paradox'，未提及具体事件、数据或人物。"
+      "事实点1：原文标题为《[Room Tone] The K-paradox》，由The Korea Herald发布",
+      "事实点2：原文内容未提供具体事实，仅提及“K-paradox”概念"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：韩国流行文化存在一种悖论（K-paradox），但未提供具体细节。]",
-    "extracted_at": "2026-08-11T16:50:07.842935+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：韩流悖论（The K-paradox）]",
+    "extracted_at": "2026-08-11T20:55:28.953909+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Baby Shark star to make K-pop debut as Baby Shark Boy - CNA Lifestyle",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUHRFclBEZXBiSERTTXBPWm0xaHNxbzI3cDY3bEFzOWlYS2g1dHFvRlAtYzZ1X2dKckxNd29zSkVlcjVfT0loZmhxZGhZaDg0ZkM3RkVpU3hNdUZVUXBfaTdxd1BzYmItRHJXZlhncVh0M29zZzZhNnByZGFvRFUwdDdHOUZJdXhaaGtTWnFka0xDdw?oc=5",
+    "content": "Baby Shark star to make K-pop debut as Baby Shark Boy CNA Lifestyle",
+    "published_at": "0811google-kpop",
+    "published_ts": 1786417200.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《Baby Shark》明星将作为Baby Shark Boy出道K-pop",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：CNA Lifestyle报道，《Baby Shark》明星将作为Baby Shark Boy进行K-pop出道。"
+    ],
+    "summary_zh": "据CNA Lifestyle报道，热门儿歌《Baby Shark》的明星将作为Baby Shark Boy在K-pop界出道。该消息未提供具体出道时间、所属社或作品细节。",
+    "extracted_at": "2026-08-11T20:55:30.959109+08:00"
   },
   {
     "source_id": "soompi",
@@ -504,11 +776,11 @@
     "risk_level": "中",
     "is_blurred": false,
     "facts_list": [
-      "河英近期出演KBS2综艺节目《屋塔房的问题儿童们》，提及家族四代从医，从曾祖父、祖父到父亲和哥哥。",
-      "河英所属社针对其家族史引发的争议发布了新的官方声明。"
+      "河英近期出演KBS2综艺《屋塔房的问题儿童们》，提及家族四代从医，从曾祖父、祖父到父亲和哥哥。",
+      "河英所属社针对其家族史引发的争议发布官方声明。"
     ],
-    "summary_zh": "演员河英的所属社就近期围绕其家族史的争议发布了新的官方声明。河英近期在KBS2综艺节目《屋塔房的问题儿童们》等节目中提及家族四代从医，从曾祖父、祖父到父亲和哥哥，引发外界讨论。所属社的声明具体内容未在原文中详细披露。",
-    "extracted_at": "2026-08-11T16:50:10.176084+08:00"
+    "summary_zh": "演员河英的所属社就近期围绕其家族史的争议发布了官方声明。河英近期出演KBS2综艺《屋塔房的问题儿童们》，在节目中提及家族四代从医，从曾祖父、祖父到父亲和哥哥。该言论引发争议后，所属社发布声明进行回应。",
+    "extracted_at": "2026-08-11T20:55:33.302410+08:00"
   },
   {
     "source_id": "soompi",
@@ -523,16 +795,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "2026 K-World Dream Awards公布颁奖嘉宾阵容，金宣虎、郑丽媛等出席",
+    "title_zh": "2026 K-World Dream Awards公布颁奖礼主持人阵容",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：8月11日，2026 K-World Dream Awards组织委员会公布颁奖嘉宾阵容。",
-      "事实点2：嘉宾包括演员金宣虎、李雪、李彩玟、郑丽媛、郑成日、陈基周、秋英宇，以及职业台球选手金佳映（暂译）。"
+      "事实点1：8月11日，2026 K-World Dream Awards组织委员会公布主持人阵容。",
+      "事实点2：主持人包括演员金宣虎、李雪、李彩玟、郑丽媛、郑成日、陈琦周、秋英宇，以及职业台球选手金佳映。"
     ],
-    "summary_zh": "2026 K-World Dream Awards于8月11日公布颁奖嘉宾阵容，包括演员金宣虎、李雪、李彩玟、郑丽媛、郑成日、陈基周、秋英宇，以及职业台球选手金佳映（暂译）。",
-    "extracted_at": "2026-08-11T16:50:12.439699+08:00"
+    "summary_zh": "2026 K-World Dream Awards于8月11日公布了颁奖礼的主持人阵容，包括演员金宣虎、李雪、李彩玟、郑丽媛、郑成日、陈琦周、秋英宇，以及职业台球选手金佳映。该颁奖礼预计将吸引众多粉丝关注。",
+    "extracted_at": "2026-08-11T20:55:36.174179+08:00"
   },
   {
     "source_id": "soompi",
@@ -547,17 +819,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《我的偏见，我的老板》收视率升至3.9%稳居榜首",
+    "title_zh": "《我的偏见，我的老板》收视率升至3.9% 稳居同时段第一",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：据尼尔森韩国数据，tvN《我的偏见，我的老板》第3集全国平均收视率为3.9%。",
-      "事实点2：该收视率较上一集的3.1%上升了0.8个百分点。",
-      "事实点3：该剧在8月10日播出后，继续保持同时段收视第一。"
+      "事实点1：据尼尔森韩国数据，tvN《我的偏见，我的老板》第3集全国平均收视率为3.9%",
+      "事实点2：该收视率较上一集的3.1%上升0.8个百分点",
+      "事实点3：该剧在8月10日播出的同时段节目中保持收视第一"
     ],
-    "summary_zh": "tvN电视剧《我的偏见，我的老板》第3集收视率上升，据尼尔森韩国统计，全国平均收视率达3.9%，较上集的3.1%上涨0.8个百分点，并继续保持同时段收视冠军。",
-    "extracted_at": "2026-08-11T16:50:14.425355+08:00"
+    "summary_zh": "tvN电视剧《我的偏见，我的老板》第3集收视率上升。据尼尔森韩国统计，该集全国平均收视率为3.9%，较上一集的3.1%上涨0.8个百分点，并继续保持同时段收视第一的位置。",
+    "extracted_at": "2026-08-11T20:55:38.588265+08:00"
   },
   {
     "source_id": "soompi",
@@ -572,16 +844,64 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Stray Kids成员彰彬生日当天向三星医疗中心捐赠1亿韩元",
+    "title_zh": "Stray Kids彰彬生日捐款1亿韩元，支援儿童青少年患者治疗及家属情绪支持",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：8月11日，Stray Kids成员彰彬向三星医疗中心捐赠1亿韩元（约7万美元）。",
-      "事实点2：捐赠款项中，各5000万韩元（约3.5万美元）分别用于支持儿童及青少年患者的治疗费用，以及为患者家属提供情感支持的项目。"
+      "事实点1：8月11日，Stray Kids成员彰彬向三星首尔医院捐款1亿韩元（约7万美元）。",
+      "事实点2：捐款中5000万韩元（约3.5万美元）用于支援儿童及青少年患者的治疗费用，另5000万韩元用于为患者家属提供情绪支持的项目。"
     ],
-    "summary_zh": "Stray Kids成员彰彬在8月11日生日当天，向三星医疗中心捐赠了1亿韩元（约7万美元）。其中5000万韩元用于支持儿童及青少年患者的治疗费用，另外5000万韩元用于为患者家属提供情感支持的项目。这一善举展现了他对社会的关怀。",
-    "extracted_at": "2026-08-11T16:50:16.364732+08:00"
+    "summary_zh": "Stray Kids成员彰彬在8月11日生日当天，向三星首尔医院捐赠了1亿韩元（约7万美元）。其中5000万韩元（约3.5万美元）用于支援儿童及青少年患者的治疗费用，另外5000万韩元用于为患者家属提供情绪支持的项目。这一善举展现了他对社会的关怀。",
+    "extracted_at": "2026-08-11T20:55:41.203316+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "BTS fans pack Baltimore for K-pop superstars’ first Maryland show | PHOTOS - Baltimore Sun",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSG55eTJLamRXdFFad0Zoc19RNzUxcExITzdJM2xiYzRfYlFLMjN3U19GWDViSlM1UC1oMzI1UC1ndzZ4ZlRjeVdHVWZ2RmpRTTRvU3Q0aTV0cndPWFduQ2JrcnVsbWIxWjFvendyWU5ZLUt5TnlOVkh5Q2dkdUhsZVVyT2k4REtEZEg0TXFFOXpMQ2VNcEE?oc=5",
+    "content": "BTS fans pack Baltimore for K-pop superstars’ first Maryland show | PHOTOS Baltimore Sun",
+    "published_at": "0811google-kpop",
+    "published_ts": 1786412187.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "BTS粉丝涌入巴尔的摩，K-pop巨星马里兰首秀现场照",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：BTS在巴尔的摩举办首次马里兰州演出，粉丝大量涌入。",
+      "事实点2：演出由《巴尔的摩太阳报》报道，并附有现场照片。"
+    ],
+    "summary_zh": "据《巴尔的摩太阳报》报道，BTS在巴尔的摩举办了他们在马里兰州的首次演出，吸引了大量粉丝涌入现场。报道中包含了现场照片，展示了粉丝的热情和演出的盛况。",
+    "extracted_at": "2026-08-11T20:55:43.534714+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "The greatest fashion spends in K-pop: Inside the priciest music video appears - Prestige Online - Singapore",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUlFPSFU2MXIxSGtWT1RjdEVjcFlCQk1saGhDTlRseDFDbjBaN2o2SW5ZOVNSWlpkYk9ZR3oyLURNME1LWEpNQVNRV1NLRG01Nlp1U0NidUZXSEREY1ZpeHQ4ZWdYUEgzQWVidlJsM1NUT3Frc09qS1FGSWdjLWVKTDk5OU8tNDBzTkpSRkh2S3RSWmxpT2FuTlFZc2kwMVZDbDlDQVR3cU9kUlBFSUpEMDJuaENZTmNvYnhPMkVzeGJ5d3poZTlrYtIBzgFBVV95cUxPLVBMMXl6WTk2SVhjMV9SYW92NWh0eXphQ3p3VXhOUU9qcFBKTkZ2TXFIUzRIeWVQa1pqdW5TOTJ5ZUZFSVJvb0ZXcjAyZHdvZVhmZjl2QzJTd3ZJV05wV0RRRWRFZ05uZlhJaS01ekhfY1U1LXBVX19jaXIwRXF2U1c1MGpqaWFyZ0dON0ZnUU5KTWR0TTUzV2NtY0VINDdnMGFOQmQtc2JLamNoeDRIVElzakU2d3RUeWZ0OTNISVhfTWx6LXVGQmdoOGtKUQ?oc=5",
+    "content": "The greatest fashion spends in K-pop: Inside the priciest music video appears Prestige Online - Singapore",
+    "published_at": "0811google-kpop",
+    "published_ts": 1786412082.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "K-pop最贵MV幕后：时尚花费揭秘",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：Prestige Online新加坡版发布报道，聚焦K-pop音乐视频中的高额时尚花费。",
+      "事实点2：报道列举了最昂贵的音乐视频，并分析了其中的时尚支出细节。"
+    ],
+    "summary_zh": "Prestige Online新加坡版报道了K-pop音乐视频中最大的时尚花费，揭示了最昂贵MV的幕后细节。报道列举了具体案例，分析了时尚支出在MV制作中的占比和影响，但未提及具体艺人或金额。",
+    "extracted_at": "2026-08-11T20:55:46.053282+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -602,11 +922,11 @@
     "is_blurred": false,
     "facts_list": [
       "事实点1：K-pop网红Mina Chan去世，年仅26岁。",
-      "事实点2：去世前曾进行TikTok直播，直播内容引发担忧。",
+      "事实点2：去世前曾进行TikTok直播，直播内容令人担忧。",
       "事实点3：报道来源为Page Six。"
     ],
     "summary_zh": "据Page Six报道，K-pop网红Mina Chan去世，年仅26岁。她在去世前曾进行TikTok直播，直播内容令人担忧。具体死因及直播细节尚未披露。",
-    "extracted_at": "2026-08-11T16:50:18.026784+08:00"
+    "extracted_at": "2026-08-11T20:55:48.158609+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -621,16 +941,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "纽约举办KPop Demon Hunters之夜：洋基棒球赛门票在线购买指南",
+    "title_zh": "纽约举办K-Pop恶魔猎人主题之夜：洋基棒球赛门票在线购买指南",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：纽约市将举办KPop Demon Hunters之夜活动",
-      "事实点2：活动与洋基棒球赛相关，门票可在网上购买"
+      "事实点1：纽约洋基队将举办K-Pop主题之夜活动，名为'KPop Demon Hunters' Night",
+      "事实点2：活动详情及门票购买方式由Billboard提供在线指南"
     ],
-    "summary_zh": "据Billboard报道，纽约市将举办KPop Demon Hunters之夜活动，该活动与洋基棒球赛相关。文章提供了在线购买洋基棒球赛门票的指南。",
-    "extracted_at": "2026-08-11T16:50:19.714886+08:00"
+    "summary_zh": "纽约洋基队将举办一场名为'KPop Demon Hunters' Night的特别活动，将棒球比赛与K-Pop文化相结合。该活动吸引了K-Pop粉丝的关注，Billboard提供了在线购买洋基队棒球比赛门票的指南，方便粉丝参与这一跨界体验。",
+    "extracted_at": "2026-08-11T20:55:50.769283+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -650,11 +970,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：韩国媒体The Korea Herald发表评论文章，作者为Grace Kao",
-      "事实点2：文章标题为“BTS’ reply to the Grammys”，内容涉及BTS对格莱美的回应"
+      "事实点1：韩国媒体《韩国先驱报》发表评论文章，作者为Grace Kao，标题为“BTS对格莱美的回应”。",
+      "事实点2：文章内容涉及BTS对格莱美奖的回应，但具体回应内容未在原文中详细说明。"
     ],
-    "summary_zh": "韩国媒体The Korea Herald发表了一篇由Grace Kao撰写的评论文章，标题为“BTS’ reply to the Grammys”。文章内容涉及BTS对格莱美奖的回应，但具体细节未在原文中提供。",
-    "extracted_at": "2026-08-11T16:50:21.454990+08:00"
+    "summary_zh": "韩国媒体《韩国先驱报》发表了一篇由Grace Kao撰写的评论文章，标题为“BTS对格莱美的回应”。文章聚焦于BTS组合对格莱美奖的回应，但原文未提供具体回应细节。",
+    "extracted_at": "2026-08-11T20:55:53.123219+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -675,7 +995,7 @@
     "is_blurred": true,
     "facts_list": [],
     "summary_zh": "[原文未提及具体行为，仅称：K-Pop Demon Hunters WV News]",
-    "extracted_at": "2026-08-11T16:50:22.951047+08:00"
+    "extracted_at": "2026-08-11T20:55:54.390371+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -695,36 +1015,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：EJAE在BAFTA颁奖礼表演期间，称莱昂纳多·迪卡普里奥的举动让她分心。",
-      "事实点2：该事件由Contactmusic.com报道，具体细节未详述。"
+      "EJAE在BAFTA颁奖礼表演期间，称莱昂纳多·迪卡普里奥的举动让她分心。",
+      "该事件发生在BAFTA颁奖礼的表演环节。"
     ],
-    "summary_zh": "KPop Demon Hunters成员EJAE透露，在BAFTA颁奖礼表演时，莱昂纳多·迪卡普里奥的某个行为让她分心。她未具体说明迪卡普里奥做了什么，但表示这影响了她的表演。该消息由Contactmusic.com报道。",
-    "extracted_at": "2026-08-11T16:50:24.936516+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Movie Nights In The D – KPOP Demon Hunters - LittleGuide Detroit",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IcThGa1R5Tkl3ZFRaeVo0bFBYNERGV0FfWmVOMjRUY2gtZ19iZUJFeGRwVldLZjdOUDNsRUlDVnBGMUhCVEFsVzl5bFpHTDNEaWpwMHBDTDdRSG5LRlR5ZDJzVlhVc0dhaTltOFd3?oc=5",
-    "content": "Movie Nights In The D – KPOP Demon Hunters LittleGuide Detroit",
-    "published_at": "0811google-kpop",
-    "published_ts": 1786390125.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "底特律举办KPOP主题电影之夜活动",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "活动名称：Movie Nights In The D – KPOP Demon Hunters",
-      "地点：美国底特律",
-      "主办方：LittleGuide Detroit"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：底特律将举办KPOP主题电影之夜活动，由LittleGuide Detroit主办。]",
-    "extracted_at": "2026-08-11T16:50:26.398684+08:00"
+    "summary_zh": "KPop组合Demon Hunters成员EJAE在BAFTA颁奖礼表演时，表示莱昂纳多·迪卡普里奥的某些行为让她分心。她未具体说明迪卡普里奥做了什么，但这一说法引发了关注。",
+    "extracted_at": "2026-08-11T20:55:56.607964+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -739,41 +1034,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "aespa谈Lollapalooza音乐节、Lemonade与K-pop偶像现实",
+    "title_zh": "aespa谈Lollapalooza音乐节、Lemonade及K-pop偶像现实",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：aespa接受The Fader采访，谈及参加Lollapalooza音乐节的经历。",
-      "事实点2：aespa在采访中提及歌曲《Lemonade》。",
-      "事实点3：aespa在采访中讨论了K-pop偶像的现实。"
+      "事实点1：aespa接受The Fader采访，谈及参加Lollapalooza音乐节的经历",
+      "事实点2：aespa在采访中提及歌曲Lemonade",
+      "事实点3：aespa在采访中讨论K-pop偶像的现实"
     ],
-    "summary_zh": "韩国女团aespa近期接受The Fader杂志采访，分享了参加Lollapalooza音乐节的感受，并提及了歌曲《Lemonade》。此外，她们还谈到了作为K-pop偶像的现实，包括训练、表演和公众形象等方面的挑战。",
-    "extracted_at": "2026-08-11T16:50:28.367086+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "KPop Demon Hunters Star EJAE Admits this BAFTA Moment Still Haunts Her - Yahoo",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcGs5SVFiR2RPQ2o1dHV4emI1Zk5fR0M5ZWowVVBDXy1EVDNsQ1N5WWF1TDZzSFAwYWNVYk1UV2FzR1VTUTVCcmJMTDZoam1abFJZaGFXX0hZcDg2UmRkUVJrZEdQb2dOV1UxRWU3UjZIcXE5ZEV4Y1dsVnQxei1hQ3NCUU9nMkFXUzZDMHNuNjZkRHVfSVhHcm1B?oc=5",
-    "content": "KPop Demon Hunters Star EJAE Admits this BAFTA Moment Still Haunts Her Yahoo",
-    "published_at": "0811google-kpop",
-    "published_ts": 1786384229.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "《KPop Demon Hunters》主演EJAE坦言BAFTA时刻仍令她心有余悸",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "EJAE是《KPop Demon Hunters》的演员",
-      "EJAE承认某个BAFTA相关时刻仍让她感到困扰"
-    ],
-    "summary_zh": "据Yahoo报道，韩剧《KPop Demon Hunters》的主演EJAE在接受采访时坦言，某个与BAFTA相关的时刻至今仍让她心有余悸。她并未具体说明该时刻的细节，但表示这一经历对她产生了持续的影响。",
-    "extracted_at": "2026-08-11T16:50:30.105216+08:00"
+    "summary_zh": "韩国女子组合aespa近日接受The Fader杂志采访，分享了参加Lollapalooza音乐节的感受，并提及了歌曲Lemonade。此外，成员们还谈到了作为K-pop偶像的现实，包括训练、生活等方面的真实体验。",
+    "extracted_at": "2026-08-11T20:55:58.839617+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -788,16 +1059,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "变色K-Pop恶魔猎人马克杯：加热水显现隐藏角色",
+    "title_zh": "变色“K-Pop恶魔猎人”马克杯：倒入热水显现隐藏角色",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：该马克杯为K-Pop恶魔猎人主题，具有变色功能",
-      "事实点2：加入热水后，杯身会显现隐藏角色"
+      "事实点1：该马克杯为K-Pop主题周边，具有变色功能。",
+      "事实点2：倒入热水后，杯身会显现隐藏角色图案。",
+      "事实点3：产品名称为“KPop Demon Hunters”马克杯。"
     ],
-    "summary_zh": "据Billboard报道，一款名为'KPop Demon Hunters'的变色马克杯在市场上推出。该马克杯在常温下呈现一种颜色，当倒入热水时，杯身会显现出隐藏的角色图案。这一设计结合了K-Pop元素与趣味互动，吸引了粉丝的关注。",
-    "extracted_at": "2026-08-11T16:50:32.521196+08:00"
+    "summary_zh": "据Billboard报道，一款名为“KPop Demon Hunters”的马克杯因其变色功能而受到关注。该马克杯在倒入热水后，会显现出隐藏的角色图案，这一设计吸引了K-Pop粉丝的兴趣。",
+    "extracted_at": "2026-08-11T20:56:00.997879+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -812,18 +1084,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "BTS粉丝团占领巴尔的摩，M&T银行体育场演唱会前夕盛况空前",
+    "title_zh": "BTS粉丝占领巴尔的摩，M&T银行体育场演唱会前夕",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "时间：演唱会前夕",
-      "地点：美国巴尔的摩M&T银行体育场",
-      "主体：BTS粉丝团（ARMY）",
-      "具体动作：粉丝团在巴尔的摩聚集，形成盛况"
+      "事实点1：时间：演唱会前夕；地点：美国巴尔的摩；主体：BTS粉丝（ARMY）；具体动作：大量聚集，形成‘占领’态势。",
+      "事实点2：事件背景：BTS将在M&T银行体育场举行演唱会，粉丝提前到场，引发当地关注。"
     ],
-    "summary_zh": "据CBS新闻报道，在韩国男团BTS于美国巴尔的摩M&T银行体育场举行演唱会前夕，其粉丝团ARMY已大规模聚集在该城市，形成盛况。报道描述了粉丝们对演唱会的期待和热情，但未提及具体人数或活动细节。",
-    "extracted_at": "2026-08-11T16:50:34.609642+08:00"
+    "summary_zh": "据CBS News报道，在韩国男团BTS于美国巴尔的摩M&T银行体育场举行演唱会前夕，其粉丝（ARMY）大量涌入该市，形成‘占领’之势。报道描述了粉丝聚集的盛况，但未提及具体人数或活动细节。",
+    "extracted_at": "2026-08-11T20:56:03.698369+08:00"
   },
   {
     "source_id": "asianwiki",
