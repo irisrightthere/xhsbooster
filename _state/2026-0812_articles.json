@@ -3,6 +3,245 @@
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
+    "title": "Online rumours say Blackpink’s Lisa and Thai actor Blue Pongtiwat are dating - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBYS1JVblpSQ2hsSno2ZzQzODUwTlRIclFMd09ZemtjZGhrTkduMmlBOE1XQnlmcmZUcDBUYmtnaHJEaWRVN0xLVVV2UUN2X1A0dkNweFBrWQ?oc=5",
+    "content": "Online rumours say Blackpink’s Lisa and Thai actor Blue Pongtiwat are dating The Korea Herald",
+    "published_at": "0812google-kpop",
+    "published_ts": 1786510612.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "网传Blackpink成员Lisa与泰国演员Blue Pongtiwat恋情曝光",
+    "source_type": "韩娱",
+    "risk_level": "中",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：据韩国先驱报报道，网络传闻称Blackpink成员Lisa与泰国演员Blue Pongtiwat正在交往。",
+      "事实点2：该消息源自网络传闻，尚未得到Lisa或Blue Pongtiwat本人及其所属社的官方确认。"
+    ],
+    "summary_zh": "据韩国先驱报报道，网络上流传着关于Blackpink成员Lisa与泰国演员Blue Pongtiwat正在交往的传闻。该消息目前仅为网络传言，尚未得到当事人或所属社的官方回应。",
+    "extracted_at": "2026-08-12T13:28:10.199380+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "[NOTICE] STAYC ‘SOUND IN COLORS × K-POP EXPOSÉ’ Appearance Cancellation - Weverse",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kbnIzSWYzRWo2bWh5bm92aHFLMG9qcUdnWF9vOGdOb2s2OEJwd2R0QTZBZ2hub0dhbVl6aXZPSkdZQlZCX1JCaUdRWng0UQ?oc=5",
+    "content": "[NOTICE] STAYC ‘SOUND IN COLORS × K-POP EXPOSÉ’ Appearance Cancellation Weverse",
+    "published_at": "0812google-kpop",
+    "published_ts": 1786510092.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "STAYC取消出演日本音乐节目《SOUND IN COLORS × K-POP EXPOSÉ》",
+    "source_type": "韩娱",
+    "risk_level": "中",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：STAYC通过Weverse发布公告，宣布取消出演日本节目《SOUND IN COLORS × K-POP EXPOSÉ》。",
+      "事实点2：公告未说明取消原因。"
+    ],
+    "summary_zh": "STAYC于Weverse发布官方公告，宣布取消出演日本音乐节目《SOUND IN COLORS × K-POP EXPOSÉ》。公告中未提及具体取消原因。",
+    "extracted_at": "2026-08-12T13:28:14.169175+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Ex-CN Blue member Lee Jong-hyun halts SNS return after one day following 8-year hiatus - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGekRjbVlVQm1qZVVhbFoyR24zUXZFbFJPUm1jcVB3ZnZMTTQ2T3hibjhQc1NEQUZfVHNhWXotNU96cUJzVHg1d0g1TVItQ3JpTU5vYkJJbw?oc=5",
+    "content": "Ex-CN Blue member Lee Jong-hyun halts SNS return after one day following 8-year hiatus The Korea Herald",
+    "published_at": "0812google-kpop",
+    "published_ts": 1786507305.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "CN Blue前成员李宗泫时隔8年回归SNS仅一天后暂停",
+    "source_type": "韩娱",
+    "risk_level": "中",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：李宗泫（CN Blue前成员）在时隔8年后回归社交媒体，但仅一天后便暂停使用。",
+      "事实点2：该消息由The Korea Herald报道。"
+    ],
+    "summary_zh": "据The Korea Herald报道，CN Blue前成员李宗泫在时隔8年后回归社交媒体，但仅一天后便暂停使用。目前具体原因未明，但此举引发外界关注。",
+    "extracted_at": "2026-08-12T13:28:16.269318+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Massive Attack deliver history lesson on K-pop’s roots in political protest - The Conversation",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWElma0d3WkxvbTlscE9nU2RfbWNTaEp1TUYxOE51enNpZjFackhjNnBpeWpkeTNudlVfbjgxNElJN2l1bzdFMG0yY2pNS3hzZnFXcWd6VzlpX1JyWmVudU1VVWpERzN4Zk16UHJKVTFLODMteFNBQWFsbWI5Si11VWFkQWZkN2Y2eWRLRjBxeWtjZUNtZzU2ZUQ1emJCNE54dm1HRnNMQ0dydUNxbVE?oc=5",
+    "content": "Massive Attack deliver history lesson on K-pop’s roots in political protest The Conversation",
+    "published_at": "0812google-kpop",
+    "published_ts": 1786505460.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Massive Attack 讲述 K-pop 政治抗议根源的历史课",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：Massive Attack 在 The Conversation 上发表文章，讲述 K-pop 的政治抗议根源。",
+      "事实点2：文章内容涉及 K-pop 的历史，强调其与政治抗议的联系。"
+    ],
+    "summary_zh": "Massive Attack 在 The Conversation 上发表文章，为读者上了一堂关于 K-pop 政治抗议根源的历史课。文章指出 K-pop 并非仅仅是娱乐，其根源与政治抗议紧密相连，并探讨了 K-pop 如何反映和参与社会政治议题。",
+    "extracted_at": "2026-08-12T13:28:18.257165+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Remakes find new life across generations, borders in K-pop - The Korea Times",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM1M5UlhNLUxSbDl1RnkzcjJBQjdLUnFRTkFya1BDekFGOE1UZkUwOFJpQ2JPa3dJTHZsSmRSY28yMGN6NDFvRWloWXc2SU1EejdjbUJ3Q1ItVzE4ckUyNnNYbko4Y01kcTB1bHRNSHVjNDV3eVVvN0hyRFQtRzAyNjdTS1h1eFVXejZKaTQ3Wi1sM2ltVjJyVlVmTnF2c3RzLWxtTV9JZVVhLWkyRlhGbzdzaHpBd9IBuwFBVV95cUxOcXRpaDJvakd4dXRmc3NNWTgwZjNLdUtDSkRYeXNoZmRWRnYtc1Mxc1dtV080WVkxaHNLS2JUeEZsa0dzcVVIZ3BxRDktODBwSF9COGZnZHUyU25iR1RUaTdIR0ZodVBXUnpRSzUwaEJjajN1QXVEQzE2RmE4S1lZYldROVd2UW9EQzR4OG9fb2pLVFpMTjk2d1lsZWFkSjlkMTZKci0yRHBGclNKaTJrR2dFSWRUcDExN2hJ?oc=5",
+    "content": "Remakes find new life across generations, borders in K-pop The Korea Times",
+    "published_at": "0812google-kpop",
+    "published_ts": 1786503604.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "K-pop翻唱重制焕发新生：跨越世代与国界",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文未提及具体翻唱案例、艺人、时间或数据，仅以泛泛之谈描述K-pop翻唱现象。"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：K-pop翻唱重制在世代与国界间焕发新生。]",
+    "extracted_at": "2026-08-12T13:28:20.187543+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Big Bang excites fans with teaser photos for single - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wcTlWY2ZjY3IwUTNZT0FnWnZqSFFWZWdkOTYyanl3RlpWRVdsNVFrLUhuWnoyWGNVN2EzLXYzV0dlbi1QYzFrbW1Zd0lLTzBPM3VvaUxCWQ?oc=5",
+    "content": "Big Bang excites fans with teaser photos for single The Korea Herald",
+    "published_at": "0812google-kpop",
+    "published_ts": 1786502897.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Big Bang发布单曲预告照，粉丝激动不已",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Big Bang发布了新单曲的预告照片",
+      "预告照片引发粉丝期待"
+    ],
+    "summary_zh": "据韩国先驱报报道，Big Bang发布了新单曲的预告照片，引发了粉丝们的热烈期待。",
+    "extracted_at": "2026-08-12T13:28:21.974646+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-Pop Influencer Mina Chan Dies At 26 After Facing Online Harassment - NDTV",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVZnbnBPSS1SYzFuU3N6eG42cWVtWHlJRHZnVDd3aGotY1g0UWdkVEFyOFVMMFhUUzZmckxpNkR1R3VYQzl0SUlvcG1OQnFfVGRpN3BRQXJxOTl0Mmx6aG95Q05XS283MGw0U0p4eGM2M3dPY3dMdFozVm1fQmc1MW9rdDRETHk1c2N2cGRXcGFfV2Qxa0JWUVJmNlhHdmlETldKODhMZ3JFeDhYS0HSAbYBQVVfeXFMTm1xaGcwTUVSS2NVa3N4Z0JCbWRidHFvMnhtR3dPQ0dzcDZza1hZT2J5cGYzMXJKRllWSjh0LVFYenk2dGozY1Btd2Z3T1UxdVBNOG9FSXdsVEE1WVBDejJEQ0doT0lNdEh3Tl80d0loSFNxUC1pSnJzYUdfSTNZVlNLbjVKMUt1ZkJpUFlVTmxOQlhvaWRDTmdyeklUOUNWdk5Yd1FjMGpPZG8zNldCUW1nZXF4SXc?oc=5",
+    "content": "K-Pop Influencer Mina Chan Dies At 26 After Facing Online Harassment NDTV",
+    "published_at": "0812google-kpop",
+    "published_ts": 1786501158.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "韩流网红Mina Chan遭网暴后去世，年仅26岁",
+    "source_type": "韩娱",
+    "risk_level": "高",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：韩流网红Mina Chan去世，年仅26岁",
+      "事实点2：Mina Chan生前曾遭受网络骚扰"
+    ],
+    "summary_zh": "据NDTV报道，韩流网红Mina Chan在遭受网络骚扰后去世，年仅26岁。报道未提及具体死亡时间、地点及骚扰细节。",
+    "extracted_at": "2026-08-12T13:28:23.943337+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Cha Eun-woo eyes new drama after W13b tax payment - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44MmZNc0V6ZGxUNmt0N0tCZC00NWtPcTdaMHdCSkJNNTdkWktQT1lPUF9zM0dJM2cwT0kxYjdUWDJjc0xNdkZHcUZ1eXI2T1dEWDhhZW43SQ?oc=5",
+    "content": "Cha Eun-woo eyes new drama after W13b tax payment The Korea Herald",
+    "published_at": "0812google-kpop",
+    "published_ts": 1786500744.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "车银优缴清130亿韩元税款后，有望接演新剧",
+    "source_type": "韩娱",
+    "risk_level": "中",
+    "is_blurred": false,
+    "facts_list": [
+      "车银优已缴纳130亿韩元（约合人民币7000万元）税款",
+      "车银优正在考虑出演新剧，具体作品尚未公布"
+    ],
+    "summary_zh": "据韩国先驱报报道，车银优在缴纳130亿韩元税款后，正在考虑出演新剧。该消息引发关注，但具体作品信息尚未公开。",
+    "extracted_at": "2026-08-12T13:28:26.462297+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Lee Jun Hyuk Gets A New Outlook On Life After Winning The Lottery In New Drama “The Ordinary Jackpot” Teasers",
+    "url": "https://www.soompi.com/article/1862304wpp/watch-lee-jun-hyuk-gets-a-new-outlook-on-life-after-winning-the-lottery-in-new-drama-the-ordinary-jackpot-teasers",
+    "content": "TVING’s upcoming original series “The Ordinary Jackpot” has unveiled its first poster and teaser! Based on the webtoon of the same name, “The Ordinary Jackpot” follows Gong Eun Tae (Lee Jun Hyuk), an ordinary sales employee who wins the lottery jackpot. Though the prize—1.3 billion won (approximately $907,000)—isn’t quite enough to dramatically transform his life&#8230; Continue reading Watch: Lee Jun Hyuk Gets A New Outlook On Life After Winning The Lottery In New Drama “The Ordinary Jackpot” Teasers\nThe post Watch: Lee Jun Hyuk Gets A New Outlook On Life After Winning The Lottery In New Drama “The Ordinary Jackpot” Teasers appeared first on Soompi.",
+    "published_at": "0812soompi",
+    "published_ts": 1786500576.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "李准赫新剧《平凡中奖》公开海报预告，中奖13亿韩元改变人生",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "TVING原创剧《The Ordinary Jackpot》（暂译：平凡中奖）公开首张海报和预告片",
+      "该剧改编自同名网络漫画，由李准赫饰演普通销售职员孔恩泰",
+      "孔恩泰赢得彩票头奖，奖金为13亿韩元（约90.7万美元）"
+    ],
+    "summary_zh": "TVING原创剧《The Ordinary Jackpot》（暂译：平凡中奖）公开首张海报和预告片。该剧改编自同名网络漫画，由李准赫饰演普通销售职员孔恩泰，他在赢得彩票头奖后获得了13亿韩元（约90.7万美元）的奖金，这笔钱虽不足以彻底改变生活，却让他对人生有了新的看法。",
+    "extracted_at": "2026-08-12T13:28:28.859253+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "BTS charts 20 weeks on Billboard’s Hot 100 with ‘Swim’ - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13RXJ5VVd1Wi1EdzhSWC1FN2xWZmlXOFBhVUUtZlNBbno4N0lXZUVVdnhRaXNQLXduRXFQRWpoYlMzOURRX2tFRFBFNnlRRzBNZjRTaF85OA?oc=5",
+    "content": "BTS charts 20 weeks on Billboard’s Hot 100 with ‘Swim’ The Korea Herald",
+    "published_at": "0812google-kpop",
+    "published_ts": 1786500067.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "BTS《Swim》连续20周登上Billboard Hot 100",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "BTS的歌曲《Swim》在Billboard Hot 100榜单上连续停留20周"
+    ],
+    "summary_zh": "据The Korea Herald报道，BTS的歌曲《Swim》已连续20周登上Billboard Hot 100榜单。这一成绩显示了该曲目在市场上的持续受欢迎程度。",
+    "extracted_at": "2026-08-12T13:28:30.711387+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
     "title": "IT'S A WRAP, BALTIMORE! 💜 KPOP boy group BTS shares some snaps from the Baltimore stop of their \"Arirang\" World Tour. (📷: BTS/Instagram) - facebook.com",
     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbVp2aFFXS0d4Y3hhRzRPNzFCQllpMndsbkpPWDZWbTB1c21PWDNOU1g3RXZ3cHJRNktWWTBsOXl0ZkF0dF94TTJkSGpvVmhONXU2V0VJeDhHV0ZwWkV3MWgxZ1lkUHRKVnFuenBvRHhQOEV1Q25rcTBtaHoyU1UzRkFtS2dQeUQ4bjZzS3BHNTQ0d1JwUTI4U1NBNThOWGNqZGtoQU9sYm9BMFRFc05fTU81dUZUdHNkSk5FaEFkX2RUWmVFUHBpZ0RPRC15UWQ4UzhZOG4zWQ?oc=5",
     "content": "IT'S A WRAP, BALTIMORE! 💜 KPOP boy group BTS shares some snaps from the Baltimore stop of their \"Arirang\" World Tour. (📷: BTS/Instagram) facebook.com",
@@ -12,40 +251,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "BTS晒巴尔的摩站巡演幕后照，'阿里郎'世界巡演完美收官",
+    "title_zh": "BTS晒巴尔的摩站巡演幕后照，'Arirang'世界巡演完美落幕",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "事实点1：BTS在Instagram分享了巴尔的摩站巡演的照片",
-      "事实点2：该站为'阿里郎'世界巡演的一站"
+      "事实点2：照片来自其'Arirang'世界巡演巴尔的摩站"
     ],
-    "summary_zh": "韩国男团BTS在Instagram上分享了他们在巴尔的摩站巡演的照片，标志着'阿里郎'世界巡演的这一站圆满结束。",
-    "extracted_at": "2026-08-12T09:28:41.797817+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "ICE plans to give officers gloves that can deliver painful electric shocks - The Korea Herald",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fd3duNS1abnliTmdfSnZDVklVbDh2Vk9RaVQ2Y0FOWUt4NXhFeWhWcnVzUlFTM3ltQ3ByaUozYmVPa2JzX2dialczM28xbHh0blhlSmdBUQ?oc=5",
-    "content": "ICE plans to give officers gloves that can deliver painful electric shocks The Korea Herald",
-    "published_at": "0812google-kpop",
-    "published_ts": 1786497147.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "ICE计划为官员配备可释放疼痛电击的手套",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：美国移民和海关执法局（ICE）计划为官员配备一种手套，该手套能够释放疼痛的电击。",
-      "事实点2：该消息由《韩国先驱报》报道。"
-    ],
-    "summary_zh": "据《韩国先驱报》报道，美国移民和海关执法局（ICE）计划为官员配备一种能够释放疼痛电击的手套。该手套旨在提供一种非致命性的控制手段，但具体细节和部署时间尚未公布。",
-    "extracted_at": "2026-08-12T09:28:44.109527+08:00"
+    "summary_zh": "韩国男团BTS在Instagram上分享了他们在巴尔的摩站巡演的照片，标志着'Arirang'世界巡演该站的圆满结束。",
+    "extracted_at": "2026-08-12T13:28:32.665969+08:00"
   },
   {
     "source_id": "soompi",
@@ -66,10 +281,11 @@
     "is_blurred": false,
     "facts_list": [
       "KBS 2TV新剧《不是你的爱》公开主海报",
-      "该剧为现实浪漫剧，讲述一对交往10年的情侣在熟悉的关系中经历意想不到的情感变化"
+      "该剧讲述一对恋爱10年的情侣在熟悉的关系中经历意想不到的情感变化",
+      "主演为徐康俊和安恩真"
     ],
-    "summary_zh": "KBS 2TV新剧《不是你的爱》公开了主海报。该剧是一部现实浪漫剧，讲述一对交往10年的情侣在熟悉的关系中经历意想不到的情感变化。海报捕捉了两人之间微妙的变化，暗示他们的关系面临危机。主演为徐康俊和安恩真。",
-    "extracted_at": "2026-08-12T09:28:46.705262+08:00"
+    "summary_zh": "KBS 2TV新剧《不是你的爱》公开了主海报。该剧是一部现实浪漫剧，讲述一对恋爱10年的情侣在熟悉的关系中经历意想不到的情感变化。新公开的海报捕捉了两人之间微妙的变化，暗示他们的关系面临危机。该剧由徐康俊和安恩真主演。",
+    "extracted_at": "2026-08-12T13:28:34.928581+08:00"
   },
   {
     "source_id": "soompi",
@@ -92,32 +308,8 @@
       "事实点1：据尼尔森韩国数据，8月11日播出的《Dream to You》最新一集全国平均收视率为2.5%，较之前有所上升。",
       "事实点2：该剧目前仅剩两集未播，即将迎来大结局。"
     ],
-    "summary_zh": "ENA电视剧《Dream to You》在播出最后一周前收视率小幅上升。据尼尔森韩国数据，8月11日播出的最新一集全国平均收视率为2.5%，较之前有所增长。该剧目前仅剩两集未播，即将迎来大结局。",
-    "extracted_at": "2026-08-12T09:28:48.773970+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "BTS Baltimore concerts draw fans from around globe, boosting business - Baltimore Sun",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96bEtIWG5lTG1IczhtaUxndVhpQ2Z6WWtEVjR1RkhzOHFMcmVFdUFjT0dWbzExVnppOE9yNFNBcHp4V3B5UmJjeE5ZTVNhVExjR3lnTHdIejNWY3ZDdXBkSFF0RzRDMGZTUkwtUnNHRjc?oc=5",
-    "content": "BTS Baltimore concerts draw fans from around globe, boosting business Baltimore Sun",
-    "published_at": "0812google-kpop",
-    "published_ts": 1786488941.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "BTS巴尔的摩演唱会吸引全球粉丝，带动当地经济",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：BTS在巴尔的摩举办演唱会，吸引来自全球的粉丝。",
-      "事实点2：演唱会带动了当地商业发展。"
-    ],
-    "summary_zh": "据巴尔的摩太阳报报道，BTS在巴尔的摩举办的演唱会吸引了来自世界各地的粉丝，显著促进了当地商业活动。报道未提供具体数据或细节。",
-    "extracted_at": "2026-08-12T09:28:50.978214+08:00"
+    "summary_zh": "ENA电视台的《Dream to You》在播出最后一周前收视率小幅上升。据尼尔森韩国数据，8月11日播出的最新一集全国平均收视率为2.5%，较之前有所增长。该剧目前仅剩两集未播，即将迎来大结局。",
+    "extracted_at": "2026-08-12T13:28:36.886049+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -140,8 +332,8 @@
       "事实点1：TWICE成员定延宣布离开JYP娱乐。",
       "事实点2：定延将继续作为TWICE组合成员活动。"
     ],
-    "summary_zh": "据Complex报道，TWICE成员定延宣布离开JYP娱乐，但她将继续作为K-pop女子组合TWICE的成员进行活动。",
-    "extracted_at": "2026-08-12T09:28:53.030344+08:00"
+    "summary_zh": "据Complex报道，TWICE成员定延宣布离开JYP娱乐，但她将继续作为K-pop女子组合TWICE的成员活动。具体细节尚未披露。",
+    "extracted_at": "2026-08-12T13:28:38.832791+08:00"
   },
   {
     "source_id": "soompi",
@@ -161,11 +353,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：8月11日（当地时间），Billboard公布CORTIS第二张EP《GREENGREEN》在Top 200专辑榜第13周回升至第39名。",
-      "事实点2：该EP较上周第114名跃升75个名次，重新进入前40。"
+      "事实点1：8月11日（当地时间），Billboard公布CORTIS第二张EP《GREENGREEN》在Top 200专辑榜第13周回升至第39名",
+      "事实点2：该专辑较上周第114名跃升75个名次，重新进入前40"
     ],
-    "summary_zh": "CORTIS的第二张EP《GREENGREEN》在发行三个月后，于8月11日（当地时间）重新进入Billboard 200前40名，位列第39名，较上周的第114名跃升75个名次。该EP在Top 200专辑榜上已停留13周。",
-    "extracted_at": "2026-08-12T09:28:55.538897+08:00"
+    "summary_zh": "CORTIS的第二张EP《GREENGREEN》在发行三个月后，于8月11日（当地时间）重新进入Billboard 200前40名，位列第39名。该专辑在Top 200专辑榜的第13周，从上周的第114名跃升75个名次，实现显著回升。",
+    "extracted_at": "2026-08-12T13:28:41.417974+08:00"
   },
   {
     "source_id": "soompi",
@@ -189,7 +381,7 @@
       "事实点2：宋元根以模特身份入行，后作为偶像组合OPPA成员出道。"
     ],
     "summary_zh": "8月11日晚，偶像转型演员宋元根通过手写信亲自宣布结婚计划。宋元根以模特身份入行，后作为偶像组合OPPA成员出道。",
-    "extracted_at": "2026-08-12T09:28:57.631703+08:00"
+    "extracted_at": "2026-08-12T13:28:43.206192+08:00"
   },
   {
     "source_id": "soompi",
@@ -204,16 +396,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "BTS《NORMAL》成其第11首Billboard流行电台前40热单",
+    "title_zh": "BTS《NORMAL》成其第11首进入Billboard流行电台榜前40的歌曲",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：8月11日（当地时间），Billboard公布BTS歌曲《NORMAL》在Pop Airplay榜单（美国主流Top 40电台周播放量统计）首次进榜，位列第40名。",
-      "事实点2：《NORMAL》是BTS第11首进入该榜单前40的歌曲，该曲于3月发行，为专辑B-side曲目。"
+      "事实点1：8月11日（当地时间），Billboard公布BTS歌曲《NORMAL》在Pop Airplay榜单上首次亮相，位列第40名。",
+      "事实点2：该榜单衡量美国主流Top 40电台的每周播放量。",
+      "事实点3：《NORMAL》是BTS于3月发行的专辑中的一首B面曲，这是他们第11首进入该榜单前40的歌曲。"
     ],
-    "summary_zh": "据Billboard于8月11日（当地时间）公布，BTS的歌曲《NORMAL》在发行近五个月后，首次进入美国Pop Airplay榜单（统计主流Top 40电台周播放量），位列第40名。这成为BTS在该榜单上的第11首Top 40热单。《NORMAL》是BTS专辑中的一首B-side曲目，于3月发行。",
-    "extracted_at": "2026-08-12T09:29:00.767138+08:00"
+    "summary_zh": "据Billboard于8月11日公布，BTS的歌曲《NORMAL》在发行近五个月后，首次进入美国Pop Airplay榜单，位列第40名。该榜单统计美国主流Top 40电台的每周播放量。这首歌是BTS于3月发行专辑中的一首B面曲，此次成绩使其成为BTS第11首进入该榜单前40的歌曲。",
+    "extracted_at": "2026-08-12T13:28:45.838950+08:00"
   },
   {
     "source_id": "soompi",
@@ -233,11 +426,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：8月11日，IPQ宣布Xen因健康问题缺席OMEGA X的“NO LIMIT”美国巡演。",
-      "事实点2：IPQ声明称，Xen因健康状况不佳和身体不适近期就医，经医学检查后决定不参加巡演。"
+      "事实点1：8月11日，IPQ宣布OMEGA X成员Xen因健康问题将缺席组合即将举行的美国巡演。",
+      "事实点2：IPQ声明称，Xen因健康状况不佳和身体不适近期前往医院就诊，经医学检查后决定不参加巡演。"
     ],
-    "summary_zh": "OMEGA X成员Xen因健康问题将不参加组合即将举行的美国巡演。8月11日，所属社IPQ宣布Xen因健康问题缺席“NO LIMIT”美国巡演，并解释称Xen近期因健康状况不佳和身体不适就医，经医学检查后决定不参加。",
-    "extracted_at": "2026-08-12T09:29:03.245237+08:00"
+    "summary_zh": "OMEGA X成员Xen因健康问题将不参加组合即将举行的美国巡演。8月11日，所属社IPQ宣布了这一消息，并解释称Xen因健康状况不佳和身体不适近期前往医院就诊，经医学检查后决定缺席此次巡演。",
+    "extracted_at": "2026-08-12T13:28:47.991089+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -252,16 +445,40 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "K-pop TikTok网红Mina Chan直播中猝死",
+    "title_zh": "K-pop TikTok网红Mina Chan直播中猝逝",
     "source_type": "韩娱",
     "risk_level": "高",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：K-pop TikTok网红Mina Chan在直播过程中死亡",
+      "事实点1：K-pop TikTok网红Mina Chan在直播过程中去世",
       "事实点2：该事件由USA Today报道"
     ],
-    "summary_zh": "据USA Today报道，K-pop TikTok网红Mina Chan在直播过程中死亡。具体死亡原因和细节尚未披露。",
-    "extracted_at": "2026-08-12T09:29:05.127592+08:00"
+    "summary_zh": "据USA Today报道，K-pop TikTok网红Mina Chan在直播过程中去世。具体死因及直播细节尚未披露。",
+    "extracted_at": "2026-08-12T13:28:49.524902+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-pop TikTok influencer Mina Chan dies on livestream - Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS25vY0lmMTRZV1VPSXVCUFVVZ0duR2ttak1LZzRKelhuQklaRGVrbHJHTWg0SVVORWdydnQ2UFRnOVZBVFg1cUNoS2VpdXJOZXJDRVFvSzRHWWFsWC1VV3V2Zkxwbjg2U0MyM09zUms2amQ1TlZFbE8yWlNDYnVwUThMREtyMTJ5TE51ajdYcDBKU2FvMDhaQ19uRkxDem8?oc=5",
+    "content": "K-pop TikTok influencer Mina Chan dies on livestream Yahoo",
+    "published_at": "0812google-kpop",
+    "published_ts": 1786477599.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "K-pop TikTok网红Mina Chan直播中去世",
+    "source_type": "韩娱",
+    "risk_level": "高",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：K-pop TikTok网红Mina Chan在直播过程中去世。",
+      "事实点2：该事件由Yahoo报道。"
+    ],
+    "summary_zh": "据Yahoo报道，K-pop TikTok网红Mina Chan在直播过程中去世。目前关于其去世的具体原因和更多细节尚未披露。",
+    "extracted_at": "2026-08-12T13:28:51.198063+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -281,12 +498,12 @@
     "risk_level": "高",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：Mina Chan，25岁，韩流网红，在直播中疑似自杀身亡",
-      "事实点2：事件发生时，她正面临网络批评",
-      "事实点3：该事件被报道于IMDb"
+      "事实点1：Mina Chan，25岁，韩流网红，在直播中疑似自杀身亡。",
+      "事实点2：其死亡发生在遭受网络批评的背景下。",
+      "事实点3：该事件被报道于IMDb。"
     ],
-    "summary_zh": "据IMDb报道，25岁的韩流网红Mina Chan在直播中疑似自杀身亡。她生前曾遭受网络批评。具体直播内容、死亡时间及确切原因尚未披露。",
-    "extracted_at": "2026-08-12T09:29:07.522579+08:00"
+    "summary_zh": "据IMDb报道，25岁的韩流网红Mina Chan在直播中疑似自杀身亡。她生前曾遭受网络批评。具体直播内容、死亡时间及地点等细节尚未披露。",
+    "extracted_at": "2026-08-12T13:28:53.449436+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -306,14 +523,12 @@
     "risk_level": "高",
     "is_blurred": false,
     "facts_list": [
-      "时间：2024年（具体日期未提及）",
-      "地点：直播平台（具体平台未提及）",
-      "主体：25岁韩流网红Mina Chan",
-      "事件：在直播中疑似自杀身亡",
-      "背景：生前曾遭受网络批评"
+      "事实点1：Mina Chan，25岁，韩流网红，在直播中疑似自杀身亡。",
+      "事实点2：事件发生时，她正面临网络批评。",
+      "事实点3：该事件被报道于IMDb。"
     ],
     "summary_zh": "据IMDb报道，25岁的韩流网红Mina Chan在直播中疑似自杀身亡。她生前曾遭受网络批评。具体直播平台、时间及更多细节尚未披露。",
-    "extracted_at": "2026-08-12T09:29:09.519310+08:00"
+    "extracted_at": "2026-08-12T13:28:55.289231+08:00"
   },
   {
     "source_id": "soompi",
@@ -333,11 +548,35 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：8月12日午夜（韩国时间），Jun.K公开了其即将发行的数码单曲《Your Lips》的首批概念照，该曲 featuring Red Velvet成员Wendy。",
-      "事实点2：单曲《Your Lips》将于8月17日下午6点（韩国时间）在线发行。"
+      "事实点1：8月12日午夜（韩国时间），Jun.K公开了与Wendy合作的新数字单曲《Your Lips》的首批概念照。",
+      "事实点2：该单曲将于8月17日下午6点（韩国时间）在线发行。"
     ],
-    "summary_zh": "2PM成员Jun.K于8月12日午夜（韩国时间）公开了与Red Velvet成员Wendy合作的新数码单曲《Your Lips》的首批概念照。该单曲预计于8月17日下午6点（韩国时间）在线发行。",
-    "extracted_at": "2026-08-12T09:29:12.200025+08:00"
+    "summary_zh": "2PM成员Jun.K于8月12日午夜（韩国时间）公开了与Red Velvet成员Wendy合作的新数字单曲《Your Lips》的首批概念照。该单曲预计于8月17日下午6点（韩国时间）在线发行。",
+    "extracted_at": "2026-08-12T13:28:57.378095+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Influencer Mina Chan, 25, Dies by Suicide on Livestream: Reports - People.com",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZkpRUWxaa01hdHNGN2J3UGtzaVZJMHRnczEzX09UcWY3c01MQXpIZzB3OWtOc05NcDRSbkhrNXo2NDMxY1B4WEtKU19LTUFtdDl6amZBNERzUFZVYk1keVdPQkdWUXh5YmdocGlQNGp2VDBvOF9hZlJCNmpGc1R6VWxVbkVzNHAwUlk2X0pDbw?oc=5",
+    "content": "Influencer Mina Chan, 25, Dies by Suicide on Livestream: Reports People.com",
+    "published_at": "0812google-kpop",
+    "published_ts": 1786466063.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "25岁网红Mina Chan直播中自杀身亡",
+    "source_type": "韩娱",
+    "risk_level": "高",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：25岁网红Mina Chan在直播中自杀身亡",
+      "事实点2：该事件由People.com报道"
+    ],
+    "summary_zh": "据People.com报道，25岁的网红Mina Chan在直播中自杀身亡。具体细节尚未披露。",
+    "extracted_at": "2026-08-12T13:28:58.969700+08:00"
   },
   {
     "source_id": "asianwiki",
