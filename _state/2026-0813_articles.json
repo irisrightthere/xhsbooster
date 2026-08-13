@@ -1,5 +1,202 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Mevu Launches K-POP AI Styling in Korea, Japan - 조선일보",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdHJBczdQX0dpcUpnOGkwUFBwS3JrSzdtMlR5QlJaSmJKbUFPa1FyRVg4MHliUVVOejBienVwXzlxSllZSjE3R1U5emE5aWZQMmdvdXg4WmwyZHJYcnpEaG5wbmtvT3B1ZThBOUMxVldQT0I1OVoxd0ptOE1nN0pUS194SmlQQmFvdVVMU19B?oc=5",
+    "content": "Mevu Launches K-POP AI Styling in Korea, Japan 조선일보",
+    "published_at": "0813google-kpop",
+    "published_ts": 1786583886.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Mevu在韩日推出K-POP AI造型服务",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：Mevu在韩国和日本推出K-POP AI造型服务",
+      "事实点2：该服务由Mevu提供，具体功能未详细说明"
+    ],
+    "summary_zh": "据朝鲜日报报道，Mevu在韩国和日本推出了K-POP AI造型服务。该服务利用AI技术为K-POP艺人或相关用户提供造型建议，但具体功能细节未在原文中详述。",
+    "extracted_at": "2026-08-13T09:38:36.530304+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "“KPop Demon Hunters” star says Leonardo DiCaprio ‘put her off’ her BAFTAs performance: ‘He was not smiling’ - Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPek5lUHdZTEU0cG1selJBdXVWMHJncXdvR1RZN0NrMHQ1M3BLOUhQZVQyc04wY0RHdy1wVjJscE8yZ2ZZVHJrbXBld2JsLUE3eEk0cEhJNmJfVk9yTHBwWGhseDhDVzBkLWlRa2ZCLXZFRDNETXo2LXhvdDlfdVptSC1MWkhrYWFXbE9EcDlZbUhqb1BOUnpSdjJZWVdNSlU?oc=5",
+    "content": "“KPop Demon Hunters” star says Leonardo DiCaprio ‘put her off’ her BAFTAs performance: ‘He was not smiling’ Yahoo",
+    "published_at": "0813google-kpop",
+    "published_ts": 1786582140.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《KPop Demon Hunters》主演称莱昂纳多·迪卡普里奥令其BAFTA表演分心：'他没笑'",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：在BAFTA颁奖礼上，莱昂纳多·迪卡普里奥面无表情，令《KPop Demon Hunters》主演分心。",
+      "事实点2：该主演表示，迪卡普里奥未微笑影响了她的表演。"
+    ],
+    "summary_zh": "《KPop Demon Hunters》主演在BAFTA颁奖礼上表演时，注意到莱昂纳多·迪卡普里奥没有微笑，这让她感到分心。她表示，迪卡普里奥的严肃表情影响了她的表演状态。",
+    "extracted_at": "2026-08-13T09:38:38.993081+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "How K-pop turned album previews into events worth ticketing - The Korea Times",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRkF4RGZGeFo3eFFCSlNZbjU3SWZHZ3NDY1YwOEdoZ1RwV3A3NkxrQ1FEY0lmaDQ3dW1FTFJVVXNBOGE4TjBFd0p3WVZvS3Foazd2SlRkV05QUmpaTExUQmRSSUFrREUxSHdoQ1dYdmdhUkR0TmdYVG90bGVkaFNVNmg0ekNqbEpLWEk2eFlTX0dKeVVrMXllNlNsNUp4NnNiMWlUb3pkT3RJZUlwWXdtU2FIU3FZNm9l0gG-AUFVX3lxTE1wSFBxRGY5dl9IdVBCYW9veW83ZlRyeGp2WDRJWTlRbzdHd3FaUkFHcFFoVFpnNWFuaFFCWWFnMGI5NGEydkxuamYzS1ViOGhnOVlqN3hBdFV2aHNHTDczeXFub1FjSWp2dlZyVnlpSjNBVnlPNTF5SzRuSFNwLUt5YUFuSFFiRlN6OXJOSXRHUmdCdGVoYmpHcjZaNldHRlRHT3hhN1VkYWFPMHhwQXpJa1JDTFNhU3dPZHhqcEE?oc=5",
+    "content": "How K-pop turned album previews into events worth ticketing The Korea Times",
+    "published_at": "0813google-kpop",
+    "published_ts": 1786572000.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "K-pop如何将专辑试听会变成值得售票的活动",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：韩国时报报道，K-pop行业将专辑试听会转变为售票活动。",
+      "事实点2：文章探讨了K-pop如何通过创新方式提升专辑预览的吸引力。"
+    ],
+    "summary_zh": "韩国时报报道，K-pop行业将传统的专辑试听会转变为值得售票的特别活动。文章分析了这一趋势背后的原因和方式，指出K-pop通过将试听会打造成独特的粉丝体验，增加了专辑发布的期待感和参与度。",
+    "extracted_at": "2026-08-13T09:38:41.260818+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "TXT’s Yeonjun, RESCENE, CORTIS, DAY6’s Young K, NouerA, BTS, And More Top Circle Monthly And Weekly Charts",
+    "url": "https://www.soompi.com/article/1862536wpp/txts-yeonjun-rescene-cortis-day6s-young-k-nouera-bts-and-more-top-circle-monthly-and-weekly-charts",
+    "content": "Circle Chart has revealed its latest monthly and weekly chart rankings! Monthly Album Chart TXT’s Yeonjun achieved a double crown for the month of July with his new solo mini album “NO LABELS: PART 02” and its title track “Ice Cream,” which topped the physical album chart and digital download chart respectively. “NO LABELS: PART&#8230; Continue reading TXT&#8217;s Yeonjun, RESCENE, CORTIS, DAY6&#8217;s Young K, NouerA, BTS, And More Top Circle Monthly And Weekly Charts\nThe post TXT&#8217;s Yeonjun, RESCENE, CORTIS, DAY6&#8217;s Young K, NouerA, BTS, And More Top Circle Monthly And Weekly Charts appeared first on Soompi.",
+    "published_at": "0813soompi",
+    "published_ts": 1786570999.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "TXT然竣、RESCENE、CORTIS、DAY6 Young K、NouerA、BTS等登顶Circle月榜及周榜",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Circle Chart公布最新月度和周度排行榜。",
+      "TXT成员然竣凭借个人迷你专辑《NO LABELS: PART 02》在7月实现双冠王，该专辑在实体专辑月榜和主打歌《Ice Cream》在数字下载月榜均位列第一。",
+      "RESCENE、CORTIS、DAY6的Young K、NouerA、BTS等艺人也在月度及周度排行榜中占据榜首位置。"
+    ],
+    "summary_zh": "Circle Chart公布了最新月度和周度排行榜。TXT成员然竣凭借个人迷你专辑《NO LABELS: PART 02》在7月实现双冠王，该专辑在实体专辑月榜和主打歌《Ice Cream》在数字下载月榜均位列第一。此外，RESCENE、CORTIS、DAY6的Young K、NouerA、BTS等艺人也在月度及周度排行榜中占据榜首位置。",
+    "extracted_at": "2026-08-13T09:38:43.874632+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "NCT 127 To Perform Live On “America’s Got Talent”",
+    "url": "https://www.soompi.com/article/1862533wpp/nct-127-to-perform-live-on-americas-got-talent",
+    "content": "NCT 127 will be taking the stage on “America’s Got Talent”! On August 12 local time, the famous NBC show announced that NCT 127 would be making an appearance next week as special guest performers. The episode of “America’s Got Talent” featuring NCT 127 will air on August 19 at 8 p.m. ET. NCT 127&#8230; Continue reading NCT 127 To Perform Live On &#8220;America&#8217;s Got Talent&#8221;\nThe post NCT 127 To Perform Live On &#8220;America&#8217;s Got Talent&#8221; appeared first on Soompi.",
+    "published_at": "0813soompi",
+    "published_ts": 1786567988.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "NCT 127将亮相《美国达人秀》现场表演",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：8月12日（当地时间），NBC节目《美国达人秀》宣布NCT 127将作为特别嘉宾出演。",
+      "事实点2：该期节目将于8月19日晚上8点（美国东部时间）播出。"
+    ],
+    "summary_zh": "NCT 127将登上《美国达人秀》舞台。8月12日（当地时间），NBC热门节目《美国达人秀》宣布NCT 127将于下周作为特别嘉宾表演。包含NCT 127的该期节目将于8月19日晚上8点（美国东部时间）播出。",
+    "extracted_at": "2026-08-13T09:38:45.803831+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "4 Of Hyeri’s Most Memorable Emotional Lines From “Dream To You”",
+    "url": "https://www.soompi.com/article/1862331wpp/4-of-hyeris-most-memorable-emotional-lines-from-dream-to-you",
+    "content": "Hyeri has been captivating viewers with her emotional lines in “Dream to You”! “Dream to You” is a romantic comedy about the reunion of genius film director Woo Soo Bin (Hwang In Youp), who returns after achieving his dreams, and reporter Ju Yi Jae (Hyeri), who has forgotten her own. Here are four of Hyeri&#8217;s&#8230; Continue reading 4 Of Hyeri&#8217;s Most Memorable Emotional Lines From &#8220;Dream To You&#8221;\nThe post 4 Of Hyeri&#8217;s Most Memorable Emotional Lines From &#8220;Dream To You&#8221; appeared first on Soompi.",
+    "published_at": "0813soompi",
+    "published_ts": 1786562631.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "惠利《梦到你》中4句最令人难忘的情感台词",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：惠利在电视剧《梦到你》中展现了令人动容的情感台词。",
+      "事实点2：《梦到你》是一部浪漫喜剧，讲述天才电影导演禹秀彬（黄仁烨饰）实现梦想后回归，与忘记自己梦想的记者朱伊在（惠利饰）重逢的故事。",
+      "事实点3：文章列举了惠利在剧中的4句最令人难忘的情感台词。"
+    ],
+    "summary_zh": "惠利在电视剧《梦到你》中凭借情感台词吸引了观众。《梦到你》是一部浪漫喜剧，讲述天才电影导演禹秀彬（黄仁烨饰）实现梦想后回归，与忘记自己梦想的记者朱伊在（惠利饰）重逢的故事。文章列举了惠利在剧中4句最令人难忘的情感台词。",
+    "extracted_at": "2026-08-13T09:38:48.175259+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Stray Kids’ “THIS & THAT” Becomes 2nd Album Of 2026 To Sell 3 Million Copies In 1st Week",
+    "url": "https://www.soompi.com/article/1862519wpp/stray-kids-this-that-becomes-their-4th-album-to-sell-3-million-copies-in-1st-week",
+    "content": "Stray Kids’ latest album is already a “triple-million seller”! Last week, Stray Kids made their long-awaited return with their new mini album “THIS &#38; THAT” and its catchy title track of the same name on August 7. On August 12, Hanteo Chart announced that “THIS &#38; THAT” had already sold over 3 million copies, making&#8230; Continue reading Stray Kids&#8217; &#8220;THIS &#38; THAT&#8221; Becomes 2nd Album Of 2026 To Sell 3 Million Copies In 1st Week\nThe post Stray Kids&#8217; &#8220;THIS & THAT&#8221; Becomes 2nd Album Of 2026 To Sell 3 Million Copies In 1st Week appeared first on Soompi.",
+    "published_at": "0813soompi",
+    "published_ts": 1786559167.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Stray Kids新专辑《THIS & THAT》首周销量突破300万张，成为2026年第二张达成此成绩的专辑",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：Stray Kids于8月7日发行迷你专辑《THIS & THAT》及同名主打曲。",
+      "事实点2：8月12日，Hanteo Chart宣布该专辑销量已超过300万张。",
+      "事实点3：该专辑成为2026年第二张首周销量突破300万张的专辑。"
+    ],
+    "summary_zh": "Stray Kids于8月7日携迷你专辑《THIS & THAT》回归，同名主打曲同步公开。8月12日，Hanteo Chart数据显示该专辑销量已突破300万张，成为2026年第二张达成此成绩的专辑。",
+    "extracted_at": "2026-08-13T09:38:50.311436+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "‘KPop Demon Hunters’ Star EJAE Blames Voice Crack at the BAFTAs on Locking Eyes With This Terse Star: ‘He Was Not Smiling’ - VICE",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQTJPWWNnN3drRWxfTUt5UUMtd0hwWDBwNEN2UVgwWUlfMktGRy02c2ZXX1VNdjNwazRFUjVwNl9Xc0FEREtNbzQ4M05jWVFVMUFjbXliTlNYaU45aFY5LWF2OWZZSVdvMGlRQWlsN2tSeExoQzFVSU1wbjdaaENkQ05HellTVXNjUF9VazBJdEpqQjF6MmwwbWc1RHVSaWJ4by1PX2Z5MzJfMk5rb1FtZjh0WGhGMzU2MHJOaEp3em1XR0YxaFZ4b080aWd0TnZWNXZNbmVCN3RBenBhSFl5ZlFjc1Q?oc=5",
+    "content": "‘KPop Demon Hunters’ Star EJAE Blames Voice Crack at the BAFTAs on Locking Eyes With This Terse Star: ‘He Was Not Smiling’ VICE",
+    "published_at": "0813google-kpop",
+    "published_ts": 1786557300.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《K-Pop恶魔猎人》主演EJAE称BAFTA颁奖礼上因与某冷面明星对视而破音：'他没笑'",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "时间：BAFTA颁奖礼期间",
+      "地点：BAFTA颁奖礼现场",
+      "主体：EJAE（《K-Pop恶魔猎人》主演）",
+      "具体动作：EJAE在BAFTA颁奖礼上破音，他归因于与一位表情严肃的明星对视，该明星未微笑"
+    ],
+    "summary_zh": "《K-Pop恶魔猎人》主演EJAE在BAFTA颁奖礼上出现破音，他事后解释称，破音是因为与一位表情严肃的明星对视，对方没有微笑，导致他紧张。EJAE未透露该明星姓名，但这一解释引发粉丝热议。",
+    "extracted_at": "2026-08-13T09:38:52.788646+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -12,40 +209,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "BTS《SWIM》连续20周入榜Billboard Hot 100，追平《Butter》最长在榜纪录",
+    "title_zh": "BTS《SWIM》连续20周在榜，追平《Butter》创最长在榜纪录",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：8月11日（当地时间），Billboard公布BTS歌曲《SWIM》在Hot 100榜单上连续20周在榜，本周排名第91位。",
-      "事实点2：《SWIM》追平了BTS 2021年热门单曲《Butter》创下的组合在Hot 100上最长在榜纪录。"
+      "事实点1：8月11日（当地时间），Billboard公布BTS歌曲《SWIM》在Hot 100榜单上连续第20周在榜，位列第91名。",
+      "事实点2：《SWIM》追平BTS 2021年热门单曲《Butter》的纪录，成为BTS在Hot 100上最长在榜歌曲之一。"
     ],
-    "summary_zh": "据Billboard于8月11日（当地时间）公布的数据，BTS的歌曲《SWIM》在Hot 100榜单上连续20周在榜，本周位列第91名。这一成绩使《SWIM》追平了BTS于2021年发行的热门单曲《Butter》所保持的组合在Hot 100上最长在榜纪录。",
-    "extracted_at": "2026-08-13T00:53:29.292701+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "A Stray Kids Children's Book Just Dropped Online and the Cover Has Us Swooning - Shop Here - Billboard",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORFh4RW43X3lCZ3NUcFB0Q0cyQmRnUmhORDl6a0tnN1FSQTR3WjJGNGZTOFFMSW5oT1ctek1hX25UbEtEMURMekNFUjkwaE4zMThCYWV6azd4dHhHVkhvZDl4a1FEcE9qNUVhZ1MwRDZZTmNySEpVbEw3ZEt2Y2JyZkV5aEtsMkpJNTZIdERrTFVUUVdEbUptLUtNTGxoODN2OUxySU5BX3d4Y080SU1pbTBfLXh5ZG9DMXVMVmtIeWVJOVd6bjB3bGRB?oc=5",
-    "content": "A Stray Kids Children's Book Just Dropped Online and the Cover Has Us Swooning - Shop Here Billboard",
-    "published_at": "0813google-kpop",
-    "published_ts": 1786552033.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Stray Kids儿童绘本线上发售，封面惊艳粉丝",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：Stray Kids儿童绘本已在线上发售",
-      "事实点2：该绘本封面设计受到关注，引发粉丝喜爱"
-    ],
-    "summary_zh": "据Billboard报道，Stray Kids的儿童绘本已在线上发售，其封面设计令人惊艳，吸引了众多粉丝的关注和喜爱。",
-    "extracted_at": "2026-08-13T00:53:31.233186+08:00"
+    "summary_zh": "据Billboard于8月11日（当地时间）公布的数据，BTS的歌曲《SWIM》在Hot 100榜单上连续第20周在榜，位列第91名。这一成绩使《SWIM》追平了BTS在2021年发行的热门单曲《Butter》所创下的纪录，成为BTS在Hot 100上最长在榜的歌曲之一。",
+    "extracted_at": "2026-08-13T09:38:55.252289+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -68,7 +241,7 @@
       "事实点1：原文未提及具体行为，仅称：K-Pop与鹅卵石相遇：33酒店周末体验"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：K-Pop与鹅卵石相遇：33酒店周末体验]",
-    "extracted_at": "2026-08-13T00:53:32.807830+08:00"
+    "extracted_at": "2026-08-13T09:38:56.835436+08:00"
   },
   {
     "source_id": "asianwiki",
