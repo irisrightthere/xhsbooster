@@ -1,5 +1,125 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Who is Kim Hye-jun, star of K-dramas A Shop for Killers and My Bias, My Boss? - South China Morning Post",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRGZHZDRKVWhDMzRYOTBxajFiTFRmTk4yVHdyU01KakM1UzFDMExMSnJCdHF1Q0VTOWNRblJPZ1QySjllTE5tR2pqR1pxd1cxaGpLVWhNWjlFX1pkNnRCdXFDNmc1aVBXTTV6NU43Y3RMdkpPUjgxaHM3REZLYTQ1S1I0SjdVMjFTN3V4Q1hzUF9PVjBkUUFYX2ZqdGJTbGVodzBkN1pxcF9iQlgzZ1I1U0VMMVRKdi1oUkZfRHF1Q1FkaFB0YWlRSkM1ekNaZ9IBzgFBVV95cUxQY2xEREV2b0RfSEJjOVJGTl9DTWFvUTZRSV9RU19PZGtHM19pbGRlTjI4c2FnMndKQzZpT25Ubjd2Y0lQcy15WTgzQ2lnbnY4TjdZOTQwX0hmbGJsc0lYQmo5eG8zS3oyR0Uxb1hTYWdrZ0Y3QUlVQVh3UENwM1A4ZENQRHhCbTdwQzV1X1pPOWxtNHFMS2g5SXByTFVlaV9BaHRPRGVPd202NlhvSU9xal82OEhWYlZSanRjc1FyWW9McmV4S0YxdHRWOXhYdw?oc=5",
+    "content": "Who is Kim Hye-jun, star of K-dramas A Shop for Killers and My Bias, My Boss? South China Morning Post",
+    "published_at": "0815google-kpop",
+    "published_ts": 1786792504.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "金惠濬：从《杀人者的购物中心》到《我的老板》的韩剧新星",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：金惠濬是韩剧《杀人者的购物中心》和《我的老板》的主演。",
+      "事实点2：该报道由南华早报发布，内容为人物介绍。"
+    ],
+    "summary_zh": "南华早报发布人物介绍，聚焦韩国女演员金惠濬，她因主演韩剧《杀人者的购物中心》和《我的老板》而受到关注。报道详细介绍了她的演艺经历和作品，但未提及具体数据或争议事件。",
+    "extracted_at": "2026-08-15T20:28:41.662218+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-pop stars ATEEZ, Kwon Eunbi take over Istanbul Festival stage - Türkiye Today",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY2dXX2FMeWd4T0xzX3RXYW03cDFNc2o1SFlYVEFlRHYxczlGNGF2Mm5OSUxoaVhPQzlrTE95d21KNDBWOUNyVUpNaE9ZOTBfZzNlSjdYaG5YYU9NY3lTaUIzSnNGY0I3YkRaSlNNLXJuYU9vOUo2Vm1Zc2tZS0VaenhuekZLZXJOYVFGektvUEdwTUt2ODZaNjlRaWhpYXBvMjk0VWN4OTJobW8?oc=5",
+    "content": "K-pop stars ATEEZ, Kwon Eunbi take over Istanbul Festival stage Türkiye Today",
+    "published_at": "0815google-kpop",
+    "published_ts": 1786787996.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "ATEEZ与权恩妃亮相伊斯坦布尔音乐节舞台",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：K-pop组合ATEEZ和歌手权恩妃在伊斯坦布尔音乐节上登台表演。",
+      "事实点2：该音乐节在土耳其伊斯坦布尔举行，具体日期未提及。"
+    ],
+    "summary_zh": "据Türkiye Today报道，K-pop组合ATEEZ和歌手权恩妃在伊斯坦布尔音乐节上登台表演，吸引了众多粉丝。报道未提及具体表演曲目或活动细节。",
+    "extracted_at": "2026-08-15T20:28:43.721683+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Ong Seong Wu Acts Cold Towards Park Eun Bin After His Confession In “Spooky In Love”",
+    "url": "https://www.soompi.com/article/1863148wpp/ong-seong-wu-acts-cold-towards-park-eun-bin-after-his-confession-in-spooky-in-love",
+    "content": "Cracks have formed in Ong Seong Wu and Park Eun Bin’s longtime friendship in “Spooky in Love.” A remake of the 2011 film “Spellbound,” tvN’s “Spooky in Love” is an occult romance drama about the chaotic partnership between a hotel heiress who can see ghosts and a passionate prosecutor who is terrified of them. Spoilers&#8230; Continue reading Ong Seong Wu Acts Cold Towards Park Eun Bin After His Confession In &#8220;Spooky In Love&#8221;\nThe post Ong Seong Wu Acts Cold Towards Park Eun Bin After His Confession In &#8220;Spooky In Love&#8221; appeared first on Soompi.",
+    "published_at": "0815soompi",
+    "published_ts": 1786785137.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《魔幻之恋》剧情转折：邕圣祐向朴恩斌表白后态度转冷",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：tvN剧集《魔幻之恋》为2011年电影《Spellbound》的翻拍，讲述能看见鬼魂的酒店继承人（朴恩斌饰）与害怕鬼魂的检察官（邕圣祐饰）之间的混乱合作。",
+      "事实点2：在最新剧情中，邕圣祐饰演的角色在向朴恩斌饰演的角色表白后，对其态度变得冷淡。"
+    ],
+    "summary_zh": "tvN剧集《魔幻之恋》中，邕圣祐与朴恩斌的长期友谊出现裂痕。该剧翻拍自2011年电影《Spellbound》，讲述能看见鬼魂的酒店继承人与害怕鬼魂的检察官之间的奇幻爱情故事。在最新剧情中，邕圣祐饰演的角色在向朴恩斌饰演的角色表白后，对其态度变得冷淡。",
+    "extracted_at": "2026-08-15T20:28:46.701026+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "‘KPop Demon Hunters’ Finally Gets Physical Release on 4K Blu-ray and DVD: Preorder It Here - Billboard",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQjJiSkZDa2gtWTM3R05LaTJMTHdxc0pvMk8wWVJmOWgzSHc3QlkzMjZzRzdUclhfOVNndDFPYy1KLWJpM1FRandRbE1lalk0SWZhZElGOVRIOF9KTWNKM3VfR0tCYXBWcXpLbVFycHZXcnN4ZUhmMURCdVlUMElDRzV3b1RjVkxXNUNIM0ctbUV0YmJWUnlBM2xJRWRwaG5rZC12MjlwUjd5N3Ixb05HeU9WSnBTRXB5YkFuUVdYTjJQczlleXdxSg?oc=5",
+    "content": "‘KPop Demon Hunters’ Finally Gets Physical Release on 4K Blu-ray and DVD: Preorder It Here Billboard",
+    "published_at": "0815google-kpop",
+    "published_ts": 1786784522.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《KPop Demon Hunters》终获实体发行，4K蓝光与DVD开启预售",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：作品《KPop Demon Hunters》宣布发行实体版本，包括4K蓝光和DVD格式。",
+      "事实点2：该实体版本现已开启预售，由Billboard报道。"
+    ],
+    "summary_zh": "据Billboard报道，作品《KPop Demon Hunters》终于推出实体版本，包括4K蓝光和DVD格式，现已开启预售。",
+    "extracted_at": "2026-08-15T20:28:48.724919+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Ahn Bo Hyun And His Crew Go Undercover As Mobsters In “Flex X Cop 2”",
+    "url": "https://www.soompi.com/article/1863144wpp/ahn-bo-hyun-and-his-crew-go-undercover-as-mobsters-in-flex-x-cop-2",
+    "content": "Get ready for Ahn Bo Hyun and his squad to undergo a dramatic transformation on the next episode of SBS’s “Flex x Cop 2”! In Season 2 of “Flex x Cop,” Ahn Bo Hyun reprises his starring role as Jin Yi Soo, a third-generation chaebol heir who uses his wealth and connections like cheat codes&#8230; Continue reading Ahn Bo Hyun And His Crew Go Undercover As Mobsters In &#8220;Flex X Cop 2&#8221;\nThe post Ahn Bo Hyun And His Crew Go Undercover As Mobsters In &#8220;Flex X Cop 2&#8221; appeared first on Soompi.",
+    "published_at": "0815soompi",
+    "published_ts": 1786783608.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "安普贤《Flex X Cop 2》下集预告：与团队伪装成黑帮卧底",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：SBS电视剧《Flex X Cop 2》下一集中，安普贤饰演的财阀三世陈伊秀与团队将变身为黑帮进行卧底。",
+      "事实点2：安普贤在第二季中继续饰演主角陈伊秀，该角色利用财富和人脉解决问题。"
+    ],
+    "summary_zh": "SBS电视剧《Flex X Cop 2》即将播出新一集，安普贤饰演的财阀三世陈伊秀将带领团队进行戏剧性变身，伪装成黑帮分子执行卧底任务。安普贤在第二季中继续出演该角色，利用其财富和关系网应对各种挑战。",
+    "extracted_at": "2026-08-15T20:28:51.510686+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -17,11 +137,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：8月15日，JYP娱乐突然宣布Han将缺席当天MBC音乐节目《音乐中心》的直播。",
-      "事实点2：JYP娱乐解释称，Han因面部皮肤瘙痒，今早前往医院就诊。"
+      "事实点1：8月15日，JYP娱乐临时宣布Stray Kids成员Han因健康原因缺席当天MBC音乐节目《音乐中心》的直播。",
+      "事实点2：JYP娱乐用英文说明，Han因面部皮肤瘙痒，今早前往医院就诊。"
     ],
-    "summary_zh": "Stray Kids成员Han因健康问题缺席了今日（8月15日）MBC《音乐中心》的直播。JYP娱乐在当天突然发布公告，说明Han因面部皮肤瘙痒于今早前往医院，因此无法参加节目。公告以英文发布，具体病情细节未透露。",
-    "extracted_at": "2026-08-15T16:21:35.993921+08:00"
+    "summary_zh": "Stray Kids成员Han因皮肤炎症缺席8月15日MBC《音乐中心》直播。JYP娱乐临时发布公告，称Han因面部皮肤瘙痒于今早前往医院，因此无法参加当天直播。",
+    "extracted_at": "2026-08-15T20:28:53.710851+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -44,8 +164,8 @@
       "韩国对日本官员参拜靖国神社表示谴责",
       "该事件由The Korea Herald报道"
     ],
-    "summary_zh": "据The Korea Herald报道，韩国对日本官员参拜靖国神社表示谴责。靖国神社被视为日本军国主义的象征，韩国政府对此类行为持反对态度。报道未提供具体参拜官员名单或时间等细节。",
-    "extracted_at": "2026-08-15T16:21:37.711847+08:00"
+    "summary_zh": "据The Korea Herald报道，韩国对日本官员参拜靖国神社表示谴责。",
+    "extracted_at": "2026-08-15T20:28:55.209515+08:00"
   },
   {
     "source_id": "soompi",
@@ -65,12 +185,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "JTBC剧集《公寓任务》下一集中，池晟饰演的朴海江将召集公寓居民宣布好消息。",
-      "朴海江是前绿洲帮老大，为获取公寓居民委员会会长职位而竞选。",
-      "池晟宣布找到了失踪的178亿韩元。"
+      "JTBC电视剧《公寓任务》中，池晟饰演的前绿洲帮老大朴海康宣布找到了失踪的178亿韩元。",
+      "池晟将在下一集中召集公寓居民，宣布这一好消息。"
     ],
-    "summary_zh": "JTBC剧集《公寓任务》即将播出新一集，池晟饰演的朴海江将召集公寓居民，宣布他已找到失踪的178亿韩元。该剧讲述前绿洲帮老大朴海江为竞选公寓居民委员会会长而展开的故事。",
-    "extracted_at": "2026-08-15T16:21:39.964581+08:00"
+    "summary_zh": "JTBC电视剧《公寓任务》中，池晟饰演的前绿洲帮老大朴海康宣布找到了失踪的178亿韩元。在下一集中，他将召集公寓居民，宣布这一好消息。该剧讲述朴海康为获取资金而竞选公寓居民委员会主席的故事。",
+    "extracted_at": "2026-08-15T20:28:57.425636+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -88,10 +207,13 @@
     "title_zh": "韩国音乐人：韩国之声不止于K-pop",
     "source_type": "韩娱",
     "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [],
-    "summary_zh": "[原文未提及具体行为，仅称：对于这些音乐人而言，韩国之声不止于K-pop]",
-    "extracted_at": "2026-08-15T16:21:41.535414+08:00"
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：文章由The Korea Herald发布，主题为韩国音乐人探讨韩国音乐多样性。",
+      "事实点2：文章指出这些音乐人的作品超越K-pop范畴，展现韩国音乐的多元面貌。"
+    ],
+    "summary_zh": "据The Korea Herald报道，一些韩国音乐人认为韩国音乐的魅力不仅限于K-pop，他们通过自己的作品探索和呈现韩国音乐的多样性。文章聚焦于这些音乐人的观点和创作，强调韩国音乐文化的丰富性。",
+    "extracted_at": "2026-08-15T20:28:59.592694+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -106,16 +228,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "韩流30年面临转折：是否已达顶峰？",
+    "title_zh": "韩流30年：巅峰已过？韩国文化浪潮面临转折点",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：韩国文化浪潮（韩流）已持续30年，现面临发展转折点。",
-      "事实点2：该报道由《韩国先驱报》发布，探讨韩流是否已达顶峰。"
+      "事实点1：韩国文化浪潮（韩流）已持续30年，现面临转折点。",
+      "事实点2：文章由The Korea Herald发布，标题提出“韩流是否已达巅峰”的疑问。"
     ],
-    "summary_zh": "《韩国先驱报》报道，韩流在经历30年的发展后，正面临一个关键转折点。文章探讨了韩流是否已达到顶峰，并可能面临衰退或转型的挑战。报道未提及具体事件或数据，仅提出对韩流未来走向的疑问。",
-    "extracted_at": "2026-08-15T16:21:43.914077+08:00"
+    "summary_zh": "据The Korea Herald报道，韩流在持续30年后，正面临一个关键的转折点。文章标题以疑问句形式探讨韩流是否已达到巅峰，暗示韩国文化输出可能面临挑战或需要调整。但原文未提供具体数据、事件或官方声明，仅提出宏观议题。",
+    "extracted_at": "2026-08-15T20:29:01.813322+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -135,10 +257,10 @@
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文未提及具体明星、具体房产交易或具体数据，仅以标题形式提出韩国明星房地产是一个独立话题。"
+      "原文未提及具体明星、具体房产交易或具体数据，仅以标题和导语形式概述韩国明星房地产话题。"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：在韩国，明星房地产本身就是一个独立的故事。]",
-    "extracted_at": "2026-08-15T16:21:45.680132+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：韩国明星房地产是一个独立的故事。]",
+    "extracted_at": "2026-08-15T20:29:03.462233+08:00"
   },
   {
     "source_id": "soompi",
@@ -158,11 +280,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "KBS 2TV新剧《Love on the Menu》下一集中，河锡辰饰演的金武镇将得知EXID哈妮饰演的韩圭林的一个意外秘密。",
+      "KBS 2TV新剧《菜单上的爱情》下一集中，河锡辰饰演的金武镇将得知EXID哈妮饰演的韩圭林的一个意外秘密。",
       "该剧讲述河锡辰饰演的金武镇与哈妮饰演的韩圭林这对昔日恋人在八年后重逢的故事。"
     ],
-    "summary_zh": "KBS 2TV新剧《Love on the Menu》下一集预告中，河锡辰饰演的金武镇将得知EXID哈妮饰演的韩圭林的一个意外秘密。该剧讲述这对昔日恋人在八年后重逢的故事。",
-    "extracted_at": "2026-08-15T16:21:48.198333+08:00"
+    "summary_zh": "KBS 2TV新剧《菜单上的爱情》下一集中，河锡辰饰演的金武镇将得知EXID哈妮饰演的韩圭林的一个意外秘密。该剧讲述这对昔日恋人在八年后重逢的故事。",
+    "extracted_at": "2026-08-15T20:29:05.885906+08:00"
   },
   {
     "source_id": "soompi",
@@ -182,36 +304,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "tvN剧集《鬼怪恋爱》发布新一集预告，该剧翻拍自2011年电影《Spellbound》",
-      "剧情围绕能看见鬼魂的酒店继承人（朴恩斌饰）与害怕鬼魂的检察官（梁世宗饰）之间的混乱合作展开",
-      "朴恩斌与梁世宗在剧中公开表达对彼此的爱意"
+      "tvN剧集《鬼怪恋爱》公开新一集预告，该剧翻拍自2011年电影《Spellbound》",
+      "剧情讲述能看见鬼魂的酒店继承人（朴恩斌饰）与害怕鬼魂的热血检察官（梁世宗饰）之间的混乱合作与浪漫关系",
+      "新预告中两人公开表达对彼此的爱意"
     ],
-    "summary_zh": "tvN剧集《鬼怪恋爱》公开了新一集的甜蜜预告。该剧翻拍自2011年电影《Spellbound》，是一部奇幻爱情剧，讲述能看见鬼魂的酒店继承人（朴恩斌饰）与害怕鬼魂的检察官（梁世宗饰）之间的混乱合作。在上一集中，两人公开表达了对彼此的爱意，新预告展示了他们甜蜜的互动。",
-    "extracted_at": "2026-08-15T16:21:50.713306+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "‘KPop Demon Hunters’ Finally Gets Physical Release on 4K Blu-ray and DVD: Preorder It Here - Billboard",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQjJiSkZDa2gtWTM3R05LaTJMTHdxc0pvMk8wWVJmOWgzSHc3QlkzMjZzRzdUclhfOVNndDFPYy1KLWJpM1FRandRbE1lalk0SWZhZElGOVRIOF9KTWNKM3VfR0tCYXBWcXpLbVFycHZXcnN4ZUhmMURCdVlUMElDRzV3b1RjVkxXNUNIM0ctbUV0YmJWUnlBM2xJRWRwaG5rZC12MjlwUjd5N3Ixb05HeU9WSnBTRXB5YkFuUVdYTjJQczlleXdxSg?oc=5",
-    "content": "‘KPop Demon Hunters’ Finally Gets Physical Release on 4K Blu-ray and DVD: Preorder It Here Billboard",
-    "published_at": "0815google-kpop",
-    "published_ts": 1786773693.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "《KPop Demon Hunters》终推实体版 4K蓝光及DVD开启预售",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "《KPop Demon Hunters》推出4K蓝光和DVD实体版",
-      "该实体版现已开启预售"
-    ],
-    "summary_zh": "据Billboard报道，韩娱相关作品《KPop Demon Hunters》终于推出实体版，包括4K蓝光和DVD格式，目前该实体版已开启预售。",
-    "extracted_at": "2026-08-15T16:21:52.432178+08:00"
+    "summary_zh": "tvN剧集《鬼怪恋爱》公开了新一集的甜蜜预告。该剧翻拍自2011年电影《Spellbound》，是一部奇幻爱情剧，讲述能看见鬼魂的酒店继承人（朴恩斌饰）与害怕鬼魂的热血检察官（梁世宗饰）之间的混乱合作与浪漫关系。在最新预告中，两人公开表达了对彼此的爱意，展现了甜蜜的互动。",
+    "extracted_at": "2026-08-15T20:29:08.913923+08:00"
   },
   {
     "source_id": "soompi",
@@ -231,11 +329,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：8月14日，FNC娱乐宣布Jiung因健康恶化，将不参加次日（8月15日）在KCON LA 2026 – OLIVE YOUNG K-BEAUTY STAGE的演出。",
+      "事实点1：8月14日，FNC娱乐宣布Jiung因健康恶化，将不参加8月15日举行的KCON LA 2026 – OLIVE YOUNG K-BEAUTY STAGE活动。",
       "事实点2：Jiung将缺席该活动，但其他成员将正常参加。"
     ],
-    "summary_zh": "P1Harmony成员Jiung因健康问题将缺席KCON LA 2026的部分活动。8月14日，FNC娱乐发布声明，称Jiung因“健康恶化”无法参加8月15日举行的KCON LA 2026 – OLIVE YOUNG K-BEAUTY STAGE舞台。该声明未透露具体病情细节，但确认Jiung将缺席该活动，其他成员将照常出席。",
-    "extracted_at": "2026-08-15T16:21:54.960423+08:00"
+    "summary_zh": "P1Harmony成员Jiung因健康问题将缺席KCON LA 2026的部分活动。8月14日，FNC娱乐发布声明，称Jiung因“健康恶化”无法参加次日（8月15日）举行的KCON LA 2026 – OLIVE YOUNG K-BEAUTY STAGE舞台。其他成员将照常出席。",
+    "extracted_at": "2026-08-15T20:29:11.139073+08:00"
   },
   {
     "source_id": "soompi",
@@ -256,11 +354,11 @@
     "is_blurred": false,
     "facts_list": [
       "事实点1：8月14日，MBC剧集《杀人者的购物中心》（主演：孔晓振）第5集收视率创自身最高纪录。",
-      "事实点2：据尼尔森韩国数据，该集在同时段所有频道中排名第一。",
-      "事实点3：同日，《Flex X Cop 2》收视率创历史新低。"
+      "事实点2：据尼尔森韩国数据，该集在同时段所有频道中收视排名第一。",
+      "事实点3：同一天，剧集《Flex X Cop 2》收视率创下历史新低。"
     ],
-    "summary_zh": "MBC剧集《杀人者的购物中心》收视率有望突破两位数。8月14日，由孔晓振主演的该剧第5集创下开播以来最高收视率，据尼尔森韩国数据，该集在同时段所有频道中排名第一。与此同时，《Flex X Cop 2》收视率跌至历史最低。",
-    "extracted_at": "2026-08-15T16:21:57.456609+08:00"
+    "summary_zh": "MBC剧集《杀人者的购物中心》收视率有望突破两位数。8月14日，该剧第5集创下开播以来最高收视，据尼尔森韩国数据，该集在同时段所有频道中排名第一。与此同时，《Flex X Cop 2》收视率跌至历史最低。",
+    "extracted_at": "2026-08-15T20:29:13.689645+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -275,16 +373,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "BTS在AT&T体育场演唱会售罄，吸引各地K-pop粉丝",
+    "title_zh": "BTS在AT&T体育场演出门票售罄，吸引各地K-pop粉丝",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "BTS在AT&T体育场的演唱会门票售罄",
-      "演唱会吸引了来自该地区各地的K-pop粉丝"
+      "BTS在AT&T体育场的演出门票已售罄",
+      "演出吸引了来自该地区各地的K-pop粉丝"
     ],
-    "summary_zh": "据WFAA报道，BTS在AT&T体育场的演唱会门票已售罄，吸引了来自该地区各地的K-pop粉丝前来观看。",
-    "extracted_at": "2026-08-15T16:21:59.027193+08:00"
+    "summary_zh": "据WFAA报道，BTS在AT&T体育场的演出门票已全部售罄，吸引了来自该地区各地的K-pop粉丝前来观看。",
+    "extracted_at": "2026-08-15T20:29:15.400799+08:00"
   },
   {
     "source_id": "soompi",
@@ -299,17 +397,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "8月男团成员品牌评价排名公布，防弹少年团智旻蝉联榜首",
+    "title_zh": "8月男团成员品牌评价排名公布，防弹少年团智旻连续登顶",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "韩国企业评价研究所于8月15日发布8月男团成员品牌评价排名。",
-      "排名基于7月15日至8月15日期间收集的755名男团成员的大数据，分析消费者参与度、媒体覆盖、沟通和社区认知指数。",
-      "防弹少年团成员智旻在本次排名中继续位居第一。"
+      "韩国企业评价研究所于8月公布男团成员品牌评价排名。",
+      "排名基于2023年7月15日至8月15日收集的755名男团成员的大数据，分析消费者参与度、媒体覆盖、沟通和社区认知指数。",
+      "防弹少年团成员智旻在该排名中继续位居第一。"
     ],
     "summary_zh": "韩国企业评价研究所公布了8月男团成员品牌评价排名。该排名基于7月15日至8月15日期间收集的755名男团成员的大数据，分析了消费者参与度、媒体覆盖、沟通和社区认知指数。防弹少年团成员智旻在本次排名中继续蝉联榜首。",
-    "extracted_at": "2026-08-15T16:22:01.363569+08:00"
+    "extracted_at": "2026-08-15T20:29:17.810882+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -324,16 +422,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "KPop Demon Hunters 巡演T恤线上发售，全球演唱会日期临近",
+    "title_zh": "KPop Demon Hunters 巡演T恤全球演唱会前线上发售",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "事实点1：KPop Demon Hunters 巡演T恤已在线上发售",
-      "事实点2：该T恤在全球演唱会日期之前推出"
+      "事实点2：发售时间在巡演全球演唱会日期之前"
     ],
-    "summary_zh": "KPop Demon Hunters 巡演T恤已在线上发售，此举正值全球演唱会日期临近之际。粉丝现可购买该款T恤，以迎接即将到来的巡演。",
-    "extracted_at": "2026-08-15T16:22:03.072109+08:00"
+    "summary_zh": "KPop Demon Hunters 巡演官方T恤已在线上商店发售，发售时间早于巡演的全球演唱会日期。粉丝可提前购买周边商品。",
+    "extracted_at": "2026-08-15T20:29:19.930313+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -353,11 +451,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：EJAE为《KPop恶魔猎人》歌手，公开佩戴婚戒。",
+      "事实点1：EJAE为《KPop恶魔猎人》演唱者，近日公开佩戴婚戒。",
       "事实点2：EJAE与伴侣已相恋9年，并已结婚。"
     ],
-    "summary_zh": "据韩国时报报道，歌手EJAE（曾参与《KPop恶魔猎人》）展示了婚戒，并透露与伴侣已相恋9年并结婚。",
-    "extracted_at": "2026-08-15T16:22:05.035891+08:00"
+    "summary_zh": "据《韩国时报》报道，歌手EJAE（曾为《KPop恶魔猎人》演唱）近日展示婚戒，宣布与相恋9年的伴侣结婚。EJAE在社交媒体上分享了这一喜讯，并晒出婚戒照片，引发粉丝祝福。",
+    "extracted_at": "2026-08-15T20:29:22.215910+08:00"
   },
   {
     "source_id": "soompi",
@@ -378,10 +476,10 @@
     "is_blurred": false,
     "facts_list": [
       "事实点1：文章推荐了5部BL剧，主题为反派与正派相恋的设定。",
-      "事实点2：文章发布于Soompi网站，标题为'5 BLs Where The Bad Guy And The Good Guy Fall In Love'。"
+      "事实点2：文章发布于Soompi网站。"
     ],
-    "summary_zh": "Soompi网站发布了一篇推荐5部BL剧的文章，这些剧集以反派与正派相恋的设定为特色，例如警察与罪犯、极客与黑帮的组合。文章指出，这种看似不搭的配对往往能产生最令人满意的关系动态，并邀请读者观看这些剧集。",
-    "extracted_at": "2026-08-15T16:22:07.316381+08:00"
+    "summary_zh": "该文章推荐了5部BL剧，这些剧集以反派与正派相恋的设定为特色，例如警察与罪犯、极客与黑帮等看似不可能的组合，却产生了令人满意的关系动态。文章发布于Soompi。",
+    "extracted_at": "2026-08-15T20:29:24.536780+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -404,32 +502,8 @@
       "事实点1：美国《出版人周刊》（Publishers Weekly）对《Cook Like a K-Pop Idol》一书进行了报道或推荐。",
       "事实点2：该书主题为K-Pop偶像的烹饪相关内容。"
     ],
-    "summary_zh": "美国《出版人周刊》（Publishers Weekly）报道了《Cook Like a K-Pop Idol》一书，该书以K-Pop偶像的烹饪为主题。",
-    "extracted_at": "2026-08-15T16:22:09.169714+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "The Criterion Collection officially announces Kpop Demon Hunters 4K Ultra HD - Flickering Myth",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNUREalVkRWhOMUdXam1ndHpFZUFiV242ODBjWEp4YVhXclJFQ2VxVjBhVVpFX2dXRm1PdUtScmhHVm5qQkYzVXhMUGRCZ2V6S1FFOE9seDlvcFVIZjRmdGFzVHJqWEVaWlZnMElZelpoVHFNT1NSazJZdGdQdEc1azFKSF81UFJRbEY2ZmR3cHd0V0NiY1VhQkFuS0xmZS02dFU4VkdWM2ZMVDlY?oc=5",
-    "content": "The Criterion Collection officially announces Kpop Demon Hunters 4K Ultra HD Flickering Myth",
-    "published_at": "0815google-kpop",
-    "published_ts": 1786749059.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "标准收藏正式宣布发行《Kpop Demon Hunters》4K超高清版",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：标准收藏（The Criterion Collection）官方宣布发行《Kpop Demon Hunters》4K超高清版。",
-      "事实点2：该消息由Flickering Myth报道。"
-    ],
-    "summary_zh": "标准收藏（The Criterion Collection）正式宣布将发行《Kpop Demon Hunters》的4K超高清版本。该消息由Flickering Myth报道。",
-    "extracted_at": "2026-08-15T16:22:10.913334+08:00"
+    "summary_zh": "美国《出版人周刊》（Publishers Weekly）报道了《Cook Like a K-Pop Idol》一书，该书以K-Pop偶像的烹饪为主题，具体内容未在原文中详述。",
+    "extracted_at": "2026-08-15T20:29:26.521582+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -449,10 +523,10 @@
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "事实点1：Yahoo发布2026年K-Pop演唱会完整名单，并持续更新。"
+      "事实点1：原文未提及具体演唱会信息，仅提供标题。"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：Yahoo发布2026年K-Pop演唱会完整名单，并持续更新。]",
-    "extracted_at": "2026-08-15T16:22:12.341321+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：2026年K-Pop演唱会完整名单（持续更新）]",
+    "extracted_at": "2026-08-15T20:29:28.240217+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -473,10 +547,10 @@
     "is_blurred": false,
     "facts_list": [
       "事实点1：该剑为《KPop恶魔猎人》中Rumi角色的周边商品，被描述为最接近光剑的粉丝收藏品。",
-      "事实点2：该商品已可在线上购买，具体购买渠道为Billboard网站。"
+      "事实点2：该商品已可在线上购买，具体购买渠道为Billboard网站提供的信息。"
     ],
-    "summary_zh": "据Billboard报道，一款名为《KPop恶魔猎人》的Rumi粉丝剑周边现已开售，该剑被形容为最接近光剑的粉丝收藏品。文章提供了购买链接，但未提及具体价格、材质或发售数量等细节。",
-    "extracted_at": "2026-08-15T16:22:14.635524+08:00"
+    "summary_zh": "据Billboard报道，一款名为《KPop恶魔猎人》的剑类周边，被形容为Rumi粉丝最接近光剑的收藏品。该商品现已开放线上购买，具体购买信息可在Billboard网站获取。",
+    "extracted_at": "2026-08-15T20:29:30.671444+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -496,34 +570,10 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：KPop Demon Hunters 将获得标准收藏（Criterion Collection）的发行待遇。",
-      "事实点2：该消息由 The Outerhaven 报道。"
+      "事实点1：KPop Demon Hunters 将获得标准收藏（Criterion Collection）的发行待遇。"
     ],
-    "summary_zh": "据 The Outerhaven 报道，KPop Demon Hunters 将获得标准收藏（Criterion Collection）的发行待遇。标准收藏以发行高质量影碟著称，此举意味着该作品将得到精心修复和特别收录。",
-    "extracted_at": "2026-08-15T16:22:16.505994+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "'KPop Demon Hunters' joins Criterion Collection in November - upi.com",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY3VyR1VpOXNiSmRMbmFoemVEVjBsanpCLUUxNExORVJXZndSbTNNTTJiN2NkZWd3OGdfTTZrZXZjMlVzMk5qb01SaTlZcGVQNjJfejV2UVBSZ0h2WE5sNWNqY3pQZG9jLXZYWFFrRnllRXcwY3ZicmdjdHlDOTZnM3JyWVZhdVRpSFR4RUVlUm4wd01wdG1lNjZZdk1hZzFIWXVEWlh0QzlmM1U3Q3BEcdIBtgFBVV95cUxNMUhYSmJnWFNuMzFQX25XSExUaFhJbWNTc2ZEeG5DeGdTTk1Ga2pieWRBREhnUGNWX09BQmVtUHMzd0tieWc4WFZObVlFOVNMenhzcGh3REpjamxTc0FfRjl5WnJVclJxSFRnRjRISHJVYUQ3dTZCVFFKY0VVSVFTaU5pOVNsQXlYRGszdmNTQlV4N1hhNlFWbWFoRldIVzV1RW81dHc5YURtSE80VFFFYVNUQ2UwQQ?oc=5",
-    "content": "'KPop Demon Hunters' joins Criterion Collection in November upi.com",
-    "published_at": "0815google-kpop",
-    "published_ts": 1786734686.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "《KPop Demon Hunters》11月加入标准收藏，UPI报道",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：据UPI报道，《KPop Demon Hunters》将于11月加入标准收藏（Criterion Collection）。"
-    ],
-    "summary_zh": "据UPI报道，影片《KPop Demon Hunters》将于11月加入标准收藏（Criterion Collection）。该片与K-pop相关，具体内容未在原文中详述。",
-    "extracted_at": "2026-08-15T16:22:18.025224+08:00"
+    "summary_zh": "据 The Outerhaven 报道，KPop Demon Hunters 将获得标准收藏（Criterion Collection）的发行待遇。标准收藏以高质量修复和特别收录闻名，此次发行意味着该作品将得到精心制作和广泛传播。",
+    "extracted_at": "2026-08-15T20:29:32.640959+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -538,16 +588,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "KPop Demon Hunters 4K蓝光发行收录必看花絮",
+    "title_zh": "KPop Demon Hunters 4K Criterion版发行，收录必看花絮",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：KPop Demon Hunters 推出4K Criterion版本发行",
+      "事实点1：KPop Demon Hunters推出4K Criterion版发行",
       "事实点2：该版本包含大量必看花絮内容"
     ],
-    "summary_zh": "据Polygon.com报道，KPop Demon Hunters的4K Criterion版本发行，其中包含大量粉丝必看的花絮内容。",
-    "extracted_at": "2026-08-15T16:22:19.580270+08:00"
+    "summary_zh": "据Polygon.com报道，KPop Demon Hunters的4K Criterion版发行，其中包含大量必看的花絮内容。",
+    "extracted_at": "2026-08-15T20:29:34.288920+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -562,16 +612,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "KPop Demon Hunters 标准收藏蓝光套装曝光，画质惊艳",
+    "title_zh": "KPop Demon Hunters 标准收藏蓝光套装惊艳亮相",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：Kotaku 报道，KPop Demon Hunters 的标准收藏版蓝光套装已公布。",
-      "事实点2：该套装被描述为“看起来不可思议”，但未提供具体配置或发售日期。"
+      "事实点1：Kotaku 报道，KPop Demon Hunters 的标准收藏版蓝光套装外观惊艳。",
+      "事实点2：该套装由标准收藏（Criterion）发行，具体内容细节未在原文中详述。"
     ],
-    "summary_zh": "据 Kotaku 报道，KPop Demon Hunters 的标准收藏版蓝光套装已公布，其外观被形容为“不可思议”。报道未提及具体配置、发售日期或价格等细节。",
-    "extracted_at": "2026-08-15T16:22:21.571974+08:00"
+    "summary_zh": "据 Kotaku 报道，KPop Demon Hunters 的标准收藏版蓝光套装外观令人惊艳。该套装由标准收藏发行，但原文未提供更多具体细节，如发售日期、收录内容或价格等。",
+    "extracted_at": "2026-08-15T20:29:36.384658+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -586,16 +636,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《KPop: Demon Hunters》2026年11月加入标准收藏，Netflix上线",
+    "title_zh": "《KPop：恶魔猎人》2026年11月加入标准收藏，Netflix上线",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：2026年11月，动画《KPop: Demon Hunters》加入标准收藏（The Criterion Collection）",
-      "事实点2：该作品在Netflix平台上线"
+      "事实点1：2026年11月，《KPop：恶魔猎人》加入标准收藏（The Criterion Collection）。",
+      "事实点2：该作品在Netflix平台上线。"
     ],
-    "summary_zh": "据What's on Netflix报道，动画《KPop: Demon Hunters》将于2026年11月加入标准收藏（The Criterion Collection），并在Netflix平台上线。该作品以K-pop为题材，具体内容细节未在原文中详述。",
-    "extracted_at": "2026-08-15T16:22:23.797525+08:00"
+    "summary_zh": "据外媒报道，韩娱作品《KPop：恶魔猎人》将于2026年11月加入标准收藏（The Criterion Collection），并已在Netflix平台上线。该消息由What's on Netflix发布。",
+    "extracted_at": "2026-08-15T20:29:38.618710+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -615,11 +665,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：NOLA.com报道，《K-pop恶魔猎人》在全美范围内流行。",
-      "事实点2：该报道指出，K-pop文化正在美国新奥尔良地区逐渐兴起。"
+      "事实点1：美国新奥尔良地区，K-pop文化在当地逐渐流行，与《K-pop恶魔猎人》在全美范围内的热潮相关。",
+      "事实点2：该报道由NOLA.com发布，标题提及《K-pop恶魔猎人》在全美风靡，但未提供具体数据或细节。"
     ],
-    "summary_zh": "据NOLA.com报道，在《K-pop恶魔猎人》风靡全美之后，K-pop文化正在美国新奥尔良地区逐渐流行起来。该报道聚焦于K-pop在当地的影响力扩展，但未提及具体艺人、数据或事件细节。",
-    "extracted_at": "2026-08-15T16:22:25.918770+08:00"
+    "summary_zh": "据NOLA.com报道，在《K-pop恶魔猎人》风靡全美之后，K-pop文化在新奥尔良地区逐渐兴起。报道指出，这一现象与《K-pop恶魔猎人》的热播有关，但未提供具体数据或细节。",
+    "extracted_at": "2026-08-15T20:29:41.285896+08:00"
   },
   {
     "source_id": "asianwiki",
