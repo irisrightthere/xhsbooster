@@ -1,27 +1,469 @@
 [
   {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
+    "source_id": "soompi",
+    "source_name": "Soompi",
     "l1_tab": "韩娱",
-    "title": "List of female inmates for paid pen-pal service draws backlash - The Korea Herald",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9aTnA4RTdmWUFtRzZsbjkyVGVIZnRnMmtaQnBzZjgyR25YeTg4U2p3U1dFc2NyVFNWWVhLbEpveTFDVnNmLTU4dlNuQzJzaGxJQXRDRVNnVQ?oc=5",
-    "content": "List of female inmates for paid pen-pal service draws backlash The Korea Herald",
-    "published_at": "0818google-kpop",
-    "published_ts": 1787023874.0,
+    "title": "Jang Gyuri Shares Her Approach To Playing A Warm-Hearted Violist In “Four Hands, Two Sonatas”",
+    "url": "https://www.soompi.com/article/1863663wpp/jang-gyuri-shares-her-approach-to-playing-a-warm-hearted-violist-in-four-hands-two-sonatas",
+    "content": "Jang Gyuri has shared more insights into her upcoming drama “Four Hands, Two Sonatas”! “Four Hands” is a piano term referring to two people playing a single piano together. The drama “Four Hands, Two Sonatas” follows the friendship, love, rivalry, and growth of Kang Pio (Song Kang) and Choi Jeong Yo (Lee Jun Young), who&#8230; Continue reading Jang Gyuri Shares Her Approach To Playing A Warm-Hearted Violist In “Four Hands, Two Sonatas”\nThe post Jang Gyuri Shares Her Approach To Playing A Warm-Hearted Violist In “Four Hands, Two Sonatas” appeared first on Soompi.",
+    "published_at": "0818soompi",
+    "published_ts": 1787040713.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "韩国女性囚犯付费笔友名单公开引争议",
-    "source_type": "韩娱",
-    "risk_level": "中",
+    "title_zh": "张圭悧谈新剧《四手联弹》中饰演温暖中提琴手的角色心得",
+    "source_type": "韩剧",
+    "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：韩国《先驱报》报道，一份女性囚犯名单被用于付费笔友服务，引发公众不满。",
-      "事实点2：该服务允许付费用户与名单上的女性囚犯通信，具体服务细节和运营方未在原文中明确。"
+      "事实点1：张圭悧分享了关于其即将出演的电视剧《四手联弹》的更多见解。",
+      "事实点2：该剧剧名中的“四手”是钢琴术语，指两人共同弹奏一架钢琴。",
+      "事实点3：剧情围绕姜表（宋康饰）和崔正曜（李浚荣饰）之间的友情、爱情、竞争与成长展开。"
     ],
-    "summary_zh": "据韩国《先驱报》报道，一项付费笔友服务公开了女性囚犯名单，允许付费用户与她们通信，此举引发公众强烈反对。报道未提及具体服务名称、运营方或囚犯数量，但指出该做法因涉及隐私和道德问题而受到批评。",
-    "extracted_at": "2026-08-18T12:30:52.971519+08:00"
+    "summary_zh": "张圭悧分享了她在新剧《四手联弹》中饰演温暖中提琴手的角色心得。该剧剧名中的“四手”是钢琴术语，指两人共同弹奏一架钢琴。剧情围绕姜表（宋康饰）和崔正曜（李浚荣饰）之间的友情、爱情、竞争与成长展开。",
+    "extracted_at": "2026-08-18T16:31:12.364867+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "BTS Jimin's kiss on cheek of young cancer patient goes viral - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wNEhQZnE0cTZRN2lVUERRbG1lQWZmaldNUE91ck02aUU5eFgwcm9ublRpNldZTWJEcldDcTk3aUhib0ctbzFPWXNMZjRzV0hmMmcwYmVSYw?oc=5",
+    "content": "BTS Jimin's kiss on cheek of young cancer patient goes viral The Korea Herald",
+    "published_at": "0818google-kpop",
+    "published_ts": 1787039217.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "BTS Jimin亲吻患癌儿童脸颊视频走红",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：BTS成员Jimin亲吻一名年轻癌症患者脸颊的视频在网络上走红。",
+      "事实点2：该事件由The Korea Herald报道。"
+    ],
+    "summary_zh": "据The Korea Herald报道，BTS成员Jimin亲吻一名年轻癌症患者脸颊的视频在网络上走红。视频中，Jimin温柔地亲吻了这名小患者的 cheek，这一举动感动了众多网友，视频迅速传播。",
+    "extracted_at": "2026-08-18T16:31:14.464887+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Han So Hee And Choi Min Sik Become Unlikely Coworkers In Posters For “The Intern”",
+    "url": "https://www.soompi.com/article/1863582wpp/han-so-hee-and-choi-min-sik-become-unlikely-coworkers-in-posters-for-the-intern",
+    "content": "Upcoming film “The Intern” has unveiled new posters featuring Choi Min Sik and Han So Hee! As a remake of the Hollywood film of the same name, “The Intern” is a story depicting an office life that transcends generations and job titles, beginning when Gi Ho (Choi Min Sik), a senior intern with 37 years&#8230; Continue reading Han So Hee And Choi Min Sik Become Unlikely Coworkers In Posters For “The Intern”\nThe post Han So Hee And Choi Min Sik Become Unlikely Coworkers In Posters For “The Intern” appeared first on Soompi.",
+    "published_at": "0818soompi",
+    "published_ts": 1787038938.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "韩素希与崔岷植新片《实习生》发布海报，展现跨代职场合作",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "电影《实习生》发布新海报，主演为崔岷植和韩素希。",
+      "该片翻拍自同名好莱坞电影，讲述跨越世代和职位的办公室生活，崔岷植饰演有37年经验的资深实习生基浩。"
+    ],
+    "summary_zh": "即将上映的电影《实习生》公开了新海报，主演崔岷植和韩素希亮相。该片翻拍自好莱坞同名电影，讲述资深实习生基浩（崔岷植饰）与同事之间的办公室故事，展现跨越世代与职位的职场生活。",
+    "extracted_at": "2026-08-18T16:31:16.895233+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Ma Dong Seok Confirmed To Star In “Extraction 3”",
+    "url": "https://www.soompi.com/article/1863652wpp/ma-dong-seok-confirmed-to-star-in-extraction-3",
+    "content": "Ma Dong Seok is joining Netflix’s “Extraction 3”! On August 18, Ma Dong Seok’s agency Big Punch Entertainment announced, “Following his role as the lead of ‘TYGO,’ a spin-off film based on the ‘Extraction’ universe, Ma Dong Seok will also join ‘Extraction 3,’ continuing his global action career.” On August 17 (local time), Netflix also&#8230; Continue reading Ma Dong Seok Confirmed To Star In “Extraction 3”\nThe post Ma Dong Seok Confirmed To Star In “Extraction 3” appeared first on Soompi.",
+    "published_at": "0818soompi",
+    "published_ts": 1787038014.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "马东锡确认出演《惊天营救3》",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：8月18日，马东锡所属社Big Punch娱乐宣布其将出演Netflix电影《惊天营救3》",
+      "事实点2：马东锡此前已主演《惊天营救》宇宙衍生电影《TYGO》，此次加盟《惊天营救3》延续其全球动作片事业",
+      "事实点3：8月17日（当地时间），Netflix也发布了相关消息"
+    ],
+    "summary_zh": "8月18日，马东锡所属社Big Punch娱乐宣布，马东锡将加盟Netflix电影《惊天营救3》。此前他已主演《惊天营救》宇宙衍生电影《TYGO》，此次出演《惊天营救3》将继续其全球动作片事业。8月17日（当地时间），Netflix也发布了相关消息。",
+    "extracted_at": "2026-08-18T16:31:19.545557+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-pop draws tourists, but Korea’s dark tourism struggles to take off - Inquirer.net",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaXoyanczUno4dkhxZnBlNktZMDgyUUtNLXRxZ2N6bnZnODkyWFFlMnkzenVEMDhDcGM4ajBLRDg4SVV5cnpRTzdOM0FlZVo3SnRFREVkTE4tUTVlQloxMjliQ0JMdGM5OEk2Nmt1U2hsYWhvcXFoWjJBQzFwNU9pWmN1NTdkdHM3RGEtdldtdnlOQW1iNkVoMkdjeDJvUDd6Njcta29PdFpfZFHSAbABQVVfeXFMTUJWdThsRFpkWW9KcFdvbnpJaGdSTmhNdjRHYUFQOTQ3dWNxZlNlYkVXV2s1NlZxNWVPQXFqQm1HVm14b084MktGbmRwdTJldC10YUR0XzRIZ3BPQjJXYVRVOHFHbENRalZkZndBMDNrYUNaRlZEMkt2RHJLY3ZndUc1OXRuMV9HMUxZcS1rSXJGRDg2eUxJdmt5NjFHMjVVcE9VemVncWpPam0xQ2IxUno?oc=5",
+    "content": "K-pop draws tourists, but Korea’s dark tourism struggles to take off Inquirer.net",
+    "published_at": "0818google-kpop",
+    "published_ts": 1787037960.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "K-pop吸引游客，但韩国黑暗旅游难以起飞",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：韩国K-pop吸引游客，但黑暗旅游（与历史悲剧相关的旅游）发展困难。",
+      "事实点2：文章来自Inquirer.net，未提及具体时间、地点、数据或官方声明。"
+    ],
+    "summary_zh": "据Inquirer.net报道，韩国K-pop吸引了大量游客，但黑暗旅游（与历史悲剧相关的旅游）却难以发展。文章未提供具体案例、数据或官方回应，仅指出这一现象。",
+    "extracted_at": "2026-08-18T16:31:21.493977+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Ryu Jun Yeol, Sul Kyung Gu, And More Find Themselves Caught In A “Mousetrap” In New Drama",
+    "url": "https://www.soompi.com/article/1863580wpp/ryu-jun-yeol-sul-kyung-gu-and-more-find-themselves-caught-in-a-mousetrap-in-new-drama",
+    "content": "Netflix’s upcoming series “Mousetrap” has unveiled new stills! Based on a webtoon, “Mousetrap” is a thriller that follows Moon Jae (Ryu Jun Yeol), a reclusive novelist who loses everything—his name, identity, and fortune—to a mysterious man known only as “The Rat”; Noja (Sul Kyung Gu), a loan shark determined to recover his missing money; and&#8230; Continue reading Ryu Jun Yeol, Sul Kyung Gu, And More Find Themselves Caught In A “Mousetrap” In New Drama\nThe post Ryu Jun Yeol, Sul Kyung Gu, And More Find Themselves Caught In A “Mousetrap” In New Drama appeared first on Soompi.",
+    "published_at": "0818soompi",
+    "published_ts": 1787036903.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "柳俊烈、薛景求等主演新剧《捕鼠器》公开新剧照",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Netflix新剧《Mousetrap》公开新剧照",
+      "该剧改编自网络漫画，是一部惊悚剧",
+      "柳俊烈饰演隐居小说家文在，因神秘人物“老鼠”失去名字、身份和财产",
+      "薛景求饰演高利贷者Noja，决心找回丢失的钱"
+    ],
+    "summary_zh": "Netflix新剧《Mousetrap》公开新剧照。该剧改编自网络漫画，是一部惊悚剧，讲述隐居小说家文在（柳俊烈饰）因神秘人物“老鼠”失去一切，以及高利贷者Noja（薛景求饰）决心找回丢失钱财的故事。",
+    "extracted_at": "2026-08-18T16:31:23.969823+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Star choreographers battle from director's chair in Mnet's 'dopamine-inducing' dance competition - Korea JoongAng Daily",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOanRXeTRBeFZyQnhORkktdllMWXpLUnpBOHpjNEEwcFJ0VUxPQUQ4UkZ0LXQtT2NsU2lkVVlRd3V0NU5zdlcySG9XMDNxemZ3MC1Oc2pmSllvYVNnQUpUWmhhZlM5M3NaSS1TdS1kbEF3MlRxb1MtMHNQS0JDb283ZHpPRUVOcXpFV1hMd2EtRkpmRmtHcS00LTN1T3FpT2dWUTVRU0pPWDBJNWRxOVhmQ1VUXzVvNUU2UXdlanJzX0NJOHFldWdLb1pMTUQwanVERHNDMmgtckl5c1kzcEI3MW5FMA?oc=5",
+    "content": "Star choreographers battle from director's chair in Mnet's 'dopamine-inducing' dance competition Korea JoongAng Daily",
+    "published_at": "0818google-kpop",
+    "published_ts": 1787036072.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Mnet新舞蹈竞演节目：明星编舞家担任导演展开对决",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：Mnet推出新舞蹈竞演节目，明星编舞家以导演身份参与对决。",
+      "事实点2：节目被描述为“多巴胺诱发”的舞蹈竞赛。",
+      "事实点3：该报道来自Korea JoongAng Daily。"
+    ],
+    "summary_zh": "据Korea JoongAng Daily报道，Mnet将推出全新舞蹈竞演节目，邀请明星编舞家担任导演进行对决。节目被形容为“多巴胺诱发”的舞蹈竞赛，旨在为观众带来刺激与兴奋感。目前节目具体名称、播出时间及参赛编舞家名单尚未公布。",
+    "extracted_at": "2026-08-18T16:31:26.347092+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-pop group Stray Kids thanked their fans after scoring their ninth No. 1 on the Billboard 200 album chart in the US with their new EP \"This & That.\" Full story in the comments section. - facebook.com",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOa2ZNaFRNc21LcnpkcW95bGlqWTRfYkE1RnhTN1FNY1JBS0tqZ280R3BKcHh1NllpTlR6bU9FUm9EeUtJZTJ5QjlMaktFSm8xZFV5cXgwTWFzd1oyc0lFbGNvNDk5RTlaUHdfWGtwN3hpUzVzNXNMMFdESmVocm8yekJUY1lCdTJHZWxlZkZELUZIclZzTkJzTHQ0Ni0tLU9PU2pCcDhqeDBJZURqbC1xLXROdHJjT2dULW1CdEtndkV6Q0N1NkVqVEZoY19ZenNGQ3Jsazh4Zw?oc=5",
+    "content": "K-pop group Stray Kids thanked their fans after scoring their ninth No. 1 on the Billboard 200 album chart in the US with their new EP \"This & That.\" Full story in the comments section. facebook.com",
+    "published_at": "0818google-kpop",
+    "published_ts": 1787035841.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Stray Kids新EP《This & That》登顶Billboard 200，获第九个冠军专辑并感谢粉丝",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：Stray Kids凭借新EP《This & That》在美国Billboard 200专辑榜上获得第九个冠军。",
+      "事实点2：Stray Kids在获得冠军后向粉丝表达了感谢。"
+    ],
+    "summary_zh": "韩国男团Stray Kids凭借新EP《This & That》在美国Billboard 200专辑榜上获得第九个冠军，创下个人纪录。他们在夺冠后向粉丝表达了感谢。",
+    "extracted_at": "2026-08-18T16:31:28.123396+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kim Hye Jun Heads Out For A Special Outing With Her Ultimate Bias Cha Woo Min In “My Bias, My Boss”",
+    "url": "https://www.soompi.com/article/1863614wpp/kim-hye-jun-heads-out-for-a-special-outing-with-her-ultimate-bias-cha-woo-min-in-my-bias-my-boss",
+    "content": "tvN&#8217;s &#8220;My Bias, My Boss&#8221; has unveiled new stills ahead of its upcoming broadcast! Based on a webtoon, “My Bias, My Boss” tells the story of the romance between Nam Da Reum (Kim Hye Jun), who joins a company in hopes of meeting her longtime idol bias Lee Chan (Cha Woo Min), and the company’s&#8230; Continue reading Kim Hye Jun Heads Out For A Special Outing With Her Ultimate Bias Cha Woo Min In &#8220;My Bias, My Boss&#8221;\nThe post Kim Hye Jun Heads Out For A Special Outing With Her Ultimate Bias Cha Woo Min In &#8220;My Bias, My Boss&#8221; appeared first on Soompi.",
+    "published_at": "0818soompi",
+    "published_ts": 1787035457.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "金惠俊与偶像车宇民特别约会，《我的偶像，我的老板》公开新剧照",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "tvN剧集《我的偶像，我的老板》公开新剧照",
+      "该剧改编自网络漫画，讲述金惠俊饰演的南多琳为见偶像车宇民饰演的李灿而入职其公司，两人展开浪漫故事"
+    ],
+    "summary_zh": "tvN剧集《我的偶像，我的老板》公开新剧照，该剧改编自网络漫画，讲述金惠俊饰演的南多琳为见偶像车宇民饰演的李灿而入职其公司，两人展开浪漫故事。",
+    "extracted_at": "2026-08-18T16:31:30.233200+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-pop girl group ILLIT has released a Korean version of its Japanese single \"I Got Your Back,\" featuring Jisoo and Momoka of J-pop act HANA. Full story link in the comment section. - facebook.com",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTGdBYzJoOGlWcjc4alQxWTJLMVBBZDhycEhDTWdlbjE0cGI2QUVlZUFsRExUbl84NUVROXFhTTNOQ3BNSTZOY3RubjVqRm54ejdVbEFhbENIdzhZM1RhNERCbUgwaVZGR3NyckliRTk3Wl85b3VsRlFzTEpHc0dVYmo4Ukw5VktxNjY4ZmRDWi1vUkl1YTNqVEoyZWN0aTNqbTBuOGFQeXBITFJiazY0bmFVX1djQWphZVkxY1pPYXpCaFU0VUFRTndnYkRTSkRNeGRnOUJCNA?oc=5",
+    "content": "K-pop girl group ILLIT has released a Korean version of its Japanese single \"I Got Your Back,\" featuring Jisoo and Momoka of J-pop act HANA. Full story link in the comment section. facebook.com",
+    "published_at": "0818google-kpop",
+    "published_ts": 1787034633.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "ILLIT发行日单《I Got Your Back》韩语版，HANA成员Jisoo和Momoka参与",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：K-pop女团ILLIT发行了日文单曲《I Got Your Back》的韩语版本。",
+      "事实点2：该韩语版本由J-pop组合HANA的成员Jisoo和Momoka参与。"
+    ],
+    "summary_zh": "K-pop女团ILLIT近日发行了其日文单曲《I Got Your Back》的韩语版本，该版本邀请了J-pop组合HANA的成员Jisoo和Momoka参与。这一举措旨在为韩国粉丝提供更亲切的版本，同时促进日韩音乐文化的交流。",
+    "extracted_at": "2026-08-18T16:31:32.463432+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Hwang In Youp And Hyeri Face Final Crossroads In Their Relationship In “Dream To You” Finale",
+    "url": "https://www.soompi.com/article/1863613wpp/hwang-in-youp-and-hyeri-face-final-crossroads-in-their-relationship-in-dream-to-you-finale",
+    "content": "ENA’s “Dream to You” has shared new stills ahead of its finale tonight! “Dream to You” is a romantic comedy about the reunion of genius film director Woo Soo Bin (Hwang In Youp), who returns after achieving his dreams, and reporter Ju Yi Jae (Hyeri), who has forgotten her own. Spoilers In Episode 11, Woo&#8230; Continue reading Hwang In Youp And Hyeri Face Final Crossroads In Their Relationship In “Dream To You” Finale\nThe post Hwang In Youp And Hyeri Face Final Crossroads In Their Relationship In “Dream To You” Finale appeared first on Soompi.",
+    "published_at": "0818soompi",
+    "published_ts": 1787034484.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《梦到你》大结局：黄寅烨与惠利面临关系最终抉择",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "ENA剧集《梦到你》在今晚大结局前公开新剧照",
+      "该剧为浪漫喜剧，讲述天才电影导演禹秀彬（黄寅烨饰）实现梦想后回归，与忘记自己梦想的记者朱伊载（惠利饰）重逢的故事",
+      "第11集中，禹秀彬和朱伊载的关系面临最终十字路口"
+    ],
+    "summary_zh": "ENA剧集《梦到你》在今晚大结局前公开新剧照。该剧为浪漫喜剧，讲述天才电影导演禹秀彬（黄寅烨饰）实现梦想后回归，与忘记自己梦想的记者朱伊载（惠利饰）重逢的故事。在第11集中，两人的关系面临最终抉择，大结局将揭示他们的命运。",
+    "extracted_at": "2026-08-18T16:31:35.099360+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Jo Aram Is Seo Kang Jun’s Teammate Who Isn’t Afraid To Express Her Feelings In New Drama “A Love Other Than Yours”",
+    "url": "https://www.soompi.com/article/1863532wpp/jo-aram-is-seo-kang-juns-teammate-who-isnt-afraid-to-express-her-feelings-in-new-drama-a-love-other-than-yours",
+    "content": "Upcoming drama “A Love Other Than Yours” has shared new stills of Jo Aram! “A Love Other Than Yours” is a realistic romance drama that follows a couple in their 10th year of dating as they experience unexpected emotional changes in a relationship that once felt familiar. Jo Aram plays Park Soo Ah, a junior&#8230; Continue reading Jo Aram Is Seo Kang Jun’s Teammate Who Isn’t Afraid To Express Her Feelings In New Drama “A Love Other Than Yours”\nThe post Jo Aram Is Seo Kang Jun’s Teammate Who Isn’t Afraid To Express Her Feelings In New Drama “A Love Other Than Yours” appeared first on Soompi.",
+    "published_at": "0818soompi",
+    "published_ts": 1787034101.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "赵雅岚新剧《非你之爱》剧照公开，饰演徐康俊队友，勇敢表达情感",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：新剧《非你之爱》公开赵雅岚新剧照",
+      "事实点2：该剧讲述交往10年的情侣经历情感变化的现实浪漫剧",
+      "事实点3：赵雅岚饰演朴秀雅，是徐康俊角色的队友，不惧表达情感"
+    ],
+    "summary_zh": "新剧《非你之爱》公开了赵雅岚的剧照。该剧是一部现实浪漫剧，讲述一对交往10年的情侣在熟悉的关系中经历意想不到的情感变化。赵雅岚饰演朴秀雅，是徐康俊角色的队友，她是一个不惧表达自己情感的角色。",
+    "extracted_at": "2026-08-18T16:31:37.595810+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "'Street World Fighter: Directors' War' explores unseen work behind K-pop dance - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXc0dnb3l3RHRJeFVoaUNfaDlBdVAxeVFXeUpISHE4dlJyRHRwcWw4N0xmSEZXRVVzS0dYeWlHNTdLRzJ5cWxjRThrak1UUDRHajZiTEZfOA?oc=5",
+    "content": "'Street World Fighter: Directors' War' explores unseen work behind K-pop dance The Korea Herald",
+    "published_at": "0818google-kpop",
+    "published_ts": 1787034036.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《街头世界斗士：导演之战》揭秘K-pop舞蹈幕后故事",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "节目名称：《Street World Fighter: Directors' War》（暂译：街头世界斗士：导演之战）",
+      "节目内容：探索K-pop舞蹈背后不为人知的工作",
+      "报道媒体：The Korea Herald"
+    ],
+    "summary_zh": "据The Korea Herald报道，节目《Street World Fighter: Directors' War》将展示K-pop舞蹈背后不为人知的工作。该节目聚焦于舞蹈导演等幕后人员，揭示他们在K-pop表演中的贡献与挑战。",
+    "extracted_at": "2026-08-18T16:31:39.538264+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Why everyone is talking about Ateez’s San - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGcmJBWW5aS3E5NW84MjNtNDIyejNpbXdwRHN0ak5lMkZTcGlMVktpUGdXaGpYZjBxSUE5WWdlV0s4OTRSaFFaOUZ4VFI4cWk0aWNPd25jbw?oc=5",
+    "content": "Why everyone is talking about Ateez’s San The Korea Herald",
+    "published_at": "0818google-kpop",
+    "published_ts": 1787031619.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Ateez成员San引发热议，原因何在？",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [],
+    "summary_zh": "[原文未提及具体行为，仅称：大家都在谈论Ateez的San]",
+    "extracted_at": "2026-08-18T16:31:41.043095+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Latest K-Drama Releases Of The Week (Aug 17 to 23): OK, Let's Get Divorced, My Bias, My Boss, Dream to You To Flex X Cop - Esquire India",
+    "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPNlNLRGlwNTRZQzBXZ1Q3ZTI4bklHeFdacTcyNENrQWttLWFFam93UzBabU9CZVNSTkhUc2RFQk0tSUphSlhVNHFQTVhPWndZRkZNd3RqVzhmQkpIOXR1Q2pLNk5ONVgxUFJhQkttYy1QREdFVDlTU3U3RmFxYTJxbzJQSGtuZVdBdnJkck5uNGRyVi16MTk2dVdZNUFJaVQ2OEZJUkU3SWN1UGtTS0o2dkFrWHp0SkJjY3hjdXc5OVA1VTcyWXZkdEVmX3dwLUhNVlpDRWNqaEUtYTdSWDdMUXJUVVQta2tnZDRSc3EwMl9iT3o3WDdyWl9fR29NVmpUenlNOFdNOXJaX2tGUmItcWFpdURCYmJuRnM1MTlDMU00ZnpsVDdPSU5fV2ZMR0hKUXZLdFg1MHRCT18xeFHSAcsCQVVfeXFMTzlSd2plMXhlekNIbnJjNHNTclZkQVZIamt2X2xHejh0WEFZSzF3VmFqamlxamxuZjZVcEpITDFicnVQd0RhYzM2bXBzeF9pTWxJbGY5ZENHWDFaLTZSbktBRUNwV0xUYjV5dmk0REtiVGEzOGpZTUF2LTBNaFBVZHhsdFhwa3ZKajcwNVpkQTVGcEhNZl9QTWdTMTVVRE1KNXJSeFVScUd1ZEdUMXBCMlpiekNydTc4eG13Z0Q4ano3RWItV1BUY0F2cnJqVm9GaDVaZzVqOW4zRDR1LU9wMGlLaWJqbVFZdGtyR2NxeldMWUdWdmk1RENiXzNyeXh3bk02TzNrSmd2T2ZmQlNtZmxFX1FzVzlBcURsVXZqdzRtUkxVZWI1dllhYkcySzBTcXFxRU9HMmZORERYTWFfQ01wSERlZDN1c0RSdw?oc=5",
+    "content": "Latest K-Drama Releases Of The Week (Aug 17 to 23): OK, Let's Get Divorced, My Bias, My Boss, Dream to You To Flex X Cop Esquire India",
+    "published_at": "0818google-kpop",
+    "published_ts": 1787031381.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "本周韩剧新作（8月17日至23日）：《好的，离婚吧》《我的偏爱，我的老板》《梦想给你》及《Flex X Cop》",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "时间：8月17日至23日",
+      "剧集：《好的，离婚吧》（OK, Let's Get Divorced）",
+      "剧集：《我的偏爱，我的老板》（My Bias, My Boss）",
+      "剧集：《梦想给你》（Dream to You）",
+      "剧集：《Flex X Cop》",
+      "来源：Esquire India"
+    ],
+    "summary_zh": "据Esquire India报道，本周（8月17日至23日）有多部新韩剧上线，包括《好的，离婚吧》、《我的偏爱，我的老板》、《梦想给你》以及《Flex X Cop》。",
+    "extracted_at": "2026-08-18T16:31:43.316368+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "4 Times The Boss Was Our Bias In Episodes 3-4 Of “My Bias, My Boss”",
+    "url": "https://www.soompi.com/article/1863215wpp/4-times-the-boss-was-our-bias-in-episodes-3-4-of-my-bias-my-boss",
+    "content": "It’s only the second week of &#8220;My Bias, My Boss,&#8221; but Kang Ha Gi (Kang Hoon) is already making his feelings toward Nam Da Reum (Kim Hye Jun) increasingly hard to ignore. While our oblivious female lead remains completely unaware of her boss’s growing interest, viewers are having no trouble falling for his unexpectedly charming&#8230; Continue reading 4 Times The Boss Was Our Bias In Episodes 3-4 Of &#8220;My Bias, My Boss&#8221;\nThe post 4 Times The Boss Was Our Bias In Episodes 3-4 Of &#8220;My Bias, My Boss&#8221; appeared first on Soompi.",
+    "published_at": "0818soompi",
+    "published_ts": 1787031148.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《我的偏见，我的老板》第3-4集：老板四次成为我们的偏爱",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：电视剧《我的偏见，我的老板》播出第3-4集，姜夏基（姜勋饰）对南多凛（金惠奫饰）的感情日益明显。",
+      "事实点2：女主角南多凛尚未察觉老板姜夏基的心意，但观众已被其魅力吸引。"
+    ],
+    "summary_zh": "在《我的偏见，我的老板》第3-4集中，姜夏基（姜勋饰）对南多凛（金惠奫饰）的感情越来越难以忽视。尽管女主角南多凛完全未察觉老板日益增长的兴趣，但观众们却无法抗拒他意外迷人的魅力。文章列举了老板在剧中四次成为观众偏爱的瞬间。",
+    "extracted_at": "2026-08-18T16:31:45.783147+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Can K-pop answer criticism that it is a corporate product? - The Korea Times",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNXRPRW9GTHUtNzJ2VEZHa1A1N1VOS0ljazdSX0d3YTNIQmlNZ0VYV3VzMzVVbXlmOGVVUHdJY25KQW1XalBDNUJpbERVNFZyVDdidWI1dDBCbS0zODJtZVBQRmN6QmE2WmQtTHpnV2x5YmMzUjJfLV9PZWI1cUh5UWo1ZmVJczlUM1pxRWt4VTFoM3h2UjV4bjV2NGRpN1ZtS2Z3OVpmdjhPQm9RNUtMNEdXWlAwZ9IBuwFBVV95cUxNUkZ0VnVUV0tybXBTMG4tckE4akw5OHQ1WVBPVGFpeTNTLVUzcDNpSllRVUItRWVfblNtXzRFWXJaSkIxWVZ2NjBGSWFFMEd1NVpxVGxCSjlnY3EteVZZZmhDc3JCTXRrNm9Qb3VsQU0zWDA4dnN5MXV1QnoxdnRHYi04WWxxd0taOTlBNVUwRzlMeFJ3NFJ1RFFhRk9YYUVtY1BDUjZFYXpYZkM1Qk9JVFlaNHFjRHNmR2Rr?oc=5",
+    "content": "Can K-pop answer criticism that it is a corporate product? The Korea Times",
+    "published_at": "0818google-kpop",
+    "published_ts": 1787030283.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "韩媒探讨：K-pop能否回应“企业产品”批评？",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "事实点1：韩国时报发表文章，标题为“Can K-pop answer criticism that it is a corporate product?”，探讨K-pop被批评为企业产品的问题。"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：韩国时报发文探讨K-pop能否回应其作为企业产品的批评。]",
+    "extracted_at": "2026-08-18T16:31:47.900905+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Yum Jung Ah And Park Eun Bin Confirmed For New Film",
+    "url": "https://www.soompi.com/article/1863556wpp/yum-jung-ah-and-park-eun-bin-confirmed-for-new-film",
+    "content": "Yum Jung Ah and Park Eun Bin will be starring together in the new film “Nam Eun Jung” (literal title)! “Nam Eun Jung” tells the story of mother Hyun Sook and her youngest daughter, Eun Jung, who have never been able to grow close throughout their lives as they work through the emotions and misunderstandings&#8230; Continue reading Yum Jung Ah And Park Eun Bin Confirmed For New Film\nThe post Yum Jung Ah And Park Eun Bin Confirmed For New Film appeared first on Soompi.",
+    "published_at": "0818soompi",
+    "published_ts": 1787030270.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "廉晶雅与朴恩斌确认出演新片《南恩贞》",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "廉晶雅与朴恩斌确认共同出演新片《南恩贞》（暂译）",
+      "影片讲述母亲贤淑与最小的女儿恩贞一生未能亲近，在情感与误解中成长的故事"
+    ],
+    "summary_zh": "据Soompi报道，廉晶雅与朴恩斌确认出演新片《南恩贞》（暂译）。该片讲述母亲贤淑与最小的女儿恩贞一生未能亲近，在情感与误解中成长的故事。",
+    "extracted_at": "2026-08-18T16:31:50.114922+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "'KPop Demon Hunters' team, Taeko Onuki, HYUKOH & more set for TAIPEI MUSIC EXPO (TMEX) 2026 - bandwagon.asia",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbmM4OW1mV2hTOXNfRGd4NklVR3RaOFdwaUg2SE9FVWhlWF9Ia1d6QzNDc2UwZUZyRlRuOHpkTDRfWWI0am8zU0tYT2E2YS1sVVNhLTR5YTVGSm80MmNXdUtXdHhSdmxhZjQ3Q1F6R2JmcWF6S0VPTnAyUEVoRHo4Nzk5T3podjh4TS1QN1czUFliV0xMRFdGakdxWnJVZ254MnFjWlNjdzFLUF94cWc?oc=5",
+    "content": "'KPop Demon Hunters' team, Taeko Onuki, HYUKOH & more set for TAIPEI MUSIC EXPO (TMEX) 2026 bandwagon.asia",
+    "published_at": "0818google-kpop",
+    "published_ts": 1787029740.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "台北音乐博览会2026阵容公布：KPop Demon Hunters团队、大贯妙子、HYUKOH等参演",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "时间：2026年",
+      "地点：台北音乐博览会（TMEX）",
+      "主体：KPop Demon Hunters团队、大贯妙子、HYUKOH等音乐人",
+      "动作：确认参演"
+    ],
+    "summary_zh": "据bandwagon.asia报道，2026年台北音乐博览会（TMEX）公布首批演出阵容，包括KPop Demon Hunters团队、日本歌手大贯妙子、韩国乐队HYUKOH等。具体演出日期和更多细节尚未公布。",
+    "extracted_at": "2026-08-18T16:31:52.164546+08:00"
   },
   {
     "source_id": "soompi",
@@ -44,8 +486,8 @@
       "事实点1：8月18日，NMIXX公开了官方应援棒第二版的预告海报。",
       "事实点2：预告海报暗示初代应援棒中的标志性鲸鱼设计将回归。"
     ],
-    "summary_zh": "NMIXX于8月18日发布了官方应援棒第二版的预告海报，预告中暗示了初代应援棒的标志性鲸鱼设计将回归。具体发售信息尚未公布。",
-    "extracted_at": "2026-08-18T12:30:54.903841+08:00"
+    "summary_zh": "NMIXX于8月18日发布了官方应援棒第二版的预告海报，预告中暗示了初代应援棒中标志性的鲸鱼设计将回归。该消息最初由Soompi报道。",
+    "extracted_at": "2026-08-18T16:31:54.017412+08:00"
   },
   {
     "source_id": "soompi",
@@ -65,36 +507,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：8月18日，电影发行方公开了《Vampir》剧本围读现场照片。",
-      "事实点2：该片由《破墓》导演张在现执导，刘亚仁、李星民、李浚赫、道伊、尹敬浩、崔显旭等演员确认出演。",
-      "事实点3：影片《Vampir》（暂译）讲述一个神秘超自然故事。"
+      "事实点1：8月18日，电影发行方公开了《Vampir》剧本围读现场剧照，演员刘亚仁、李圣旻、李浚赫、道伊、尹敬浩、崔显旭确认出演。",
+      "事实点2：该片由《破墓》导演张在现执导，讲述神秘超自然故事，片名为暂定名。"
     ],
-    "summary_zh": "据Soompi报道，电影《Vampir》（暂译）确认由刘亚仁、李星民、李浚赫、道伊、尹敬浩、崔显旭等出演，该片由《破墓》导演张在现执导。8月18日，发行方公开了剧本围读现场照片，影片讲述一个神秘超自然故事。",
-    "extracted_at": "2026-08-18T12:30:57.527681+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Shinee’s Minho to drop 2nd solo EP next month - The Korea Herald",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBONkNFcURXYVhLMmE1ODhacEk1Y0pneW1VcWhIUWJPa0pPbVl5VTFLaWZYWGxhOHZNTjR1bEVnVUlCcXVVbHg5R2xTNmFtN1FMUlZCWEJkNA?oc=5",
-    "content": "Shinee’s Minho to drop 2nd solo EP next month The Korea Herald",
-    "published_at": "0818google-kpop",
-    "published_ts": 1787021061.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "SHINee成员珉豪将于下月发行第二张个人迷你专辑",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：SHINee成员珉豪计划于下月发行第二张个人迷你专辑。",
-      "事实点2：该消息由The Korea Herald报道。"
-    ],
-    "summary_zh": "据The Korea Herald报道，SHINee成员珉豪将于下月发行他的第二张个人迷你专辑。目前具体发行日期和专辑细节尚未公布。",
-    "extracted_at": "2026-08-18T12:30:59.502229+08:00"
+    "summary_zh": "据Soompi报道，电影《Vampir》（暂定名）确认由刘亚仁、李圣旻、李浚赫、道伊、尹敬浩、崔显旭出演，该片由《破墓》导演张在现执导，讲述神秘超自然故事。8月18日，发行方公开了剧本围读现场剧照。",
+    "extracted_at": "2026-08-18T16:31:56.559852+08:00"
   },
   {
     "source_id": "soompi",
@@ -119,55 +536,7 @@
       "事实点3：ENA《Dream to You》播出倒数第二集。"
     ],
     "summary_zh": "tvN电视剧《我的偏见，我的老板》收视率上升。据尼尔森韩国数据，第5集全国平均收视率为4.0%，较上一集的3.6%上升0.4个百分点。此外，ENA的《Dream to You》播出倒数第二集。",
-    "extracted_at": "2026-08-18T12:31:01.488342+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "BB Girls' Yuna becomes one-day weather forecaster - The Korea Herald",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9rMElSSGQ4ekVkT2pBODRVZzBhS1FHS1FFOXN3Ti1KSTI5VFRCOVpOcGI4VkF2MnRPUHRDZDc0QW5zbG9lYmI1YVRLbXJkVHI5b1ppVWdUcw?oc=5",
-    "content": "BB Girls' Yuna becomes one-day weather forecaster The Korea Herald",
-    "published_at": "0818google-kpop",
-    "published_ts": 1787019830.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "BB Girls成员Yuna担任一日天气预报员",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：BB Girls成员Yuna担任一日天气预报员",
-      "事实点2：该活动由The Korea Herald报道"
-    ],
-    "summary_zh": "据The Korea Herald报道，韩国女子组合BB Girls的成员Yuna近日担任了一日天气预报员。该活动具体细节未详细披露，但作为组合活动的一部分，Yuna参与了此次特别体验。",
-    "extracted_at": "2026-08-18T12:31:03.218725+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "BTS’ Jin hits 1b on Spotify with “Don’t Say You Love Me’ - The Korea Herald",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DSzN1NTZPeXRwRTA1dkltTjZhZFFyRjViNmtCem9KbHBLdk13ay1wbUJVSXBRU0ZuUnFFZXFMODBjdmtmNkIxcGJ3S2llc1JPWGFOREpwOA?oc=5",
-    "content": "BTS’ Jin hits 1b on Spotify with “Don’t Say You Love Me’ The Korea Herald",
-    "published_at": "0818google-kpop",
-    "published_ts": 1787019223.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "BTS成员Jin单曲《Don't Say You Love Me》Spotify播放量突破10亿",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：BTS成员Jin的单曲《Don't Say You Love Me》在Spotify上的播放量突破10亿次。",
-      "事实点2：该消息由The Korea Herald报道。"
-    ],
-    "summary_zh": "据The Korea Herald报道，BTS成员Jin的单曲《Don't Say You Love Me》在Spotify上的播放量已突破10亿次，成为其个人作品中的又一里程碑。",
-    "extracted_at": "2026-08-18T12:31:04.934702+08:00"
+    "extracted_at": "2026-08-18T16:31:58.486820+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -187,59 +556,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：韩国企业可能将导弹测试移至美国进行，具体企业及时间未提及。",
-      "事实点2：K-pop偶像佩戴隐形眼镜成为话题，具体偶像及品牌未提及。"
+      "韩国企业可能将导弹测试移至美国进行",
+      "K-pop偶像佩戴隐形眼镜成为话题"
     ],
-    "summary_zh": "据韩国中央日报报道，韩国企业可能将导弹测试移至美国进行，但具体企业及时间未提及。同时，K-pop偶像佩戴隐形眼镜成为话题，但具体偶像及品牌未提及。",
-    "extracted_at": "2026-08-18T12:31:06.844480+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Big Bang’s 20th year celebration comes to Han River - The Korea Herald",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xTWh1VlZ0NUw2ems4TzlwRkVsRVpqZXBaeDF3MlJ2VldDVXktMmtVQk91S0J4SGpZUzFRVVAwalZvWkJKd3N1NFdqOTJnYmxDOGZCVDhqQQ?oc=5",
-    "content": "Big Bang’s 20th year celebration comes to Han River The Korea Herald",
-    "published_at": "0818google-kpop",
-    "published_ts": 1787018129.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Big Bang出道20周年庆典将在汉江举行",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：Big Bang出道20周年庆典活动将在韩国汉江举行",
-      "事实点2：该消息由The Korea Herald报道"
-    ],
-    "summary_zh": "据The Korea Herald报道，韩国男子组合Big Bang的出道20周年庆典活动将在汉江举行。此次庆典旨在纪念组合出道20周年，具体活动细节尚未公布。",
-    "extracted_at": "2026-08-18T12:31:08.597530+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Le Sserafim generates 300m Spotify plays with ‘Eve, Psyche & The Bluebeard's wife’ - The Korea Herald",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05Z2l4RUljT2NUdWZ2Ump0T2g3X0hOem53bldUcUdXd1QwMVlCeDNlNWJIb0ticmZWWElvX3lhTlREc1h0dVhhdkI2YjZiUGo2YUFmMWQzbw?oc=5",
-    "content": "Le Sserafim generates 300m Spotify plays with ‘Eve, Psyche & The Bluebeard's wife’ The Korea Herald",
-    "published_at": "0818google-kpop",
-    "published_ts": 1787016097.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "LE SSERAFIM《Eve, Psyche & The Bluebeard's wife》Spotify播放量突破3亿",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：韩国女团LE SSERAFIM的歌曲《Eve, Psyche & The Bluebeard's wife》在Spotify上累计播放量达到3亿次。",
-      "事实点2：该消息由The Korea Herald报道。"
-    ],
-    "summary_zh": "据The Korea Herald报道，韩国女团LE SSERAFIM的歌曲《Eve, Psyche & The Bluebeard's wife》在Spotify上的累计播放量已突破3亿次，展现了该曲在全球范围内的广泛流行。",
-    "extracted_at": "2026-08-18T12:31:10.643436+08:00"
+    "summary_zh": "据韩国中央日报报道，韩国企业可能将导弹测试移至美国进行，同时K-pop偶像佩戴的隐形眼镜也引发了关注。",
+    "extracted_at": "2026-08-18T16:32:00.085086+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -254,16 +575,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "奥斯卡与格莱美获奖K-Pop团队Demon Hunters将参加2026台北音乐博览会",
+    "title_zh": "奥斯卡与格莱美获奖K-Pop团队将参加2026台北音乐博览会",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：奥斯卡和格莱美获奖的K-Pop团队Demon Hunters将参加2026年台北音乐博览会（TAIPEI MUSIC EXPO 2026）。",
-      "事实点2：该博览会被定位为亚太音乐平台。"
+      "事实点1：该K-Pop团队曾获奥斯卡奖和格莱美奖",
+      "事实点2：该团队将参加2026年台北音乐博览会（TAIPEI MUSIC EXPO 2026）",
+      "事实点3：台北音乐博览会被定位为亚太音乐平台"
     ],
-    "summary_zh": "据PR Newswire报道，曾获奥斯卡和格莱美奖项的K-Pop团队Demon Hunters将参加2026年台北音乐博览会（TAIPEI MUSIC EXPO 2026），该博览会被定位为亚太音乐平台。",
-    "extracted_at": "2026-08-18T12:31:12.670358+08:00"
+    "summary_zh": "据PR Newswire报道，一支曾获得奥斯卡奖和格莱美奖的K-Pop团队将参加2026年台北音乐博览会（TAIPEI MUSIC EXPO 2026）。该博览会被定位为亚太音乐平台，此次参与标志着该团队在亚洲市场的进一步拓展。",
+    "extracted_at": "2026-08-18T16:32:02.476824+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -278,16 +600,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Karina掌控全场：领衔音乐节、代言不断，K-pop新星从容不迫",
+    "title_zh": "Karina掌控全局：领衔音乐节与代言活动，K-pop新星从容不迫",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：Karina（aespa成员）近期领衔多个音乐节，并担任多个品牌代言人。",
-      "事实点2：该报道来自Billboard，标题强调Karina在繁忙日程中依然保持从容。"
+      "Karina正在领衔多个音乐节，并担任多个广告活动的代言人。",
+      "Karina在繁忙日程中保持从容，未显疲态。"
     ],
-    "summary_zh": "据Billboard报道，aespa成员Karina近期事业繁忙，不仅领衔多个音乐节，还担任多个品牌的代言人。尽管日程紧凑，她依然表现得从容不迫，展现出对自身事业的掌控力。",
-    "extracted_at": "2026-08-18T12:31:14.998935+08:00"
+    "summary_zh": "据Billboard报道，K-pop女团aespa成员Karina目前正领衔多个音乐节，并担任多个广告活动的代言人。尽管日程繁忙，她依然保持从容不迫，展现出强大的掌控力。",
+    "extracted_at": "2026-08-18T16:32:04.495597+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -302,41 +624,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "KPop Demon Hunters 盲盒收藏手办兼具背包挂饰功能",
+    "title_zh": "KPop Demon Hunters 盲盒收藏手办兼具背包挂件功能",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "产品名称：KPop Demon Hunters 盲盒收藏手办",
-      "产品功能：可作为背包挂饰使用",
-      "报道来源：Billboard"
+      "事实点1：产品名称为“KPop Demon Hunters”盲盒收藏手办",
+      "事实点2：该手办可兼作背包挂件",
+      "事实点3：由Billboard报道"
     ],
-    "summary_zh": "据Billboard报道，一款名为“KPop Demon Hunters”的盲盒收藏手办兼具背包挂饰功能。该产品以K-pop为主题，设计为恶魔猎人形象，可作为背包装饰。",
-    "extracted_at": "2026-08-18T12:31:17.037504+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "KPop Demon Hunters Criterion Collection Release Includes New Features, Physical Goodies - IMDb",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XclpFUVBqNkpmTFA1Z2JEUkppcHdaSTRhbGlERUp0eE5vakpnd09MLWx2T1lKZm9scDhnVEM3QkIwTkpZS1d1TGVlVE8xbmpaZGMwallwVk9tNllhZUhHVndmNVQzM0U?oc=5",
-    "content": "KPop Demon Hunters Criterion Collection Release Includes New Features, Physical Goodies IMDb",
-    "published_at": "0818google-kpop",
-    "published_ts": 1786990235.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "《KPop Demon Hunters》标准收藏版发行，含新特典与实体周边",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：标准收藏（Criterion Collection）将发行《KPop Demon Hunters》的收藏版影碟。",
-      "事实点2：该版本包含新增花絮（New Features）和实体周边（Physical Goodies）。"
-    ],
-    "summary_zh": "据IMDb报道，标准收藏（Criterion Collection）将发行《KPop Demon Hunters》的收藏版，该版本包含新增花絮和实体周边。具体细节尚未公布。",
-    "extracted_at": "2026-08-18T12:31:19.038471+08:00"
+    "summary_zh": "据Billboard报道，一款名为“KPop Demon Hunters”的盲盒收藏手办问世，该手办不仅作为收藏品，还兼具背包挂件的实用功能。",
+    "extracted_at": "2026-08-18T16:32:06.483918+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -351,16 +649,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "KCON洛杉矶大会：K-pop、韩剧与粉丝社区齐聚洛杉矶会展中心",
+    "title_zh": "KCON洛杉矶大会：K-pop、韩剧与粉丝社区齐聚会展中心",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：KCON在洛杉矶会展中心举办，粉丝聚集参与活动。",
-      "事实点2：活动内容包括K-pop、韩剧以及粉丝社区交流。"
+      "事实点1：KCON活动在洛杉矶会展中心举行，粉丝聚集参与K-pop、韩剧相关活动。",
+      "事实点2：活动强调社区感，粉丝群体共同参与。"
     ],
-    "summary_zh": "据《洛杉矶时报》报道，KCON活动在洛杉矶会展中心举行，吸引了大量粉丝参与。活动涵盖了K-pop音乐、韩剧展示以及粉丝社区互动，体现了韩流文化在美国的影响力。",
-    "extracted_at": "2026-08-18T12:31:20.930138+08:00"
+    "summary_zh": "KCON活动在洛杉矶会展中心举行，吸引了大量粉丝参与，活动内容包括K-pop、韩剧以及粉丝社区互动。该活动强调了粉丝之间的社区感，为粉丝提供了共同体验和互动的机会。",
+    "extracted_at": "2026-08-18T16:32:09.086476+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -375,16 +673,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "MAMAMOO携美国巡演登陆H-E-B中心，K-pop实力女团强势来袭",
+    "title_zh": "MAMAMOO携“Strings & Things”巡演登陆美国H-E-B中心",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：MAMAMOO将携美国巡演登陆位于威廉森县的H-E-B中心。",
-      "事实点2：MAMAMOO是K-pop实力女团，此次巡演为美国站。"
+      "事实点1：MAMAMOO将举行美国巡演，地点为H-E-B Center",
+      "事实点2：巡演名称为“Strings & Things”"
     ],
-    "summary_zh": "K-pop实力女团MAMAMOO宣布将携美国巡演登陆位于威廉森县的H-E-B中心。此次巡演是MAMAMOO在美国的系列演出之一，具体日期和场次信息尚未公布。",
-    "extracted_at": "2026-08-18T12:31:23.028971+08:00"
+    "summary_zh": "韩国实力女团MAMAMOO宣布将携“Strings & Things”巡演登陆美国，其中一站定于H-E-B Center举行。此次巡演是MAMAMOO在美国的系列演出之一，具体日期和更多场次信息尚未公布。",
+    "extracted_at": "2026-08-18T16:32:11.149165+08:00"
   },
   {
     "source_id": "asianwiki",
