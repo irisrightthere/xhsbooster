@@ -1,5 +1,396 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Producers Scout for K-pop Talent With U.S. Appeal During Kcon Fan Festival in Los Angeles - IMDb",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5MSFF4ZV9sSVNldkVEb2FCYWxZV0tWemIzeGhXQmZWQXE2Y2V5bWJTSi0yUzY2MmJWR1ltSzNCeXV5UDdyRkFJbno2dlFpa0V6TXhISnpDczl4QjhjSUdZeExFOHhDUQ?oc=5",
+    "content": "Producers Scout for K-pop Talent With U.S. Appeal During Kcon Fan Festival in Los Angeles IMDb",
+    "published_at": "0819google-kpop",
+    "published_ts": 1787142985.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "KCON洛杉矶粉丝节：制作人挖掘具美国市场潜力的K-pop新星",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "时间：KCON粉丝节期间",
+      "地点：美国洛杉矶",
+      "主体：制作人",
+      "具体动作：为发掘具有美国市场吸引力的K-pop人才进行选角活动"
+    ],
+    "summary_zh": "在洛杉矶举行的KCON粉丝节期间，制作人积极寻找具有美国市场吸引力的K-pop人才。这一活动旨在发掘能够在美国市场获得成功的K-pop新星，反映了K-pop产业对全球市场的重视。",
+    "extracted_at": "2026-08-19T20:37:19.400436+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Christian metal band Demon Hunter sues Netflix over ‘KPop Demon Hunters’ trademark - NME",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVGdMd0pldEJPY1hVWm9EaXV5R1dtblJYNTZVcHhSYjM3SGJ5dURacFVFY0ExUEwtLWt5blZGVENrNXZReVh5MWs1MG1VM2JyVnQ2czc2NGV6clAxUDVLWFNua05GMVVTdmN5aERiZ3ZrYjZnWkM2SzUwV3lSU3lJcHVOS3hXZ2pabTJWRXJwNUwwN0JaNlh6eElEUWppMkNBWGZlQ0REeXgtUDVoSDh1S25ybw?oc=5",
+    "content": "Christian metal band Demon Hunter sues Netflix over ‘KPop Demon Hunters’ trademark NME",
+    "published_at": "0819google-kpop",
+    "published_ts": 1787141231.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Demon Hunter乐队起诉Netflix侵犯'KPop Demon Hunters'商标权",
+    "source_type": "韩娱",
+    "risk_level": "中",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：基督教金属乐队Demon Hunter对Netflix提起诉讼，指控其侵犯'KPop Demon Hunters'商标权。",
+      "事实点2：诉讼涉及Netflix使用'KPop Demon Hunters'名称，可能与乐队商标产生混淆。"
+    ],
+    "summary_zh": "基督教金属乐队Demon Hunter已对Netflix提起诉讼，指控其侵犯'KPop Demon Hunters'商标权。该诉讼源于Netflix使用该名称，可能引起与乐队商标的混淆。具体细节尚未披露。",
+    "extracted_at": "2026-08-19T20:37:21.408872+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Producers Scout for K-pop Talent With U.S. Appeal During KCON Fan Festival in Los Angeles - Variety",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVm95U2J5TG1VRlNNTkM0b2Z5Tk94NGZhb0RlRkxneXFmSkhLa0lWRFQ4Uy05NGpwdHh2eTFiSEYxNjFOb1htdGFiOEJjSHBoNFdzRW1nTUpYVWNjMHlJVnljRl9venF5OUNFeFR6dXEzYjVjNTVuQlJEdDY0ZUFGZ01mcU1UQl9WT21YV2s2VklhZlE?oc=5",
+    "content": "Producers Scout for K-pop Talent With U.S. Appeal During KCON Fan Festival in Los Angeles Variety",
+    "published_at": "0819google-kpop",
+    "published_ts": 1787140800.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "KCON洛杉矶粉丝节期间，制作人挖掘具美国市场潜力的K-pop新星",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "时间：KCON粉丝节期间",
+      "地点：美国洛杉矶",
+      "主体：制作人",
+      "动作：为发掘具有美国市场吸引力的K-pop人才进行选角活动"
+    ],
+    "summary_zh": "在洛杉矶举办的KCON粉丝节期间，多位制作人积极寻找具有美国市场潜力的K-pop人才。这一活动旨在发掘能够吸引美国观众的新星，反映了K-pop产业对全球市场的重视。",
+    "extracted_at": "2026-08-19T20:37:23.549228+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Christian band Demon Hunter sues Netflix over 'KPop Demon Hunters' trademark - tribune.com.pk",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWlFWQ1J1SGlsRzNudHJXRzZ4UlpIZGdmS0pMa2xGcllRN1FORWpHMThtMlZDaXlYbG1VcDJTcEtfZDRLSHQyNWM5eEJqdXhyVkFuUFhwOExYcDhNaWtLa3pPRXBrSGozbVoxeVJKVmtkYmUxREtYWmRQX0NBUGxWQV9TbEthRnA5SmJTOEE2ZVRnRVoxYllzQmlxandZLUJEVDRIZy15UTU3Qmo2Y1ZNOdIBuAFBVV95cUxPdkp1NkFZdGtHWjZfeXB5MGFDVFYtMzhCakZmbTlObzB0WXpaMVJnczhzT1pVenFmWWZ4dE1rODB0cE9HTDZCcTNUV2hXZEYxVXE4Z2VGTS0xWWQ4RnVJMGJSLVVyMC1hQnBGdEk4ZjlCNmY2dG02UGtQRjBjNHlTcEwwQUFjM0lLM3FNLXZTcFQ3OVJ5ckNWZFZiXzZJeFIwQXUzUmdROEFqS1I5TXBWZHZHRk5CSTl3?oc=5",
+    "content": "Christian band Demon Hunter sues Netflix over 'KPop Demon Hunters' trademark tribune.com.pk",
+    "published_at": "0819google-kpop",
+    "published_ts": 1787139450.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "基督教乐队Demon Hunter起诉Netflix侵犯'KPop Demon Hunters'商标权",
+    "source_type": "韩娱",
+    "risk_level": "中",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：基督教乐队Demon Hunter对Netflix提起诉讼，指控其侵犯'KPop Demon Hunters'商标权。",
+      "事实点2：诉讼涉及Netflix使用'KPop Demon Hunters'名称，与乐队名称相似，可能造成混淆。"
+    ],
+    "summary_zh": "基督教乐队Demon Hunter已对Netflix提起诉讼，指控Netflix侵犯其商标权，因为Netflix使用了'KPop Demon Hunters'这一名称。乐队认为该名称与其自身名称相似，可能导致公众混淆。诉讼的具体细节和索赔金额尚未披露。",
+    "extracted_at": "2026-08-19T20:37:25.638318+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Stray Kids Takes 3rd Win For “This & That” On “Show Champion”; Performances By WayV, KiiiKiii, And More",
+    "url": "https://www.soompi.com/article/1864021wpp/watch-stray-kids-takes-3rd-win-for-this-that-on-show-champion-performances-by-wayv-kiiikiii-and-more",
+    "content": "Stray Kids has won their third music show trophy for “This &#38; That”! On the August 19 episode of “Show Champion,” the candidates for first place were KiiiKiii&#8217;s “Pop Off Pop Off,” Red Velvet&#8217;s “Surfin’ Boy,” Stray Kids&#8217; “This &#38; That,” WayV&#8217;s “Vision Wings (English Ver.),” and Jennie’s “Less than a Lover.” Stray Kids ultimately took&#8230; Continue reading Watch: Stray Kids Takes 3rd Win For “This &#38; That” On &#8220;Show Champion&#8221;; Performances By WayV, KiiiKiii, And More\nThe post Watch: Stray Kids Takes 3rd Win For “This & That” On &#8220;Show Champion&#8221;; Performances By WayV, KiiiKiii, And More appeared first on Soompi.",
+    "published_at": "0819soompi",
+    "published_ts": 1787139175.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Stray Kids《This & That》获《Show Champion》第三冠，WayV、KiiiKiii等献上舞台",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：8月19日《Show Champion》节目中，Stray Kids凭借《This & That》获得第一名，这是该曲的第三个音乐节目冠军。",
+      "事实点2：候补曲目包括KiiiKiii的《Pop Off Pop Off》、Red Velvet的《Surfin' Boy》、Stray Kids的《This & That》、WayV的《Vision Wings (English Ver.)》和Jennie的《Less than a Lover》。",
+      "事实点3：该期节目还有WayV、KiiiKiii等艺人的表演舞台。"
+    ],
+    "summary_zh": "在8月19日播出的《Show Champion》中，Stray Kids凭借《This & That》获得第一名，这是该曲的第三个音乐节目冠军。候补曲目包括KiiiKiii的《Pop Off Pop Off》、Red Velvet的《Surfin' Boy》、Stray Kids的《This & That》、WayV的《Vision Wings (English Ver.)》和Jennie的《Less than a Lover》。此外，该期节目还呈现了WayV、KiiiKiii等艺人的精彩舞台。",
+    "extracted_at": "2026-08-19T20:37:28.290630+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "'Sesame Street' Parodies 'KPop Demon Hunters' Hit 'Golden': Video - Billboard",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYm1PU3UyNEhmMEN6U0JIYW1vWm9mNHNhQU9DSFg4ejdtSEo1VWdYMWZkbkdjQ05UcXY3NTVWdmFUQTBGd1J6YzlpMTJVZ2RfWDN2NmkySURnRU9BOElsWXQtN0FpZkZQaUlsWUR6NGc5RWEwdDYtVi1zelNBV005VEJOMF9rQy1ZMUg0SlFBY0c5NWI2TnZQOXV5Z04zZC1jMEkxNTRlR1owQlpoYTduWA?oc=5",
+    "content": "'Sesame Street' Parodies 'KPop Demon Hunters' Hit 'Golden': Video Billboard",
+    "published_at": "0819google-kpop",
+    "published_ts": 1787139030.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《芝麻街》恶搞《KPop恶魔猎人》热曲《Golden》",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "《芝麻街》发布恶搞视频，模仿《KPop恶魔猎人》的热门歌曲《Golden》。",
+      "该视频由Billboard报道。"
+    ],
+    "summary_zh": "据Billboard报道，美国儿童教育节目《芝麻街》发布了一段恶搞视频，模仿韩国组合《KPop恶魔猎人》的热门歌曲《Golden》。该视频以《芝麻街》的布偶角色重新演绎了原曲的舞蹈和场景，具体细节未在原文中详述。",
+    "extracted_at": "2026-08-19T20:37:30.388325+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kim Min Ha, Joo Jong Hyuk, And More’s “The Table: Day And Night” Selected As Opening Film Of 2026 Busan International Film Festival",
+    "url": "https://www.soompi.com/article/1864013wpp/kim-min-ha-joo-jong-hyuk-and-mores-the-table-day-and-night-selected-as-opening-film-of-2026-busan-international-film-festival",
+    "content": "The upcoming film “The Table: Day and Night” has been selected as the opening film of this year’s Busan International Film Festival (BIFF)! Set during the transition from summer to fall, “The Table: Day and Night” captures the witty, understated, and charming conversations shared by four pairs of men and women who cross paths at&#8230; Continue reading Kim Min Ha, Joo Jong Hyuk, And More’s “The Table: Day And Night” Selected As Opening Film Of 2026 Busan International Film Festival\nThe post Kim Min Ha, Joo Jong Hyuk, And More’s “The Table: Day And Night” Selected As Opening Film Of 2026 Busan International Film Festival appeared first on Soompi.",
+    "published_at": "0819soompi",
+    "published_ts": 1787137286.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "金敏荷、朱钟赫等主演《白天和黑夜的餐桌》获选2026年釜山国际电影节开幕片",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：电影《白天和黑夜的餐桌》被选为2026年釜山国际电影节开幕影片。",
+      "事实点2：该片由金敏荷、朱钟赫等演员出演，故事设定在夏秋之交，讲述四对男女相遇并展开机智、含蓄而迷人的对话。"
+    ],
+    "summary_zh": "电影《白天和黑夜的餐桌》被选为2026年釜山国际电影节开幕影片。该片由金敏荷、朱钟赫等演员出演，故事设定在夏秋之交，捕捉四对男女相遇时机智、含蓄而迷人的对话。",
+    "extracted_at": "2026-08-19T20:37:32.725299+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "LEGO releases ‘KPop Demon Hunters’ Derpy Tiger Sussie Bird set: Price and availability - Lifestyle Asia Hong Kong",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSzV1T1hvTlpraHJnbWFHTFY5LUtsSVZFamZLbGp5aWVWZXZsamVtQzNxRFRaTzRsVmZVZmduSktsamJ1eDdLdzd0Qjl2WS1NTjN0Z2tVWGktdnFCTjBsSmpiUE42anVzY3pJNzhCNktzWEcya1FvRl9Qb044eDFIZUJRT3NwWkdPcFVtalN0MDEyQV80VzdnbGx5UmN3VzVKMDZONTE0YVY0b25YSFFELWMzQ0pYNS16aHdtZDJR0gHDAUFVX3lxTE1HMTAzNEZxQ1ZaX1ZGaU9mNVdKYUozQWJoaGlQNkh6Y2RzRUNjTlNUaXo0Q2tmd2xyTS1mcmQ5WThIZHg4MDQ4UnBrQnVIRVRod2EtT0M4NTNiZTJkcTlqOG9IMFNpVzgzbnUxRUZ4VmFOcjFGVHFud2IyTnN2QmNpWEY1WTltOW1WTm9rbHBCbjBLTzFnNGtvdnhZUGpwaW5uSjhKX1dMXzBQcFBvaUg4c1NLQ25ya2NIbXVVSzdWM052NA?oc=5",
+    "content": "LEGO releases ‘KPop Demon Hunters’ Derpy Tiger Sussie Bird set: Price and availability Lifestyle Asia Hong Kong",
+    "published_at": "0819google-kpop",
+    "published_ts": 1787135667.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "乐高推出‘KPop恶魔猎人’系列Derpy Tiger Sussie Bird套装：价格与发售信息",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "乐高发布了‘KPop Demon Hunters’系列中的Derpy Tiger Sussie Bird套装",
+      "该套装的价格和发售信息已公布"
+    ],
+    "summary_zh": "乐高发布了‘KPop Demon Hunters’系列中的Derpy Tiger Sussie Bird套装，并公布了其价格和发售信息。该套装属于该系列的一部分，具体价格和发售日期未在原文中详细说明。",
+    "extracted_at": "2026-08-19T20:37:34.836632+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "‘KPop Demon Hunters’ 3D puzzles: Prices, designs and availability - Lifestyle Asia Hong Kong",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLXRjaGJYSy1sOG0zcHAtcDFUTjB6VkRNUGpuRGFJdGJSZjU1cUpFMExqWWVYMDJ6ZmhpSDZCcXdDN2VONGpSVXRZbXNtcExCVlhnN29yckx4bzBpZVBNeGVFM25BQnBGVWJIdDI3RGhSVzNzems5aWpvRENuZzVuSzh4aUNWMmxleF9yNDZubDVtc18weG9Oc0c1WUxXWGJNcFBIMU530gGrAUFVX3lxTE1iMUhPMFBiU2MyMlRVd0xzWFFmSWNDanloUFJabFR6T19Iazl1UE9mbUJWOHVISEQ5N29BN0FFNXZxSzBEb1NsX3J4VGpaZkpDSjM4bHd6eGUwYnZvcjRjUXVzeHZpQXhFcS0yWXo2NEd4NS1scG8xM3NtZjJ5eDhpUnRxdzBtNS1PREhnWWYzbFk5dWwxMzhKb3R4d2o2bGEwTDlMMUJneEVBMA?oc=5",
+    "content": "‘KPop Demon Hunters’ 3D puzzles: Prices, designs and availability Lifestyle Asia Hong Kong",
+    "published_at": "0819google-kpop",
+    "published_ts": 1787135667.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《KPop Demon Hunters》3D拼图：价格、设计与购买渠道一览",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：Lifestyle Asia Hong Kong报道了《KPop Demon Hunters》3D拼图的推出。",
+      "事实点2：报道中提及了拼图的价格、设计和购买渠道。"
+    ],
+    "summary_zh": "据Lifestyle Asia Hong Kong报道，《KPop Demon Hunters》3D拼图现已推出，报道中介绍了其价格、设计以及购买渠道。",
+    "extracted_at": "2026-08-19T20:37:36.572903+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "JYP's new multinational girl group OurBirthday debuts with its own brand of music - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRczZURWhwQUhPbXNGMTlpLVM3U25VaVpqWUdjblBHcVcxbnAwcUt1REtoMmhWOEd2a2VuaF9XMFlMNGxxekhsU3RuTVFLOC1lTnVmZzdxVQ?oc=5",
+    "content": "JYP's new multinational girl group OurBirthday debuts with its own brand of music The Korea Herald",
+    "published_at": "0819google-kpop",
+    "published_ts": 1787133284.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "JYP新跨国女团OurBirthday出道，展现独特音乐风格",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：JYP娱乐推出新跨国女团OurBirthday",
+      "事实点2：该女团以独特音乐风格正式出道"
+    ],
+    "summary_zh": "据韩国先驱报报道，JYP娱乐旗下新跨国女团OurBirthday正式出道，并以其独特的音乐风格亮相。该团体由多国成员组成，展现了JYP在全球化战略上的新布局。",
+    "extracted_at": "2026-08-19T20:37:38.457509+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Apink’s Jeong Eun Ji Announces Dates And Stops For Solo Asia Tour “SUMMER, I”",
+    "url": "https://www.soompi.com/article/1864009wpp/apinks-jeong-eun-ji-announces-dates-and-stops-for-solo-asia-tour-summer-i",
+    "content": "Apink’s Jeong Eun Ji is taking her solo concert tour across Asia! On August 19, it was announced that Jeong Eun Ji will bring her upcoming solo concert “SUMMER, I” to Kuala Lumpur, Hong Kong, and Taipei, following her Seoul concerts on September 12 and 13. She will kick off the Asia leg in Kuala&#8230; Continue reading Apink’s Jeong Eun Ji Announces Dates And Stops For Solo Asia Tour “SUMMER, I”\nThe post Apink’s Jeong Eun Ji Announces Dates And Stops For Solo Asia Tour “SUMMER, I” appeared first on Soompi.",
+    "published_at": "0819soompi",
+    "published_ts": 1787133272.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Apink郑恩地宣布个人亚洲巡演“SUMMER, I”日程及站点",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：8月19日，Apink成员郑恩地宣布将举办个人演唱会“SUMMER, I”亚洲巡演。",
+      "事实点2：首尔站演出定于9月12日和13日举行。",
+      "事实点3：亚洲巡演站点包括吉隆坡、香港和台北，首站为吉隆坡。"
+    ],
+    "summary_zh": "Apink成员郑恩地于8月19日宣布将举办个人演唱会“SUMMER, I”亚洲巡演。首尔站演出定于9月12日和13日举行，随后她将前往吉隆坡、香港和台北进行亚洲巡演，首站为吉隆坡。",
+    "extracted_at": "2026-08-19T20:37:40.714612+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Hong Min Ki’s Agency Responds To Recent Allegations Made By Ex-Girlfriend",
+    "url": "https://www.soompi.com/article/1863992wpp/hong-min-kis-agency-responds-to-recent-allegations-made-by-ex-girlfriend",
+    "content": "Hong Min Ki&#8217;s agency has released a statement following allegations against the actor. On August 19, an influencer known as &#8220;A&#8221; revealed an image of the certification of contents she sent to actor Hong Min Ki, her ex-boyfriend, with various claims including assault and privacy invasion. Later in the day, she wrote another post with&#8230; Continue reading Hong Min Ki&#8217;s Agency Responds To Recent Allegations Made By Ex-Girlfriend\nThe post Hong Min Ki&#8217;s Agency Responds To Recent Allegations Made By Ex-Girlfriend appeared first on Soompi.",
+    "published_at": "0819soompi",
+    "published_ts": 1787131543.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "洪民基前女友指控施暴及侵犯隐私，所属社发布官方回应",
+    "source_type": "韩娱",
+    "risk_level": "高",
+    "is_blurred": false,
+    "facts_list": [
+      "8月19日，网红“A”公开了发给前男友洪民基的内容证明，包含施暴和侵犯隐私等指控。",
+      "同日，“A”再次发文，但具体内容未在原文中详述。",
+      "洪民基所属社已就相关指控发布正式声明。"
+    ],
+    "summary_zh": "8月19日，网红“A”公开了其发给演员洪民基的内容证明，指控对方施暴及侵犯隐私。同日，“A”再次发文，但具体内容未详。洪民基所属社随后发布声明回应，但声明具体内容未在原文中提及。",
+    "extracted_at": "2026-08-19T20:37:42.891855+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "‘My Bias, My Boss’ release schedule: When do episodes 7 and 8 drop? - Lifestyle Asia Hong Kong",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYm94bzU2ZDRxaVUzRjAtRWFoYjd1QXVlYldkUVZBRkx2Zy1KXzlTQ21UbldyZkdiMTZSY1BWT2VFYXV4U1BSX3EzNm5OM3VUQUsxdGhpUkctWl9jY3M2aDJMZVdXMnhFQktZMU1DeG56b1VPOGN0VExpOHA0SDZBUHJ1dEwydTYzcG9iS2YyS3owcS1LdXN6S3dzelE4WVF20gGmAUFVX3lxTE9zNU1pb1ZJSGVHajE3UVlUT1dIQ1FHYldBTU5GLXNVNGtXSWVYTGhuenk1Sng5MFFuanVCM0tOQ2dQWnlhY3dGOXU3clJnQi1Ec2JldVpOSHRFQXZyazgzcDlRRHRrV3hvS1pQc0wzSFQ0eXBYTjlWd3M5eWcyb2djYUtLNXlGbVJFcjRWVnVPYk94LVZqNU5kbjN0cUhOR05QWjd4Ync?oc=5",
+    "content": "‘My Bias, My Boss’ release schedule: When do episodes 7 and 8 drop? Lifestyle Asia Hong Kong",
+    "published_at": "0819google-kpop",
+    "published_ts": 1787129638.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《My Bias, My Boss》播出日程：第7、8集何时上线？",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：文章标题为《My Bias, My Boss》播出日程，询问第7、8集上线时间。",
+      "事实点2：文章来源为Lifestyle Asia Hong Kong。"
+    ],
+    "summary_zh": "该资讯为韩剧《My Bias, My Boss》的播出日程报道，主要关注第7、8集的上线时间。文章未提供具体日期或详细内容，仅以标题形式呈现。",
+    "extracted_at": "2026-08-19T20:37:44.512914+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "55+ Thai BL Dramas On Viki",
+    "url": "https://www.soompi.com/article/1852540wpp/55-thai-bl-dramas-on-viki",
+    "content": "Thai BL dramas have become a global favorite, captivating viewers with heartfelt stories, memorable characters, and undeniable chemistry. Whether you&#8217;re searching for your next binge or catching up on fan-favorite series, Viki offers a diverse lineup of Thai BL titles. Check below for a list of all the Thai BL dramas currently available to stream&#8230; Continue reading 55+ Thai BL Dramas On Viki\nThe post 55+ Thai BL Dramas On Viki appeared first on Soompi.",
+    "published_at": "0819soompi",
+    "published_ts": 1787128985.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Viki平台上线55+部泰国BL剧集，完整片单一览",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：Viki平台目前提供超过55部泰国BL剧集供观众流媒体观看。",
+      "事实点2：该片单涵盖多部热门及粉丝喜爱的系列，具体片名未在原文中逐一列出。"
+    ],
+    "summary_zh": "泰国BL剧集在全球广受欢迎，以感人故事、难忘角色和化学反应吸引观众。Viki平台现提供超过55部泰国BL剧集，供观众 binge-watching 或追看粉丝最爱系列。完整片单可在 Soompi 网站查看。",
+    "extracted_at": "2026-08-19T20:37:46.709145+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Wayf Boys break K-pop rules — and Interscope is buying in - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkdDRVSndTQ0lmNWtoeDZ6Z1hCWTRzLUxJd0swRVZMUTlxNVBKdVlwdUw2SWJsQkFrNVdhb01JbzhnTWp2ZVYyWVFsdUlGd2VzUUJvOUk4Yw?oc=5",
+    "content": "Wayf Boys break K-pop rules — and Interscope is buying in The Korea Herald",
+    "published_at": "0819google-kpop",
+    "published_ts": 1787128816.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Wayf Boys打破K-pop规则，Interscope签约支持",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：韩国媒体The Korea Herald报道，男团Wayf Boys打破K-pop常规，获得Interscope唱片公司支持。",
+      "事实点2：报道未提及具体打破规则的行为或具体数据。"
+    ],
+    "summary_zh": "据The Korea Herald报道，男团Wayf Boys以打破K-pop常规的方式获得国际唱片公司Interscope的青睐，但报道未具体说明其打破规则的行为或相关数据。",
+    "extracted_at": "2026-08-19T20:37:48.891442+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "KCM And Wife Share Beautiful Wedding Photos",
+    "url": "https://www.soompi.com/article/1863973wpp/kcm-and-wife-share-beautiful-wedding-photos",
+    "content": "Singer KCM and his wife Bang Ye Won have shared beautiful wedding photos ahead of their long-awaited wedding ceremony! On August 19, KCM took to Instagram to share two photos along with a heartfelt message that read, “I’m a little embarrassed, but I thought I’d share a few wedding photos. Since I’m holding a wedding&#8230; Continue reading KCM And Wife Share Beautiful Wedding Photos\nThe post KCM And Wife Share Beautiful Wedding Photos appeared first on Soompi.",
+    "published_at": "0819soompi",
+    "published_ts": 1787128688.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "KCM与妻子方艺媛公开婚纱照，婚礼在即",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：8月19日，歌手KCM在Instagram上分享了两张婚纱照。",
+      "事实点2：KCM在配文中表示：“我有点不好意思，但我想分享一些婚纱照。因为我要举行婚礼……”"
+    ],
+    "summary_zh": "歌手KCM与妻子方艺媛在婚礼前夕公开了美丽的婚纱照。8月19日，KCM通过Instagram上传了两张照片，并附上真挚的文字：“我有点不好意思，但我想分享一些婚纱照。因为我要举行婚礼……”照片中两人幸福洋溢，引发粉丝祝福。",
+    "extracted_at": "2026-08-19T20:37:51.259804+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -17,11 +408,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：文章列举了9部主角能看见鬼魂的韩剧",
+      "事实点1：文章推荐了9部主角能看见鬼魂的韩剧",
       "事实点2：文章发布于Soompi网站"
     ],
-    "summary_zh": "本文推荐了9部主角能看见鬼魂的韩剧，指出这类设定具有独特的治愈感，因为鬼魂往往带着未了的心愿和遗憾，而能看见他们的人帮助他们获得解脱。文章未具体列出剧名，仅提供概述。",
-    "extracted_at": "2026-08-19T16:31:52.543287+08:00"
+    "summary_zh": "本文推荐了9部主角能看见鬼魂的韩剧，指出这类设定具有某种奇特的安慰感，因为鬼魂往往有未了的心愿和遗憾，而能看见他们的人帮助他们找到解脱。文章发布于Soompi。",
+    "extracted_at": "2026-08-19T20:37:53.417509+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -36,16 +427,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Stray Kids新曲《This & That》创Hot 100最佳首周排名",
+    "title_zh": "Stray Kids新曲《This & That》创Hot 100最佳首秀纪录",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "Stray Kids凭借《This & That》在Billboard Hot 100上创下职业生涯最佳首周排名",
-      "该曲为Stray Kids在Hot 100上的最高首周成绩"
+      "Stray Kids凭借《This & That》在Billboard Hot 100上取得职业生涯最佳首秀成绩",
+      "该曲为Stray Kids在Hot 100上的最高排名"
     ],
-    "summary_zh": "据The Korea Herald报道，Stray Kids的新曲《This & That》在Billboard Hot 100上创下了职业生涯最佳首周排名。这是他们在该榜单上的最高首周成绩，展现了组合的持续上升势头。",
-    "extracted_at": "2026-08-19T16:31:54.754323+08:00"
+    "summary_zh": "据The Korea Herald报道，Stray Kids的新曲《This & That》在Billboard Hot 100上取得了职业生涯最佳的首秀成绩，创下了他们在该榜单上的最高排名纪录。",
+    "extracted_at": "2026-08-19T20:37:55.343132+08:00"
   },
   {
     "source_id": "soompi",
@@ -60,17 +451,41 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "(G)I-DLE田小娟9月初携新作回归，时隔5年2个月再发个人专辑",
+    "title_zh": "(G)I-DLE成员田小娟将于9月初携个人专辑回归，时隔5年2个月再发solo",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：8月19日报道，(G)I-DLE队长田小娟将于9月初以个人歌手身份回归",
-      "事实点2：这是她自2021年7月发行首张个人迷你专辑《Windy》后，时隔5年2个月的首次个人回归",
-      "事实点3：CUBE娱乐已确认该消息"
+      "事实点1：8月19日，据韩媒报道，(G)I-DLE队长田小娟将于9月初以solo歌手身份回归。",
+      "事实点2：这是田小娟自2021年7月发行首张个人迷你专辑《Windy》后，时隔5年2个月的首次solo回归。",
+      "事实点3：所属社CUBE Entertainment确认了该消息。"
     ],
-    "summary_zh": "(G)I-DLE队长田小娟将于9月初以个人歌手身份回归，这是她时隔5年2个月再次发行个人作品。她上一次个人活动是2021年7月发行的首张迷你专辑《Windy》。CUBE娱乐已确认此消息。",
-    "extracted_at": "2026-08-19T16:31:56.946325+08:00"
+    "summary_zh": "据8月19日报道，(G)I-DLE队长田小娟将于9月初以solo歌手身份回归，这是她自2021年7月发行首张个人迷你专辑《Windy》后，时隔5年2个月的首次solo回归。所属社CUBE Entertainment已确认该消息。",
+    "extracted_at": "2026-08-19T20:37:57.623535+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Lisa earns four MTV VMA 2026 nominations, leads K-pop artists - Khaosod English",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRzhWUWNITVZEWVBnOVhRdDUtUUY1R2dVaGY5cDRVd0plWjBaclhPajZIMXZDMWJ6Vk5SeVM1QWtQY29EdzFsRFB5bEI5cnFZLXpsTzl1UXgtZWRHV0pHMHhDYkdnTFEwT3NSaDV4N0RaU2JSdkpiVmFGWk1JVVFpdEtwczBmOXdZQzNXRDh4Ym5IaktJcTY2U1RSVVNwMGdWVEtOUnhIbWpRb1BHclMxUlM1bnZrQzRINEV4ZFV5RQ?oc=5",
+    "content": "Lisa earns four MTV VMA 2026 nominations, leads K-pop artists Khaosod English",
+    "published_at": "0819google-kpop",
+    "published_ts": 1787126776.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Lisa获2026年MTV VMA四项提名，领跑K-pop艺人",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Lisa获得2026年MTV VMA四项提名",
+      "Lisa在K-pop艺人中提名数量最多"
+    ],
+    "summary_zh": "据Khaosod English报道，Lisa获得2026年MTV VMA四项提名，成为K-pop艺人中获得提名最多的歌手。",
+    "extracted_at": "2026-08-19T20:37:59.084296+08:00"
   },
   {
     "source_id": "soompi",
@@ -90,12 +505,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：林智妍近期接受《Cosmopolitan Korea》采访，谈及新剧《我的皇家宿敌》。",
-      "事实点2：该剧为浪漫喜剧，林智妍饰演申瑞丽，一位被朝鲜时代恶女之魂附身的过气女演员。",
+      "事实点1：林智妍近期接受《Cosmopolitan》韩国版采访，谈及新剧《我的皇家宿敌》。",
+      "事实点2：《我的皇家宿敌》是一部浪漫喜剧，林智妍饰演申瑞丽，一个被朝鲜时代恶女之魂附身的过气女演员。",
       "事实点3：林智妍分享了剧集结束后的个人活动与近况。"
     ],
-    "summary_zh": "林智妍近期接受《Cosmopolitan Korea》采访，谈及她主演的浪漫喜剧《我的皇家宿敌》。剧中她饰演申瑞丽，一位被朝鲜时代恶女之魂附身的过气女演员。采访中，林智妍分享了该剧的拍摄经历，以及剧集结束后她所参与的活动和近况。",
-    "extracted_at": "2026-08-19T16:31:59.638309+08:00"
+    "summary_zh": "林智妍近期接受《Cosmopolitan》韩国版采访，谈及她主演的浪漫喜剧《我的皇家宿敌》。该剧讲述由她饰演的过气女演员申瑞丽，突然被朝鲜时代恶女之魂附身的故事。采访中，林智妍分享了剧集结束后的个人近况与活动。",
+    "extracted_at": "2026-08-19T20:38:01.792190+08:00"
   },
   {
     "source_id": "soompi",
@@ -110,17 +525,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "李珉廷金智锡新剧《离婚吧，就现在》开播在即，三大看点揭晓",
+    "title_zh": "李珉廷金智锡新剧《离婚OK》开播在即，三大看点抢先看",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "KBS新剧《离婚吧，就现在》即将首播",
-      "该剧讲述经营婚纱店的一对夫妇决定结束疲惫婚姻的现实离婚故事",
+      "KBS新剧《OK, Let's Get Divorced》即将首播",
+      "该剧讲述经营婚纱店的一对夫妻决定结束疲惫婚姻的现实离婚故事",
       "制作组在开播前公开了三大看点"
     ],
-    "summary_zh": "KBS新剧《离婚吧，就现在》即将首播，该剧由李珉廷和金智锡主演，讲述一对经营婚纱店的夫妇决定结束疲惫婚姻的现实离婚故事。制作组在开播前公开了三大看点，具体内容尚未详细披露。",
-    "extracted_at": "2026-08-19T16:32:01.970461+08:00"
+    "summary_zh": "KBS新剧《OK, Let's Get Divorced》即将首播，该剧讲述经营婚纱店的一对夫妻决定结束疲惫婚姻的现实离婚故事。开播前，制作组公开了三大看点，但具体内容未在原文中详述。",
+    "extracted_at": "2026-08-19T20:38:03.811724+08:00"
   },
   {
     "source_id": "soompi",
@@ -143,8 +558,8 @@
       "事实点1：8月19日，2026 The Fact Music Awards组织委员会公布特别舞台计划。",
       "事实点2：特别舞台将包括热门K-pop歌曲的新演绎、艺人合作舞台以及未发行曲目的首次表演。"
     ],
-    "summary_zh": "2026 The Fact Music Awards于8月19日由组织委员会宣布，今年的颁奖礼将呈现多种特别舞台，包括对热门K-pop歌曲的全新演绎、令人期待的艺人合作，以及未发行曲目的首次公开表演。具体阵容和细节尚未完全公开，更多信息将陆续发布。",
-    "extracted_at": "2026-08-19T16:32:04.213483+08:00"
+    "summary_zh": "2026 The Fact Music Awards于8月19日由组织委员会宣布，今年的颁奖典礼将呈现多种特别舞台，包括对热门K-pop歌曲的全新演绎、令人期待的艺人合作，以及未发行曲目的首次公开表演。具体阵容和细节尚未完全公开，更多信息将陆续发布。",
+    "extracted_at": "2026-08-19T20:38:05.917712+08:00"
   },
   {
     "source_id": "soompi",
@@ -165,35 +580,11 @@
     "is_blurred": false,
     "facts_list": [
       "电影《实习生》公开新剧照，该片为好莱坞同名电影翻拍。",
-      "崔岷植饰演拥有37年工作经验的资深实习生基浩，韩素希饰演其同事。",
-      "影片讲述跨越世代与职位的办公室生活故事。"
+      "剧情讲述拥有37年工作经验的资深实习生基浩（崔岷植饰）加入公司后，与不同世代和职位的同事共同经历的办公室生活。",
+      "韩素希确认出演该片，与崔岷植合作。"
     ],
-    "summary_zh": "即将上映的电影《实习生》公开了新剧照。该片翻拍自好莱坞同名电影，讲述拥有37年工作经验的资深实习生基浩（崔岷植饰）加入公司后，与同事（韩素希饰）共同经历跨越世代与职位的办公室生活。",
-    "extracted_at": "2026-08-19T16:32:06.730305+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "‘My Bias, My Boss’ release schedule: When do episodes 7 and 8 drop? - Lifestyle Asia Hong Kong",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYm94bzU2ZDRxaVUzRjAtRWFoYjd1QXVlYldkUVZBRkx2Zy1KXzlTQ21UbldyZkdiMTZSY1BWT2VFYXV4U1BSX3EzNm5OM3VUQUsxdGhpUkctWl9jY3M2aDJMZVdXMnhFQktZMU1DeG56b1VPOGN0VExpOHA0SDZBUHJ1dEwydTYzcG9iS2YyS3owcS1LdXN6S3dzelE4WVF20gGmAUFVX3lxTE9zNU1pb1ZJSGVHajE3UVlUT1dIQ1FHYldBTU5GLXNVNGtXSWVYTGhuenk1Sng5MFFuanVCM0tOQ2dQWnlhY3dGOXU3clJnQi1Ec2JldVpOSHRFQXZyazgzcDlRRHRrV3hvS1pQc0wzSFQ0eXBYTjlWd3M5eWcyb2djYUtLNXlGbVJFcjRWVnVPYk94LVZqNU5kbjN0cUhOR05QWjd4Ync?oc=5",
-    "content": "‘My Bias, My Boss’ release schedule: When do episodes 7 and 8 drop? Lifestyle Asia Hong Kong",
-    "published_at": "0819google-kpop",
-    "published_ts": 1787122649.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "《My Bias, My Boss》播出日程：第7、8集何时上线？",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：文章标题为《My Bias, My Boss》播出日程：第7、8集何时上线？",
-      "事实点2：文章来源为Lifestyle Asia Hong Kong。"
-    ],
-    "summary_zh": "该资讯为韩剧《My Bias, My Boss》的播出日程报道，主要关注第7、8集的播出时间。文章由Lifestyle Asia Hong Kong发布，但未提供具体播出日期或更多细节。",
-    "extracted_at": "2026-08-19T16:32:08.580566+08:00"
+    "summary_zh": "即将上映的电影《实习生》公开了新剧照。该片翻拍自好莱坞同名电影，讲述拥有37年工作经验的资深实习生基浩（崔岷植饰）加入公司后，与不同世代和职位的同事共同经历的办公室生活。韩素希确认出演，与崔岷植合作，具体角色细节尚未公开。",
+    "extracted_at": "2026-08-19T20:38:08.544487+08:00"
   },
   {
     "source_id": "soompi",
@@ -208,16 +599,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《婚外情只是开始》金惠秀与赵汝贞家族冲突升级，新剧照公开",
+    "title_zh": "金惠秀与赵汝贞家族冲突升级，《婚外情只是开始》新剧照公开",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：韩剧《婚外情只是开始》公开新剧照，展示金惠秀与赵汝贞饰演角色的家族冲突进一步升级。",
-      "事实点2：该剧为黑色喜剧，讲述一对以幸福家庭形象示人的网红夫妇与隔壁已婚夫妇发生纠葛后引发连锁反应的故事。"
+      "事实点1：电视剧《婚外情只是开始》公开了即将播出集数的新剧照。",
+      "事实点2：该剧是一部黑色喜剧，讲述一对以幸福家庭形象示人的网红夫妇与隔壁已婚夫妇产生纠葛后引发连锁反应的故事。",
+      "事实点3：金惠秀和赵汝贞饰演的家族在剧中冲突进一步加深。"
     ],
-    "summary_zh": "韩剧《婚外情只是开始》公开新剧照，显示金惠秀与赵汝贞饰演的家族冲突进一步升级。该剧为黑色喜剧，讲述一对以幸福家庭形象示人的网红夫妇与隔壁已婚夫妇发生纠葛后引发连锁反应的故事。",
-    "extracted_at": "2026-08-19T16:32:10.832584+08:00"
+    "summary_zh": "韩剧《婚外情只是开始》公开了新剧照，显示金惠秀和赵汝贞饰演的家族冲突进一步升级。该剧是一部黑色喜剧，围绕一对以幸福家庭形象示人的网红夫妇与隔壁已婚夫妇的纠葛展开，引发一系列连锁反应。新剧照暗示剧情将更加紧张，具体播出时间未在原文中提及。",
+    "extracted_at": "2026-08-19T20:38:11.082361+08:00"
   },
   {
     "source_id": "soompi",
@@ -240,8 +632,8 @@
       "事实点1：8月19日，ASND（fromis_9与Red Velvet成员Wendy的所属社）发布官方声明。",
       "事实点2：声明警告将对针对艺人的恶意行为采取法律行动，包括恶意诽谤、传播虚假信息、名誉损害、性骚扰等。"
     ],
-    "summary_zh": "8月19日，ASND（fromis_9与Red Velvet成员Wendy的所属社）发布官方声明，宣布将采取法律行动保护旗下艺人。声明警告将对针对艺人的恶意行为（包括恶意诽谤、传播虚假信息、名誉损害、性骚扰等）采取强硬法律措施。",
-    "extracted_at": "2026-08-19T16:32:12.885945+08:00"
+    "summary_zh": "8月19日，ASND（fromis_9与Red Velvet成员Wendy的所属社）发布官方声明，宣布将对针对其艺人的恶意行为采取法律行动。声明中明确列举了包括恶意诽谤、传播虚假信息、名誉损害、性骚扰等在内的行为，并警告将予以坚决应对。此举旨在保护旗下艺人的合法权益。",
+    "extracted_at": "2026-08-19T20:38:13.404698+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -256,16 +648,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Demon Hunter乐队起诉Netflix与AEG侵犯商标权",
+    "title_zh": "Christian金属乐队Demon Hunter起诉Netflix与AEG侵犯'KPop Demon Hunters'商标权",
     "source_type": "韩娱",
     "risk_level": "中",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：基督教金属乐队Demon Hunter对Netflix和AEG提起诉讼，指控其侵犯'KPop Demon Hunters'商标权。",
-      "事实点2：诉讼涉及Netflix的节目或活动使用'KPop Demon Hunters'名称，与乐队商标产生冲突。"
+      "事实点1：Christian金属乐队Demon Hunter对Netflix和AEG提起诉讼，指控其侵犯'KPop Demon Hunters'商标权。",
+      "事实点2：诉讼涉及Netflix与AEG合作推出的K-pop相关项目，具体细节待披露。"
     ],
-    "summary_zh": "基督教金属乐队Demon Hunter已对Netflix和AEG提起商标侵权诉讼，针对其使用'KPop Demon Hunters'名称。乐队认为该名称侵犯了其商标权，具体细节尚未披露。",
-    "extracted_at": "2026-08-19T16:32:14.953856+08:00"
+    "summary_zh": "Christian金属乐队Demon Hunter已对Netflix和AEG提起商标侵权诉讼，指控其未经授权使用'KPop Demon Hunters'名称。该诉讼涉及Netflix与AEG合作推出的K-pop相关项目，具体细节尚未公开。Demon Hunter乐队主张其商标权受到侵犯，要求法律裁决。",
+    "extracted_at": "2026-08-19T20:38:16.027691+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -288,8 +680,8 @@
       "事实点1：Cortis在出道一年后获得两项MTV VMA提名",
       "事实点2：该消息由The Korea Herald报道"
     ],
-    "summary_zh": "据The Korea Herald报道，Cortis在出道仅一年后便获得了MTV VMA的两项提名。这一成就标志着Cortis在音乐界的快速崛起，并获得了国际认可。",
-    "extracted_at": "2026-08-19T16:32:16.912478+08:00"
+    "summary_zh": "据The Korea Herald报道，韩国艺人Cortis在出道仅一年后，便获得了MTV VMA（MTV音乐录影带大奖）的两项提名。这一成就标志着Cortis在音乐界的快速崛起，并获得了国际认可。",
+    "extracted_at": "2026-08-19T20:38:17.827463+08:00"
   },
   {
     "source_id": "soompi",
@@ -313,8 +705,8 @@
       "事实点2：海报介绍了四个角色，包括徐康俊、安恩真、李周安和赵雅兰。",
       "事实点3：该剧是一部现实浪漫剧，讲述一对交往10年的情侣在熟悉的关系中经历意想不到的情感变化。"
     ],
-    "summary_zh": "即将播出的电视剧《不是你的爱》公开了新的角色海报。该剧是一部现实浪漫剧，讲述一对交往10年的情侣在熟悉的关系中经历意想不到的情感变化。海报介绍了四个角色，包括徐康俊、安恩真、李周安和赵雅兰，暗示他们将在剧中引发新的情感纠葛。",
-    "extracted_at": "2026-08-19T16:32:19.474783+08:00"
+    "summary_zh": "即将播出的电视剧《不是你的爱》公开了新角色海报。该剧是一部现实浪漫剧，讲述一对交往10年的情侣在熟悉的关系中经历意想不到的情感变化。海报介绍了四个角色，包括徐康俊、安恩真、李周安和赵雅兰，暗示他们之间将产生新的情感纠葛。",
+    "extracted_at": "2026-08-19T20:38:20.261436+08:00"
   },
   {
     "source_id": "soompi",
@@ -329,7 +721,7 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "具教焕新片《复活男：红色》公开首支预告，确定上映日期",
+    "title_zh": "具教焕新片《复活男：红色》确定上映日期，首支预告公开",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
@@ -338,8 +730,32 @@
       "事实点2：该片改编自网络漫画，讲述具教焕饰演的失业求职者石焕（暂译）在死后发现自己拥有复活能力的故事。",
       "事实点3：影片确认了上映日期。"
     ],
-    "summary_zh": "具教焕主演的新片《复活男：红色》（暂译）公开首支预告，并确定上映日期。该片改编自网络漫画，讲述具教焕饰演的失业求职者石焕（暂译）在死后发现自己拥有复活能力的故事。",
-    "extracted_at": "2026-08-19T16:32:21.444135+08:00"
+    "summary_zh": "具教焕主演的新片《复活男：红色》（暂译）公开首支预告，并确定上映日期。该片改编自网络漫画，讲述具教焕饰演的失业求职者石焕（暂译），在死后发现自己拥有复活能力的故事。",
+    "extracted_at": "2026-08-19T20:38:22.284343+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Christian Metal Band Demon Hunter Sues Netflix, Aeg Over ‘KPop Demon Hunters’ Trademark - IMDb",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHOUEtU3FJdDdtUlR2S0lfdi1OVFBvd0Q1RlJoNFBtVzUyT3loYVByRmJfYkR3ZXA3OTRUWEIzbmtqNjhPMWdCM2UzUjZQSzhISWEtUTh6dmx2eF9QSk9BTHNPVHZJZw?oc=5",
+    "content": "Christian Metal Band Demon Hunter Sues Netflix, Aeg Over ‘KPop Demon Hunters’ Trademark IMDb",
+    "published_at": "0819google-kpop",
+    "published_ts": 1787120139.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Demon Hunter乐队起诉Netflix及AEG侵犯商标权",
+    "source_type": "韩娱",
+    "risk_level": "中",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：基督教金属乐队Demon Hunter对Netflix和AEG提起诉讼，指控其侵犯'KPop Demon Hunters'商标权。",
+      "事实点2：诉讼涉及Netflix的综艺节目《KPop Demon Hunters》，该节目名称与乐队名称相似。"
+    ],
+    "summary_zh": "基督教金属乐队Demon Hunter已对Netflix和AEG提起诉讼，指控其侵犯了乐队的商标权。诉讼涉及Netflix的综艺节目《KPop Demon Hunters》，该节目名称与乐队名称相似，可能导致公众混淆。乐队要求法院阻止Netflix使用该名称，并寻求损害赔偿。",
+    "extracted_at": "2026-08-19T20:38:24.620181+08:00"
   },
   {
     "source_id": "soompi",
@@ -359,12 +775,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "KBS新剧《离婚吧》公开新剧照",
-      "剧集讲述经营婚纱店的夫妇决定结束疲惫婚姻的离婚过程",
-      "新剧照中，金基石饰演的角色对李珉廷饰演的妻子发火"
+      "KBS新剧《离婚吧》公开新剧照，该剧讲述经营婚纱店的夫妇因疲惫婚姻决定离婚的现实故事。",
+      "剧照中，金基石饰演的丈夫对李珉廷饰演的妻子发火，具体场景为第一集内容。"
     ],
-    "summary_zh": "KBS新剧《离婚吧》公开了新剧照。该剧讲述一对经营婚纱店的夫妇决定结束疲惫婚姻的离婚过程。在新公开的剧照中，金基石饰演的丈夫对李珉廷饰演的妻子发火，展现了紧张的夫妻关系。",
-    "extracted_at": "2026-08-19T16:32:23.972376+08:00"
+    "summary_zh": "KBS新剧《离婚吧》公开新剧照，该剧讲述一对经营婚纱店的夫妇因婚姻疲惫而决定离婚的现实故事。在最新公开的第一集剧照中，金基石饰演的丈夫对李珉廷饰演的妻子发火，展现了夫妻间的紧张关系。",
+    "extracted_at": "2026-08-19T20:38:26.993574+08:00"
   },
   {
     "source_id": "soompi",
@@ -379,41 +794,40 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "宋江、李濬荣、张圭悧新剧《四手联弹》剧照公开，展现音乐结缘的特别友情",
+    "title_zh": "宋江、李濬荣、张圭悧新剧《四手联弹》剧照公开，展现音乐友情",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：新剧《Four Hands, Two Sonatas》（暂译《四手联弹》）公开了宋江、李濬荣、张圭悧的剧照。",
-      "事实点2：该剧剧名中的“Four Hands”是钢琴术语，指两人共同弹奏一架钢琴。",
-      "事实点3：剧情围绕姜皮奥（宋江饰）与崔某（李濬荣饰）等人的友情、爱情、竞争与成长展开。"
+      "事实点1：新剧《Four Hands, Two Sonatas》（暂译：四手联弹）公开了宋江、李濬荣、张圭悧的剧照。",
+      "事实点2：该剧以钢琴术语“四手联弹”为背景，讲述姜表（宋江饰）与崔某（李濬荣饰）等人的友情、爱情、竞争与成长故事。"
     ],
-    "summary_zh": "即将播出的韩剧《Four Hands, Two Sonatas》（暂译《四手联弹》）公开了新剧照，展示了宋江、李濬荣和张圭悧因音乐而结成的特别友情。该剧剧名中的“Four Hands”是钢琴术语，意为两人共同演奏一架钢琴。剧情讲述了姜皮奥（宋江饰）与崔某（李濬荣饰）等人之间的友情、爱情、竞争与成长故事。",
-    "extracted_at": "2026-08-19T16:32:27.061699+08:00"
+    "summary_zh": "新剧《Four Hands, Two Sonatas》（暂译：四手联弹）公开了主演宋江、李濬荣、张圭悧的最新剧照。该剧以钢琴术语“四手联弹”为背景，讲述了姜表（宋江饰）与崔某（李濬荣饰）等人通过音乐结缘，展开友情、爱情、竞争与成长的故事。",
+    "extracted_at": "2026-08-19T20:38:29.585151+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "Christian Metal Band Demon Hunter Sues Netflix, AEG Over ‘KPop Demon Hunters’ Trademark - thewrap.com",
+    "title": "Christian Metal Band Demon Hunter Sues Netflix, AEG Over ‘KPop Demon Hunters’ Trademark - TheWrap",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMlluZTJpTmJKMzg0TjFwYi0xVkRMLVhtRkJlOWRWWUhQaTFzbUZBY1RCOXNVcjFhNXZrRVhlQm8ybGVxaVlPb3k1SFh2bGhKbUJEMGV3Yy0xWEFiWFJXOEpQdDIwejVzdjJreS1TS19PcGxZM3N6cTcwUUVzUjMtV1dqREZqU2ZBTGxldl9vOE93VThpVXJPQmF4QVpReVgzbUphTlRPODZOUS00dkVjVzNkck5idHFaN0RRX1VETlpZR2JYeEE?oc=5",
-    "content": "Christian Metal Band Demon Hunter Sues Netflix, AEG Over ‘KPop Demon Hunters’ Trademark thewrap.com",
+    "content": "Christian Metal Band Demon Hunter Sues Netflix, AEG Over ‘KPop Demon Hunters’ Trademark TheWrap",
     "published_at": "0819google-kpop",
     "published_ts": 1787118066.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "基督教金属乐队Demon Hunter起诉Netflix和AEG侵犯'KPop Demon Hunters'商标",
+    "title_zh": "Demon Hunter乐队起诉Netflix与AEG侵犯'KPop Demon Hunters'商标权",
     "source_type": "韩娱",
     "risk_level": "中",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：基督教金属乐队Demon Hunter对Netflix和AEG提起诉讼，指控其侵犯'KPop Demon Hunters'商标。",
-      "事实点2：诉讼涉及Netflix和AEG使用'KPop Demon Hunters'名称，具体细节待披露。"
+      "事实点1：美国基督教金属乐队Demon Hunter对Netflix和AEG提起诉讼，指控其侵犯'KPop Demon Hunters'商标权。",
+      "事实点2：诉讼涉及Netflix的某项目或AEG的活动使用'KPop Demon Hunters'名称，具体细节待披露。"
     ],
-    "summary_zh": "基督教金属乐队Demon Hunter已对Netflix和AEG提起商标侵权诉讼，指控其未经授权使用'KPop Demon Hunters'名称。该诉讼由TheWrap报道，具体索赔细节和背景信息尚未完全公开。",
-    "extracted_at": "2026-08-19T16:32:29.368266+08:00"
+    "summary_zh": "美国基督教金属乐队Demon Hunter已对Netflix和AEG提起商标侵权诉讼，指控其未经授权使用'KPop Demon Hunters'名称。该诉讼由TheWrap报道，但具体案件细节、索赔金额及涉及的具体项目尚未完全公开。Demon Hunter乐队主张其商标权受到侵犯，要求法律裁决。",
+    "extracted_at": "2026-08-19T20:38:32.276418+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -433,35 +847,11 @@
     "risk_level": "中",
     "is_blurred": false,
     "facts_list": [
-      "美国金属乐队Demon Hunter对Netflix等公司提起诉讼，涉及《KPop Demon Hunters》的商标问题。",
-      "诉讼由Theprp.com报道，具体细节包括商标争议，但未提及具体法律条款或索赔金额。"
+      "事实点1：美国金属乐队Demon Hunter对Netflix等公司提起诉讼，涉及《KPop Demon Hunters》的商标问题。",
+      "事实点2：诉讼由Theprp.com报道，具体细节包括商标争议，但未提及具体法律条款或索赔金额。"
     ],
-    "summary_zh": "据Theprp.com报道，美国金属乐队Demon Hunter已对Netflix及其他相关公司提起诉讼，原因是Netflix的节目《KPop Demon Hunters》涉嫌侵犯其商标权。Demon Hunter乐队认为该名称与其乐队名称相似，可能引起混淆。目前诉讼的具体细节和索赔金额尚未公开。",
-    "extracted_at": "2026-08-19T16:32:31.647140+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "9 K-dramas that broke every K-drama cliché - Tatler Asia",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRTlZaWhsbllCWjhvSEdYRkV6bWl4bG1CTDVKaFRPMzdnSWlkM01ySDcwNHdLaV9MZVloczBQNzF0cWhsYjR2SXp0Q01hX3doaWg1NFhCN0p6bjRkLUVCVExsc1pGVDN2Z0JyQXN3eHNOekR2c0E2MzRmaVZJMy1MX3ZkUEROeHRBeUFFVkp6MA?oc=5",
-    "content": "9 K-dramas that broke every K-drama cliché Tatler Asia",
-    "published_at": "0819google-kpop",
-    "published_ts": 1787117530.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "打破韩剧套路的9部作品：Tatler Asia盘点",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：Tatler Asia发布文章，列出9部打破韩剧常见套路的韩剧。",
-      "事实点2：文章标题为“9 K-dramas that broke every K-drama cliché”。"
-    ],
-    "summary_zh": "Tatler Asia发布了一篇题为“9 K-dramas that broke every K-drama cliché”的文章，盘点了9部打破传统韩剧套路的作品。文章列举了这些剧集如何颠覆常见叙事模式，但具体剧名和细节未在原文中提及。",
-    "extracted_at": "2026-08-19T16:32:33.950498+08:00"
+    "summary_zh": "美国金属乐队Demon Hunter已对Netflix及其他相关公司提起诉讼，原因是Netflix的节目《KPop Demon Hunters》涉嫌侵犯其商标权。该诉讼由Theprp.com报道，但未提供更多细节，如具体法律依据或索赔金额。",
+    "extracted_at": "2026-08-19T20:38:34.683958+08:00"
   },
   {
     "source_id": "soompi",
@@ -484,56 +874,8 @@
       "事实点1：8月19日，发行方宣布《让我们摇动太阳》（暂译）开始制作，并于同日开拍。",
       "事实点2：该剧改编自中国电影《Viva La Vida》，由李到晛和金敏荷主演。"
     ],
-    "summary_zh": "李到晛和金敏荷将合作出演新剧《让我们摇动太阳》（暂译）。8月19日，该剧发行方宣布制作启动，并于同日开拍。该剧改编自中国电影《Viva La Vida》，是一部关于生存与希望的故事。",
-    "extracted_at": "2026-08-19T16:32:36.328124+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "CORTIS First 20s K-Pop Boy Group VMA Nominee - 조선일보",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWW1JUTJxM0NXRFlSZG5XV21EVzYwQ092N3MycHRkelE5bGdjWnRqZWlxOHZwOEFHZy1MaWN4Y19mTjNURmpqUEQ0bS1PbFpJamhWNmtJWTFyaUgwajhmT3NOaExGdUtycFhIM29nU0J4OVdKVnljcm1PVk5LT3poZzU4SXBkWExRRXZId0J3?oc=5",
-    "content": "CORTIS First 20s K-Pop Boy Group VMA Nominee 조선일보",
-    "published_at": "0819google-kpop",
-    "published_ts": 1787117011.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "CORTIS成为首个获VMA提名的20代K-Pop男团",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：CORTIS成为首个获得VMA提名的20代K-Pop男团",
-      "事实点2：该消息由《朝鲜日报》报道"
-    ],
-    "summary_zh": "据《朝鲜日报》报道，K-Pop男团CORTIS成为首个获得VMA（MTV音乐录影带大奖）提名的20代男团。这一成就标志着该团体在国际音乐奖项上取得突破，具体提名类别和竞争对手尚未披露。",
-    "extracted_at": "2026-08-19T16:32:38.419652+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "NEW K-DRAMA ALERT! The official trailer for the Netflix K-Drama \"Four Hands, Two Sonatas\" starring Song Kang and Lee Jun-young. Full story link in the comments section. - facebook.com",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSFdHTDZUV0xyRktGX0g2cmxzaV9ybmVDOVJaWW43QTQ5Z21ZcFZCWWlLS0ZvYm9scjI3cXJxeVVxRnRHSlpVYUg2TERndHVGUnkyMll6T281MWVmeEluQVJBWHQtM0xrek1jWGtkRUVNU0RPbF8tNFByV0lXMjlVejBUT28wbVNkdlp1NjlxUTBCTnFveHFkQlV1UzJXUEpZSDNaUGhXMjBwV0JDMDc3WTd1RmZYX2NtN3ZMLWpmVXhsZGdCWkxGVmwxSzNBYVplSzhzc296RQ?oc=5",
-    "content": "NEW K-DRAMA ALERT! The official trailer for the Netflix K-Drama \"Four Hands, Two Sonatas\" starring Song Kang and Lee Jun-young. Full story link in the comments section. facebook.com",
-    "published_at": "0819google-kpop",
-    "published_ts": 1787115907.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Netflix新剧《四手联弹》预告公开，宋康与李浚荣主演",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "Netflix韩剧《Four Hands, Two Sonatas》（暂译：四手联弹）官方预告公开",
-      "该剧由宋康和李浚荣主演"
-    ],
-    "summary_zh": "Netflix韩剧《Four Hands, Two Sonatas》（暂译：四手联弹）公开官方预告，主演为宋康和李浚荣。完整故事链接见评论区。",
-    "extracted_at": "2026-08-19T16:32:40.401260+08:00"
+    "summary_zh": "据Soompi报道，李到晛和金敏荷将合作出演新剧《让我们摇动太阳》（暂译）。8月19日，该剧发行方宣布制作启动，并于同日开拍。该剧改编自中国电影《Viva La Vida》，是一部关于生存与希望的故事。",
+    "extracted_at": "2026-08-19T20:38:36.832717+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -553,10 +895,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：CNN报道，韩国球迷在棒球比赛中齐声高呼“不是K-pop，是棒球”"
+      "事实点1：CNN报道，韩国球迷在棒球比赛中齐声高呼，强调这是棒球而非K-pop。",
+      "事实点2：报道聚焦于韩国棒球文化的独特氛围和球迷的热情。"
     ],
-    "summary_zh": "据CNN报道，韩国棒球球迷在看台上齐声高呼“不是K-pop，是棒球”，表达对棒球的热爱，强调棒球在韩国文化中的重要地位。",
-    "extracted_at": "2026-08-19T16:32:42.180631+08:00"
+    "summary_zh": "CNN报道了韩国棒球比赛中球迷的独特应援文化，他们齐声高呼，强调这是棒球而非K-pop。报道展现了韩国球迷对棒球的热爱和独特的观赛氛围。",
+    "extracted_at": "2026-08-19T20:38:38.758478+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -571,64 +914,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Demon Hunter乐队起诉Netflix侵犯商标权，涉KPop Demon Hunters名称",
+    "title_zh": "Demon Hunter乐队起诉Netflix侵犯'KPop Demon Hunters'商标权",
     "source_type": "韩娱",
     "risk_level": "中",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：基督教金属乐队Demon Hunter对Netflix提起诉讼，指控其侵犯商标权。",
-      "事实点2：诉讼涉及Netflix使用的名称'KPop Demon Hunters'，与乐队名称相似。"
+      "事实点1：基督教金属乐队Demon Hunter对Netflix提起诉讼，指控其侵犯'KPop Demon Hunters'商标权",
+      "事实点2：诉讼涉及Netflix使用'KPop Demon Hunters'名称，与乐队现有商标产生冲突"
     ],
-    "summary_zh": "基督教金属乐队Demon Hunter已对Netflix提起诉讼，指控其侵犯商标权。诉讼焦点在于Netflix使用的名称'KPop Demon Hunters'，该名称与乐队的名称相似，可能引起混淆。目前，具体索赔金额和诉讼细节尚未披露。",
-    "extracted_at": "2026-08-19T16:32:44.363271+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "G.NA Returns as Special MC at Canadian K-Pop Event - 조선일보",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc1huRXV6U0xkUnFBalIwTk1HR3pzbUU3Q3NKd0pXR0liVmtsZk9YR3VnUjVmTk5mQS14Q2FmR1Z5S2JxTjR2X0tiX25JdGtjdFFxU3FjRDlFLXhqWThaTmNyWTViRzdxRlB2LW1IUkR2NFNibHhvTjZuMHVJWC1MdjdQRkNMaVFmRTB0ci1B?oc=5",
-    "content": "G.NA Returns as Special MC at Canadian K-Pop Event 조선일보",
-    "published_at": "0819google-kpop",
-    "published_ts": 1787108384.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "G.NA时隔多年复出，担任加拿大K-Pop活动特别MC",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：G.NA将作为特别MC出席在加拿大举办的K-Pop活动",
-      "事实点2：该活动由《朝鲜日报》报道"
-    ],
-    "summary_zh": "据《朝鲜日报》报道，韩国歌手G.NA将作为特别MC出席在加拿大举办的K-Pop活动。这是她时隔多年后的公开活动，引发了粉丝的关注。",
-    "extracted_at": "2026-08-19T16:32:46.389109+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "K-pop Day Crowns Genre as Mainstream in Turkey - 조선일보",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSHBvN005VHgtcF9SX2JjQ1JPUzZrc1lvazZ3QTlGT2cxU1UweWlZVUpBa2NqSTRLRnhRMkswb05UeURXQUFGMHpQbTJlNXRoSFNrQU1wVUVSVEVRQXFXVFJybmlNODhYZU1uRlhLRGpTeE84bkpvdXdFVkdoR0RWbXRXTmU?oc=5",
-    "content": "K-pop Day Crowns Genre as Mainstream in Turkey 조선일보",
-    "published_at": "0819google-kpop",
-    "published_ts": 1787108261.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "K-pop Day在土耳其举行，韩流音乐跻身主流",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：K-pop Day活动在土耳其举行，标志着K-pop在当地成为主流音乐类型",
-      "事实点2：该活动由朝鲜日报报道，具体日期和地点未提及"
-    ],
-    "summary_zh": "据朝鲜日报报道，K-pop Day活动在土耳其举行，这一事件标志着K-pop在土耳其已成为主流音乐类型。报道未提供具体活动细节，但强调了K-pop在当地的影响力。",
-    "extracted_at": "2026-08-19T16:32:48.391486+08:00"
+    "summary_zh": "基督教金属乐队Demon Hunter已对Netflix提起诉讼，指控其侵犯了'KPop Demon Hunters'的商标权。该诉讼针对Netflix使用此名称的行为，认为其与乐队的注册商标构成冲突。目前具体索赔金额和法院受理情况尚未披露。",
+    "extracted_at": "2026-08-19T20:38:41.061454+08:00"
   },
   {
     "source_id": "soompi",
@@ -649,10 +944,11 @@
     "is_blurred": false,
     "facts_list": [
       "事实点1：8月19日，发行公司Plus M Entertainment宣布电影《依然闪耀》（暂译）将于10月上映。",
-      "事实点2：该片讲述顺玉（金惠子饰）的故事，金惠子时隔9年回归大银幕，与车美京合作，展现两人60年的友情。"
+      "事实点2：该片讲述顺玉（金惠子饰）的故事，金惠子时隔九年回归大银幕。",
+      "事实点3：公开的首张剧照展示了金惠子与车美京的友情，两人合作已超过60年。"
     ],
-    "summary_zh": "资深女演员金惠子时隔9年携新片《依然闪耀》（暂译）回归大银幕。8月19日，发行公司Plus M Entertainment宣布该片将于10月上映，并公开了首批剧照。影片讲述了顺玉的故事，展现了金惠子与车美京之间60年不变的友情。",
-    "extracted_at": "2026-08-19T16:32:50.846444+08:00"
+    "summary_zh": "资深女演员金惠子时隔九年携新片《依然闪耀》（暂译）回归大银幕。8月19日，发行公司Plus M Entertainment宣布该片将于10月上映，并公开了首张剧照。影片讲述了顺玉的故事，展现了金惠子与车美京长达60年的友情。",
+    "extracted_at": "2026-08-19T20:38:43.704233+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -672,59 +968,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：2026年MTV VMA公布提名名单，BTS、HUNTR/X、Lisa在K-pop类别中领跑。",
-      "事实点2：该名单由Korea JoongAng Daily报道。"
+      "事实点1：2026年MTV VMA提名名单公布，BTS、HUNTR/X、Lisa在K-pop类别中领跑提名。",
+      "事实点2：该消息由Korea JoongAng Daily报道。"
     ],
-    "summary_zh": "据Korea JoongAng Daily报道，2026年MTV VMA提名名单公布，BTS、HUNTR/X和Lisa在K-pop类别中领跑。具体提名类别和数量未在原文中详述。",
-    "extracted_at": "2026-08-19T16:32:52.724451+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Katseye climbs Billboard’s Hot 100 with ‘Animal’ - The Korea Herald",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fdWFza1FEemc1VVhGTzRwa2t1eXdIdE5YX3VJWDN2ZThmM0tYak54SHZKMndEd3Fab1F6VjV6Mko0RGY1Qm8yZjIzQXJ2SjVZTE1rTmRqOA?oc=5",
-    "content": "Katseye climbs Billboard’s Hot 100 with ‘Animal’ The Korea Herald",
-    "published_at": "0819google-kpop",
-    "published_ts": 1787106397.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Katseye凭借《Animal》登上Billboard Hot 100榜单",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：Katseye组合凭借歌曲《Animal》登上Billboard Hot 100榜单",
-      "事实点2：该消息由The Korea Herald报道"
-    ],
-    "summary_zh": "据The Korea Herald报道，Katseye组合凭借歌曲《Animal》成功登上Billboard Hot 100榜单。",
-    "extracted_at": "2026-08-19T16:32:54.331727+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Shinee’s Taemin shares tracklist for 6th solo EP - The Korea Herald",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50RHNJYnRzd2hEcENEdDRXcDgyZ0NIQ19ENXRqQ3ZnaGJzd3hvWnVldFdGMXdSYml4SnVobWc5YWZWVXF5dGVWTTFmQl96WlNDYWJDdjMxRQ?oc=5",
-    "content": "Shinee’s Taemin shares tracklist for 6th solo EP The Korea Herald",
-    "published_at": "0819google-kpop",
-    "published_ts": 1787105211.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "SHINee泰民公开第六张个人迷你专辑曲目列表",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：SHINee成员泰民公开了其第六张个人迷你专辑的曲目列表。",
-      "事实点2：该消息由The Korea Herald报道。"
-    ],
-    "summary_zh": "SHINee成员泰民公开了其第六张个人迷你专辑的曲目列表。该消息由The Korea Herald报道，但具体曲目名称、发行日期等细节未在原文中提及。",
-    "extracted_at": "2026-08-19T16:32:56.198234+08:00"
+    "summary_zh": "据Korea JoongAng Daily报道，2026年MTV VMA提名名单中，BTS、HUNTR/X和Lisa在K-pop类别中领跑提名。具体提名类别和数量未在原文中详细说明。",
+    "extracted_at": "2026-08-19T20:38:45.532225+08:00"
   },
   {
     "source_id": "soompi",
@@ -739,16 +987,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "李洙赫退出新剧《后宫的男人》，李钟元有望接替出演",
+    "title_zh": "李洙赫退出新剧《后宫的男人》，李钟元有望接演",
     "source_type": "韩剧",
     "risk_level": "中",
     "is_blurred": false,
     "facts_list": [
       "8月19日，据Xportsnews报道，李洙赫决定退出即将开拍的电视剧《后宫的男人》（暂译）。",
-      "据mydaily报道，李钟元正在商讨接替李洙赫出演该剧。"
+      "据mydaily报道，李钟元正在协商接替李洙赫出演该剧。"
     ],
-    "summary_zh": "8月19日，据韩媒报道，李洙赫决定退出新剧《后宫的男人》（暂译），该剧为奇幻爱情题材。随后，mydaily报道称李钟元正在商讨接替出演。目前，李钟元是否确定加盟尚未有官方确认。",
-    "extracted_at": "2026-08-19T16:32:58.403211+08:00"
+    "summary_zh": "8月19日，据韩媒报道，李洙赫决定退出新剧《后宫的男人》（暂译），该剧为奇幻爱情题材。随后mydaily称李钟元正在协商接替出演，但尚未有官方确认。",
+    "extracted_at": "2026-08-19T20:38:47.615327+08:00"
   },
   {
     "source_id": "soompi",
@@ -763,16 +1011,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Jennie宣布月底携新EP回归，OA娱乐确认加速准备中",
+    "title_zh": "Jennie宣布月底携新EP回归，OA娱乐确认加速准备",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "时间：8月19日，主体：Jennie所属社OA娱乐（ODDATELIER），动作：宣布Jennie正加速准备回归，目标在8月底发行新EP。",
-      "此前，Jennie通过公开包括《Less...》在内的曲目，提高了粉丝对新专辑的期待。"
+      "时间：8月19日，主体：Jennie及其所属社OA娱乐（ODDATELIER）",
+      "动作：OA娱乐宣布Jennie正加速准备回归，目标在8月底发行新EP",
+      "此前：Jennie通过公开包括《Less...》在内的曲目，提高了对新专辑的期待"
     ],
-    "summary_zh": "据Soompi报道，Jennie所属社OA娱乐（ODDATELIER）于8月19日宣布，Jennie正加速准备回归，目标在8月底发行新EP。此前，Jennie已公开包括《Less...》在内的曲目，引发粉丝期待。",
-    "extracted_at": "2026-08-19T16:33:00.753936+08:00"
+    "summary_zh": "据OA娱乐（ODDATELIER）8月19日消息，Jennie正加速准备回归，目标在8月底发行新EP。此前，Jennie已公开包括《Less...》在内的曲目，引发粉丝对新专辑的期待。",
+    "extracted_at": "2026-08-19T20:38:49.889553+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -792,11 +1041,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：BTS的歌曲《Swim》获得MTV音乐录影带大奖（VMA）年度歌曲提名。",
-      "事实点2：该消息由《韩国先驱报》报道。"
+      "事实点1：BTS的歌曲《Swim》获得MTV VMAs年度歌曲提名",
+      "事实点2：该消息由The Korea Herald报道"
     ],
-    "summary_zh": "据《韩国先驱报》报道，BTS的歌曲《Swim》已获得MTV音乐录影带大奖（VMA）年度歌曲提名。这一提名标志着BTS在国际音乐奖项中的又一成就。",
-    "extracted_at": "2026-08-19T16:33:02.760607+08:00"
+    "summary_zh": "据The Korea Herald报道，BTS的歌曲《Swim》获得了MTV VMAs（MTV音乐录影带大奖）年度歌曲提名。",
+    "extracted_at": "2026-08-19T20:38:51.513208+08:00"
   },
   {
     "source_id": "soompi",
@@ -816,12 +1065,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：8月18日，ENA电视台的浪漫喜剧《梦到你》播出大结局。",
-      "事实点2：该剧由Girl's Day成员惠利和黄寅烨主演。",
-      "事实点3：据尼尔森韩国数据，大结局全国平均收视率为2.3%，较之前有所上升。"
+      "事实点1：8月18日，ENA电视剧《梦到你》播出大结局。",
+      "事实点2：据尼尔森韩国数据，该剧最后一集全国平均收视率为2.3%，较之前有所上升。",
+      "事实点3：该剧由Girl's Day成员惠利和黄寅烨主演。"
     ],
-    "summary_zh": "ENA电视台的浪漫喜剧《梦到你》于8月18日播出大结局，该剧由Girl's Day的惠利和黄寅烨主演。据尼尔森韩国统计，大结局的全国平均收视率为2.3%，相比之前略有上升，为该剧画上句号。",
-    "extracted_at": "2026-08-19T16:33:04.886479+08:00"
+    "summary_zh": "ENA电视剧《梦到你》于8月18日播出大结局，据尼尔森韩国数据，最后一集全国平均收视率为2.3%，较之前略有上升。该剧为浪漫喜剧，由Girl's Day成员惠利和黄寅烨主演。",
+    "extracted_at": "2026-08-19T20:38:53.920266+08:00"
   },
   {
     "source_id": "soompi",
@@ -841,12 +1090,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "韩国企业评价研究所于8月公布个人偶像品牌声誉排行榜，分析期间为7月19日至8月19日。",
-      "分析对象为1,735名偶像，基于消费者参与度、媒体报道、互动和社区意识指数。",
-      "RESCENE成员Woni在本次排名中保持第一。"
+      "韩国企业评价研究所于8月公布个人偶像品牌声誉排行榜。",
+      "排名基于2023年7月19日至8月19日收集的1,735名偶像的大数据，分析消费者参与度、媒体报道、互动和社区意识指数。",
+      "RESCENE组合成员Woni保持榜首位置。"
     ],
-    "summary_zh": "韩国企业评价研究所公布了8月个人偶像品牌声誉排行榜，该排名基于7月19日至8月19日收集的大数据，分析了1,735名偶像的消费者参与度、媒体报道、互动和社区意识指数。RESCENE成员Woni继续稳居榜首。",
-    "extracted_at": "2026-08-19T16:33:07.100228+08:00"
+    "summary_zh": "韩国企业评价研究所公布了本月个人偶像品牌声誉排名。该排名基于7月19日至8月19日收集的1,735名偶像的大数据，分析了消费者参与度、媒体报道、互动和社区意识指数。RESCENE组合的Woni继续保持在榜首位置。",
+    "extracted_at": "2026-08-19T20:38:56.281196+08:00"
   },
   {
     "source_id": "soompi",
@@ -870,8 +1119,8 @@
       "韩国音乐内容产业协会自2018年1月1日起实施新的认证体系，专辑销量达到25万张获白金认证。",
       "获得认证的艺人包括RIIZE、BOYNEXTDOOR、Stray Kids、TREASURE、ATEEZ、NewJeans、CORTIS、Hearts2Hearts等。"
     ],
-    "summary_zh": "Circle Chart公布了最新一批官方认证。自2018年起，韩国音乐内容产业协会实施新的认证体系，专辑销量达25万张获白金认证。此次获得认证的艺人包括RIIZE、BOYNEXTDOOR、Stray Kids、TREASURE、ATEEZ、NewJeans、CORTIS、Hearts2Hearts等，具体认证等级（百万或白金）及对应作品未在摘要中详细列出。",
-    "extracted_at": "2026-08-19T16:33:09.679206+08:00"
+    "summary_zh": "Circle Chart公布了最新一批官方认证。自2018年起，韩国音乐内容产业协会实施新认证体系，专辑销量达25万张获白金认证。此次获得认证的艺人包括RIIZE、BOYNEXTDOOR、Stray Kids、TREASURE、ATEEZ、NewJeans、CORTIS、Hearts2Hearts等，具体认证等级（百万或白金）及对应作品未在摘要中详细列出。",
+    "extracted_at": "2026-08-19T20:38:59.172624+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -886,16 +1135,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "ALL'N独家专访：从古典小提琴手到K-Pop偶像的华丽转身",
+    "title_zh": "ALL'N独家专访：从小提琴家到K-Pop艺人的跨界之旅",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：ALL'N成员曾为小提琴手，转型为K-Pop艺人",
-      "事实点2：该专访由The Knockturnal独家发布"
+      "事实点1：The Knockturnal发布对ALL'N的独家专访",
+      "事实点2：ALL'N从古典小提琴家转型为K-Pop艺人"
     ],
-    "summary_zh": "The Knockturnal发布了对K-Pop组合ALL'N的独家专访，聚焦其成员从古典小提琴手转型为K-Pop艺人的经历。专访中，成员分享了音乐背景、转型契机及对K-Pop事业的热爱，展现了古典音乐与流行文化的融合。",
-    "extracted_at": "2026-08-19T16:33:11.877014+08:00"
+    "summary_zh": "The Knockturnal发布了对K-Pop艺人ALL'N的独家专访，聚焦其从古典小提琴家到K-Pop艺人的转型历程。专访中，ALL'N分享了其音乐背景、转型动机及在K-Pop领域的经历，但原文未提及具体时间、地点或详细数据。",
+    "extracted_at": "2026-08-19T20:39:01.194299+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -915,12 +1164,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "KATSEYE获得2024年VMA（MTV音乐录影带大奖）'最佳K-Pop'提名",
-      "KATSEYE并非K-Pop团体，且歌曲全部为英文演唱",
+      "KATSEYE获得2024年VMA（MTV音乐录影带大奖）'最佳K-Pop'类别提名",
+      "KATSEYE并非传统K-Pop团体，且歌曲全部为英文演唱",
       "该提名由Forbes报道"
     ],
-    "summary_zh": "据Forbes报道，组合KATSEYE获得了2024年VMA（MTV音乐录影带大奖）的'最佳K-Pop'提名，尽管该团体并非K-Pop团体，且其歌曲全部为英文演唱。这一提名引发了关于K-Pop类别定义的讨论。",
-    "extracted_at": "2026-08-19T16:33:14.253192+08:00"
+    "summary_zh": "据Forbes报道，组合KATSEYE获得了VMA（MTV音乐录影带大奖）'最佳K-Pop'类别提名，尽管该团体并非传统意义上的K-Pop团体，且其歌曲全部为英文演唱。这一提名引发了关于K-Pop定义和分类的讨论。",
+    "extracted_at": "2026-08-19T20:39:03.324399+08:00"
   },
   {
     "source_id": "soompi",
@@ -940,12 +1189,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "Stray Kids最新主打曲《This & That》在美国Billboard Hot 100榜单上首次亮相，位列第38名",
-      "《This & That》是Stray Kids首支进入Hot 100前40的歌曲",
-      "Stray Kids在5个Billboard榜单上排名第一"
+      "事实点1：Stray Kids最新主打曲《This & That》在美国Billboard Hot 100榜单上首次亮相，位列第38名。",
+      "事实点2：该曲是Stray Kids首支进入Hot 100前40名的歌曲。",
+      "事实点3：Stray Kids同时登顶了5个Billboard榜单。"
     ],
-    "summary_zh": "Stray Kids的最新主打曲《This & That》在美国Billboard Hot 100榜单上首次亮相，位列第38名，成为他们首支进入该榜单前40的歌曲。此外，Stray Kids还在5个Billboard榜单上排名第一。",
-    "extracted_at": "2026-08-19T16:33:16.614929+08:00"
+    "summary_zh": "Stray Kids的最新主打曲《This & That》在美国Billboard Hot 100榜单上首次亮相，位列第38名，成为他们首支进入该榜单前40名的歌曲。此外，Stray Kids还登顶了5个Billboard榜单。",
+    "extracted_at": "2026-08-19T20:39:05.643490+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -965,31 +1214,10 @@
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文未提及具体行为，仅称：K-Pop的全球化进程"
+      "原文未提及具体行为，仅称：K-Pop正在经历全球化进程"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：K-Pop的全球化进程]",
-    "extracted_at": "2026-08-19T16:33:18.067333+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "KCON LA 2026: Recap & Review - thebiaslist.com",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MQ0o3LW4xdFoyRlR2cUhJVy1OcW9OOHRjckEwTTBrQzZ3bFlfbjVVTllMcEZrN3hIcmY2blA4VER3bmhtWkgwb0ZWLXJiVURHdjkyemI0OFRzcnBrRTlTczZkcURFVll0UjY5b1Bn?oc=5",
-    "content": "KCON LA 2026: Recap & Review thebiaslist.com",
-    "published_at": "0819google-kpop",
-    "published_ts": 1787076260.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "KCON LA 2026 回顾与点评",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [],
-    "summary_zh": "[原文未提及具体行为，仅称：KCON LA 2026 回顾与点评]",
-    "extracted_at": "2026-08-19T16:33:19.389933+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：K-Pop正在经历全球化进程]",
+    "extracted_at": "2026-08-19T20:39:07.077582+08:00"
   },
   {
     "source_id": "soompi",
@@ -1004,17 +1232,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "8月电视剧演员品牌声誉排行榜公布，南柱赫位居榜首",
+    "title_zh": "8月电视剧演员品牌评价排名公布，南柱赫位居榜首",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "韩国企业评价研究所于8月公布电视剧演员品牌声誉排行榜。",
-      "排名基于7月18日至8月18日期间播出的电视剧中100名演员的媒体覆盖、参与度、互动和社区指数数据分析。",
-      "演员南柱赫凭借热门剧集位居榜首。"
+      "韩国企业评价研究所于8月公布电视剧演员品牌声誉排名。",
+      "排名基于7月18日至8月18日播出的电视剧中100名演员的媒体覆盖、参与度、互动和社区指数数据分析。",
+      "南柱赫凭借热门剧集位居榜首。"
     ],
-    "summary_zh": "韩国企业评价研究所公布了8月电视剧演员品牌声誉排行榜。该排名基于对7月18日至8月18日期间播出的电视剧中100名演员的媒体覆盖、参与度、互动和社区指数进行数据分析得出。演员南柱赫凭借其主演的热门剧集，在本次排名中位居榜首。",
-    "extracted_at": "2026-08-19T16:33:21.544524+08:00"
+    "summary_zh": "韩国企业评价研究所公布了8月电视剧演员品牌声誉排名，该排名基于7月18日至8月18日播出的电视剧中100名演员的媒体覆盖、参与度、互动和社区指数数据分析。演员南柱赫凭借其主演的热门剧集位居榜首。",
+    "extracted_at": "2026-08-19T20:39:09.129348+08:00"
   },
   {
     "source_id": "soompi",
@@ -1034,11 +1262,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：JYP娱乐新人男团KickFlip于KCON LA 2026上表演了Stray Kids的《God's Menu》翻跳。",
-      "事实点2：8月18日，KickFlip发布了该翻跳舞台的舞蹈练习视频，展示成员们的完整动作。"
+      "事实点1：JYP娱乐新人男团KickFlip于KCON LA 2026上表演了Stray Kids的热门歌曲《God's Menu》的翻跳。",
+      "事实点2：8月18日，KickFlip发布了该翻跳舞台的舞蹈练习视频，展示了成员们的完整动作。"
     ],
-    "summary_zh": "JYP娱乐新人男团KickFlip在KCON LA 2026上翻跳了Stray Kids的热门歌曲《God's Menu》，并于8月18日发布了舞蹈练习视频，视频展示了成员们的完整舞蹈动作。",
-    "extracted_at": "2026-08-19T16:33:23.496625+08:00"
+    "summary_zh": "JYP娱乐新人男团KickFlip在KCON LA 2026上翻跳了Stray Kids的热门歌曲《God's Menu》，并于8月18日发布了舞蹈练习视频，视频完整展示了成员们的舞蹈动作。",
+    "extracted_at": "2026-08-19T20:39:11.226138+08:00"
   },
   {
     "source_id": "asianwiki",
