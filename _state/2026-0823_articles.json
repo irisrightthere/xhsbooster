@@ -1,5 +1,102 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Demon Hunter Sues Netflix And AEG Presents Over ‘KPop Demon Hunters’ Trademark - CelebrityAccess",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNGlQWFkzVFZ5X3V0WGhtbXBhdjRVcnJFTTJYOUpweWJobG1NYjZkVmoyTVhFTlBCdTNRbjJQVFZfTVRGVWk1TzRNUmJEYXFpYTZzZUlnVXUtUHhvSUQ2VG9KTGFOZjRLQW5UaWEzMVZnTUlES1dheHIzamRyQXd3OFVhN2ZOcUR2WER2MVRVV2FkemduY1pMaV82aXZmODdWWjJBaGVHZGNRTlo5aW1LejQ0STF2R00?oc=5",
+    "content": "Demon Hunter Sues Netflix And AEG Presents Over ‘KPop Demon Hunters’ Trademark CelebrityAccess",
+    "published_at": "0823google-kpop",
+    "published_ts": 1787485532.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "乐队Demon Hunter起诉Netflix与AEG Presents侵犯‘KPop Demon Hunters’商标权",
+    "source_type": "韩娱",
+    "risk_level": "中",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：美国乐队Demon Hunter对Netflix和AEG Presents提起诉讼，指控其侵犯‘KPop Demon Hunters’商标权。",
+      "事实点2：诉讼涉及Netflix的某项目及AEG Presents的相关活动，具体细节待披露。"
+    ],
+    "summary_zh": "美国乐队Demon Hunter已对Netflix和AEG Presents提起商标侵权诉讼，声称对方未经授权使用‘KPop Demon Hunters’标识。该诉讼由CelebrityAccess报道，目前具体案件细节尚未完全公开。",
+    "extracted_at": "2026-08-23T20:30:46.083048+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "[INTERVIEW] Wave to earth shrugs off K-pop, indie labels: 'a band, that is enough' - The Korea Times",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTnU0eDVwV3M4UTRJY0U4OWg5blRsQ3ExMmF0Rl94LVVPcEJZSzNJNk9iZGpCUXBRVVROV3JtRnhPRlZHSTVFc19uMmwyT0oyVVZlaHI2VU03ZjYzQkdudEZuMlZlZ3BaNlhKYnhlc1VPeWlEWGIyYmdrM0V3NTVoREVWTUh6RFVJaG1OUVVoWmNSYldwbHNxOHZVR3dacWtaR041RzlTOGdOM05ydUNxS296c2NZdUZpVEV3VW5oSm_SAcYBQVVfeXFMTkxsWVhBV1M1YjFRd29iMmVPaWV6eEJ0blhDN0lhcXZRWkRVcGttVkZZTmR5ZnhXcVJibHc2SEJpZEQ2eVBOR09WajdyUzJGdmZnbXdSY2hxTlVwSWNEb19DMldvdmh6WkRHT19yWVRNYU00MTR6TVh2MVA3SGkzcHdjbDJDaGRHcVpGdEg0dVdiQktoV2VRN3JFcDdFNWhRUVRQN2hMQWRTeTcyUGZsTkV5MHFPWUhNRm03dkoxQUU5bDBvTlVB?oc=5",
+    "content": "[INTERVIEW] Wave to earth shrugs off K-pop, indie labels: 'a band, that is enough' The Korea Times",
+    "published_at": "0823google-kpop",
+    "published_ts": 1787482804.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Wave to earth专访：不贴K-pop或独立标签，'是乐队就足够了'",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：韩国乐队Wave to earth接受《韩国时报》专访",
+      "事实点2：乐队表示不愿被归类为K-pop或独立音乐，强调'是乐队就足够了'"
+    ],
+    "summary_zh": "韩国乐队Wave to earth在《韩国时报》的专访中表示，他们不愿被贴上K-pop或独立音乐的标签，认为'是乐队就足够了'。乐队成员强调音乐本身的重要性，而非所属流派或标签。",
+    "extracted_at": "2026-08-23T20:30:48.132524+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-pop legend Big Bang celebrates 20th anniversary with first world tour in nine years - Korea JoongAng Daily",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaEZSbk84dTNIZWQ0LTdLbHdZU0paaHpWejhiWm1Sa3drMDFudWRrN1FxSElqbGxodV8ySnViVExxZFZwcTlxeXJYZzZCVEJLbmVfUmN4UngxN1ZveVJ1UGJZUWJGZEl6VEFpZTNXTlkzOExFMklmbGMyaFpGSU0walhHM0M1cWtwVFgtSWlhUWNUVGI4cmRwYkppb04yOXBnQk1GaGVYSTh5M0pVd1l2eG1IYUdRcXROaHZSeDhuNUtlQ3RIS0ZtVmRVdkZmYUxnVFZNT3huUGo0Zw?oc=5",
+    "content": "K-pop legend Big Bang celebrates 20th anniversary with first world tour in nine years Korea JoongAng Daily",
+    "published_at": "0823google-kpop",
+    "published_ts": 1787482749.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "K-pop传奇Big Bang出道20周年，时隔九年举办首次世界巡演",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Big Bang为庆祝出道20周年，宣布举办世界巡演，这是他们时隔九年的首次世界巡演。",
+      "该消息由Korea JoongAng Daily报道。"
+    ],
+    "summary_zh": "据Korea JoongAng Daily报道，K-pop传奇组合Big Bang为庆祝出道20周年，将举办世界巡演，这是他们时隔九年的首次世界巡演。具体巡演日程和地点尚未公布。",
+    "extracted_at": "2026-08-23T20:30:50.034575+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Song Kang, Lee Jun Young, And Jang Gyuri Create Fond Memories In Nostalgic “Four Hands, Two Sonatas” Teaser",
+    "url": "https://www.soompi.com/article/1864843wpp/watch-song-kang-lee-jun-young-and-jang-gyuri-create-fond-memories-in-nostalgic-four-hands-two-sonatas-teaser",
+    "content": "tvN&#8217;s &#8220;Four Hands, Two Sonatas&#8221; has unveiled a new teaser in the form of video footage recorded by the characters! “Four Hands” is a piano term referring to two people playing a single piano together. The drama “Four Hands, Two Sonatas” follows the friendship, love, rivalry, and growth of Kang Pio (Song Kang) and Choi&#8230; Continue reading Watch: Song Kang, Lee Jun Young, And Jang Gyuri Create Fond Memories In Nostalgic &#8220;Four Hands, Two Sonatas&#8221; Teaser\nThe post Watch: Song Kang, Lee Jun Young, And Jang Gyuri Create Fond Memories In Nostalgic &#8220;Four Hands, Two Sonatas&#8221; Teaser appeared first on Soompi.",
+    "published_at": "0823soompi",
+    "published_ts": 1787474083.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "宋康、李浚荣、张圭悧主演《四手联弹》公开怀旧版预告，展现温馨回忆",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "tvN电视剧《四手联弹》公开新预告，以角色录制的视频形式呈现",
+      "预告中宋康、李浚荣、张圭悧创造温馨回忆",
+      "《四手联弹》讲述姜皮奥（宋康饰）和崔某的友情、爱情、竞争与成长故事"
+    ],
+    "summary_zh": "tvN新剧《四手联弹》公开了一支以角色拍摄视频形式呈现的怀旧预告。该剧剧名源自钢琴术语“四手联弹”，指两人同弹一架钢琴。剧情围绕宋康饰演的姜皮奥与另一主角之间的友情、爱情、竞争与成长展开。预告中，宋康、李浚荣和张圭悧共同创造了温馨回忆，展现了剧集的怀旧氛围。",
+    "extracted_at": "2026-08-23T20:30:53.056516+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -12,41 +109,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "EXID哈妮醉酒向河锡辰告白，《菜单上的爱情》剧情引期待",
+    "title_zh": "EXID哈妮在《菜单上的爱情》中向河锡辰醉酒告白",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：KBS 2TV电视剧《菜单上的爱情》中，河锡辰饰演金武镇，哈妮饰演韩圭琳，两人是八年前分手的前恋人。",
-      "事实点2：在最新剧情中，哈妮饰演的韩圭琳醉酒后向河锡辰饰演的金武镇进行了告白。"
+      "事实点1：KBS 2TV电视剧《菜单上的爱情》中，EXID成员哈妮饰演的韩圭林与河锡辰饰演的金武镇是八年前分手的前恋人。",
+      "事实点2：在最新剧情中，哈妮饰演的角色向河锡辰饰演的角色做出了醉酒告白。"
     ],
-    "summary_zh": "KBS 2TV电视剧《菜单上的爱情》中，河锡辰和EXID成员哈妮饰演一对八年前分手的前恋人金武镇和韩圭琳。在最新剧情中，韩圭琳醉酒后向金武镇进行了告白，两人的故事并未因分手而结束，这一发展引发了观众对后续剧情的期待。",
-    "extracted_at": "2026-08-23T16:24:03.822147+08:00"
-  },
-  {
-    "source_id": "soompi",
-    "source_name": "Soompi",
-    "l1_tab": "韩娱",
-    "title": "Watch: Song Kang, Lee Jun Young, And Jang Gyuri Create Fond Memories In Nostalgic “Four Hands, Two Sonatas” Teaser",
-    "url": "https://www.soompi.com/article/1864843wpp/watch-song-kang-lee-jun-young-and-jang-gyuri-create-fond-memories-in-nostalgic-four-hands-two-sonatas-teaser",
-    "content": "tvN&#8217;s &#8220;Four Hands, Two Sonatas&#8221; has unveiled a new teaser in the form of video footage recorded by the characters! “Four Hands” is a piano term referring to two people playing a single piano together. The drama “Four Hands, Two Sonatas” follows the friendship, love, rivalry, and growth of Kang Pio (Song Kang) and Choi&#8230; Continue reading Watch: Song Kang, Lee Jun Young, And Jang Gyuri Create Fond Memories In Nostalgic &#8220;Four Hands, Two Sonatas&#8221; Teaser\nThe post Watch: Song Kang, Lee Jun Young, And Jang Gyuri Create Fond Memories In Nostalgic &#8220;Four Hands, Two Sonatas&#8221; Teaser appeared first on Soompi.",
-    "published_at": "0823soompi",
-    "published_ts": 1787470706.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "宋康、李浚荣、张圭悧主演《四手联弹》公开怀旧预告，角色影像记录温馨回忆",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "tvN电视剧《四手联弹》公开新预告，形式为角色录制的视频影像",
-      "《四手联弹》为钢琴术语，指两人共弹一架钢琴",
-      "剧情围绕姜皮奥（宋康饰）与崔某（角色名未提及）的友情、爱情、竞争与成长展开"
-    ],
-    "summary_zh": "tvN电视剧《四手联弹》公开了一支新预告，以角色录制的视频影像形式呈现。该剧剧名源自钢琴术语“四手联弹”，指两人共弹一架钢琴。剧情聚焦于姜皮奥（宋康饰）与崔某（角色名未提及）之间的友情、爱情、竞争与成长。预告中，宋康、李浚荣和张圭悧共同创造了温馨回忆，营造怀旧氛围。",
-    "extracted_at": "2026-08-23T16:24:06.732674+08:00"
+    "summary_zh": "KBS 2TV电视剧《菜单上的爱情》中，EXID成员哈妮饰演的韩圭林与河锡辰饰演的金武镇在分手八年后重逢，尽管两人可能已经分手，但他们的故事并未结束。在最新剧情中，哈妮的角色向河锡辰的角色做出了醉酒告白，这一情节引发了观众对两人关系发展的期待。",
+    "extracted_at": "2026-08-23T20:30:55.809667+08:00"
   },
   {
     "source_id": "soompi",
@@ -66,12 +138,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "tvN《幽灵恋人》今晚播出大结局，仅剩一集。",
-      "主演朴恩斌、梁世宗、邕圣祐分别发表终映感言。",
-      "朴恩斌首先表达感谢之情。"
+      "tvN《幽灵恋人》将于今晚播出系列大结局。",
+      "主演朴恩斌、梁世宗、邕圣祐在结局前分享了各自的告别感言。",
+      "朴恩斌首先表达了对观众的感谢。"
     ],
-    "summary_zh": "tvN电视剧《幽灵恋人》即将迎来大结局，主演朴恩斌、梁世宗和邕圣祐在最后一集播出前分享了各自的告别感言。朴恩斌率先向观众表达了感谢，并预告了今晚大结局的看点。",
-    "extracted_at": "2026-08-23T16:24:08.667765+08:00"
+    "summary_zh": "tvN电视剧《幽灵恋人》即将迎来大结局，主演朴恩斌、梁世宗和邕圣祐纷纷发表告别感言。朴恩斌率先向观众表达了感谢，并预告了今晚最终回的看点。该剧自播出以来备受关注，今晚将迎来最终回。",
+    "extracted_at": "2026-08-23T20:30:58.153445+08:00"
   },
   {
     "source_id": "soompi",
@@ -91,12 +163,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "韩国企业评价研究所于8月20日发布8月电影演员品牌声誉排行榜",
-      "排名基于7月20日至8月20日期间50位人气电影演员的消费者参与度、媒体覆盖、互动及社区认知指数大数据分析",
-      "郑浩妍（Jung Ho Yeon）位列本月榜单第一"
+      "韩国企业评价研究所于8月20日发布8月电影演员品牌声誉排行榜。",
+      "该排名基于7月20日至8月20日期间收集的50位人气电影演员的消费者参与度、媒体覆盖、互动及社区认知度指数大数据分析得出。",
+      "郑浩妍（Jung Ho Yeon）位列本月榜单第一。"
     ],
-    "summary_zh": "韩国企业评价研究所公布了8月电影演员品牌声誉排行榜。该排名基于7月20日至8月20日期间收集的50位人气电影演员的大数据，分析了消费者参与度、媒体覆盖、互动及社区认知指数。郑浩妍（Jung Ho Yeon）位居本月榜首。",
-    "extracted_at": "2026-08-23T16:24:10.887352+08:00"
+    "summary_zh": "韩国企业评价研究所公布了8月电影演员品牌声誉排行榜，该排名基于7月20日至8月20日期间对50位人气电影演员的消费者参与度、媒体覆盖、互动及社区认知度指数的大数据分析。郑浩妍（Jung Ho Yeon）位居本月榜首。",
+    "extracted_at": "2026-08-23T20:31:00.652674+08:00"
   },
   {
     "source_id": "soompi",
@@ -120,8 +192,8 @@
       "事实点2：主角林佳凯（邱一泰饰）拥有看见人与人之间关系线的超能力",
       "事实点3：他为了解开自己能力之谜，成为灵异警察顾问"
     ],
-    "summary_zh": "台湾新BL剧《连接你》（暂译）讲述林佳凯（邱一泰饰）的故事，他是个普通人，但拥有看见人与人之间关系线的超能力。为了解开自己能力背后的谜团，他最终成为灵异警察顾问。该剧融合了奇幻与悬疑元素，本文列出了5个观看理由。",
-    "extracted_at": "2026-08-23T16:24:13.115133+08:00"
+    "summary_zh": "台湾新BL剧《连接你》（暂译）讲述林佳凯（邱一泰饰）的故事，他看似普通，却拥有看见人与人之间关系线的超能力。为了解开自己能力背后的谜团，他最终成为灵异警察顾问。该剧融合奇幻与悬疑元素，以上为推荐观看的5个理由。",
+    "extracted_at": "2026-08-23T20:31:03.151469+08:00"
   },
   {
     "source_id": "soompi",
@@ -145,8 +217,8 @@
       "KATSEYE的歌曲《Animal》在英国官方单曲排行榜上创下其最高排名",
       "KATSEYE的歌曲《Hootie Frutti》首次进入英国官方排行榜"
     ],
-    "summary_zh": "KATSEYE在英国官方排行榜上取得了职业生涯最高排名。他们的新EP《WILD》在英国官方专辑排行榜上首次亮相即获得第2名，而《Animal》在英国官方单曲排行榜上也创下了他们的最高排名。此外，《Hootie Frutti》也首次进入该排行榜。",
-    "extracted_at": "2026-08-23T16:24:15.335341+08:00"
+    "summary_zh": "KATSEYE在英国官方排行榜上取得了职业生涯最高排名。他们的新EP《WILD》在英国官方专辑排行榜上首次亮相即获得第2名，而《Animal》在英国官方单曲排行榜上也创下了他们的最高排名。此外，歌曲《Hootie Frutti》也首次进入英国官方排行榜。",
+    "extracted_at": "2026-08-23T20:31:05.423434+08:00"
   },
   {
     "source_id": "soompi",
@@ -167,11 +239,10 @@
     "is_blurred": false,
     "facts_list": [
       "事实点1：8月22日，SBS电视剧《Flex X Cop 2》播出最新一集。",
-      "事实点2：据尼尔森韩国数据，该集全国平均收视率为7.5%，创下该剧第二季自身最高收视纪录。",
-      "事实点3：另一部剧《Spooky in Love》即将迎来大结局。"
+      "事实点2：据尼尔森韩国数据，该集全国平均收视率为7.5%，创下该剧第二季自身最高收视纪录。"
     ],
-    "summary_zh": "SBS电视剧《Flex X Cop 2》收视持续走高。8月22日播出的最新一集全国平均收视率达7.5%，创下该剧第二季开播以来的最高收视纪录。与此同时，另一部剧《Spooky in Love》即将播出大结局。",
-    "extracted_at": "2026-08-23T16:24:17.482242+08:00"
+    "summary_zh": "SBS电视剧《Flex X Cop 2》收视率持续攀升。8月22日播出的最新一集，根据尼尔森韩国数据，全国平均收视率达到7.5%，刷新了第二季开播以来的最高收视纪录。与此同时，另一部剧《Spooky in Love》即将迎来大结局。",
+    "extracted_at": "2026-08-23T20:31:07.872963+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -193,10 +264,10 @@
     "facts_list": [
       "美国金属乐队Demon Hunter对Netflix提起诉讼，指控其侵犯'KPop Demon Hunters'商标权。",
       "诉讼涉及Netflix使用'KPop Demon Hunters'名称，与乐队名称相似，可能造成混淆。",
-      "该诉讼由The Korea Herald报道。"
+      "该报道由The Korea Herald发布。"
     ],
-    "summary_zh": "美国金属乐队Demon Hunter已对Netflix提起诉讼，指控其侵犯'KPop Demon Hunters'商标权。乐队认为Netflix使用的名称与其商标相似，可能导致公众混淆。此案由The Korea Herald报道，具体细节尚未披露。",
-    "extracted_at": "2026-08-23T16:24:19.722937+08:00"
+    "summary_zh": "美国金属乐队Demon Hunter已对Netflix提起诉讼，指控其侵犯'KPop Demon Hunters'商标权。乐队认为Netflix使用的名称与其商标相似，可能导致公众混淆。此案由The Korea Herald报道，具体诉讼细节和索赔金额尚未披露。",
+    "extracted_at": "2026-08-23T20:31:10.114673+08:00"
   },
   {
     "source_id": "soompi",
@@ -211,16 +282,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Billlie成员Haruna因健康问题将暂时中断所有活动",
+    "title_zh": "Billlie成员Haruna因健康问题将暂停所有活动",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：8月22日，Mystic Story宣布Billlie成员Haruna因健康原因将暂时中断所有活动。",
-      "事实点2：所属社Mystic Story发布官方声明，表示将暂停Haruna的活动，但未透露具体健康问题细节。"
+      "事实点1：8月22日，Mystic Story宣布Billlie成员Haruna因健康原因将暂时停止所有活动。",
+      "事实点2：所属社Mystic Story发布官方声明，表示将暂停Haruna的活动。"
     ],
-    "summary_zh": "8月22日，Mystic Story宣布旗下女团Billlie成员Haruna因健康原因将暂时中断所有活动。所属社在官方声明中表示，Haruna将暂停活动以专注于健康恢复，但未说明具体病情或恢复时间。",
-    "extracted_at": "2026-08-23T16:24:22.078798+08:00"
+    "summary_zh": "8月22日，Mystic Story宣布旗下女团Billlie成员Haruna因健康原因将暂时停止所有活动。所属社在官方声明中表示，Haruna将暂时中断活动，以专注于健康恢复。具体回归时间未定。",
+    "extracted_at": "2026-08-23T20:31:12.235610+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -243,8 +314,8 @@
       "事实点1：Collider发布文章，推荐8部可在一天内刷完的韩剧。",
       "事实点2：文章标题为“You Can Binge These 8 Great K-Drama Masterpieces in 1 Day”。"
     ],
-    "summary_zh": "美国媒体Collider发布了一篇推荐清单，列出了8部适合在一天内刷完的韩剧佳作。该清单旨在为观众提供高效追剧的选择，但具体剧名未在原文中提及。",
-    "extracted_at": "2026-08-23T16:24:24.093115+08:00"
+    "summary_zh": "Collider网站发布了一篇文章，推荐了8部可以在一天内刷完的韩剧佳作。文章标题为“You Can Binge These 8 Great K-Drama Masterpieces in 1 Day”，但原文未提供具体剧名列表。",
+    "extracted_at": "2026-08-23T20:31:14.167737+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -264,11 +335,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：Annenberg Media报道，CORTIS在K-pop演唱会文化中展现出与众不同的色彩。",
-      "事实点2：报道标题为“CORTIS Colors outside the lines of K-pop concert culture”，具体内容未提供。"
+      "事实点1：Annenberg Media报道，CORTIS在K-pop演唱会文化中展现出非传统行为",
+      "事实点2：报道标题为'CORTIS Colors outside the lines of K-pop concert culture'"
     ],
-    "summary_zh": "Annenberg Media发布报道，标题为“CORTIS Colors outside the lines of K-pop concert culture”，指出CORTIS在K-pop演唱会文化中展现出与众不同的色彩。报道具体内容未提供，仅从标题可知其聚焦于CORTIS在K-pop演唱会文化中的独特表现。",
-    "extracted_at": "2026-08-23T16:24:26.372239+08:00"
+    "summary_zh": "Annenberg Media发布报道，聚焦CORTIS在K-pop演唱会文化中的非传统表现。报道标题为'CORTIS Colors outside the lines of K-pop concert culture'，暗示CORTIS的行为或风格突破了K-pop演唱会的常规框架。具体细节未在原文中详述。",
+    "extracted_at": "2026-08-23T20:31:16.443773+08:00"
   },
   {
     "source_id": "soompi",
@@ -290,10 +361,10 @@
     "facts_list": [
       "事实点1：8月22日，BIGHIT MUSIC宣布CORTIS将发行最新EP《GREENGREEN》的新版本。",
       "事实点2：新版本名为“GREENGREEN_playextended”，将于8月24日发行。",
-      "事实点3：该版本将包含两首新歌，这两首歌在本周末的“‘PUT YOUR PHONE DOWN’ BIRTHDAY PARTY”上首演。"
+      "事实点3：该版本将包含两首新歌，这两首歌在本周末的“‘PUT YOUR PHONE DOWN’ BIRTHDAY PARTY”上首次亮相。"
     ],
-    "summary_zh": "BIGHIT MUSIC于8月22日宣布，CORTIS将于8月24日发行其最新EP《GREENGREEN》的扩展版“GREENGREEN_playextended”。该版本将包含两首新歌，这两首歌在CORTIS本周末的“‘PUT YOUR PHONE DOWN’ BIRTHDAY PARTY”上首次亮相。",
-    "extracted_at": "2026-08-23T16:24:28.475417+08:00"
+    "summary_zh": "BIGHIT MUSIC于8月22日宣布，CORTIS将于8月24日发行其最新EP《GREENGREEN》的扩展版“GREENGREEN_playextended”。该版本将包含两首新歌，这两首歌在本周末的“‘PUT YOUR PHONE DOWN’ BIRTHDAY PARTY”上首次演出。",
+    "extracted_at": "2026-08-23T20:31:18.745012+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -313,11 +384,11 @@
     "risk_level": "中",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：美国基督教金属乐队Demon Hunter对Netflix提起诉讼，针对其新剧《KPop Demon Hunters》",
-      "事实点2：诉讼由CNN报道，具体指控包括商标侵权和名称混淆"
+      "事实点1：美国基督教金属乐队Demon Hunter对Netflix提起诉讼，针对其新剧《KPop Demon Hunters》的命名。",
+      "事实点2：诉讼由CNN报道，具体指控为商标侵权或名称混淆。"
     ],
-    "summary_zh": "据CNN报道，美国基督教金属乐队Demon Hunter已对Netflix提起诉讼，原因是Netflix的新剧《KPop Demon Hunters》使用了与乐队名称相似的标题，可能导致公众混淆。乐队认为该剧侵犯了其商标权，并损害了乐队声誉。目前，Netflix尚未对此诉讼作出公开回应。",
-    "extracted_at": "2026-08-23T16:24:30.853822+08:00"
+    "summary_zh": "据CNN报道，美国基督教金属乐队Demon Hunter已对Netflix提起诉讼，原因是Netflix即将推出的剧集《KPop Demon Hunters》使用了与乐队名称相似的标题，可能构成侵权。乐队认为该剧名称可能导致公众混淆，损害其品牌权益。目前诉讼细节尚未完全披露，但此举旨在保护乐队名称的独特性。",
+    "extracted_at": "2026-08-23T20:31:21.528836+08:00"
   },
   {
     "source_id": "soompi",
@@ -337,12 +408,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "8月22日MBC《音乐中心》节目中，ATEEZ凭借《BAD》以总分7,322分获得第一名，这是该曲的第五个音乐节目冠军。",
-      "本次一位候补包括Stray Kids的《This & That》和KiiiKiii的《Pop Off Pop Off》。",
-      "本期节目还包含ENHYPEN、OURBIRTHDAY等艺人的表演舞台。"
+      "事实点1：8月22日MBC《音乐中心》节目中，ATEEZ凭借《BAD》以总分7,322分获得第一名。",
+      "事实点2：本次一位候补包括Stray Kids的《This & That》和KiiiKiii的《Pop Off Pop Off》。",
+      "事实点3：本期节目还有ENHYPEN、OURBIRTHDAY等艺人的表演舞台。"
     ],
-    "summary_zh": "在8月22日播出的MBC《音乐中心》中，ATEEZ凭借歌曲《BAD》以7,322分的总分击败Stray Kids的《This & That》和KiiiKiii的《Pop Off Pop Off》，获得该曲的第五个音乐节目冠军。本期节目还呈现了ENHYPEN、OURBIRTHDAY等多组艺人的精彩舞台。",
-    "extracted_at": "2026-08-23T16:24:33.295180+08:00"
+    "summary_zh": "在8月22日播出的MBC《音乐中心》中，ATEEZ凭借歌曲《BAD》以7,322分的总分击败Stray Kids和KiiiKiii，获得第五个音乐节目冠军。本期节目还包含了ENHYPEN、OURBIRTHDAY等艺人的精彩表演。",
+    "extracted_at": "2026-08-23T20:31:24.045591+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -357,16 +428,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Demon Hunter乐队起诉Netflix新剧《KPop Demon Hunters》侵权",
+    "title_zh": "Demon Hunter乐队起诉Netflix，指控其新剧《KPop Demon Hunters》侵犯商标权",
     "source_type": "韩娱",
     "risk_level": "中",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：美国基督教金属乐队Demon Hunter对Netflix提起诉讼，针对其新剧《KPop Demon Hunters》",
-      "事实点2：诉讼由CNN报道，具体指控为商标侵权或名称混淆"
+      "事实点1：美国基督教金属乐队Demon Hunter对Netflix提起诉讼，指控其新剧《KPop Demon Hunters》侵犯商标权。",
+      "事实点2：诉讼由CNN报道，具体指控包括Netflix未经授权使用乐队名称，可能导致公众混淆。"
     ],
-    "summary_zh": "据CNN报道，美国基督教金属乐队Demon Hunter已对Netflix提起诉讼，原因是Netflix的新剧《KPop Demon Hunters》使用了与乐队名称相似的名称，可能构成侵权。诉讼的具体细节和索赔金额尚未披露。",
-    "extracted_at": "2026-08-23T16:24:35.329999+08:00"
+    "summary_zh": "美国基督教金属乐队Demon Hunter已对Netflix提起诉讼，原因是Netflix即将推出的剧集《KPop Demon Hunters》使用了与乐队名称相似的标题，涉嫌侵犯商标权。乐队认为该剧集名称可能导致公众混淆，损害其品牌形象。诉讼详情由CNN报道，但具体索赔金额和法院受理情况尚未披露。",
+    "extracted_at": "2026-08-23T20:31:26.798759+08:00"
   },
   {
     "source_id": "asianwiki",
