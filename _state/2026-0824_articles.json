@@ -1,5 +1,249 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Robots dancing to the beat of K-pop, the new South Korean business model - El Mundo America",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdHAxdkwyRG1UVTR5XzNQSGVzNERpbVRESDZNQ00zTmNVYUQ0M1VYUjR3Z2w0TDdKSFRFOWZ2ZVRXV0dLRVdma1FNU1hVRl9LVWtqblJNMW5YTkpZMVVTSlRZYkx6SExGN2RRZDF0MDByaTcyc2drRVZuN2U3UkZpQ3FZd1k1WllRVDdF?oc=5",
+    "content": "Robots dancing to the beat of K-pop, the new South Korean business model El Mundo America",
+    "published_at": "0824google-kpop",
+    "published_ts": 1787568958.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "机器人随K-pop节拍起舞，韩国新商业模式引关注",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：西班牙媒体El Mundo America报道，韩国出现机器人随K-pop音乐跳舞的现象",
+      "事实点2：该报道将机器人跳舞描述为韩国的新商业模式"
+    ],
+    "summary_zh": "据西班牙媒体El Mundo America报道，韩国出现机器人随K-pop音乐跳舞的现象，并被视为一种新的商业模式。报道指出，这种结合科技与流行文化的方式正在成为韩国娱乐产业的新趋势，但未提供具体案例或数据。",
+    "extracted_at": "2026-08-24T20:40:01.076319+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-Pop Group AtHeart Travels Before Their Time With '3! 4!' - Forbes",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQenRmcFNOaWEtSTRNdFNMbXlOOF9fZDV4TkYwbmg3aGhHRmR2VWVOYzJUZ3pMZDg5S0NETDRUR29Fd1NTNWdBVmdUbTIyUnJsdHcta2hYYTVmY1lnMzBlcll2SVZJZWdyUjN2aGE2OU1odnpfWUJNYTVNMnpNT2pheXZQdlZuekx5V3hVUk9qUWQ5a0x2V1pfNFZnRXFMS01hXzRRWHBsZERhMERE?oc=5",
+    "content": "K-Pop Group AtHeart Travels Before Their Time With '3! 4!' Forbes",
+    "published_at": "0824google-kpop",
+    "published_ts": 1787568131.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "K-Pop组合AtHeart携新曲《3! 4!》超前旅行",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：K-Pop组合AtHeart发布新曲《3! 4!》",
+      "事实点2：该曲被描述为“超前旅行”主题"
+    ],
+    "summary_zh": "据Forbes报道，K-Pop组合AtHeart发行了新曲《3! 4!》，该曲以“超前旅行”为主题，展现了组合独特的音乐风格。",
+    "extracted_at": "2026-08-24T20:40:02.725944+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Lee Won Jung And His Fellow Soldiers Turn Nap Time Into A Full-Scale Operation In “New Recruit 4: Sabotage”",
+    "url": "https://www.soompi.com/article/1865360wpp/lee-won-jung-and-his-fellow-soldiers-turn-nap-time-into-a-full-scale-operation-in-new-recruit-4-sabotage",
+    "content": "“New Recruit 4: Sabotage” has unveiled new stills ahead of its premiere today! Based on the hit animation of the same name, “New Recruit” is a black comedy drama that explores the lives of young adults in their 20s, delving into the culture, secrets, and absurdities of South Korea’s military. Season 4 will depict the&#8230; Continue reading Lee Won Jung And His Fellow Soldiers Turn Nap Time Into A Full-Scale Operation In “New Recruit 4: Sabotage”\nThe post Lee Won Jung And His Fellow Soldiers Turn Nap Time Into A Full-Scale Operation In “New Recruit 4: Sabotage” appeared first on Soompi.",
+    "published_at": "0824soompi",
+    "published_ts": 1787567624.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《新兵4：破坏》今日首播，李元正与战友午睡变全面作战",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：今日（未具体日期）《新兵4：破坏》首播，公开新剧照。",
+      "事实点2：该剧改编自同名热门动画，为黑色喜剧，讲述韩国军队文化、秘密与荒诞。",
+      "事实点3：第四季将描绘李元正与战友将午睡时间变成全面作战行动。"
+    ],
+    "summary_zh": "《新兵4：破坏》今日首播，公开新剧照。该剧改编自同名热门动画，是一部黑色喜剧，深入探讨20多岁年轻人的生活，以及韩国军队的文化、秘密与荒诞。第四季中，李元正与战友们将午睡时间变成一场全面作战行动。",
+    "extracted_at": "2026-08-24T20:40:05.140506+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Ryu Seung Ryong And Ha Ji Won’s Lives Take A Drastic Turn After The Arrival Of His Daughter In “Portrait Of A Family”",
+    "url": "https://www.soompi.com/article/1865351wpp/ryu-seung-ryong-and-ha-ji-wons-lives-take-a-drastic-turn-after-the-arrival-of-his-daughter-in-portrait-of-a-family",
+    "content": "The upcoming film “Portrait of a Family” has unveiled new character posters! “Portrait of a Family” is a family chronicle that follows top star couple Jung Gu (Ryu Seung Ryong) and Nam Mi (Ha Ji Won). After their marriage falls apart due to the sudden appearance of Jung Gu’s daughter Dong Ju (Kim Si Ah),&#8230; Continue reading Ryu Seung Ryong And Ha Ji Won’s Lives Take A Drastic Turn After The Arrival Of His Daughter In “Portrait Of A Family”\nThe post Ryu Seung Ryong And Ha Ji Won’s Lives Take A Drastic Turn After The Arrival Of His Daughter In “Portrait Of A Family” appeared first on Soompi.",
+    "published_at": "0824soompi",
+    "published_ts": 1787565594.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "柳承龙与河智苑新片《家族肖像》公开角色海报，女儿登场人生剧变",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "电影《Portrait of a Family》（暂译：家族肖像）公开新角色海报",
+      "该片为家庭编年史，讲述顶级明星夫妇郑九（柳承龙饰）与南美（河智苑饰）的故事",
+      "剧情围绕郑九女儿东珠（金诗雅饰）突然出现导致婚姻破裂展开"
+    ],
+    "summary_zh": "电影《Portrait of a Family》（暂译：家族肖像）公开新角色海报。该片为家庭编年史，讲述顶级明星夫妇郑九（柳承龙饰）与南美（河智苑饰）因郑九女儿东珠（金诗雅饰）突然出现而婚姻破裂，生活发生剧变的故事。",
+    "extracted_at": "2026-08-24T20:40:07.802208+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "3 Points To Keep An Eye On In Seo Kang Jun And Ahn Eun Jin’s Upcoming Drama “A Love Other Than Yours”",
+    "url": "https://www.soompi.com/article/1865146wpp/3-points-to-keep-an-eye-on-in-seo-kang-jun-and-ahn-eun-jins-upcoming-drama-a-love-other-than-yours",
+    "content": "Get ready for the premiere of KBS’s upcoming drama “A Love Other Than Yours”! “A Love Other Than Yours” is a realistic romance drama that follows a couple in their 10th year of dating as they experience unexpected emotional changes in a relationship that once felt familiar. Ahead of the drama’s premiere, “A Love Other&#8230; Continue reading 3 Points To Keep An Eye On In Seo Kang Jun And Ahn Eun Jin’s Upcoming Drama “A Love Other Than Yours”\nThe post 3 Points To Keep An Eye On In Seo Kang Jun And Ahn Eun Jin’s Upcoming Drama “A Love Other Than Yours” appeared first on Soompi.",
+    "published_at": "0824soompi",
+    "published_ts": 1787564320.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "徐康俊与安恩真新剧《他人的恋爱》开播在即，三大看点抢先看",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：KBS新剧《他人的恋爱》即将首播，该剧讲述一对恋爱10年的情侣在熟悉的关系中经历意想不到的情感变化。",
+      "事实点2：该剧由徐康俊和安恩真主演，文章列出了开播前值得关注的三个看点。"
+    ],
+    "summary_zh": "KBS新剧《他人的恋爱》即将首播，这是一部现实浪漫剧，讲述一对恋爱10年的情侣在熟悉的关系中经历意想不到的情感变化。该剧由徐康俊和安恩真主演，文章在开播前列出了三个值得关注的看点。",
+    "extracted_at": "2026-08-24T20:40:10.203808+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: BLACKPINK’s Jisoo Announces Comeback With Mysterious “CLICK” Teaser",
+    "url": "https://www.soompi.com/article/1865259wpp/watch-blackpinks-jisoo-announces-comeback-with-mysterious-click-teaser",
+    "content": "BLACKPINK’s Jisoo is gearing up for her solo comeback! On August 24 at 6 p.m. KST, Jisoo released a mysterious teaser video, announcing her plans to release new music on September 4. Are you excited for Jisoo&#8217;s comeback?\nThe post Watch: BLACKPINK&#8217;s Jisoo Announces Comeback With Mysterious &#8220;CLICK&#8221; Teaser appeared first on Soompi.",
+    "published_at": "0824soompi",
+    "published_ts": 1787563819.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "BLACKPINK智秀发布神秘“CLICK”预告，宣布9月4日携新曲回归",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "8月24日下午6点（韩国时间），BLACKPINK成员智秀发布神秘预告视频",
+      "预告视频名为“CLICK”，宣布将于9月4日发行新音乐"
+    ],
+    "summary_zh": "BLACKPINK成员智秀正在筹备个人回归。8月24日下午6点（韩国时间），她发布了一支名为“CLICK”的神秘预告视频，宣布计划于9月4日发行新音乐。",
+    "extracted_at": "2026-08-24T20:40:12.310888+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: SEVENTEEN’s Dino Shows Off His Dance Moves In Energetic “LIKE IT” MV",
+    "url": "https://www.soompi.com/article/1865283wpp/watch-seventeens-dino-shows-off-his-dance-moves-in-energetic-like-it-mv",
+    "content": "SEVENTEEN’s Dino has released a new music video! On August 24 at 6 p.m. KST, Dino dropped the music video for “LIKE IT,” a track from Picheolin’s (his alter-ego) first mini album “吉BOARD.” “LIKE IT” captures the heartfelt sentiment, “I feel truly alive when I dance for you.” Watch the music video below: Watch Dino&#8230; Continue reading Watch: SEVENTEEN’s Dino Shows Off His Dance Moves In Energetic “LIKE IT” MV\nThe post Watch: SEVENTEEN’s Dino Shows Off His Dance Moves In Energetic “LIKE IT” MV appeared first on Soompi.",
+    "published_at": "0824soompi",
+    "published_ts": 1787563515.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "SEVENTEEN Dino公开新曲《LIKE IT》MV，展现活力舞姿",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "8月24日下午6点（韩国时间），SEVENTEEN成员Dino公开了个人迷你专辑《吉BOARD》中收录曲《LIKE IT》的MV。",
+      "《LIKE IT》表达了“为你跳舞时我感到真正活着”的情感。"
+    ],
+    "summary_zh": "SEVENTEEN成员Dino于8月24日下午6点（韩国时间）公开了其个人迷你专辑《吉BOARD》中收录曲《LIKE IT》的MV。该曲表达了“为你跳舞时我感到真正活着”的情感，MV展现了Dino充满活力的舞蹈动作。",
+    "extracted_at": "2026-08-24T20:40:14.294967+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Meet Tuide, Your New Favorite Girl Group (Exclusive) - The Hollywood Reporter",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRk5qSXhwVm1UU3BHVkNlQk1WM2Myc1hhcUwweEtMck1OOHYwaThCbzBhOG40bnRMV0FiRlk4emgzdG9VMmw1ZlNhNXZybGI5cmd3VVNwQlhINkNBdFVDLUJYS05iU1YxVlRzQ2J4cnB5ZXZxdDJQRlhzeVNLc2FpV28zNkhwUWJSZk15VkgxV1VWRVRPaGlzbElvZmVVX3FoV2hlQkk2LWdDTnc?oc=5",
+    "content": "Meet Tuide, Your New Favorite Girl Group (Exclusive) The Hollywood Reporter",
+    "published_at": "0824google-kpop",
+    "published_ts": 1787562024.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "好莱坞报道独家：新晋女团Tuide亮相，或成你的新宠",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "事实点1：The Hollywood Reporter发布独家报道，介绍新晋女团Tuide。",
+      "事实点2：原文未提及具体成员、出道日期、所属社、音乐作品等具体信息。"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：The Hollywood Reporter独家报道介绍新晋女团Tuide，称其可能成为你的新宠。]",
+    "extracted_at": "2026-08-24T20:40:15.959404+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Ryu Jun Yeol’s Fingernail Becomes The Key To His Identity Being Stolen In New Drama “Mousetrap”",
+    "url": "https://www.soompi.com/article/1865114wpp/ryu-jun-yeols-fingernail-becomes-the-key-to-his-identity-being-stolen-in-new-drama-mousetrap",
+    "content": "Netflix’s upcoming series “Mousetrap” has unveiled new stills of Ryu Jun Yeol! Based on a webtoon, “Mousetrap” is a thriller that follows Moon Jae (Ryu Jun Yeol), a reclusive novelist who loses everything—his name, identity, and fortune—to a mysterious man known only as “The Rat”; Noja (Sul Kyung Gu), a loan shark determined to recover&#8230; Continue reading Ryu Jun Yeol’s Fingernail Becomes The Key To His Identity Being Stolen In New Drama “Mousetrap”\nThe post Ryu Jun Yeol’s Fingernail Becomes The Key To His Identity Being Stolen In New Drama “Mousetrap” appeared first on Soompi.",
+    "published_at": "0824soompi",
+    "published_ts": 1787561406.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "柳俊烈新剧《捕鼠器》剧照公开，指甲成为身份被盗关键",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Netflix新剧《Mousetrap》公开柳俊烈新剧照",
+      "该剧改编自网络漫画，是一部惊悚剧",
+      "柳俊烈饰演隐居小说家文在，因神秘人物“老鼠”失去名字、身份和财产",
+      "薛景求饰演高利贷者Noja"
+    ],
+    "summary_zh": "Netflix新剧《Mousetrap》公开了柳俊烈的新剧照。该剧改编自网络漫画，是一部惊悚剧，讲述隐居小说家文在（柳俊烈饰）因神秘人物“老鼠”而失去名字、身份和财产的故事。薛景求饰演高利贷者Noja。",
+    "extracted_at": "2026-08-24T20:40:18.699238+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "LG Twins Feature K-Pop Star, Go Legend in First Pitch Ceremony - 조선일보",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObGx0ZFZKRENPQWE1SGMzY0xwcUViMTRpZUVzUFFBZWFqOVAzWHh2Q09QUGlQT183eWhBdWhoQjVqdUdTUDhsdnlaUEF3VXFuY1Y5MXR4ZmF3cV9ZUG8xdlk5aEdsdGxuUXZYZ0hoWktmRkZ5ZmlUNk11aUMxemxyN0ZJZmJ1Zw?oc=5",
+    "content": "LG Twins Feature K-Pop Star, Go Legend in First Pitch Ceremony 조선일보",
+    "published_at": "0824google-kpop",
+    "published_ts": 1787561187.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "LG双子队开球仪式：K-Pop明星与围棋传奇同台亮相",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "LG双子队（LG Twins）在开球仪式（First Pitch Ceremony）中邀请了K-Pop明星和围棋传奇（Go Legend）参与。",
+      "该活动由《朝鲜日报》（조선일보）报道。"
+    ],
+    "summary_zh": "据《朝鲜日报》报道，韩国职业棒球队LG双子队在其开球仪式上邀请了K-Pop明星和围棋传奇人物共同参与。开球仪式是棒球比赛的传统环节，通常由知名人士担任投手或击球手，以增加比赛的观赏性和话题性。此次邀请K-Pop明星和围棋传奇，体现了体育与娱乐、文化的跨界融合。",
+    "extracted_at": "2026-08-24T20:40:21.418367+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -13,15 +257,15 @@
     "image_url": "",
     "is_new": true,
     "title_zh": "李贞恩与卞约汉新片《庆州之旅》海报公开，母亲与凶手对峙",
-    "source_type": "韩娱",
+    "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "电影《庆州之旅》公开新海报，展示李贞恩与卞约汉的激烈对峙场面。",
-      "该片是一部家庭复仇电影，讲述母亲和三个女儿在等待八年后，为最小的女儿庆州踏上“杀手”之旅的故事。"
+      "该片是一部家庭复仇电影，讲述母亲和三个女儿在等待八年后，为最小的女儿庆州踏上“杀手”之旅。"
     ],
-    "summary_zh": "即将上映的电影《庆州之旅》公开了新海报，展现了李贞恩与卞约汉饰演的角色之间的激烈对峙。该片是一部家庭复仇电影，讲述一位母亲和她的三个女儿在等待八年后，为了最小的女儿庆州而踏上“杀手”之旅的故事。",
-    "extracted_at": "2026-08-24T16:42:18.089381+08:00"
+    "summary_zh": "电影《庆州之旅》公开新海报，李贞恩与卞约汉饰演的角色形成强烈对峙。该片为家庭复仇题材，讲述母亲与三个女儿为小女儿庆州，在等待八年后展开复仇之旅的故事。",
+    "extracted_at": "2026-08-24T20:40:23.601742+08:00"
   },
   {
     "source_id": "soompi",
@@ -36,40 +280,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "车宇民在《我的偏见，我的老板》中大胆示爱金惠俊",
+    "title_zh": "车宇民在《我的偶像，我的老板》中大胆出击，赢得金惠俊芳心",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "tvN剧集《我的偏见，我的老板》公开新剧照，为即将播出的剧集预热。",
+      "tvN剧集《我的偶像，我的老板》公开新剧照，为即将播出的剧集预热。",
       "该剧改编自网络漫画，讲述金惠俊饰演的南多凛为见偶像车宇民饰演的李灿而入职公司，两人之间展开的浪漫故事。"
     ],
-    "summary_zh": "tvN剧集《我的偏见，我的老板》公开新剧照，为即将播出的剧集预热。该剧改编自网络漫画，讲述金惠俊饰演的南多凛为见偶像车宇民饰演的李灿而入职公司，两人之间展开的浪漫故事。",
-    "extracted_at": "2026-08-24T16:42:20.076797+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Why ‘Our Sticky Love’ is Jung Hae-in’s most unexpected K-drama yet - Tatler Asia",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbjRudGxxc2ltUTU3aUpzY1R4a1ZaVW9JdkkxTlJCb2YwZWwzNUp2ZTRnSlpvMHVKVXZPa29TWUJSYXkxZEp0UVByRW5NZ2NYTWlNX2F0dU56ejlIcWlpRHhTY1ZvZjJQSXNiTjdGLTF1Y0xQbl8yMzNJcXlzZFdGdm1GTWgwbG00c0ZoU0VyaFBVRzVmY1d1eQ?oc=5",
-    "content": "Why ‘Our Sticky Love’ is Jung Hae-in’s most unexpected K-drama yet Tatler Asia",
-    "published_at": "0824google-kpop",
-    "published_ts": 1787557092.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "《我们的甜蜜爱情》：丁海寅最出人意料的韩剧",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：Tatler Asia发布文章，标题为《为什么〈Our Sticky Love〉是丁海寅最出人意料的韩剧》",
-      "事实点2：文章聚焦丁海寅主演的韩剧《Our Sticky Love》，探讨其角色与以往作品的差异"
-    ],
-    "summary_zh": "Tatler Asia发文称，丁海寅的新剧《Our Sticky Love》是他演艺生涯中最出人意料的韩剧。文章指出该剧在题材或角色设定上与他以往的作品有显著不同，但具体细节未在原文中详述。",
-    "extracted_at": "2026-08-24T16:42:22.161787+08:00"
+    "summary_zh": "tvN剧集《我的偶像，我的老板》公开新剧照，为即将播出的剧集预热。该剧改编自网络漫画，讲述金惠俊饰演的南多凛为见偶像车宇民饰演的李灿而入职公司，两人之间展开的浪漫故事。新剧照中，车宇民饰演的李灿为赢得金惠俊饰演的南多凛的芳心而大胆行动。",
+    "extracted_at": "2026-08-24T20:40:26.320311+08:00"
   },
   {
     "source_id": "soompi",
@@ -84,16 +304,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "姜基荣饰演具教焕唯一挚友，新片《觉醒之人：红色》首曝剧照",
+    "title_zh": "姜基荣在电影《觉醒男人：红色》中饰演具教焕唯一朋友，剧照首公开",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：新片《觉醒之人：红色》公开姜基荣角色剧照",
-      "事实点2：该片改编自网络漫画，由具教焕饰演失业求职者石焕，姜基荣饰演其唯一朋友"
+      "电影《觉醒男人：红色》公开姜基荣角色剧照",
+      "该片改编自网络漫画，讲述失业求职者石焕（具教焕饰）死后发现自己有复活能力的故事",
+      "姜基荣饰演石焕唯一的朋友"
     ],
-    "summary_zh": "新片《觉醒之人：红色》首次公开姜基荣的角色剧照。该片改编自网络漫画，讲述具教焕饰演的失业求职者石焕，其唯一资格是盲目的自信，在死后发现自己拥有复活能力的故事。姜基荣将饰演石焕唯一的朋友。",
-    "extracted_at": "2026-08-24T16:42:24.475409+08:00"
+    "summary_zh": "电影《觉醒男人：红色》首次公开姜基荣的角色剧照。该片改编自网络漫画，讲述失业求职者石焕（具教焕饰）的唯一资格是盲目的自信，死后发现自己拥有复活能力的故事。姜基荣将饰演石焕唯一的朋友。",
+    "extracted_at": "2026-08-24T20:40:28.433622+08:00"
   },
   {
     "source_id": "soompi",
@@ -117,32 +338,8 @@
       "事实点2：出演者包括Jisung、Johnny等，将在开罗、卢克索、赫尔格达三座城市竞争“王子”称号。",
       "事实点3：最新一期中，他们在卢克索神庙进行问答对决。"
     ],
-    "summary_zh": "全新旅行综艺《ALL or NOTHING》在埃及拍摄，出演者包括NCT的Jisung、Johnny等。节目为期7天6夜，他们将在开罗、卢克索、赫尔格达三座城市展开竞争，争夺“王子”称号。最新一期中，他们在卢克索神庙进行了问答对决。",
-    "extracted_at": "2026-08-24T16:42:27.285196+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Illinois declares 'BTS Day' ahead of Chicago concerts - The Korea Times",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN2d5WlloakgybHFxbTRvMkhsWnFKTVZyUERlNDc4d181SzNVUkJ5c1d1RGN2a2N3UVRsWG9ITEtRVWE1Q29ld3dOSVIwcGlNQkhHa3ZZVlphNjQzUnVxUi1QU1VYVjBLYTJBSkNIUlJNUDAwa3VDVEpjMG8tcFEwcUt2NWdHZm02b3Jjci1zekh5T1BpenEwNTdFMk5xcFpqOHRJTm1kQXpMVC0xb1HSAbMBQVVfeXFMUHdsTkRidjBMamtfTkR2ZU9naDlNU3luWURNMGZXYXg3T2xVaWYwLVI5azRQQVdNZVhRNlZvVVltSzdULVNEcGs1THBVTnBNUDlJU0Fkd0NUX1BJWEJ0SGt4MGRpZU1NbndpaEQ0Wko4QmctVVJnRkVFRGxDVV9yU0FMOXE3b2ZVYkhXaDVGRVY4SUpWU1JkVDFoMlhSYktSNldhaEVuYzdsNmNUQ1BlRDlXZGs?oc=5",
-    "content": "Illinois declares 'BTS Day' ahead of Chicago concerts The Korea Times",
-    "published_at": "0824google-kpop",
-    "published_ts": 1787554326.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "伊利诺伊州宣布设立“BTS日”迎接芝加哥演唱会",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "伊利诺伊州宣布设立“BTS日”",
-      "该宣布发生在BTS芝加哥演唱会之前"
-    ],
-    "summary_zh": "据《韩国时报》报道，伊利诺伊州宣布设立“BTS日”，以迎接BTS在芝加哥举行的演唱会。这一举措体现了BTS在当地的影响力和受欢迎程度。",
-    "extracted_at": "2026-08-24T16:42:28.993588+08:00"
+    "summary_zh": "全新旅行综艺《ALL or NOTHING》在埃及拍摄，出演者包括NCT的Jisung和Johnny等。节目为期7天6夜，他们将在开罗、卢克索和赫尔格达三座城市展开竞争，争夺“王子”称号。最新一期中，他们在卢克索神庙进行了问答对决。",
+    "extracted_at": "2026-08-24T20:40:30.824757+08:00"
   },
   {
     "source_id": "soompi",
@@ -157,17 +354,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "杨智媛与杨俊模宣布结婚及怀孕喜讯",
+    "title_zh": "杨智媛与杨俊模宣布结婚并怀孕",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：8月24日，杨智媛通过Instagram宣布怀孕并即将结婚。",
-      "事实点2：杨智媛为前SPICA和UNI.T成员，杨俊模为演员。",
-      "事实点3：杨智媛分享了多张婚纱照。"
+      "事实点1：8月24日，杨智媛在Instagram上宣布怀孕并即将结婚。",
+      "事实点2：杨智媛分享了多张婚纱照。",
+      "事实点3：杨俊模为演员，杨智媛为前SPICA和UNI.T成员。"
     ],
-    "summary_zh": "8月24日，前SPICA和UNI.T成员杨智媛通过Instagram宣布怀孕并即将与演员杨俊模结婚。她分享了多张婚纱照，但未透露具体婚期。",
-    "extracted_at": "2026-08-24T16:42:31.072788+08:00"
+    "summary_zh": "演员杨俊模与前SPICA及UNI.T成员杨智媛将结婚。8月24日，杨智媛通过Instagram宣布怀孕并即将结婚，同时分享了多张婚纱照。",
+    "extracted_at": "2026-08-24T20:40:32.547787+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -191,7 +388,7 @@
       "该公园旨在通过实体AI技术推广K-pop"
     ],
     "summary_zh": "据MLex报道，韩国一家初创公司开设了机器人主题公园，旨在通过实体AI技术推广K-pop。该公园将机器人技术与K-pop文化相结合，为游客提供独特的体验。",
-    "extracted_at": "2026-08-24T16:42:32.910904+08:00"
+    "extracted_at": "2026-08-24T20:40:34.414156+08:00"
   },
   {
     "source_id": "soompi",
@@ -206,17 +403,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "金惠峻追星生活面临曝光危机，姜勋突访其家中",
+    "title_zh": "《我的偏见，我的老板》新剧照：姜勋突访金惠奫家，粉丝生活面临曝光危机",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "tvN剧集《我的偏见，我的老板》公开新剧照，该剧改编自网络漫画。",
-      "剧情讲述金惠峻饰演的南多凛为见偶像李灿（车宇旻饰）而入职公司，与公司内某人展开恋情。",
-      "新剧照显示姜勋访问金惠峻家，可能揭露其追星生活。"
+      "剧情讲述金惠奫饰演的南多林为见到偶像李灿（车玟祐饰）而进入公司，与公司代表姜勋饰演的角色发生浪漫故事。",
+      "新剧照显示姜勋访问金惠奫的家，可能暴露其粉丝生活。"
     ],
-    "summary_zh": "tvN剧集《我的偏见，我的老板》公开新剧照，该剧改编自网络漫画，讲述金惠峻饰演的南多凛为见偶像李灿（车宇旻饰）而入职公司，并与公司内某人展开恋情。新剧照中，姜勋访问金惠峻家，可能揭露其追星生活，引发剧情紧张。",
-    "extracted_at": "2026-08-24T16:42:35.319217+08:00"
+    "summary_zh": "tvN新剧《我的偏见，我的老板》公开新剧照，该剧改编自网络漫画，讲述金惠奫饰演的南多林为追星进入公司，与公司代表（姜勋饰）之间的浪漫故事。最新剧照中，姜勋到访金惠奫的家，可能揭露她的粉丝生活，引发观众期待。",
+    "extracted_at": "2026-08-24T20:40:37.365512+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -231,16 +428,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "前K-pop偶像欲组建工会，无人响应",
+    "title_zh": "前K-pop偶像欲成立工会，无人响应",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：一位前K-pop偶像曾希望组建工会，但无人前来响应。",
-      "事实点2：该事件由The Korea Herald报道。"
+      "事实点1：一名前K-pop偶像曾希望成立工会，但无人站出来响应。",
+      "事实点2：该事件由韩国媒体The Korea Herald报道。"
     ],
-    "summary_zh": "据The Korea Herald报道，一位前K-pop偶像曾试图组建工会，但最终无人响应。报道未提及具体姓名、时间或更多细节。",
-    "extracted_at": "2026-08-24T16:42:36.918590+08:00"
+    "summary_zh": "据The Korea Herald报道，一名前K-pop偶像曾试图推动成立工会，但最终无人响应。报道未提及该偶像的具体身份、所属团体或具体时间，仅指出其发起工会倡议但未能获得支持。",
+    "extracted_at": "2026-08-24T20:40:39.457124+08:00"
   },
   {
     "source_id": "soompi",
@@ -263,8 +460,8 @@
       "事实点1：8月24日，NCT 127为纪念出道10周年，举行了第七张正规专辑“BLINGY”发行记者会。",
       "事实点2：泰容在记者会上表示：“我们的专辑中有首尔地图和NEO色彩，包含了想要……的意义。”"
     ],
-    "summary_zh": "NCT 127为庆祝出道10周年，于8月24日举行了第七张正规专辑“BLINGY”的发行记者会。成员泰容在记者会上总结了此次回归，表示专辑中包含了首尔地图和NEO色彩，并传达了想要表达的意义。记者会还涉及了组合的变化、世界巡演等话题。",
-    "extracted_at": "2026-08-24T16:42:39.410672+08:00"
+    "summary_zh": "NCT 127于8月24日为纪念出道10周年，举行了第七张正规专辑“BLINGY”的发行记者会。成员泰容在记者会上总结了此次回归，表示专辑中包含了首尔地图和NEO色彩，并传达了想要表达的意义。记者会还回顾了组合出道10年来的变化、世界巡演等话题。",
+    "extracted_at": "2026-08-24T20:40:41.940230+08:00"
   },
   {
     "source_id": "soompi",
@@ -279,7 +476,7 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《我的偏见，我的老板》第5-6集：5个细节暗示李灿与南多凛最终在一起",
+    "title_zh": "《我的偏见，我的老板》第5-6集：5个细节暗示李灿与南多凛的最终结局",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
@@ -288,32 +485,8 @@
       "事实点2：李灿在直播中向南多凛表白心意，并提出进一步发展的建议。",
       "事实点3：文章列举了5个细节，暗示两人最终会在一起。"
     ],
-    "summary_zh": "韩剧《我的偏见，我的老板》第5-6集播出后，剧情走向逐渐明朗。剧中李灿（车宇敏饰）对南多凛（金惠俊饰）做出越来越浪漫的举动，包括在直播中表白心意，并提出进一步发展的建议。文章总结了5个细节，暗示两人最终会在一起。",
-    "extracted_at": "2026-08-24T16:42:41.850411+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "A virtual reality (VR) concert experience featuring K-pop supergroup BTS and other boy bands under its company, HYBE, is coming to Manila in September. More details in the comments section. - facebook.com",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUWh3VTYzaVpXQWZoVFI3aDNRLXZEdFFYaE5rVlVzYnZQSTlqNlRTNXJ4cDlkelppQ25IbXRicW1XSjBzUnVWQnlQZTZ1WFowOUpRdk4xbXlqQmlXOHRnXzZicDhseEZjTkpBR3U4RUh0ZEthdlN1WkZuUEdvY0t6RTVQN3l6cjZGU21HZDJGc210MjFUbmFhU0pYWW1COU9aeXo1RDNLemVxb3lheW9NcUNnUDJteEtpcWN2cDVvVlBfanBkUmgyaGN4X1FUc3JwRHpfWDNjWQ?oc=5",
-    "content": "A virtual reality (VR) concert experience featuring K-pop supergroup BTS and other boy bands under its company, HYBE, is coming to Manila in September. More details in the comments section. facebook.com",
-    "published_at": "0824google-kpop",
-    "published_ts": 1787543069.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "HYBE旗下BTS等男团VR演唱会体验将于9月登陆马尼拉",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：HYBE公司旗下包括BTS在内的多个男团将推出VR演唱会体验。",
-      "事实点2：该VR演唱会体验将于9月在菲律宾马尼拉举行。"
-    ],
-    "summary_zh": "据Facebook消息，HYBE公司旗下包括BTS在内的多个男团将推出VR演唱会体验，该体验将于9月在菲律宾马尼拉举行。更多细节将在评论区公布。",
-    "extracted_at": "2026-08-24T16:42:43.539901+08:00"
+    "summary_zh": "韩剧《我的偏见，我的老板》第5-6集播出后，剧情走向逐渐明朗。剧中，李灿（车宇敏饰）对南多凛（金惠俊饰）做出越来越浪漫的举动，包括在直播中表白心意，并提出进一步发展的建议。文章总结了5个细节，暗示这对主角最终会走到一起。",
+    "extracted_at": "2026-08-24T20:40:44.491492+08:00"
   },
   {
     "source_id": "soompi",
@@ -333,12 +506,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "Netflix综艺《Kian的奇异民宿》第二季公开了团体海报和预告片",
-      "预告片中，金软景、李俊昊、Kazuha对Kian84的想象力表示惊讶",
-      "第一季由Kian84、防弹少年团Jin、池艺恩在郁陵岛运营独特民宿"
+      "Netflix综艺《Kian的奇异民宿》第二季公开了团体海报和预告片。",
+      "预告片中，金软景、李俊昊、Kazuha对Kian84的想象力表示惊讶。",
+      "第一季由Kian84、防弹少年团Jin、池艺恩在郁陵岛运营独特民宿。"
     ],
-    "summary_zh": "Netflix综艺《Kian的奇异民宿》第二季公开了团体海报和预告片。该节目由Kian84与成员们共同运营独特民宿。第一季由Kian84、防弹少年团Jin、池艺恩在郁陵岛运营。第二季预告中，金软景、李俊昊、Kazuha对Kian84的想象力表示惊讶。",
-    "extracted_at": "2026-08-24T16:42:46.203490+08:00"
+    "summary_zh": "Netflix综艺《Kian的奇异民宿》第二季公开了团体海报和预告片。预告片中，金软景、李俊昊、Kazuha对Kian84的想象力表示惊讶。该节目由Kian84与成员们运营独特民宿，第一季由Kian84、防弹少年团Jin、池艺恩在郁陵岛出演。",
+    "extracted_at": "2026-08-24T20:40:46.828654+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -358,11 +531,11 @@
     "risk_level": "中",
     "is_blurred": false,
     "facts_list": [
-      "美国金属乐队Demon Hunter就Netflix使用'KPop Demon Hunters'名称提起诉讼，指控其侵犯商标权。",
-      "诉讼涉及Netflix的某部作品（具体名称未在原文中提及）使用了与乐队名称相似的'KPop Demon Hunters'。"
+      "金属乐队Demon Hunter对Netflix提起诉讼，指控其侵犯'KPop Demon Hunters'商标权。",
+      "诉讼涉及Netflix使用'KPop Demon Hunters'名称，可能与Demon Hunter乐队商标产生混淆。"
     ],
-    "summary_zh": "美国金属乐队Demon Hunter对Netflix提起诉讼，指控其侵犯商标权，因为Netflix使用了'KPop Demon Hunters'这一名称。乐队认为该名称与其注册商标'Demon Hunter'相似，可能导致混淆。诉讼的具体细节和Netflix的回应尚未公布。",
-    "extracted_at": "2026-08-24T16:42:48.452866+08:00"
+    "summary_zh": "金属乐队Demon Hunter已对Netflix提起诉讼，指控Netflix侵犯其'KPop Demon Hunters'商标权。该诉讼源于Netflix在相关项目中使用'KPop Demon Hunters'名称，可能引发与乐队现有商标的混淆。具体细节和索赔金额尚未披露。",
+    "extracted_at": "2026-08-24T20:40:48.818016+08:00"
   },
   {
     "source_id": "soompi",
@@ -377,7 +550,7 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "朴海秀与妻子迎来第二个孩子，母子平安",
+    "title_zh": "朴海秀喜得二胎，妻子顺利产子母子平安",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
@@ -386,8 +559,8 @@
       "事实点2：相关人士补充称，朴海秀目前陪伴在妻子身边，母子均健康。",
       "事实点3：朴海秀与圈外妻子结婚，此次为二胎。"
     ],
-    "summary_zh": "演员朴海秀成为两个孩子的父亲。8月24日，其所属社BH Entertainment相关人士透露，朴海秀的第二个儿子于前一天出生，目前他陪伴在妻子身边，母子均健康。朴海秀与圈外妻子结婚，此次为二胎。",
-    "extracted_at": "2026-08-24T16:42:50.828536+08:00"
+    "summary_zh": "演员朴海秀于8月23日迎来第二个儿子，其所属社BH Entertainment于8月24日确认此消息，并透露朴海秀正陪伴妻子，母子平安。朴海秀与圈外妻子育有二子。",
+    "extracted_at": "2026-08-24T20:40:51.125080+08:00"
   },
   {
     "source_id": "soompi",
@@ -407,11 +580,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：8月23日，tvN《Spooky in Love》播出大结局，全国平均收视率达7.9%，创该剧自身最高收视纪录。",
+      "事实点1：8月23日，tvN《Spooky in Love》播出大结局，全国平均收视率达7.9%，创该剧自身最高纪录。",
       "事实点2：同日，《Love on the Menu》收视率也创下自身新高。"
     ],
-    "summary_zh": "据尼尔森韩国数据，8月23日tvN《Spooky in Love》大结局全国平均收视率为7.9%，创下该剧开播以来的最高纪录。同时，《Love on the Menu》也刷新了自身收视新高。",
-    "extracted_at": "2026-08-24T16:42:53.032892+08:00"
+    "summary_zh": "据尼尔森韩国数据，8月23日tvN《Spooky in Love》大结局全国平均收视率为7.9%，为该剧开播以来最高。同时，《Love on the Menu》也刷新了自身收视纪录。",
+    "extracted_at": "2026-08-24T20:40:53.254988+08:00"
   },
   {
     "source_id": "soompi",
@@ -426,17 +599,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "THE BOYZ成员Juyeon签约ACE FACTORY，兼顾组合活动与演员事业",
+    "title_zh": "THE BOYZ成员柱延签约ACE FACTORY，兼顾组合活动与演员事业",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：4月14日，ACE FACTORY宣布与THE BOYZ成员Juyeon签订专属合约。",
-      "事实点2：ACE FACTORY表示将支持Juyeon的THE BOYZ组合活动，并帮助其拓展演员事业。",
-      "事实点3：Juyeon公开了新的个人资料照片。"
+      "事实点1：4月14日，ACE FACTORY宣布与THE BOYZ成员柱延签订专属合约。",
+      "事实点2：ACE FACTORY表示将支持柱延的THE BOYZ组合活动，并帮助其拓展演员事业。",
+      "事实点3：柱延公开了新的个人资料照片。"
     ],
-    "summary_zh": "4月14日，ACE FACTORY宣布与THE BOYZ成员Juyeon签订专属合约，并表示将支持其组合活动，同时助力其演员事业的发展。Juyeon也公开了新的个人资料照片。",
-    "extracted_at": "2026-08-24T16:42:55.099330+08:00"
+    "summary_zh": "4月14日，ACE FACTORY宣布与THE BOYZ成员柱延签订专属合约，并表示将支持其组合活动，同时助力其演员事业的发展。柱延也公开了新的个人资料照片。",
+    "extracted_at": "2026-08-24T20:40:55.328633+08:00"
   },
   {
     "source_id": "soompi",
@@ -451,17 +624,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Stray Kids《THIS & THAT》成首张连续两周跻身Billboard 200前三专辑",
+    "title_zh": "Stray Kids《THIS & THAT》成首张连续两周跻身Billboard 200前三的专辑",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：Stray Kids的迷你专辑《THIS & THAT》上周在Billboard 200专辑榜首次登顶，位列第1名。",
-      "事实点2：该专辑本周在Billboard 200榜单上仍保持前三名，成为Stray Kids首张连续两周进入前三的专辑。",
-      "事实点3：Stray Kids凭借此专辑与滚石乐队并列，成为拥有Billboard 200冠军专辑数量第二多的组合。"
+      "事实点1：Stray Kids的迷你专辑《THIS & THAT》上周在Billboard 200专辑榜上首次亮相即夺得第1名。",
+      "事实点2：该专辑本周在Billboard 200榜单上连续第二周保持在前三名，成为Stray Kids首张达成此成绩的专辑。",
+      "事实点3：凭借此次第1名，Stray Kids与滚石乐队并列成为拥有第二多冠军专辑的组合。"
     ],
-    "summary_zh": "Stray Kids的迷你专辑《THIS & THAT》在美国Billboard 200专辑榜上表现强劲，上周首次登顶，本周继续稳居前三，成为他们首张连续两周进入该榜单前三的专辑。这一成绩使Stray Kids与滚石乐队并列，成为拥有Billboard 200冠军专辑数量第二多的组合。",
-    "extracted_at": "2026-08-24T16:42:57.733172+08:00"
+    "summary_zh": "Stray Kids的迷你专辑《THIS & THAT》在美国Billboard 200专辑榜上表现强劲，上周空降冠军，本周继续稳居前三，成为该组合首张连续两周跻身Top 3的专辑。这一成绩也使他们与滚石乐队并列，成为拥有第二多冠军专辑的组合。",
+    "extracted_at": "2026-08-24T20:40:58.134308+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -476,16 +649,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Bastet EDM以未来贝斯风格翻玩K-Pop恶魔猎人《Free》",
+    "title_zh": "Bastet EDM以未来贝斯风格重新演绎K-Pop恶魔猎人《Free》",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "Bastet EDM对K-Pop组合恶魔猎人的歌曲《Free》进行了未来贝斯风格的混音或翻唱。",
-      "该报道由The National Law Review发布。"
+      "Bastet EDM对K-Pop组合恶魔猎人的歌曲《Free》进行了未来贝斯风格的混音。",
+      "该混音版本由The National Law Review报道。"
     ],
-    "summary_zh": "据The National Law Review报道，Bastet EDM对K-Pop组合恶魔猎人的歌曲《Free》进行了未来贝斯风格的重新演绎。报道未提供更多细节，如发行时间、平台或具体反响。",
-    "extracted_at": "2026-08-24T16:42:59.643928+08:00"
+    "summary_zh": "据The National Law Review报道，Bastet EDM对K-Pop组合恶魔猎人的歌曲《Free》进行了未来贝斯风格的混音。该混音版本为原曲注入了新的电子音乐元素，展现了Bastet EDM的独特风格。",
+    "extracted_at": "2026-08-24T20:41:00.088289+08:00"
   },
   {
     "source_id": "soompi",
@@ -500,17 +673,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "KATSEYE新EP《WILD》空降Billboard 200冠军，创组合历史纪录",
+    "title_zh": "KATSEYE新EP《WILD》登顶Billboard 200，创组合历史纪录",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：8月23日（当地时间），Billboard宣布KATSEYE的EP《WILD》在Billboard 200专辑榜上首次夺冠。",
-      "事实点2：这是KATSEYE首张登顶该榜的专辑。",
-      "事实点3：据Luminate（前Nielsen Music）数据，《WILD》在Billboard 200上共获得（具体数字未在原文中提及）。"
+      "事实点1：8月23日（当地时间），Billboard宣布KATSEYE的新EP《WILD》在Billboard 200专辑榜上首次夺冠。",
+      "事实点2：这是KATSEYE首张登上该榜榜首的专辑。",
+      "事实点3：据Luminate（前Nielsen Music）数据，《WILD》在该榜获得了总计（具体数字未在原文中提及）。"
     ],
-    "summary_zh": "8月23日，Billboard宣布KATSEYE的新EP《WILD》在Billboard 200专辑榜上首次登顶，成为该组合首张冠军专辑。据Luminate数据，《WILD》在榜单上获得了（具体数字未提及）。",
-    "extracted_at": "2026-08-24T16:43:02.333388+08:00"
+    "summary_zh": "8月23日，Billboard宣布KATSEYE的新EP《WILD》在Billboard 200专辑榜上首次登顶，成为该组合首张冠军专辑。据Luminate数据，《WILD》在该榜获得了总计（具体数字未在原文中提及）。",
+    "extracted_at": "2026-08-24T20:41:02.470750+08:00"
   },
   {
     "source_id": "soompi",
@@ -531,10 +704,10 @@
     "is_blurred": false,
     "facts_list": [
       "事实点1：4月23日，Gunji通过Instagram宣布将于今年十月结婚。",
-      "事实点2：Gunji分享了与未婚夫的合照，并留言：“大家好，我是Gunji。今年十月，我将成为新娘。”"
+      "事实点2：Gunji分享了与未婚夫的合照，并留言表示自己将成为新娘。"
     ],
-    "summary_zh": "Gavy NJ前成员Gunji于4月23日在Instagram上宣布，她计划在今年十月结婚。她分享了与未婚夫的甜蜜合照，并留言表示：“大家好，我是Gunji。今年十月，我将成为新娘。”",
-    "extracted_at": "2026-08-24T16:43:04.273728+08:00"
+    "summary_zh": "Gavy NJ前成员Gunji于4月23日在Instagram上宣布，她计划在今年十月结婚。她分享了与未婚夫的甜蜜合照，并留言说：“大家好，我是Gunji。今年十月，我将成为新娘。”",
+    "extracted_at": "2026-08-24T20:41:04.626960+08:00"
   },
   {
     "source_id": "soompi",
@@ -549,16 +722,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《杀人者的购物中心2》与《幽灵恋爱》登顶话题性剧集及演员榜",
+    "title_zh": "《杀人者的购物中心2》与《Spooky in Love》登顶话题剧集及演员榜",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：Disney+《杀人者的购物中心2》连续第三周位居Good Data Corporation话题性剧集榜单第1名",
-      "事实点2：《幽灵恋爱》在话题性剧集及演员排名中占据领先位置"
+      "迪士尼+《杀人者的购物中心2》连续第三周位居Good Data Corporation话题剧集榜第一",
+      "《Spooky in Love》在话题剧集榜及演员榜中占据领先位置"
     ],
-    "summary_zh": "本周话题性剧集及演员排名中，《杀人者的购物中心2》和《幽灵恋爱》占据榜首。据Good Data Corporation数据，Disney+的《杀人者的购物中心2》连续第三周蝉联话题性剧集榜单第1名，而《幽灵恋爱》也在剧集和演员排名中表现突出。",
-    "extracted_at": "2026-08-24T16:43:06.541472+08:00"
+    "summary_zh": "本周话题剧集及演员排行榜中，《杀人者的购物中心2》和《Spooky in Love》占据主导地位。迪士尼+的《杀人者的购物中心2》连续第三周在Good Data Corporation的每周话题剧集榜上保持第一。《Spooky in Love》也在该榜单及演员榜中表现突出。",
+    "extracted_at": "2026-08-24T20:41:06.720012+08:00"
   },
   {
     "source_id": "soompi",
@@ -573,17 +746,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "权恩妃签约RBW后首回归，新单曲《DEJAVU》预告照公开",
+    "title_zh": "权恩妃签约RBW后首回归，公开新单曲《DEJAVU》首批预告照",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：8月23日，权恩妃公开了首张预告照，为其即将发行的数字单曲专辑《DEJAVU》预热。",
+      "事实点1：8月23日，权恩妃公开了即将发行的数字单曲专辑《DEJAVU》的首批预告照。",
       "事实点2：此次回归是权恩妃签约RBW后的首次回归。",
-      "事实点3：《DEJAVU》将于9月3日下午6点（韩国时间）发行。"
+      "事实点3：新单曲《DEJAVU》将于9月3日下午6点（韩国时间）发行。"
     ],
-    "summary_zh": "权恩妃于8月23日公开了新单曲《DEJAVU》的首张预告照，这是她签约RBW后的首次回归。该数字单曲专辑预计于9月3日下午6点（韩国时间）发行。",
-    "extracted_at": "2026-08-24T16:43:08.766955+08:00"
+    "summary_zh": "权恩妃于8月23日公开了新单曲《DEJAVU》的首批预告照，这是她签约RBW后的首次回归。该数字单曲专辑预计于9月3日下午6点（韩国时间）发行。",
+    "extracted_at": "2026-08-24T20:41:08.870967+08:00"
   },
   {
     "source_id": "soompi",
@@ -603,13 +776,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：截至8月22日当周，Stray Kids新迷你专辑《THIS & THAT》在公告牌世界专辑榜上排名第1。",
-      "事实点2：Stray Kids的《THIS & THAT》同时以历史性成绩进入公告牌200强专辑榜第1名。",
-      "事实点3：Stray Kids共在5个公告牌榜单上排名第1。",
-      "事实点4：CORTIS、ATEEZ、BTS、LE SSERAFIM、Yeonjun、aespa、ILLIT等艺人也在该周世界专辑榜上占据高位。"
+      "Stray Kids的迷你专辑《THIS & THAT》在8月22日截止的公告牌世界专辑榜中空降第1名，并历史性进入公告牌200强专辑榜第1名。",
+      "Stray Kids共占据5个榜单冠军位置。",
+      "其他上榜艺人包括CORTIS、ATEEZ、BTS、LE SSERAFIM、Yeonjun、aespa、ILLIT等。"
     ],
-    "summary_zh": "公告牌发布了截至8月22日当周的世界专辑榜。Stray Kids的新迷你专辑《THIS & THAT》在该周世界专辑榜上排名第1，并历史性地进入公告牌200强专辑榜第1名。总体而言，Stray Kids共在5个公告牌榜单上夺冠。此外，CORTIS、ATEEZ、BTS、LE SSERAFIM、Yeonjun、aespa、ILLIT等艺人也在该周世界专辑榜上占据高位。",
-    "extracted_at": "2026-08-24T16:43:11.687590+08:00"
+    "summary_zh": "据Soompi报道，公告牌发布了截至8月22日的世界专辑榜。Stray Kids的新迷你专辑《THIS & THAT》在该周世界专辑榜中空降第1名，并历史性进入公告牌200强专辑榜第1名。Stray Kids共占据5个榜单冠军位置。此外，CORTIS、ATEEZ、BTS、LE SSERAFIM、Yeonjun、aespa、ILLIT等艺人也占据了榜单高位。",
+    "extracted_at": "2026-08-24T20:41:11.486854+08:00"
   },
   {
     "source_id": "asianwiki",
