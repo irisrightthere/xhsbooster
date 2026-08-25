@@ -7,7 +7,7 @@
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTFJ1WGhjdG80bzByMFlfOGQtd3QzVlVCdGY5OFVteU41cE9LN2Y5dGh5cm1xcnBfeDB3NmxXUFBleWRtaUFwcGxieTE3VE8xdUlTTTQtQ3VTdTVkdzdtbU1DeWZFNWJDejZaNGx2Tm1xNktNX1lZai11dWxDTXVxb0ZKcHdJeXJwMF8tUzZiUlhtUQ?oc=5",
     "content": "ALL'N Is K-Pop Up & Comer of the Month (August): Exclusive Photos Billboard",
     "published_at": "0825google-kpop",
-    "published_ts": 1787616085.0,
+    "published_ts": 1787632286.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
@@ -17,11 +17,179 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：ALL'N被Billboard评为八月K-Pop新星（Up & Comer of the Month）",
+      "事实点1：Billboard评选ALL'N为八月K-Pop新星（Up & Comer of the Month）",
       "事实点2：Billboard公开了ALL'N的独家照片"
     ],
-    "summary_zh": "据Billboard报道，韩国组合ALL'N被选为八月K-Pop新星（Up & Comer of the Month），并公开了独家照片。该荣誉旨在表彰当月值得关注的K-Pop新人，ALL'N凭借其潜力获得认可。",
-    "extracted_at": "2026-08-25T09:00:49.664917+08:00"
+    "summary_zh": "据Billboard报道，组合ALL'N被选为八月K-Pop新星（Up & Comer of the Month），并公开了独家照片。该评选旨在关注K-pop领域的新兴力量，ALL'N凭借其潜力获得认可。",
+    "extracted_at": "2026-08-25T12:34:08.275569+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Watch Could Robots Be K-pop's Next Stars? - Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPa0dYWlp2OGJ6Ty11R24weW4zOU1ndDRmVXR3d21JZ3lsQnotbk5ycGhKWmM2RkZQZ1Q0ZDM5bVV4Nm9DV0NJOFQwMHE4TmxSOThqbWpFV2FXblhxbjljeS1LVHZHMklxTkZzRGV3UzROb04xaFk1V0hvMmlOSGN0aWFLQ04tYlhhWVZWQ3pfZlpzWGc?oc=5",
+    "content": "Watch Could Robots Be K-pop's Next Stars? Bloomberg",
+    "published_at": "0825google-kpop",
+    "published_ts": 1787629659.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "机器人能否成为K-pop下一代明星？彭博社报道",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "事实点1：彭博社发布视频报道，探讨机器人成为K-pop明星的可能性"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：彭博社发布视频报道，探讨机器人能否成为K-pop下一代明星。]",
+    "extracted_at": "2026-08-25T12:34:09.808689+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Watch How Korea's $10 Billion K-Pop Industry Is Turning to AI - Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ3BLZlRXV1ZuemFLOVd0V2hhcmMwbkZNd29GbERIZjdya3I1NVRLbEEzcW1XZGprQUstaHlqU195UDE3UGRiZHc1d21DdXRuY0QyakUwQlZmcm96dTZVb0pBMVNTLWJ0aU5zX01CMVppeGdmWGZMakxGRUQxTmVFR2VKVnd4cWV6dTMyOEZVQ3VxS3M3eERyR1BkMEs2cjlvY054cVdPY2VMeUh6clE?oc=5",
+    "content": "Watch How Korea's $10 Billion K-Pop Industry Is Turning to AI Bloomberg",
+    "published_at": "0825google-kpop",
+    "published_ts": 1787628358.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "彭博：韩国百亿美元K-Pop产业转向AI",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：彭博发布报道，聚焦韩国K-Pop产业规模达100亿美元",
+      "事实点2：报道指出该产业正转向人工智能技术"
+    ],
+    "summary_zh": "彭博发布报道，聚焦韩国K-Pop产业，其规模达100亿美元，并指出该产业正转向人工智能技术。报道未提及具体案例或数据，仅概述产业趋势。",
+    "extracted_at": "2026-08-25T12:34:11.910910+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "“New Recruit 4” Joins Ratings Race As “My Bias, My Boss” Kicks Off Second Half Of Its Run",
+    "url": "https://www.soompi.com/article/1865466wpp/new-recruit-4-joins-ratings-race-as-my-bias-my-boss-kicks-off-second-half-of-its-run",
+    "content": "The highly-anticipated new season of ENA&#8217;s popular military drama &#8220;New Recruit&#8221; has premiered! According to Nielsen Korea, the premiere episode of &#8220;New Recruit 4&#8221; garnered an average nationwide viewership rating of 2.8 percent. Based on the hit animation of the same name, “New Recruit” is a black comedy drama that explores the lives of young&#8230; Continue reading &#8220;New Recruit 4&#8221; Joins Ratings Race As &#8220;My Bias, My Boss&#8221; Kicks Off Second Half Of Its Run\nThe post &#8220;New Recruit 4&#8221; Joins Ratings Race As &#8220;My Bias, My Boss&#8221; Kicks Off Second Half Of Its Run appeared first on Soompi.",
+    "published_at": "0825soompi",
+    "published_ts": 1787627659.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《新兵4》首播收视2.8% 《我的偏见，我的老板》进入下半程",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "ENA热门军事剧《新兵4》首播，据尼尔森韩国数据，全国平均收视率为2.8%",
+      "《新兵》改编自同名热门动画，是一部黑色喜剧，讲述年轻人的生活",
+      "《我的偏见，我的老板》开始播出下半部分"
+    ],
+    "summary_zh": "ENA热门军事剧《新兵4》已首播，据尼尔森韩国数据，首集全国平均收视率为2.8%。该剧改编自同名热门动画，是一部黑色喜剧，探讨年轻人的生活。同时，《我的偏见，我的老板》也开始了其下半部分的播出。",
+    "extracted_at": "2026-08-25T12:34:13.943649+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Song Kang And Kim So Hyun Confirmed To Reunite In New Romance Drama",
+    "url": "https://www.soompi.com/article/1865450wpp/song-kang-and-kim-so-hyun-confirmed-to-reunite-in-new-romance-drama",
+    "content": "Song Kang and Kim So Hyun will be reuniting in the upcoming drama “White Scandal” (literal title)! On August 25, MBC officially announced, “We have confirmed the casting of Song Kang and Kim So Hyun.” Based on a webtoon, “White Scandal” follows Dan Yi Hyuk (Song Kang), a third-generation chaebol heir and actor who does&#8230; Continue reading Song Kang And Kim So Hyun Confirmed To Reunite In New Romance Drama\nThe post Song Kang And Kim So Hyun Confirmed To Reunite In New Romance Drama appeared first on Soompi.",
+    "published_at": "0825soompi",
+    "published_ts": 1787623398.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "宋江与金所泫确认出演新剧《白色丑闻》再合作",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：8月25日，MBC官方宣布确认宋江和金所泫的选角。",
+      "事实点2：新剧《白色丑闻》（暂译）改编自网络漫画，宋江饰演第三代财阀继承人兼演员丹伊赫。"
+    ],
+    "summary_zh": "据Soompi报道，宋江和金所泫将合作出演MBC新剧《白色丑闻》（暂译）。8月25日，MBC官方宣布确认两人的选角。该剧改编自网络漫画，宋江饰演第三代财阀继承人兼演员丹伊赫。",
+    "extracted_at": "2026-08-25T12:34:16.337052+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Seoyeon of new K-pop group TUIDE shared advice from her sister, Jihyo of TWICE, as she begins her journey as an idol. - facebook.com",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMnJ3OWhnVWhFRzFVVTcxVVRyMWNPNWdYbjhVblRFU3E1MU43U0lXbkRMbWV1ajZWdGpzQVVEbmdGS05mM3pkVGdXT0hmb3RrbGVyWEI5VHllakluTk84b0tqUmd1NXUzcVdhek40NTgzSjVrZ1paTGhtMnFVbTdFR2l4N3lMX3E5N0I4WkZCMDBUN3lPU20tYUYxV2tXd0EybEE5Zy1mTmtfMXhHUmVVSUY3TFk0THI2XzBvbG1jMlpZY3BTSHlrM0R2b2tvZDBFQi02c1Vwcw?oc=5",
+    "content": "Seoyeon of new K-pop group TUIDE shared advice from her sister, Jihyo of TWICE, as she begins her journey as an idol. facebook.com",
+    "published_at": "0825google-kpop",
+    "published_ts": 1787620253.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "新女团TUIDE成员Seoyeon透露姐姐TWICE志效的出道建议",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：新K-pop女团TUIDE成员Seoyeon分享了来自姐姐TWICE成员志效的建议。",
+      "事实点2：Seoyeon即将开始偶像生涯，该建议是在此背景下分享的。"
+    ],
+    "summary_zh": "新K-pop女团TUIDE成员Seoyeon在开始偶像生涯之际，分享了来自姐姐TWICE成员志效的建议。该消息通过facebook.com发布，但未透露建议的具体内容。",
+    "extracted_at": "2026-08-25T12:34:18.315609+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Demon Hunter Sue Netflix Over KPop Demon Hunters Trademark Confusion - Ghost Cult Magazine",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS1pmSXlsdmhBZV9xUTd5bFhLdHBJSlR5RkVXbkZvUUo0M1JEaHdURVRJMHFNd1ZUM3JKZ3VDUDNVcjJiWjNodm40VjMxZUtfYkp0WXRXanhCRm1FSU5FeG1RRFluMnVFLUQ5OGV3RHVyWk1POHZlMzRhSS10RWJGN1dvdFJ5Rm5kSXdKbjFXMWowcXRoMWZz?oc=5",
+    "content": "Demon Hunter Sue Netflix Over KPop Demon Hunters Trademark Confusion Ghost Cult Magazine",
+    "published_at": "0825google-kpop",
+    "published_ts": 1787619845.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "美国乐队Demon Hunter起诉Netflix，指控K-pop组合名称侵权",
+    "source_type": "韩娱",
+    "risk_level": "中",
+    "is_blurred": false,
+    "facts_list": [
+      "美国金属核乐队Demon Hunter对Netflix提起诉讼，指控其旗下K-pop组合名称“Demon Hunters”侵犯其商标权。",
+      "诉讼涉及商标混淆问题，具体细节待披露。"
+    ],
+    "summary_zh": "美国乐队Demon Hunter就Netflix旗下K-pop组合名称“Demon Hunters”提起商标侵权诉讼，称该名称与其乐队名相似，可能导致混淆。目前诉讼细节尚未完全公开。",
+    "extracted_at": "2026-08-25T12:34:20.637002+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "‘KPop Demon Hunters’ Criterion Collection Release Moved Up And Cover Art Revealed - Forbes",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeEhCM3hubFp3bnVzN1Y5NENQWTkxZlVzVTlzLVNmNE5US0xFb1JyeXRQQnNZdG9DMjlWMHZNYmtUQnR5dFVWb0FXd0ttS3hhWWJoemNkN2ZudlBtdWZjdF9Yc2k4RkdLU19wdkhHWUpYdDBNMUI4MHRqY3hjVjF1eDFSbUU0TVJnTGVMTkstX1pSaVRHLVNOS1gtTUFhQ1VjZXA5MHVZQjhXVzFjZ2V1RnplRVdZbHlJb3dVVmJScFN1ZTVFcjM2T29qRQ?oc=5",
+    "content": "‘KPop Demon Hunters’ Criterion Collection Release Moved Up And Cover Art Revealed Forbes",
+    "published_at": "0825google-kpop",
+    "published_ts": 1787618249.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《KPop Demon Hunters》标准收藏版提前发行，封面艺术公开",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：标准收藏（Criterion Collection）宣布将《KPop Demon Hunters》的发行日期提前。",
+      "事实点2：标准收藏公开了该片的封面艺术设计。"
+    ],
+    "summary_zh": "据Forbes报道，标准收藏（Criterion Collection）已将《KPop Demon Hunters》的发行日期提前，并公布了其封面艺术。该片涉及K-pop题材，具体发行细节及封面设计内容未在原文中详述。",
+    "extracted_at": "2026-08-25T12:34:22.746822+08:00"
   },
   {
     "source_id": "soompi",
@@ -36,16 +204,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "张东润宣布十月与金承允结婚，手写信公开喜讯",
+    "title_zh": "张东润手写信宣布10月与金承允结婚",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：8月25日，张东润在Instagram发布手写信，亲自宣布将于今年十月结婚。",
+      "事实点1：8月25日，张东润在Instagram发布手写信，亲自宣布将于今年10月结婚。",
       "事实点2：据Newsen报道，结婚对象为演员金承允，她曾出演《绿豆传》。"
     ],
-    "summary_zh": "演员张东润于8月25日在Instagram发布手写信，亲自宣布将于今年十月结婚。据Newsen报道，结婚对象为演员金承允，她曾出演《绿豆传》。",
-    "extracted_at": "2026-08-25T09:00:52.462900+08:00"
+    "summary_zh": "演员张东润于8月25日在Instagram发布手写信，亲自宣布将于今年10月结婚。据Newsen报道，结婚对象为演员金承允，她曾出演《绿豆传》。",
+    "extracted_at": "2026-08-25T12:34:24.597922+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -65,35 +233,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：HYBE推出新女团TUIDE",
-      "事实点2：Teen Vogue独家报道该团体"
+      "事实点1：Teen Vogue发布独家报道，介绍HYBE旗下新女团TUIDE。",
+      "事实点2：TUIDE为HYBE最新推出的女子组合。"
     ],
-    "summary_zh": "据Teen Vogue独家报道，HYBE推出新女团TUIDE。该报道介绍了团体的基本信息，但具体成员、出道日期等细节未在原文中提及。",
-    "extracted_at": "2026-08-25T09:00:55.587471+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "‘KPop Demon Hunters’ Criterion Collection Release Moved Up And Cover Art Revealed - Forbes",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeEhCM3hubFp3bnVzN1Y5NENQWTkxZlVzVTlzLVNmNE5US0xFb1JyeXRQQnNZdG9DMjlWMHZNYmtUQnR5dFVWb0FXd0ttS3hhWWJoemNkN2ZudlBtdWZjdF9Yc2k4RkdLU19wdkhHWUpYdDBNMUI4MHRqY3hjVjF1eDFSbUU0TVJnTGVMTkstX1pSaVRHLVNOS1gtTUFhQ1VjZXA5MHVZQjhXVzFjZ2V1RnplRVdZbHlJb3dVVmJScFN1ZTVFcjM2T29qRQ?oc=5",
-    "content": "‘KPop Demon Hunters’ Criterion Collection Release Moved Up And Cover Art Revealed Forbes",
-    "published_at": "0825google-kpop",
-    "published_ts": 1787611902.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "《KPop Demon Hunters》标准收藏版提前发行，封面艺术公开",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：标准收藏（Criterion Collection）宣布将《KPop Demon Hunters》的发行日期提前。",
-      "事实点2：标准收藏公开了该片的封面艺术设计。"
-    ],
-    "summary_zh": "据Forbes报道，标准收藏（Criterion Collection）已将《KPop Demon Hunters》的发行日期提前，并公布了其封面艺术。该片与K-pop相关，具体发行细节及封面设计内容未在原文中详述。",
-    "extracted_at": "2026-08-25T09:00:58.386978+08:00"
+    "summary_zh": "Teen Vogue独家报道，向读者介绍HYBE旗下最新女子组合TUIDE。报道内容聚焦于组合的成员构成、出道背景及未来计划，但原文未提供具体成员名单、出道日期或音乐作品等详细信息。",
+    "extracted_at": "2026-08-25T12:34:26.448506+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -113,11 +257,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：年度C4Con活动将于9月12日举行",
-      "事实点2：活动主题涵盖漫威、马里奥、宝可梦和K-Pop"
+      "事实点1：年度C4Con活动将于9月12日举行。",
+      "事实点2：活动涵盖漫威、马里奥、宝可梦和K-Pop等主题。"
     ],
-    "summary_zh": "年度C4Con活动将于9月12日举行，活动内容涵盖漫威、马里奥、宝可梦和K-Pop等多元主题。该活动旨在汇聚不同流行文化爱好者，提供丰富的娱乐体验。",
-    "extracted_at": "2026-08-25T09:01:01.250902+08:00"
+    "summary_zh": "据chronicleonline.com报道，年度C4Con活动将于9月12日举行，活动内容涵盖漫威、马里奥、宝可梦和K-Pop等流行文化主题。",
+    "extracted_at": "2026-08-25T12:34:28.202155+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -137,11 +281,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "MCPS（蒙哥马利县公立学校）发布新年混音音乐视频",
+      "MCPS（蒙哥马利县公立学校）制作新年混音音乐视频",
       "视频融合了Macklemore、音乐剧《悲惨世界》和K-pop元素"
     ],
-    "summary_zh": "MCPS（蒙哥马利县公立学校）为迎接新年，发布了一支混音音乐视频，其中融合了Macklemore的歌曲、音乐剧《悲惨世界》的选段以及K-pop元素，旨在以充满活力的方式鼓舞士气。",
-    "extracted_at": "2026-08-25T09:01:04.217803+08:00"
+    "summary_zh": "据Bethesda Magazine报道，MCPS（蒙哥马利县公立学校）为迎接新年，制作了一支混音音乐视频，其中融合了Macklemore的歌曲、音乐剧《悲惨世界》的选段以及K-pop元素。该视频旨在以音乐形式传递新年活力，但具体细节未在原文中详述。",
+    "extracted_at": "2026-08-25T12:34:30.341882+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -156,39 +300,15 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Grace Kao专栏：语言连接市长与K-pop",
+    "title_zh": "Grace Kao：语言连接市长与K-pop",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "事实点1：原文为韩国先驱报（The Korea Herald）刊登的Grace Kao专栏文章，标题为'Language links mayor, K-pop'。"
+      "事实点1：原文为专栏文章，作者Grace Kao，发表于The Korea Herald，主题为语言与K-pop的联系。"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：Grace Kao在韩国先驱报发表专栏，探讨语言如何将市长与K-pop联系起来。]",
-    "extracted_at": "2026-08-25T09:01:07.104222+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Breaking Down the Ending of Spooky in Love - Time Magazine",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSXZvY29Yd3pKSWtXanhtTHJSSW5Dc0NIbTNqdGhZYmtwOG9DOUpkZU0ycWlEUTZXLVVFYlVHVFl2bFgycFI0NFlVdUF0MjgzSkxDVGMxNUljbnptXzAzTTE5UGdYeXJnQURYaGRHQU1vdHdROGpB?oc=5",
-    "content": "Breaking Down the Ending of Spooky in Love Time Magazine",
-    "published_at": "0825google-kpop",
-    "published_ts": 1787597312.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "《Spooky in Love》结局解析：Time Magazine深度解读",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：Time Magazine发布文章，标题为《Breaking Down the Ending of Spooky in Love》",
-      "事实点2：文章内容为对《Spooky in Love》结局的解析"
-    ],
-    "summary_zh": "Time Magazine发布了一篇题为《Breaking Down the Ending of Spooky in Love》的文章，对《Spooky in Love》的结局进行了深度解析。文章详细探讨了该剧结局的剧情走向、角色命运及主题意义，为观众提供了更深入的理解。",
-    "extracted_at": "2026-08-25T09:01:29.023779+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：Grace Kao在The Korea Herald发表专栏，探讨语言如何连接市长与K-pop。]",
+    "extracted_at": "2026-08-25T12:34:31.934828+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -206,13 +326,12 @@
     "title_zh": "KCON将K-pop打造为全球文化门户",
     "source_type": "韩娱",
     "risk_level": "低",
-    "is_blurred": false,
+    "is_blurred": true,
     "facts_list": [
-      "事实点1：KCON作为K-pop活动，被定位为全球文化门户。",
-      "事实点2：该报道由Annenberg Media发布。"
+      "事实点1：KCON被描述为将K-pop转变为全球文化门户的活动。"
     ],
-    "summary_zh": "据Annenberg Media报道，KCON将K-pop转变为全球文化门户。该活动不仅展示音乐，还促进文化交流，使K-pop成为连接全球粉丝的桥梁。",
-    "extracted_at": "2026-08-25T09:01:31.286137+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：KCON将K-pop转变为全球文化门户。]",
+    "extracted_at": "2026-08-25T12:34:33.531696+08:00"
   },
   {
     "source_id": "asianwiki",
