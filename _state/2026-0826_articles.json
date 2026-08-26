@@ -3,27 +3,220 @@
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "5 things to do at this weekend’s K-pop convention in St. Paul - Bring Me The News",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOGxYU3dzeEFLS3huWTJpc0lDb0JxckJ6Q3RXRUFDTkVtM1Jjc1ozZHlIVDJmdmNRMktYVENHcGJLSEV1ajFacDdzeS1WY1BBMjVZOVBKbjlXY1pNdDZrU3h0Ukd4Y0pnZExUb19NZGtnVGYtcndwTjFEVTlZbkl4QVE1WmlUcWdmSHZKMU4wUDdLb3lpcmJ5X2R2WWwzT3BBUVRWSzVSLTRYUQ?oc=5",
-    "content": "5 things to do at this weekend’s K-pop convention in St. Paul Bring Me The News",
+    "title": "A former K-pop idol wanted a union. Nobody came forward - Asia News Network",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbjFpbG52RGliRkNDcVVkYXJfZGJCRXp6SURTMUM2c3JEc2xwT1VJNkF3NHVxYXJwMkl6dEtLTm5NWDNvZkxuTlhGYUhfNFZuUmx4aTF4MUd1LUxFV3ozVWhuaTJpU1dLTVFGWHFiWm9RM0FSNGJuMDBtbjhNb05haFhEa3EtM0U?oc=5",
+    "content": "A former K-pop idol wanted a union. Nobody came forward Asia News Network",
     "published_at": "0826google-kpop",
-    "published_ts": 1787702940.0,
+    "published_ts": 1787714583.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "圣保罗K-pop大会本周末开幕：五大亮点活动推荐",
+    "title_zh": "前K-pop偶像欲成立工会，无人响应",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "时间：本周末",
-      "地点：美国明尼苏达州圣保罗",
-      "事件：举办K-pop大会",
-      "内容：推荐五大活动"
+      "事实点1：一位前K-pop偶像曾希望成立工会，但无人前来响应。"
     ],
-    "summary_zh": "本周末，美国明尼苏达州圣保罗将举办K-pop大会，活动内容丰富，包括五大亮点活动，具体细节未在原文中详述。",
-    "extracted_at": "2026-08-26T09:02:29.791917+08:00"
+    "summary_zh": "据亚洲新闻网络报道，一位前K-pop偶像曾试图成立工会，但最终无人响应。该报道未提及具体人物、时间、地点及更多细节。",
+    "extracted_at": "2026-08-26T12:35:19.071446+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "A K-Pop star toad? Jinro taps Korean wave in limited-edition soju - FoodNavigator.com",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVG9ZOW1zcEVwTTdFaXRoOWFsLTNKZTNMaXJ4TmxTMVgxY005cE1BOEZEN3JzVUpLOVJILTNYVUJBR2JaWTZ2cnBfVm81MS1ubWxNcXNyMW5lNkhkejVkWDktZk1tTUpXMzlTMzVxcXhmTFc0SVZyQUI3ZjRYem85WDRteUJobWl2WHJEV3pyYTBSUzM4N0otOThMSlNRWEdwTXlWTU5XcGlrLVBXQTVoQlpkT2E?oc=5",
+    "content": "A K-Pop star toad? Jinro taps Korean wave in limited-edition soju FoodNavigator.com",
+    "published_at": "0826google-kpop",
+    "published_ts": 1787714281.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "真露推出限量版烧酒，借力韩流文化营销",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：真露（Jinro）推出限量版烧酒，以韩流（K-pop）为主题进行营销。",
+      "事实点2：该产品由FoodNavigator.com报道，具体细节未提及。"
+    ],
+    "summary_zh": "据FoodNavigator.com报道，韩国烧酒品牌真露（Jinro）推出了一款限量版烧酒，旨在借助韩流（K-pop）文化的影响力进行市场推广。报道标题以“K-pop明星蟾蜍？”为噱头，暗示产品包装或概念可能与韩流明星或相关元素有关，但具体设计、合作对象及上市地区等细节未在原文中提及。",
+    "extracted_at": "2026-08-26T12:35:21.477136+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "[INTERVIEW] Stray Kids' music chart milestone points to system, not luck, scholar says - The Korea Times",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSUJ0ZzNxN1ZNV0Z3a2pwSmpncUdmNkhNZWgwTFdVZjUzSWg5SkYzNmJ4Z1piWTNjY2hoVDJoV3ByTjRxY1ZKTkE2SFJKalcydG1XREFmQVYzVU5FU2NVbUJndG1QUU5vRVpJaXBYMVZIS2w2MEtTenVUd3NfN0Z4Z1R3QXlPcjBhdTFIMTBqaDVqMElRdmJhMDJGRUE2M2lad3JyUHJyWEY0OFlMdklOd0x5ZTZpZXFoYVJibWh6SW81cHlMc2xCdNIBzgFBVV95cUxNcXVFdnZrWkxSam9KTGhwNkFSRTZadXE2alUxZ2h4dmpocl9GLXZrZ1NqRE9TOElacG9DekNhb1dMQkYzOVJqOVl3YmpmUzhIeUt3RTdUWkJJUTQ5LWxFdUdSdHMyalA5a0xLNmp6NVNVYThKeDY4QkVFTElSbkxmV2NyWjBOMHRCeFRvejlJbXlMMnhzV01hV1dDa2JOaG0zUXlDdnEtb0lKc3VJS19SeVg3djlCc3g0Z1R4UXlHU1drMGxLLWhHeWIwV0RVQQ?oc=5",
+    "content": "[INTERVIEW] Stray Kids' music chart milestone points to system, not luck, scholar says The Korea Times",
+    "published_at": "0826google-kpop",
+    "published_ts": 1787713209.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "学者访谈：Stray Kids音乐榜单里程碑归功于体系而非运气",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：韩国时报发布学者访谈，讨论Stray Kids在音乐榜单上的里程碑成就。",
+      "事实点2：学者认为该成就归功于体系而非运气。"
+    ],
+    "summary_zh": "韩国时报发布了一篇对学者的访谈，学者指出Stray Kids在音乐榜单上的里程碑成就并非靠运气，而是得益于体系。该访谈探讨了Stray Kids的成功因素，强调系统性支持的重要性。",
+    "extracted_at": "2026-08-26T12:35:23.376163+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Disney’s Lavish K-Drama ‘The Remarried Empress’ Sets Busan Premiere Ahead of November Streaming Launch - The Hollywood Reporter",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWW9XYldhTzVPYmR4ZWloU1hNTTNoTmNVSnFVdm9TM3R0TE1maWNaU2pZcVFXMmJyV0xfcEFJNVd4UUZzWUZtYkFCZ0hlQ0tVYVlCVThoVUVxTUNudjdYXzFyWGhnR2hiM3NTWW8tS3dobFdLc2tBQ1psT0RIM2VOVUtFRTFpdEk1eDFGVWV1WFU3WUNaUTJLWllPb0x4bWZDM1N0U3lYYnZmU3h4UTFZUU5rRWVFWGx1NWptbWt6MUx4aWswMzhBWHVnb0d2Rjg?oc=5",
+    "content": "Disney’s Lavish K-Drama ‘The Remarried Empress’ Sets Busan Premiere Ahead of November Streaming Launch The Hollywood Reporter",
+    "published_at": "0826google-kpop",
+    "published_ts": 1787713087.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Disney韩剧《再婚皇后》定档釜山首映，11月上线流媒体",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：Disney出品的韩剧《The Remarried Empress》（暂译：再婚皇后）确定在釜山举行首映礼。",
+      "事实点2：该剧将于11月在流媒体平台上线。"
+    ],
+    "summary_zh": "据好莱坞报道者消息，Disney出品的韩剧《The Remarried Empress》（暂译：再婚皇后）确定在釜山举行首映礼，并计划于11月在流媒体平台上线。该剧被描述为一部制作精良的韩剧，但具体首映日期和上线日期未在原文中明确提及。",
+    "extracted_at": "2026-08-26T12:35:25.349464+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: “Love In The Moonlight” Stars Park Bo Gum, Kim You Jung, Jin Young, Chae Soo Bin, And Kwak Dong Yeon Showcase Unchanging Friendship In Variety Show Teaser",
+    "url": "https://www.soompi.com/article/1865739wpp/watch-love-in-the-moonlight-stars-park-bo-gum-kim-you-jung-jin-young-chae-soo-bin-and-kwak-dong-yeon-showcase-unchanging-friendship-in-variety-show-teaser",
+    "content": "The upcoming special variety show for “Love in the Moonlight” has unveiled its first teaser! On August 26, the production team of the KBS2 variety show &#8220;Love Again in the Moonlight&#8221; (literal translation) released its first teaser video, which resembles a youth movie. The teaser captures the real-life best friend moments of the five cast&#8230; Continue reading Watch: &#8220;Love In The Moonlight&#8221; Stars Park Bo Gum, Kim You Jung, Jin Young, Chae Soo Bin, And Kwak Dong Yeon Showcase Unchanging Friendship In Variety Show Teaser\nThe post Watch: &#8220;Love In The Moonlight&#8221; Stars Park Bo Gum, Kim You Jung, Jin Young, Chae Soo Bin, And Kwak Dong Yeon Showcase Unchanging Friendship In Variety Show Teaser appeared first on Soompi.",
+    "published_at": "0826soompi",
+    "published_ts": 1787712171.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《云画的月光》主演朴宝剑、金裕贞、珍荣、蔡秀彬、郭东延综艺重聚，预告公开",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：8月26日，KBS2综艺《Love Again in the Moonlight》（暂译）制作组公开首支预告视频。",
+      "事实点2：预告视频风格类似青春电影，展现五位主演朴宝剑、金裕贞、珍荣、蔡秀彬、郭东延私下好友相处的真实瞬间。"
+    ],
+    "summary_zh": "KBS2新综艺《Love Again in the Moonlight》（暂译）于8月26日公开首支预告，该节目为《云画的月光》特别篇，由原班主演朴宝剑、金裕贞、珍荣、蔡秀彬、郭东延出演。预告以青春电影风格呈现，记录五位演员的真实友情瞬间，展现他们不变的友谊。",
+    "extracted_at": "2026-08-26T12:35:28.047684+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "BTS earns gold certification in France with ‘Swim’ - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Ob3paVkVOd2VwRkRkVl9FQXJwTkhyd1EwdzB4clEybmFRQ3BCYnRzVVBfTkZqYkxEdUJRZXJ4ZGZYVzFRcGRBN2tqc1RvT2s3Rko5X0NyTQ?oc=5",
+    "content": "BTS earns gold certification in France with ‘Swim’ The Korea Herald",
+    "published_at": "0826google-kpop",
+    "published_ts": 1787710864.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "BTS单曲《Swim》获法国金唱片认证",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：BTS的单曲《Swim》在法国获得金唱片认证",
+      "事实点2：该认证由法国唱片业协会（SNEP）颁发"
+    ],
+    "summary_zh": "据韩国先驱报报道，BTS的单曲《Swim》在法国获得了金唱片认证。这一认证由法国唱片业协会（SNEP）颁发，标志着该单曲在法国的销量或流媒体播放量达到了金唱片标准。",
+    "extracted_at": "2026-08-26T12:35:29.969300+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: “The Remarried Empress” Announces Premiere Date With First Teaser",
+    "url": "https://www.soompi.com/article/1865705wpp/watch-the-remarried-empress-announces-premiere-date-with-first-teaser",
+    "content": "&#8220;The Remarried Empress&#8221; is finally premiering soon! Based on the popular web novel of the same name, “The Remarried Empress” is a fantasy romance that tells the story of Navier (Shin Min Ah), the perfect empress of the Eastern Empire. When her husband Sovieshu (Ju Ji Hoon), the emperor of the Eastern Empire, cheats on&#8230; Continue reading Watch: &#8220;The Remarried Empress&#8221; Announces Premiere Date With First Teaser\nThe post Watch: &#8220;The Remarried Empress&#8221; Announces Premiere Date With First Teaser appeared first on Soompi.",
+    "published_at": "0826soompi",
+    "published_ts": 1787710640.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《废后归来》公开首支预告，确定播出日期",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "电视剧《废后归来》公开首支预告，确定播出日期。",
+      "该剧改编自同名热门网络小说，是一部奇幻爱情剧。",
+      "申敏儿饰演东方帝国完美皇后娜维尔，朱智勋饰演皇帝苏维舒。",
+      "剧情讲述娜维尔发现丈夫苏维舒出轨后的故事。"
+    ],
+    "summary_zh": "电视剧《废后归来》公开首支预告，确定播出日期。该剧改编自同名热门网络小说，是一部奇幻爱情剧，由申敏儿饰演东方帝国完美皇后娜维尔，朱智勋饰演皇帝苏维舒。剧情讲述娜维尔发现丈夫苏维舒出轨后的故事。",
+    "extracted_at": "2026-08-26T12:35:32.156452+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "THE BOYZ’s Hyunjae Signs With New Agency As Actor Lee Jae Hyun",
+    "url": "https://www.soompi.com/article/1865706wpp/the-boyzs-hyunjae-signs-with-new-agency-as-actor-lee-jae-hyun",
+    "content": "THE BOYZ member Hyunjae has found a new agency to call home! On August 26, Management SEESUN released an official statement, announcing, &#8220;We are delighted to be working with Hyunjae of THE BOYZ, who has showcased a wide array of charms through both his stage performances and broadcast appearances.&#8221; They added, &#8220;We will provide our&#8230; Continue reading THE BOYZ&#8217;s Hyunjae Signs With New Agency As Actor Lee Jae Hyun\nThe post THE BOYZ&#8217;s Hyunjae Signs With New Agency As Actor Lee Jae Hyun appeared first on Soompi.",
+    "published_at": "0826soompi",
+    "published_ts": 1787709968.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "THE BOYZ贤在签约新公司Management SEESUN，以演员李在贤身份活动",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "8月26日，Management SEESUN发布官方声明，宣布与THE BOYZ成员贤在签约。",
+      "声明中表示：'我们很高兴能与THE BOYZ的贤在合作，他通过舞台表演和广播节目展现了多样的魅力。'",
+      "贤在将以演员李在贤的身份在新公司开展活动。"
+    ],
+    "summary_zh": "8月26日，Management SEESUN宣布与THE BOYZ成员贤在签约，他将以演员李在贤的身份继续活动。公司表示很高兴能与展现多样魅力的贤在合作，并承诺将提供支持。",
+    "extracted_at": "2026-08-26T12:35:33.945945+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Netflix K-drama Mousetrap: Ryu Jun-yeol leads slick but sluggish mystery thriller - South China Morning Post",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd3J1bjFyX1pPdHZ2NTIwdUcwM3BTM1EwTTdfbFJqTjdnUGYwWWZUcV9Jd1N5akJvTXZ6NkNNQ2VRRFlnZ2d6T2V0R0xVdGYxYnQ0d0VETUdZR2R4U1hDTndzNE1IM01PejZ1dG8tUGk4M2ktaC1xTWtEclNjTmlzR1VOODl6eFlxU0gzY1pONDZDaU1HcUdMOUMxajJkdFlmZmEzSXZQYUhaaXZVQW5VeU1TS3dPcWg5VUdnOU1WSXZEMDZrb0MxV3ZLRE1Wc0ZQWkJTZXJB?oc=5",
+    "content": "Netflix K-drama Mousetrap: Ryu Jun-yeol leads slick but sluggish mystery thriller South China Morning Post",
+    "published_at": "0826google-kpop",
+    "published_ts": 1787706906.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Netflix韩剧《捕鼠器》：柳俊烈主演的华丽但节奏缓慢的悬疑惊悚剧",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：Netflix韩剧《捕鼠器》由柳俊烈主演。",
+      "事实点2：该剧被评价为华丽但节奏缓慢的悬疑惊悚剧。",
+      "事实点3：报道来源为《南华早报》。"
+    ],
+    "summary_zh": "据《南华早报》报道，Netflix韩剧《捕鼠器》由柳俊烈主演，是一部悬疑惊悚剧。评论指出该剧制作华丽，但节奏缓慢，整体观感略显拖沓。",
+    "extracted_at": "2026-08-26T12:35:36.427462+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -43,11 +236,10 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：韩剧《再婚皇后》确定在Disney+播出，并公布了首播日期。",
-      "事实点2：该消息由Deadline报道。"
+      "韩剧《再婚皇后》确定在Disney+播出，并公布了首播日期。"
     ],
-    "summary_zh": "据Deadline报道，韩剧《再婚皇后》已确定在Disney+平台播出，并公布了具体的首播日期。该剧改编自同名网络小说，讲述了一位皇后在遭遇婚姻危机后选择再婚的故事。目前，关于该剧的更多细节，如演员阵容和具体播出时间，尚未完全公开。",
-    "extracted_at": "2026-08-26T09:02:32.296102+08:00"
+    "summary_zh": "据Deadline报道，韩剧《再婚皇后》已确定在Disney+平台播出，并公布了具体的首播日期。该剧改编自同名网络小说，讲述了皇后与皇帝离婚后与另一皇帝再婚的故事。",
+    "extracted_at": "2026-08-26T12:35:38.088388+08:00"
   },
   {
     "source_id": "soompi",
@@ -67,12 +259,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "8月25日，tvN《我的偏见，我的老板》最新一集全国平均收视率为3.4%，较之前有所上升。",
-      "该剧距离大结局还有两周，共剩余四集。",
-      "《新职员4》第二集收视率保持稳定。"
+      "事实点1：8月25日，tvN电视剧《我的偏见，我的老板》播出最新一集，全国平均收视率为3.4%，较之前有所上升。",
+      "事实点2：该剧距离大结局还有两周，共剩余四集。",
+      "事实点3：另一部剧《新职员4》第二集收视率保持稳定。"
     ],
-    "summary_zh": "据尼尔森韩国数据，tvN浪漫喜剧《我的偏见，我的老板》在8月25日播出的最新一集全国平均收视率为3.4%，较之前有所上升，该剧距离大结局还有两周，共剩余四集。同时，《新职员4》第二集收视率保持稳定。",
-    "extracted_at": "2026-08-26T09:02:34.522768+08:00"
+    "summary_zh": "据尼尔森韩国数据，tvN浪漫喜剧《我的偏见，我的老板》于8月25日播出最新一集，全国平均收视率升至3.4%，在最后两周播出前有所上升。同时，《新职员4》第二集收视率保持稳定。",
+    "extracted_at": "2026-08-26T12:35:40.597305+08:00"
   },
   {
     "source_id": "soompi",
@@ -87,16 +279,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "8月新锐歌手品牌评价榜出炉 RESCENE连续登顶",
+    "title_zh": "8月新星歌手品牌声誉排行榜公布 RESCENE连续登顶",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "韩国企业评价研究所于7月26日至8月26日收集大数据，分析新锐歌手的媒体曝光、消费者参与、互动及社区认知指数，得出8月品牌评价排名。",
-      "RESCENE在本次排名中继续位居榜首。"
+      "韩国企业评价研究所于8月26日发布8月新星歌手品牌声誉排行榜，数据采集自7月26日至8月26日。",
+      "排行榜基于媒体覆盖、消费者参与、互动和社区认知指数分析得出。",
+      "RESCENE在本次排行榜中继续位居榜首。"
     ],
-    "summary_zh": "韩国企业评价研究所公布了8月新锐歌手品牌评价排名，该排名基于7月26日至8月26日收集的大数据，分析了新锐歌手的媒体曝光、消费者参与、互动及社区认知指数。RESCENE连续第二个月保持榜首位置。",
-    "extracted_at": "2026-08-26T09:02:36.723160+08:00"
+    "summary_zh": "韩国企业评价研究所公布了8月新星歌手品牌声誉排行榜，该排名基于7月26日至8月26日收集的大数据，分析了媒体覆盖、消费者参与、互动和社区认知指数。RESCENE连续保持榜首位置。",
+    "extracted_at": "2026-08-26T12:35:42.684281+08:00"
   },
   {
     "source_id": "soompi",
@@ -111,17 +304,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "柳俊烈新剧《捕鼠器》预告：高中同学会上被指认冒名顶替",
+    "title_zh": "柳俊烈新剧《捕鼠器》预告：高中同学会上被指认是冒名顶替者",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "Netflix公开了即将上线的剧集《捕鼠器》的预告片",
-      "该剧改编自网络漫画《田鼠》，讲述隐居小说家因神秘人物“老鼠”失去姓名、身份和财产，并与高利贷者结盟的故事",
+      "该剧改编自网络漫画《田鼠》，讲述隐居小说家因神秘人物“老鼠”失去名字、身份和财富，并与高利贷者结成联盟的故事",
       "预告片中，柳俊烈饰演的角色在高中同学会上被指控为冒名顶替者"
     ],
-    "summary_zh": "Netflix发布了新剧《捕鼠器》的预告片。该剧改编自网络漫画《田鼠》，是一部惊悚剧，讲述隐居小说家因神秘人物“老鼠”失去一切，包括姓名、身份和财产，为了夺回人生，他与高利贷者结成联盟。预告片中，柳俊烈饰演的角色在高中同学会上被指控为冒名顶替者。",
-    "extracted_at": "2026-08-26T09:02:39.891303+08:00"
+    "summary_zh": "Netflix发布了新剧《捕鼠器》的预告片。该剧改编自网络漫画《田鼠》，是一部惊悚剧，讲述隐居小说家因神秘人物“老鼠”失去一切，包括名字、身份和财富，为了夺回人生，他与高利贷者结成意想不到的联盟。预告片中，柳俊烈饰演的角色在高中同学会上被指控为冒名顶替者。",
+    "extracted_at": "2026-08-26T12:35:45.506138+08:00"
   },
   {
     "source_id": "soompi",
@@ -145,8 +338,8 @@
       "事实点2：Charming Jo是18人乐队Annoying Box的队长，也是制作发行公司J MAJOR的联合CEO。",
       "事实点3：宋河艺曾出演Charming Jo的YouTube频道。"
     ],
-    "summary_zh": "歌手宋河艺于8月25日宣布与YouTuber Charming Jo结婚。Charming Jo是18人乐队Annoying Box的队长，也是制作发行公司J MAJOR的联合CEO。宋河艺曾出演Charming Jo的YouTube频道。她通过手写信向粉丝传达了这一喜讯。",
-    "extracted_at": "2026-08-26T09:02:42.532251+08:00"
+    "summary_zh": "8月25日，歌手宋河艺通过手写信宣布与YouTuber Charming Jo结婚。Charming Jo是18人乐队Annoying Box的队长，也是制作发行公司J MAJOR的联合CEO。宋河艺曾出演Charming Jo的YouTube频道。",
+    "extracted_at": "2026-08-26T12:35:47.393778+08:00"
   },
   {
     "source_id": "soompi",
@@ -166,11 +359,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：8月26日午夜（韩国时间），少女时代-HRS（由孝渊、Yuri、秀英组成）公开出道单曲《Skibidi》的首波预告。",
-      "事实点2：该小分队源于孝渊官方YouTube频道的一个轻松喜剧小品，现已发展为正式出道项目。"
+      "8月26日午夜（韩国时间），少女时代-HRS（由孝渊、Yuri、秀英组成）公开出道单曲《Skibidi》的首波预告。",
+      "该小分队起源于孝渊官方YouTube频道上的一个轻松喜剧小品，现已发展为正式出道。"
     ],
-    "summary_zh": "少女时代最新小分队HRS（成员包括孝渊、Yuri和秀英）于8月26日午夜（韩国时间）公开了出道单曲《Skibidi》的首波预告。该小分队最初源于孝渊官方YouTube频道上的一个轻松喜剧小品，如今已演变为正式的出道项目。",
-    "extracted_at": "2026-08-26T09:02:45.346979+08:00"
+    "summary_zh": "少女时代最新小分队HRS（成员包括孝渊、Yuri和秀英）于8月26日午夜（韩国时间）公开了出道单曲《Skibidi》的首波预告。这个组合最初源于孝渊官方YouTube频道上的一个喜剧小品，如今已演变为正式的音乐项目。",
+    "extracted_at": "2026-08-26T12:35:49.801245+08:00"
   },
   {
     "source_id": "soompi",
@@ -194,7 +387,7 @@
       "事实点2：所属社解释，“VENA”在拉丁语中意为艺术才华与灵感的源泉、内心深处及最核心的部分，寓意VAYONN的核心。"
     ],
     "summary_zh": "iNKODE娱乐宣布新人男团VAYONN的官方粉丝俱乐部名称为“VENA”。所属社解释，“VENA”在拉丁语中意为艺术才华与灵感的源泉、内心深处及最核心的部分，寓意VAYONN的核心。",
-    "extracted_at": "2026-08-26T09:02:47.675021+08:00"
+    "extracted_at": "2026-08-26T12:35:51.552433+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -209,13 +402,13 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "公园里的K-Pop：Style Weekly报道",
+    "title_zh": "公园里的K-Pop：Style Weekly活动报道",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [],
-    "summary_zh": "[原文未提及具体行为，仅称：公园里的K-Pop活动，由Style Weekly报道。]",
-    "extracted_at": "2026-08-26T09:02:49.008300+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：公园里的K-Pop活动由Style Weekly报道]",
+    "extracted_at": "2026-08-26T12:35:52.783591+08:00"
   },
   {
     "source_id": "soompi",
@@ -235,35 +428,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：KATSEYE本周首次登上Billboard Artist 100榜单第1名。",
-      "事实点2：两天前，Billboard宣布KATSEYE的新EP《WILD》在美国Billboard 200榜单上以第1名出道，创下他们在美国最大的一周成绩。",
-      "事实点3：KATSEYE的新曲《Hootie Frutti》同时进入Billboard Hot 100和Global 200榜单。"
+      "事实点1：KATSEYE首次登上Billboard Artist 100榜首。",
+      "事实点2：新EP《WILD》在Billboard 200专辑榜上以第1名出道，创下组合在美国的最大周销量。",
+      "事实点3：新曲《Hootie Frutti》同时进入Billboard Hot 100和Global 200榜单。"
     ],
-    "summary_zh": "KATSEYE本周首次登上Billboard Artist 100榜单第1名。两天前，Billboard宣布他们的新EP《WILD》在美国Billboard 200榜单上以第1名出道，创下他们在美国最大的一周成绩。此外，新曲《Hootie Frutti》也同时进入Billboard Hot 100和Global 200榜单。",
-    "extracted_at": "2026-08-26T09:02:51.628741+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Rookie group CORTIS is turning beginnings into milestones. Decoding their first year in music - t2ONLINE",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOc0M1Sm9wdXdwelphalY1Nm84SElaVk1IQm5tOGk5YUpkRUFUV3BzWEhSZU5OZy1ISGd3VEZTbDZaOG5hNHNHbFdqcXA3b1l1MkVINlVtVXhmUElwSW1Pbzc3QlpuRHlpVFVYczYybnNTOHBGT3BHSWJpTW9aQmRHMjItQzFYWGV4d0I3SVBoT2NaSDMxZ3VXWkx5VUdjUktkNEJlLUk0cWR5UF9QM0Zsa1RxR29fYTNpOEdZcnplSG9kc0ZqOXY0bl9TNEI1Zw?oc=5",
-    "content": "Rookie group CORTIS is turning beginnings into milestones. Decoding their first year in music t2ONLINE",
-    "published_at": "0826google-kpop",
-    "published_ts": 1787682600.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "新人组合CORTIS出道一周年：从起步到里程碑的音乐旅程解析",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "事实点1：新人组合CORTIS出道一周年，媒体对其音乐历程进行解析。"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：新人组合CORTIS正在将起步转变为里程碑，解析他们在音乐领域的第一个年头。]",
-    "extracted_at": "2026-08-26T09:02:53.591707+08:00"
+    "summary_zh": "KATSEYE本周在Billboard榜单上取得多项职业生涯首次成就。其新EP《WILD》在Billboard 200专辑榜上以第1名出道，创下组合在美国的最大周销量。同时，KATSEYE首次登上Billboard Artist 100榜首，新曲《Hootie Frutti》也成功进入Hot 100和Global 200榜单。",
+    "extracted_at": "2026-08-26T12:35:54.960922+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -283,10 +453,12 @@
     "risk_level": "中",
     "is_blurred": true,
     "facts_list": [
-      "事实点1：Billboard报道了Lil Durk谋杀案审判、'KPop恶魔猎人'诉讼、Bad Bunny裁决等音乐法律新闻。"
+      "事实点1：Lil Durk谋杀案审判正在进行",
+      "事实点2：'KPop恶魔猎人'相关诉讼",
+      "事实点3：Bad Bunny相关裁决"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：Billboard报道了Lil Durk谋杀案审判、'KPop恶魔猎人'诉讼、Bad Bunny裁决等音乐法律新闻。]",
-    "extracted_at": "2026-08-26T09:02:55.152086+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：Lil Durk谋杀案审判、'KPop恶魔猎人'诉讼、Bad Bunny裁决等音乐法律新闻。]",
+    "extracted_at": "2026-08-26T12:35:56.424214+08:00"
   },
   {
     "source_id": "soompi",
@@ -310,7 +482,7 @@
       "事实点2：PENTAGON尚未公布具体回归日期，但出道10周年纪念日为10月10日。"
     ],
     "summary_zh": "PENTAGON于8月26日午夜（韩国时间）公开了10周年纪念单曲《Coward》（暂译）的首支预告，宣告回归在即。虽然具体回归日期尚未公布，但PENTAGON的出道纪念日10月10日即将到来。",
-    "extracted_at": "2026-08-26T09:02:57.383615+08:00"
+    "extracted_at": "2026-08-26T12:35:58.748201+08:00"
   },
   {
     "source_id": "asianwiki",
