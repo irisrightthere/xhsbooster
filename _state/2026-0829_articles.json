@@ -1,5 +1,299 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Mattel launches KPop Demon Hunters action figures amid Netflix film's huge success - Pluang",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR3pRX3BvRmpKSkJwWFlIdnRzM0hwNmFpeUxaVTVscHFSZW9rRFlPMlJaVWhtSnlOTlJPU2ZiQlpRY2thRHd6bDZsT1VDMVVKQ3ZfeURrNmtZX1Y0bmRzOHcxejQ2Y0duT2JZaW9rUEl1YnVDQUVlNjFMTGFpNU0xWmxQdWkzaGNIRHEzdDdYakd4NjFnWUE?oc=5",
+    "content": "Mattel launches KPop Demon Hunters action figures amid Netflix film's huge success Pluang",
+    "published_at": "0829google-kpop",
+    "published_ts": 1787996237.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "美泰借Netflix电影大热推出KPop Demon Hunters动作人偶",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "美泰（Mattel）推出KPop Demon Hunters动作人偶",
+      "该系列人偶的推出与Netflix电影的巨大成功相关"
+    ],
+    "summary_zh": "美泰（Mattel）宣布推出KPop Demon Hunters动作人偶系列，此举正值Netflix同名电影取得巨大成功之际。该系列人偶的推出旨在借助电影的热度，进一步拓展相关IP的周边市场。",
+    "extracted_at": "2026-08-29T18:42:22.413405+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Mattel Expands ‘KPop Demon Hunters’ Toy Line This Week With New Figures - Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRTVBSmZwaXBrOTlfWFRpMUh6OUgtb0d4WFVBSnYzR0JKMV94WE91Y1ZlMDNBME9rdjZnTTN3aFpzRl9sVUw3Wm1vUWRvMmYzMDJLNEVmcVRnZGVPVmJLWWVnelNxUWFZbEtyMXFIZnJUa2xzZDNZMTVVVjViOUdYNmJZcFdnRWw5WlFWUWNGaUpkSkx2cFh2X1ZObw?oc=5",
+    "content": "Mattel Expands ‘KPop Demon Hunters’ Toy Line This Week With New Figures Yahoo",
+    "published_at": "0829google-kpop",
+    "published_ts": 1787994000.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "美泰本周推出《KPop Demon Hunters》玩具系列新角色",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "美泰（Mattel）于本周扩展其《KPop Demon Hunters》玩具系列，推出新角色人偶。",
+      "该消息由Yahoo发布。"
+    ],
+    "summary_zh": "美泰公司本周扩展其《KPop Demon Hunters》玩具系列，推出新角色人偶。该系列以K-pop为主题，结合恶魔猎人设定，此次新增角色进一步丰富了产品线。具体角色名称和细节未在原文中提及。",
+    "extracted_at": "2026-08-29T18:42:24.770536+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Watching K-Pop Can Get You Killed in North Korea, and It May Be About To Get Worse - The New York Sun",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbVUyMEpnNHBnOEgwU3IzdDF5SThJZzl0RElFa3IxaFlweXVaUEd2TUpSMzRFcGtYVjg2Nkw0dUFfVjdEZHUybzcwbm5QdEF0Sm1Za2tLWmc3ZEVrQWJhakJGbTdBeW5nUDFQcHdNdW0zWnM4UjZFWldyTjNkOTIzaXI2UGJmUElMbFRJVHhkbmdFMktvUjhpRzF6QVk4QnBxeW12a2tJLWU?oc=5",
+    "content": "Watching K-Pop Can Get You Killed in North Korea, and It May Be About To Get Worse The New York Sun",
+    "published_at": "0829google-kpop",
+    "published_ts": 1787991120.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "朝鲜观看K-Pop可致死刑，局势或进一步恶化",
+    "source_type": "韩娱",
+    "risk_level": "高",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：在朝鲜，观看K-Pop内容可能被处以死刑。",
+      "事实点2：据《纽约太阳报》报道，这一情况可能进一步恶化。"
+    ],
+    "summary_zh": "据《纽约太阳报》报道，在朝鲜观看K-Pop内容可能被处以死刑，且这一情况可能进一步恶化。报道指出，朝鲜对韩国流行文化的严厉惩罚措施可能升级，但未提供具体细节。",
+    "extracted_at": "2026-08-29T18:42:26.811420+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "‘Rolling Stone Music Live: With KPop Demon Hunters’ KL concert put on hold - Malay Mail",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLUFSWlpGeDZ6YXZiYzc4Tk5pbm5PQUlPSUVDWUJHQ3p6ZXdHRnlZWnFzZTg5MHQtWTUyQXdUcUpRNDctRkdJakFxMzM4X3o1R29CYVc0QXRnMmo2ekNzbkRtTm9zR1hjd2liZFExVmVkLXNnNlpFUlgzdlhMZWViNUlkSVZLOTRUUGlZdlpQblpMV2NQeFNrVEstOHk0MDVRRHZZZE9MZlNzRFJKYkdWa1d2VTJtc3B4dEMwZmF1WXJBYlBLNDlF0gHMAUFVX3lxTE43SXdKWTVIWks1RkV0R3pORUU5WjRFVnluQkphMWsxQTBfQkF5UU92Q1ZCdUdJYm0wSEhkTUV5M0ptZFZTSThGTUpTQmt0RlJZTG5kZHlMVkpmaTNZNUVPcnhyblV0SkdXMzhoRnZJR2RsSzZfcFlEWVFDWGFNTF83TlJuM0s2MWNxY0lCQW5CaHZNWjUxbUxLQXJMaGNjWnJCZkZuSlgtSnBacXROSFJoMlE1aHpSWDM1NVZaZ0xZMU1nX01FZVJWOEtWVw?oc=5",
+    "content": "‘Rolling Stone Music Live: With KPop Demon Hunters’ KL concert put on hold Malay Mail",
+    "published_at": "0829google-kpop",
+    "published_ts": 1787986219.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《Rolling Stone Music Live: With KPop Demon Hunters》吉隆坡演唱会延期",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "时间：未明确提及具体日期",
+      "地点：马来西亚吉隆坡",
+      "主体：Rolling Stone Music Live: With KPop Demon Hunters 演唱会",
+      "事件：该演唱会宣布延期举行"
+    ],
+    "summary_zh": "据Malay Mail报道，原定在马来西亚吉隆坡举行的《Rolling Stone Music Live: With KPop Demon Hunters》演唱会已宣布延期。目前官方尚未公布新的演出日期及具体原因。",
+    "extracted_at": "2026-08-29T18:42:28.987562+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Lee Jun Young Is A Prodigy Who Hears Everything As Music In “Four Hands, Two Sonatas” Preview",
+    "url": "https://www.soompi.com/article/1866551wpp/watch-lee-jun-young-is-a-prodigy-who-hears-everything-as-music-in-four-hands-two-sonatas-preview",
+    "content": "tvN’s upcoming drama “Four Hands, Two Sonatas” has shared a sneak peek of its first episode! “Four Hands, Two Sonatas” is a drama that follows the friendship, love, rivalry, and growth of two students who meet at an arts high school, tracing their journey from adolescence to adulthood as professional pianists. The newly released preview&#8230; Continue reading Watch: Lee Jun Young Is A Prodigy Who Hears Everything As Music In &#8220;Four Hands, Two Sonatas&#8221; Preview\nThe post Watch: Lee Jun Young Is A Prodigy Who Hears Everything As Music In &#8220;Four Hands, Two Sonatas&#8221; Preview appeared first on Soompi.",
+    "published_at": "0829soompi",
+    "published_ts": 1787984279.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《四手联弹》预告：李俊英饰演将万物听作音乐的天才钢琴少年",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "tvN新剧《四手联弹》公开首集预告片",
+      "该剧讲述艺术高中两名学生从青春期到成年成为职业钢琴家的友情、爱情、竞争与成长故事",
+      "预告片中李俊英饰演的天才少年将周围一切声音听作音乐"
+    ],
+    "summary_zh": "tvN新剧《四手联弹》公开首集预告。该剧讲述艺术高中两名学生从青春期到成年成为职业钢琴家的友情、爱情、竞争与成长故事。预告片中，李俊英饰演的天才少年将周围一切声音听作音乐，展现其独特天赋。",
+    "extracted_at": "2026-08-29T18:42:31.282240+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "6 New K-Pop Songs Bringing 2010s Party Tracks Back",
+    "url": "https://www.soompi.com/article/1865703wpp/6-new-k-pop-songs-bringing-2010s-party-tracks-back",
+    "content": "Millennial nostalgia is back big-time, baby! Maybe the 2010s party sound is a new hit for you, or maybe it&#8217;s a longtime love whose comeback is making you feel kind of old. Either way, you can&#8217;t deny that these six K-pop songs are a total jam. Party it up! 1. KiiiKiii – &#8220;Pop Off Pop&#8230; Continue reading 6 New K-Pop Songs Bringing 2010s Party Tracks Back\nThe post 6 New K-Pop Songs Bringing 2010s Party Tracks Back appeared first on Soompi.",
+    "published_at": "0829soompi",
+    "published_ts": 1787983845.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "6首新K-Pop歌曲重现2010年代派对风潮",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：文章列举了6首新K-Pop歌曲，其中一首为KiiiKiii的《Pop Off Pop...》",
+      "事实点2：文章主题为2010年代派对曲风在K-Pop中的回归"
+    ],
+    "summary_zh": "文章介绍了6首新K-Pop歌曲，它们将2010年代的派对曲风带回大众视野。其中提及KiiiKiii的《Pop Off Pop...》作为代表，并称这些歌曲为“总冠军”（total jam），适合派对播放。文章未提供具体发行日期或榜单数据。",
+    "extracted_at": "2026-08-29T18:42:33.928531+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Jung Chaeyeon Aims A Gun At Her Father Heo Sung Tae In “Flex X Cop 2”",
+    "url": "https://www.soompi.com/article/1866547wpp/jung-chaeyeon-aims-a-gun-at-her-father-heo-sung-tae-in-flex-x-cop-2",
+    "content": "SBS’s “Flex x Cop 2” has shared a sneak peek of a suspenseful confrontation between Jung Chaeyeon and Heo Sung Tae! In Season 2 of “Flex x Cop,” Ahn Bo Hyun reprises his starring role as Jin Yi Soo, a third-generation chaebol heir who uses his wealth and connections like cheat codes whenever an investigation&#8230; Continue reading Jung Chaeyeon Aims A Gun At Her Father Heo Sung Tae In &#8220;Flex X Cop 2&#8221;\nThe post Jung Chaeyeon Aims A Gun At Her Father Heo Sung Tae In &#8220;Flex X Cop 2&#8221; appeared first on Soompi.",
+    "published_at": "0829soompi",
+    "published_ts": 1787982256.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《Flex X Cop 2》剧照：郑彩娟持枪指向父亲许成泰",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "SBS《Flex X Cop 2》公开了郑彩娟与许成泰之间紧张对峙的剧照。",
+      "第二季中，安普贤继续饰演陈伊秀，一位利用财富和人脉的财阀三世。"
+    ],
+    "summary_zh": "SBS《Flex X Cop 2》公开了新剧照，显示郑彩娟持枪指向许成泰，两人之间呈现紧张对峙。第二季中，安普贤继续饰演陈伊秀，一位利用财富和人脉的财阀三世。",
+    "extracted_at": "2026-08-29T18:42:36.212951+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "NEWBEAT Reveals 1st Glimpse Of Official Light Stick",
+    "url": "https://www.soompi.com/article/1866543wpp/newbeat-reveals-1st-glimpse-of-official-light-stick",
+    "content": "NEWBEAT has shared a sneak peek of their official light stick! On August 38, the rookie boy group from BEAT Interactive revealed the first glimpse of their upcoming light stick, which they teased is “coming soon.” Check out the teaser for NEWBEAT’s light stick below!\nThe post NEWBEAT Reveals 1st Glimpse Of Official Light Stick appeared first on Soompi.",
+    "published_at": "0829soompi",
+    "published_ts": 1787979942.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "NEWBEAT公开官方应援棒首张预告照",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：8月38日，BEAT Interactive旗下新人男团NEWBEAT公开了官方应援棒的首次预告。",
+      "事实点2：NEWBEAT在预告中标注“即将推出”，并发布了应援棒预告照。"
+    ],
+    "summary_zh": "新人男团NEWBEAT于8月38日通过所属社BEAT Interactive公开了官方应援棒的首次预告，并附有“即将推出”的字样。目前仅公开了预告照，具体发售信息尚未公布。",
+    "extracted_at": "2026-08-29T18:42:38.419690+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "‘Four Hands, Two Sonatas’ release schedule: When do new episodes premiere? - Lifestyle Asia",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUllnc010S2F2cnE0SHppQUl5bjM3U2lPU2I5RnVJRkNBaFdTU2FaRmw0TkpIVEgydkxURTVGYmpWSkZjWXJWM1Q0bGh4YjFsVVJROEtpVFdqVzJCRzNld0x2dVlGNElPdndabUZUMDhMVnNJdVl1T1EtNm5FM3pBZ1lOOFRWZzhhbEJIQjFXdHppZVBDVm5jdU9sb2c0NUhLM3U3RG02LVVrRW5fV2pfTF9NWkloU3A0V1BJVlV4ZHVuQdIBxwFBVV95cUxNSzhmRG9mYTNnUnJ0QXFKTzlGOW1uOVB4NU10YjYtTHdiV3ZkM2RTVkxFZVRuRDJBdzQzeC02ZGF4VmMtYURjWV9JMHNyaXdkeFNWc3lvOE5Oa0E1VEhVQjJfVEhyY3d2MjUydzY5bzRmMlZhcVF6YWNCbk5ZekZCamhZX21aSV9lTVhSM2xYRndFc1lDXzZGY2xfeE1tTFJyeUlzSEUxQnZFVDRKcjI1a0N4dlhBTDNFZmlrRkxUUzhiYm5RWDJZ?oc=5",
+    "content": "‘Four Hands, Two Sonatas’ release schedule: When do new episodes premiere? Lifestyle Asia",
+    "published_at": "0829google-kpop",
+    "published_ts": 1787977887.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《四手联弹，两首奏鸣曲》播出时间表：新剧集何时首播？",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：该剧名为《Four Hands, Two Sonatas》（暂译：四手联弹，两首奏鸣曲），由Lifestyle Asia报道其播出时间表。",
+      "事实点2：文章标题询问新剧集的首播时间，但未提供具体日期或平台信息。"
+    ],
+    "summary_zh": "据Lifestyle Asia报道，韩剧《Four Hands, Two Sonatas》（暂译）的播出时间表已公布，但具体新剧集的首播时间未在标题中明确。文章可能包含详细日程，但当前信息仅确认该剧存在并已安排播出。",
+    "extracted_at": "2026-08-29T18:42:40.771203+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Song Kang’s Childhood Friend Jang Gyuri Comes To His Defense At School In “Four Hands, Two Sonatas”",
+    "url": "https://www.soompi.com/article/1866534wpp/song-kangs-friend-jang-gyuri-comes-to-his-defense-at-school-in-four-hands-two-sonatas",
+    "content": "tvN’s upcoming drama “Four Hands, Two Sonatas” has shared a glimpse of Song Kang’s difficult school life. “Four Hands, Two Sonatas” is a drama that follows the friendship, love, rivalry, and growth of two students who meet at an arts high school, tracing their journey from adolescence to adulthood as professional pianists. Song Kang will&#8230; Continue reading Song Kang&#8217;s Childhood Friend Jang Gyuri Comes To His Defense At School In &#8220;Four Hands, Two Sonatas&#8221;\nThe post Song Kang&#8217;s Childhood Friend Jang Gyuri Comes To His Defense At School In &#8220;Four Hands, Two Sonatas&#8221; appeared first on Soompi.",
+    "published_at": "0829soompi",
+    "published_ts": 1787977499.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "宋康新剧《四手联弹》剧照：童年好友张圭悧在学校为他辩护",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：tvN新剧《四手联弹》公开了宋康饰演角色艰难学校生活的剧照。",
+      "事实点2：该剧讲述在艺术高中相遇的两名学生之间的友谊、爱情、竞争与成长，描绘他们从青少年到成年成为职业钢琴家的旅程。",
+      "事实点3：宋康的童年好友张圭悧（饰演角色）在学校为他辩护。"
+    ],
+    "summary_zh": "tvN新剧《四手联弹》公开了宋康饰演角色艰难学校生活的剧照。该剧讲述在艺术高中相遇的两名学生之间的友谊、爱情、竞争与成长，描绘他们从青少年到成年成为职业钢琴家的旅程。在公开的剧照中，宋康的童年好友张圭悧在学校为他辩护。",
+    "extracted_at": "2026-08-29T18:42:43.347225+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "“Flex X Cop 2” Heads Into 2nd Half On Its Highest Friday Ratings Yet + “A Bona Fide Killer” Remains No. 1",
+    "url": "https://www.soompi.com/article/1866531wpp/flex-x-cop-2-heads-into-2nd-half-on-its-highest-friday-ratings-yet-a-bona-fide-killer-remains-no-1",
+    "content": "SBS’s “Flex x Cop 2” wrapped up the first half of its run with a new personal record! On August 28, “Flex x Cop 2” earned its highest viewership ratings yet for a Friday (when its ratings have generally been lower compared to Saturdays). According to Nielsen Korea, the latest episode of the drama scored&#8230; Continue reading &#8220;Flex X Cop 2&#8221; Heads Into 2nd Half On Its Highest Friday Ratings Yet + &#8220;A Bona Fide Killer&#8221; Remains No. 1\nThe post &#8220;Flex X Cop 2&#8221; Heads Into 2nd Half On Its Highest Friday Ratings Yet + &#8220;A Bona Fide Killer&#8221; Remains No. 1 appeared first on Soompi.",
+    "published_at": "0829soompi",
+    "published_ts": 1787974286.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《Flex X Cop 2》周五收视再创新高，《A Bona Fide Killer》稳居榜首",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：8月28日，SBS电视剧《Flex X Cop 2》播出最新一集，创下该剧周五最高收视纪录。",
+      "事实点2：据尼尔森韩国数据，该集收视率具体数字未在原文中提及。",
+      "事实点3：另一部剧《A Bona Fide Killer》同时段收视排名第一。"
+    ],
+    "summary_zh": "SBS电视剧《Flex X Cop 2》于8月28日播出最新一集，创下该剧周五最高收视纪录。据尼尔森韩国数据，该集收视率具体数字未在原文中提及。同时，另一部剧《A Bona Fide Killer》在同时段保持收视第一的位置。",
+    "extracted_at": "2026-08-29T18:42:45.803301+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "August Star Brand Reputation Rankings Announced",
+    "url": "https://www.soompi.com/article/1866524wpp/august-star-brand-reputation-rankings-announced-4",
+    "content": "The Korean Business Research Institute has published its brand reputation rankings for all stars during the month of August! The rankings were determined through an analysis of various stars’ media coverage, consumer participation, interaction, and community awareness indexes, using big data collected from July 29 to August 29. RESCENE topped this month’s list after seeing&#8230; Continue reading August Star Brand Reputation Rankings Announced\nThe post August Star Brand Reputation Rankings Announced appeared first on Soompi.",
+    "published_at": "0829soompi",
+    "published_ts": 1787971654.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "8月明星品牌声誉排行榜公布 RESCENE登顶",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "韩国企业评价研究所于8月发布明星品牌声誉排行榜，数据采集时间为7月29日至8月29日。",
+      "排名基于媒体覆盖、消费者参与、互动和社区认知指数分析得出。",
+      "RESCENE在该月榜单中位居第一。"
+    ],
+    "summary_zh": "韩国企业评价研究所公布了8月明星品牌声誉排行榜，该排名基于7月29日至8月29日收集的大数据，分析了明星的媒体覆盖、消费者参与、互动和社区认知指数。RESCENE在本月榜单中位居第一。",
+    "extracted_at": "2026-08-29T18:42:48.059705+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -12,16 +306,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "BOYNEXTDOOR成训确定担任MBC《音乐中心》新MC",
+    "title_zh": "BOYNEXTDOOR成勋确认担任MBC《音乐中心》新MC",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：8月28日，MBC《音乐中心》相关人士确认成训将担任该音乐节目新MC。",
-      "事实点2：相关人士表示：“成训确实将担任新MC。”"
+      "8月28日，MBC《音乐中心》相关人士确认成勋将担任该音乐节目新MC，并表示“成勋确实将担任新MC的角色”。",
+      "成勋为组合BOYNEXTDOOR成员，此前该节目已有其他MC，具体交接细节未在原文中提及。"
     ],
-    "summary_zh": "8月28日，MBC音乐节目《音乐中心》方面确认，BOYNEXTDOOR成员成训将担任该节目新MC。相关人士表示：“成训确实将担任新MC。”此前该节目已有MC阵容，成训的加入将为节目带来新变化。",
-    "extracted_at": "2026-08-29T10:39:32.919156+08:00"
+    "summary_zh": "8月28日，MBC音乐节目《音乐中心》官方确认，BOYNEXTDOOR成员成勋将加入成为新MC。节目相关人士表示：“成勋确实将担任新MC的角色。”此前该节目已有其他MC，但原文未提及具体交接安排。",
+    "extracted_at": "2026-08-29T18:42:51.090061+08:00"
   },
   {
     "source_id": "soompi",
@@ -41,11 +335,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：文章推荐了5部元BL剧，元BL指那些自我指涉、打破第四面墙或戏仿经典BL套路的作品。",
-      "事实点2：文章发布于Soompi网站，标题为“5 Must-Watch Meta BLs For A Deep-Dive Into The Genre”。"
+      "事实点1：文章推荐了5部元BL剧，这些剧集自知为BL，并有意评论BL叙事和类型身份。",
+      "事实点2：元BL剧的特点包括打破第四面墙、戏仿BL套路和陈词滥调，或通过设定讲述BL故事。"
     ],
-    "summary_zh": "本文推荐了5部必看的元BL剧，这类剧集以自我指涉为特点，通过打破第四面墙、戏仿BL常见套路或设定在BL创作背景中，来评论BL叙事本身。文章旨在帮助观众深入理解这一独特类型。",
-    "extracted_at": "2026-08-29T10:39:35.447909+08:00"
+    "summary_zh": "本文推荐了5部必看的元BL剧，这类剧集自知为BL，并有意评论BL叙事和类型身份。它们可能打破第四面墙、戏仿BL套路和陈词滥调，或通过特定设定讲述BL故事。文章旨在帮助观众深入探索该类型。",
+    "extracted_at": "2026-08-29T18:42:53.292254+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -60,16 +354,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "美泰推出‘KPop Demon Hunters’豪华版Rumi娃娃",
+    "title_zh": "美泰推出‘KPop Demon Hunters’豪华版Rumi玩偶",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "美泰（Mattel）推出新款‘KPop Demon Hunters’系列豪华版Rumi娃娃",
-      "该娃娃以K-pop风格为设计灵感，Rumi为系列角色之一"
+      "美泰（Mattel）推出新款‘KPop Demon Hunters’系列豪华版Rumi玩偶",
+      "该玩偶以K-pop风格为设计灵感"
     ],
-    "summary_zh": "据福布斯报道，美泰公司推出了‘KPop Demon Hunters’系列中的豪华版Rumi娃娃。该娃娃以K-pop风格为设计特色，是系列中的角色之一。",
-    "extracted_at": "2026-08-29T10:39:37.620750+08:00"
+    "summary_zh": "据福布斯报道，美泰公司推出了‘KPop Demon Hunters’系列中的豪华版Rumi玩偶。该玩偶设计灵感源自K-pop文化，具体细节未在原文中详述。",
+    "extracted_at": "2026-08-29T18:42:55.618283+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -92,8 +386,8 @@
       "BTS阿里郎世界巡演抵达芝加哥站",
       "芝加哥太阳时报发布评论，称BTS正在进化为2.0版本"
     ],
-    "summary_zh": "芝加哥太阳时报发布评论，报道BTS阿里郎世界巡演抵达芝加哥站，并指出K-pop男团BTS正在进化为2.0版本。",
-    "extracted_at": "2026-08-29T10:39:39.201448+08:00"
+    "summary_zh": "芝加哥太阳时报发布评论，报道BTS阿里郎世界巡演抵达芝加哥站，并指出这支K-pop男团正在进化为2.0版本。",
+    "extracted_at": "2026-08-29T18:42:57.338098+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -108,16 +402,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "K-POP Warriors 现场演出将在萨恩格剧院举行",
+    "title_zh": "K-POP Warriors 现场秀将在萨恩格剧院上演",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "演出地点：萨恩格剧院（Saenger Theater）",
-      "演出名称：K-POP Warriors 现场秀"
+      "地点：萨恩格剧院（Saenger Theater）",
+      "事件：K-POP Warriors 现场秀"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：K-POP Warriors 现场秀将在萨恩格剧院举行。]",
-    "extracted_at": "2026-08-29T10:39:40.507266+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：K-POP Warriors 现场秀将在萨恩格剧院上演]",
+    "extracted_at": "2026-08-29T18:42:59.074669+08:00"
   },
   {
     "source_id": "asianwiki",
