@@ -3,27 +3,216 @@
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "Another K-Drama to add sa watchlist natin! 🤩 Starring Son Ye-jin, Ji Chang-wook, and Nana, the South Korean series “The Scandal” will premiere on Netflix this coming September 18. Link to full story in the comments. - facebook.com",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYmViTnBWQXI2UWZOYWxRRmtEQk1yOGl3N1YwSXJmdUt3X1lVeFdad3EwVjZIX2hOUmtlcTRGdkllN1JGSFp1a1M0YmpMWTRUVzFOQjBVWUV1YU1vWGFLV0ctSnZvTEEzMU05eGllYVIyWVdoWTR5eDVBU2dHcFF1UU1rVE1iaTFFcElwZ1EyUmNNVGV5X2ZOd2Z5TlRFanJRYmFJYTNaeUZTWFl2LWFwR1RRWUQ1a3c2UG9zSEpJUkl6MjFzYkxYYkVzZXEzeTFvTEJRMHQzaw?oc=5",
-    "content": "Another K-Drama to add sa watchlist natin! 🤩 Starring Son Ye-jin, Ji Chang-wook, and Nana, the South Korean series “The Scandal” will premiere on Netflix this coming September 18. Link to full story in the comments. facebook.com",
+    "title": "Foreigners Dance at Gwanghwamun K-pop Event - 조선일보",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNmhqVFo5dkx1N052N0hZV081cUlGSW9lRTNHVzBSTDJyS1BhX2FTZjl4cXVJd18wOHhoUjhKd0xiaWN2RnpyS04tcDZYeEdkenRsVnNUeVV1Skp6NnUzVWhXZGJLdzE5NHRTalphSGxsWkplbElrWDVXMVRzM3lRenJ6dUc1dmtm?oc=5",
+    "content": "Foreigners Dance at Gwanghwamun K-pop Event 조선일보",
     "published_at": "0830google-kpop",
-    "published_ts": 1788077985.0,
+    "published_ts": 1788104895.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "孙艺珍、池昌旭、Nana主演韩剧《The Scandal》9月18日Netflix上线",
+    "title_zh": "外国游客在光化门K-pop活动上跳舞",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：在光化门举办的K-pop活动上，外国游客参与跳舞。",
+      "事实点2：该活动由조선일보报道。"
+    ],
+    "summary_zh": "据조선일보报道，在光化门举行的K-pop活动中，外国游客在现场跳舞。该活动吸引了外国游客参与，展现了K-pop的全球影响力。",
+    "extracted_at": "2026-08-30T23:56:57.425113+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Weekly K-pop Playlist: Here are the songs we are jamming to - t2ONLINE",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWXE5Rm5zVVNJSTJQQzNMNGRmQXhpMVE4Z1piVXUzR0xRWWZseW1BTS1seUZnVWpmdktuNy1ESVdiVEhvWW5zal9jR2xBMEY0a2tiX1dHQ0lBM3hEd3VhcldQMHJYRmJKMmZTNm53ZkR4NGY2M3U4aFFLNE1sZEkwY3JMa1ZvUDFYM1FhRDduMlMxNWFSU3Vpeko0N3NZWi1P?oc=5",
+    "content": "Weekly K-pop Playlist: Here are the songs we are jamming to t2ONLINE",
+    "published_at": "0830google-kpop",
+    "published_ts": 1788103500.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "每周K-pop歌单：我们正在循环播放的歌曲",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [],
+    "summary_zh": "[原文未提及具体行为，仅称：每周K-pop歌单：我们正在循环播放的歌曲]",
+    "extracted_at": "2026-08-30T23:56:58.814491+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "KATSEYE’s Sophia To Sit Out Europe Tour",
+    "url": "https://www.soompi.com/article/1866835wpp/katseyes-sophia-to-sit-out-europe-tour",
+    "content": "KATSEYE’s Sophia will not be joining the group on their upcoming tour of Europe and the United Kingdom. On August 30 local time, HYBE x Geffen announced that Sophia would not be participating in the European leg of KATSEYE’s “THE WILDWORLD TOUR,” which is set to kick off on September 1 in Dublin. Sophia is&#8230; Continue reading KATSEYE&#8217;s Sophia To Sit Out Europe Tour\nThe post KATSEYE&#8217;s Sophia To Sit Out Europe Tour appeared first on Soompi.",
+    "published_at": "0830soompi",
+    "published_ts": 1788103114.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "KATSEYE成员Sophia将缺席欧洲巡演",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：8月30日，HYBE x Geffen宣布Sophia将不参加KATSEYE的“THE WILDWORLD TOUR”欧洲站。",
+      "事实点2：该巡演欧洲站将于9月1日在都柏林开始。"
+    ],
+    "summary_zh": "KATSEYE成员Sophia将不会参加组合即将举行的欧洲及英国巡演。8月30日，HYBE x Geffen宣布Sophia将缺席KATSEYE“THE WILDWORLD TOUR”的欧洲部分，该巡演定于9月1日在都柏林启动。",
+    "extracted_at": "2026-08-30T23:57:00.477263+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Hearts2Hearts’ ‘ICONIC HEART’ Records Highest First-Week Sales Among 5th-Gen K-Pop Girl Group Japanese Debuts - Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWnVqTjJDMHg0QVNWaTRDWnI0eWRJOV8zU1FPb3Z5bGFhcmZseDFnaUFEMmRacl9ad09hbnI4NG9XZDFoUTVZa0M3Zk5jQjZsYWw0Z3hOZUxpWF90T3VJQ25Lc3luc1ZtNlNBNEU5V3pOMDlmOGlIYnJZWlFjMncxMVJzT2FZVVFVMXFVdnFsbFd2cy1IWU1kakxNaV9mX3E0WTdsNk5mWW11aEU4?oc=5",
+    "content": "Hearts2Hearts’ ‘ICONIC HEART’ Records Highest First-Week Sales Among 5th-Gen K-Pop Girl Group Japanese Debuts Yahoo",
+    "published_at": "0830google-kpop",
+    "published_ts": 1788102000.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Hearts2Hearts日本出道专辑《ICONIC HEART》首周销量创5代女团最高纪录",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：Hearts2Hearts的日本出道专辑《ICONIC HEART》首周销量在5代K-Pop女团日本出道专辑中排名第一。",
+      "事实点2：该消息由Yahoo报道。"
+    ],
+    "summary_zh": "据Yahoo报道，Hearts2Hearts的日本出道专辑《ICONIC HEART》首周销量在5代K-Pop女团日本出道专辑中创下最高纪录。",
+    "extracted_at": "2026-08-30T23:57:02.478000+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: ENHYPEN Achieves Music Show Grand Slam With 5th Win For “Bloody Paradise” On “Inkigayo”; Performances By NCT 127, NEXZ, And More",
+    "url": "https://www.soompi.com/article/1866831wpp/watch-enhypen-achieves-music-show-grand-slam-with-5th-win-for-bloody-paradise-on-inkigayo-performances-by-nct-127-nexz-and-more",
+    "content": "ENHYPEN has wrapped up a perfect week of music show wins with a fifth trophy for “Bloody Paradise”! On the August 30 episode of SBS’s “Inkigayo,” the candidates for first place were ATEEZ’s “BAD,” ENHYPEN’s “Bloody Paradise,” and RESCENE’s “LOVE ATTACK.” ENHYPEN ultimately took the win with a total of 4,815 points—meaning that the group&#8230; Continue reading Watch: ENHYPEN Achieves Music Show Grand Slam With 5th Win For &#8220;Bloody Paradise&#8221; On &#8220;Inkigayo&#8221;; Performances By NCT 127, NEXZ, And More\nThe post Watch: ENHYPEN Achieves Music Show Grand Slam With 5th Win For &#8220;Bloody Paradise&#8221; On &#8220;Inkigayo&#8221;; Performances By NCT 127, NEXZ, And More appeared first on Soompi.",
+    "published_at": "0830soompi",
+    "published_ts": 1788101171.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "ENHYPEN《Bloody Paradise》获《人气歌谣》第五冠，达成音乐节目大满贯",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "8月30日SBS《人气歌谣》中，ENHYPEN凭借《Bloody Paradise》以总分4,815分获得第一名",
+      "候选曲包括ATEEZ的《BAD》和RESCENE的《LOVE ATTACK》",
+      "这是ENHYPEN凭借该曲在音乐节目中的第五个冠军，实现音乐节目大满贯",
+      "同场演出还包括NCT 127、NEXZ等艺人的舞台"
+    ],
+    "summary_zh": "8月30日播出的SBS《人气歌谣》中，ENHYPEN凭借《Bloody Paradise》以4,815分的总分击败ATEEZ的《BAD》和RESCENE的《LOVE ATTACK》，获得第一名。这是该曲在音乐节目中的第五个冠军，标志着ENHYPEN实现了音乐节目大满贯。此外，NCT 127、NEXZ等艺人也带来了精彩舞台。",
+    "extracted_at": "2026-08-30T23:57:04.739280+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "JENNIE: A Career In Song Ratings - thebiaslist.com",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Jak5DeVpKeC04ZWdhaUIwbFd1WlFQdkd4ckJENFVRZG1TRXQ0d2VWa2Z6Y1VDLWwzd0cteWNQZ3ZkbHlQeU55SjdmM0hQck1ZMElxZnNQaVBKUnppeFBCcG9BZmJIdmc5bFRWTW1BOUc5OTdhZHc?oc=5",
+    "content": "JENNIE: A Career In Song Ratings thebiaslist.com",
+    "published_at": "0830google-kpop",
+    "published_ts": 1788097744.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "JENNIE歌曲评分职业生涯回顾：thebiaslist.com专题",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "事实点1：thebiaslist.com发布专题文章，回顾JENNIE的歌曲评分职业生涯。"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：thebiaslist.com发布了一篇关于JENNIE歌曲评分职业生涯的专题文章。]",
+    "extracted_at": "2026-08-30T23:57:06.038666+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "THIS WEEK IN K-POP: Ranking the New Releases from August 23 – 29 - thebiaslist.com",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY0hKeE9Rc2daMlc2bE9paWtTQ0FCZzVzNU5WWE1SOWVfVE01dXVHT1FGM3JwNVZiVFhMRmphQVBOcHcyQ05pMjdvZG1tTnFoQ3hNVFpiOUpjajdnWnB6Q29lbl9NWHdDbnFRWEZpNjM5Nmd1ZnlVLXhzM3ZzWTFZajhscWlOUTZtT2o1ajVNczhSRWc1OEgwWUU3Y1NEUQ?oc=5",
+    "content": "THIS WEEK IN K-POP: Ranking the New Releases from August 23 – 29 thebiaslist.com",
+    "published_at": "0830google-kpop",
+    "published_ts": 1788097650.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "本周K-POP新曲排行：8月23日至29日发布作品盘点",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "时间：8月23日至29日",
+      "主体：K-POP新发布作品",
+      "动作：进行排名"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：本周K-POP新曲排行，涵盖8月23日至29日发布的作品。]",
+    "extracted_at": "2026-08-30T23:57:07.554554+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Seong In Ho And Kim Do Min Showcase Playful Chemistry On Set Of New BL Drama “Summertime”",
+    "url": "https://www.soompi.com/article/1866802wpp/watch-seong-in-ho-and-kim-do-min-showcase-playful-chemistry-on-set-of-new-bl-drama-summertime",
+    "content": "New BL drama &#8220;Summertime&#8221; has released a behind-the-scenes video from episodes 1 and 2! “Summertime” is a youth romance BL about longtime childhood friends Yeo Eun Ho (Kim Do Min) and Cha Do Hyun (Seong In Ho) as they face their feelings for each other across the boundary of friendship and love. The newly released&#8230; Continue reading Watch: Seong In Ho And Kim Do Min Showcase Playful Chemistry On Set Of New BL Drama &#8220;Summertime&#8221;\nThe post Watch: Seong In Ho And Kim Do Min Showcase Playful Chemistry On Set Of New BL Drama &#8220;Summertime&#8221; appeared first on Soompi.",
+    "published_at": "0830soompi",
+    "published_ts": 1788086568.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《Summertime》公开拍摄花絮：成仁浩与金道民展现默契互动",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "时间：9月18日",
-      "平台：Netflix",
-      "主演：孙艺珍、池昌旭、Nana",
-      "剧名：《The Scandal》"
+      "事实点1：BL剧《Summertime》公开了第1、2集的幕后花絮视频。",
+      "事实点2：该剧讲述童年好友余恩浩（金道民饰）和车道贤（成仁浩饰）在友情与爱情边界上面对彼此感情的故事。"
     ],
-    "summary_zh": "韩国电视剧《The Scandal》将于9月18日在Netflix平台首播，由孙艺珍、池昌旭和Nana主演。",
-    "extracted_at": "2026-08-30T17:41:53.909035+08:00"
+    "summary_zh": "BL剧《Summertime》公开了第1、2集的幕后花絮视频。该剧是一部青春爱情BL剧，讲述了童年好友余恩浩（金道民饰）和车道贤（成仁浩饰）在友情与爱情的边界上面对彼此感情的故事。花絮中展现了两位主演成仁浩和金道民在片场的活泼互动和默契配合。",
+    "extracted_at": "2026-08-30T23:57:10.251648+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Ha Seok Jin, Hani, And More Set Out To Mend Broken Relationships In “Love On The Menu”",
+    "url": "https://www.soompi.com/article/1866774wpp/ha-seok-jin-hani-and-more-set-out-to-mend-broken-relationships-in-love-on-the-menu",
+    "content": "KBS2&#8217;s &#8220;Love on the Menu&#8221; has previewed the upcoming episode! “Love on the Menu” is a drama that tells the story of Kim Moo Jin (Ha Seok Jin) and Han Gyu Rim (Hani), two former lovers who reunite eight years after a painful breakup. As they reconnect, they piece together the fragments of their broken&#8230; Continue reading Ha Seok Jin, Hani, And More Set Out To Mend Broken Relationships In &#8220;Love On The Menu&#8221;\nThe post Ha Seok Jin, Hani, And More Set Out To Mend Broken Relationships In &#8220;Love On The Menu&#8221; appeared first on Soompi.",
+    "published_at": "0830soompi",
+    "published_ts": 1788082517.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《菜单上的爱》河锡辰与Hani等主演修复破碎关系，新剧照公开",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "KBS2电视剧《Love on the Menu》公开了即将播出剧集的预告。",
+      "该剧讲述河锡辰饰演的金武镇与Hani饰演的韩圭琳在痛苦分手八年后重逢，并试图修复破碎关系的故事。"
+    ],
+    "summary_zh": "KBS2电视剧《Love on the Menu》公开了新一集的预告。该剧由河锡辰饰演金武镇，Hani饰演韩圭琳，讲述两人在痛苦分手八年后重逢，并试图修复破碎关系的故事。",
+    "extracted_at": "2026-08-30T23:57:12.767897+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -44,10 +233,34 @@
     "is_blurred": false,
     "facts_list": [
       "事实点1：CJ ENM的《厨房士兵传说》在全球范围内崛起，具体国家或地区未提及。",
-      "事实点2：该报道由Variety发布，但未提供具体数据或声明。"
+      "事实点2：该报道来自Variety，但未提供具体数据或声明。"
     ],
-    "summary_zh": "Variety报道了CJ ENM的《厨房士兵传说》在全球的崛起，但未提及具体国家、数据或官方声明。",
-    "extracted_at": "2026-08-30T17:41:55.568863+08:00"
+    "summary_zh": "Variety报道了CJ ENM的《厨房士兵传说》在全球的崛起，但未提及具体国家、数据或官方声明，内容较为笼统。",
+    "extracted_at": "2026-08-30T23:57:14.551306+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Stray Kids' Lee Know donates W100m for Nepal flood relief - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ibzlqbXFYUTdnUklEaEtQUUxlRFVKSF9SRHFablVKTFdQM2dyNjFyYUVKQnhEWEUzSVVmdTZNanZkN0cyalNiQjBxY3BxY1RUNE9sNmh5RQ?oc=5",
+    "content": "Stray Kids' Lee Know donates W100m for Nepal flood relief The Korea Herald",
+    "published_at": "0830google-kpop",
+    "published_ts": 1788074894.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Stray Kids成员Lee Know为尼泊尔洪灾捐款1亿韩元",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：Stray Kids成员Lee Know向尼泊尔洪灾捐款1亿韩元（约合人民币52万元）",
+      "事实点2：该消息由The Korea Herald报道"
+    ],
+    "summary_zh": "据The Korea Herald报道，Stray Kids成员Lee Know为尼泊尔洪灾捐款1亿韩元。该笔捐款将用于支持尼泊尔洪灾的救援和重建工作。",
+    "extracted_at": "2026-08-30T23:57:16.339416+08:00"
   },
   {
     "source_id": "soompi",
@@ -72,7 +285,7 @@
       "主演包括金香起、崔丹尼尔、吴允儿、沈恩宇、朴正等"
     ],
     "summary_zh": "JTBC新剧《飞吧蝴蝶》公开首支预告。该剧以同名美发沙龙为背景，讲述美发师和实习生们将顾客打造成美丽蝴蝶的故事。主演阵容包括金香起、崔丹尼尔、吴允儿、沈恩宇、朴正等。",
-    "extracted_at": "2026-08-30T17:41:57.643072+08:00"
+    "extracted_at": "2026-08-30T23:57:18.555219+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -87,16 +300,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "东南亚艺人能否以SEA-pop复制K-pop全球成功？南华早报探讨",
+    "title_zh": "东南亚艺人能否借SEA-pop复制K-pop全球成功？",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：南华早报发布文章，探讨东南亚艺人能否以SEA-pop复制K-pop的全球成功。",
-      "事实点2：文章标题为“Can Southeast Asian artists replicate K-pop’s global success with SEA-pop?”，发布于南华早报。"
+      "事实点1：文章由南华早报发布，探讨东南亚艺人能否通过SEA-pop复制K-pop的全球成功。",
+      "事实点2：文章未提及具体艺人、数据或事件，仅提出概念性讨论。"
     ],
-    "summary_zh": "南华早报发布文章，探讨东南亚艺人能否以SEA-pop复制K-pop的全球成功。文章标题为“Can Southeast Asian artists replicate K-pop’s global success with SEA-pop?”，内容聚焦于东南亚流行音乐（SEA-pop）的潜力及其与K-pop的对比。",
-    "extracted_at": "2026-08-30T17:41:59.630408+08:00"
+    "summary_zh": "南华早报发文探讨东南亚艺人能否通过SEA-pop复制K-pop的全球成功。文章未提及具体案例或数据，仅提出概念性讨论，聚焦于区域流行音乐产业的潜力与挑战。",
+    "extracted_at": "2026-08-30T23:57:20.711588+08:00"
   },
   {
     "source_id": "soompi",
@@ -116,11 +329,35 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：tvN新剧《Four Hands, Two Sonatas》下一集中，宋江和李浚荣将组成二重奏搭档。",
-      "事实点2：该剧讲述在艺术高中相遇的两个学生的友谊、爱情、竞争和成长，从青春期到成年的旅程。"
+      "事实点1：tvN新剧《Four Hands, Two Sonatas》（暂译：四手联弹）下一集中，宋江和李浚荣将组成二重奏搭档。",
+      "事实点2：该剧讲述艺术高中两名学生从青春期到成年的友谊、爱情、竞争与成长故事。"
     ],
-    "summary_zh": "tvN新剧《Four Hands, Two Sonatas》即将播出新一集，宋江和李浚荣将在剧中组成二重奏搭档，关系因此变得更加亲近。该剧围绕艺术高中两名学生的友谊、爱情、竞争与成长展开，描绘他们从青春期到成年的历程。",
-    "extracted_at": "2026-08-30T17:42:02.019922+08:00"
+    "summary_zh": "据Soompi报道，tvN新剧《Four Hands, Two Sonatas》（暂译：四手联弹）的下一集中，宋江和李浚荣将作为二重奏搭档合作。该剧围绕艺术高中两名学生的友谊、爱情、竞争与成长展开，描绘他们从青春期到成年的历程。",
+    "extracted_at": "2026-08-30T23:57:23.317604+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-pop group Alpha Drive One (ALD1) tackles growing pains, prejudice, and stigma in their second EP, “UNBREAKABLE : 少年BEAST.” Curious about their music? Check the link in the comments. - Facebook",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTnRfQm1DVktVUklQZjVfWlpNWHB3V0MzUmVLMS1GQ0ktQmxTT2liMDhmUVlJZ3JmQ3FlYUk4NndIb0FtRUhuTzVWSnRnY2Vlb09JaUFVT3dmVG4wSTU1QWVhMlk2M25ycnNWcFpyOXhVclFHU0VLbldDekZGWmNEMTZJdVhMOGlVaHdkMklweW5BUHZuNnV1dW5udWx0T0hFNW1lNkEzTThEU3dDcVJkTDZJSVV0NzFzbVg4SmZLbGZKczFjOHdkRkdqaDZsZm16Wjl4Zko5UQ?oc=5",
+    "content": "K-pop group Alpha Drive One (ALD1) tackles growing pains, prejudice, and stigma in their second EP, “UNBREAKABLE : 少年BEAST.” Curious about their music? Check the link in the comments. Facebook",
+    "published_at": "0830google-kpop",
+    "published_ts": 1788066908.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Alpha Drive One携第二张EP《UNBREAKABLE：少年BEAST》回归，探讨成长与偏见",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：K-pop组合Alpha Drive One（ALD1）发行第二张迷你专辑《UNBREAKABLE：少年BEAST》",
+      "事实点2：专辑主题涉及成长烦恼、偏见与污名"
+    ],
+    "summary_zh": "K-pop组合Alpha Drive One（ALD1）通过第二张迷你专辑《UNBREAKABLE：少年BEAST》探讨成长中的烦恼、偏见与污名。专辑具体曲目及发行日期未在原文中提及。",
+    "extracted_at": "2026-08-30T23:57:25.405992+08:00"
   },
   {
     "source_id": "soompi",
@@ -135,18 +372,18 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "金裕贞与GOT7朴珍荣《百日骗局》预告片公开，卧底相遇",
+    "title_zh": "《百日欺骗》预告：金裕贞卧底遇GOT7朴珍荣",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "tvN公开新剧《百日骗局》预告片",
+      "tvN发布新剧《百日欺骗》新预告",
       "该剧由《非常律师禹英禑》和《浪漫医生金师傅》系列的导演刘仁植执导",
-      "《百日骗局》是一部时代间谍爱情剧，背景设定在日本占领韩国期间的100天",
-      "预告片中金裕贞与GOT7成员朴珍荣卧底相遇"
+      "《百日欺骗》是一部时代间谍爱情剧，背景设定在韩国日据时期的100天内",
+      "预告中金裕贞在卧底时与GOT7的朴珍荣相遇"
     ],
-    "summary_zh": "tvN公开了即将播出的电视剧《百日骗局》的新预告片。该剧由《非常律师禹英禑》和《浪漫医生金师傅》系列的导演刘仁植执导，是一部时代间谍爱情剧，背景设定在日本占领韩国期间的100天。预告片中，金裕贞饰演的角色与GOT7成员朴珍荣饰演的角色在卧底任务中相遇。",
-    "extracted_at": "2026-08-30T17:42:04.572204+08:00"
+    "summary_zh": "tvN发布了新剧《百日欺骗》的新预告。该剧由《非常律师禹英禑》和《浪漫医生金师傅》系列的导演刘仁植执导，是一部时代间谍爱情剧，背景设定在韩国日据时期的100天内。预告中，金裕贞在卧底时与GOT7的朴珍荣相遇。",
+    "extracted_at": "2026-08-30T23:57:27.787322+08:00"
   },
   {
     "source_id": "soompi",
@@ -161,16 +398,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "IVE《I AM》MV观看量突破4亿，创组合首个里程碑",
+    "title_zh": "IVE《I AM》MV播放量突破4亿，创组合首个纪录",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：8月30日下午1点（韩国时间）前，IVE的《I AM》MV在YouTube观看量突破4亿次。",
-      "事实点2：这是IVE组合首个达到4亿观看量的MV。"
+      "事实点1：8月30日下午1点（韩国时间）前，IVE的《I AM》MV在YouTube上播放量突破4亿次。",
+      "事实点2：这是IVE组合首个达到4亿播放量的音乐视频。"
     ],
-    "summary_zh": "IVE的歌曲《I AM》MV于8月30日下午1点（韩国时间）前在YouTube上突破4亿观看量，成为该组合首个达到此里程碑的MV。",
-    "extracted_at": "2026-08-30T17:42:06.461325+08:00"
+    "summary_zh": "IVE的歌曲《I AM》MV于8月30日下午1点（韩国时间）前在YouTube上突破4亿次观看，成为该组合首个达到此里程碑的音乐视频。",
+    "extracted_at": "2026-08-30T23:57:30.012969+08:00"
   },
   {
     "source_id": "soompi",
@@ -190,11 +427,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：CORTIS的第二张EP《GREENGREEN》于5月首次进入Billboard 200榜单，排名第3。",
-      "事实点2：该EP已连续15周在榜，成为CORTIS首张达成此成绩的专辑。"
+      "事实点1：CORTIS的第二张EP《GREENGREEN》于5月首次进入Billboard 200，空降第3名。",
+      "事实点2：该EP已连续15周在Billboard 200榜单上停留，成为CORTIS首张达成此成绩的专辑。"
     ],
-    "summary_zh": "CORTIS的第二张EP《GREENGREEN》在Billboard 200榜单上表现强劲，自5月以第3名首次入榜以来，已连续15周在榜，成为该组合首张达成此成绩的专辑。",
-    "extracted_at": "2026-08-30T17:42:08.862865+08:00"
+    "summary_zh": "CORTIS的第二张EP《GREENGREEN》在Billboard 200榜单上表现强劲，自5月以第3名空降后，已连续15周在榜，成为该组合首张达成此里程碑的专辑。",
+    "extracted_at": "2026-08-30T23:57:32.582738+08:00"
   },
   {
     "source_id": "soompi",
@@ -217,8 +454,8 @@
       "韩国企业评价研究所于8月30日发布8月新星品牌声誉排行榜，数据采集自7月30日至8月30日。",
       "高允贞在该月新星品牌声誉排行榜中位列第一。"
     ],
-    "summary_zh": "韩国企业评价研究所公布了8月新星品牌声誉排行榜，该排名基于7月30日至8月30日期间收集的大数据，分析了多位新星的媒体曝光、消费者参与度、互动和社区认知度指数。高允贞在本次排名中跃居榜首。",
-    "extracted_at": "2026-08-30T17:42:10.820539+08:00"
+    "summary_zh": "韩国企业评价研究所公布了8月新星品牌声誉排行榜，该排名基于7月30日至8月30日期间收集的大数据，分析了新星们的媒体曝光、消费者参与、互动和社区认知指数。高允贞在本次排名中跃升至榜首。",
+    "extracted_at": "2026-08-30T23:57:34.696912+08:00"
   },
   {
     "source_id": "soompi",
@@ -238,12 +475,37 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：上周，KATSEYE的新EP《WILD》在英国官方专辑榜上首次亮相即排名第2，创下她们在该榜单上的最高排名。",
-      "事实点2：该榜单被广泛视为英国版的美国Billboard 200。",
-      "事实点3：KATSEYE的《WILD》成为她们首张在英国官方专辑榜上停留多周的专辑。"
+      "事实点1：KATSEYE的EP《WILD》上周在英国官方专辑榜首次亮相即排名第2，创下他们在该榜单的最高排名。",
+      "事实点2：该专辑成为KATSEYE首张在英国官方专辑榜上停留多周的专辑。"
     ],
-    "summary_zh": "KATSEYE在英国取得职业生涯新突破。上周，她们的新EP《WILD》在英国官方专辑榜上首周空降第2名，创下她们在该榜单上的最高排名。该榜单被视为英国版的Billboard 200。如今，《WILD》成为KATSEYE首张在英国官方专辑榜上停留多周的专辑。",
-    "extracted_at": "2026-08-30T17:42:13.034844+08:00"
+    "summary_zh": "KATSEYE在英国取得职业生涯新突破。上周，他们的新EP《WILD》在英国官方专辑榜（相当于美国Billboard 200）上首次亮相即排名第2，创下他们在该榜单的最高排名。本周，该专辑继续停留在榜单上，成为KATSEYE首张在英国官方专辑榜上停留多周的专辑。",
+    "extracted_at": "2026-08-30T23:57:36.925826+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Another K-Drama to add sa watchlist natin! 🤩 Starring Son Ye-jin, Ji Chang-wook, and Nana, the South Korean series “The Scandal” will premiere on Netflix this coming September 18. Link to full story in the comments. - Facebook",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYmViTnBWQXI2UWZOYWxRRmtEQk1yOGl3N1YwSXJmdUt3X1lVeFdad3EwVjZIX2hOUmtlcTRGdkllN1JGSFp1a1M0YmpMWTRUVzFOQjBVWUV1YU1vWGFLV0ctSnZvTEEzMU05eGllYVIyWVdoWTR5eDVBU2dHcFF1UU1rVE1iaTFFcElwZ1EyUmNNVGV5X2ZOd2Z5TlRFanJRYmFJYTNaeUZTWFl2LWFwR1RRWUQ1a3c2UG9zSEpJUkl6MjFzYkxYYkVzZXEzeTFvTEJRMHQzaw?oc=5",
+    "content": "Another K-Drama to add sa watchlist natin! 🤩 Starring Son Ye-jin, Ji Chang-wook, and Nana, the South Korean series “The Scandal” will premiere on Netflix this coming September 18. Link to full story in the comments. Facebook",
+    "published_at": "0830google-kpop",
+    "published_ts": 1788056105.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "孙艺珍、池昌旭、Nana主演新剧《The Scandal》9月18日Netflix上线",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "时间：9月18日",
+      "平台：Netflix",
+      "主演：孙艺珍、池昌旭、Nana",
+      "剧名：《The Scandal》"
+    ],
+    "summary_zh": "韩国新剧《The Scandal》将于9月18日在Netflix首播，由孙艺珍、池昌旭和Nana主演。该消息来自Facebook帖子，具体剧情细节未提及。",
+    "extracted_at": "2026-08-30T23:57:38.788044+08:00"
   },
   {
     "source_id": "soompi",
@@ -263,11 +525,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：8月28日，Stray Kids成员Lee Know（李旻浩）向非政府组织World Vision捐赠1亿韩元（约72,610美元）。",
-      "事实点2：Lee Know特别要求将捐款用于为受尼泊尔洪灾影响的儿童和家庭提供救生援助和生计支持。"
+      "事实点1：8月28日，Stray Kids成员Lee Know（李旻浩）向非政府组织World Vision捐赠1亿韩元（约合72,610美元）。",
+      "事实点2：捐赠款项指定用于为受尼泊尔洪灾影响的儿童和家庭提供救生援助和生计支持。"
     ],
-    "summary_zh": "Stray Kids成员Lee Know于8月28日向非政府组织World Vision捐赠1亿韩元（约72,610美元），以帮助尼泊尔洪灾受害者。他特别要求将这笔资金用于为受影响的儿童和家庭提供救生援助和生计支持。",
-    "extracted_at": "2026-08-30T17:42:15.164385+08:00"
+    "summary_zh": "Stray Kids成员Lee Know于8月28日向非政府组织World Vision捐赠1亿韩元（约合72,610美元），用于帮助尼泊尔洪灾受害者。他特别要求将这笔资金用于为受影响的儿童和家庭提供救生援助和生计支持。",
+    "extracted_at": "2026-08-30T23:57:41.212353+08:00"
   },
   {
     "source_id": "soompi",
@@ -282,16 +544,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《四手联弹》首播收视亮眼，《Flex X Cop 2》后半程开播创自身最高收视",
+    "title_zh": "《四手联弹》首播收视亮眼，《Flex X Cop 2》后半程开播创自身新高",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：8月29日，tvN《四手联弹》首播，尼尔森韩国数据显示全国平均收视率3.4%，同时段有线台排名第一",
-      "事实点2：SBS《Flex X Cop 2》后半程开播，收视率创自身最高纪录"
+      "事实点1：8月29日，tvN《四手联弹》首播，尼尔森韩国数据显示全国平均收视率3.4%，在同时段所有有线频道中排名第一。",
+      "事实点2：SBS《Flex X Cop 2》后半程开播，收视率创自身历史新高。"
     ],
-    "summary_zh": "8月29日，tvN新剧《四手联弹》首播，据尼尔森韩国数据，首集全国平均收视率为3.4%，在同时段有线频道中排名第一。同时，SBS《Flex X Cop 2》后半程开播，收视率创下自身最高纪录。",
-    "extracted_at": "2026-08-30T17:42:17.214129+08:00"
+    "summary_zh": "8月29日，tvN新剧《四手联弹》首播，据尼尔森韩国数据，首集全国平均收视率为3.4%，在同时段所有有线频道中排名第一。同时，SBS《Flex X Cop 2》后半程开播，收视率创自身历史新高。",
+    "extracted_at": "2026-08-30T23:57:43.656689+08:00"
   },
   {
     "source_id": "soompi",
@@ -314,8 +576,8 @@
       "事实点1：文章推荐了3部与《梦到你》类似的浪漫喜剧，但未列出具体剧名。",
       "事实点2：《梦到你》由惠利和黄寅烨主演，融合了家庭关系、童年创伤、成年、梦想和真爱等主题。"
     ],
-    "summary_zh": "本文推荐了3部与《梦到你》类似的浪漫喜剧。《梦到你》由惠利和黄寅烨主演，该剧融合了家庭关系、童年创伤、成年、梦想和真爱等多个主题，给观众带来惊喜。文章建议喜欢该剧的观众观看这3部推荐作品，但未在摘要中列出具体剧名。",
-    "extracted_at": "2026-08-30T17:42:19.613089+08:00"
+    "summary_zh": "本文推荐了3部与《梦到你》类似的浪漫喜剧，但未具体列出剧名。《梦到你》由惠利和黄寅烨主演，该剧融合了家庭关系、童年创伤、成年、梦想和真爱等多个主题，给观众带来惊喜。",
+    "extracted_at": "2026-08-30T23:57:45.978254+08:00"
   },
   {
     "source_id": "soompi",
@@ -335,12 +597,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "8月29日MBC《音乐中心》节目中，ENHYPEN凭借《Bloody Paradise》以总分7,834分获得第一名，这是他们首次在该节目夺冠。",
+      "8月29日MBC《音乐中心》节目中，ENHYPEN凭借《Bloody Paradise》以总分7,834分获得第一名，这是他们出道以来首次在该节目夺冠。",
       "该曲此前已获得三个音乐节目冠军，此次为第四个冠军。",
-      "同集出演的艺人包括NCT 127、Hearts2Hearts等。"
+      "同集节目还有NCT 127、Hearts2Hearts等艺人的表演舞台。"
     ],
-    "summary_zh": "在8月29日播出的MBC《音乐中心》中，ENHYPEN凭借歌曲《Bloody Paradise》以7,834分的总分击败BIGBANG的《BiiiG》和KiiiKiii的《Pop Off Pop Off》，获得该节目首个第一名，这也是该曲的第四个音乐节目冠军。本期节目还带来了NCT 127、Hearts2Hearts等艺人的精彩舞台。",
-    "extracted_at": "2026-08-30T17:42:22.224176+08:00"
+    "summary_zh": "在8月29日播出的MBC《音乐中心》中，ENHYPEN凭借歌曲《Bloody Paradise》以7,834分的总分击败BIGBANG的《BiiiG》和KiiiKiii的《Pop Off Pop Off》，获得该节目首个第一名，这也是他们为这首歌赢得的第四个音乐节目冠军。此外，本期节目还包含了NCT 127、Hearts2Hearts等艺人的精彩表演。",
+    "extracted_at": "2026-08-30T23:57:48.865300+08:00"
   },
   {
     "source_id": "asianwiki",
