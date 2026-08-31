@@ -1,5 +1,590 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "‘Four Hands, Two Sonatas’ release schedule: When do new episodes premiere? - Lifestyle Asia",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUllnc010S2F2cnE0SHppQUl5bjM3U2lPU2I5RnVJRkNBaFdTU2FaRmw0TkpIVEgydkxURTVGYmpWSkZjWXJWM1Q0bGh4YjFsVVJROEtpVFdqVzJCRzNld0x2dVlGNElPdndabUZUMDhMVnNJdVl1T1EtNm5FM3pBZ1lOOFRWZzhhbEJIQjFXdHppZVBDVm5jdU9sb2c0NUhLM3U3RG02LVVrRW5fV2pfTF9NWkloU3A0V1BJVlV4ZHVuQdIBxwFBVV95cUxNSzhmRG9mYTNnUnJ0QXFKTzlGOW1uOVB4NU10YjYtTHdiV3ZkM2RTVkxFZVRuRDJBdzQzeC02ZGF4VmMtYURjWV9JMHNyaXdkeFNWc3lvOE5Oa0E1VEhVQjJfVEhyY3d2MjUydzY5bzRmMlZhcVF6YWNCbk5ZekZCamhZX21aSV9lTVhSM2xYRndFc1lDXzZGY2xfeE1tTFJyeUlzSEUxQnZFVDRKcjI1a0N4dlhBTDNFZmlrRkxUUzhiYm5RWDJZ?oc=5",
+    "content": "‘Four Hands, Two Sonatas’ release schedule: When do new episodes premiere? Lifestyle Asia",
+    "published_at": "0831google-kpop",
+    "published_ts": 1788171015.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《四手联弹》播出时间表：新剧集何时首播？",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：该资讯来自Lifestyle Asia，报道了韩剧《Four Hands, Two Sonatas》的播出时间表。",
+      "事实点2：资讯标题询问新剧集的首播时间，但正文未提供具体日期或平台信息。"
+    ],
+    "summary_zh": "Lifestyle Asia发布了一篇关于韩剧《Four Hands, Two Sonatas》播出时间表的资讯，标题询问新剧集何时首播，但正文未提供具体日期或平台信息。",
+    "extracted_at": "2026-08-31T18:26:03.062900+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "'Golden' from Kpop Demon Hunters | Kelly Clarkson Kellyoke Cover - Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMktvT0JGUFlBS1F4RmxLZ0xvNFpyOXFvQnl2M0NjZWhWUU1BOWVlb25TWmFobnk0N0RQZ3V1VWxvVHFscmxGRHF4TEhHcE82N3BlczhxdHB5MmRJWWZ1NXdrWWtndDlHejZhUFBfUzM5NDU2dFE5ODFXSE9mS0NSQmJ2aXltZGxNVEhRckk1UFNtenc?oc=5",
+    "content": "'Golden' from Kpop Demon Hunters | Kelly Clarkson Kellyoke Cover Yahoo",
+    "published_at": "0831google-kpop",
+    "published_ts": 1788170400.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Kelly Clarkson Kellyoke翻唱Kpop Demon Hunters歌曲《Golden》",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：Kelly Clarkson在Kellyoke环节翻唱了Kpop Demon Hunters的歌曲《Golden》",
+      "事实点2：该翻唱视频由Yahoo发布"
+    ],
+    "summary_zh": "Kelly Clarkson在Kellyoke环节翻唱了Kpop Demon Hunters的歌曲《Golden》，该视频由Yahoo发布。",
+    "extracted_at": "2026-08-31T18:26:04.687049+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Interview: Rising K-Pop Group ONE PACT Talk KCON LA, OUTSHINE Tour, and More - BroadwayWorld",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVW42TG1oY2UyVmFsbVpScWt2RkxGNkkyWHZwRVhYVXh2dDA0UUZWTk5SX1JxdFNyWm52U0tPTXZzNF9BdkVJQWFpOUlhcVlRZGd5UE84dUlqTUxTcnVYQU9vY1pUUmtMM05iWUwxYlBZVzQ5eTVTYmQ1elpZeDByWkZQaF9Vc1RQSmtHNTFyVzRxaW5HN1F1QU1IT09zdE44MWctMzBIZTVmWHViWkw4M0dNa2JBbFFmcXg5dUx2aFMyY2pUeDFtVw?oc=5",
+    "content": "Interview: Rising K-Pop Group ONE PACT Talk KCON LA, OUTSHINE Tour, and More BroadwayWorld",
+    "published_at": "0831google-kpop",
+    "published_ts": 1788170208.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "专访：新锐韩团ONE PACT谈KCON LA与OUTSHINE巡演",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：ONE PACT接受BroadwayWorld采访，谈论参加KCON LA的经历",
+      "事实点2：ONE PACT谈及OUTSHINE巡演相关计划"
+    ],
+    "summary_zh": "新锐K-POP组合ONE PACT近期接受BroadwayWorld专访，分享了参加KCON LA的感想，并谈及即将进行的OUTSHINE巡演。采访中，成员们还提到了其他活动计划，但具体细节未在原文中详述。",
+    "extracted_at": "2026-08-31T18:26:06.549151+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Lee Hyun Kyun Targets Ryu Seung Ryong While Park Myung Hoon Comes To His Aid In “Portrait Of A Family”",
+    "url": "https://www.soompi.com/article/1867119wpp/lee-hyun-kyun-targets-ryu-seung-ryong-while-park-myung-hoon-comes-to-his-aid-in-portrait-of-a-family",
+    "content": "“Portrait of a Family” has unveiled new stills of Lee Hyun Kyun’s and Park Myung Hoon’s characters! “Portrait of a Family” is a family chronicle that follows top star couple Jung Gu (Ryu Seung Ryong) and Nam Mi (Ha Ji Won). After their marriage falls apart due to the sudden appearance of Jung Gu’s daughter&#8230; Continue reading Lee Hyun Kyun Targets Ryu Seung Ryong While Park Myung Hoon Comes To His Aid In “Portrait Of A Family”\nThe post Lee Hyun Kyun Targets Ryu Seung Ryong While Park Myung Hoon Comes To His Aid In “Portrait Of A Family” appeared first on Soompi.",
+    "published_at": "0831soompi",
+    "published_ts": 1788169719.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《家族肖像》新剧照：李贤均瞄准柳承龙，朴明勋出手相助",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "《家族肖像》公开了李贤均和朴明勋角色的新剧照。",
+      "该剧讲述顶级明星夫妇郑九（柳承龙饰）和南美（河智苑饰）因郑九女儿突然出现而婚姻破裂的家庭故事。"
+    ],
+    "summary_zh": "韩剧《家族肖像》公开了新剧照，展示了李贤均和朴明勋的角色互动。该剧是一部家庭编年史，讲述顶级明星夫妇郑九（柳承龙饰）和南美（河智苑饰）因郑九女儿突然出现而导致婚姻破裂的故事。新剧照中，李贤均的角色瞄准柳承龙，而朴明勋的角色则前来相助。",
+    "extracted_at": "2026-08-31T18:26:08.690313+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Will Ryu Jun-yeol’s thriller K-drama ‘Mousetrap’ return for season 2 on Netflix? - Lifestyle Asia",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQkZDUk81T3UtelRMUlNZbzd6YUpFbWpPM3o2cXhEVVJOOXhRa29taWpzekxYMVhPc25EeXcweU1id0tVRmprYUFYaWhJbUFWZmtFajVtZDZFRXBlNTJhMEN1cEszemFBWXkwMWpWYnhMYl9GU2Y2S0p1U0loLVVaOUxqVFUxYVRjRUo4ZmNHM3dLbmNsN2RKRzBCV3JZUWdhU09NbHQyRFZqTTNZako4UtIBtgFBVV95cUxPc0cyenZlbk5fT0tNM3V4bGlhN3g2N0xrcjJxVld1TUNmZ3B3dVlOYjNIYmZ0VWRuTnVmQXJteTE2dUoxRk9aaDRCTWhTcTFUeEt1V0hMRC05aE1Dc2ZOdHFJOTd5ME91dWtvOWV1TVh0WE1sTjZGUFlGUE1meHd2TFU1cTA3ZmlHdzgtV1VXT1BZbDBfRlItd3QwRGdLWHB4SFVmMDRuOElSRDlpRkNjMDgwc2RZQQ?oc=5",
+    "content": "Will Ryu Jun-yeol’s thriller K-drama ‘Mousetrap’ return for season 2 on Netflix? Lifestyle Asia",
+    "published_at": "0831google-kpop",
+    "published_ts": 1788167081.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "柳俊烈主演惊悚韩剧《捕鼠器》能否在Netflix推出第二季？",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：柳俊烈主演的惊悚韩剧《捕鼠器》在Netflix播出。",
+      "事实点2：文章探讨该剧是否有第二季的可能性。"
+    ],
+    "summary_zh": "据Lifestyle Asia报道，由柳俊烈主演的惊悚韩剧《捕鼠器》在Netflix播出，目前观众和媒体关注该剧是否会推出第二季。文章讨论了该剧的受欢迎程度及续订的可能性，但未提及具体数据或官方声明。",
+    "extracted_at": "2026-08-31T18:26:10.595969+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kim Yo Han, Leeteuk, And More Must Put Their Faith In Their Teammates In “ALL or NOTHING”",
+    "url": "https://www.soompi.com/article/1867096wpp/kim-yo-han-leeteuk-and-more-must-put-their-faith-in-their-teammates-in-all-or-nothing",
+    "content": "The six members of “ALL or NOTHING” will face off in an individual battle in the upcoming episode! “ALL or NOTHING” is a new winner-take-all travel variety series set in Egypt. Over seven days and six nights, the cast will compete for the title of “prince” across the cities of Cairo, Luxor, and Hurghada. The&#8230; Continue reading Kim Yo Han, Leeteuk, And More Must Put Their Faith In Their Teammates In “ALL or NOTHING”\nThe post Kim Yo Han, Leeteuk, And More Must Put Their Faith In Their Teammates In “ALL or NOTHING” appeared first on Soompi.",
+    "published_at": "0831soompi",
+    "published_ts": 1788166746.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "金曜汉、利特等出演《ALL or NOTHING》埃及旅行综艺，展开个人对决",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：综艺《ALL or NOTHING》是一档在埃及拍摄的全新赢家通吃旅行综艺。",
+      "事实点2：节目为期7天6夜，出演者将在开罗、卢克索、赫尔格达等城市竞争“王子”称号。",
+      "事实点3：在即将播出的节目中，包括金曜汉、利特在内的六名成员将进行个人对决。"
+    ],
+    "summary_zh": "综艺《ALL or NOTHING》是一档在埃及拍摄的全新赢家通吃旅行综艺，为期7天6夜，出演者将在开罗、卢克索、赫尔格达等城市竞争“王子”称号。在即将播出的节目中，包括金曜汉、利特在内的六名成员将进行个人对决，考验对队友的信任。",
+    "extracted_at": "2026-08-31T18:26:13.272647+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Koo Kyo Hwan Grows Stronger Every Time He Dies In New Film “Reawaken Man: The Red” Teaser",
+    "url": "https://www.soompi.com/article/1867006wpp/watch-koo-kyo-hwan-grows-stronger-every-time-he-dies-in-new-film-reawaken-man-the-red-teaser",
+    "content": "The upcoming film “Reawaken Man: The Red” has released a new teaser! Based on a webtoon, “Reawaken Man: The Red” follows Seok Hwan (Koo Kyo Hwan), an unemployed job seeker whose only qualification is his unfounded confidence. After dying, he discovers that he has the ability to come back to life 72 hours later. As&#8230; Continue reading Watch: Koo Kyo Hwan Grows Stronger Every Time He Dies In New Film “Reawaken Man: The Red” Teaser\nThe post Watch: Koo Kyo Hwan Grows Stronger Every Time He Dies In New Film “Reawaken Man: The Red” Teaser appeared first on Soompi.",
+    "published_at": "0831soompi",
+    "published_ts": 1788166441.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "具教焕新片《重醒男人：红色》预告公开，每次死亡后变得更强大",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "电影《重醒男人：红色》发布新预告片",
+      "该片改编自网络漫画，由具教焕饰演石焕，一个无业求职者，唯一资格是盲目的自信",
+      "石焕死后发现自己能在72小时后复活"
+    ],
+    "summary_zh": "电影《重醒男人：红色》公开新预告。该片改编自网络漫画，讲述具教焕饰演的无业求职者石焕，在死后发现自己拥有72小时后复活的能力，并且每次复活后变得更强大。",
+    "extracted_at": "2026-08-31T18:26:15.086884+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "KickFlip Confirmed To Make October Comeback",
+    "url": "https://www.soompi.com/article/1867092wpp/kickflip-confirmed-to-make-october-comeback",
+    "content": "It’s official: KickFlip is gearing up for a comeback! On August 31, OSEN reported that KickFlip is currently preparing for a comeback with the goal of releasing new music in October. In response to the report, JYP Entertainment confirmed, “KickFlip is working on new music with the goal of making a comeback in October.” This&#8230; Continue reading KickFlip Confirmed To Make October Comeback\nThe post KickFlip Confirmed To Make October Comeback appeared first on Soompi.",
+    "published_at": "0831soompi",
+    "published_ts": 1788164605.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "KickFlip确定10月回归，JYP娱乐确认新曲筹备中",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：8月31日，OSEN报道称KickFlip正在准备回归，目标10月发行新音乐。",
+      "事实点2：JYP娱乐回应确认：“KickFlip正在制作新音乐，目标10月回归。”"
+    ],
+    "summary_zh": "据8月31日OSEN报道，KickFlip正在准备回归，目标于10月发行新音乐。JYP娱乐随后确认了这一消息，表示KickFlip正在制作新音乐，并计划在10月回归。具体回归日期和专辑细节尚未公布。",
+    "extracted_at": "2026-08-31T18:26:16.853372+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Lee Hyun Wook, Jang Hyuk, And Park Sung Woong Head To Battle In Upcoming Historical Drama “The Great King Munmu”",
+    "url": "https://www.soompi.com/article/1867048wpp/watch-lee-hyun-wook-jang-hyuk-and-park-sung-woong-head-to-battle-in-upcoming-historical-drama-the-great-king-munmu",
+    "content": "Upcoming drama “The Great King Munmu” has released a new teaser! Directed by Kim Yeong Jo of “Hwarang: The Poet Warrior Youth,” “The Great King Munmu” follows the tale of how the small kingdom of Silla overcame the stronger states of Goguryeo, Baekje, and the Tang dynasty of China to unify the Three Kingdoms. The&#8230; Continue reading Watch: Lee Hyun Wook, Jang Hyuk, And Park Sung Woong Head To Battle In Upcoming Historical Drama &#8220;The Great King Munmu&#8221;\nThe post Watch: Lee Hyun Wook, Jang Hyuk, And Park Sung Woong Head To Battle In Upcoming Historical Drama &#8220;The Great King Munmu&#8221; appeared first on Soompi.",
+    "published_at": "0831soompi",
+    "published_ts": 1788163354.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "李现旭、张赫、朴成雄主演新剧《文武大王》发布新预告，三国统一之战即将打响",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：新剧《文武大王》发布新预告，由金英祖导演执导，其曾执导《花郎：The Poet Warrior Youth》。",
+      "事实点2：该剧讲述新罗小国如何克服高句丽、百济和唐朝等强国，统一三国的故事。",
+      "事实点3：主演包括李现旭、张赫和朴成雄，他们将在剧中走向战场。"
+    ],
+    "summary_zh": "新剧《文武大王》公开新预告，该剧由金英祖导演执导，讲述新罗王国如何克服高句丽、百济和唐朝等强国，最终统一三国的故事。主演李现旭、张赫和朴成雄将带领观众走进这场历史战役。",
+    "extracted_at": "2026-08-31T18:26:19.347614+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Choi Min Sik And Han So Hee Lead A Colorful Office Ensemble In New “The Intern” Behind-The-Scenes Video",
+    "url": "https://www.soompi.com/article/1867069wpp/watch-choi-min-sik-and-han-so-hee-lead-a-colorful-office-ensemble-in-new-the-intern-behind-the-scenes-video",
+    "content": "The upcoming film “The Intern” has unveiled a new poster and behind-the-scenes video! A remake of the Hollywood film of the same name, “The Intern” tells the story of an office life that transcends generations and job titles, beginning when Gi Ho (Choi Min Sik), a senior intern with 37 years of work experience, joins&#8230; Continue reading Watch: Choi Min Sik And Han So Hee Lead A Colorful Office Ensemble In New “The Intern” Behind-The-Scenes Video\nThe post Watch: Choi Min Sik And Han So Hee Lead A Colorful Office Ensemble In New “The Intern” Behind-The-Scenes Video appeared first on Soompi.",
+    "published_at": "0831soompi",
+    "published_ts": 1788162176.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "崔岷植与韩素希主演新片《实习生》公开新海报及幕后视频",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "电影《实习生》公开了新海报和幕后视频。",
+      "该片翻拍自同名好莱坞电影，讲述37年工作经验的资深实习生基浩（崔岷植饰）加入公司后，跨越世代和职位的职场故事。"
+    ],
+    "summary_zh": "即将上映的电影《实习生》公开了新海报和幕后视频。该片翻拍自同名好莱坞电影，讲述37年工作经验的资深实习生基浩（崔岷植饰）加入公司后，跨越世代和职位的职场故事。",
+    "extracted_at": "2026-08-31T18:26:21.104844+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "E’LAST Announces Disbandment",
+    "url": "https://www.soompi.com/article/1867028wpp/elast-announces-disbandment",
+    "content": "The group E&#8217;LAST is concluding their activities after six years since their debut. On August 31, E&#8217;LAST&#8217;s agency E Entertainment released an official statement titled &#8220;Announcement Regarding the Termination of E&#8217;LAST&#8217;s Exclusive Contracts&#8221; through the group&#8217;s official channels. Read the full statement below: Hello, this is E Entertainment. After taking sufficient time for in-depth conversations&#8230; Continue reading E&#8217;LAST Announces Disbandment\nThe post E&#8217;LAST Announces Disbandment appeared first on Soompi.",
+    "published_at": "0831soompi",
+    "published_ts": 1788160823.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "E'LAST出道六年后宣布解散，所属社E Entertainment发布官方声明",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：8月31日，E'LAST所属社E Entertainment通过组合官方渠道发布题为'关于终止E'LAST专属合约的公告'的官方声明",
+      "事实点2：声明中表示，经过充分深入的对话后，决定终止E'LAST的专属合约，组合在出道六年后结束活动"
+    ],
+    "summary_zh": "韩国男团E'LAST在出道六年后宣布解散。8月31日，所属社E Entertainment通过官方渠道发布声明，宣布终止与E'LAST的专属合约。声明中表示，经过充分深入的对话后做出了这一决定。E'LAST于2018年出道，此次解散标志着组合活动的正式结束。",
+    "extracted_at": "2026-08-31T18:26:23.296116+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Seo Kang Jun Talks About Why He Chose To Star In “A Love Other Than Yours,” His Character, And Chemistry With Ahn Eun Jin",
+    "url": "https://www.soompi.com/article/1866931wpp/seo-kang-jun-talks-about-why-he-chose-to-star-in-a-love-other-than-yours-his-character-and-chemistry-with-ahn-eun-jin",
+    "content": "Seo Kang Jun has shared his thoughts on his upcoming drama “A Love Other Than Yours”! “A Love Other Than Yours” is a realistic romance drama that follows a couple in their 10th year of dating as they experience unexpected emotional changes in a relationship that once felt familiar. Seo Kang Jun plays Namgoong Ho,&#8230; Continue reading Seo Kang Jun Talks About Why He Chose To Star In “A Love Other Than Yours,” His Character, And Chemistry With Ahn Eun Jin\nThe post Seo Kang Jun Talks About Why He Chose To Star In “A Love Other Than Yours,” His Character, And Chemistry With Ahn Eun Jin appeared first on Soompi.",
+    "published_at": "0831soompi",
+    "published_ts": 1788160278.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "徐康俊谈新剧《不是你的爱》选角理由、角色与安恩真化学反应",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "徐康俊谈及出演新剧《不是你的爱》的理由",
+      "该剧讲述一对恋爱10年的情侣在熟悉的关系中经历意外情感变化的现实浪漫剧",
+      "徐康俊饰演南宫浩一角",
+      "徐康俊谈及与安恩真的化学反应"
+    ],
+    "summary_zh": "徐康俊分享了关于即将播出的电视剧《不是你的爱》的想法。该剧是一部现实浪漫剧，讲述一对恋爱10年的情侣在熟悉的关系中经历意外情感变化的故事。徐康俊饰演南宫浩，并谈及了选择出演该剧的理由、角色以及与安恩真的化学反应。",
+    "extracted_at": "2026-08-31T18:26:25.377076+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Korean Drama Update for August 2026 - Kdrama Kisses -",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB5SzhlNHJmZkdzdmIzRW9sVmRiUjNUV2FUN0o0ZnNjY1RmOW5BNVpIMnZtZGFvWVlKeGlRZVkteGRLZnRBSUpETW96SU13TEdiX1dZOV9WSnJoZFlaZF9sRmhzOF96OFhFNFAwaTIwalVneGZJQ1NreWtPQWw?oc=5",
+    "content": "Korean Drama Update for August 2026 Kdrama Kisses -",
+    "published_at": "0831google-kpop",
+    "published_ts": 1788159602.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "2026年8月韩剧更新：Kdrama Kisses发布最新动态",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "事实点1：2026年8月，Kdrama Kisses发布了韩剧更新资讯。"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：2026年8月，Kdrama Kisses发布了韩剧更新资讯。]",
+    "extracted_at": "2026-08-31T18:26:26.708961+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "LG creates virtual K-pop group to advertise washer-dryer - UA.NEWS",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYTQ3R1pqb1NjM1FYZHl6TXdLMlFjUG9MeElWcjZ1UXdPRUZXMWtrVlZTYkZscHVXT0gwdUZNRTA4Mi1HbzQwMTdvckppMGVZMnNoX04yMFBXSkRyVGlFZWhCMUdVZmQ2d0JXNEZfUENhemgtVFI5djBYUUF6M1ZLRVhCUHQtNFpOUDdDdWJVVE5CSV9wYlVDUXRwenhSQktTc0Q3WUVabw?oc=5",
+    "content": "LG creates virtual K-pop group to advertise washer-dryer UA.NEWS",
+    "published_at": "0831google-kpop",
+    "published_ts": 1788159366.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "LG推出虚拟K-pop组合为洗衣机烘干机打广告",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "LG电子创建了一个虚拟K-pop组合，用于宣传其洗衣机烘干机产品。"
+    ],
+    "summary_zh": "LG电子创建了一个虚拟K-pop组合，用于为其洗衣机烘干机产品进行广告宣传。该组合是虚拟的，旨在通过K-pop文化吸引消费者关注其家电产品。",
+    "extracted_at": "2026-08-31T18:26:28.173888+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-pop group Enhypen scores first US Billboard 200 No. 1 with ‘The Sin: Bliss’ as Dolly Parton returns to top five - Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjSENLOU5YVHN5ZUlRVVZ0VHFBcUlQaFJCVmRUdWZFWjJOVnc4Qnp2N1dINUVwN2VVV0ozZ0lvT1pyLXFsbTF1WjlXelh1VXlPLS1kRkdva19wVW8wUnB4LWFvcF9Kd1lBZDB1eURsOW9Ya3BMSnBvcGlaODUzZw?oc=5",
+    "content": "K-pop group Enhypen scores first US Billboard 200 No. 1 with ‘The Sin: Bliss’ as Dolly Parton returns to top five Yahoo",
+    "published_at": "0831google-kpop",
+    "published_ts": 1788158640.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Enhypen凭《The Sin: Bliss》首次登顶美国Billboard 200，Dolly Parton重返前五",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Enhypen凭借专辑《The Sin: Bliss》首次获得美国Billboard 200冠军",
+      "Dolly Parton重返Billboard 200前五名"
+    ],
+    "summary_zh": "韩国男团Enhypen凭借专辑《The Sin: Bliss》首次登上美国Billboard 200排行榜第一名，同时Dolly Parton的专辑也重返前五名。",
+    "extracted_at": "2026-08-31T18:26:29.761044+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Cha Woo Min Shocks Kang Hoon With A Mysterious Woman From His Past In “My Bias, My Boss”",
+    "url": "https://www.soompi.com/article/1867027wpp/cha-woo-min-shocks-kang-hoon-with-a-mysterious-woman-from-his-past-in-my-bias-my-boss",
+    "content": "Kang Hoon and Cha Woo Min’s longtime friendship is facing a crisis in “My Bias, My Boss”! Based on a webtoon, “My Bias, My Boss” tells the story of the romance between Nam Da Reum (Kim Hye Jun), who joins a company in hopes of meeting her longtime idol bias Lee Chan (Cha Woo Min),&#8230; Continue reading Cha Woo Min Shocks Kang Hoon With A Mysterious Woman From His Past In “My Bias, My Boss”\nThe post Cha Woo Min Shocks Kang Hoon With A Mysterious Woman From His Past In “My Bias, My Boss” appeared first on Soompi.",
+    "published_at": "0831soompi",
+    "published_ts": 1788158226.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《我的偶像，我的老板》车宇民与姜勋友情危机：神秘女子登场",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：在《我的偶像，我的老板》中，姜勋和车宇民的长久友情面临危机。",
+      "事实点2：车宇民向姜勋展示了一位来自他过去的神秘女子，引发剧情冲突。",
+      "事实点3：该剧改编自网络漫画，讲述金惠俊饰演的南多琳进入公司，希望见到她长期崇拜的偶像车宇民饰演的李灿的故事。"
+    ],
+    "summary_zh": "在《我的偶像，我的老板》中，姜勋和车宇民的长久友情面临危机。车宇民向姜勋展示了一位来自他过去的神秘女子，引发剧情冲突。该剧改编自网络漫画，讲述金惠俊饰演的南多琳进入公司，希望见到她长期崇拜的偶像车宇民饰演的李灿的故事。",
+    "extracted_at": "2026-08-31T18:26:32.037150+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Lee Jun Hyuk Is An Office Worker Whose Life Changes After Winning The Lottery In New Drama “The Ordinary Jackpot”",
+    "url": "https://www.soompi.com/article/1866992wpp/lee-jun-hyuk-is-an-office-worker-whose-life-changes-after-winning-the-lottery-in-new-drama-the-ordinary-jackpot",
+    "content": "“The Ordinary Jackpot” has unveiled new stills of Lee Jun Hyuk in character! Based on a webtoon, “The Ordinary Jackpot” follows Gong Eun Tae (Lee Jun Hyuk), an ordinary sales employee who wins the lottery jackpot. Though the prize—1.3 billion won (approximately $946,000)—isn’t quite enough to dramatically transform his life overnight, the experience ultimately inspires&#8230; Continue reading Lee Jun Hyuk Is An Office Worker Whose Life Changes After Winning The Lottery In New Drama “The Ordinary Jackpot”\nThe post Lee Jun Hyuk Is An Office Worker Whose Life Changes After Winning The Lottery In New Drama “The Ordinary Jackpot” appeared first on Soompi.",
+    "published_at": "0831soompi",
+    "published_ts": 1788158059.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "李浚赫新剧《普通彩票》剧照公开，饰演中奖后人生改变的上班族",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：新剧《The Ordinary Jackpot》（暂译：普通彩票）公开了李浚赫的角色剧照。",
+      "事实点2：该剧改编自网络漫画，李浚赫饰演普通销售职员孔恩泰（暂译）。",
+      "事实点3：孔恩泰中了13亿韩元（约94.6万美元）的彩票头奖，但该金额不足以彻底改变生活。"
+    ],
+    "summary_zh": "新剧《The Ordinary Jackpot》（暂译：普通彩票）公开了李浚赫的剧照。该剧改编自网络漫画，讲述普通销售职员孔恩泰（李浚赫饰）中了13亿韩元（约94.6万美元）彩票头奖的故事。尽管奖金不足以一夜之间彻底改变他的生活，但这一经历最终激励了他。",
+    "extracted_at": "2026-08-31T18:26:34.601482+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: EVAN (Heeseung) Reveals Official Light Stick Design",
+    "url": "https://www.soompi.com/article/1867015wpp/watch-evan-heeseung-reveals-official-light-stick-design",
+    "content": "EVAN (Heeseung) will be releasing his official light stick! On August 31, EVAN unveiled a teaser video featuring the design for his new light stick. In the teaser video, bright feathers come together to form wings, which act as the centerpiece for the light stick. Engraved on the wings is the artist&#8217;s name EVAN. Check&#8230; Continue reading Watch: EVAN (Heeseung) Reveals Official Light Stick Design\nThe post Watch: EVAN (Heeseung) Reveals Official Light Stick Design appeared first on Soompi.",
+    "published_at": "0831soompi",
+    "published_ts": 1788156581.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "EVAN（Heeseung）公开官方应援棒设计，羽毛翅膀造型吸睛",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：8月31日，EVAN（Heeseung）公开了官方应援棒的预告视频。",
+      "事实点2：预告视频中，应援棒以羽毛组成的翅膀为中心设计，翅膀上刻有艺人名字EVAN。"
+    ],
+    "summary_zh": "8月31日，EVAN（Heeseung）通过预告视频公开了其官方应援棒的设计。该应援棒以羽毛组成的翅膀为核心元素，翅膀上刻有EVAN的名字。更多细节尚未公布。",
+    "extracted_at": "2026-08-31T18:26:36.329591+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Has 'APT.' made Rose too selective? - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE55WFNRVHlCQU42X1gxaUdFZTFOcmliT1Y0ZVpWNDBGanNDc0lkN3FKczktTEtRVURZOEd2X0E4NTNQMFpOczVVNTE3M3ZKWU85U0pMNlZmdw?oc=5",
+    "content": "Has 'APT.' made Rose too selective? The Korea Herald",
+    "published_at": "0831google-kpop",
+    "published_ts": 1788156564.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《APT.》爆红后 Rosé 选歌更挑剔？韩国先驱报发文探讨",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：韩国先驱报（The Korea Herald）发布文章，标题为《Has 'APT.' made Rose too selective?》",
+      "事实点2：文章探讨 Rosé 在《APT.》取得巨大成功后，是否在音乐选择上变得更加挑剔"
+    ],
+    "summary_zh": "韩国先驱报（The Korea Herald）发布文章，标题为《Has 'APT.' made Rose too selective?》，探讨了 Rosé 在凭借《APT.》取得巨大成功后，是否在音乐选择上变得更加挑剔。文章可能分析了 Rosé 的音乐方向、选歌标准以及《APT.》带来的影响，但具体内容未在原文中详细说明。",
+    "extracted_at": "2026-08-31T18:26:38.796394+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "G.NA Makes Comeback as MC, Judge at Canadian K-Pop Event - 조선일보",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR3YxZXpieDFqZE0yQzZiSWJwc0ZTeFFKR0llU3A5OXEwb2w4UkROa0x6dURnZTFGUEJkRTg4UDN2TERfQ19GWjMxdHBJdnRkNzNxYm13VHBTdlZuSVVsNUdONUdFbFNXeG5OR3dNMHdUWHpwSXFMV1ZLVmhDMk9kZkQwektwZGpwMDA1LWxB?oc=5",
+    "content": "G.NA Makes Comeback as MC, Judge at Canadian K-Pop Event 조선일보",
+    "published_at": "0831google-kpop",
+    "published_ts": 1788154860.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "G.NA复出：担任加拿大K-Pop活动主持与评委",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "G.NA在加拿大K-Pop活动中担任主持人和评委",
+      "该活动在加拿大举办"
+    ],
+    "summary_zh": "据朝鲜日报报道，韩国歌手G.NA以主持人和评委身份参加加拿大K-Pop活动，正式复出。",
+    "extracted_at": "2026-08-31T18:26:40.181186+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kim Hye Jun And Kang Hoon Secretly Begin Dating At Work In “My Bias, My Boss”",
+    "url": "https://www.soompi.com/article/1866956wpp/kim-hye-jun-and-kang-hoon-secretly-begin-dating-at-work-in-my-bias-my-boss",
+    "content": "tvN’s “My Bias, My Boss” has unveiled new stills ahead of its upcoming episode! Based on a webtoon, “My Bias, My Boss” tells the story of the romance between Nam Da Reum (Kim Hye Jun), who joins a company in hopes of meeting her longtime idol bias Lee Chan (Cha Woo Min), and the company’s&#8230; Continue reading Kim Hye Jun And Kang Hoon Secretly Begin Dating At Work In “My Bias, My Boss”\nThe post Kim Hye Jun And Kang Hoon Secretly Begin Dating At Work In “My Bias, My Boss” appeared first on Soompi.",
+    "published_at": "0831soompi",
+    "published_ts": 1788154236.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "金惠奫与姜勋在《我的偶像老板》中秘密开始办公室恋情",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "tvN剧集《我的偶像老板》发布新剧照，展示金惠奫与姜勋在办公室秘密约会的场景。",
+      "该剧改编自网络漫画，讲述金惠奫饰演的南多林进入公司以期见到偶像李灿（车宇旻饰）的浪漫故事。"
+    ],
+    "summary_zh": "tvN剧集《我的偶像老板》公开新剧照，显示金惠奫与姜勋在办公室秘密开始约会。该剧改编自网络漫画，讲述金惠奫饰演的南多林为见到偶像李灿（车宇旻饰）而进入公司，并与公司同事展开浪漫故事。",
+    "extracted_at": "2026-08-31T18:26:42.611952+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Top 5 Dramas On Viki In August 2026",
+    "url": "https://www.soompi.com/article/1865543wpp/top-5-dramas-on-viki-in-august-2026",
+    "content": "With summer winding down, August brought another month of memorable dramas for fans to enjoy. Here’s a look at the top five titles that received the most love on Viki this past month. In no particular order. &#8220;A Bona Fide Killer&#8221; “A Bona Fide Killer” is an action drama about a working mother with a&#8230; Continue reading Top 5 Dramas On Viki In August 2026\nThe post Top 5 Dramas On Viki In August 2026 appeared first on Soompi.",
+    "published_at": "0831soompi",
+    "published_ts": 1788149188.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Viki 2026年8月最受欢迎韩剧TOP5揭晓",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "时间：2026年8月",
+      "平台：Viki",
+      "内容：公布当月最受喜爱的五部剧集，排名不分先后",
+      "提及剧集：《A Bona Fide Killer》（暂译）等"
+    ],
+    "summary_zh": "2026年8月，Viki平台公布了当月最受观众喜爱的五部剧集，排名不分先后。其中提及了动作剧《A Bona Fide Killer》（暂译），该剧讲述了一位职场母亲的故事。更多详情请关注Soompi的后续报道。",
+    "extracted_at": "2026-08-31T18:26:44.448101+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kim Min Ho Faces Company Commander Oh Dae Hwan Over Misfire Incident In “New Recruit 4: Sabotage”",
+    "url": "https://www.soompi.com/article/1866967wpp/kim-min-ho-faces-company-commander-oh-dae-hwan-over-misfire-incident-in-new-recruit-4-sabotage",
+    "content": "“New Recruit 4: Sabotage” has unveiled new stills ahead of tonight&#8217;s new episode! Based on the hit animation of the same name, “New Recruit” is a black comedy drama that explores the lives of young adults in their 20s, delving into the culture, secrets, and absurdities of South Korea’s military. Season 4 depicts the second&#8230; Continue reading Kim Min Ho Faces Company Commander Oh Dae Hwan Over Misfire Incident In &#8220;New Recruit 4: Sabotage&#8221;\nThe post Kim Min Ho Faces Company Commander Oh Dae Hwan Over Misfire Incident In &#8220;New Recruit 4: Sabotage&#8221; appeared first on Soompi.",
+    "published_at": "0831soompi",
+    "published_ts": 1788148785.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《新兵4：破坏》金旻浩因走火事件与连队长吴大焕对峙",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：韩剧《新兵4：破坏》公开新剧照，金旻浩与连队长吴大焕因走火事件发生对峙。",
+      "事实点2：该剧改编自同名热门动画，是一部黑色喜剧，讲述韩国军队中20多岁年轻人的文化、秘密和荒诞。",
+      "事实点3：第四季剧情围绕第二次事件展开。"
+    ],
+    "summary_zh": "韩剧《新兵4：破坏》公开新剧照，显示金旻浩与连队长吴大焕因走火事件发生对峙。该剧改编自同名热门动画，是一部黑色喜剧，深入探讨韩国军队中20多岁年轻人的文化、秘密和荒诞。第四季将展开第二次事件的故事。",
+    "extracted_at": "2026-08-31T18:26:46.517357+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "4 Times We Fell In Love With The Boss In Episodes 7-8 Of “My Bias, My Boss”",
+    "url": "https://www.soompi.com/article/1866611wpp/4-times-we-fell-in-love-with-the-boss-in-episodes-7-8-of-my-bias-my-boss",
+    "content": "The latest episodes of “My Bias, My Boss” gave us plenty of romantic tension, hilarious misunderstandings, and, most importantly, even more reasons to fall for Kang Ha Gi (Kang Hoon). From awkwardly flinching at the slightest touch after his accidental kiss with Nam Da Reum (Kim Hye Jun) to making hilariously unsuccessful attempts at flirting,&#8230; Continue reading 4 Times We Fell In Love With The Boss In Episodes 7-8 Of &#8220;My Bias, My Boss&#8221;\nThe post 4 Times We Fell In Love With The Boss In Episodes 7-8 Of &#8220;My Bias, My Boss&#8221; appeared first on Soompi.",
+    "published_at": "0831soompi",
+    "published_ts": 1788147169.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《我的偏见，我的老板》第7-8集：四次爱上老板的瞬间",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "《我的偏见，我的老板》第7-8集播出，展现了浪漫紧张、搞笑误会等情节。",
+      "姜夏基（姜勋饰）在与南多凛（金惠俊饰）意外接吻后，对轻微触碰都会尴尬退缩。",
+      "姜夏基尝试调情但搞笑失败。"
+    ],
+    "summary_zh": "《我的偏见，我的老板》第7-8集中，姜夏基（姜勋饰）与南多凛（金惠俊饰）之间充满浪漫紧张和搞笑误会。姜夏基在意外接吻后对触碰敏感，调情尝试也以失败告终，但这些都让观众更加喜爱他。",
+    "extracted_at": "2026-08-31T18:26:48.756104+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -17,12 +602,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "tvN《四手联弹》公开新幕后视频",
-      "视频中宋康与张圭悧协调动作，宋康提议不同方式推开张圭悧，张圭悧抵抗时宋康说“你为什么这么强壮？”",
+      "tvN电视剧《四手联弹》公开新幕后视频",
+      "视频中宋康与张圭悧协调动作，宋康建议不同推张圭悧的方式，并说“你为什么这么强壮？”",
       "另一场景中李浚荣表现出色"
     ],
-    "summary_zh": "tvN电视剧《四手联弹》公开了新的幕后视频。视频中，宋康和张圭悧一起协调动作，宋康尝试不同方式推开张圭悧，张圭悧抵抗时，宋康说：“你为什么这么强壮？”另一场景中，李浚荣的表现令人印象深刻。",
-    "extracted_at": "2026-08-31T11:16:12.313737+08:00"
+    "summary_zh": "tvN电视剧《四手联弹》公开了新的幕后视频。视频中，宋康和张圭悧一起协调动作，宋康尝试不同的方式推开张圭悧，并开玩笑说“你为什么这么强壮？”此外，李浚荣在另一个场景中展现了令人印象深刻的表现。",
+    "extracted_at": "2026-08-31T18:26:50.878484+08:00"
   },
   {
     "source_id": "soompi",
@@ -46,8 +631,33 @@
       "事实点2：两人将从9月5日的节目开始正式与观众见面。",
       "事实点3：Sangwon此前在音乐节目和YouTube内容等多个领域积累了MC经验。"
     ],
-    "summary_zh": "据Soompi报道，ALPHA DRIVE ONE的Sangwon将加入BOYNEXTDOOR的成浩，成为《音乐中心》的新MC。8月31日官方宣布，两人将从9月5日的节目开始正式亮相。Sangwon曾在音乐节目和YouTube内容等多个领域担任MC，拥有丰富经验。",
-    "extracted_at": "2026-08-31T11:16:14.835711+08:00"
+    "summary_zh": "8月31日，据官方消息，ALPHA DRIVE ONE成员Sangwon将加入BOYNEXTDOOR成员成浩，共同担任MBC音乐节目《音乐中心》的新任MC。两人将从9月5日的节目开始正式亮相。Sangwon此前曾在音乐节目和YouTube内容等多个领域担任过MC，拥有丰富的主持经验。",
+    "extracted_at": "2026-08-31T18:26:53.031517+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "TXT’s Yeonjun to release Michael Buble cover - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QaTktNkFMY2hpbzdoeGVzY3M0VFRTTmpUcW1TMVNHQnR4T0FjdlFxOURTenhaaUJ6ZFVSU0lld3dOQm50UHdWVjhtMUdMUjQ3V01Ua0FSbw?oc=5",
+    "content": "TXT’s Yeonjun to release Michael Buble cover The Korea Herald",
+    "published_at": "0831google-kpop",
+    "published_ts": 1788143367.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "TXT成员延俊将发布Michael Buble翻唱曲",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：TXT成员延俊（Yeonjun）将发布翻唱曲。",
+      "事实点2：翻唱对象为Michael Buble的歌曲。",
+      "事实点3：该消息由The Korea Herald报道。"
+    ],
+    "summary_zh": "据The Korea Herald报道，韩国男团TXT成员延俊（Yeonjun）将发布一首翻唱曲，翻唱对象为加拿大歌手Michael Buble的歌曲。具体曲目和发布时间尚未公布。",
+    "extracted_at": "2026-08-31T18:26:54.802220+08:00"
   },
   {
     "source_id": "soompi",
@@ -67,11 +677,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：8月31日，SBS公开了《Doctor X》剧本围读照，演员包括金智媛、李贞恩、孙贤周、金宇硕等。",
-      "事实点2：该剧改编自同名热门日剧，已确定播出日期。"
+      "事实点1：8月31日，SBS公开了《Doctor X》剧本围读照片，演员包括金智媛、李贞恩、孙贤周、金宇硕等。",
+      "事实点2：该剧改编自同名热门日剧，并已确定播出日期。"
     ],
-    "summary_zh": "SBS新医疗剧《Doctor X》宣布播出日期，并于8月31日公开了剧本围读照。该剧由金智媛、李贞恩、孙贤周、金宇硕等演员出演，改编自同名热门日剧。",
-    "extracted_at": "2026-08-31T11:16:17.270582+08:00"
+    "summary_zh": "SBS新医疗剧《Doctor X》宣布播出日期，并于8月31日公开了剧本围读照片，展现了演员阵容的化学反应。该剧由金智媛、李贞恩、孙贤周、金宇硕等信任的演员出演，改编自同名热门日剧。",
+    "extracted_at": "2026-08-31T18:26:56.697953+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -86,16 +696,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Jina涉嫖娼罚款争议后回归K-pop评委",
+    "title_zh": "Jina因嫖娼罚款争议后回归K-pop评委",
     "source_type": "韩娱",
     "risk_level": "高",
     "is_blurred": false,
     "facts_list": [
       "Jina因嫖娼被罚款，具体金额未提及",
-      "Jina在争议后回归，担任K-pop评委"
+      "Jina在罚款争议后回归，担任K-pop评委"
     ],
-    "summary_zh": "据朝鲜日报报道，Jina在因嫖娼被罚款的争议后，现已回归并担任K-pop评委。报道未提及罚款具体金额及回归的具体时间与场合。",
-    "extracted_at": "2026-08-31T11:16:19.517333+08:00"
+    "summary_zh": "据朝鲜日报报道，Jina在因嫖娼被罚款的争议后，现已回归并担任K-pop评委。报道未提及罚款的具体金额及事件发生的时间地点。",
+    "extracted_at": "2026-08-31T18:26:58.315539+08:00"
   },
   {
     "source_id": "soompi",
@@ -110,40 +720,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《四手联弹》第二集收视率上升，《菜单上的爱》创历史新高",
+    "title_zh": "《四手联弹》第二集收视率上升，《恋爱菜单》创历史新高",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "事实点1：8月30日，tvN《四手联弹》第二集收视率显著上升。",
-      "事实点2：据尼尔森韩国数据，该剧在韩国全国平均收视率位居所有有线频道同时段第一。",
-      "事实点3：《菜单上的爱》收视率创下历史新高。"
+      "事实点2：据尼尔森韩国数据，该剧在同时段所有有线频道中排名第一，全国平均收视率具体数字未提及。",
+      "事实点3：《恋爱菜单》收视率创下历史新高，具体数字未提及。"
     ],
-    "summary_zh": "8月30日，tvN电视剧《四手联弹》第二集收视率显著上升，据尼尔森韩国数据，该剧在全国平均收视率中位居所有有线频道同时段第一。同时，《菜单上的爱》收视率也创下历史新高。",
-    "extracted_at": "2026-08-31T11:16:21.551088+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "ENHYPEN claims 1st No. 1 on Billboard 200 with 'The Sin: Bliss' - The Korea Times",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUURNdnBUWUt3RFVUSGlfalpELV9YTFprME9FSllKYXh1Z1ZJeGJCMXQteVRxMVBzRVlMcWFUZ21MN0M1TDNkZGh0U2JzYnloemJPZUtFOWhJYUJ3Q2RkUGM1bWMxbVRSOHcxZUVGN0Vfb2hLbjVqZVRnTDc0WGE0b0JGQ2ltbGxBYXdjeFRDQ1NLVlY3eHFZYjB1dTRLMmRqU3gxY2dwcDd6dkh3bVFwYlNSc3VRTWFX0gG-AUFVX3lxTE0wZEFOcHVJbHRDV2pXU1lGZy1WNnVYdDVYYWY2WUs2Ym1vaS10OUJZVkVrZkVPV0ZZdk9rMzlsTTZlS0Q4aEZleUV3dV9nVGFfb2h3U1U2VFJzRTMybDNHTXY5eE5MU0VLelBTUktranhaVXAxS05oRWljTG5BY1VNR1VmZjUydERnWjdFZl9tcEdaTWlYZ295Z3dNV2VwZ3VnejdPemZ3MnBOanFvZDhxNlY0ZDVBcDB3a19OU2c?oc=5",
-    "content": "ENHYPEN claims 1st No. 1 on Billboard 200 with 'The Sin: Bliss' The Korea Times",
-    "published_at": "0831google-kpop",
-    "published_ts": 1788130140.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "ENHYPEN凭借《The Sin: Bliss》首次登顶Billboard 200",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "ENHYPEN凭借专辑《The Sin: Bliss》首次获得Billboard 200第一名"
-    ],
-    "summary_zh": "韩国男子组合ENHYPEN凭借其专辑《The Sin: Bliss》首次登上美国Billboard 200排行榜第一名，这是该组合首次获得该榜单冠军。",
-    "extracted_at": "2026-08-31T11:16:23.252165+08:00"
+    "summary_zh": "8月30日，tvN电视剧《四手联弹》第二集收视率显著上升，据尼尔森韩国数据，该剧在同时段所有有线频道中排名第一，但具体收视率数字未提及。同时，另一部剧《恋爱菜单》收视率也创下历史新高，具体数字同样未提及。两剧均呈现上升趋势。",
+    "extracted_at": "2026-08-31T18:27:00.669622+08:00"
   },
   {
     "source_id": "soompi",
@@ -158,17 +745,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "8月综艺人品牌评价榜出炉：刘在石蝉联榜首",
+    "title_zh": "8月综艺人品牌评价榜出炉 刘在石蝉联榜首",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "韩国企业评价研究所于8月发布综艺人品牌评价排名。",
-      "排名基于7月1日至8月1日期间收集的50位艺人的大数据，分析消费者参与度、媒体覆盖、互动及社区认知度指数。",
-      "刘在石在本次排名中继续保持第一。"
+      "韩国企业评价研究所于8月1日发布8月综艺人品牌评价榜单，基于7月1日至8月1日的大数据，分析50位艺人的消费者参与度、媒体覆盖、互动及社区认知指数。",
+      "刘在石在本次榜单中继续位居第一。"
     ],
-    "summary_zh": "韩国企业评价研究所公布了8月综艺人品牌评价排名，该排名基于7月1日至8月1日期间对50位艺人的大数据分析，涵盖消费者参与度、媒体覆盖、互动及社区认知度等指标。刘在石在本次排名中继续位居榜首。",
-    "extracted_at": "2026-08-31T11:16:25.365367+08:00"
+    "summary_zh": "韩国企业评价研究所公布了8月综艺人品牌评价排名，该排名基于7月1日至8月1日期间收集的大数据，对50位人气艺人的消费者参与度、媒体覆盖、互动和社区认知指数进行分析。刘在石在本次排名中继续保持领先地位，蝉联榜首。",
+    "extracted_at": "2026-08-31T18:27:03.129507+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -188,11 +774,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：该资讯列出了所有曾登顶Billboard 200的K-pop专辑的完整名单。",
-      "事实点2：资讯来源为K-Jewel 99.3 FM。"
+      "事实点1：该资讯列出了所有曾登顶Billboard 200的K-pop专辑完整名单",
+      "事实点2：资讯来源为K-Jewel 99.3 FM"
     ],
-    "summary_zh": "该资讯由K-Jewel 99.3 FM发布，内容为一份完整的K-pop专辑登顶Billboard 200榜单的名单。名单中列出了所有达到此成就的K-pop专辑，但具体专辑名称和艺人未在原文中详细列出。",
-    "extracted_at": "2026-08-31T11:16:27.494693+08:00"
+    "summary_zh": "该资讯由K-Jewel 99.3 FM发布，内容为一份完整的K-pop专辑登顶Billboard 200榜单的名单。名单中列出了所有曾达到此成就的K-pop专辑，但原文未提供具体专辑名称、艺人或登顶时间等细节。",
+    "extracted_at": "2026-08-31T18:27:05.350785+08:00"
   },
   {
     "source_id": "soompi",
@@ -215,8 +801,8 @@
       "事实点1：KATSEYE的EP《WILD》在Billboard 200专辑榜上连续第二周进入前十名。",
       "事实点2：上周《WILD》在Billboard 200专辑榜上首次亮相即夺得第一名，创下自2015年12月Billboard 200开始按单位排名以来，全女子组合单周最大销量的新纪录。"
     ],
-    "summary_zh": "KATSEYE的新EP《WILD》在Billboard 200专辑榜上表现强劲，连续第二周进入前十。上周该专辑首次亮相即登顶榜首，并创下自2015年12月Billboard 200开始按单位排名以来，全女子组合单周最大销量的新纪录。",
-    "extracted_at": "2026-08-31T11:16:30.147409+08:00"
+    "summary_zh": "KATSEYE的EP《WILD》在Billboard 200专辑榜上连续第二周保持前十位置。上周该专辑以第一名的成绩出道，并创下自2015年12月Billboard 200开始按单位排名以来，全女子组合单周最大销量的新纪录。",
+    "extracted_at": "2026-08-31T18:27:07.426415+08:00"
   },
   {
     "source_id": "soompi",
@@ -237,10 +823,10 @@
     "is_blurred": false,
     "facts_list": [
       "事实点1：Stray Kids最新迷你专辑《THIS & THAT》在Billboard 200专辑榜上连续第三周进入前十，创下自身最佳第三周成绩。",
-      "事实点2：该专辑两周前在Billboard 200专辑榜上首次亮相即夺得第一名，使Stray Kids与滚石乐队并列成为拥有第二多冠军专辑的艺人。"
+      "事实点2：两周前，该专辑在Billboard 200专辑榜上首次亮相即夺得第一名，使Stray Kids与滚石乐队并列成为拥有第二多冠军专辑的艺人。"
     ],
-    "summary_zh": "Stray Kids的最新迷你专辑《THIS & THAT》在美国Billboard 200专辑榜上取得了新的个人纪录。该专辑两周前首次登上Billboard 200专辑榜第一名，使Stray Kids与滚石乐队并列成为拥有第二多冠军专辑的艺人。如今，这张专辑在第三周仍保持在前十名，创下了他们自身在第三周的最高排名。",
-    "extracted_at": "2026-08-31T11:16:32.722319+08:00"
+    "summary_zh": "Stray Kids的最新迷你专辑《THIS & THAT》在美国Billboard 200专辑榜上取得了新的个人纪录。两周前，该专辑首次登上Billboard 200专辑榜即位列第一，使Stray Kids与滚石乐队并列成为拥有第二多冠军专辑的艺人。本周，该专辑在Billboard 200上连续第三周保持在前十名，创下了他们第三周的最高排名纪录。",
+    "extracted_at": "2026-08-31T18:27:09.875346+08:00"
   },
   {
     "source_id": "soompi",
@@ -255,16 +841,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "ENHYPEN凭借《THE SIN : BLISS》首次登顶Billboard 200专辑榜",
+    "title_zh": "ENHYPEN新专辑《THE SIN : BLISS》首次登顶Billboard 200榜首",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "事实点1：8月30日（当地时间），Billboard宣布ENHYPEN新迷你专辑《THE SIN : BLISS》在美国Billboard 200专辑榜上首次获得第一名。",
-      "事实点2：该榜单根据Luminate（前身为Nielsen Music）的数据统计，排名美国最受欢迎的专辑。"
+      "事实点2：该榜单根据Luminate（前Nielsen Music）数据统计，排名美国最受欢迎的专辑。"
     ],
-    "summary_zh": "ENHYPEN凭借新迷你专辑《THE SIN : BLISS》在美国Billboard 200专辑榜上首次夺得冠军。该榜单根据Luminate（前身为Nielsen Music）的数据统计，排名美国最受欢迎的专辑。这是ENHYPEN首次在该榜单上获得第一名。",
-    "extracted_at": "2026-08-31T11:16:35.214975+08:00"
+    "summary_zh": "ENHYPEN凭借新迷你专辑《THE SIN : BLISS》首次登上美国Billboard 200专辑榜第一名。该榜单由Billboard于8月30日（当地时间）公布，依据Luminate（前Nielsen Music）的数据统计，旨在排名美国最受欢迎的专辑。这是ENHYPEN首次在该榜单上夺冠。",
+    "extracted_at": "2026-08-31T18:27:12.001430+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -279,15 +865,15 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "制作A-Z韩流歌单，猜出你的星座",
+    "title_zh": "制作A-Z韩流歌单，猜你的星座",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文未提及具体行为，仅称：制作A-Z韩流歌单，猜出你的星座"
+      "原文未提及具体行为，仅称：制作A-Z韩流歌单，我们将猜测你的星座。"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：制作A-Z韩流歌单，猜出你的星座]",
-    "extracted_at": "2026-08-31T11:16:36.787441+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：制作A-Z韩流歌单，我们将猜测你的星座。]",
+    "extracted_at": "2026-08-31T18:27:13.206982+08:00"
   },
   {
     "source_id": "soompi",
@@ -302,17 +888,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Apink郑恩地与少女时代孝渊将出演《全知干预视角》与队友同框",
+    "title_zh": "Apink郑恩地与少女时代孝渊将携队友出演《全知干预视角》预告公开",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "事实点1：Apink成员郑恩地与少女时代成员孝渊将作为嘉宾出演下周播出的MBC综艺节目《全知干预视角》（The Manager）。",
-      "事实点2：节目公开了预告片，预告中两人与各自的队友一起出现。",
-      "事实点3：主持人全炫茂在预告中亮相。"
+      "事实点2：节目已发布预告片，预告中两人与各自组合成员一同出镜，主持人全炫茂也在预告中出现。"
     ],
-    "summary_zh": "据Soompi报道，少女时代成员孝渊和Apink成员郑恩地将出演下周的MBC综艺节目《全知干预视角》。节目公开的预告片中，两人与各自的队友一同出现，主持人全炫茂也在预告中亮相。该期节目将于下周播出。",
-    "extracted_at": "2026-08-31T11:16:39.374872+08:00"
+    "summary_zh": "据Soompi报道，少女时代成员孝渊与Apink成员郑恩地将共同出演下周的MBC综艺《全知干预视角》。节目公开的预告片中，两人与各自的组合成员一同亮相，主持人全炫茂也在预告中出现。该期节目将于下周播出。",
+    "extracted_at": "2026-08-31T18:27:15.960140+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -332,37 +917,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "时间：未明确提及具体日期",
-      "地点：以色列（Festigal为以色列年度儿童音乐节）",
-      "主体：以色列歌手诺雅·基尔（Noa Kirel）",
-      "动作：领衔主演Festigal，主题为'绝密'（top secret），融合K-pop风格与间谍冒险元素"
+      "事实点1：诺雅·基尔（Noa Kirel）在Festigal活动中担任主演",
+      "事实点2：Festigal活动主题为“绝密”（top secret），融合K-pop和间谍冒险元素",
+      "事实点3：该活动由《耶路撒冷邮报》报道"
     ],
-    "summary_zh": "据《耶路撒冷邮报》报道，以色列歌手诺雅·基尔（Noa Kirel）将领衔今年的Festigal演出，该演出以'绝密'（top secret）为主题，融合K-pop风格与间谍冒险元素。Festigal是以色列一年一度的儿童音乐节，此次由基尔担任主角，具体演出日期和更多细节尚未披露。",
-    "extracted_at": "2026-08-31T11:16:42.085583+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Every digital message unpacks a ticking time bomb in Flex X Cop Season 2, this week's K-pick - t2ONLINE",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVFFhWnVqOVlDM2VpaG1UN000N0ZpbnlEV1E5dzBhWGdJSWFGbi1IRS1zV3E5OEdnRUVwQk5vSUlQcmxuTVB3Tk5aS0doa3FDVThxRWRXZ3hFVEVnTGNSUU80R3k5bFhsNUdENS1vTFI1TG5ZenNLVDJXaTBlaWp1anBONE82V3ZTbnRVUE1GOW5EekZnQ0pmNlUtVF94UGpLT3Zya1dQM2dLemR4VlFoRzJab3cyUkZvRmF6bC1wN2YxM2JqRTVDbS1iVWIycmMz?oc=5",
-    "content": "Every digital message unpacks a ticking time bomb in Flex X Cop Season 2, this week's K-pick t2ONLINE",
-    "published_at": "0831google-kpop",
-    "published_ts": 1788116400.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "《Flex X Cop》第二季：每条数字信息都是定时炸弹，本周K剧推荐",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：本周K剧推荐为《Flex X Cop》第二季",
-      "事实点2：该剧主题聚焦于数字信息中隐藏的危机，每条信息都可能成为定时炸弹"
-    ],
-    "summary_zh": "本周K剧推荐为《Flex X Cop》第二季，该剧以数字信息为线索，揭示每条信息背后可能隐藏的危机，如同定时炸弹般一触即发。",
-    "extracted_at": "2026-08-31T11:16:44.344854+08:00"
+    "summary_zh": "据《耶路撒冷邮报》报道，诺雅·基尔（Noa Kirel）在Festigal活动中领衔主演，该活动以“绝密”（top secret）为主题，融合了K-pop和间谍冒险元素。诺雅·基尔是知名歌手，此次参与Festigal的演出，具体活动细节和表演内容尚未披露。",
+    "extracted_at": "2026-08-31T18:27:18.137372+08:00"
   },
   {
     "source_id": "soompi",
@@ -383,11 +943,11 @@
     "is_blurred": false,
     "facts_list": [
       "本周，tvN电视剧《Spooky in Love》在Good Data Corporation的每周最具话题性电视剧榜单中排名第一。",
-      "《A Bona Fide Killer》在演员话题性排行榜中占据首位。",
+      "《A Bona Fide Killer》在最具话题性演员排行榜中占据首位。",
       "排名基于新闻文章、博客等数据收集。"
     ],
-    "summary_zh": "本周，tvN的《Spooky in Love》在Good Data Corporation的每周最具话题性电视剧排行榜中位居榜首，而《A Bona Fide Killer》则在演员话题性排名中登顶。该排名基于新闻文章、博客等数据统计得出。",
-    "extracted_at": "2026-08-31T11:16:46.824512+08:00"
+    "summary_zh": "本周，tvN的《Spooky in Love》在Good Data Corporation的每周最具话题性电视剧榜单中位居第一，而《A Bona Fide Killer》则在最具话题性演员排行榜中登顶。该排名基于新闻文章、博客等来源的数据统计。",
+    "extracted_at": "2026-08-31T18:27:20.057391+08:00"
   },
   {
     "source_id": "soompi",
@@ -407,13 +967,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "公告牌发布截至8月29日当周的世界专辑榜。",
-      "Stray Kids最新迷你专辑《THIS & THAT》连续第二周位居世界专辑榜第一。",
-      "该专辑成为Stray Kids首张在世界专辑榜前三名停留多周的专辑。",
-      "CORTIS、ATEEZ、BTS、LE SSERAFIM、Yeonjun、aespa等艺人也在该榜单上占据高位。"
+      "事实点1：截至8月29日的一周，Stray Kids最新迷你专辑《THIS & THAT》连续第二周位居公告牌世界专辑榜第1名。",
+      "事实点2：该专辑成为Stray Kids首张在公告牌前3名停留多周的专辑。",
+      "事实点3：CORTIS、ATEEZ、BTS、LE SSERAFIM、Yeonjun、aespa等艺人也占据了公告牌世界专辑榜的高位。"
     ],
-    "summary_zh": "公告牌发布截至8月29日当周的世界专辑榜，Stray Kids的迷你专辑《THIS & THAT》连续第二周夺冠，并成为该组合首张在榜单前三名停留多周的专辑。此外，CORTIS、ATEEZ、BTS、LE SSERAFIM、Yeonjun、aespa等艺人也位列榜单高位。",
-    "extracted_at": "2026-08-31T11:16:49.272231+08:00"
+    "summary_zh": "公告牌发布了截至8月29日当周的世界专辑榜。Stray Kids的迷你专辑《THIS & THAT》连续第二周位居榜首，并成为该组合首张在公告牌前3名停留多周的专辑。此外，CORTIS、ATEEZ、BTS、LE SSERAFIM、Yeonjun、aespa等艺人也占据了榜单高位。",
+    "extracted_at": "2026-08-31T18:27:22.516852+08:00"
   },
   {
     "source_id": "soompi",
@@ -434,10 +993,11 @@
     "is_blurred": false,
     "facts_list": [
       "事实点1：ALPHA DRIVE ONE于上周携第二张迷你专辑《UNBREAKABLE : 少年BEAST》及主打曲《BORN DIRE》回归。",
-      "事实点2：Hanteo Chart数据显示，该专辑发行首周销量达1,139,747张，成为组合第二张首周销量破百万的专辑。"
+      "事实点2：Hanteo Chart数据显示，该专辑发行首周销量达1,139,747张。",
+      "事实点3：这是ALPHA DRIVE ONE第二张首周销量突破百万的专辑。"
     ],
-    "summary_zh": "ALPHA DRIVE ONE凭借第二张迷你专辑《UNBREAKABLE : 少年BEAST》再次达成“百万销量”成就。该专辑于上周发行，主打曲为《BORN DIRE》。据Hanteo Chart报道，专辑发行首周销量达到1,139,747张，成为组合继首张专辑后第二张首周销量突破百万的专辑。",
-    "extracted_at": "2026-08-31T11:16:51.702371+08:00"
+    "summary_zh": "ALPHA DRIVE ONE凭借第二张迷你专辑《UNBREAKABLE : 少年BEAST》再次成为“百万销量”歌手。该专辑于上周发行，主打曲为《BORN DIRE》。据Hanteo Chart报道，专辑发行首周销量达到1,139,747张，成为组合第二张首周销量破百万的专辑。",
+    "extracted_at": "2026-08-31T18:27:24.527669+08:00"
   },
   {
     "source_id": "asianwiki",
