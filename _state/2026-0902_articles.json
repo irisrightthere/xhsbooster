@@ -1,5 +1,369 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates - Deadline",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpdjFMN0M2amlRWmk1aEVNRUlqcFBYeVJNLWxxR0VoZjRaUlRha0p6N2hBVVNURFdMWlJmNGI0N285OTRUajg0SS0yUG5nQm5RQk5lZXNBYmdaX280MXV2Y1djVEpSZW1TQjBBQlZkTFFtaTd5bFBiZkdqYWNEdw?oc=5",
+    "content": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates Deadline",
+    "published_at": "0902google-kpop",
+    "published_ts": 1788361680.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "K-pop女星Lisa纪录片《Always Lalisa》确定IMAX、院线及流媒体上映日期",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "纪录片《Always Lalisa》聚焦K-pop明星Lisa，已确定上映计划。",
+      "该片将在IMAX、院线及流媒体平台上映，具体日期已公布。"
+    ],
+    "summary_zh": "据Deadline报道，关于K-pop明星Lisa的纪录片《Always Lalisa》已确定上映日期，将在IMAX、院线及流媒体平台同步或错峰推出。该片聚焦Lisa的个人生活和职业生涯，具体上映安排已由发行方公布。",
+    "extracted_at": "2026-09-02T23:53:06.886846+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-Pop Group aespa Performs 'Rich Man' on THE JENNIFER HUDSON SHOW - BroadwayWorld",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeUNja1NaUTFwQ0x0UThaSWFERjNISi1xUVlDQjlfTDJ3NHVRMlFtT0Z4SjZNSXVXTEQ2ejE5emVCa2F0bnlOb2Y4Q2NlNWhLS1NBLTRiN0xrX0lVQVlPWG1vMjdIVDcycWZsNzJ1S19Udmx5Z1pGTklPSTV5TUROOWIwTnV1MkFXa0NqUGMzUVhvRmQ1NnM3U21nVzJEdk9UbHA5ZTBOVGZhWktWbGFCRzF2WUNWRjQ?oc=5",
+    "content": "K-Pop Group aespa Performs 'Rich Man' on THE JENNIFER HUDSON SHOW BroadwayWorld",
+    "published_at": "0902google-kpop",
+    "published_ts": 1788360356.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "aespa亮相美国脱口秀《詹妮弗·哈德森秀》 献唱新曲《Rich Man》",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：韩国女团aespa在美国节目《The Jennifer Hudson Show》上表演了歌曲《Rich Man》。",
+      "事实点2：该节目为美国知名脱口秀，aespa的出演展示了其在海外市场的影响力。"
+    ],
+    "summary_zh": "韩国女团aespa近日登上美国知名脱口秀节目《The Jennifer Hudson Show》，并在节目中表演了歌曲《Rich Man》。此次出演是aespa海外活动的一部分，进一步巩固了其在全球市场的知名度。",
+    "extracted_at": "2026-09-02T23:53:09.064673+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Ji Ye Eun And Vata Write To Fans Following Marriage Announcement",
+    "url": "https://www.soompi.com/article/1867679wpp/ji-ye-eun-and-vata-write-to-fans-following-marriage-announcement",
+    "content": "Following the news of their upcoming marriage, both Ji Ye Eun and Vata have shared personal messages for their fans. On September 2, the two stars’ agencies confirmed reports that the couple was planning to get married on December 12, which is Vata’s birthday. Later that day, both Ji Ye Eun and Vata took to&#8230; Continue reading Ji Ye Eun And Vata Write To Fans Following Marriage Announcement\nThe post Ji Ye Eun And Vata Write To Fans Following Marriage Announcement appeared first on Soompi.",
+    "published_at": "0902soompi",
+    "published_ts": 1788359331.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "智艺恩与Vata宣布12月12日结婚，双双写信致粉丝",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "9月2日，智艺恩与Vata的所属社确认两人计划于12月12日（Vata生日当天）结婚。",
+      "同日，智艺恩与Vata分别通过个人社交媒体向粉丝发布亲笔信。"
+    ],
+    "summary_zh": "智艺恩与Vata宣布结婚消息后，于9月2日通过所属社确认婚礼定于12月12日，即Vata的生日。同日，两人分别向粉丝发布个人信件，表达感谢与爱意。",
+    "extracted_at": "2026-09-02T23:53:10.827948+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Make Up For Ever Links up With K-Pop Group NMIXX - Hypebae",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcnhDZG4zejcwOGRjQkxuSjdtdmJwT2JGam9MM09BSlFOS2p0b1A2ajRQVFpLb0l0QW5LQnI5c3c2SHRmSWo3SHRsb1lhRDFsX0pqN0Y3dHRRSDUzSGEyeGt3SDYxX1RaWGxfNVR5T1QxamRDUGlPYWFkSDdKUzlxOE12TnI1b1poa1NfOXhUN2I3QmVwLURUX2IzN0xWZw?oc=5",
+    "content": "Make Up For Ever Links up With K-Pop Group NMIXX Hypebae",
+    "published_at": "0902google-kpop",
+    "published_ts": 1788359210.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Make Up For Ever携手K-POP女团NMIXX推出合作系列",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：美妆品牌Make Up For Ever与K-Pop组合NMIXX达成合作。",
+      "事实点2：合作内容为推出联名系列，具体产品及发布时间未在原文中提及。"
+    ],
+    "summary_zh": "美妆品牌Make Up For Ever宣布与K-Pop组合NMIXX合作，推出联名系列。该消息由Hypebae报道，但未透露具体产品细节或发布日期。",
+    "extracted_at": "2026-09-02T23:53:12.742873+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-pop icons Girls’ Generation have launched a new sub-unit, HRS (HyoRiSoo), with the release of their digital single \"Skibidi.\" Link to full story in the comments section. - facebook.com",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObzdqNmZlQlJjZXlqdFpmXzdmYVZUdmtYVHBMd1FJOTlPOS1KYktrVmdmVDVBNEdXOGZSS2JJWVFQZWZKZjA2S3A2OGE3bHNEREFvUFJaNEFjVjZyTlVvOXFwOUdaNUlSTW5IU0QySWp2dDhuZmpXdi1nTEJWeDBnX0NMaTBWNHhTVElkQU5nemZnVXJYX1RsR1QtTmZlWEVpeXNCX1MxeUxfRjV1akU1cjR3Y2FYNnVBMFBsaVV5TEc3WDZGdEhVNE52elBOalVNdVVxM0JVYw?oc=5",
+    "content": "K-pop icons Girls’ Generation have launched a new sub-unit, HRS (HyoRiSoo), with the release of their digital single \"Skibidi.\" Link to full story in the comments section. facebook.com",
+    "published_at": "0902google-kpop",
+    "published_ts": 1788358806.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "少女时代新小分队HRS出道，发布数字单曲《Skibidi》",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "少女时代推出新小分队HRS（HyoRiSoo）",
+      "小分队发行数字单曲《Skibidi》"
+    ],
+    "summary_zh": "韩国女团少女时代宣布成立全新小分队HRS（HyoRiSoo），并发行了数字单曲《Skibidi》。该消息通过官方社交媒体发布，具体成员构成及音乐风格等细节尚未披露。",
+    "extracted_at": "2026-09-02T23:53:14.406927+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "B1A4 (O3): A Career In Song Ratings - thebiaslist.com",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52Nm1uR29aTnB0S1lmR0dvb0pOTHc0TFpKRTBrUWE1T3ZpZ1FKZzNlZUMxYjV2U3FTZnBGREUtaTJCRDNRMEtHdjUxS3lGWWp2VkUyRFBpZ1F2NDBNMExzdk5NS1hIT1B2Vkh1d2tzNGNNcWpod1FR?oc=5",
+    "content": "B1A4 (O3): A Career In Song Ratings thebiaslist.com",
+    "published_at": "0902google-kpop",
+    "published_ts": 1788358009.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "B1A4歌曲评分回顾：职业生涯作品全解析",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：网站thebiaslist.com发布文章，对B1A4的歌曲进行评分回顾。",
+      "事实点2：文章标题为“B1A4 (O3): A Career In Song Ratings”，内容涵盖B1A4职业生涯中的歌曲评分。"
+    ],
+    "summary_zh": "thebiaslist.com网站发布了一篇关于韩国男子组合B1A4的歌曲评分回顾文章，标题为“B1A4 (O3): A Career In Song Ratings”。文章对B1A4职业生涯中的歌曲进行了评分和解析，但具体评分细节和歌曲列表未在摘要中提及。",
+    "extracted_at": "2026-09-02T23:53:16.519060+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Park Ye Ni, Im Sung Kyun, Kim Yo Han, And Yoon Sang Jung Bring Their Own Color To Han So Hee’s Company In “The Intern”",
+    "url": "https://www.soompi.com/article/1867672wpp/park-ye-ni-im-sung-kyun-kim-yo-han-and-yoon-sang-jung-bring-their-own-color-to-han-so-hees-company-in-the-intern",
+    "content": "The upcoming film “The Intern” has unveiled new stills showcasing the colorful employees of WOO22! A remake of the Hollywood film of the same name, “The Intern” follows an office life that transcends generations and job titles, beginning when Gi Ho (Choi Min Sik), a senior intern with 37 years of work experience, joins WOO22,&#8230; Continue reading Park Ye Ni, Im Sung Kyun, Kim Yo Han, And Yoon Sang Jung Bring Their Own Color To Han So Hee’s Company In “The Intern”\nThe post Park Ye Ni, Im Sung Kyun, Kim Yo Han, And Yoon Sang Jung Bring Their Own Color To Han So Hee’s Company In “The Intern” appeared first on Soompi.",
+    "published_at": "0902soompi",
+    "published_ts": 1788353345.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《实习生》公开新剧照：朴艺妮、任成均、金曜汉、尹相贞展现WOO22多彩职员风貌",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "电影《实习生》公开新剧照，展示WOO22公司职员形象。",
+      "该片翻拍自同名好莱坞电影，讲述有37年工作经验的资深实习生基浩（崔岷植饰）加入WOO22后，跨越世代与职位的职场故事。",
+      "朴艺妮、任成均、金曜汉、尹相贞在片中饰演WOO22的职员，与韩素希饰演的角色有对手戏。"
+    ],
+    "summary_zh": "电影《实习生》公开新剧照，展示了朴艺妮、任成均、金曜汉、尹相贞在WOO22公司中的角色形象。该片翻拍自好莱坞同名电影，讲述崔岷植饰演的资深实习生基浩加入韩素希所在的WOO22公司后，发生的跨越世代与职位的职场故事。",
+    "extracted_at": "2026-09-02T23:53:19.373620+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: ALPHA DRIVE ONE Takes 2nd Win For “BORN DIRE” On “Show Champion”; Performances By NEXZ, SF9, And More",
+    "url": "https://www.soompi.com/article/1867669wpp/watch-alpha-drive-one-takes-2nd-win-for-born-dire-on-show-champion-performances-by-nexz-sf9-and-more",
+    "content": "ALPHA DRIVE ONE&#160;has won their second music show trophy for “BORN DIRE”! On the September 2 episode of “Show Champion,” the candidates for first place were ALPHA DRIVE ONE’s “BORN DIRE,” BIGBANG’s “BiiiG,” NCT 127&#8217;s “Blingy,” NEXZ&#8217;s “SAUCIN’,” and SF9’s “Without Wings.” ALPHA DRIVE ONE ultimately took the win. Congratulations to ALPHA DRIVE ONE! Watch&#8230; Continue reading Watch: ALPHA DRIVE ONE Takes 2nd Win For “BORN DIRE” On &#8220;Show Champion&#8221;; Performances By NEXZ, SF9, And More\nThe post Watch: ALPHA DRIVE ONE Takes 2nd Win For “BORN DIRE” On &#8220;Show Champion&#8221;; Performances By NEXZ, SF9, And More appeared first on Soompi.",
+    "published_at": "0902soompi",
+    "published_ts": 1788351367.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "ALPHA DRIVE ONE《BORN DIRE》获《Show Champion》第二冠，NEXZ、SF9等献演",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "时间：9月2日播出的《Show Champion》节目",
+      "事件：ALPHA DRIVE ONE凭借《BORN DIRE》获得该节目第一名，这是该曲的第二个音乐节目冠军",
+      "候补名单：ALPHA DRIVE ONE《BORN DIRE》、BIGBANG《BiiiG》、NCT 127《Blingy》、NEXZ《SAUCIN'》、SF9《Without Wings》",
+      "同场表演：NEXZ、SF9等艺人进行了表演"
+    ],
+    "summary_zh": "在9月2日播出的《Show Champion》中，ALPHA DRIVE ONE凭借歌曲《BORN DIRE》获得第一名，这是该曲的第二个音乐节目冠军。候补包括BIGBANG《BiiiG》、NCT 127《Blingy》、NEXZ《SAUCIN'》和SF9《Without Wings》。此外，NEXZ、SF9等艺人带来了精彩表演。",
+    "extracted_at": "2026-09-02T23:53:21.432991+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "How KPop Demon Hunters, others are driving kids to take up fencing - Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMFdmUGNCX2NhTDlOVFpJczZjZHdhWndEWENyaTlSd1AwX3dGZUwxaVZYVVlKU202XzFDb0pxQnZ0elZhS1hUaTV2MkNCbmh1cG9tQ0dUZTVZaXpoS0hSVm45aVZsX3N2SXFTM3RhQ2xhNmllMk5JTGYwUlBYOFEzUWpfdW1jcDExQkE?oc=5",
+    "content": "How KPop Demon Hunters, others are driving kids to take up fencing Yahoo",
+    "published_at": "0902google-kpop",
+    "published_ts": 1788350400.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "K-Pop偶像与《恶魔猎人》等作品推动青少年学习击剑",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：Yahoo报道，K-Pop偶像和《恶魔猎人》等流行文化作品正在影响青少年参与击剑运动。",
+      "事实点2：报道指出，这些流行文化元素激发了青少年对击剑的兴趣，导致击剑课程报名人数增加。"
+    ],
+    "summary_zh": "据Yahoo报道，K-Pop偶像和《恶魔猎人》等流行文化作品正在推动青少年学习击剑。这些作品中的角色和偶像形象激发了青少年对击剑的兴趣，使得击剑课程报名人数有所增加。报道未提供具体数据或案例，但强调了流行文化对青少年运动选择的积极影响。",
+    "extracted_at": "2026-09-02T23:53:23.594245+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "MODYSSEY Announces First-Ever Fan Concert Tour “HOW WE BLOOM”",
+    "url": "https://www.soompi.com/article/1867657wpp/modyssey-announces-first-ever-fan-concert-tour-how-we-bloom",
+    "content": "MODYSSEY is hitting the road for their first-ever fan concert tour! On September 2, MODYSSEY announced their upcoming 2026 fan concert tour “HOW WE BLOOM,” along with a new poster featuring the tour dates and venues. The group will kick off the tour in Osaka on October 2, followed by stops in Yokohama on October&#8230; Continue reading MODYSSEY Announces First-Ever Fan Concert Tour “HOW WE BLOOM”\nThe post MODYSSEY Announces First-Ever Fan Concert Tour “HOW WE BLOOM” appeared first on Soompi.",
+    "published_at": "0902soompi",
+    "published_ts": 1788343533.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "MODYSSEY宣布举办首次粉丝演唱会巡演“HOW WE BLOOM”",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：9月2日，MODYSSEY宣布举办2026年粉丝演唱会巡演“HOW WE BLOOM”，并公开了包含巡演日期和场馆的新海报。",
+      "事实点2：巡演将于10月2日在大阪开始，随后在横滨举行多场演出。"
+    ],
+    "summary_zh": "韩国组合MODYSSEY于9月2日宣布将举办首次粉丝演唱会巡演“HOW WE BLOOM”，并公开了巡演海报。巡演将于10月2日从大阪启程，之后在横滨等地继续。具体场次和更多信息有待后续公布。",
+    "extracted_at": "2026-09-02T23:53:25.661951+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Park Ji Hoon Unveils New Design For Version 2 Of Official Light Stick",
+    "url": "https://www.soompi.com/article/1867654wpp/park-ji-hoon-unveils-new-design-for-version-2-of-official-light-stick",
+    "content": "Park Ji Hoon has a new design for his official light stick! On September 2, Park Ji Hoon unveiled Version 2 of his official light stick, featuring an adorable animal-ear design on the outer frame. Inside the round light stick is Park Ji Hoon’s initials, adding a personal touch to the new design. The announcement&#8230; Continue reading Park Ji Hoon Unveils New Design For Version 2 Of Official Light Stick\nThe post Park Ji Hoon Unveils New Design For Version 2 Of Official Light Stick appeared first on Soompi.",
+    "published_at": "0902soompi",
+    "published_ts": 1788342320.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "朴志训公开官方应援棒二代设计，动物耳朵造型可爱吸睛",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：9月2日，朴志训公开了官方应援棒二代设计。",
+      "事实点2：应援棒外框采用可爱的动物耳朵设计，内部印有朴志训的姓名首字母。"
+    ],
+    "summary_zh": "朴志训于9月2日公开了其官方应援棒二代的设计。新款应援棒在外框上采用了可爱的动物耳朵造型，内部则印有朴志训的姓名首字母，增添了个人特色。该消息由Soompi报道。",
+    "extracted_at": "2026-09-02T23:53:27.817701+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Mark Lee’s Label Announces Legal Action Against Malicious Posts",
+    "url": "https://www.soompi.com/article/1867651wpp/mark-lees-label-announces-legal-action-against-malicious-posts",
+    "content": "Mark Lee’s label UPPER ROOM has announced plans to take legal action against malicious posts and comments targeting the singer. On September 2, Summer, UPPER ROOM’s in-house lawyer, announced that the label would take firm legal action against malicious content targeting Mark Lee, including posts and comments that constitute cyberbullying. The label’s full statement is&#8230; Continue reading Mark Lee’s Label Announces Legal Action Against Malicious Posts\nThe post Mark Lee’s Label Announces Legal Action Against Malicious Posts appeared first on Soompi.",
+    "published_at": "0902soompi",
+    "published_ts": 1788341072.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Mark Lee所属社UPPER ROOM宣布对恶意帖子采取法律行动",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：9月2日，UPPER ROOM内部律师Summer宣布，将对针对Mark Lee的恶意帖子和评论采取法律行动。",
+      "事实点2：UPPER ROOM表示将坚决应对构成网络霸凌的恶意内容。"
+    ],
+    "summary_zh": "Mark Lee的所属社UPPER ROOM于9月2日通过内部律师Summer宣布，将对针对Mark Lee的恶意帖子和评论采取法律行动。该声明强调，将坚决应对包括网络霸凌在内的恶意内容，以保护艺人的权益。",
+    "extracted_at": "2026-09-02T23:53:29.604275+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "First Impressions: BL Drama “Hold On, Harutora‑Kun” Is A Healing Dorm Room Romance",
+    "url": "https://www.soompi.com/article/1866494wpp/first-impressions-bl-drama-hold-on-harutora-kun-is-a-healing-dorm-room-romance",
+    "content": "A masked boy who hides everything and a guy who hides nothing become roommates in the new Japanese BL “Hold on, Harutora-Kun,” and it isn’t long before feelings enter the picture. For a genre that has a way of stretching out its milestones, you might be caught off guard by how many things happen in&#8230; Continue reading First Impressions: BL Drama &#8220;Hold On, Harutora‑Kun&#8221; Is A Healing Dorm Room Romance\nThe post First Impressions: BL Drama &#8220;Hold On, Harutora‑Kun&#8221; Is A Healing Dorm Room Romance appeared first on Soompi.",
+    "published_at": "0902soompi",
+    "published_ts": 1788339454.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "日剧《春虎同学，请等一下》首评：治愈系宿舍恋爱物语",
+    "source_type": "日剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：该剧为日本BL题材，讲述一个隐藏一切的蒙面男孩与一个毫无保留的男孩成为室友的故事。",
+      "事实点2：剧集类型为治愈系宿舍恋爱，剧情进展迅速，超出预期。",
+      "事实点3：该剧名为《Hold on, Harutora-Kun》（暂译：春虎同学，请等一下）。"
+    ],
+    "summary_zh": "日本BL剧《春虎同学，请等一下》首播评价出炉，该剧讲述了一个隐藏一切的蒙面男孩与一个毫无保留的男孩成为室友后，逐渐产生感情的故事。作为治愈系宿舍恋爱题材，剧情发展迅速，出乎意料地推进了许多情节，打破了该类型常见的拖沓节奏。",
+    "extracted_at": "2026-09-02T23:53:32.186088+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "STELLAR’s Minhee Announces Wedding Date With Beautiful Photos",
+    "url": "https://www.soompi.com/article/1867513wpp/stellars-minhee-announces-wedding-date-with-beautiful-photos",
+    "content": "STELLAR&#8217;s Minhee is tying the knot later this month! On September 2, Minhee took to social media to share the joyous news of her upcoming wedding, posting a set of beautiful wedding photos alongside her announcement. The STELLAR member, who previously announced her engagement earlier this year, confirmed that she will be getting married on&#8230; Continue reading STELLAR&#8217;s Minhee Announces Wedding Date With Beautiful Photos\nThe post STELLAR&#8217;s Minhee Announces Wedding Date With Beautiful Photos appeared first on Soompi.",
+    "published_at": "0902soompi",
+    "published_ts": 1788338269.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "STELLAR成员敏熙宣布婚期，晒唯美婚纱照",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：9月2日，敏熙通过社交媒体发布婚纱照并宣布婚讯。",
+      "事实点2：敏熙今年早些时候已宣布订婚，此次确认婚礼将于本月晚些时候举行。"
+    ],
+    "summary_zh": "韩国女团STELLAR成员敏熙于9月2日在社交媒体上发布一组婚纱照，宣布即将结婚。她今年早些时候已宣布订婚，此次确认婚礼将于本月晚些时候举行。具体日期未在文中透露。",
+    "extracted_at": "2026-09-02T23:53:34.099705+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Seo Hyun Woo And Oh Dae Hwan Are Lee Jun Hyuk’s Colleagues Facing Change After His Lotto Win In “The Ordinary Jackpot”",
+    "url": "https://www.soompi.com/article/1867634wpp/seo-hyun-woo-and-oh-dae-hwan-are-lee-jun-hyuks-colleagues-facing-change-after-his-lotto-win-in-the-ordinary-jackpot",
+    "content": "TVING’s original series “The Ordinary Jackpot” has unveiled new character stills of Seo Hyun Woo and Oh Dae Hwan! Based on a webtoon, “The Ordinary Jackpot” follows Gong Eun Tae (Lee Jun Hyuk), an ordinary sales employee who wins the lottery jackpot. Though the prize—1.3 billion won (approximately $950,000)—isn’t quite enough to dramatically transform his&#8230; Continue reading Seo Hyun Woo And Oh Dae Hwan Are Lee Jun Hyuk’s Colleagues Facing Change After His Lotto Win In “The Ordinary Jackpot”\nThe post Seo Hyun Woo And Oh Dae Hwan Are Lee Jun Hyuk’s Colleagues Facing Change After His Lotto Win In “The Ordinary Jackpot” appeared first on Soompi.",
+    "published_at": "0902soompi",
+    "published_ts": 1788337679.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《幸运彩票》公开徐贤宇、吴代焕剧照，饰演李准赫中奖后变化的同事",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "TVING原创剧《幸运彩票》公开新角色剧照，涉及演员徐贤宇和吴代焕。",
+      "该剧改编自网络漫画，讲述普通销售职员孔恩泰（李准赫饰）赢得13亿韩元（约95万美元）彩票大奖后的故事。"
+    ],
+    "summary_zh": "TVING原创剧《幸运彩票》公开了徐贤宇和吴代焕的新角色剧照。该剧改编自网络漫画，讲述普通销售职员孔恩泰（李准赫饰）赢得13亿韩元（约95万美元）彩票大奖后的故事。徐贤宇和吴代焕饰演孔恩泰的同事，他们的生活因他的中奖而面临变化。",
+    "extracted_at": "2026-09-02T23:53:36.336899+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -12,17 +376,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《出轨只是开始》终映在即，金憓秀、赵汝贞、金志勋、金宰哲放下恩怨联手应对离奇事件",
+    "title_zh": "金惠秀、赵汝贞、金智勋、金在华在《出轨只是开始》最终回前放下恩怨",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：韩剧《出轨只是开始》公开了最终集播出前的全新剧照。",
-      "事实点2：剧照中，金憓秀、赵汝贞、金志勋、金宰哲放下彼此间的恩怨，共同面对一个离奇的转折事件。",
-      "事实点3：该剧是一部黑色喜剧，讲述一对以幸福家庭形象示人的网红夫妇，与隔壁夫妇纠缠后引发连锁反应的故事。"
+      "事实点1：电视剧《出轨只是开始》公开了最终回播出前的全新剧照。",
+      "事实点2：剧照中，金惠秀、赵汝贞、金智勋、金在华的剧中角色放下彼此间的恩怨。",
+      "事实点3：该剧是一部黑色喜剧，讲述一对以幸福家庭形象示人的网红夫妇与隔壁夫妇发生纠葛后引发连锁反应的故事。"
     ],
-    "summary_zh": "韩剧《出轨只是开始》在最终集播出前公开了新剧照。剧照显示，金憓秀、赵汝贞、金志勋和金宰哲在剧中放下恩怨，共同应对一个离奇的事件转折。该剧是一部黑色喜剧，围绕一对以幸福家庭形象示人的网红夫妇，与邻居夫妇纠缠后引发的一系列连锁反应展开。",
-    "extracted_at": "2026-09-02T16:21:01.682779+08:00"
+    "summary_zh": "韩剧《出轨只是开始》在最终回播出前公开了新剧照，显示金惠秀、赵汝贞、金智勋和金在华饰演的角色在离奇事件中暂时放下恩怨。该剧是一部黑色喜剧，围绕一对以幸福家庭形象示人的网红夫妇与邻居夫妇纠缠后引发的连锁反应展开。",
+    "extracted_at": "2026-09-02T23:53:38.781624+08:00"
   },
   {
     "source_id": "soompi",
@@ -37,40 +401,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "GOT7朴珍荣与金裕贞新剧《百日的欺骗》预告，隐藏真实身份上演谍战罗曼史",
+    "title_zh": "GOT7朴珍荣与金裕贞新剧《百日的欺骗》中隐藏真实身份",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "tvN新剧《百日的欺骗》公开预告，由金裕贞与GOT7成员朴珍荣主演。",
+      "tvN新剧《百日的欺骗》公开金裕贞与GOT7朴珍荣的化学反应预告。",
       "该剧由《非常律师禹英禑》及《浪漫医生金师傅》系列的导演刘仁植执导。",
-      "《百日的欺骗》是一部以日本占领朝鲜时期为背景，设定在100天内的间谍罗曼史剧。"
+      "《百日的欺骗》是一部以日本占领朝鲜时期为背景，讲述100天内发生的间谍爱情剧。"
     ],
-    "summary_zh": "tvN新剧《百日的欺骗》公开了金裕贞与GOT7朴珍荣的化学反应预告。该剧由《非常律师禹英禑》和《浪漫医生金师傅》系列的导演刘仁植执导，是一部以日本占领朝鲜时期为背景，设定在100天内的间谍罗曼史剧。预告中，两位主角隐藏真实身份，展开一段充满悬疑与浪漫的故事。",
-    "extracted_at": "2026-09-02T16:21:04.578130+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Fresh faces in K-drama: Here are the rising heartthrobs winning us over - t2ONLINE",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWHlKRlViaW5LeVhVOHBLWkZLZVNPLUc3UHNIQi1WOTI4YVNxWDBhb1FPMFZDVXVWa19LS0NwcnN5TkxnNWQyZG43bGg0Q01DMEE0ZVZSc1h5eUtzYTBJMExGbTdQZGk1NUdKODNxVXk5cHRPWXZMWUtYTlN4bVFlUURjR0pRdEpVTlNLbFZSNmg5UTVBWDVPVDZlX3pfaV9INHZyc3RDcmhFNkJlT2dZaEtYX0U?oc=5",
-    "content": "Fresh faces in K-drama: Here are the rising heartthrobs winning us over t2ONLINE",
-    "published_at": "0902google-kpop",
-    "published_ts": 1788335040.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "韩剧新面孔：盘点正在俘获观众的崛起男神",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "原文未提及具体演员姓名、作品或数据，仅以'rising heartthrobs'概括。"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：韩剧中的新面孔，即正在赢得我们喜爱的崛起中的心仪男神们。]",
-    "extracted_at": "2026-09-02T16:21:06.579477+08:00"
+    "summary_zh": "tvN新剧《百日的欺骗》公开了金裕贞与GOT7朴珍荣的预告，展现了两人之间的化学反应。该剧由《非常律师禹英禑》和《浪漫医生金师傅》系列的导演刘仁植执导，是一部以日本占领朝鲜时期为背景，讲述100天内发生的间谍爱情故事。",
+    "extracted_at": "2026-09-02T23:53:40.803393+08:00"
   },
   {
     "source_id": "soompi",
@@ -85,63 +426,40 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "李珠安与赵雅拉谈《不是你的爱》中如何搅动安恩真与徐康俊的十年恋情",
+    "title_zh": "李柱安与赵雅蓝谈在《不是你的爱》中搅动安恩真与徐康俊的十年恋情",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：李珠安和赵雅拉分享了他们在新剧《不是你的爱》中角色的想法。",
+      "事实点1：李柱安和赵雅蓝分享了他们在新剧《不是你的爱》中饰演角色的感想。",
       "事实点2：该剧是一部现实浪漫剧，讲述安恩真饰演的李美道和徐康俊饰演的南宫浩这对交往10年的情侣的故事。"
     ],
-    "summary_zh": "李珠安和赵雅拉分享了他们在新剧《不是你的爱》中角色的想法。该剧是一部现实浪漫剧，讲述安恩真饰演的李美道和徐康俊饰演的南宫浩这对交往10年的情侣的故事。李珠安和赵雅拉将饰演影响这对长期情侣关系的角色。",
-    "extracted_at": "2026-09-02T16:21:08.992651+08:00"
+    "summary_zh": "李柱安和赵雅蓝分享了他们在新剧《不是你的爱》中饰演角色的感想。该剧是一部现实浪漫剧，讲述安恩真饰演的李美道和徐康俊饰演的南宫浩这对交往10年的情侣的故事。李柱安和赵雅蓝的角色将搅动这对长期情侣的关系。",
+    "extracted_at": "2026-09-02T23:53:43.038777+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "Tomorrow x Together's Beomgyu named No. 1 K-pop star that fans want to travel with - Korea JoongAng Daily",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdklacjdaOVZ5bzBVOWN4eWVJdlhmNWpvMnpUVVpGR2hONDZpUkZJY1daSkM0UG8yR2VQOFhwTm8zTi1JdTJoYmczZnZPRDQwcmtoYmFRcFV5VEQtSWh3WmVqTTNRTlVpVWtseWN2aEZoU1JFbUlHSjRnb0g2MGo1b3NONEk0RVVUTFE5ZllDOUp5M0s0NnYzOG5CU21nRE9idVRyczI2ZjlaRDNiU2sxdEZCcXMzS1VoX1c0bFNsZ1g0WElxZUV6QTI4dXUxRWgwWnlV?oc=5",
-    "content": "Tomorrow x Together's Beomgyu named No. 1 K-pop star that fans want to travel with Korea JoongAng Daily",
+    "title": "Funko ‘KPop Demon Hunters’ Saja Boys blind box figures: Price, release date and availability - Lifestyle Asia",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbGNxYVJJNlBoZUt0Tl92MU1NejF1VDFfM0VVRmt4Y0RzY1pXeEx4Sy1NWVZZb2VaWTgyeGhiQm4wNWlzN0ZTMm9aX3U0c1dHNzBXbFlzOWZWQ2Nfc1l1OS1QYVBFWktieGtSZ1p4ckU4MEw4WGhCNE1rZ21GWEpaeGhEVFRrZ1lfUlUxM1FObk94N3FmTktJQW8zQzRWdjkwMDF6YlN0SklyLUZjSl9fc1ZBZnJuUTgyal83SmNR0gHDAUFVX3lxTFBJTFl4b254RDRESkdQcGFEdERNb1luMFFnb2l5VUFnX19XX2loalJOc2QxRV90ajQ3V2g0Z3p0cURXU3pIUjFpQlBtNzNtUW1ZdWJhcHQtWU5ZamFhMTktLS14a2tFLTZ0QlBkNmFkRHlCM09TN3hyMXhkZXlGck1hbDZBMjFCczU0dWVNbjZ2bFgtWXB0d2F5TVN3OGwyUXpTOWFBd1Y4eFU1RGpfbGNVNzJQWWZtNEU3S3AwNUdOU0w0TQ?oc=5",
+    "content": "Funko ‘KPop Demon Hunters’ Saja Boys blind box figures: Price, release date and availability Lifestyle Asia",
     "published_at": "0902google-kpop",
-    "published_ts": 1788333167.0,
+    "published_ts": 1788332706.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "TOMORROW X TOGETHER成员崔范奎被选为粉丝最想同游的K-pop明星",
+    "title_zh": "Funko推出KPop Demon Hunters Saja Boys盲盒公仔：价格、发售日期及购买渠道公布",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：TOMORROW X TOGETHER成员崔范奎（Beomgyu）被韩国《中央日报》评为粉丝最想一起旅行的K-pop明星第一名。"
+      "Funko推出'KPop Demon Hunters'系列Saja Boys盲盒公仔",
+      "该系列公仔为盲盒形式，具体价格、发售日期及购买渠道详见Lifestyle Asia报道"
     ],
-    "summary_zh": "据韩国《中央日报》报道，TOMORROW X TOGETHER成员崔范奎（Beomgyu）在粉丝投票中被选为最想一起旅行的K-pop明星第一名。该评选结果反映了粉丝对崔范奎的喜爱，但报道未提及具体投票人数或评选细节。",
-    "extracted_at": "2026-09-02T16:21:11.173903+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Daum Exclusively Live-Streams SPOTV K-POP AWARDS via New Media - 조선일보",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU1g4RVc4a3lzekp0RldldkhpTXlTUDdZM1NYak1jV0JJazE4RlNtYXhqT0JJZDZYa2JBLWZwT1ZCb0pIUm5OLWJJd2lNMnpadDNtZXpPQVhlNnRWUC1yYnczdkszOENtUll0ZFZyVk1Od3BrWDJqT0RfMklUNU4tTHl3bVN2U3lyUUJHRGNB?oc=5",
-    "content": "Daum Exclusively Live-Streams SPOTV K-POP AWARDS via New Media 조선일보",
-    "published_at": "0902google-kpop",
-    "published_ts": 1788331932.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Daum独家直播SPOTV K-POP颁奖礼，新媒体合作引关注",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：Daum通过新媒体平台独家直播SPOTV K-POP AWARDS。",
-      "事实点2：该消息由《朝鲜日报》报道。"
-    ],
-    "summary_zh": "据《朝鲜日报》报道，Daum将通过其新媒体平台独家直播SPOTV K-POP AWARDS颁奖典礼。此次合作标志着Daum在音乐颁奖礼直播领域的进一步拓展，为观众提供独家观看体验。",
-    "extracted_at": "2026-09-02T16:21:13.331050+08:00"
+    "summary_zh": "据Lifestyle Asia报道，Funko推出了'KPop Demon Hunters'系列Saja Boys盲盒公仔。报道中提及了该系列公仔的价格、发售日期及购买渠道，但具体细节未在原文中详细列出。",
+    "extracted_at": "2026-09-02T23:53:44.664203+08:00"
   },
   {
     "source_id": "soompi",
@@ -164,8 +482,8 @@
       "事实点1：9月2日，SBS宣布制作新一季街头表演节目《The Listen: The Season We Stayed》（暂译），并公开出演阵容。",
       "事实点2：本季共聚集14位歌手，包括李英贤、Tei、DK、EXO的Suho、ATEEZ的Jongho、Chuu等。"
     ],
-    "summary_zh": "SBS街头表演节目《The Listen》将推出第六季，名为《The Listen: The Season We Stayed》（暂译）。9月2日，SBS宣布制作该新季并公开了出演阵容，共14位歌手参与，包括李英贤、Tei、DK、EXO的Suho、ATEEZ的Jongho、Chuu等。",
-    "extracted_at": "2026-09-02T16:21:15.527295+08:00"
+    "summary_zh": "SBS街头表演节目《The Listen》将推出第六季，定名为《The Listen: The Season We Stayed》（暂译）。9月2日，SBS宣布制作该季并公开了由14位顶级歌手组成的出演阵容，其中包括李英贤、Tei、DK、EXO的Suho、ATEEZ的Jongho、Chuu等。",
+    "extracted_at": "2026-09-02T23:53:46.785886+08:00"
   },
   {
     "source_id": "soompi",
@@ -180,17 +498,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "MAMAMOO《gogobebe》MV观看量突破1亿，成为组合第5支破亿MV",
+    "title_zh": "MAMAMOO《gogobebe》MV播放量突破1亿，成为组合第5支破亿MV",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：9月2日下午2点（韩国时间），MAMAMOO的《gogobebe》MV在YouTube上观看量正式突破1亿次。",
+      "事实点1：9月2日下午2点（韩国时间），MAMAMOO的《gogobebe》MV在YouTube上播放量正式突破1亿次。",
       "事实点2：《gogobebe》于2019年3月14日发行，是MAMAMOO第九张迷你专辑《White Wind》的主打曲。",
-      "事实点3：这是MAMAMOO第5支观看量突破1亿的MV。"
+      "事实点3：这是MAMAMOO第5支播放量突破1亿的MV。"
     ],
-    "summary_zh": "韩国女团MAMAMOO的歌曲《gogobebe》MV于9月2日下午2点（韩国时间）在YouTube上观看量突破1亿次。该曲于2019年3月14日发行，是她们第九张迷你专辑《White Wind》的主打歌。至此，MAMAMOO已有5支MV观看量超过1亿。",
-    "extracted_at": "2026-09-02T16:21:17.596451+08:00"
+    "summary_zh": "韩国女团MAMAMOO的歌曲《gogobebe》MV于9月2日下午2点（韩国时间）在YouTube上播放量突破1亿次。该曲于2019年3月14日发行，是她们第九张迷你专辑《White Wind》的主打曲。至此，MAMAMOO已有5支MV达到1亿播放量。",
+    "extracted_at": "2026-09-02T23:53:48.709604+08:00"
   },
   {
     "source_id": "soompi",
@@ -205,7 +523,7 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Mark Lee离开SM娱乐后首支个人单曲《My Friend》MV预告公开",
+    "title_zh": "Mark Lee离开SM后首支个人单曲《My Friend》MV预告公开",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
@@ -214,8 +532,8 @@
       "事实点2：新歌《My Friend》将于9月10日发行",
       "事实点3：Mark Lee公开了该曲目的音乐视频预告片"
     ],
-    "summary_zh": "Mark Lee在离开SM娱乐后，正筹备个人回归。9月2日，其经纪公司宣布他将于9月10日发行新歌《My Friend》，并同步公开了音乐视频预告片。",
-    "extracted_at": "2026-09-02T16:21:19.878450+08:00"
+    "summary_zh": "Mark Lee在离开SM Entertainment后，正筹备个人回归。9月2日，其经纪公司宣布将于9月10日发行新歌《My Friend》，并同步公开了音乐视频预告片。",
+    "extracted_at": "2026-09-02T23:53:50.710417+08:00"
   },
   {
     "source_id": "soompi",
@@ -235,12 +553,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：Disney+新剧《Merry Berry Love》公开新预告和海报",
-      "事实点2：该剧为浪漫喜剧，讲述韩国空间设计师李裕彬（池昌旭饰）在韩国成功后一夜失去一切，前往日本小岛寻求人生转机",
-      "事实点3：预告中池昌旭与今田美樱饰演的角色初次相遇并不愉快，但逐渐发展为浪漫关系"
+      "Disney+新剧《Merry Berry Love》公开新预告和海报",
+      "该剧为浪漫喜剧，讲述韩国空间设计师李裕彬（池昌旭饰）在韩国成功后一夜失去一切，前往日本小岛寻求人生转机",
+      "预告中池昌旭与今田美樱饰演的角色初次相遇并不愉快，但逐渐发展为浪漫关系"
     ],
-    "summary_zh": "Disney+新剧《Merry Berry Love》公开新预告和海报。该剧为浪漫喜剧，讲述韩国空间设计师李裕彬（池昌旭饰）在韩国取得巨大成功后一夜之间失去一切，前往日本小岛希望扭转人生。预告中，池昌旭与今田美樱饰演的角色初次相遇并不愉快，但逐渐萌生爱意。",
-    "extracted_at": "2026-09-02T16:21:22.793956+08:00"
+    "summary_zh": "Disney+新剧《Merry Berry Love》公开新预告和海报。该剧为浪漫喜剧，讲述韩国空间设计师李裕彬（池昌旭饰）在韩国成功后一夜失去一切，前往日本小岛寻求人生转机。预告中，池昌旭与今田美樱饰演的角色初次相遇并不愉快，但逐渐发展为浪漫关系。",
+    "extracted_at": "2026-09-02T23:53:52.852705+08:00"
   },
   {
     "source_id": "soompi",
@@ -255,40 +573,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "金智妍新剧《Dive Into You》剧照公开，饰演穿越时空拯救初恋的顶级女演员",
+    "title_zh": "金智妍新剧《Dive Into You》公开剧照，饰演穿越时空拯救初恋的顶级女演员",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "事实点1：新剧《Dive Into You》公开了金智妍的角色剧照。",
-      "事实点2：该剧是一部灵魂交换奇幻爱情剧，讲述顶级女演员因事故与双胞胎哥哥灵魂互换后，穿越回过去努力阻止初恋悲剧的故事。"
+      "事实点2：该剧是一部灵魂交换奇幻爱情剧，讲述顶级女演员因事故与双胞胎哥哥灵魂互换，穿越回过去努力阻止初恋悲剧的故事。"
     ],
-    "summary_zh": "新剧《Dive Into You》公开了金智妍的首批剧照。该剧是一部灵魂交换奇幻爱情剧，讲述顶级女演员因事故与双胞胎哥哥灵魂互换后，穿越回过去努力阻止初恋悲剧的故事。",
-    "extracted_at": "2026-09-02T16:21:24.831426+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "All about Kim Ji-won’s new K-drama ‘Doctor X: Age of the White Mafia’ - Lifestyle Asia",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNm9CQkxfQzE2OHp2cVdNLVZCcDZIanRvLVVCS1B0enU5SUFGLVpqUXZ4XzFPMUFCelJDTXMwZ09LbE5HaXAteHRIa0preUxsT3lzMUo1aDYzV1VtdlJSQ2hxS2VDZG5TODVOZTFjc1FBVlJtSmlCQzZTZGY0SExHUEdwa0JQVUZZQUhOcFY5SDZKeVRtRGVxMmI5OEpkOFVOSmZHLVVhU010enVQMTRKTWhqWmxhOWZfb3JrOG10cU5PVmFzcURPODRLVdIB0AFBVV95cUxONHE2ZXAxUVgzZS1DLWRZRzVmdGFXZE9NNDRSU1otQThlMmZzb0czZThlU2lXNUVyb0J2MjJkMFhtSDJ6N1hmUjF6TlBlbEZkZ3FTa0hMSlloUHJ3bkhsLTZ4dHI4LTJWMk92dkVXbWk1V3Jsd296eVBpd000SmRuSlhyNVBmQXZGc1RVZ2dDQUkxdlVlUnVseVFrRm13ejNTRU5WSzRMTTZIZkFKOVVjTzFNUXRVWExpaDFJNHRLakV3UGZqdzlZWEVrcWRoak9o?oc=5",
-    "content": "All about Kim Ji-won’s new K-drama ‘Doctor X: Age of the White Mafia’ Lifestyle Asia",
-    "published_at": "0902google-kpop",
-    "published_ts": 1788319473.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "金智媛新剧《Doctor X：白色黑手党时代》详情公开",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "金智媛确定出演新剧《Doctor X: Age of the White Mafia》",
-      "该剧由Lifestyle Asia报道"
-    ],
-    "summary_zh": "据Lifestyle Asia报道，韩国女演员金智媛将出演新剧《Doctor X: Age of the White Mafia》。该剧的具体播出时间、角色细节等尚未公布。",
-    "extracted_at": "2026-09-02T16:21:26.414894+08:00"
+    "summary_zh": "新剧《Dive Into You》公开了金智妍的首批剧照。该剧是一部灵魂交换奇幻爱情剧，讲述顶级女演员在一次事故后与双胞胎哥哥灵魂互换，穿越回过去，努力阻止初恋悲剧发生的故事。",
+    "extracted_at": "2026-09-02T23:53:55.032163+08:00"
   },
   {
     "source_id": "soompi",
@@ -312,8 +606,8 @@
       "该剧讲述棒球选手（孔明饰）因一次挫折职业生涯中断，遇到前律师转行经纪人（韩孝周饰）后重返赛场的故事",
       "播出计划已确定"
     ],
-    "summary_zh": "MBC新剧《你的土地》（暂译）公开演员阵容，确定由韩孝周和孔明主演。该剧是一部青春爱情剧，讲述棒球选手（孔明饰）因一次挫折职业生涯中断，遇到前律师转行经纪人（韩孝周饰）后，开始重返赛场的故事。播出计划已确定。",
-    "extracted_at": "2026-09-02T16:21:28.603764+08:00"
+    "summary_zh": "MBC新剧《你的土地》（暂译）公开演员阵容，确定由韩孝周和孔明主演。该剧是一部青春爱情剧，讲述棒球选手（孔明饰）因一次挫折职业生涯中断，遇到前律师转行经纪人（韩孝周饰）后，开始重返赛场之旅。播出计划已确定。",
+    "extracted_at": "2026-09-02T23:53:56.969584+08:00"
   },
   {
     "source_id": "soompi",
@@ -328,24 +622,24 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "金智媛新剧《Doctor X》变身天才外科医生，零失误手术引期待",
+    "title_zh": "金智媛新剧《Doctor X》剧照公开，饰演不容失误的天才外科医生",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：SBS新剧《Doctor X》公开金智媛角色剧照，她饰演天才外科医生Gye Soo Jung（暂译：桂秀晶）",
-      "事实点2：该剧改编自同名热门日剧，是一部医疗黑色剧，讲述医生证明真正医者意义的故事"
+      "SBS新剧《Doctor X》公开金智媛角色剧照",
+      "该剧改编自同名日本热门剧集，金智媛饰演天才外科医生Gye Soo Jung（暂译：桂秀晶）"
     ],
-    "summary_zh": "SBS新剧《Doctor X》公开了金智媛的首次深度剧照，她将在剧中饰演天才外科医生Gye Soo Jung（暂译：桂秀晶），展现零失误的手术实力。该剧改编自同名热门日剧，是一部医疗黑色剧，围绕医生证明真正医者意义的故事展开。",
-    "extracted_at": "2026-09-02T16:21:31.220262+08:00"
+    "summary_zh": "SBS新剧《Doctor X》公开了金智媛的首批剧照，展示其角色转变。该剧改编自同名日本热门剧集，是一部医疗黑色剧，讲述金智媛饰演的天才外科医生Gye Soo Jung（暂译：桂秀晶）证明作为医生真正意义的故事。",
+    "extracted_at": "2026-09-02T23:53:58.797046+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "Cortis’ ‘Redred’ best K-pop song this summer: TikTok - koreaherald.com",
+    "title": "Cortis’ ‘Redred’ best K-pop song this summer: TikTok - The Korea Herald",
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBYaUdMcVVKWTJPVkprVUdwSzF6VnY0OTFydnI2YkFzeEtGV0dGVC1KcGJUMDMtcnFELUpwcjBkNjlMZnBEQ1VlWno3bHlTelBGVjNwWWhndw?oc=5",
-    "content": "Cortis’ ‘Redred’ best K-pop song this summer: TikTok koreaherald.com",
+    "content": "Cortis’ ‘Redred’ best K-pop song this summer: TikTok The Korea Herald",
     "published_at": "0902google-kpop",
     "published_ts": 1788313503.0,
     "category": "韩娱",
@@ -358,10 +652,10 @@
     "is_blurred": false,
     "facts_list": [
       "TikTok评选Cortis的歌曲《Redred》为今夏最佳K-pop歌曲",
-      "该评选结果由韩国媒体koreaherald.com报道"
+      "该评选结果由《韩国先驱报》报道"
     ],
-    "summary_zh": "据koreaherald.com报道，TikTok将Cortis的歌曲《Redred》评选为今夏最佳K-pop歌曲。这一评选结果体现了TikTok平台对这首歌的认可，但报道未提及具体评选标准或数据。",
-    "extracted_at": "2026-09-02T16:21:33.359812+08:00"
+    "summary_zh": "据《韩国先驱报》报道，TikTok将Cortis的歌曲《Redred》评选为今夏最佳K-pop歌曲。该评选结果体现了TikTok平台对这首歌的认可，但报道未提及具体评选标准或数据。",
+    "extracted_at": "2026-09-02T23:54:00.464649+08:00"
   },
   {
     "source_id": "soompi",
@@ -382,84 +676,10 @@
     "is_blurred": false,
     "facts_list": [
       "9月2日，媒体报道演员池艺恩与舞者Vata将于12月12日结婚。",
-      "池艺恩所属社CP Entertainment回应称：两人已约定共度一生。"
+      "池艺恩所属社CP Entertainment回应称：“两人已约定共度一生，基于……”"
     ],
-    "summary_zh": "演员池艺恩与舞者Vata将于今年12月12日结婚。9月2日，有媒体报道了这一消息，随后池艺恩的所属社CP Entertainment确认称，两人已约定共度一生。",
-    "extracted_at": "2026-09-02T16:21:35.438693+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "K-pop Group NMIXX Fronts Make Up For Ever's Latest Campaign - WWD",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTnRFQzBNTlF4aVUzdkNaVnctWGRXamxvSFFYbENaSTBnYXdnYzZmUWRHVkNVS09MMmt3ZWlhd0VEZXJXQzFmNFoxZjd3d2RfcVZOanVBb3ZQR1JYSUJxVERQUTJTM2hTalV5NUdpT3lYc2lBLXRqR2lUcTVTMDdPYmRNT1lYSWRJcVlvZ2s4MW56OEhPTFdB?oc=5",
-    "content": "K-pop Group NMIXX Fronts Make Up For Ever's Latest Campaign WWD",
-    "published_at": "0902google-kpop",
-    "published_ts": 1788309655.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "NMIXX成为Make Up For Ever最新广告代言人",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：K-pop组合NMIXX成为Make Up For Ever最新广告活动的代言人。",
-      "事实点2：该消息由WWD报道。"
-    ],
-    "summary_zh": "据WWD报道，K-pop组合NMIXX成为美妆品牌Make Up For Ever最新广告活动的代言人。NMIXX是韩国JYP娱乐旗下的女子组合，此次合作标志着该品牌在K-pop领域的最新营销举措。",
-    "extracted_at": "2026-09-02T16:21:37.510343+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "BTS fans pack SoFi Stadium for K-Pop boy band's sold-out shows - CBS News",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT3dVX0VWWndrZHk0Z1p4M1RhZ25ZWE9FY1FrYjI2R0J3YmRwNm1kZ1ZhODFWa2prenFMWG0zemYtNzhwcllKanBZSlRhYWlxeENaZy03ZnBTN3RuWTBrQTJMYkFRSTc3VVE4QXJnRkphai1iZDUwWUFzaW5ianJ5dHRwY1pQa2Zqc3c?oc=5",
-    "content": "BTS fans pack SoFi Stadium for K-Pop boy band's sold-out shows CBS News",
-    "published_at": "0902google-kpop",
-    "published_ts": 1788308804.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "BTS在SoFi体育场举办售罄演唱会，粉丝爆满",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "时间：未明确提及具体日期",
-      "地点：美国洛杉矶SoFi体育场",
-      "主体：韩国男团BTS",
-      "事件：BTS在SoFi体育场举办多场售罄演唱会，粉丝爆满"
-    ],
-    "summary_zh": "据CBS News报道，韩国男团BTS在美国洛杉矶的SoFi体育场举办了多场售罄演唱会，现场粉丝爆满。报道未提及具体日期和场次数量，但强调了演唱会的售罄状态和粉丝的热情。",
-    "extracted_at": "2026-09-02T16:21:39.694446+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "YOUNITE, the K-pop group that treats every EP as the opening sentence of something unfinished - Martin Cid Magazine",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrUDdnbGhPS25Zdm9kZEc5VDZKV0M3ZVE2NVBUazRRYVc3WTFnLW1PV005MzRWZU5FSUFDT2tsV2ZUTTNQTUlxN016M2hkWnluQ1oxRWNNTnJScUJiVXVhWWlNclNNQk8zZGswQy1R?oc=5",
-    "content": "YOUNITE, the K-pop group that treats every EP as the opening sentence of something unfinished Martin Cid Magazine",
-    "published_at": "0902google-kpop",
-    "published_ts": 1788305767.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "YOUNITE：将每张EP视为未完成故事开篇的K-pop组合",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "事实点1：YOUNITE是K-pop组合，其理念是将每张EP视为未完成故事的开篇。",
-      "事实点2：该报道来自Martin Cid Magazine。"
-    ],
-    "summary_zh": "据Martin Cid Magazine报道，K-pop组合YOUNITE将每张EP视为未完成故事的开篇，强调其音乐作品的连续性和开放性。报道未提及具体回归日期、专辑名称或成员信息，仅聚焦于组合的创作理念。",
-    "extracted_at": "2026-09-02T16:21:41.521389+08:00"
+    "summary_zh": "演员池艺恩与舞者Vata宣布将于今年12月12日结婚。9月2日，有媒体报道了这一消息，随后池艺恩的所属社CP Entertainment确认称：“两人已约定共度一生，基于……”（原文未完整引用声明内容）。",
+    "extracted_at": "2026-09-02T23:54:02.138120+08:00"
   },
   {
     "source_id": "soompi",
@@ -474,17 +694,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《新进社员4：破坏》收视率创新高，《我的偶像上司》进入收官周",
+    "title_zh": "《新进社员4：破坏》收视率创新高，《我的偏见，我的老板》进入收官周",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：9月1日，ENA电视剧《新进社员4：破坏》播出第4集，创下自身最高收视率。",
-      "事实点2：据尼尔森韩国数据，该集全国平均收视率为3.6%，刷新了第四季的个人纪录。",
-      "事实点3：tvN电视剧《我的偶像上司》进入播出最后一周。"
+      "时间：9月1日，ENA剧《新进社员4：破坏》播出第4集，尼尔森韩国数据显示全国平均收视率为3.6%，创该季新高。",
+      "tvN剧《我的偏见，我的老板》进入播出最后一周。"
     ],
-    "summary_zh": "ENA电视剧《新进社员4：破坏》收视率持续上升，于9月1日播出的第4集创下自身最高收视纪录。据尼尔森韩国统计，该集全国平均收视率达3.6%，刷新了第四季的个人最佳成绩。与此同时，tvN的《我的偶像上司》已进入播出最后一周。",
-    "extracted_at": "2026-09-02T16:21:43.685034+08:00"
+    "summary_zh": "据尼尔森韩国数据，ENA剧《新进社员4：破坏》于9月1日播出第4集，全国平均收视率达3.6%，创下该季最高收视纪录。同时，tvN剧《我的偏见，我的老板》已进入播出最后一周。",
+    "extracted_at": "2026-09-02T23:54:03.782900+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -499,16 +718,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "凯莉·克莱森在最后一期脱口秀演唱“最点播”歌曲走红",
+    "title_zh": "凯莉·克莱森在最后一期脱口秀演唱“最受欢迎”歌曲走红",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：凯莉·克莱森在最后一期脱口秀节目中演唱了“最点播”的歌曲。",
-      "事实点2：该表演视频在网络上走红。"
+      "凯莉·克莱森在最后一期脱口秀节目中演唱了一首被称为“最受欢迎”的歌曲。",
+      "该表演视频在网络上迅速走红。"
     ],
-    "summary_zh": "凯莉·克莱森在最后一期脱口秀节目中演唱了观众最点播的歌曲，该表演片段在网络上迅速走红。",
-    "extracted_at": "2026-09-02T16:21:45.368911+08:00"
+    "summary_zh": "据Deseret News报道，凯莉·克莱森在最后一期脱口秀节目中演唱了一首被称为“最受欢迎”的歌曲，该表演视频在网络上迅速走红。",
+    "extracted_at": "2026-09-02T23:54:05.286380+08:00"
   },
   {
     "source_id": "soompi",
@@ -523,17 +742,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "9月新人偶像个人品牌声誉排行榜公布，RESCENE强势登顶",
+    "title_zh": "9月新人偶像个人品牌评价榜公布 RESCENE强势登顶",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "韩国企业评价研究所于9月发布新人偶像个人品牌声誉排行榜。",
-      "排名基于8月2日至9月2日收集的大数据，分析消费者参与度、媒体报道、互动和社区认知度指数。",
-      "RESCENE在9月榜单中占据绝对优势，位居第一。"
+      "韩国企业评价研究所于9月发布新人偶像个人品牌评价排名。",
+      "排名基于8月2日至9月2日收集的大数据，分析消费者参与度、媒体覆盖、互动及社区认知度指数。",
+      "RESCENE在9月榜单中占据绝对优势，位列第一。"
     ],
-    "summary_zh": "韩国企业评价研究所公布了9月新人偶像个人品牌声誉排行榜。该排名基于8月2日至9月2日的大数据，分析了消费者参与度、媒体报道、互动和社区认知度等指标。RESCENE在9月榜单中表现突出，占据榜首位置。",
-    "extracted_at": "2026-09-02T16:21:47.262504+08:00"
+    "summary_zh": "韩国企业评价研究所公布了9月新人偶像个人品牌评价排名。该排名基于8月2日至9月2日收集的大数据，分析了消费者参与度、媒体覆盖、互动及社区认知度等指数。RESCENE在9月榜单中表现突出，占据榜首位置。",
+    "extracted_at": "2026-09-02T23:54:06.996719+08:00"
   },
   {
     "source_id": "soompi",
@@ -554,11 +773,11 @@
     "is_blurred": false,
     "facts_list": [
       "KBS 1TV新剧《Mission: Mompossible》发布首支预告片",
-      "该剧为新的工作日剧，讲述两位截然不同的母亲及其子女纠缠的生活",
-      "预告中金熙贞饰演的母亲对三个成年子女表现出厌烦情绪"
+      "预告中金熙贞饰演的母亲对三个成年子女表现出厌烦情绪",
+      "该剧为工作日剧，讲述两位截然不同的母亲及其子女纠缠的生活"
     ],
-    "summary_zh": "KBS 1TV新剧《Mission: Mompossible》公开首支预告。该剧为新的工作日剧，聚焦两位截然不同的母亲及其子女纠缠的生活。一位母亲长期为家庭牺牲奉献，另一位则截然不同。预告中，金熙贞饰演的母亲对三个成年子女表现出厌烦。",
-    "extracted_at": "2026-09-02T16:21:49.230390+08:00"
+    "summary_zh": "KBS 1TV新剧《Mission: Mompossible》公开首支预告。该剧为工作日剧，围绕两位截然不同的母亲及其子女纠缠的生活展开。预告中，金熙贞饰演的母亲对三个成年子女感到厌烦。一位母亲长期为家庭牺牲奉献，另一位母亲则只为自己而活。",
+    "extracted_at": "2026-09-02T23:54:09.137909+08:00"
   },
   {
     "source_id": "soompi",
@@ -578,14 +797,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "时间：8月16日至22日当周",
-      "主体：ENHYPEN",
-      "动作：凭借迷你专辑《THE SIN : BLISS》及主打曲《Bloody Paradise》在Circle Chart的实体专辑榜和数字下载榜上获得第一名，实现双冠王",
-      "主体：RESCENE",
-      "动作：在Circle Chart的周榜中同样获得双冠王（具体榜单未在原文中明确，但标题提及）"
+      "事实点1：Circle Chart公布8月16日至22日周榜，ENHYPEN凭借迷你专辑《THE SIN : BLISS》及主打曲《Bloody Paradise》获得实体专辑榜和数字下载榜双冠王。",
+      "事实点2：RESCENE在同期周榜中也获得双冠王，具体榜单未在原文中明确列出。"
     ],
-    "summary_zh": "根据Circle Chart公布的8月16日至22日周榜数据，ENHYPEN凭借新迷你专辑《THE SIN : BLISS》及其主打曲《Bloody Paradise》在实体专辑榜和数字下载榜上均位列第一，达成双冠王。同时，RESCENE也在该周榜单中取得双冠王成绩。",
-    "extracted_at": "2026-09-02T16:21:51.658187+08:00"
+    "summary_zh": "Circle Chart公布8月16日至22日周榜，ENHYPEN凭借新迷你专辑《THE SIN : BLISS》及其主打曲《Bloody Paradise》在实体专辑榜和数字下载榜上获得双冠王。同时，RESCENE也在该周榜单中取得双冠王成绩，但具体榜单类别未在原文中详细说明。",
+    "extracted_at": "2026-09-02T23:54:11.451400+08:00"
   },
   {
     "source_id": "soompi",
@@ -605,35 +821,11 @@
     "risk_level": "中",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：9月1日，宣美所属社ABYSS Company宣布取消原定于9月5日举行的上海粉丝见面会“Meet SUNMI in Late Summer”。",
+      "事实点1：9月1日，宣美所属社ABYSS Company宣布取消原定于9月5日在上海举行的“Meet SUNMI in Late Summer”粉丝见面会。",
       "事实点2：所属社发布完整公告，但公告具体内容未在原文中详细披露。"
     ],
-    "summary_zh": "9月1日，宣美所属社ABYSS Company宣布取消原定于9月5日举行的上海粉丝见面会“Meet SUNMI in Late Summer”。所属社发布了完整公告，但公告具体内容未在原文中详细披露。",
-    "extracted_at": "2026-09-02T16:21:53.585365+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Watch Kelly Clarkson Shred 'KPop Demon Hunters' Hit \"Golden\" for Final Kellyoke - Exclaim!",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV0Ftd3JVQXk5TXBScXA3VEk3U3NGODJ2MHdIQkRRUlJRQlliaFNraFpNTi1WZEU0Um5HZThQc003VDh0UlB2ZUs3OTh3X0M3T2hJdzgzRlMzVUdSNzNxSmJMcUlUNmkzcE9KcE9qWlppOXNPUVVjb2hlMjgyQTVqT1pXNzFiV1NBdW9OVDFXWnJhNXo1SXhxRXNSbU85YVl4bm9KLXltckw?oc=5",
-    "content": "Watch Kelly Clarkson Shred 'KPop Demon Hunters' Hit \"Golden\" for Final Kellyoke Exclaim!",
-    "published_at": "0902google-kpop",
-    "published_ts": 1788285187.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Kelly Clarkson翻唱《KPop Demon Hunters》热门曲《Golden》作为最终Kellyoke环节",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "Kelly Clarkson在《Kelly Clarkson Show》的Kellyoke环节翻唱了《KPop Demon Hunters》的歌曲《Golden》",
-      "该翻唱是Kellyoke环节的最后一期"
-    ],
-    "summary_zh": "Kelly Clarkson在《Kelly Clarkson Show》的Kellyoke环节中，翻唱了《KPop Demon Hunters》的热门歌曲《Golden》，作为该环节的最终表演。",
-    "extracted_at": "2026-09-02T16:21:55.221493+08:00"
+    "summary_zh": "宣美原定于9月5日在上海举行的粉丝见面会“Meet SUNMI in Late Summer”被取消。9月1日，其所属社ABYSS Company发布了取消公告，但未说明取消原因。公告全文未在原文中完整呈现。",
+    "extracted_at": "2026-09-02T23:54:13.513368+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -648,64 +840,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "凯莉·克拉克森最后一期Kellyoke献唱“最受欢迎翻唱曲”",
+    "title_zh": "凯莉·克莱森最后一期Kellyoke献唱“最受欢迎翻唱曲”",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "凯莉·克拉克森在最后一期Kellyoke环节演唱了被称为“最受欢迎翻唱曲”的歌曲。",
+      "凯莉·克莱森在最后一期Kellyoke环节演唱了被称为“最受欢迎翻唱曲”的歌曲。",
       "该消息由NBC电视台发布。"
     ],
-    "summary_zh": "据NBC电视台报道，凯莉·克拉克森在最后一期Kellyoke环节演唱了被称为“最受欢迎翻唱曲”的歌曲。具体歌曲名称未在原文中提及。",
-    "extracted_at": "2026-09-02T16:21:56.833048+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Funko Expands Its ‘KPop Demon Hunters’ Line With Bitty Pops! Stages - Forbes",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcGVYYURtYTBUZE9MWFhGejI0Zl90Q0tfdVZ0YUxLa0tkUENLWVBqaG1tZkVhNUV5dEY0TmlFUEo4aS1SXzlQMXFkNTlSMVlKWGRVZVBnS0piNFlnXzdTYndXNElxQm5ONDVTSzJ3ZjljZDhPTDZFQ2M0cmNDVi1qRzRLTF9Ja2hpSTNQV0h0YlR3MjZOTFUwVVBXSld5b004d2o5dTBmVHBCOEptWVpwMzlsa0Z2YVk?oc=5",
-    "content": "Funko Expands Its ‘KPop Demon Hunters’ Line With Bitty Pops! Stages Forbes",
-    "published_at": "0902google-kpop",
-    "published_ts": 1788279422.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Funko推出KPop Demon Hunters系列Bitty Pops!舞台套装",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "Funko扩展其'KPop Demon Hunters'产品线，新增Bitty Pops!舞台套装。",
-      "该系列基于K-pop主题，具体艺人或组合未在原文中提及。"
-    ],
-    "summary_zh": "据Forbes报道，Funko公司扩展了其'KPop Demon Hunters'系列，推出了新的Bitty Pops!舞台套装。该产品线以K-pop为主题，但原文未提及具体涉及的艺人或组合。此次扩展是Funko在K-pop周边产品领域的进一步布局。",
-    "extracted_at": "2026-09-02T16:21:59.144943+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Funko Expands Its ‘KPop Demon Hunters’ Line With Bitty Pops! Stages - Yahoo",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUldhVGEwX19DWXVka1YySjVfdXhPRk1SOEZzNFoyQ05vODRpeFprTE5TZ0JaSmNaOE1xNFNYRWZ3bVphSnQ0eXNobDA0T0Z5ZGFlMldTQXQ5VzhWRl95MEZTYndSbnMxQ0R1V3JSMy1UYndJRDBhZk1UbkU5RmxGNWRSV0s2OEpGdlhVenRiQ1dDM2ZVYkhaTVZ3?oc=5",
-    "content": "Funko Expands Its ‘KPop Demon Hunters’ Line With Bitty Pops! Stages Yahoo",
-    "published_at": "0902google-kpop",
-    "published_ts": 1788279422.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Funko推出KPop Demon Hunters系列Bitty Pops!舞台套装",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "Funko扩展其'KPop Demon Hunters'产品线，新增Bitty Pops! Stages系列。",
-      "该系列以K-pop为主题，具体艺人或组合信息未在原文中提及。"
-    ],
-    "summary_zh": "Funko宣布扩展其'KPop Demon Hunters'产品线，推出新的Bitty Pops! Stages系列。该系列以K-pop为主题，但原文未提及具体艺人或组合。",
-    "extracted_at": "2026-09-02T16:22:00.884560+08:00"
+    "summary_zh": "据NBC电视台报道，凯莉·克莱森在最后一期Kellyoke环节演唱了被称为“最受欢迎翻唱曲”的歌曲。这一环节是她脱口秀节目中的固定表演部分，此次为最终回，因此备受关注。",
+    "extracted_at": "2026-09-02T23:54:15.211381+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -720,16 +864,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《KPop Demon Hunters》新作一周后正式上线，独家预览公开",
+    "title_zh": "《KPop恶魔猎人》新作一周后正式发售，独家预览公开",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：游戏《KPop Demon Hunters》新作将于一周后正式发布",
-      "事实点2：Polygon.com 发布了该游戏的独家预览内容"
+      "事实点1：游戏《KPop Demon Hunters》新作将于一周后正式发售。",
+      "事实点2：Polygon.com发布了该游戏的独家预览内容。"
     ],
-    "summary_zh": "据 Polygon.com 报道，游戏《KPop Demon Hunters》的新作将于一周后正式发布，并公开了独家预览内容。该游戏以 K-pop 为主题，具体玩法与细节尚未披露。",
-    "extracted_at": "2026-09-02T16:22:02.725713+08:00"
+    "summary_zh": "据Polygon.com报道，游戏《KPop Demon Hunters》的新作将于一周后正式发售，并公开了独家预览内容。该游戏以K-pop为主题，具体玩法细节和发售平台等信息暂未在原文中提及。",
+    "extracted_at": "2026-09-02T23:54:16.711723+08:00"
   },
   {
     "source_id": "asianwiki",
