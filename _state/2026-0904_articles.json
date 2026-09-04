@@ -1,5 +1,492 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "10 K-pop comebacks to watch in September 2026, from Lisa to Jisoo - Hashtag Legend Hong Kong",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVEo2amZINi1IMTFZVEFvQ2VfME00MnBtQzNjNnZsbUZFdnNfMWQ3RjRoYjZnOUJuZkhQQW5jMC1Xc2p2ZFhNb1NNWVY1cWRDa2ppSFdVN3JBa1lPcXdTTmF3WkpTdDQxNktmU3k2OXdRalhrZTRJLVZWQUZYd0duZzdZZUxjSkV5N0VvaDcwNDBXblJLWkJSWmdYclZneUxWdXBUVjlB?oc=5",
+    "content": "10 K-pop comebacks to watch in September 2026, from Lisa to Jisoo Hashtag Legend Hong Kong",
+    "published_at": "0904google-kpop",
+    "published_ts": 1788509700.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "2026年9月K-pop回归盘点：Lisa、Jisoo等10组艺人备受期待",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：2026年9月，K-pop界将有10组艺人回归，包括Lisa和Jisoo。",
+      "事实点2：该资讯由Hashtag Legend Hong Kong发布，标题为“10 K-pop comebacks to watch in September 2026, from Lisa to Jisoo”。"
+    ],
+    "summary_zh": "据Hashtag Legend Hong Kong报道，2026年9月将有10组K-pop艺人回归，其中包括Lisa和Jisoo。具体回归名单、日期及作品信息尚未公布。",
+    "extracted_at": "2026-09-04T16:25:41.217193+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: JTBC Gives Sneak Preview Of 2026-2027 Drama Lineup",
+    "url": "https://www.soompi.com/article/1868151wpp/watch-jtbc-gives-sneak-preview-of-2026-2027-drama-lineup",
+    "content": "JTBC has shared a sneak peek of its upcoming dramas for the remaining months of 2026 and 2027! On September 4, JTBC unveiled a lineup video teasing their 2026-2027 dramas. First up is “Final Table” (literal title) starring Ahn Hyo Seop, Hong Hwa Yeon, Chang Ryul, and Jung Yoo Jin. The drama follows talented Korean chefs from around&#8230; Continue reading Watch: JTBC Gives Sneak Preview Of 2026-2027 Drama Lineup\nThe post Watch: JTBC Gives Sneak Preview Of 2026-2027 Drama Lineup appeared first on Soompi.",
+    "published_at": "0904soompi",
+    "published_ts": 1788509413.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "JTBC公开2026-2027年剧集阵容预告，安孝燮等主演《Final Table》在列",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：9月4日，JTBC公开了2026-2027年剧集阵容的预告视频。",
+      "事实点2：预告中首部剧集为《Final Table》（暂译），由安孝燮、洪花妍、张栗、郑柔真主演。",
+      "事实点3：该剧讲述韩国天才厨师们的故事。"
+    ],
+    "summary_zh": "JTBC于9月4日发布了一段预告视频，提前展示了其2026-2027年的剧集阵容。其中首部公开的剧集为《Final Table》（暂译），由安孝燮、洪花妍、张栗和郑柔真主演，剧情围绕韩国天才厨师们展开。",
+    "extracted_at": "2026-09-04T16:25:43.210508+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Son Hyun Joo Is A Corruption-Ridden Hospital Director At Odds With Kim Ji Won In “Doctor X”",
+    "url": "https://www.soompi.com/article/1868157wpp/son-hyun-joo-is-a-corruption-ridden-hospital-director-at-odds-with-kim-ji-won-in-doctor-x",
+    "content": "SBS’s upcoming medical drama “Doctor X” has unveiled the first glimpse of Son Hyun Joo’s character! Based on the hit Japanese series of the same name, “Doctor X” is a medical noir that follows “Doctor X” Gye Soo Jung (Kim Ji Won), a genius surgeon who proves what it truly means to be a doctor&#8230; Continue reading Son Hyun Joo Is A Corruption-Ridden Hospital Director At Odds With Kim Ji Won In “Doctor X”\nThe post Son Hyun Joo Is A Corruption-Ridden Hospital Director At Odds With Kim Ji Won In “Doctor X” appeared first on Soompi.",
+    "published_at": "0904soompi",
+    "published_ts": 1788509408.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "孙贤周饰演腐败医院院长，与金智媛在《Doctor X》中对立",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "SBS新医疗剧《Doctor X》公开孙贤周角色首张剧照",
+      "该剧改编自同名日本热门剧集，为医疗黑色剧",
+      "孙贤周饰演腐败的医院院长，与金智媛饰演的天才外科医生Gye Soo Jung对立"
+    ],
+    "summary_zh": "SBS新医疗剧《Doctor X》公开了孙贤周饰演角色的首张剧照。该剧改编自同名日本热门剧集，是一部医疗黑色剧，讲述金智媛饰演的天才外科医生Gye Soo Jung证明医生真正意义的故事。孙贤周饰演一位腐败的医院院长，与金智媛的角色产生对立。",
+    "extracted_at": "2026-09-04T16:25:45.640301+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "DreamWorks’ 'Kpop Demon Hunters' Replacement Officially Arrives in 1 Week - Polygon.com",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rLWF1aUpnZUpfaDZhbl9BTXNhcWlGdVEwYThUaGNrbUVmN2NPTURxYmRBU2haVmM2dkE1UFlyVUdTSTRWdDU3OEFoWFo0Zk9KNzFUNnlzSDEzcjU1RUc4?oc=5",
+    "content": "DreamWorks’ 'Kpop Demon Hunters' Replacement Officially Arrives in 1 Week Polygon.com",
+    "published_at": "0904google-kpop",
+    "published_ts": 1788508814.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "梦工厂《Kpop Demon Hunters》替代作品一周后正式上线",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：梦工厂的《Kpop Demon Hunters》替代作品将在1周后正式上线。",
+      "事实点2：该消息由Polygon.com报道。"
+    ],
+    "summary_zh": "据Polygon.com报道，梦工厂的《Kpop Demon Hunters》替代作品将在1周后正式上线。该作品是梦工厂推出的新动画，具体内容尚未详细披露，但已确定上线时间。",
+    "extracted_at": "2026-09-04T16:25:47.301577+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kong Hyo Jin Chases A Scammer Through The Streets As Jung Jun Won Follows A New Lead In “A Bona Fide Killer”",
+    "url": "https://www.soompi.com/article/1868140wpp/kong-hyo-jin-chases-a-scammer-through-the-streets-as-jung-jun-won-follows-a-new-lead-in-a-bona-fide-killer",
+    "content": "MBC’s “A Bona Fide Killer” has shared new stills ahead of its upcoming episode! Based on a hit webtoon, “A Bona Fide Killer” is an action drama about a working mother with a lethal job who is fighting to protect her work-life balance. Kong Hyo Jin stars as Yu Bo Na, the seemingly ordinary manager&#8230; Continue reading Kong Hyo Jin Chases A Scammer Through The Streets As Jung Jun Won Follows A New Lead In “A Bona Fide Killer”\nThe post Kong Hyo Jin Chases A Scammer Through The Streets As Jung Jun Won Follows A New Lead In “A Bona Fide Killer” appeared first on Soompi.",
+    "published_at": "0904soompi",
+    "published_ts": 1788506910.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "孔晓振街头追捕诈骗犯，郑俊元追踪新线索，《杀人者的购物中心》新剧照公开",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "MBC剧集《杀人者的购物中心》公开新剧照，该剧改编自热门网络漫画，讲述一位身怀绝技的职业女性为守护工作与生活平衡而战斗的动作剧。",
+      "孔晓振饰演看似平凡的经理刘宝娜，在街头追捕一名诈骗犯。",
+      "郑俊元饰演的角色正在追踪一条新线索。"
+    ],
+    "summary_zh": "MBC剧集《杀人者的购物中心》公开新剧照，该剧改编自热门网络漫画，是一部动作剧，讲述一位拥有致命职业的职场妈妈为守护工作与生活平衡而奋斗的故事。孔晓振饰演看似平凡的经理刘宝娜，在街头追捕一名诈骗犯；郑俊元饰演的角色则循着新线索展开调查。新剧照展现了紧张刺激的追捕场面，为即将播出的剧集预热。",
+    "extracted_at": "2026-09-04T16:25:49.906914+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "7 New K-Dramas To Watch In September 2026",
+    "url": "https://www.soompi.com/article/1867129wpp/7-new-k-dramas-to-watch-in-september-2026",
+    "content": "Get ready to welcome fall with a new batch of K-dramas to check out! Here are K-drama premieres to look out for this month: &#8220;Made in Korea 2&#8221; Korean Title: &#8220;메이드 인 코리아 시즌2&#8221; Cast:&#160;Hyun Bin, Jung Woo Sung, Woo Do Hwan, Seo Eun Soo, Won Ji An, Jung Sung Il, Roh Jae Won Premiere&#8230; Continue reading 7 New K-Dramas To Watch In September 2026\nThe post 7 New K-Dramas To Watch In September 2026 appeared first on Soompi.",
+    "published_at": "0904soompi",
+    "published_ts": 1788503979.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "2026年9月7部新韩剧推荐：《韩国制造2》玄彬、郑雨盛等主演",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：2026年9月将有7部新韩剧播出。",
+      "事实点2：其中《韩国制造2》（韩语：메이드 인 코리아 시즌2）确定播出，主演包括玄彬、郑雨盛、禹棹焕、徐恩秀、元智安、郑成日、卢载沅。"
+    ],
+    "summary_zh": "2026年9月将迎来一批新韩剧，其中备受期待的《韩国制造2》确定播出，该剧由玄彬、郑雨盛、禹棹焕、徐恩秀、元智安、郑成日、卢载沅等主演。此外，还有另外6部新剧也将于本月首播。",
+    "extracted_at": "2026-09-04T16:25:52.194502+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Evan, formerly ENHYPEN’s Heeseung, reveals his cancer battle for the first time - t2ONLINE",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbHh2WHRaV3VlUVpPM0FWVkliYzBwZXBuVDVDQXdaSndFQnpQSWkyYk1mVGU0TEYtRW1qdGxhNVFHMS1jMkJrTW5oOHYwMWRGVnRnOE9JeFVtNW9aVV9oN3haVlY5dnZyRlhrTTFlckhlRmdSREIwM1FpcC1adnpZU0ZXLW5WVzVjOElnSE9LLVFZRUpXN0hhakFxMFJFRXpTZjlaZHBIUFMzVGNycjM2YjV5Tmw4R2JrOGg4?oc=5",
+    "content": "Evan, formerly ENHYPEN’s Heeseung, reveals his cancer battle for the first time t2ONLINE",
+    "published_at": "0904google-kpop",
+    "published_ts": 1788503880.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "前ENHYPEN成员Heeseung（现名Evan）首次公开抗癌经历",
+    "source_type": "韩娱",
+    "risk_level": "高",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：前ENHYPEN成员Heeseung（现名Evan）首次公开其抗癌经历。"
+    ],
+    "summary_zh": "据t2ONLINE报道，前ENHYPEN成员Heeseung（现名Evan）首次公开了自己与癌症抗争的经历。报道未提供具体时间、癌症类型或治疗细节，仅确认了这一事实。",
+    "extracted_at": "2026-09-04T16:25:53.873749+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Hani Breaks Down While Ha Seok Jin Is Met By A Tearful Yoon Ha Bin In “Love On The Menu”",
+    "url": "https://www.soompi.com/article/1868126wpp/hani-breaks-down-while-ha-seok-jin-is-met-by-a-tearful-yoon-ha-bin-in-love-on-the-menu",
+    "content": "“Love on the Menu” has unveiled new stills ahead of its upcoming episode! “Love on the Menu” tells the story of Kim Moo Jin (Ha Seok Jin) and Han Gyu Rim (Hani), two former lovers who reunite eight years after a painful breakup. As they reconnect, they piece together the fragments of their broken families&#8230; Continue reading Hani Breaks Down While Ha Seok Jin Is Met By A Tearful Yoon Ha Bin In “Love On The Menu”\nThe post Hani Breaks Down While Ha Seok Jin Is Met By A Tearful Yoon Ha Bin In “Love On The Menu” appeared first on Soompi.",
+    "published_at": "0904soompi",
+    "published_ts": 1788503751.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《菜单上的爱情》新剧照：Hani情绪崩溃，河锡辰与尹河彬泪眼相对",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：韩剧《菜单上的爱情》公开新剧照，展示Hani（安喜延）情绪崩溃的场面。",
+      "事实点2：剧照中河锡辰（饰金武镇）与尹河彬（饰韩圭琳）相遇，尹河彬泪流满面。",
+      "事实点3：该剧讲述河锡辰饰演的金武镇与Hani饰演的韩圭琳在痛苦分手八年后重逢，并拼凑破碎家庭碎片的故事。"
+    ],
+    "summary_zh": "韩剧《菜单上的爱情》公开新剧照，显示Hani（安喜延）情绪崩溃，而河锡辰（饰金武镇）与尹河彬（饰韩圭琳）泪眼相对。该剧讲述金武镇与韩圭琳这对昔日恋人在痛苦分手八年后重逢，并逐渐拼凑起破碎家庭碎片的故事。",
+    "extracted_at": "2026-09-04T16:25:56.311991+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "MINISO connects with K-pop star Lisa for pop-up tour across six markets worldwide including USA and Japan - Retail Technology Innovation Hub",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObmJMX3IwbnhCbXRUOXV3WVdfcG5Ka0xGZzI3aFZlMGZCSzdfM092M2tGdUJOMi1KcDlFSGlPbXhNdElaMXE2UFVxT29iNWtaRE5URC1GalZneXhBakRSNmY5dTFYaU1PM2piN2RqSkY0Q2NyOG9jUTVxYkotTzFSTndXSWxYcXlDMG9DTVlja0Q4TURQYmc4VmV5VWtST1FYdnpsbjltSWRRTEl1NUs2aDZ5U2R1eEM5alRaNUhHUXdYcnFtZ25wV1MycVhNY3J0Z3B4NEkyQndRSWZGZGc?oc=5",
+    "content": "MINISO connects with K-pop star Lisa for pop-up tour across six markets worldwide including USA and Japan Retail Technology Innovation Hub",
+    "published_at": "0904google-kpop",
+    "published_ts": 1788503340.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "MINISO携手K-pop明星Lisa，将在美国、日本等六地举办快闪巡展",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：MINISO与K-pop明星Lisa合作，将在全球六个市场举办快闪巡展。",
+      "事实点2：巡展市场包括美国、日本等。"
+    ],
+    "summary_zh": "据Retail Technology Innovation Hub报道，MINISO宣布与K-pop明星Lisa合作，将在全球六个市场（包括美国和日本）举办快闪巡展。此次合作旨在结合Lisa的全球影响力，推广MINISO品牌。具体巡展城市和日期尚未公布。",
+    "extracted_at": "2026-09-04T16:25:58.056978+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Monsta X releases new EP 'The Phase' - The Korea Times",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0IxSHplMlVndGs4cktYWU13YU5odEhJSDhvZlFOWjlONW9aYnktYmtvTG1SVUZubjBWNTItUHVkUjM4SEdyeGdJSDl4TlAybWV0RWVCMm02aXdZTlRTYmxlcEx2TFhVcEE2SjMyVFhOejFqX0RWRE1iRGoxcU9UV1BRdHJES2QxSUJTZUZPT3c0Tm1zRjlB0gGcAUFVX3lxTE9uSVdnQWpPT28wYjAyN3JsMkhlS045WmFkanZ3Q2Y0V0ZFUTlNVFJvTjZ2TldaM2dXNDRuQjhjanliUUZlVHZLNnM2SEt6Nk1zUVpwc1BkbERNTzBpSk5lQjNmT1g4RUxlUXZ4TGJraTY2R1p1al93OFEzLTRYMGN0UkhsVEo0d0dxTmlsMlNqWjY2VmQ3MDZDRmM3OA?oc=5",
+    "content": "Monsta X releases new EP 'The Phase' The Korea Times",
+    "published_at": "0904google-kpop",
+    "published_ts": 1788499623.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Monsta X发布新EP《The Phase》",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：Monsta X于近期发行新EP《The Phase》",
+      "事实点2：该EP由The Korea Times报道"
+    ],
+    "summary_zh": "韩国男团Monsta X发行了新的迷你专辑《The Phase》，该消息由The Korea Times报道。",
+    "extracted_at": "2026-09-04T16:25:59.414904+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "ZEROBASEONE’s Kim Ji Woong Confirmed To Lead New Drama",
+    "url": "https://www.soompi.com/article/1868123wpp/zerobaseones-kim-ji-woong-confirmed-to-lead-new-drama",
+    "content": "ZEROBASEONE’s Kim Ji Woong is set to star in the upcoming police investigation drama “Siren” (working title)! On September 4, JTBC Entertainment News reported that Kim Ji Woong had been cast as the lead in “Siren,” with filming set to begin soon. In response to the report, Kim Ji Woong’s agency Nest Management confirmed, “It&#8230; Continue reading ZEROBASEONE&#8217;s Kim Ji Woong Confirmed To Lead New Drama\nThe post ZEROBASEONE&#8217;s Kim Ji Woong Confirmed To Lead New Drama appeared first on Soompi.",
+    "published_at": "0904soompi",
+    "published_ts": 1788498913.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "ZEROBASEONE金地雄确定主演新剧《Siren》",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：9月4日，JTBC娱乐新闻报道称，ZEROBASEONE成员金地雄已确定出演新剧《Siren》（暂定名）的男主角。",
+      "事实点2：金地雄所属社Nest Management确认了这一消息，并表示拍摄即将开始。"
+    ],
+    "summary_zh": "据JTBC娱乐新闻9月4日报道，ZEROBASEONE成员金地雄将主演新剧《Siren》（暂定名），该剧为警察调查题材。金地雄所属社Nest Management已确认此消息，并透露拍摄即将开始。",
+    "extracted_at": "2026-09-04T16:26:01.293658+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Monogram International Unleashes Two Must-Have NYCC 2026 Exclusives: K-Pop Demon Hunters & Absolute Batman! - Age of The Nerd",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQalFXRWJPNE9mMkUtTHdYVzZkWXZFb2FNV0w5anh6VFhtbUxyazlrcjR2WHJIb1lYM2k3ZFp0TlprMXprT1VuZ3FMd0h3OGdNV20xejNCVmF4WlFjVU5BUlNGQUhTLWRhNkVUYjlETG5XUk1GM2JJbE53QUFrcTJObG1hNWdqdVM3c1Z2cURXcXJNUE1VTnloY3JZN3R2R1hfTzRDdzRqVHBTYTFpVENoNERpc2hST2w1dFBnNmNxLUxFMmdQUDhWMVlheUdBNXZFYno0?oc=5",
+    "content": "Monogram International Unleashes Two Must-Have NYCC 2026 Exclusives: K-Pop Demon Hunters & Absolute Batman! Age of The Nerd",
+    "published_at": "0904google-kpop",
+    "published_ts": 1788497067.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Monogram International发布NYCC 2026限定：K-Pop恶魔猎人及绝对蝙蝠侠周边",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Monogram International在NYCC 2026推出两款独家产品：K-Pop Demon Hunters和Absolute Batman。",
+      "K-Pop Demon Hunters为K-Pop主题的恶魔猎人系列周边。",
+      "Absolute Batman为蝙蝠侠主题周边。"
+    ],
+    "summary_zh": "Monogram International宣布将在NYCC 2026推出两款独家产品，分别为K-Pop Demon Hunters和Absolute Batman。K-Pop Demon Hunters结合了K-Pop文化与恶魔猎人元素，而Absolute Batman则聚焦于蝙蝠侠主题。具体产品细节尚未公布，但已引起粉丝期待。",
+    "extracted_at": "2026-09-04T16:26:03.060902+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Song Review: Ten (WayV) – Outwest - thebiaslist.com",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50akVSVWxUWTZzNmljY05qVlo5bVJqNndFTGdVbi1KRTA4SGdZbnBRLXI1QXNMRDZsVE9iWkV0ZTdnMjNuWHpFaERoTFYxSmxRcjlTUld4VlQ0dlM3SEx6Y1BZQ212QnoxMTJscFh3NkI1QQ?oc=5",
+    "content": "Song Review: Ten (WayV) – Outwest thebiaslist.com",
+    "published_at": "0904google-kpop",
+    "published_ts": 1788496892.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "WayV成员Ten新歌《Outwest》乐评发布",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：乐评网站thebiaslist.com发布了对WayV成员Ten的歌曲《Outwest》的乐评。",
+      "事实点2：该乐评对歌曲进行了评价，但具体内容未在原文中提及。"
+    ],
+    "summary_zh": "乐评网站thebiaslist.com发布了对WayV成员Ten的歌曲《Outwest》的乐评，但原文未提供具体评价内容。",
+    "extracted_at": "2026-09-04T16:26:04.546804+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Song Review: Monsta X – Magic - thebiaslist.com",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IMlhIcDU1LVVlVU1mWTFWT2tkRVpBLS0zVnd3dVp4Z2FGanJqN2pXUmw1TTBZa1I1clhpTkxEN3dHZjh4YkJMMUFzUkVtLVJvVEpucDZGRUxvSWxWbmoxV1ROb0l1eXp2Mms1WlUzWQ?oc=5",
+    "content": "Song Review: Monsta X – Magic thebiaslist.com",
+    "published_at": "0904google-kpop",
+    "published_ts": 1788496607.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Monsta X新曲《Magic》乐评：音乐风格与表现力解析",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：该资讯为乐评文章，发布于thebiaslist.com，针对Monsta X的歌曲《Magic》进行评论。",
+      "事实点2：文章内容涉及对歌曲音乐风格、成员表现等方面的分析，但原文未提供具体细节。"
+    ],
+    "summary_zh": "该资讯为thebiaslist.com发布的关于Monsta X歌曲《Magic》的乐评文章。文章对歌曲的音乐风格、成员表现等方面进行了评论，但原文未提供具体细节。",
+    "extracted_at": "2026-09-04T16:26:06.259554+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: TEN Flaunts His Sleek Moves In MV For “OUTWEST” Solo Comeback",
+    "url": "https://www.soompi.com/article/1868120wpp/watch-ten-flaunts-his-sleek-moves-in-mv-for-outwest-solo-comeback",
+    "content": "TEN has returned with new music! On September 4, the NCT member released his new single &#8220;OUTWEST&#8221; along with the music video for the title track of the same name. This is TEN&#8217;s first solo release since departing SM Entertainment and co-establishing ILLIMNT. TEN personally participated in the composition and lyrics for &#8220;OUTWEST,&#8221; which includes&#8230; Continue reading Watch: TEN Flaunts His Sleek Moves In MV For &#8220;OUTWEST&#8221; Solo Comeback\nThe post Watch: TEN Flaunts His Sleek Moves In MV For &#8220;OUTWEST&#8221; Solo Comeback appeared first on Soompi.",
+    "published_at": "0904soompi",
+    "published_ts": 1788496301.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "TEN携新单曲《OUTWEST》回归，MV展现流畅舞姿",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：9月4日，NCT成员TEN发行新单曲《OUTWEST》并公开同名主打曲MV。",
+      "事实点2：这是TEN离开SM娱乐并共同创立ILLIMNT后的首次个人回归。",
+      "事实点3：TEN亲自参与了《OUTWEST》的作曲和作词。"
+    ],
+    "summary_zh": "NCT成员TEN于9月4日携新单曲《OUTWEST》回归，并公开了同名主打曲的MV。这是他离开SM娱乐并共同创立ILLIMNT后的首次个人发行。TEN亲自参与了该曲的作曲与作词，MV中展示了他流畅的舞蹈动作。",
+    "extracted_at": "2026-09-04T16:26:08.016146+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Song Review: Jisoo (BLACKPINK) – Click - thebiaslist.com",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5DOGpmNXJWRUpkNGlLbHk3VEF2Y2l6cU83QjdITzdyYW9jUEk0X0sySHFMMTFtYkViclhhdDBreGgwRzdlWXE4bGl0NVl3MVhVS08yTXdnWjVaa2FpWGUxX3lxdzR4c2cyRlVocktXLWtBdWZlWUJabw?oc=5",
+    "content": "Song Review: Jisoo (BLACKPINK) – Click thebiaslist.com",
+    "published_at": "0904google-kpop",
+    "published_ts": 1788496111.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "歌曲评论：BLACKPINK Jisoo《Click》——thebiaslist.com",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：thebiaslist.com发布了对BLACKPINK成员Jisoo的歌曲《Click》的评论。"
+    ],
+    "summary_zh": "thebiaslist.com网站发布了一篇关于BLACKPINK成员Jisoo的歌曲《Click》的评论文章。文章内容未提供具体细节，仅提及该评论的存在。",
+    "extracted_at": "2026-09-04T16:26:09.620920+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "BAE173’s Muzin, Junseo, And Youngseo Sign With New Agency + To Debut As New Group",
+    "url": "https://www.soompi.com/article/1868046wpp/bae173s-muzin-junseo-and-youngseo-sign-with-new-agency-to-debut-as-new-group",
+    "content": "BAE173 members Muzin, Junseo, and Youngseo have found a new agency to call home! On September 4, Orca Music announced the signing of exclusive contracts with Muzin, Junseo, and Youngseo, stating, &#8220;Through extensive discussions with the members, we have become confident in their future direction and potential for growth. We will spare no support to&#8230; Continue reading BAE173&#8217;s Muzin, Junseo, And Youngseo Sign With New Agency + To Debut As New Group\nThe post BAE173&#8217;s Muzin, Junseo, And Youngseo Sign With New Agency + To Debut As New Group appeared first on Soompi.",
+    "published_at": "0904soompi",
+    "published_ts": 1788494180.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "BAE173成员Muzin、Junseo、Youngseo签约新公司Orca Music，将作为新组合出道",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：9月4日，Orca Music宣布与BAE173成员Muzin、Junseo、Youngseo签订专属合约。",
+      "事实点2：Orca Music表示，经过与成员的深入讨论，对其未来方向和成长潜力充满信心，将全力支持。",
+      "事实点3：三人将作为新组合出道。"
+    ],
+    "summary_zh": "9月4日，Orca Music宣布与BAE173成员Muzin、Junseo、Youngseo签订专属合约。公司表示，经过与成员的深入讨论，对其未来方向和成长潜力充满信心，将不遗余力地支持他们。三人将作为新组合出道。",
+    "extracted_at": "2026-09-04T16:26:11.505049+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "From KORUS to K-POP: Exploring the many connections between Central Illinois and South Korea - Illinois State University News",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVEZtaVRrYXdDWF9jQ184ZW5wOFlHMnF4RUViU0tERkNsdkNNZ3Z4dDRLWnR1ZGpuQXpmMWJLRkgyanJ2LW1pWXd0N2UzWVBKUUh5Tmh6SzdrNTdPSEVUZlp4VTktS3FJVVVrR2NrdU0xdG9ER2tBYV9uTjJiTWN5UGVReUZYUFc1R1plRmFBS2JWQlRiMk1TbmNHbENXZ2I2bHc5cnQ2VHBmbHB0YjByN09UQlZoOENITEVSUDk1M21OX242TkU4aWVVbw?oc=5",
+    "content": "From KORUS to K-POP: Exploring the many connections between Central Illinois and South Korea Illinois State University News",
+    "published_at": "0904google-kpop",
+    "published_ts": 1788492713.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "从KORUS到K-POP：探索伊利诺伊州中部与韩国的多重联系",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：伊利诺伊州立大学新闻发布文章，标题为'从KORUS到K-POP：探索伊利诺伊州中部与韩国的多重联系'",
+      "事实点2：文章内容涉及伊利诺伊州中部与韩国之间的文化、经济等多方面联系"
+    ],
+    "summary_zh": "伊利诺伊州立大学新闻发布了一篇题为'从KORUS到K-POP：探索伊利诺伊州中部与韩国的多重联系'的文章，探讨了伊利诺伊州中部与韩国之间的各种联系，包括文化、经济等方面。文章可能涉及韩流文化（如K-POP）在当地的影响，以及两地之间的合作与交流。",
+    "extracted_at": "2026-09-04T16:26:13.343868+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Park Seo Ham Becomes A Bodyguard For His First Love Kim Ji Yeon In “Dive Into You”",
+    "url": "https://www.soompi.com/article/1868048wpp/park-seo-ham-becomes-a-bodyguard-for-his-first-love-kim-ji-yeon-in-dive-into-you",
+    "content": "Upcoming drama “Dive into You” has revealed a new glimpse of Park Seo Ham’s character! “Dive into You” is a fantasy romance starring WJSN’s Kim Ji Yeon (Bona) as Yoon Ha Na, an A-list actress who unexpectedly winds up swapping bodies with her twin brother Yoon Ha Ru (Jang Se Hyuk). After learning they can&#8230; Continue reading Park Seo Ham Becomes A Bodyguard For His First Love Kim Ji Yeon In &#8220;Dive Into You&#8221;\nThe post Park Seo Ham Becomes A Bodyguard For His First Love Kim Ji Yeon In &#8220;Dive Into You&#8221; appeared first on Soompi.",
+    "published_at": "0904soompi",
+    "published_ts": 1788492417.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "朴栖含在《Dive Into You》中成为初恋金智妍的保镖",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：新剧《Dive Into You》公开了朴栖含角色的新剧照。",
+      "事实点2：该剧为奇幻爱情剧，由宇宙少女成员金智妍（Bona）饰演顶级女演员尹河娜，她与双胞胎弟弟尹河鲁（张世赫饰）意外交换身体。",
+      "事实点3：朴栖含饰演的角色成为金智妍饰演角色的保镖，且金智妍是他的初恋。"
+    ],
+    "summary_zh": "新剧《Dive Into You》公开了朴栖含角色的新剧照。该剧是一部奇幻爱情剧，由宇宙少女成员金智妍（Bona）饰演顶级女演员尹河娜，她与双胞胎弟弟尹河鲁（张世赫饰）意外交换身体。朴栖含饰演的角色成为金智妍饰演角色的保镖，而金智妍是他的初恋。",
+    "extracted_at": "2026-09-04T16:26:15.561001+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Kim Ji Yeon, Park Seo Ham, And More Showcase Powerful Chemistry At Script Reading For New Drama “Dive Into You”",
+    "url": "https://www.soompi.com/article/1868015wpp/watch-kim-ji-yeon-park-seo-ham-and-more-showcase-powerful-chemistry-at-script-reading-for-new-drama-dive-into-you",
+    "content": "Upcoming drama &#8220;Dive into You&#8221; has released photos and a video from its script reading session! “Dive into You” is a soul-swapping fantasy romance that tells the story of a top actress who, after an accident causes her soul to swap with her twin brother’s, travels back to the past and struggles to prevent the&#8230; Continue reading Watch: Kim Ji Yeon, Park Seo Ham, And More Showcase Powerful Chemistry At Script Reading For New Drama &#8220;Dive Into You&#8221;\nThe post Watch: Kim Ji Yeon, Park Seo Ham, And More Showcase Powerful Chemistry At Script Reading For New Drama &#8220;Dive Into You&#8221; appeared first on Soompi.",
+    "published_at": "0904soompi",
+    "published_ts": 1788490153.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "金智妍、朴叙涵等主演新剧《Dive into You》剧本围读现场公开，展现强大默契",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：新剧《Dive into You》公开了剧本围读的照片和视频。",
+      "事实点2：该剧是一部灵魂交换奇幻爱情剧，讲述顶级女演员因事故与双胞胎兄弟灵魂交换后，回到过去努力阻止某事的故事。",
+      "事实点3：演员金智妍、朴叙涵等人参加了剧本围读，展现出强大的化学反应。"
+    ],
+    "summary_zh": "即将播出的电视剧《Dive into You》公开了剧本围读的照片和视频。该剧是一部灵魂交换奇幻爱情剧，讲述顶级女演员因事故与双胞胎兄弟灵魂交换后，回到过去努力阻止某事的故事。金智妍、朴叙涵等演员在围读中展现了强大的默契。",
+    "extracted_at": "2026-09-04T16:26:17.753692+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -12,7 +499,7 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "徐康俊与安恩真新剧《你的爱情之外》公开剧照，展现截然相反的生活",
+    "title_zh": "徐康俊与安恩真新剧《你的爱情之外》公开剧照，展现截然不同的日常生活",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
@@ -20,8 +507,32 @@
       "KBS 2TV新剧《你的爱情之外》公开了徐康俊和安恩真的新剧照。",
       "该剧是一部现实浪漫剧，讲述一对交往10年的情侣在关系中经历意想不到的情感变化的故事。"
     ],
-    "summary_zh": "KBS 2TV新剧《你的爱情之外》公开了主演徐康俊和安恩真的新剧照，展现了他们饰演的情侣过着截然相反的生活。该剧是一部现实浪漫剧，聚焦于一对交往10年的情侣，在长期关系中经历意想不到的情感变化。",
-    "extracted_at": "2026-09-04T10:41:15.129547+08:00"
+    "summary_zh": "KBS 2TV新剧《你的爱情之外》公开了主演徐康俊和安恩真的新剧照，展现了他们截然不同的日常生活。该剧是一部现实浪漫剧，讲述一对交往10年的情侣在关系中经历意想不到的情感变化的故事。",
+    "extracted_at": "2026-09-04T16:26:19.843836+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "CJ ENM brings K-drama, K-pop channels to Amazon - The Korea Times",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYTZpS1NhSWM0WkR2OXNHNm12b0sya2NwZWdqdWNlcmZGbzNLeWh5Tm1CWlc5OFF0bHFfZ2ZSaXcxZVo2Qmd0VGp2Ul9fX2ZXSlhnMWk1MXJQYmVwSHUwM1FscW44Y1VPZGVibE9jSEFhMUpDbkpMMEdMVWdsWGNqeHN4TldBNFpSQXJMR2VfenplRVpzclVHd1J2dnU1RjBGZWUtMWMtQnJWQzBDTXJ0TNIBtgFBVV95cUxNYTFLdzgzRWJwQ0h5YzBGZUR2d1dORzBwYlZmYkRWaThiMXhIdkVUQnlDYUtCdEFEcmx2SGIyX1ZUMFItbmJteW9yRFZibFd3TkxqMEloUzBVT2JqSWs5WE1PdjJmdER5VUJHQUd6aGJveExCNFdSTmZLdFZZc0o5R1ppcGQ1YVRydGF4Um94MUEzclBFbzY2UjczcFFiRDlFcWUxbldyZGhwU09xLTZTejg2MmctZw?oc=5",
+    "content": "CJ ENM brings K-drama, K-pop channels to Amazon The Korea Times",
+    "published_at": "0904google-kpop",
+    "published_ts": 1788488887.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "CJ ENM将韩剧与K-pop频道引入亚马逊平台",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：CJ ENM与亚马逊合作，将其韩剧和K-pop频道引入亚马逊平台。",
+      "事实点2：该消息由《韩国时报》报道。"
+    ],
+    "summary_zh": "据《韩国时报》报道，CJ ENM将其韩剧和K-pop频道引入亚马逊平台，以扩大其内容在全球的覆盖范围。此举旨在通过亚马逊的广泛用户基础，向更多国际观众提供韩国娱乐内容。",
+    "extracted_at": "2026-09-04T16:26:21.531824+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -41,11 +552,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "BABYMONSTER在YouTube上的累计观看量突破100亿次",
-      "该纪录为K-pop女子组合中的新纪录"
+      "BABYMONSTER的YouTube累计观看量突破100亿次",
+      "创下K-pop女团新纪录"
     ],
-    "summary_zh": "据bandwagon.asia报道，韩国女子组合BABYMONSTER在YouTube上的累计观看量已突破100亿次，创下K-pop女子组合的新纪录。",
-    "extracted_at": "2026-09-04T10:41:17.209098+08:00"
+    "summary_zh": "据bandwagon.asia报道，韩国女子组合BABYMONSTER的YouTube累计观看量已突破100亿次，创下K-pop女团的新纪录。",
+    "extracted_at": "2026-09-04T16:26:22.689744+08:00"
   },
   {
     "source_id": "soompi",
@@ -65,12 +576,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：该剧为高中BL题材，讲述一个喜欢BL的男孩以班上受欢迎的同学为原型创作自己的BL故事。",
-      "事实点2：当这位受欢迎的同学意外发现此事后，给出了出乎意料的反应。",
-      "事实点3：该剧被评价为对可爱尴尬的高中恋爱的元叙事风格改编。"
+      "事实点1：该剧为BL题材，讲述一个喜欢BL的男孩以班上受欢迎的同学为原型创作自己的BL故事。",
+      "事实点2：当这位受欢迎的同学意外发现此事后，给出了出人意料的反应。",
+      "事实点3：该剧被描述为对可爱又尴尬的高中恋情的元叙事风格改编。"
     ],
-    "summary_zh": "《受欢迎的芹泽对我态度奇怪》是一部高中BL剧，讲述一个喜欢BL的男孩以班上受欢迎的同学为原型创作自己的BL故事。当这位受欢迎的同学意外发现后，给出了出乎意料的反应。该剧被评价为对可爱尴尬的高中恋爱的元叙事风格改编，首播评价已发布。",
-    "extracted_at": "2026-09-04T10:41:20.568492+08:00"
+    "summary_zh": "《受欢迎的芹泽对我态度奇怪》是一部高中BL剧，讲述一个喜欢BL的男孩以班上受欢迎的同学为原型创作自己的BL故事。当这位受欢迎的同学意外发现后，给出了出人意料的反应。该剧以元叙事手法，为可爱又尴尬的高中恋情增添了趣味。",
+    "extracted_at": "2026-09-04T16:26:24.986365+08:00"
   },
   {
     "source_id": "soompi",
@@ -85,7 +596,7 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "任时完将担任第31届釜山国际电影节闭幕式主持人",
+    "title_zh": "任时完将主持第31届釜山国际电影节闭幕式",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
@@ -93,8 +604,8 @@
       "事实点1：9月4日，釜山国际电影节宣布任时完被任命为第31届BIFF闭幕式的唯一主持人。",
       "事实点2：第31届釜山国际电影节将于今年10月举行。"
     ],
-    "summary_zh": "据Soompi报道，演员任时完将主持第31届釜山国际电影节闭幕式。9月4日，电影节官方宣布了这一消息，闭幕式将于今年10月举行。任时完将作为唯一主持人亮相。",
-    "extracted_at": "2026-09-04T10:41:23.179559+08:00"
+    "summary_zh": "据Soompi报道，9月4日，釜山国际电影节宣布演员任时完将担任第31届釜山国际电影节闭幕式的唯一主持人。该电影节将于今年10月举行。此前已公布其他相关安排，但具体细节未在原文中提及。",
+    "extracted_at": "2026-09-04T16:26:26.801509+08:00"
   },
   {
     "source_id": "soompi",
@@ -118,8 +629,32 @@
       "事实点2：PEACHY Company表示将全力支持Q作为演员的活动。",
       "事实点3：PEACHY Company由演员全智贤于去年设立。"
     ],
-    "summary_zh": "9月4日，PEACHY Company确认与THE BOYZ成员Q签订专属合约，并表示将全力支持其作为演员的活动。PEACHY Company是演员全智贤去年设立的新经纪公司。",
-    "extracted_at": "2026-09-04T10:41:26.240718+08:00"
+    "summary_zh": "THE BOYZ成员Q于9月4日与全智贤新设立的经纪公司PEACHY Company签订专属合约。PEACHY Company确认了这一消息，并表示将全力支持Q作为演员的活动。该公司由演员全智贤于去年成立。",
+    "extracted_at": "2026-09-04T16:26:28.470975+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Yim Si Wan And Seol In Ah’s “Love In Disguise” Announces Premiere Date",
+    "url": "https://www.soompi.com/article/1868003wpp/watch-yim-si-wan-and-seol-in-ahs-love-in-disguise-announces-premiere-date",
+    "content": "Yim Si Wan and Seol In Ah&#8217;s upcoming tvN drama &#8220;Love in Disguise&#8221; is gearing up for its premiere! “Love in Disguise” is a romance thriller that follows an arrogant third-generation chaebol heir who becomes a murder suspect and a former special forces officer who goes undercover as his personal secretary to investigate him. The&#8230; Continue reading Watch: Yim Si Wan And Seol In Ah&#8217;s &#8220;Love In Disguise&#8221; Announces Premiere Date\nThe post Watch: Yim Si Wan And Seol In Ah&#8217;s &#8220;Love In Disguise&#8221; Announces Premiere Date appeared first on Soompi.",
+    "published_at": "0904soompi",
+    "published_ts": 1788484230.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "任时完与雪仁雅主演tvN新剧《伪装的爱》确定首播日期",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "任时完与雪仁雅主演的tvN新剧《伪装的爱》宣布了首播日期。",
+      "该剧是一部浪漫惊悚剧，讲述傲慢的第三代财阀继承人成为谋杀嫌疑人，以及前特种部队军官伪装成其秘书进行调查的故事。"
+    ],
+    "summary_zh": "任时完与雪仁雅主演的tvN新剧《伪装的爱》宣布了首播日期。该剧是一部浪漫惊悚剧，讲述傲慢的第三代财阀继承人成为谋杀嫌疑人，以及前特种部队军官伪装成其秘书进行调查的故事。",
+    "extracted_at": "2026-09-04T16:26:30.099062+08:00"
   },
   {
     "source_id": "soompi",
@@ -139,12 +674,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：SBS剧集《Flex X Cop 2》下一集中，安普贤与郑恩彩前往一所艺术高中调查新案件。",
-      "事实点2：安普贤在舞台上遭到攻击，全惠彬在旁震惊目睹。",
-      "事实点3：安普贤在第二季中继续饰演财阀三代继承人陈利洙。"
+      "事实点1：SBS《Flex X Cop》第二季中，安普贤饰演的财阀三世陈利洙与郑恩彩前往一所艺术高中调查新案件。",
+      "事实点2：在下一集预告中，安普贤在舞台上遭到攻击，全惠彬在旁震惊目睹。"
     ],
-    "summary_zh": "SBS《Flex X Cop 2》公开新剧照，显示安普贤饰演的陈利洙与郑恩彩前往艺术高中调查案件，期间安普贤在舞台上遇袭，全惠彬饰演的角色震惊目睹。安普贤继续饰演财阀三代继承人，剧情围绕新案件展开。",
-    "extracted_at": "2026-09-04T10:41:29.627672+08:00"
+    "summary_zh": "SBS《Flex X Cop》第二季中，安普贤饰演的财阀三世陈利洙与郑恩彩将前往一所艺术高中调查一桩令人毛骨悚然的新案件。在下一集预告中，安普贤在舞台上遭到攻击，全惠彬在旁震惊目睹。",
+    "extracted_at": "2026-09-04T16:26:32.489134+08:00"
   },
   {
     "source_id": "soompi",
@@ -165,10 +699,10 @@
     "is_blurred": false,
     "facts_list": [
       "事实点1：9月15日，第41届金唱片奖宣布将于1月9日和10日在越南展览中心特别户外舞台举行。",
-      "事实点2：该消息于9月4日更新，具体日期和地点已确认。"
+      "事实点2：该消息为更新内容，原报道发布于9月4日，更多细节待公布。"
     ],
-    "summary_zh": "第41届金唱片奖宣布将于明年1月9日至10日在越南展览中心的特别户外舞台举行年度颁奖典礼。该消息于9月4日更新，更多细节待公布。",
-    "extracted_at": "2026-09-04T10:41:32.013860+08:00"
+    "summary_zh": "第41届金唱片奖宣布了即将举行的年度颁奖典礼的更多信息。9月15日，主办方透露典礼将于1月9日和10日在越南展览中心的特别户外舞台举行。请继续关注典礼的后续更新。",
+    "extracted_at": "2026-09-04T16:26:34.590331+08:00"
   },
   {
     "source_id": "soompi",
@@ -183,18 +717,18 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "金裕贞与GOT7朴珍荣命运般相遇，tvN新剧《100天的欺骗》公开海报",
+    "title_zh": "金裕贞与GOT7朴珍荣命运般相遇，tvN新剧《百日骗局》公开海报",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "tvN公开新剧《100天的欺骗》新海报",
-      "该剧由《非常律师禹英禑》及《浪漫医生金师傅》系列的导演刘仁植执导",
-      "该剧是一部以日本占领朝鲜时期为背景的100天间谍爱情剧",
-      "金裕贞与GOT7成员朴珍荣在剧中命运般相遇"
+      "tvN公开新剧《百日骗局》新海报",
+      "该剧由《非常律师禹英禑》和《浪漫医生金师傅》系列的导演刘仁植执导",
+      "《百日骗局》是一部以日本占领朝鲜时期为背景的100天间谍爱情剧",
+      "金裕贞和GOT7的朴珍荣在剧中命运般相遇"
     ],
-    "summary_zh": "tvN公开了即将播出的新剧《100天的欺骗》的新海报。该剧由《非常律师禹英禑》和《浪漫医生金师傅》系列的导演刘仁植执导，是一部以日本占领朝鲜时期为背景、设定在100天内的间谍爱情剧。剧情将围绕金裕贞和GOT7成员朴珍荣饰演的角色展开，两人在剧中命运般相遇。",
-    "extracted_at": "2026-09-04T10:41:34.979902+08:00"
+    "summary_zh": "tvN公开了即将播出的电视剧《百日骗局》的新海报。该剧由《非常律师禹英禑》和《浪漫医生金师傅》系列的导演刘仁植执导，是一部以日本占领朝鲜时期为背景的100天间谍爱情剧。金裕贞和GOT7的朴珍荣在剧中命运般相遇。",
+    "extracted_at": "2026-09-04T16:26:36.628418+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -214,11 +748,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：BLACKPINK成员Lisa发行新歌《SaWaDiKa》",
-      "事实点2：该歌曲由thebiaslist.com发布乐评"
+      "事实点1：歌曲《SaWaDiKa》由BLACKPINK成员Lisa演唱",
+      "事实点2：该乐评发布于网站thebiaslist.com"
     ],
-    "summary_zh": "BLACKPINK成员Lisa发行新歌《SaWaDiKa》，thebiaslist.com发布了乐评。",
-    "extracted_at": "2026-09-04T10:41:36.890161+08:00"
+    "summary_zh": "thebiaslist.com网站发布了对BLACKPINK成员Lisa新歌《SaWaDiKa》的乐评。该乐评对歌曲进行了评价，但原文未提供具体评价内容。",
+    "extracted_at": "2026-09-04T16:26:38.088495+08:00"
   },
   {
     "source_id": "soompi",
@@ -233,25 +767,25 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "2026韩国大音乐奖公布首轮阵容：ATEEZ、RIIZE等十组艺人确定出席",
+    "title_zh": "2026年韩国大音乐奖公布首批阵容：ATEEZ、RIIZE等十组艺人确定出席",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：9月4日，韩国大音乐奖（KGMA）公布首轮出演阵容。",
-      "事实点2：确定出席的艺人包括ATEEZ、RIIZE、TREASURE、Hearts2Hearts、KiiiKiii、ALLDAY PROJECT、AND2BLE、CRAVITY、AHOF和CLOSE YOUR EYES。",
+      "事实点1：9月4日，韩国大音乐奖（KGMA）公布首批出席艺人名单。",
+      "事实点2：首批阵容包括ATEEZ、RIIZE、TREASURE、Hearts2Hearts、KiiiKiii、ALLDAY PROJECT、AND2BLE、CRAVITY、AHOF、CLOSE YOUR EYES共十组艺人。",
       "事实点3：本届颁奖礼将分两天举行。"
     ],
-    "summary_zh": "2026年韩国大音乐奖（KGMA）于9月4日公布了首轮出演阵容，确定出席的艺人包括ATEEZ、RIIZE、TREASURE、Hearts2Hearts、KiiiKiii、ALLDAY PROJECT、AND2BLE、CRAVITY、AHOF和CLOSE YOUR EYES。本届颁奖礼将分两天举行，更多信息有待后续公布。",
-    "extracted_at": "2026-09-04T10:41:39.473870+08:00"
+    "summary_zh": "2026年韩国大音乐奖（KGMA）于9月4日公布了首批演出阵容，确认出席的艺人包括ATEEZ、RIIZE、TREASURE、Hearts2Hearts、KiiiKiii、ALLDAY PROJECT、AND2BLE、CRAVITY、AHOF和CLOSE YOUR EYES。本届颁奖礼将分两天举行，更多信息有待后续公布。",
+    "extracted_at": "2026-09-04T16:26:40.326001+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "K-Pop Festa takes over CECO Plaza Sept. 12 - Stripes Korea",
+    "title": "K-Pop Festa takes over CECO Plaza Sept. 12 - korea.stripes.com",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TYkxqYTZJUDVMLXZ0TnVrN0JwTWpZWEFwbnA2VVFweXJza2pDazIyTkVPZnVSNHUtS2piTFNuMnBzMzBRS21TZG9WWktzSUVmaWJhcDdfOWNNNHlfRGUtTjAzZHdlWDA4Wk03YQ?oc=5",
-    "content": "K-Pop Festa takes over CECO Plaza Sept. 12 Stripes Korea",
+    "content": "K-Pop Festa takes over CECO Plaza Sept. 12 korea.stripes.com",
     "published_at": "0904google-kpop",
     "published_ts": 1788479316.0,
     "category": "韩娱",
@@ -263,12 +797,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "时间：9月12日",
-      "地点：CECO广场",
-      "事件：K-Pop Festa活动举行"
+      "事实点1：K-Pop Festa活动将于9月12日在CECO广场举行",
+      "事实点2：活动地点为CECO广场，具体内容未提及"
     ],
-    "summary_zh": "K-Pop Festa将于9月12日在CECO广场举行。该活动预计将带来K-Pop相关的表演和体验，具体细节尚未公布。",
-    "extracted_at": "2026-09-04T10:41:41.301434+08:00"
+    "summary_zh": "K-Pop Festa活动将于9月12日在CECO广场举行，具体活动内容、参演艺人等细节尚未公布。",
+    "extracted_at": "2026-09-04T16:26:41.818153+08:00"
   },
   {
     "source_id": "soompi",
@@ -292,15 +825,15 @@
       "事实点2：导演李沧东将在第49届米尔谷电影节上获得Auteur奖。"
     ],
     "summary_zh": "Netflix于9月3日公开了电影《Possible Love》的新海报，并宣布导演李沧东将在第49届米尔谷电影节上获得Auteur奖。该片由全度妍、薛景求、赵寅成和曹汝贞主演。",
-    "extracted_at": "2026-09-04T10:41:43.944386+08:00"
+    "extracted_at": "2026-09-04T16:26:43.707612+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "Best K-Pop Releases of August 2026: Red Velvet & More - sweetyhigh.com",
+    "title": "Best K-Pop Releases of August 2026: Red Velvet & More - Sweety High",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1oU2t2M0FpZUNOYjNHNEpabjVKc0NNWkxwbzZLd0VhZ0h6c1Y0SkhTTkpkcXAzV2xWcHhlMS14amhzVXJRWEtSdDZRMVhvOVpQOFdsQXpEc1V0cXRkeExOV3Z0NElHbEZmQ0JFS3oyUG9vMlgtMFpXbXZB?oc=5",
-    "content": "Best K-Pop Releases of August 2026: Red Velvet & More sweetyhigh.com",
+    "content": "Best K-Pop Releases of August 2026: Red Velvet & More Sweety High",
     "published_at": "0904google-kpop",
     "published_ts": 1788474750.0,
     "category": "韩娱",
@@ -312,10 +845,10 @@
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "事实点1：sweetyhigh.com发布文章，评选2026年8月最佳K-Pop发行，提及Red Velvet等艺人。"
+      "事实点1：Sweety High发布2026年8月最佳K-Pop发行榜单，提及Red Velvet等艺人。"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：sweetyhigh.com评选2026年8月最佳K-Pop发行，包括Red Velvet等艺人。]",
-    "extracted_at": "2026-09-04T10:41:46.185542+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：Sweety High评选2026年8月最佳K-Pop发行，Red Velvet等艺人上榜。]",
+    "extracted_at": "2026-09-04T16:26:45.574601+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -330,16 +863,15 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "韩国警方拟起诉BTS幕后K-pop巨头涉嫌欺诈",
+    "title_zh": "韩国警方拟起诉BTS所属公司高管涉嫌欺诈",
     "source_type": "韩娱",
     "risk_level": "高",
     "is_blurred": false,
     "facts_list": [
-      "韩国警方表示，计划对BTS背后的K-pop巨头提起公诉，指控其涉嫌欺诈。",
-      "该巨头为HYBE创始人方时赫（Bang Si-hyuk），但具体欺诈细节未在原文中披露。"
+      "韩国警方表示，计划以涉嫌欺诈为由，起诉BTS背后的K-pop巨头（即HYBE管理层人员）"
     ],
-    "summary_zh": "据WKYC报道，韩国警方希望以涉嫌欺诈为由，对BTS背后的K-pop巨头提起公诉。该巨头被指为HYBE创始人方时赫，但原文未提及具体欺诈行为、涉案金额或时间等细节。目前案件仍在调查中，尚未正式起诉。",
-    "extracted_at": "2026-09-04T10:41:49.157583+08:00"
+    "summary_zh": "据WKYC报道，韩国警方表示，他们希望对BTS背后的K-pop巨头（即HYBE管理层人员）提起欺诈指控。目前具体细节尚未披露，但警方已明确表达起诉意向。",
+    "extracted_at": "2026-09-04T16:26:47.215298+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -359,58 +891,35 @@
     "risk_level": "中",
     "is_blurred": false,
     "facts_list": [
-      "Lisa在采访中透露，为保护BLACKPINK组合人气，曾隐瞒恋情",
-      "Lisa表示'我们不能约会'，暗示组合有禁止恋爱的规定或自我约束"
+      "Lisa在采访中透露，为保护BLACKPINK组合人气，曾隐瞒恋情。",
+      "Lisa表示'我们不能约会'，暗示组合成员因人气原因被限制恋爱。"
     ],
-    "summary_zh": "BLACKPINK成员Lisa在近期采访中透露，为了维护组合的人气，她曾选择隐瞒自己的恋情。她坦言'我们不能约会'，暗示在组合活动期间，成员们可能被要求或自我约束不公开恋爱。这一言论引发了粉丝和媒体的广泛关注，但Lisa并未透露具体恋情细节或时间线。",
-    "extracted_at": "2026-09-04T10:41:52.136384+08:00"
+    "summary_zh": "BLACKPINK成员Lisa在近期采访中坦言，为了维护组合的人气，她曾选择隐瞒自己的恋情。她直言'我们不能约会'，暗示作为顶级女团成员，恋爱被视为对组合形象的潜在威胁。这一言论引发粉丝对偶像恋爱禁令的讨论。",
+    "extracted_at": "2026-09-04T16:26:49.466744+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "When will Mattel and Hasbro KPop Demon Hunters toys come out? UPDATE September 2026 - Revista Merca2.0",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZWRIRHN3V2ljVnZxTlh0R0ljYmI1b0JJWFBFR1BzTVV0NjUyS2JxSTEtQ2x0WGtXUDNDMkdzRW9yMVJmVGk3SVY0cHdwY0plMFRlZmREVFFxSVlPNl9wNHVEUEdQMm5jT1YxSTJLR1d3Q01qYWU0MVVRV2U1c2hKNXA5RVZXTlBXcGZqWFBkXzUwRXBIbUZKREVON0RhRzFkZkV5WXRfNi1la2M?oc=5",
-    "content": "When will Mattel and Hasbro KPop Demon Hunters toys come out? UPDATE September 2026 Revista Merca2.0",
-    "published_at": "0904google-kpop",
-    "published_ts": 1788456891.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "美泰与孩之宝KPop Demon Hunters玩具发售时间更新：2026年9月",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "原文未提及具体发售日期，仅称有2026年9月的更新。"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：美泰和孩之宝的KPop Demon Hunters玩具的发售时间有2026年9月的更新。]",
-    "extracted_at": "2026-09-04T10:41:54.389956+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "The Boyz’ Jacob Bae On What K-Pop Gave — And Took Away - Forbes",
+    "title": "The Boyz’ Jacob Bae On What K-Pop Gave — And Took Away - forbes.com",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeEtIbldROWtfU1l6bVhWdUY4NTRKOVpyQUs1U3FJZkFxeEZLR0J6VFNCdm1pemxfNU45b0gxUFRyY1RxOFNhVXhZdDR2eGxIR0FUSTRRVFp2U1lkMHBBX0loNTJMRGxQVlNBVThxaTZnRlFQV25MT0NaUWw0NVFKb20tQWt2N3BBZzhKLTRpVVBIUEdQYTU2cm1tdmJGM25kVXl0WThXZkdQN2hJ?oc=5",
-    "content": "The Boyz’ Jacob Bae On What K-Pop Gave — And Took Away Forbes",
+    "content": "The Boyz’ Jacob Bae On What K-Pop Gave — And Took Away forbes.com",
     "published_at": "0904google-kpop",
     "published_ts": 1788454804.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "The Boyz成员Jacob Bae谈K-Pop带来的与夺走的",
+    "title_zh": "The Boyz成员Jacob Bae谈K-Pop带来的得与失",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "事实点1：The Boyz成员Jacob Bae接受Forbes采访，谈论K-Pop经历。",
-      "事实点2：采访中Jacob Bae谈及K-Pop给予他的以及让他失去的方面。"
+      "事实点2：采访中Jacob Bae分享了K-Pop给予他的机会与牺牲。"
     ],
-    "summary_zh": "The Boyz成员Jacob Bae在Forbes的采访中，分享了K-Pop生涯给他带来的收获与牺牲。他具体提到了哪些方面，原文未详细说明，但整体内容聚焦于个人经历与反思。",
-    "extracted_at": "2026-09-04T10:41:57.169378+08:00"
+    "summary_zh": "The Boyz成员Jacob Bae在Forbes采访中，回顾了K-Pop生涯带来的收获与代价。他提到作为偶像获得的舞台机会、粉丝支持等积极面，同时也坦言了训练和活动中的个人牺牲。采访未涉及具体事件或数据，主要聚焦于个人感悟。",
+    "extracted_at": "2026-09-04T16:26:51.386275+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -430,19 +939,19 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：bibigo™推出新广告活动，邀请演员Randall Park参与",
-      "事实点2：广告中Randall Park以K-pop歌手形象出现"
+      "事实点1：bibigo™推出新广告活动，让演员Randall Park扮演K-pop歌手。",
+      "事实点2：该广告由Roastbrief US报道。"
     ],
-    "summary_zh": "bibigo™品牌发布新广告活动，将演员Randall Park打造成K-pop歌手形象。该广告由Roastbrief US报道，但未提供具体细节，如广告内容、发布时间或平台。",
-    "extracted_at": "2026-09-04T10:41:59.576095+08:00"
+    "summary_zh": "bibigo™品牌推出新广告活动，邀请演员Randall Park在广告中扮演K-pop歌手。该广告由Roastbrief US报道，但未提供更多细节。",
+    "extracted_at": "2026-09-04T16:26:52.884008+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "KPop Demon Hunters Is Getting a Real-Life World Tour - sweetyhigh.com",
+    "title": "KPop Demon Hunters Is Getting a Real-Life World Tour - Sweety High",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5MWTRzckYzZDEtaVdSazhzZUNETmtBYWx2NzlDMW1GZENwdlM1eEprRVl5d0Q1TlZOSG5YQl84VG5BaHNVQ0NqYlIydlc2cTUwN1pPNmthZXBTb296aTVzT0VBeHdHQzFQV2dmRUlXWDNndG0xbW5F?oc=5",
-    "content": "KPop Demon Hunters Is Getting a Real-Life World Tour sweetyhigh.com",
+    "content": "KPop Demon Hunters Is Getting a Real-Life World Tour Sweety High",
     "published_at": "0904google-kpop",
     "published_ts": 1788453148.0,
     "category": "韩娱",
@@ -452,12 +961,12 @@
     "title_zh": "KPop Demon Hunters 将举办现实世界巡回演唱会",
     "source_type": "韩娱",
     "risk_level": "低",
-    "is_blurred": true,
+    "is_blurred": false,
     "facts_list": [
-      "事实点1：KPop Demon Hunters 将举办现实世界巡回演唱会，但原文未提及具体时间、地点或场次。"
+      "事实点1：KPop Demon Hunters 宣布将举办现实世界巡回演唱会。"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：KPop Demon Hunters 将举办现实世界巡回演唱会]",
-    "extracted_at": "2026-09-04T10:42:01.205098+08:00"
+    "summary_zh": "据 Sweety High 报道，KPop Demon Hunters 将举办现实世界巡回演唱会。目前尚未公布具体日期、地点或场次安排。",
+    "extracted_at": "2026-09-04T16:26:54.162530+08:00"
   },
   {
     "source_id": "asianwiki",
