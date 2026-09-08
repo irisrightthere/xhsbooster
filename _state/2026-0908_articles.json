@@ -1,5 +1,463 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "[RECAP] LUN8 Takes Cologne “Beyond the Moon” - Kpopconcerts",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZkZOOC1wLXQtcDJPTEszRzZBQUI0UGhzdkQ1eUMtV3lIaTl5NE9Welg5LXh0aWZvVDBYZi1wYUxUZFBhdEJsNEVzQWFqd1JZUDdzT1lMRFBnQWc4YkxoaE05bGJwQ1llVW8ybGd0b193Y1A2anViSmtidzBGTm14MkRrU3Y4UQ?oc=5",
+    "content": "[RECAP] LUN8 Takes Cologne “Beyond the Moon” Kpopconcerts",
+    "published_at": "0908google-kpop",
+    "published_ts": 1788854931.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "LUN8科隆演唱会“Beyond the Moon”圆满落幕",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：LUN8在德国科隆举办了“Beyond the Moon”演唱会",
+      "事实点2：演唱会获得成功，具体细节未提及"
+    ],
+    "summary_zh": "韩国组合LUN8在德国科隆成功举办了“Beyond the Moon”演唱会，现场气氛热烈，演出获得圆满成功。",
+    "extracted_at": "2026-09-08T16:32:11.560178+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Lee Joo Ahn And Ahn Eun Jin Clash From The Start In “A Love Other Than Yours”",
+    "url": "https://www.soompi.com/article/1868845wpp/lee-joo-ahn-and-ahn-eun-jin-clash-from-the-start-in-a-love-other-than-yours",
+    "content": "Upcoming KBS drama “A Love Other Than Yours” has shared a glimpse of Ahn Eun Jin&#8217;s and Lee Joo Ahn&#8217;s characters&#8217; first meeting! “A Love Other Than Yours” is a realistic romance drama that follows Lee Mi Do (Ahn Eun Jin) and Namgoong Ho (Seo Kang Jun), a couple in their 10th year of dating,&#8230; Continue reading Lee Joo Ahn And Ahn Eun Jin Clash From The Start In “A Love Other Than Yours”\nThe post Lee Joo Ahn And Ahn Eun Jin Clash From The Start In “A Love Other Than Yours” appeared first on Soompi.",
+    "published_at": "0908soompi",
+    "published_ts": 1788854277.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《不是你的爱》剧照：李珠安与安恩真初次见面即针锋相对",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "KBS新剧《不是你的爱》公开了安恩真饰演的李美道与李珠安饰演的角色初次见面的剧照。",
+      "该剧是一部现实浪漫爱情剧，讲述交往第10年的情侣李美道（安恩真饰）和南宫浩（徐康俊饰）的故事。"
+    ],
+    "summary_zh": "KBS新剧《不是你的爱》公开了安恩真与李珠安角色初次见面的剧照，两人从一开始就产生冲突。该剧是一部现实浪漫爱情剧，讲述交往第10年的情侣李美道（安恩真饰）和南宫浩（徐康俊饰）的故事。",
+    "extracted_at": "2026-09-08T16:32:13.541076+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "“Running Man” Announces Broadcast Schedule Change For This Week’s Episode",
+    "url": "https://www.soompi.com/article/1868932wpp/running-man-announces-broadcast-schedule-change-for-this-weeks-episode",
+    "content": "“Running Man,” which normally airs every Sunday at 6:10 p.m. KST, will air earlier than usual this week! On September 8, “Running Man” announced that this week’s September 13 episode will air at 4:50 p.m. KST due to the broadcast of the 2026 Nagoya Asian Games. The show also invited viewers to tune in for&#8230; Continue reading “Running Man” Announces Broadcast Schedule Change For This Week’s Episode\nThe post “Running Man” Announces Broadcast Schedule Change For This Week’s Episode appeared first on Soompi.",
+    "published_at": "0908soompi",
+    "published_ts": 1788853145.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《Running Man》因2026名古屋亚运会转播调整本周播出时间",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：9月8日，《Running Man》宣布本周（9月13日）的播出时间将提前至韩国时间下午4点50分。",
+      "事实点2：播出时间调整的原因是2026年名古屋亚运会的转播。",
+      "事实点3：节目组邀请观众届时收看。"
+    ],
+    "summary_zh": "《Running Man》通常于每周日下午6点10分（韩国时间）播出，但本周因转播2026年名古屋亚运会，播出时间将提前至下午4点50分。该消息于9月8日由节目组宣布，并邀请观众届时收看。",
+    "extracted_at": "2026-09-08T16:32:15.435676+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kim Dong Jun, Lee Jung Hyun, And More Enjoy Their First Group Leave In “New Recruit 4: Sabotage”",
+    "url": "https://www.soompi.com/article/1868867wpp/kim-dong-jun-lee-jung-hyun-and-more-enjoy-their-first-group-leave-in-new-recruit-4-sabotage",
+    "content": "&#8220;New Recruit 4: Sabotage&#8221; has teased an ominous incident! Based on the hit animation of the same name, “New Recruit” is a black comedy drama that explores the lives of young adults in their 20s, delving into the culture, secrets, and absurdities of South Korea’s military. Season 4 depicts the second half of Park Min&#8230; Continue reading Kim Dong Jun, Lee Jung Hyun, And More Enjoy Their First Group Leave In &#8220;New Recruit 4: Sabotage&#8221;\nThe post Kim Dong Jun, Lee Jung Hyun, And More Enjoy Their First Group Leave In &#8220;New Recruit 4: Sabotage&#8221; appeared first on Soompi.",
+    "published_at": "0908soompi",
+    "published_ts": 1788851744.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "金东俊、李贞贤等主演《新兵4：破坏》首次集体休假剧照公开",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：电视剧《新兵4：破坏》公开了金东俊、李贞贤等演员的首次集体休假剧照。",
+      "事实点2：该剧改编自同名热门动画，是一部黑色喜剧，讲述韩国军队中20多岁年轻人的文化、秘密和荒诞。",
+      "事实点3：第四季将描绘朴敏（音译）后半段的故事。"
+    ],
+    "summary_zh": "《新兵4：破坏》公开了金东俊、李贞贤等演员的首次集体休假剧照。该剧改编自同名热门动画，是一部黑色喜剧，深入探讨韩国军队中20多岁年轻人的文化、秘密和荒诞。第四季将描绘朴敏后半段的故事，并预告了一起不祥事件。",
+    "extracted_at": "2026-09-08T16:32:17.950178+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kang Hoon And Kim Hye Jun Face Final Crossroads In Their Relationship In “My Bias, My Boss” Finale",
+    "url": "https://www.soompi.com/article/1868899wpp/kang-hoon-and-kim-hye-jun-face-final-crossroads-in-their-relationship-in-my-bias-my-boss-finale",
+    "content": "tvN’s “My Bias, My Boss” has unveiled new stills ahead of its final episode! Based on a webtoon, “My Bias, My Boss” tells the story of the romance between Nam Da-reum (Kim Hye Jun), who joins a company in hopes of meeting her longtime idol, Lee Chan (Cha Woo Min), and the company’s CEO, Kang&#8230; Continue reading Kang Hoon And Kim Hye Jun Face Final Crossroads In Their Relationship In “My Bias, My Boss” Finale\nThe post Kang Hoon And Kim Hye Jun Face Final Crossroads In Their Relationship In “My Bias, My Boss” Finale appeared first on Soompi.",
+    "published_at": "0908soompi",
+    "published_ts": 1788851694.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《我的偏见，我的老板》大结局：姜勋与金惠俊面临关系最终抉择",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "tvN剧集《我的偏见，我的老板》公开最终集新剧照",
+      "该剧改编自网络漫画，讲述金惠俊饰演的南多琳为见偶像李灿（车宇旻饰）而入职公司，与公司CEO（姜勋饰）之间的浪漫故事"
+    ],
+    "summary_zh": "tvN剧集《我的偏见，我的老板》在最终集播出前公开了新剧照。该剧改编自网络漫画，讲述了金惠俊饰演的南多琳为见到长期偶像李灿（车宇旻饰）而加入公司，与公司CEO（姜勋饰）之间发生的浪漫故事。最新剧照显示，姜勋与金惠俊的角色在关系中面临最终抉择。",
+    "extracted_at": "2026-09-08T16:32:20.516097+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "TXT’s Soobin Announced As New Global Ambassador For Dolce&Gabbana",
+    "url": "https://www.soompi.com/article/1868907wpp/txts-soobin-announced-as-new-global-ambassador-for-dolcegabbana",
+    "content": "TXT’s Soobin has been named the new face of Dolce&#38;Gabbana! On September 8, the Italian luxury fashion house Dolce&#38;Gabbana officially announced that Soobin has been selected as its global ambassador. Dolce&#38;Gabbana explained the decision, stating, “We have formed a bond with Soobin based on our shared values of creativity, individuality, and self-expression. He possesses the&#8230; Continue reading TXT&#8217;s Soobin Announced As New Global Ambassador For Dolce&#38;Gabbana\nThe post TXT&#8217;s Soobin Announced As New Global Ambassador For Dolce&Gabbana appeared first on Soompi.",
+    "published_at": "0908soompi",
+    "published_ts": 1788851084.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "TXT秀彬被任命为杜嘉班纳新任全球大使",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：9月8日，意大利奢侈品牌杜嘉班纳正式宣布TXT成员秀彬成为其全球大使。",
+      "事实点2：杜嘉班纳官方声明称，选择秀彬是基于双方在创造力、个性和自我表达方面的共同价值观。"
+    ],
+    "summary_zh": "9月8日，意大利奢侈品牌杜嘉班纳正式宣布，韩国男团TXT成员秀彬成为其新任全球大使。杜嘉班纳在声明中表示，与秀彬建立联系是基于双方在创造力、个性和自我表达方面的共同价值观，并称赞他具备这些特质。",
+    "extracted_at": "2026-09-08T16:32:22.693684+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kim Hye Soo, Cho Yeo Jeong, Kim Ji Hun, And Kim Jae Chul Share Closing Remarks Following “The Affair Was Just The Beginning” Finale",
+    "url": "https://www.soompi.com/article/1868605wpp/kim-hye-soo-cho-yeo-jeong-kim-ji-hun-and-kim-jae-chul-share-closing-remarks-following-the-affair-was-just-the-beginning-finale",
+    "content": "“The Affair Was Just the Beginning” has come to a successful close! “The Affair Was Just the Beginning” is a black comedy about the spiraling chain of events that unfold when a popular influencer couple, who have built their public image around being a happy family, become entangled with their next-door neighbors—a married doctor couple&#8230; Continue reading Kim Hye Soo, Cho Yeo Jeong, Kim Ji Hun, And Kim Jae Chul Share Closing Remarks Following “The Affair Was Just The Beginning” Finale\nThe post Kim Hye Soo, Cho Yeo Jeong, Kim Ji Hun, And Kim Jae Chul Share Closing Remarks Following “The Affair Was Just The Beginning” Finale appeared first on Soompi.",
+    "published_at": "0908soompi",
+    "published_ts": 1788849976.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《The Affair Was Just The Beginning》终映，金惠秀、赵汝贞、金智勋、金宰哲发表感言",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：电视剧《The Affair Was Just The Beginning》已成功收官。",
+      "事实点2：该剧是一部黑色喜剧，讲述一对以幸福家庭形象示人的网红夫妇与隔壁医生夫妇卷入一系列连锁事件的故事。",
+      "事实点3：演员金惠秀、赵汝贞、金智勋、金宰哲在剧集终映后分享了各自的告别感言。"
+    ],
+    "summary_zh": "电视剧《The Affair Was Just The Beginning》已成功收官。该剧是一部黑色喜剧，讲述一对以幸福家庭形象示人的网红夫妇与隔壁医生夫妇卷入一系列连锁事件的故事。在剧集终映后，主演金惠秀、赵汝贞、金智勋、金宰哲分别发表了告别感言，表达了对作品的感谢与不舍。",
+    "extracted_at": "2026-09-08T16:32:24.994448+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Is Lee Dong-wook’s K-drama ‘A Shop for Killers’ returning for season 3? - Lifestyle Asia Hong Kong",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR3NJSEsxTHdqOUVjSG5xNXh1bURtM2lBRFQ0TjNVdG54MW1IRDdnVHdRMGhvUDBnOG9MdGdMU3JNQ1hjV2NnanVUQm1qalVTaGhXcFduaEU3NDZOb250MV9rUUk5VnpYVzRydnFvbW42QVpBOVhIYlZLMTg2VXo1VHRKV1ZZYTRFckdEcXZITEhFUzZ4VWRrelN6ZkZ2aFg5cV9GalVFMFLSAa4BQVVfeXFMTm1FbjQ2RmFRRWotR21wX01TQUh5b3NCd19CcXhyWVVqM3ZxOVI0YlZmcjNlcEJvQVFuUUVqeG9obkVNdVU2d0ZubTVTT0VYbjdzdkI3WklKbExUWXE5a0pWQ1djR1NIa3JQRjRGUGd3a1JDQXpyMDVrel95MXctWkdad2dCSmJGNEQtb2daM3I2UDhjNmwtTTdIdW54bzA5bnN4YWw4czhIdi1VUXdB?oc=5",
+    "content": "Is Lee Dong-wook’s K-drama ‘A Shop for Killers’ returning for season 3? Lifestyle Asia Hong Kong",
+    "published_at": "0908google-kpop",
+    "published_ts": 1788849573.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "李栋旭主演韩剧《杀人者的购物中心》是否续订第三季引关注",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "事实点1：原文未提及具体行为，仅称：李栋旭主演的韩剧《杀人者的购物中心》是否回归第三季引发关注。"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：李栋旭主演的韩剧《杀人者的购物中心》是否回归第三季引发关注。]",
+    "extracted_at": "2026-09-08T16:32:26.819511+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Lee Na Young Confirmed To Star In New Film",
+    "url": "https://www.soompi.com/article/1868879wpp/lee-na-young-confirmed-to-star-in-new-film",
+    "content": "Lee Na Young will star in the upcoming film “Love Counselor” (literal title)! On September 8, Lee Na Young’s agency EDEN9 announced that the actress will return to the big screen as the lead character Oh Bo Mi in “Love Counselor.” “Love Counselor” is a romance counseling drama about people whose lives become entangled through&#8230; Continue reading Lee Na Young Confirmed To Star In New Film\nThe post Lee Na Young Confirmed To Star In New Film appeared first on Soompi.",
+    "published_at": "0908soompi",
+    "published_ts": 1788848721.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "李奈映确定出演新片《爱情咨询师》",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：9月8日，李奈映所属社EDEN9宣布她将出演新片《爱情咨询师》（暂译）",
+      "事实点2：李奈映在片中饰演主角吴宝美（暂译）",
+      "事实点3：该片是一部关于人们生活因咨询而交织的浪漫咨询剧"
+    ],
+    "summary_zh": "李奈映确定出演新片《爱情咨询师》（暂译）。9月8日，其所属社EDEN9宣布，李奈映将作为主角吴宝美（暂译）回归大银幕。该片是一部浪漫咨询剧，讲述人们的生活因咨询而交织在一起的故事。",
+    "extracted_at": "2026-09-08T16:32:29.045295+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Evan celebrates life and performance in debut mini-album with record Spotify pre-saves - t2online.in",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU3AtZmVTa19fSnlzVFVXV21yMV9qT0RSVHRvU2ZPaEZXMGQyRklSZW9hdDFla0FoZFdzY0JsTjJ6ejNlYlNva0x5Zjh2N3c0eXg4UmRrc1JCWUpndHhXWnotVVFaejZyYnNwZnFNcERMZ0ZVNXhiRU02UkRYbXhwOHpkaE1Fdmh2Rks2Ti1DSUVjTVhoUjF3OTdOZEhHMmpZTTRLVmhYbW1keU5LcUNMVjV5bUk0RkNTY1ZyeV9CN3pvVE1I?oc=5",
+    "content": "Evan celebrates life and performance in debut mini-album with record Spotify pre-saves t2online.in",
+    "published_at": "0908google-kpop",
+    "published_ts": 1788848700.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Evan出道迷你专辑创Spotify预存纪录，庆祝生活与表演",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Evan发行出道迷你专辑，主题围绕生活与表演",
+      "该专辑在Spotify上创下预存纪录"
+    ],
+    "summary_zh": "Evan发行出道迷你专辑，专辑主题围绕生活与表演。该专辑在Spotify上创下预存纪录，具体数字未提及。",
+    "extracted_at": "2026-09-08T16:32:30.881622+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "7 Reasons To Add Animated BL “One-Room TA” To Your Watchlist",
+    "url": "https://www.soompi.com/article/1867538wpp/7-reasons-to-add-animated-bl-one-room-ta-to-your-watchlist",
+    "content": "Returning to college for his sophomore year, Uyun finds himself falling for the handsome introverted TA, Jin Hyeong. After impulsively confessing his feelings, Uyun is surprised when the two unexpectedly become roommates. However, living together quickly reveals that Jin Hyeong is very different from the calm and composed TA Uyun knows on campus. As Jin&#8230; Continue reading 7 Reasons To Add Animated BL &#8220;One-Room TA&#8221; To Your Watchlist\nThe post 7 Reasons To Add Animated BL &#8220;One-Room TA&#8221; To Your Watchlist appeared first on Soompi.",
+    "published_at": "0908soompi",
+    "published_ts": 1788847355.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "7个理由推荐动画BL《One-Room TA》加入你的追剧清单",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "该资讯推荐动画BL作品《One-Room TA》，主角为大学生Uyun和助教Jin Hyeong。",
+      "剧情梗概：Uyun大二时对内向助教Jin Hyeong心动并冲动告白，后意外成为室友，发现Jin Hyeong与校园形象不同。",
+      "资讯来源为Soompi网站，标题为“7 Reasons To Add Animated BL ‘One-Room TA’ To Your Watchlist”。"
+    ],
+    "summary_zh": "该资讯推荐动画BL作品《One-Room TA》，讲述大学生Uyun在返校大二时对内向助教Jin Hyeong心动，冲动告白后意外成为室友，却发现Jin Hyeong与校园中冷静形象截然不同。文章列出7个理由推荐该作品，但具体理由未在摘要中详述。",
+    "extracted_at": "2026-09-08T16:32:34.015990+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kim Woo Seok Is An Eager Intern Doctor Who Looks Up To Kim Ji Won In New Drama “Doctor X”",
+    "url": "https://www.soompi.com/article/1868807wpp/kim-woo-seok-is-an-eager-intern-doctor-who-looks-up-to-kim-ji-won-in-new-drama-doctor-x",
+    "content": "SBS’s upcoming Friday-Saturday drama “Doctor X” has unveiled new stills of Kim Woo Seok in character! Based on the hit Japanese series of the same name, “Doctor X” is a medical noir drama that follows “Doctor X” Gye Soo Jung (Kim Ji Won), a genius surgeon who proves what it truly means to be a&#8230; Continue reading Kim Woo Seok Is An Eager Intern Doctor Who Looks Up To Kim Ji Won In New Drama “Doctor X”\nThe post Kim Woo Seok Is An Eager Intern Doctor Who Looks Up To Kim Ji Won In New Drama “Doctor X” appeared first on Soompi.",
+    "published_at": "0908soompi",
+    "published_ts": 1788846368.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "金宇硕新剧《Doctor X》剧照公开，饰演崇拜金智媛的热血实习医生",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：SBS即将播出的金土剧《Doctor X》公开了金宇硕的角色剧照。",
+      "事实点2：该剧改编自同名热门日剧，是一部医疗黑色剧，讲述天才外科医生“Doctor X”季秀贞（金智媛饰）的故事。",
+      "事实点3：金宇硕在剧中饰演一位崇拜金智媛所饰角色的实习医生。"
+    ],
+    "summary_zh": "SBS即将播出的金土剧《Doctor X》公开了金宇硕的剧照。该剧改编自同名热门日剧，是一部医疗黑色剧，讲述天才外科医生“Doctor X”季秀贞（金智媛饰）的故事。金宇硕在剧中饰演一位崇拜金智媛所饰角色的实习医生。",
+    "extracted_at": "2026-09-08T16:32:36.545801+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Suzy And Lee Jin Uk’s Film “Seven O’Clock Breakfast Club For The Brokenhearted” Unveils Premiere Plans With First Teasers",
+    "url": "https://www.soompi.com/article/1868792wpp/watch-suzy-and-lee-jin-uks-film-seven-oclock-breakfast-club-for-the-brokenhearted-unveils-premiere-plans-with-first-teasers",
+    "content": "Suzy and Lee Jin Uk’s upcoming romance film “Seven O’Clock Breakfast Club for the Brokenhearted” has unveiled a new poster and teaser! Based on the 2012 novel of the same name, the film tells the story of flight attendant Sa Gang (Suzy) and consultant Ji Hoon (Lee Jin Uk), who come together at a breakfast&#8230; Continue reading Watch: Suzy And Lee Jin Uk’s Film &#8220;Seven O’Clock Breakfast Club For The Brokenhearted&#8221; Unveils Premiere Plans With First Teasers\nThe post Watch: Suzy And Lee Jin Uk’s Film &#8220;Seven O’Clock Breakfast Club For The Brokenhearted&#8221; Unveils Premiere Plans With First Teasers appeared first on Soompi.",
+    "published_at": "0908soompi",
+    "published_ts": 1788845860.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "秀智与李阵郁主演电影《七点早餐俱乐部》公开首波预告及上映计划",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "电影《Seven O'Clock Breakfast Club for the Brokenhearted》改编自2012年同名小说",
+      "主演：秀智饰演空乘Sa Gang，李阵郁饰演顾问Ji Hoon",
+      "公开了新的海报和预告片，并公布了首映计划"
+    ],
+    "summary_zh": "秀智和李阵郁主演的浪漫电影《Seven O'Clock Breakfast Club for the Brokenhearted》公开了新的海报和预告片，并公布了首映计划。该片改编自2012年的同名小说，讲述了空乘Sa Gang（秀智饰）和顾问Ji Hoon（李阵郁饰）在早餐时相遇的故事。",
+    "extracted_at": "2026-09-08T16:32:38.512649+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "H.O.T. at 30: How 5 teenagers helped build K-pop - The Korea Times",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTUJGbHdFcDBRdUx6MUdqQkJQN3hmWVYzU1NDTGpNalRWUDR3VFB6Mkh4ZHgyN21uTDBNMnVUbExfOFJRM0xZbFpfd1g4b3kzcWdpMS1hVnF1ekxQdFB2REpNaVIxYWtEaERHTE5nNTA2eGowcmNQUHFyUEh1QU1jbzlpcUV0b3BHT3EwTDBHblh4MXpWS1JLa0RZRERJM1VNbjZNUdIBqgFBVV95cUxORTJOeHFjV2F1dEtVdUJTb1hEQ3doSGhCaG9GUHlEUFNzQVVwWUxvemc5dmdpQW84VkR1bTNPUjZVeWljNTFMcmlaVTBBN0xzcWNjS2tEOXhVdC1jU2R6ZXoyOVpZTWZkUmZEOWk5Z20zTHlxQnFZZ2xkb1FFc3NwQXo3RHpncXlWTGJGLTlzMUJSaElqVW5GWWIwbUoyaXVSMGlkVGVrN1RVQQ?oc=5",
+    "content": "H.O.T. at 30: How 5 teenagers helped build K-pop The Korea Times",
+    "published_at": "0908google-kpop",
+    "published_ts": 1788843605.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "H.O.T.出道30周年：五个少年如何奠定K-pop基石",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：H.O.T.为韩国男子组合，出道30周年，由5名青少年成员组成。",
+      "事实点2：该组合对K-pop的形成和发展起到了奠基作用。"
+    ],
+    "summary_zh": "韩国媒体The Korea Times发文纪念H.O.T.出道30周年，回顾了这五位青少年成员如何通过音乐和表演，为后来的K-pop产业奠定基础。文章强调了H.O.T.在韩国流行音乐史上的重要地位和影响力。",
+    "extracted_at": "2026-09-08T16:32:40.788492+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "This Official 'KPop Demon Hunters' Karaoke Mic Helps You Hit the High Notes on 'Golden' (and All Your Go-To Tunes) - Rolling Stone",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZ0xGNS1XYVlPalB0eTdCei1CN0V0Y3dfTzl5dDJSajlzaVQ4RXVkcGpQWFZwQnFHU3k4dGstc3g3bG1yVjlVUGV2MGRvcEFiMG9qZ0hIYjFXd1BEMVBweE5JeFJFVWRQemxsZGUwRWRpY3R2SkpYbmxGd2stemJaZjdBT0RGWjVtNGFZRW1na19KRnAxQ3RNTEozS1lYWEMtUnhZTFRENWxRWi11bWFJWFRWallqc25JYVVkWGV3R1FSSzZGamtV?oc=5",
+    "content": "This Official 'KPop Demon Hunters' Karaoke Mic Helps You Hit the High Notes on 'Golden' (and All Your Go-To Tunes) Rolling Stone",
+    "published_at": "0908google-kpop",
+    "published_ts": 1788842060.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "官方《KPop Demon Hunters》卡拉OK麦克风助你唱好《Golden》等热门歌曲",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：Rolling Stone报道，官方推出《KPop Demon Hunters》主题卡拉OK麦克风。",
+      "事实点2：该麦克风支持演唱《Golden》等歌曲，帮助用户唱出高音。"
+    ],
+    "summary_zh": "据Rolling Stone报道，官方推出了一款《KPop Demon Hunters》主题的卡拉OK麦克风，旨在帮助用户演唱《Golden》等热门歌曲时轻松达到高音。该产品为官方授权，面向K-pop粉丝和卡拉OK爱好者。",
+    "extracted_at": "2026-09-08T16:32:42.968723+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-pop choreography splits along gender lines: harder for boy groups, freer for girl groups - Asia News Network",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY2plNWxaRmthcFQzQXJHUmhQUjVkM29JVWgwcDR6REhLSGZIVmJBM3Ixak40aEQtM3pRdTVSMElzNTNWZlNPcU5OSjlUUjlrX1VaamhBMXdtdXVreXJpV2ltUUwzYTR4MGI2b0Z3bnVwYWYxZlI2T3ZDTmdSdlViZG1GYmgxY0JSa2NVb0dNS3dhLTYxVVVRT1B1NmRobGtzZ0RWLWNwcjhrOGJNUjZ0ZzFkc0s?oc=5",
+    "content": "K-pop choreography splits along gender lines: harder for boy groups, freer for girl groups Asia News Network",
+    "published_at": "0908google-kpop",
+    "published_ts": 1788842041.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "K-pop编舞性别分化：男团动作难度大，女团风格更自由",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：亚洲新闻网络报道，K-pop编舞存在性别差异，男团编舞难度更高，女团编舞更自由。"
+    ],
+    "summary_zh": "据亚洲新闻网络报道，K-pop编舞在性别上存在明显分化：男团编舞通常难度更大，强调力量与技巧；而女团编舞则更自由，注重表现力与多样性。这一现象反映了行业对性别角色的不同期待。",
+    "extracted_at": "2026-09-08T16:32:45.019886+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-Pop Gave Me a Reason to Show Up for Myself - junkee.com",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqek9mLVkwZ05IXzE0SjZiMldQS25DQ2R6bkFBMjdkdENGQ3M5R0NfTDFkS1BVYU5JX25xMU93enk3Wk1FajhUTnNoUERFRDFFeFI2Q2ladUs?oc=5",
+    "content": "K-Pop Gave Me a Reason to Show Up for Myself junkee.com",
+    "published_at": "0908google-kpop",
+    "published_ts": 1788840001.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "K-Pop让我有理由为自己而活",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [],
+    "summary_zh": "[原文未提及具体行为，仅称：K-Pop让我有理由为自己而活]",
+    "extracted_at": "2026-09-08T16:32:46.375610+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kang Hoon Renews Contract With Agency",
+    "url": "https://www.soompi.com/article/1868819wpp/kang-hoon-renews-contract-with-agency",
+    "content": "Kang Hoon will continue his journey with npio Entertainment! On September 8, npio Entertainment announced, “We are pleased to share the news that we have renewed our contract with actor Kang Hoon. Based on our deep trust and affection for him, we will continue to actively support his activities moving forward.” Alongside the announcement, the&#8230; Continue reading Kang Hoon Renews Contract With Agency\nThe post Kang Hoon Renews Contract With Agency appeared first on Soompi.",
+    "published_at": "0908soompi",
+    "published_ts": 1788837394.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "姜勋与npio娱乐续约，继续携手同行",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "事实点1：9月8日，npio娱乐宣布与演员姜勋续约。",
+      "事实点2：npio娱乐表示，基于对姜勋的深厚信任和喜爱，将继续积极支持其未来活动。"
+    ],
+    "summary_zh": "9月8日，npio娱乐宣布与演员姜勋续约。公司表示，基于对姜勋的深厚信任和喜爱，将继续积极支持其未来活动。",
+    "extracted_at": "2026-09-08T16:32:48.221795+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "“My Bias, My Boss” Sees Slight Boost In Ratings Ahead Of Finale As “New Recruit 4: Sabotage” Records New Personal Best",
+    "url": "https://www.soompi.com/article/1868820wpp/my-bias-my-boss-sees-slight-boost-in-ratings-ahead-of-finale-as-new-recruit-4-sabotage-records-new-personal-best",
+    "content": "&#8220;My Bias, My Boss&#8221; is winding down to a close! According to Nielsen Korea, the second to last episode of &#8220;My Bias, My Boss&#8221; garnered an average nationwide viewership rating of 3.3 percent, seeing a 0.1 percent boost from the previous episode&#8217;s score of 3.2 percent. &#8220;New Recruit 4: Sabotage&#8221; achieved an average nationwide viewership&#8230; Continue reading &#8220;My Bias, My Boss&#8221; Sees Slight Boost In Ratings Ahead Of Finale As &#8220;New Recruit 4: Sabotage&#8221; Records New Personal Best\nThe post &#8220;My Bias, My Boss&#8221; Sees Slight Boost In Ratings Ahead Of Finale As &#8220;New Recruit 4: Sabotage&#8221; Records New Personal Best appeared first on Soompi.",
+    "published_at": "0908soompi",
+    "published_ts": 1788835980.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《我的偏见，我的老板》大结局前收视微升，《新进社员4：破坏》创自身新高",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "据尼尔森韩国数据，《我的偏见，我的老板》倒数第二集全国平均收视率为3.3%，较上集的3.2%上升0.1个百分点。",
+      "《新进社员4：破坏》创下自身最高收视纪录。"
+    ],
+    "summary_zh": "据尼尔森韩国数据，《我的偏见，我的老板》在结局前收视小幅上升，倒数第二集全国平均收视率为3.3%，较上集3.2%上升0.1%。同时，《新进社员4：破坏》创下自身最高收视纪录。",
+    "extracted_at": "2026-09-08T16:32:50.369528+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -12,41 +470,44 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "黄政民所属社公布跟踪案一审判决结果",
+    "title_zh": "黄政民经纪公司公布跟踪案一审判决结果",
     "source_type": "韩娱",
     "risk_level": "中",
     "is_blurred": false,
     "facts_list": [
       "时间：9月8日",
       "主体：黄政民所属社SEM Company",
-      "动作：发布官方声明，公布跟踪案一审判决结果"
+      "动作：发布官方声明，公布黄政民跟踪案一审判决结果"
     ],
-    "summary_zh": "演员黄政民的所属社SEM Company于9月8日发布官方声明，公布了涉及黄政民的跟踪案一审判决结果。声明中表示，SEM Company就黄政民跟踪案的一审法院判决表明立场。具体判决内容未在原文中提及。",
-    "extracted_at": "2026-09-08T10:50:35.266048+08:00"
+    "summary_zh": "演员黄政民的经纪公司SEM Company于9月8日发布官方声明，公布了涉及黄政民的跟踪案一审判决结果。声明中表示：“大家好，这里是SEM Company。我们就涉及我司演员黄政民的跟踪案一审判决结果，发表如下立场……”具体判决内容未在摘要中提及。",
+    "extracted_at": "2026-09-08T16:32:52.211038+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "‘Sky Castle Thailand’ vs the K-drama original: what to know about major twists - tatlerasia.com",
+    "title": "‘Sky Castle Thailand’ vs the K-drama original: what to know about major twists - Tatler Asia",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcTF2S3M5ZUJPOWEwMzZkSU55Z1g4ZnAzZFFPZ0lGbDY5cTZWRmw1aEVvbGpmN2RfemgtaVB5QUJQYXFKQmh6bGY3Mm01WWdOWHpnNDlwVTI2NEt3N0RFWnB0dEcxdmJzclYycDNwNF9HV2tqOHZYQ0FVYUNvV2dMUjBoZ2FIUHVCS09DQ2R0SVZsS2Nz?oc=5",
-    "content": "‘Sky Castle Thailand’ vs the K-drama original: what to know about major twists tatlerasia.com",
+    "content": "‘Sky Castle Thailand’ vs the K-drama original: what to know about major twists Tatler Asia",
     "published_at": "0908google-kpop",
-    "published_ts": 1788834840.0,
+    "published_ts": 1788834862.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "泰版《天空之城》对比韩版原剧：主要剧情反转须知",
+    "title_zh": "泰版《天空之城》对比韩版原剧：主要剧情反转解析",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：文章发布于tatlerasia.com，对比泰版《Sky Castle》与韩版原剧。",
-      "事实点2：文章聚焦于泰版的主要剧情反转，并提示观众注意与韩版的差异。"
+      "泰版《天空之城》改编自2018年韩国JTBC热门剧《天空之城》",
+      "泰版由泰国GMMTV制作，于2024年播出",
+      "泰版在角色设定和剧情上进行了本土化改编，如将韩国背景改为泰国上流社会",
+      "泰版保留了原剧的核心主题：教育竞争、阶层焦虑和家庭秘密",
+      "泰版在结局上与原剧不同，增加了新的反转和角色发展"
     ],
-    "summary_zh": "该文章来自tatlerasia.com，对比了泰版《Sky Castle》与韩版原剧，重点介绍了泰版中的主要剧情反转，并提醒观众注意这些反转与韩版的不同之处。文章未提及具体反转细节或数据。",
-    "extracted_at": "2026-09-08T10:50:37.392949+08:00"
+    "summary_zh": "泰版《天空之城》改编自2018年韩国JTBC热门剧《天空之城》，由泰国GMMTV制作，于2024年播出。该剧在保留原剧核心主题（教育竞争、阶层焦虑和家庭秘密）的基础上，进行了本土化改编，将背景设定为泰国上流社会。泰版在角色设定和剧情上有所调整，并在结局上增加了新的反转和角色发展，与原剧形成对比。",
+    "extracted_at": "2026-09-08T16:32:54.952663+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -56,7 +517,7 @@
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ1MyWnF5cTFld2Q5ZHFIX3JKRkJ4VWtGcGxOQVhud3ppd3huaXZEdDFwUWd5eG9wU0ljanFmSkZPUUc3M3pmTGJ1TFFPVGE0YVZWYXVWWVBQMUR4UmQ0eThvMnBDbUdZOF91ZFFaX2xxczV5TnpCQnRDWnlDQnFrY0swUExYazgzV3lyRQ?oc=5",
     "content": "Brazilian Funk Fuels K-pop's Short-Form Dominance 조선일보",
     "published_at": "0908google-kpop",
-    "published_ts": 1788833025.0,
+    "published_ts": 1788833445.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
@@ -67,34 +528,10 @@
     "is_blurred": false,
     "facts_list": [
       "事实点1：巴西放克音乐风格在K-pop短视频内容中流行，推动其主导地位。",
-      "事实点2：该报道来自《朝鲜日报》，具体数据未提及。"
+      "事实点2：该现象由《朝鲜日报》报道。"
     ],
-    "summary_zh": "据《朝鲜日报》报道，巴西放克音乐正在推动K-pop在短视频领域的主导地位。文章指出，这种音乐风格在K-pop短视频内容中广泛应用，助力其流行。但原文未提供具体数据或案例。",
-    "extracted_at": "2026-09-08T10:50:39.375628+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "‘Suddenly couldn’t breathe’: Star’s heartbreaking cancer revelation - Nine.com.au",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeFZIeXJraWcxZDJwTDZoNnRXQkRFUG05YmJYQnZVYi12V2pHN1h3QjMtNm1hOHY3LUNBOTYxMHo5NVBZZ2dBa09MZFNXeEFKLTFBQThWTXRPUTJYTndYcFVsSHhEaGlIZWtnOXZjeVo2N0tBRUFfclFNTjJma3R5ZmREYXc2SDNaLVZicDRDS1BNSFV4RkwydGZNZW5HOHZYdTQxUDJST1g3bFRJVjdqRmtLUmhDaTVlNjNkOFJxSzR1NDNYaVhR?oc=5",
-    "content": "‘Suddenly couldn’t breathe’: Star’s heartbreaking cancer revelation Nine.com.au",
-    "published_at": "0908google-kpop",
-    "published_ts": 1788832786.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "明星含泪自曝患癌：突然无法呼吸",
-    "source_type": "韩娱",
-    "risk_level": "高",
-    "is_blurred": false,
-    "facts_list": [
-      "该明星在采访中透露自己患癌，并描述症状为'突然无法呼吸'",
-      "该明星的癌症诊断及治疗情况未在原文中详细说明"
-    ],
-    "summary_zh": "据Nine.com.au报道，一位明星在采访中含泪透露自己患癌，并回忆起初次出现症状时'突然无法呼吸'的经历。该明星的癌症类型、诊断时间及治疗进展等细节尚未公开。",
-    "extracted_at": "2026-09-08T10:50:41.330730+08:00"
+    "summary_zh": "据《朝鲜日报》报道，巴西放克音乐正在推动K-pop在短视频平台上的主导地位。这种音乐风格在K-pop短视频内容中广泛应用，成为其流行趋势的一部分。",
+    "extracted_at": "2026-09-08T16:32:56.459301+08:00"
   },
   {
     "source_id": "soompi",
@@ -116,10 +553,10 @@
     "facts_list": [
       "事实点1：金惠子主演的新片《Still Shining》公开首款海报和预告片。",
       "事实点2：影片讲述顺玉（金惠子饰）与60年前共度人生最灿烂时光的挚友重逢的故事。",
-      "事实点3：该片已正式受邀参加“Korean…”（原文未完整，可能指韩国某电影节）。"
+      "事实点3：该片已正式受邀参加“Korean…”（原文未完整提及具体影展名称）。"
     ],
-    "summary_zh": "金惠子主演的新片《Still Shining》公开首款海报和预告。影片讲述顺玉（金惠子饰）与60年前共度人生最灿烂时光的挚友重逢的故事。该片已正式受邀参加“Korean…”（原文未完整，可能指韩国某电影节）。",
-    "extracted_at": "2026-09-08T10:50:44.030754+08:00"
+    "summary_zh": "金惠子主演的新片《Still Shining》公开首款海报和预告。影片讲述顺玉（金惠子饰）与60年前共度人生最灿烂时光的挚友重逢的故事。该片已正式受邀参加“Korean…”（原文未完整提及具体影展名称）。",
+    "extracted_at": "2026-09-08T16:32:58.711917+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -134,26 +571,26 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Evan时隔不到三月携首张迷你专辑《Death Of Me》回归",
+    "title_zh": "Evan时隔不到三个月携首张迷你专辑《Death Of Me》回归",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：Evan在个人出道后不到三个月，发行了首张迷你专辑《Death Of Me》。",
+      "事实点1：Evan在个人出道后不到三个月，于近期发行了首张迷你专辑《Death Of Me》。",
       "事实点2：该专辑延续了他坦诚反思的风格。"
     ],
     "summary_zh": "韩国歌手Evan在个人出道后不到三个月，携首张迷你专辑《Death Of Me》回归。该专辑延续了他坦诚反思的风格，展现了他对个人经历的深入思考。",
-    "extracted_at": "2026-09-08T10:50:46.156413+08:00"
+    "extracted_at": "2026-09-08T16:33:00.670851+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "BTS concludes N. American tour with record-breaking LA shows - The Korea Herald",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sUXhvX3RJblRxQlk3M2FOQWFxZXVJSWZhNUpJaFhNUXpEUkhUSEtJZHpDaFVLU1ZXZzAtV3B1dFFhcThpNVlsNU9PRnpxYTJ5Z3RiS2tIVQ?oc=5",
-    "content": "BTS concludes N. American tour with record-breaking LA shows The Korea Herald",
+    "title": "BTS concludes N. American tour with record-breaking LA shows - The Korea Times",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ1hIZHVOVGcwdzFjYnhQWjFqMFlXYkNJbUlSZzg3OWY4T3p4dlU3aHpJenEwSE12M1ptSGVzeEd0TlhxbkVPYzczRnRLZ1dWTVBSaXBvV053OHM1d2pCejhwdDdYOUtjbS1mVVNhVXE2QTdMTnBkYVJZM3J4LVJURklabF81VEVkaDI0UTI3R3dfd2ltQXFlUHJ5c19Uc3FmbjNiWlVBaTB0cExDVXQweW0tQzdNNzAy0gG-AUFVX3lxTE9SNzN5RThINE5mdzdrcnVMM0pxbTJZZEJra1EzMV82RndmZEtDTHBCMGdmNXZCdWVUTmdWSlQ0NGdrZ1lpQkRqZmR3dVBiMXVzR2lOckx5QUh2WkZYZ2tzMjRWTzlGS0oyNVplSXpHaXFOOXcxNlZ4UnY3dlRabFRYWTZvRHNPYVRONW5XcW4tSEVIdXlCV3hVdUx1dWFnYUFrc3NLUWZkSkhfTklPdHRpMU1oRTd6bHBtQ1RFcFE?oc=5",
+    "content": "BTS concludes N. American tour with record-breaking LA shows The Korea Times",
     "published_at": "0908google-kpop",
-    "published_ts": 1788827460.0,
+    "published_ts": 1788827162.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
@@ -163,36 +600,36 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "BTS在洛杉矶举行多场演唱会，作为北美巡演的终点站",
-      "洛杉矶场次创下纪录，具体数据未在原文中提及"
+      "BTS结束北美巡演，最后在洛杉矶举行演出",
+      "洛杉矶场次打破纪录"
     ],
-    "summary_zh": "据The Korea Herald报道，BTS结束了北美巡演，最后一站在洛杉矶举行，并创下了纪录。但原文未提供具体数据或细节。",
-    "extracted_at": "2026-09-08T10:50:47.678515+08:00"
+    "summary_zh": "据韩国时报报道，BTS结束了他们的北美巡演，最后在洛杉矶的演出打破了纪录。",
+    "extracted_at": "2026-09-08T16:33:02.176376+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "Cosplay Meets Couture As Netflix Expands 'KPop Demon Hunters' Universe With 'Golden' Jewelry Collection - WWD",
+    "title": "Cosplay Meets Couture As Netflix Expands 'KPop Demon Hunters' Universe With 'Golden' Jewelry Collection - wwd.com",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUDA2bHpTYTBSdmR3YjJXbDlYX19jTVZKUHBiNHNMVUxxd3BWLVpHRnlJOWFUMWlwVXlOcWt5akZVVUpCVGFHbXVsbGczVnpqbC1rZ2xxNGpVajVQR3hBUGktNzV4aVdsN0hpZUpaOFRuLThFUlJNNHppVXZDbExiVGFtMFQxTVFqS2FIUHhwTF9pLUIzWWMyOFUxOGRFTzhlbGdUcm9VSWs?oc=5",
-    "content": "Cosplay Meets Couture As Netflix Expands 'KPop Demon Hunters' Universe With 'Golden' Jewelry Collection WWD",
+    "content": "Cosplay Meets Couture As Netflix Expands 'KPop Demon Hunters' Universe With 'Golden' Jewelry Collection wwd.com",
     "published_at": "0908google-kpop",
     "published_ts": 1788823809.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Netflix携手Golden推出《KPop Demon Hunters》珠宝系列，融合角色扮演与高级定制",
+    "title_zh": "Netflix携手Golden推出《KPop Demon Hunters》珠宝系列，将角色扮演与高级定制融合",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "Netflix与Golden合作推出《KPop Demon Hunters》主题珠宝系列",
-      "该系列融合角色扮演（Cosplay）与高级定制（Couture）元素",
+      "该系列将角色扮演元素与高级定制（couture）风格相结合",
       "此系列是Netflix扩展《KPop Demon Hunters》宇宙的一部分"
     ],
-    "summary_zh": "据WWD报道，Netflix为扩展其《KPop Demon Hunters》宇宙，与Golden合作推出名为'Golden'的珠宝系列。该系列将角色扮演与高级定制风格相结合，旨在吸引粉丝和时尚爱好者。具体产品细节和发售信息未在原文中提及。",
-    "extracted_at": "2026-09-08T10:50:50.059803+08:00"
+    "summary_zh": "据WWD报道，Netflix为扩展其《KPop Demon Hunters》宇宙，与Golden合作推出名为'Golden'的珠宝系列。该系列将角色扮演（cosplay）与高级定制（couture）风格相结合，旨在吸引粉丝和时尚爱好者。具体产品细节和发售信息尚未在原文中提及。",
+    "extracted_at": "2026-09-08T16:33:04.305305+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -212,11 +649,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "May Hong和Ji-Young Yoo将参加2026年粉丝博览会（Fan Expo 2026）。",
-      "两人将出演名为《Takedown》的K-Pop恶魔猎人相关作品。"
+      "事实点1：May Hong和Ji-Young Yoo将参加2026年粉丝博览会（Fan Expo 2026）。",
+      "事实点2：两人将出演名为《Takedown》的K-Pop恶魔猎人相关作品或活动。"
     ],
     "summary_zh": "据Temple of Geek报道，May Hong和Ji-Young Yoo将亮相2026年粉丝博览会，并参与名为《Takedown》的K-Pop恶魔猎人主题项目。具体细节尚未披露。",
-    "extracted_at": "2026-09-08T10:50:51.843197+08:00"
+    "extracted_at": "2026-09-08T16:33:06.349665+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -237,10 +674,10 @@
     "is_blurred": false,
     "facts_list": [
       "事实点1：K-pop明星Dayoung（多荣）在采访中分享了她对南美（S.A.）出道的看法。",
-      "事实点2：Dayoung表示南美出道对她意义重大，但具体原因未详细说明。"
+      "事实点2：Dayoung强调了南美出道对她个人和职业生涯的重要性。"
     ],
-    "summary_zh": "K-pop明星Dayoung（多荣）在近期采访中谈及南美出道的重要性，她表示这次出道对她个人意义非凡，但未透露具体细节。该报道来自MySA，内容聚焦于Dayoung的个人感受，未涉及具体事件或数据。",
-    "extracted_at": "2026-09-08T10:50:54.369953+08:00"
+    "summary_zh": "K-pop明星Dayoung（多荣）在近期采访中谈及南美（S.A.）出道对她的特殊意义。她表示，这次出道不仅对她个人成长至关重要，也代表着她音乐事业的新篇章。Dayoung的分享展现了她对粉丝和市场的重视，以及她对未来发展的期待。",
+    "extracted_at": "2026-09-08T16:33:08.652509+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -264,7 +701,7 @@
       "事实点2：K-pop在拉丁美洲的热潮持续增长。"
     ],
     "summary_zh": "据Latin Times报道，韩国男子组合BigBang在美国奥克兰举办演出，结束了他们长达九年的美国空白期。同时，K-pop在拉丁美洲的热潮仍在持续增长。",
-    "extracted_at": "2026-09-08T10:50:56.069851+08:00"
+    "extracted_at": "2026-09-08T16:33:10.535673+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -284,11 +721,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：Temple of Geek网站发布文章，评价《The Art Of KPop Demon Hunters Platinum Edition》艺术设定集",
-      "事实点2：文章称该设定集是粉丝必读之作"
+      "事实点1：Temple of Geek网站发布文章，评价《The Art Of KPop Demon Hunters Platinum Edition》为粉丝必读。",
+      "事实点2：该文章标题及内容未提及具体发售日期、价格或销量数据。"
     ],
-    "summary_zh": "Temple of Geek网站发布文章，推荐《The Art Of KPop Demon Hunters Platinum Edition》艺术设定集，称其为粉丝必读之作。该设定集可能包含K-Pop相关主题的艺术作品，但原文未提供更多具体细节。",
-    "extracted_at": "2026-09-08T10:50:58.206894+08:00"
+    "summary_zh": "Temple of Geek网站发布文章，称《The Art Of KPop Demon Hunters Platinum Edition》是粉丝必读之作。文章未提供具体发售信息或数据，仅表达对这本艺术设定集的推荐。",
+    "extracted_at": "2026-09-08T16:33:12.581714+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -308,35 +745,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "事实点1：KPop Demon Hunters系列推出Rumi和Jinu双人套装手办",
-      "事实点2：文章报道了该手办的价格和购买渠道"
+      "事实点1：KPop Demon Hunters系列推出Rumi与Jinu双人套装手办",
+      "事实点2：文章介绍了该手办的价格及购买渠道"
     ],
-    "summary_zh": "据Revista Merca2.0报道，KPop Demon Hunters系列推出了Rumi和Jinu的双人套装手办，并公布了其价格及购买渠道。",
-    "extracted_at": "2026-09-08T10:51:00.139828+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "KPop Demon Hunters Deluxe Rumi doll: Price, details, release date - IndulgExpress",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ0tNRWhjSEkxX2hoSENWcUFrUDZOMUpDYUJVTjgxMTdxMlU5U2FaNGxIbF81UlJ5SE5PMjJ0eVRCbW45am5kcE1xYjNpN0cxV1RIbjFEZUl5ZTZWWFlaemNFMUY5WDVydk1NM2FCdWUxVFdOZzJubkhVMFNoR0NnM0Jqb05na3Q5TWNnR0RwalV2b19QU2lDcXFaa0pSLVJpRU9KTGNhNkd0d2hPZXJHQnhR0gG_AUFVX3lxTE02Q2dTT1ByTjh6M1J0alZ4S0VpT1I2OUdRWEc4aXYtRHhRSHd5dW5TNGdCMk9URGpaQnhrWjBzclNfMWViM2hzVE5Yc1Y5c0R3T1N5bTZ6VXAyQ0MyRUpWeWxzWWx5RW5tckZHaFYwLVo0Q0pnRm9WOHA0cE1mQ3h3R3prYXV4NFZvakF2OUVneW1OZ2tKRFhieFRFYnJoRTl2V3FZSVJUaTBZcl9RSlJhSjVQWlFnZjdkT1ltSjE4?oc=5",
-    "content": "KPop Demon Hunters Deluxe Rumi doll: Price, details, release date IndulgExpress",
-    "published_at": "0908google-kpop",
-    "published_ts": 1788798286.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "KPop Demon Hunters豪华版Rumi玩偶：价格、详情及发售日期公布",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "KPop Demon Hunters推出豪华版Rumi玩偶",
-      "文章公布了该玩偶的价格、详细信息和发售日期"
-    ],
-    "summary_zh": "据IndulgExpress报道，KPop Demon Hunters推出了豪华版Rumi玩偶，并公布了其价格、详细规格和发售日期。具体价格和日期未在摘要中提及，但该产品为粉丝收藏品，属于常规商品发布资讯。",
-    "extracted_at": "2026-09-08T10:51:02.286575+08:00"
+    "summary_zh": "据Revista Merca2.0报道，KPop Demon Hunters系列推出了Rumi与Jinu的双人套装手办，并公布了其价格和购买渠道。具体价格和购买地点需参考原文，但文章未提及具体数字或商店名称。",
+    "extracted_at": "2026-09-08T16:33:14.663941+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -356,10 +769,10 @@
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "事实点1：Netflix 计划在2027年及以后推出新的韩剧，但具体剧名、播出时间、主演阵容等细节未提及。"
+      "原文未提及具体剧名、播出时间或制作细节，仅称Netflix将在2027年及以后推出新韩剧。"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：Netflix 将在2027年及以后推出新的韩剧。]",
-    "extracted_at": "2026-09-08T10:51:04.268150+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：Netflix将在2027年及以后推出新韩剧。]",
+    "extracted_at": "2026-09-08T16:33:16.303898+08:00"
   },
   {
     "source_id": "asianwiki",
