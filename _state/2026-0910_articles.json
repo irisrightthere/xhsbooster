@@ -1,5 +1,404 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "MELAI IN K-DRAMA? 🇰🇷❤️ Disney+ Philippines unveiled a new campaign with Melai Cantiveros for several highly anticipated upcoming K-drama series, including “The Remarried Empress,” “Moving,” “A Shop for Killers,” “Made in Korea 2,” and “Flex X Cop.” - facebook.com",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYmZieWNFZlhEMGxqYjJWb0prVmh3M19wWmdJeHp2WjUydkNqRVoxYXN2ZGMzdXNobTlETDhXU1VLaXFNZk1LSUJycFNoLXo3YXFzRE5XVTNtY2RpTm5oMVc5ZFdoejFZYWwzNWVHN1JPQjhnUDNEcUxYTElqNl9qdzQyVVNCbFE4cFhPVkdYb0VrQnpIOWZfUVVwOG1PaFM1S0tPT1BHSmdrWTdhbDJkY3VYY3E4X2daSkZCUm1WV2d3NWgwcHZOblZERmU3Ulo3bUNrUHROdk15R1NmQjRRYVV3?oc=5",
+    "content": "MELAI IN K-DRAMA? 🇰🇷❤️ Disney+ Philippines unveiled a new campaign with Melai Cantiveros for several highly anticipated upcoming K-drama series, including “The Remarried Empress,” “Moving,” “A Shop for Killers,” “Made in Korea 2,” and “Flex X Cop.” facebook.com",
+    "published_at": "0910google-kpop",
+    "published_ts": 1789028876.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Disney+菲律宾携手Melai Cantiveros推广《再婚皇后》等多部韩剧",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Disney+ 菲律宾公开了与 Melai Cantiveros 合作的新宣传活动",
+      "宣传涉及多部即将上线的韩剧：《再婚皇后》（The Remarried Empress）、《Moving》、《杀人者的购物中心》（A Shop for Killers）、《Made in Korea 2》、《Flex X Cop》",
+      "信息来源为 facebook.com"
+    ],
+    "summary_zh": "Disney+ 菲律宾宣布与菲律宾艺人 Melai Cantiveros 合作推出全新宣传活动，推广多部即将上线的韩剧，包括《再婚皇后》、《Moving》、《杀人者的购物中心》、《Made in Korea 2》以及《Flex X Cop》。",
+    "extracted_at": "2026-09-10T16:36:29.400888+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "3 Reasons To Anticipate Kim Ji Won’s Upcoming Drama “Doctor X”",
+    "url": "https://www.soompi.com/article/1869397wpp/3-reasons-to-anticipate-kim-ji-wons-upcoming-drama-doctor-x",
+    "content": "SBS’s upcoming Friday-Saturday drama “Doctor X” is gearing up for its highly-anticipated release! Based on the hit Japanese series of the same name, “Doctor X” is a medical noir drama that follows “Doctor X” Gye Soo Jung (Kim Ji Won), a genius surgeon who proves what it truly means to be a doctor through pure&#8230; Continue reading 3 Reasons To Anticipate Kim Ji Won’s Upcoming Drama “Doctor X”\nThe post 3 Reasons To Anticipate Kim Ji Won’s Upcoming Drama “Doctor X” appeared first on Soompi.",
+    "published_at": "0910soompi",
+    "published_ts": 1789028121.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "金智媛新剧《Doctor X》三大看点：改编自同名日剧，天才外科医生医疗黑色剧",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "SBS 即将播出的金土剧《Doctor X》改编自同名热门日剧",
+      "该剧为医疗黑色题材，主角为天才外科医生桂秀贞（金智媛 饰）",
+      "剧集通过主角展现真正医生的意义",
+      "原文未提及具体首播日期、收视率或具体奖项数据"
+    ],
+    "summary_zh": "SBS 金土剧《Doctor X》即将播出，该剧改编自同名热门日剧，是一部医疗黑色题材作品。金智媛在剧中饰演天才外科医生桂秀贞，通过角色展现真正医生的意义。原文仅列出三大看点，未提供具体播出日期、收视数据或制作细节。",
+    "extracted_at": "2026-09-10T16:36:31.932639+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "KPOP Price: KPOP Live Price Today | KPOP Market Cap & Chart Analysis - Bybit",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LMHhUU1NRZGctcWdpS0huSmkwY2JSX1MtSGJURHE0cUpEODRocUFRNWczamxCU2h5am5GTnpkTFExckxwbkdlV0U0RlRtOGc?oc=5",
+    "content": "KPOP Price: KPOP Live Price Today | KPOP Market Cap & Chart Analysis Bybit",
+    "published_at": "0910google-kpop",
+    "published_ts": 1789028017.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Bybit 平台 KPOP 代币实时价格与市值图表分析",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及 Bybit 平台上的 KPOP 代币实时价格、市值及图表分析，未提供具体价格、市值数字或分析结论"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：KPOP 代币实时价格、市值与图表分析（Bybit）]",
+    "extracted_at": "2026-09-10T16:36:33.422854+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-star Spotlight: Meet Ryu Jun-yeol, K-town’s fresh psycho-thriller ace - t2ONLINE",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYlluRXpIb010Xzl6SmlpWWRldlJzU2tWMkJFYjRLVHBOMUJBNVBGWC1TQkdfMGdEaGliajlTR0xlcW1ZMS1tb0hMR3hKc2NHQmNWdzNUWVpLTjFTaDhYVXBsOWVPcHdBdURMR3MyQnVPSk9OT2R0VlNJNVJQc1NMX0Jqamh3dmdKUXc5YWk5NGN2UzFhVHFrSk9McHhrX1dYS1B0TnIxMXc1RWozaHBFT0lTUkU?oc=5",
+    "content": "K-star Spotlight: Meet Ryu Jun-yeol, K-town’s fresh psycho-thriller ace t2ONLINE",
+    "published_at": "0910google-kpop",
+    "published_ts": 1789027740.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "韩星聚焦：柳俊烈成为韩式心理惊悚片新晋王牌",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文标题：K-star Spotlight: Meet Ryu Jun-yeol, K-town's fresh psycho-thriller ace - t2ONLINE",
+      "原文正文内容与标题完全重复，未提供任何额外具体事实"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：韩星聚焦——认识一下柳俊烈，韩式心理惊悚片的新晋王牌]",
+    "extracted_at": "2026-09-10T16:36:35.080017+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Bhangra, K-pop, step and stroll: students showcase multicultural talents at MCOR - The Daily Cardinal",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb1ZEd3pSQldWUzdjdTRCRXFJaEtmRVgzdVFiWkpTX0lEX3VEVjFUblhaM3lYTTJTajEyNlBhRU9fSjV6T3pva1VNYzhIcHhkSTE1dWZ6MjdCVWpYRHFSWUxOWDE5eEhPZG5nUHMwVUlTbF9vWmtDRmhRdnR5d2cyUnZFQkhwR0FtNnJTcjB3RFVGd3pyZWJZSGZZVllmUl9CSzE3M3pLeXZrcmJUaTVVTVJyZERKYU1uckdBVTNYdU4?oc=5",
+    "content": "Bhangra, K-pop, step and stroll: students showcase multicultural talents at MCOR The Daily Cardinal",
+    "published_at": "0910google-kpop",
+    "published_ts": 1789027200.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "威斯康星大学MCOR活动：学生展示Bhangra、K-pop、Step和Stroll等多元文化才艺",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及学生展示Bhangra、K-pop、Step和Stroll等多元文化才艺，未提供具体时间、地点、表演者姓名或活动细节"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：Bhangra, K-pop, step and stroll: students showcase multicultural talents at MCOR]",
+    "extracted_at": "2026-09-10T16:36:36.478990+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Seo Hyun Woo, Oh Dae Hwan, And More Are Taken Aback By Lee Jun Hyuk’s Sudden Outburst In “The Ordinary Jackpot”",
+    "url": "https://www.soompi.com/article/1869495wpp/seo-hyun-woo-oh-dae-hwan-and-more-are-taken-aback-by-lee-jun-hyuks-sudden-outburst-in-the-ordinary-jackpot",
+    "content": "TVING’s upcoming drama “The Ordinary Jackpot” has shared new stills ahead of its premiere today! Based on the webtoon of the same name, “The Ordinary Jackpot” tells the story of Gong Eun Tae (Lee Jun Hyuk), an ordinary sales employee who wins the lottery jackpot. Instead of quitting his job, Gong Eun Tae returns to&#8230; Continue reading Seo Hyun Woo, Oh Dae Hwan, And More Are Taken Aback By Lee Jun Hyuk’s Sudden Outburst In “The Ordinary Jackpot”\nThe post Seo Hyun Woo, Oh Dae Hwan, And More Are Taken Aback By Lee Jun Hyuk’s Sudden Outburst In “The Ordinary Jackpot” appeared first on Soompi.",
+    "published_at": "0910soompi",
+    "published_ts": 1789026620.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《平凡的彩票》今日首播 李准赫突发暴怒令徐贤宇吴大焕等人震惊",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "TVING 新剧《平凡的彩票》于今日（原文发布日）首播",
+      "该剧改编自同名网络漫画",
+      "剧情讲述普通销售职员孔恩泰（李准赫 饰）中得彩票头奖后并未辞职而是重返职场的故事",
+      "制作方在首播前公开了新剧照",
+      "剧照内容为李准赫饰演的角色突然爆发情绪，徐贤宇、吴大焕等角色表现出震惊反应"
+    ],
+    "summary_zh": "TVING 新剧《平凡的彩票》今日首播，制作方在开播前公开了新剧照。该剧改编自同名网络漫画，讲述普通销售职员孔恩泰（李准赫 饰）中得彩票头奖后并未辞职、而是选择重返职场的故事。最新剧照展示了李准赫角色突然情绪爆发的场面，徐贤宇、吴大焕等周围角色对此表现出震惊反应。",
+    "extracted_at": "2026-09-10T16:36:38.696249+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Ryu Hye Young And Nam Yoon Su’s Upcoming Thriller Film “Killing Time” Confirms October Premiere",
+    "url": "https://www.soompi.com/article/1869504wpp/ryu-hye-young-and-nam-yoon-sus-upcoming-thriller-film-killing-time-confirms-october-premiere",
+    "content": "Ryu Hye Young and Nam Yoon Su’s upcoming film “Killing Time” has confirmed its October release and unveiled a new poster! “Killing Time” is a thriller about an internet broadcasting crew called “Killing Time” that gains popularity with sensational content, only to face a tragic incident when one of its members dies during a live&#8230; Continue reading Ryu Hye Young And Nam Yoon Su’s Upcoming Thriller Film “Killing Time” Confirms October Premiere\nThe post Ryu Hye Young And Nam Yoon Su’s Upcoming Thriller Film “Killing Time” Confirms October Premiere appeared first on Soompi.",
+    "published_at": "0910soompi",
+    "published_ts": 1789025787.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "柳惠英南润寿主演惊悚片《Killing Time》定档10月并公开新海报",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "柳惠英与南润寿主演的电影《Killing Time》确认将于10月上映",
+      "影片公开了新海报",
+      "《Killing Time》是一部惊悚片，讲述名为“Killing Time”的网络直播团队通过煽情内容获得人气，随后在直播中一名成员死亡而遭遇悲剧事件"
+    ],
+    "summary_zh": "柳惠英与南润寿主演的惊悚电影《Killing Time》确定于10月上映，并发布了新海报。影片围绕一个名为“Killing Time”的网络直播团队展开，该团队因煽情内容走红，却在一次直播中因一名成员死亡而陷入悲剧。",
+    "extracted_at": "2026-09-10T16:36:40.463765+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kim Garam Unveils New Profile Photos Ahead Of Acting Debut",
+    "url": "https://www.soompi.com/article/1869486wpp/kim-garam-unveils-new-profile-photos-ahead-of-acting-debut",
+    "content": "Kim Garam has unveiled new profile photos. On September 10, Kim Garam’s agency Management KOO released her new profile photos. According to her agency, Kim Garam has been steadily honing her skills as she works toward her new goal of becoming an actress. Going beyond a simple image transformation, the agency shared that she has&#8230; Continue reading Kim Garam Unveils New Profile Photos Ahead Of Acting Debut\nThe post Kim Garam Unveils New Profile Photos Ahead Of Acting Debut appeared first on Soompi.",
+    "published_at": "0910soompi",
+    "published_ts": 1789023459.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "金佳蓝公开新简历照，转型演员出道在即",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "2024年9月10日，金佳蓝所属社Management KOO公开了她的新简历照",
+      "所属社表示金佳蓝正朝着成为演员的新目标稳步打磨自身技能",
+      "所属社称此次不仅是简单的形象转变"
+    ],
+    "summary_zh": "9月10日，金佳蓝所属社Management KOO公开了她的全新简历照。所属社表示，金佳蓝正以成为演员为新目标，持续打磨自身能力，并称此次公开不仅是单纯的形象转变。原文未披露更多具体细节。",
+    "extracted_at": "2026-09-10T16:36:42.896616+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "New Comedy Film Starring Lee Sun Bin, Park Ji Hwan, Bae Hyeon Seong, And More Shares First Look",
+    "url": "https://www.soompi.com/article/1869424wpp/new-comedy-film-starring-lee-sun-bin-park-ji-hwan-bae-hyeon-seong-and-more-shares-first-look",
+    "content": "The upcoming comedy film “The Taste of Prison” (literal translation) has wrapped up filming and is now entering the final stages of production! On September 10, the production team announced that filming officially concluded on September 5 after approximately two months of production. “The Taste of Prison” is a comedy film that follows the cheerful&#8230; Continue reading New Comedy Film Starring Lee Sun Bin, Park Ji Hwan, Bae Hyeon Seong, And More Shares First Look\nThe post New Comedy Film Starring Lee Sun Bin, Park Ji Hwan, Bae Hyeon Seong, And More Shares First Look appeared first on Soompi.",
+    "published_at": "0910soompi",
+    "published_ts": 1789021561.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "李善彬、朴智焕、裴贤圣主演喜剧电影《监狱的味道》杀青并公开首波剧照",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "电影《监狱的味道》（直译）于9月5日正式杀青，拍摄历时约两个月",
+      "制作方于9月10日公布杀青消息，并宣布影片进入后期制作最后阶段",
+      "该片为喜剧类型，主演包括李善彬、朴智焕、裴贤圣等",
+      "制作方同时公开了影片的首波剧照"
+    ],
+    "summary_zh": "韩国喜剧电影《监狱的味道》（直译）已于9月5日结束拍摄，历时约两个月，制作方于9月10日宣布杀青并进入后期制作最后阶段。该片由李善彬、朴智焕、裴贤圣等主演，是一部喜剧类型作品，制作方同时公开了首波剧照。",
+    "extracted_at": "2026-09-10T16:36:45.363749+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Park Jinyoung Closes The Distance With Kim You Jung In New Drama “100 Days Of Deception” Poster",
+    "url": "https://www.soompi.com/article/1869437wpp/park-jinyoung-closes-the-distance-with-kim-you-jung-in-new-drama-100-days-of-deception-poster",
+    "content": "tvN’s upcoming drama “100 Days of Deception” has unveiled a new poster! Helmed by director Yoo In Shik of “Extraordinary Attorney Woo” and the “Dr. Romantic” series, “100 Days of Lies” is a period spy romance set over 100 days during the Japanese occupation of Korea. The drama will follow the story of Lee Ga&#8230; Continue reading Park Jinyoung Closes The Distance With Kim You Jung In New Drama “100 Days Of Deception” Poster\nThe post Park Jinyoung Closes The Distance With Kim You Jung In New Drama “100 Days Of Deception” Poster appeared first on Soompi.",
+    "published_at": "0910soompi",
+    "published_ts": 1789021385.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "朴珍荣金裕贞主演tvN新剧《100天的谎言》公开新海报",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "tvN新剧《100天的谎言》公开新海报",
+      "该剧由《非常律师禹英禑》及《浪漫医生金师傅》系列导演刘仁植执导",
+      "剧集为日据时期背景的间谍爱情剧，故事发生在100天内",
+      "主演为朴珍荣与金裕贞",
+      "剧情围绕主角李佳（音译）展开"
+    ],
+    "summary_zh": "tvN新剧《100天的谎言》公开新海报，主演朴珍荣与金裕贞亮相。该剧由《非常律师禹英禑》及《浪漫医生金师傅》系列导演刘仁植执导，是一部以日本殖民统治时期为背景、跨越100天的间谍爱情剧，剧情围绕主角李佳（音译）展开。",
+    "extracted_at": "2026-09-10T16:36:47.430498+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Jeon Do Yeon, Park Hae Soo, Kim Sun Young, Kim Geum Soon, And More Confirmed For New Drama",
+    "url": "https://www.soompi.com/article/1869390wpp/jeon-do-yeon-park-hae-soo-kim-sun-young-kim-geum-soon-and-more-confirmed-for-new-drama",
+    "content": "Jeon Do Yeon, Park Hae Soo, Kim Sun Young, Kim Geum Soon, and more are teaming up for tvN’s upcoming drama “The Great Bang Ok Sook” (literal translation)! “The Great Bang Ok Sook” depicts a battle for survival between a “gangster-like” apartment residents’ association that is deeply invested in housing prices and a “real gangster”&#8230; Continue reading Jeon Do Yeon, Park Hae Soo, Kim Sun Young, Kim Geum Soon, And More Confirmed For New Drama\nThe post Jeon Do Yeon, Park Hae Soo, Kim Sun Young, Kim Geum Soon, And More Confirmed For New Drama appeared first on Soompi.",
+    "published_at": "0910soompi",
+    "published_ts": 1789021308.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "全度妍、朴海秀、金善映、金锦顺等确认出演tvN新剧《伟大的方玉淑》",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "全度妍、朴海秀、金善映、金锦顺等演员确认出演tvN新剧《伟大的方玉淑》（直译）",
+      "该剧讲述一个‘黑帮般’、深度介入房价的公寓居民协会与‘真正的黑帮’之间的生存斗争"
+    ],
+    "summary_zh": "全度妍、朴海秀、金善映、金锦顺等演员将合作出演tvN新剧《伟大的方玉淑》（直译）。该剧描绘了一个‘黑帮般’、对房价高度关注的公寓居民协会与‘真正的黑帮’之间的生存之战。",
+    "extracted_at": "2026-09-10T16:36:49.001996+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "First Impressions: Rivals Don’t Know They’re In Love In Thai BL “Match Point”",
+    "url": "https://www.soompi.com/article/1868767wpp/first-impressions-rivals-dont-know-theyre-in-love-in-thai-bl-match-point",
+    "content": "New Thai BL “Match Point” is about the heated rivalry between a star tennis player and a talented art student. They’re on different paths, but their endless efforts to one-up each other eventually land them on the same tennis court, competing against each other. Be ready to be the only one in the room who&#8230; Continue reading First Impressions: Rivals Don’t Know They’re In Love In Thai BL &#8220;Match Point&#8221;\nThe post First Impressions: Rivals Don’t Know They’re In Love In Thai BL &#8220;Match Point&#8221; appeared first on Soompi.",
+    "published_at": "0910soompi",
+    "published_ts": 1789021088.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "泰剧《Match Point》首印象：对手不知自己已坠入爱河",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文提及新泰剧《Match Point》讲述一名明星网球选手与一名才华横溢的美术生之间的激烈竞争",
+      "两人道路不同，但不断争胜最终让他们站上同一片网球场对决",
+      "原文未提及具体播出时间、平台、演员阵容或收视数据"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：新泰剧《Match Point》讲述一名明星网球选手与一名才华横溢的美术生之间的激烈竞争，两人不断争胜最终站上同一片网球场对决]",
+    "extracted_at": "2026-09-10T16:36:50.710998+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Rescene becomes first K-pop group named honorary citizens of Geoje - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE14MllubGVmZkt1elVURVFKVHNXVXBaNDliOHNSRzJ4ZWNxdUR0OGRqMlRuT0V2LXV3X1VLOWktcUdRM29jQkh0cEVmak5EMXU5ZTZ4WXk0aw?oc=5",
+    "content": "Rescene becomes first K-pop group named honorary citizens of Geoje The Korea Herald",
+    "published_at": "0910google-kpop",
+    "published_ts": 1789018440.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Rescene 成为首个获巨济市荣誉市民称号的 K-pop 组合",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "据《韩国先驱报》报道，K-pop 组合 Rescene 被授予韩国巨济市荣誉市民称号。",
+      "Rescene 是首个获得巨济市荣誉市民称号的 K-pop 组合。"
+    ],
+    "summary_zh": "据《韩国先驱报》报道，K-pop 组合 Rescene 被授予韩国巨济市荣誉市民称号，成为首个获此称号的 K-pop 组合。",
+    "extracted_at": "2026-09-10T16:36:52.267014+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-pop Powerhouses Are Officially Eyed for Historic 2027 Grammy Nods! - dojeonmedia.com",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb3RnOGppR2ctSC1mVlNOTDI4M2V5UFhfWTZndFNyNHRzbXpLNTVpSzZSWDVqaHFFM2tsTWRkbEQ0R1ZOb3JndVZnQVdJMEV4YS13UWl2blFuRzlOZG9Xdl81ZzBZU0drR2pyZ3VIZGhab0pnTnhHbkFBM050Nkx0NXBBV1F4VjZCMk9DcjRzQ2hZZEhaeDZpWEF2WG5Gc3FIVmc?oc=5",
+    "content": "K-pop Powerhouses Are Officially Eyed for Historic 2027 Grammy Nods! dojeonmedia.com",
+    "published_at": "0910google-kpop",
+    "published_ts": 1789016430.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "K-pop 组合被预测有望入围 2027 年格莱美奖提名",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅称 K-pop 强势艺人被正式视为 2027 年格莱美奖提名的历史性候选对象",
+      "原文未提及具体组合名称、提名类别、预测依据或任何具名来源"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：K-pop 强势艺人被正式视为 2027 年格莱美奖提名的历史性候选对象]",
+    "extracted_at": "2026-09-10T16:36:53.994451+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Foreign students in Korea surpass 500,000 for first time as K-pop, K-dramas drive demand - Korea JoongAng Daily",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMUx4Q2t6emFuaUlFQ2l5YWpVWG9fb3V1SHFvMl9ERHpWQkdEMnBqTDU1R0lGT0twRHhna202ckJVLVR3Z1Etc3d3anBsaWI2R2tsdTU5SlB5VG9rVXN5NU9objgxOFFkYlJQUmFZaVFrVFlFX1c2TVZtczlSVTVOSzV3blBQQThVbFA3VlZPN3pOMmRvc3I0RlRZeC1tVmYwOThrUnlZcDk0Z2NoLTZfbC1nQ0lzbVo1VVUyc1llQW1CUFEyQmdzOXdjS3NEbk0?oc=5",
+    "content": "Foreign students in Korea surpass 500,000 for first time as K-pop, K-dramas drive demand Korea JoongAng Daily",
+    "published_at": "0910google-kpop",
+    "published_ts": 1789010029.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "在韩外国留学生首破50万，K-pop与韩剧带动需求增长",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "在韩外国留学生人数首次突破50万",
+      "K-pop与韩剧被指为带动留学需求的因素",
+      "来源为韩国《中央日报》（Korea JoongAng Daily）"
+    ],
+    "summary_zh": "据韩国《中央日报》报道，在韩外国留学生人数首次突破50万。报道指出，K-pop与韩剧的流行带动了外国学生对韩国留学需求的增长。",
+    "extracted_at": "2026-09-10T16:36:55.434694+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Chae Soo Bin And Kim Young Kwang Find That They Need Each Other In New Rom-Com “Take Charge Of My Heart” Teaser",
+    "url": "https://www.soompi.com/article/1869398wpp/watch-chae-soo-bin-and-kim-young-kwang-find-that-they-need-each-other-in-new-rom-com-take-charge-of-my-heart-teaser",
+    "content": "Netflix&#8217;s upcoming rom-com &#8220;Take Charge of My Heart&#8221; has released new teasers! Based on the web novel of the same name, “Take Charge of My Heart” is an electrifying romantic comedy about a man whose artificial heart is running out of battery and a woman with the unique power to recharge him. Kim Young Kwang&#8230; Continue reading Watch: Chae Soo Bin And Kim Young Kwang Find That They Need Each Other In New Rom-Com &#8220;Take Charge Of My Heart&#8221; Teaser\nThe post Watch: Chae Soo Bin And Kim Young Kwang Find That They Need Each Other In New Rom-Com &#8220;Take Charge Of My Heart&#8221; Teaser appeared first on Soompi.",
+    "published_at": "0910soompi",
+    "published_ts": 1789008892.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "蔡秀彬与金英光新剧《Take Charge of My Heart》预告公开，两人发现彼此需要",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Netflix 新剧《Take Charge of My Heart》发布新预告",
+      "该剧改编自同名网络小说",
+      "剧情讲述一名人工心脏电量即将耗尽的男人与一名拥有充电能力的女人之间的浪漫喜剧",
+      "主演为蔡秀彬与金英光"
+    ],
+    "summary_zh": "Netflix 新剧《Take Charge of My Heart》公开新预告。该剧改编自同名网络小说，是一部浪漫喜剧，讲述一名人工心脏电量即将耗尽的男人与一名拥有独特充电能力的女人之间的故事。主演为蔡秀彬与金英光，预告中展现两人发现彼此需要对方。",
+    "extracted_at": "2026-09-10T16:36:57.245627+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -12,7 +411,7 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《Dive into You》发布新预告与角色海报，金智妍与张世赫灵魂互换搅乱朴叙涵",
+    "title_zh": "《Dive into You》发布新预告与角色海报，金智妍与张世赫灵魂互换搅乱朴叙含",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
@@ -20,58 +419,35 @@
       "9月10日，Channel A 公开了《Dive into You》的新预告和单人角色海报",
       "《Dive into You》是一部奇幻爱情剧，由宇宙少女成员金智妍（Bona）饰演顶级女演员尹荷娜",
       "尹荷娜在剧中意外与他人发生灵魂互换",
-      "预告中双胞胎金智妍与张世赫因灵魂互换给朴叙涵饰演的角色带来混乱"
+      "张世赫与金智妍饰演双胞胎，灵魂互换后给朴叙含饰演的角色带来混乱"
     ],
-    "summary_zh": "9月10日，Channel A 发布了新剧《Dive into You》的预告片和单人角色海报。该剧为奇幻爱情题材，宇宙少女成员金智妍（Bona）饰演顶级女演员尹荷娜，她意外与他人发生灵魂互换。预告中，金智妍与张世赫饰演的双胞胎因灵魂互换给朴叙涵的角色带来一连串混乱。",
-    "extracted_at": "2026-09-10T10:51:33.630213+08:00"
+    "summary_zh": "9月10日，Channel A 公开了新剧《Dive into You》的预告片和单人角色海报。该剧为奇幻爱情题材，宇宙少女成员金智妍（Bona）饰演顶级女演员尹荷娜，她意外与他人发生灵魂互换。张世赫与金智妍在剧中饰演双胞胎，灵魂互换后给朴叙含饰演的角色带来一系列混乱。",
+    "extracted_at": "2026-09-10T16:36:59.396730+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "\"Saturday Night Live\" Season 52 Starts October 3rd with Knicks Superstar Jalen Brunson Host and Musical Guest K Pop Katseye - Showbiz411",
+    "title": "\"Saturday Night Live\" Season 52 Starts October 3rd with Knicks Superstar Jalen Brunson Host and Musical Guest K Pop Katseye - showbiz411.com",
     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVDVxYm5CTE00akZ3c2NRX2gyRkRaZzFtR0FmZWJ4bFZfX2E3RW84VElSd3JTd0lPXzFLTlJlR3p4bFJkUXJyVkNBS3VvdVhUd0pHcHpPSGwwSkVFbEcwVE00Qk9XOWpZVUl2NGRZRUN5WnUzV3lrWjNwVUUxR2Z5eEF5YnMtVHprV1diOWxRREVIdUJjaS1ITVJuWkR5TEFXR3RmMUdYTC1IZmJLVUktRFI1enlsZDBBbkZLYnBqbk9lYTZteWROLXNaR0RqMUNrdE8yaWlmZEc5cmNCWDR5dmlMMnJuaDJrRjJ5Vk4yTjM?oc=5",
-    "content": "\"Saturday Night Live\" Season 52 Starts October 3rd with Knicks Superstar Jalen Brunson Host and Musical Guest K Pop Katseye Showbiz411",
+    "content": "\"Saturday Night Live\" Season 52 Starts October 3rd with Knicks Superstar Jalen Brunson Host and Musical Guest K Pop Katseye showbiz411.com",
     "published_at": "0910google-kpop",
     "published_ts": 1789002818.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《周六夜现场》第52季10月3日开播，尼克斯球星布伦森主持，K-pop组合Katseye任音乐嘉宾",
+    "title_zh": "《周六夜现场》第52季10月3日开播，尼克斯球星布伦森主持，K-pop组合KATSEYE任音乐嘉宾",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "《周六夜现场》（Saturday Night Live）第52季将于10月3日开播",
-      "首期主持人为NBA纽约尼克斯队球星杰伦·布伦森（Jalen Brunson）",
-      "首期音乐嘉宾为K-pop组合Katseye"
+      "首期主持人为纽约尼克斯队球星杰伦·布伦森（Jalen Brunson）",
+      "首期音乐嘉宾为K-pop组合KATSEYE"
     ],
-    "summary_zh": "据Showbiz411报道，《周六夜现场》第52季定于10月3日首播，首期节目由NBA纽约尼克斯队球星杰伦·布伦森担任主持人，K-pop组合Katseye担任音乐嘉宾。",
-    "extracted_at": "2026-09-10T10:51:35.022981+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Netflix Scandal K-drama — Cast Teases High Rating and R-Rating Thrills - The Korea Daily",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE12Nl9sUUZKM2ZFeVdjUTVGQUpNbzVjcDRtcmVuMERHZlJCd3pXVGk5TnJUazhjRUJ6S2twSmhlLWhaT215MW9XWlJzSmtnSWRfb2d4XzY1ZE1SdlZNZlNDMnl3?oc=5",
-    "content": "Netflix Scandal K-drama — Cast Teases High Rating and R-Rating Thrills The Korea Daily",
-    "published_at": "0910google-kpop",
-    "published_ts": 1789002733.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Netflix韩剧《丑闻》主演预告高收视与R级刺激",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "原文仅提及Netflix韩剧《丑闻》（Scandal）的演员预告了高收视率和R级刺激内容，未提供具体演员姓名、播出日期、剧情细节或收视数据。"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：Netflix韩剧《丑闻》主演预告高收视与R级刺激]",
-    "extracted_at": "2026-09-10T10:51:36.198098+08:00"
+    "summary_zh": "据showbiz411.com报道，《周六夜现场》第52季定于10月3日开播。首期节目由NBA纽约尼克斯队球星杰伦·布伦森担任主持人，K-pop组合KATSEYE担任音乐嘉宾。",
+    "extracted_at": "2026-09-10T16:37:00.758934+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -91,10 +467,35 @@
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "《KPop Demon Hunters》与 Eggo 华夫饼品牌展开联动合作"
+      "《KPop Demon Hunters》与 Eggo 华夫饼展开品牌联动",
+      "原文未提及联动具体形式、时间、产品细节或官方声明"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters》现已“占领”Eggo 华夫饼]",
-    "extracted_at": "2026-09-10T10:51:37.137080+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters》现已与 Eggo 华夫饼展开联动]",
+    "extracted_at": "2026-09-10T16:37:02.106132+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Stray Kids Just Played Bogotá: Their Latin America Run Grew From 3 Shows to 5 - Latin Times",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM0pCYW05RklDdm1SYnNoaXNWMU1QdndZckUyN09CWFlxaDFoenBQUHdOYkdoQ3RpbGRkNi1OTi01WE9CbzV3RGRDQWl1LTlkSW5HVzF4a1drWWowbzlYLVdwVS1EZVg3MVRZTTdDOVB3bDJDM3V3bmYxUUpoZmZ0cDVaQXJZWUx3dTIyN0FlYnVVWjdadElSN3hndUpKVE5GZnZnNg?oc=5",
+    "content": "Stray Kids Just Played Bogotá: Their Latin America Run Grew From 3 Shows to 5 Latin Times",
+    "published_at": "0910google-kpop",
+    "published_ts": 1788999999.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Stray Kids波哥大演出落幕，拉美巡演场次从3场增至5场",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Stray Kids在哥伦比亚波哥大举行了演出",
+      "Stray Kids拉丁美洲巡演场次从原定的3场增加至5场"
+    ],
+    "summary_zh": "Stray Kids在哥伦比亚波哥大完成演出，其拉丁美洲巡演规模从原定的3场扩大至5场。",
+    "extracted_at": "2026-09-10T16:37:03.438786+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -109,65 +510,41 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "LISA纪录片《Always Lalisa》预告公开 揭秘K-pop明星幕后日常",
+    "title_zh": "LISA纪录片《Always Lalisa》预告公开，带粉丝直击幕后",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "LISA推出个人纪录片《Always Lalisa》",
-      "纪录片预告片已正式公开",
-      "纪录片内容为LISA的幕后花絮与日常记录"
+      "K-Pop艺人LISA推出新纪录片《Always Lalisa》",
+      "该纪录片发布预告片，内容为LISA的幕后花絮",
+      "预告片已可观看"
     ],
-    "summary_zh": "K-pop明星LISA推出个人纪录片《Always Lalisa》，预告片已正式公开。该纪录片将带领粉丝走进LISA的幕后生活，展示其日常状态与工作花絮。目前原文仅提供预告片发布信息，未披露具体上线日期及播出平台。",
-    "extracted_at": "2026-09-10T10:51:38.373356+08:00"
+    "summary_zh": "K-Pop明星LISA的新纪录片《Always Lalisa》发布预告片，该片将带粉丝深入幕后，展示LISA的幕后故事。预告片现已可观看。",
+    "extracted_at": "2026-09-10T16:37:05.017488+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "aespa touches down in Lima tonight — here's what actually checks out - latintimes.com",
+    "title": "aespa touches down in Lima tonight — here's what actually checks out - Latin Times",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZm80XzUzWmpYWHFTdTN4d19MQ2NkTnFCT1p6WkNVdDB0bF9tWnZMWXJwQjY0LUJ3NjVOZjRNQ0ZHeHVVaE5Xbzg1MEwyWnRjRjlhM3ljMlRjRFN5WnNnOEgxR2ZnOGd5ckQtX0FocmVGeGYzd2sxQ3ZhT24xdUdqclJJNkN4M3RqTWE1aFBwNmI1bVVLMUE1YlVqMl9FSjZwR3RCaDhINXl3bWdXY2xhOUZNOWNhWHVOeFFCMDN3?oc=5",
-    "content": "aespa touches down in Lima tonight — here's what actually checks out latintimes.com",
+    "content": "aespa touches down in Lima tonight — here's what actually checks out Latin Times",
     "published_at": "0910google-kpop",
     "published_ts": 1788995140.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "aespa今晚抵达利马，latintimes.com报道",
+    "title_zh": "aespa今晚抵达利马——拉丁时报核实报道",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "aespa计划于今晚抵达秘鲁利马",
-      "信息来源为latintimes.com"
+      "原文仅提及aespa将于今晚抵达利马，来源为Latin Times",
+      "原文未提供具体时间、地点、活动名称或任何可核实细节"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：aespa今晚抵达利马——以下是实际可核实的内容]",
-    "extracted_at": "2026-09-10T10:51:39.317396+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "(Yonhap Interview) Spotify committed to exporting K-culture, says APAC executive - Yonhap News Agency",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkYVZYNW9OWFpWcnZJaDBVRGZuTkNfaE9MV19qZFM0QzVTWDBqNV9sR25hWHBQRzZzLWMteVpPbnIzTGJ1eFJ3ZFU2eVpYMzBfaTE0dHdEamZRQQ?oc=5",
-    "content": "(Yonhap Interview) Spotify committed to exporting K-culture, says APAC executive Yonhap News Agency",
-    "published_at": "0910google-kpop",
-    "published_ts": 1788991202.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Spotify亚太高管称致力于推动K文化出海",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "原文仅提及Spotify亚太区高管接受韩联社采访，表示致力于出口K文化",
-      "原文未提供高管姓名、具体数据、时间、地点或任何具体行动细节"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：Spotify亚太高管表示致力于出口K文化]",
-    "extracted_at": "2026-09-10T10:51:40.468512+08:00"
+    "extracted_at": "2026-09-10T16:37:06.636224+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -188,18 +565,18 @@
     "is_blurred": true,
     "facts_list": [
       "Eggo品牌推出《KPop Demon Hunters》主题华夫饼",
-      "粉丝反应被描述为'Not OK'，但原文未提供具体反应细节"
+      "粉丝反应被描述为'Not OK'，但原文未提供具体反应内容或数据"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：Eggo推出了《KPop Demon Hunters》华夫饼，粉丝们'不淡定了']",
-    "extracted_at": "2026-09-10T10:51:41.594542+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：Eggo Just Launched ‘KPop Demon Hunters’ Waffles—And Fans Are ’Not OK’]",
+    "extracted_at": "2026-09-10T16:37:07.866270+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "Netflix's KPop Demon Hunters awakens a trademark battle - Daily Journal",
+    "title": "Netflix's KPop Demon Hunters awakens a trademark battle - dailyjournal.com",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOE1rZVlTWC1wS0NuU0VqSExxaXNqMWhFR2VQZVNMYUIwN0g4cmR1dDFuLXZrckxwWUdFUXZCUFNJdkYtTHZxMk5XZ0dzUElQUm9IN21GZjRCTThhcUlDOVExV1FUMWtpZXBNUlY4Q2dmX2hVLU9lbjJSenpHZ1ZZNUxGNUVURTU1WmNMaG50cThQYXV4WjdzRnlXV2dOVXdO?oc=5",
-    "content": "Netflix's KPop Demon Hunters awakens a trademark battle Daily Journal",
+    "content": "Netflix's KPop Demon Hunters awakens a trademark battle dailyjournal.com",
     "published_at": "0910google-kpop",
     "published_ts": 1788988324.0,
     "category": "韩娱",
@@ -211,59 +588,36 @@
     "risk_level": "中",
     "is_blurred": true,
     "facts_list": [
-      "原文仅提及Netflix的《KPop Demon Hunters》引发商标争夺战，未提供具体时间、地点、涉事方或商标细节"
+      "Netflix 作品《KPop Demon Hunters》涉及商标纠纷",
+      "原文来源为 dailyjournal.com"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：Netflix的《KPop Demon Hunters》引发商标争夺战]",
-    "extracted_at": "2026-09-10T10:51:42.576505+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：Netflix 的《KPop Demon Hunters》引发了一场商标争夺战]",
+    "extracted_at": "2026-09-10T16:37:11.934548+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "Eggo Launches Limited-Edition Waffles Inspired by Netflix's 'KPop Demon Hunters' - AOL.com",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZUhkWjVwV3R4RHVOVDFyc2poOU5ZZmFXWDA2MklxRFc5b1A4dUZYdnZhQXJDdHlwVktCM3hDR2RWaFE1WlFuQnJmallwSnJ2SmdQbnBmMURxSno2WGlrZUliSXQ1czFsbFFJX19ScTl1YmxCeS1RdVZ5ZHMxc0daM0Q1cXhTZVhN?oc=5",
-    "content": "Eggo Launches Limited-Edition Waffles Inspired by Netflix's 'KPop Demon Hunters' AOL.com",
+    "title": "Eggo Is Teaming Up With Netflix’s ‘KPop Demon Hunters’ for Its First-Ever Film-Inspired Collaboration - parade.com",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVzNTdE15QUpiRUFPZmsxQnBRcXp4ZmtfYjFJNXIxdjdiZGFsT2RlUkFYallUQ2FpVjFZNVRIamMxSGlKdklad0I1MjQ0YTByNmtnQjh3dlhxZUpsRy04RmVEMzVrRVhKV0t5VWFRbDkwYWwwRk1lSmdsanNIcXJYTjVBUWhfNDZiZlBlNGNKdXJlb1Z6S3pFVDQ5Y01RbEdLT3psTUxRNUtKOEhwZHZSVWtseVlKZ0lhSGdyaVFsQQ?oc=5",
+    "content": "Eggo Is Teaming Up With Netflix’s ‘KPop Demon Hunters’ for Its First-Ever Film-Inspired Collaboration parade.com",
     "published_at": "0910google-kpop",
     "published_ts": 1788984320.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Eggo推出Netflix《KPop Demon Hunters》联名限定华夫饼",
+    "title_zh": "Eggo与Netflix《KPop Demon Hunters》合作推出首款电影主题联名产品",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "Eggo推出限量版华夫饼，灵感来自Netflix作品《KPop Demon Hunters》",
-      "该产品为限定版，具体发售时间、价格及设计细节原文未提及"
+      "Eggo与Netflix动画电影《KPop Demon Hunters》达成合作",
+      "这是Eggo首次推出电影主题联名合作",
+      "合作消息由parade.com报道"
     ],
-    "summary_zh": "Eggo宣布推出限量版华夫饼，灵感来源于Netflix的《KPop Demon Hunters》。原文仅提及产品为限定版，未透露具体发售时间、价格或设计细节。",
-    "extracted_at": "2026-09-10T10:51:43.983307+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "‘KPop Demon Hunters’ Has Led Billboard’s Top Soundtracks Chart for 59 Weeks: Only One Soundtrack Has Led Longer (Full List) - K-Jewel 99.3 FM",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdHRQZnNKVEo3ZmExSURmQkNnT3lNVzlSSXI0c2M4M1hiM2hEem1zc0tWdkp1VTdGVm95SjJXYUJJcmoza1NUU0Q5YWpiVjJkYzZ3X2tUZGlZV2RBYklPWXhGSlJSZFg3azZtSFBBaGR4cWZrWm92VzI0Z25KNUY3RUw3dVp2MW9WdWxxZHUwajBzcmlHZGVrTjQ3bk9RY3F0ZzNnbHRCcnVVNmtfVWZSME5RRzVmZVU2VEttYWd4WG5JME1mUzFSQ0J2TXFCWko2WHM2Z2dRMjF4cUl3ejRRbW9QN2Y?oc=5",
-    "content": "‘KPop Demon Hunters’ Has Led Billboard’s Top Soundtracks Chart for 59 Weeks: Only One Soundtrack Has Led Longer (Full List) K-Jewel 99.3 FM",
-    "published_at": "0910google-kpop",
-    "published_ts": 1788980936.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "《KPop Demon Hunters》原声带登顶公告牌原声榜59周，仅一张原声带领跑更久",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "《KPop Demon Hunters》原声带在公告牌Top Soundtracks Chart上连续登顶59周",
-      "公告牌历史上仅有一张原声带的登顶周数比它更长",
-      "原文未提及具体是哪一张原声带登顶更久，也未提供完整榜单列表"
-    ],
-    "summary_zh": "据K-Jewel 99.3 FM报道，《KPop Demon Hunters》原声带已在公告牌Top Soundtracks Chart上连续59周排名第一。公告牌历史上仅有一张原声带的登顶周数超过它。原文未披露该原声带的具体名称及完整榜单信息。",
-    "extracted_at": "2026-09-10T10:51:45.541878+08:00"
+    "summary_zh": "Eggo宣布与Netflix动画电影《KPop Demon Hunters》展开合作，推出品牌史上首个电影主题联名产品。该消息由parade.com报道，具体合作产品细节尚未在原文中披露。",
+    "extracted_at": "2026-09-10T16:37:13.129882+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -286,8 +640,8 @@
       "原文仅提及 Chase Infiniti 接受 WWD 独家专访，主题涉及舞蹈、品牌 Vuori 及其突破之年",
       "原文未提供专访具体内容、时间、地点或任何数据"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：Chase Infiniti 独家专访谈及舞蹈、Vuori 与她的突破之年]",
-    "extracted_at": "2026-09-10T10:51:46.491968+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：Chase Infiniti 独家畅谈舞蹈、Vuori 与她的突破之年]",
+    "extracted_at": "2026-09-10T16:37:14.646565+08:00"
   },
   {
     "source_id": "soompi",
@@ -307,14 +661,14 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "TVING 公开了新剧《平凡的彩票》（The Ordinary Jackpot）的首播预告",
-      "该剧改编自同名网络漫画",
-      "剧情讲述普通销售职员孔恩泰（李准赫 饰）中彩票头奖的故事",
-      "孔恩泰中奖后没有辞职，而是选择回到公司继续上班",
-      "预告片中展现了李准赫幻想中彩票后要做的事情"
+      "TVING 新剧《平凡的彩票》（The Ordinary Jackpot）公开首播预告",
+      "该剧改编自同名网漫",
+      "主角为李准赫饰演的普通销售职员孔恩泰（Gong Eun Tae）",
+      "剧情设定：孔恩泰中彩票头奖后并未辞职，而是返回公司继续上班",
+      "预告内容为李准赫幻想中彩票后会做什么"
     ],
-    "summary_zh": "TVING 新剧《平凡的彩票》公开首播预告。该剧改编自同名网漫，由李准赫主演，讲述普通销售职员孔恩泰中彩票头奖后，没有选择辞职，而是回到公司继续上班的故事。预告片中展现了李准赫幻想中奖后要做的事情。",
-    "extracted_at": "2026-09-10T10:51:48.159453+08:00"
+    "summary_zh": "TVING 新剧《平凡的彩票》改编自同名网漫，公开首播预告。该剧由李准赫主演，饰演普通销售职员孔恩泰，讲述他中彩票头奖后并未辞职、反而返回公司继续上班的故事。预告片中展现了李准赫幻想中彩票后会做什么的内容。",
+    "extracted_at": "2026-09-10T16:37:16.393382+08:00"
   },
   {
     "source_id": "soompi",
@@ -339,8 +693,8 @@
       "RIAJ 认证标准：专辑出货量达10万张为金唱片认证",
       "ATEEZ、IVE、NCT WISH、aespa、ILLIT 同样获得 RIAJ 白金或金唱片认证"
     ],
-    "summary_zh": "日本唱片协会（RIAJ）公布最新一批官方认证名单。SEVENTEEN 凭借2023年日本精选专辑《ALWAYS YOURS》获得百万认证，该专辑在日本出货量超过100万张。根据 RIAJ 认证标准，专辑出货量达10万张即可获得金唱片认证。ATEEZ、IVE、NCT WISH、aespa、ILLIT 也一同获得白金或金唱片认证。",
-    "extracted_at": "2026-09-10T10:51:49.849670+08:00"
+    "summary_zh": "日本唱片协会（RIAJ）公布最新一批官方认证名单。SEVENTEEN 凭借2023年发行的日本精选专辑《ALWAYS YOURS》获得百万认证，该专辑在日本出货量超过100万张。根据 RIAJ 认证标准，专辑出货量达10万张即可获得金唱片认证。ATEEZ、IVE、NCT WISH、aespa 和 ILLIT 也一同获得白金或金唱片认证。",
+    "extracted_at": "2026-09-10T16:37:18.463446+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -363,8 +717,8 @@
       "K-Pop组合Big Ocean发布新单曲《Love Sign》",
       "消息来源为Shore Fire Media"
     ],
-    "summary_zh": "K-Pop组合Big Ocean通过Shore Fire Media发布全新单曲《Love Sign》。原文未提供更多关于歌曲风格、发行时间或榜单成绩的细节。",
-    "extracted_at": "2026-09-10T10:51:51.203158+08:00"
+    "summary_zh": "K-Pop组合Big Ocean通过Shore Fire Media发布新单曲《Love Sign》。原文未提供更多关于歌曲风格、发行时间或榜单成绩等具体信息。",
+    "extracted_at": "2026-09-10T16:37:19.848843+08:00"
   },
   {
     "source_id": "soompi",
@@ -384,12 +738,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "当地时间9月9日，美国脱口秀节目《吉米·法伦今夜秀》宣布BLACKPINK成员Lisa将于下周出演该节目",
-      "Lisa将出演9月16日播出的《吉米·法伦今夜秀》",
-      "该节目播出时间为美国东部时间晚上11点35分"
+      "9月9日当地时间，美国脱口秀节目《吉米·法伦今夜秀》宣布BLACKPINK成员Lisa将于下周出演该节目",
+      "Lisa将出演9月16日播出的《吉米·法伦今夜秀》，该节目于美国东部时间晚上11点35分播出"
     ],
-    "summary_zh": "当地时间9月9日，美国知名脱口秀《吉米·法伦今夜秀》官方宣布BLACKPINK成员Lisa将做客节目。Lisa确定出演9月16日播出的那期节目，该节目于美国东部时间晚上11点35分播出。",
-    "extracted_at": "2026-09-10T10:51:52.597866+08:00"
+    "summary_zh": "美国脱口秀节目《吉米·法伦今夜秀》于当地时间9月9日宣布，BLACKPINK成员Lisa将于下周做客该节目。Lisa确定出演9月16日播出的期数，节目播出时间为美国东部时间晚上11点35分。",
+    "extracted_at": "2026-09-10T16:37:21.443782+08:00"
   },
   {
     "source_id": "soompi",
@@ -410,10 +763,11 @@
     "is_blurred": false,
     "facts_list": [
       "《Made in Korea 2》公开了玄彬与禹棹焕在审讯室对峙的新剧照",
-      "第一季剧情围绕白基泰（玄彬饰）与检察官张建英（郑雨盛饰）展开，白基泰追逐财富与权力，张建英不惜一切阻止他"
+      "第一季剧情围绕白基泰（玄彬 饰）与检察官张建英（郑雨盛 饰）展开",
+      "第一季中白基泰追逐财富与权力，张建英为阻止他不惜牺牲一切"
     ],
-    "summary_zh": "即将播出的韩剧《Made in Korea 2》公开了玄彬与禹棹焕在审讯室对峙的新剧照。第一季讲述了追逐财富与权力的白基泰（玄彬饰）与不惜一切阻止他的检察官张建英（郑雨盛饰）之间的故事。第二季中玄彬与禹棹焕将在审讯室展开正面交锋。",
-    "extracted_at": "2026-09-10T10:51:54.442611+08:00"
+    "summary_zh": "即将播出的韩剧《Made in Korea 2》公开了玄彬与禹棹焕在审讯室对峙的新剧照。第一季讲述了白基泰（玄彬 饰）追逐财富与权力，以及检察官张建英（郑雨盛 饰）为阻止他不惜牺牲一切的故事。第二季中玄彬与禹棹焕将在审讯室展开正面交锋。",
+    "extracted_at": "2026-09-10T16:37:23.337556+08:00"
   },
   {
     "source_id": "soompi",
@@ -428,7 +782,7 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "ATEEZ 发布神秘预告照，配文暗示旅程未完待续",
+    "title_zh": "ATEEZ 突袭发布神秘预告照，配文暗示旅程未完待续",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
@@ -436,11 +790,12 @@
       "时间：9月10日韩国时间零点",
       "主体：ATEEZ",
       "动作：在官方社交媒体账号发布两张神秘预告照",
-      "原文未说明预告照的具体用途",
-      "预告照配文：'The journey will be endless, eternal, and infinite. And still,…'（旅程将无尽、永恒、无限。而仍然……）"
+      "原文未说明预告照具体用途",
+      "配文内容：The journey will be endless, eternal, and infinite. And still,…（旅程将无尽、永恒、无限。而仍然……）",
+      "来源：Soompi"
     ],
-    "summary_zh": "9月10日韩国时间零点，ATEEZ 在官方社交媒体账号发布两张神秘预告照，未说明具体用途。配文写道：'旅程将无尽、永恒、无限。而仍然……'，引发粉丝对新作品的猜测。",
-    "extracted_at": "2026-09-10T10:51:56.146992+08:00"
+    "summary_zh": "9月10日韩国时间零点，ATEEZ 在官方社交媒体账号突袭发布两张神秘预告照。原文未说明预告照具体指向何种活动，仅附有配文：The journey will be endless, eternal, and infinite. And still,…（旅程将无尽、永恒、无限。而仍然……）。该消息由 Soompi 发布。",
+    "extracted_at": "2026-09-10T16:37:25.325892+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -455,16 +810,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "BTS成员V登《Dazed》杂志，谈成功与想对年轻自己说的话",
+    "title_zh": "BTS成员V登《Dazed》杂志谈成功与对年轻自己的寄语",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
       "BTS成员V登上《Dazed》杂志",
-      "V在采访中谈及BTS、成功以及想对年轻自己说的话"
+      "V在采访中谈及BTS、成功以及对年轻自己的寄语"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：V on BTS, success and what he’d tell his younger self - Dazed]",
-    "extracted_at": "2026-09-10T10:51:57.198214+08:00"
+    "extracted_at": "2026-09-10T16:37:26.650045+08:00"
   },
   {
     "source_id": "asianwiki",
