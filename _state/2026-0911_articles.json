@@ -1,5 +1,227 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-pop group Pentagon releases 'Coward,' its 10th anniversary single - upi.com",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTmY2QTNEX1ZUTExwdWVKekN3anNIelpTRzVlSzdocHZzX1FfZXJ6VkVlWGFDbG5LRVRVdmRrQVlJSnBaa2szeGs5QU92ZnE5SmJPNDlZTmJIenZjWGJKdGZYRVd0MGVnOVJ0cFhXbWhNWTBGX1pVa1N3MC1kcXNJVldKMkRzT0Jna2RoRDlkVU1xZC1FcGozOHNHZ0ZtY2RwSXRPYVZzZG5RN0pTOGhyd2ozcU92QktYd05GcTdQYjQ2bDhBR2pv0gHMAUFVX3lxTE9aaHktNU5GbTNucllsVWxJSWN4Nk9fb3MtSVNUR0M3YjNqR0hmY0RsbXdEM0hBYUlnUzk1YVhlVWI0SDlvQlJ4VUJmUGQ5b0dKaTZUYmw4Nmt0MVBId2hpbGdPeTNFRmQ2cXVJZmFUN0ZBQWxrX0JBdE9vcks0WnB1T2tIak9QQ3NtUFFDMVlDMWdtNEtKbHdCSXhJajlCc1ZfQ3FwWXRuVzJWaUltRXM1dmptaVVId0txWkJoTzNneDdOdVlyc2hNOFpEWA?oc=5",
+    "content": "K-pop group Pentagon releases 'Coward,' its 10th anniversary single upi.com",
+    "published_at": "0911google-kpop",
+    "published_ts": 1789137732.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "PENTAGON 发行出道十周年单曲《Coward》",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "韩国男团 PENTAGON 发行单曲《Coward》",
+      "该单曲为 PENTAGON 出道十周年纪念单曲",
+      "消息来源为 upi.com"
+    ],
+    "summary_zh": "韩国男团 PENTAGON 发行单曲《Coward》，该曲为其出道十周年纪念单曲。消息由 upi.com 报道。",
+    "extracted_at": "2026-09-11T23:46:25.834589+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "F-VE DOLLS: A Career In Song Ratings - thebiaslist.com",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1MTBzVU5jb194YUpPd181amUzc0tOWWlBWDdWeTZBZXoxRWpJR0RtSDl5WkduTUlsaTdCWDY4TTVtcnBsa21YLU41NDNDN1gxNFJLWUNXN3ptSUtXR0VaX0Z2V3F6a2ZyMkRjSHYzUTQxYnVMb0t1ZUhLcw?oc=5",
+    "content": "F-VE DOLLS: A Career In Song Ratings thebiaslist.com",
+    "published_at": "0911google-kpop",
+    "published_ts": 1789136755.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "F-VE DOLLS 歌曲评分生涯回顾（thebiaslist.com）",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及 F-VE DOLLS 的歌曲评分生涯回顾，来源为 thebiaslist.com",
+      "原文未提供任何具体歌曲名称、评分数据、时间或事件细节"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：F-VE DOLLS 的歌曲评分生涯回顾]",
+    "extracted_at": "2026-09-11T23:46:27.358555+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Song Review: Pentagon – Coward - thebiaslist.com",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yRnRDYnpTYzNrRVJ6bGRIZ1hreXdaNFYxNWZMTlhlNE5lWTVHczQ4Q0VfMWp4b1RFY1dod0JKX2duUXFjVGlERUE2aG5qaEFkVURyYlhILTUtdmVxS2duOHBGYXFfc1ZsTXl3NThrSVc?oc=5",
+    "content": "Song Review: Pentagon – Coward thebiaslist.com",
+    "published_at": "0911google-kpop",
+    "published_ts": 1789136064.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "歌曲评测：Pentagon 新曲《Coward》",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅为歌曲评测标题，未提供具体评测内容、发行日期、榜单数据或成员信息"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：Pentagon – Coward 歌曲评测]",
+    "extracted_at": "2026-09-11T23:46:28.508622+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "RAKUTEN VIKI’S K-DRAMA DAY RETURNS FOR THE FOURTH YEAR: CELEBRATE - The National Law Review",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZllReVhUVW5lNFc4aWRmZUlNTmpEempPTGxrMkxEc1haVTFNd20tN1JfeE9MOUZwRFBzSTdnMXdXN3hhek9MSUNtRTdDOFBDQzFUa24tNEwwRk4yMU1DQ1p4LWJCLXVmcnEtQm9xVGZkamd5UncwczlUc2FSWWlVR0xkS2liN1FDRm1DYmt0dE1Sc3pjUVpQb3g4VG9DT2FXazUyYUJnSDlUT1hXUWQxY2ZGYw?oc=5",
+    "content": "RAKUTEN VIKI’S K-DRAMA DAY RETURNS FOR THE FOURTH YEAR: CELEBRATE The National Law Review",
+    "published_at": "0911google-kpop",
+    "published_ts": 1789131350.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Rakuten Viki 韩剧日回归第四届：庆祝活动",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "Rakuten Viki 的韩剧日（K-Drama Day）活动回归，今年为第四届。",
+      "原文未提及具体日期、参与剧集、活动内容或任何数据。"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：Rakuten Viki 的韩剧日回归第四届：庆祝活动]",
+    "extracted_at": "2026-09-11T23:46:30.183068+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Lee Joon Gi, Sakaguchi Kentaro, And More Must Outsmart Each Other To Save Their Loved Ones In “kiDnap GAME” Teasers",
+    "url": "https://www.soompi.com/article/1869827wpp/watch-lee-joon-gi-sakaguchi-kentaro-and-more-must-outsmart-each-other-to-save-their-loved-ones-in-kidnap-game-teasers",
+    "content": "Upcoming drama “kiDnap GAME” has unveiled new teasers! “kiDnap GAME” is a thriller centered on an unprecedented kidnapping case that unfolds simultaneously across seven Asian cities—Seoul, Tokyo, Taipei, Singapore, Bangkok, Naha, and Manila. The story follows seven individuals who are each given different missions and forced into a deadly survival game, where they must complete&#8230; Continue reading Watch: Lee Joon Gi, Sakaguchi Kentaro, And More Must Outsmart Each Other To Save Their Loved Ones In “kiDnap GAME” Teasers\nThe post Watch: Lee Joon Gi, Sakaguchi Kentaro, And More Must Outsmart Each Other To Save Their Loved Ones In “kiDnap GAME” Teasers appeared first on Soompi.",
+    "published_at": "0911soompi",
+    "published_ts": 1789128083.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "李准基、坂口健太郎主演《kiDnap GAME》发布预告，七城同步绑架案生存战",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "剧名：《kiDnap GAME》，为一部惊悚题材剧集",
+      "核心设定：一起前所未有的绑架案在亚洲七座城市同步展开，城市包括首尔、东京、台北、新加坡、曼谷、那霸、马尼拉",
+      "剧情主线：七名角色各自被赋予不同任务，被迫参与一场致命的生存游戏",
+      "主演阵容：李准基、坂口健太郎等",
+      "最新动态：该剧发布了新预告片"
+    ],
+    "summary_zh": "新剧《kiDnap GAME》公开最新预告。该剧为惊悚题材，讲述一起在亚洲七座城市——首尔、东京、台北、新加坡、曼谷、那霸、马尼拉——同步发生的空前绑架案。七名主角各自接到不同任务，被迫卷入一场致命生存游戏，必须斗智斗勇以拯救所爱之人。主演包括李准基、坂口健太郎等。",
+    "extracted_at": "2026-09-11T23:46:32.033808+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Kohl’s ‘KPop Demon Hunters’ inspired collection: Products and availability - Lifestyle Asia Hong Kong",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYWFQUkVjR3Bab0pKVXdpMi1jZjRTOUVndjQyVlZ3QVpoRWhNbWdiN050U0ZQVGk4Sm1wT09hZDNDZlJ4ek5tT2x2N3N2MnUxZkVxUl9rRF9PX0F6aGJ5TTNISWV1c19aZ1Q1NzQ4VlJIb0Rna2FPSDZGOXo4UjdWRkZfZHFkclBCZ2h6cjRUb0JoTTFybThGcm5YQ0tRYjB4bUpRZmNyOVp2ejBs0gGyAUFVX3lxTE5kbEdkaU12c2RPejlQZ19ka2JjMzJabWRYaGtrQlYyVGVic01HdW8tSldHMFMyZzVzRkc1em9WWFJoci1aMDZHV3lpb0xkTzJLRzFRQ0I4enByX19jclI5TndrWGdTNEVHX0lRZG5Uc0VIMlhFQ2VqTWNtVXF6Rm5NcVJjM012YlI3Q0gyeU1FM2JxUEdNWkg4Mkp4U3FQS0ZmbldqN0VTM0lOZTRtNzVPbkE?oc=5",
+    "content": "Kohl’s ‘KPop Demon Hunters’ inspired collection: Products and availability Lifestyle Asia Hong Kong",
+    "published_at": "0911google-kpop",
+    "published_ts": 1789124637.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Kohl's 推出《KPop 恶魔猎人》联名系列，产品与发售信息公布",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "Kohl's 推出以《KPop Demon Hunters》为灵感的联名系列",
+      "原文仅提及产品与发售信息，未列出具体产品名称、价格或发售日期"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：Kohl's 推出《KPop Demon Hunters》灵感系列，并介绍产品与发售信息]",
+    "extracted_at": "2026-09-11T23:46:33.424025+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: MONSTA X Takes 1st Win For “MAGIC” On “Music Bank”; Performances By Soyeon, VERIVERY, And More",
+    "url": "https://www.soompi.com/article/1869814wpp/watch-monsta-x-takes-1st-win-for-magic-on-music-bank-performances-by-soyeon-verivery-and-more",
+    "content": "MONSTA X&#160;has won their first music show trophy for “MAGIC”! On the September 11 episode of&#160;“Music Bank,” the candidates for first place were MONSTA X’s “MAGIC” and 82MAJOR’s “Like Fire.” MONSTA X ultimately took the prize with a total of 5,045 points. Congratulations to MONSTA X! Watch the winner announcement and full encore below: Performers&#8230; Continue reading Watch: MONSTA X Takes 1st Win For “MAGIC” On &#8220;Music Bank&#8221;; Performances By Soyeon, VERIVERY, And More\nThe post Watch: MONSTA X Takes 1st Win For “MAGIC” On &#8220;Music Bank&#8221;; Performances By Soyeon, VERIVERY, And More appeared first on Soompi.",
+    "published_at": "0911soompi",
+    "published_ts": 1789123512.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "MONSTA X凭《MAGIC》获《Music Bank》首个一位，总分5045分",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "9月11日播出的《Music Bank》中，MONSTA X的《MAGIC》与82MAJOR的《Like Fire》成为一位候补",
+      "MONSTA X最终以总分5045分获得《MAGIC》的首个音乐节目一位",
+      "本期节目出演者包括Soyeon、VERIVERY等"
+    ],
+    "summary_zh": "9月11日播出的《Music Bank》中，MONSTA X凭借《MAGIC》与82MAJOR的《Like Fire》共同成为一位候补，最终MONSTA X以总分5045分拿下《MAGIC》的首个音乐节目一位。本期节目还有Soyeon、VERIVERY等艺人带来表演。",
+    "extracted_at": "2026-09-11T23:46:35.339549+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Lee Yoo Young Welcomes Second Child",
+    "url": "https://www.soompi.com/article/1869794wpp/lee-yoo-young-welcomes-second-child",
+    "content": "Lee Yoo Young has become a mother of two! On September 11, Lee Yoo Young’s agency ACE FACTORY announced, “Lee Yoo Young gave birth to her second daughter earlier this month.” The agency added, “Both the mother and child are currently healthy and are resting under the warm care and blessings of their family. We&#8230; Continue reading Lee Yoo Young Welcomes Second Child\nThe post Lee Yoo Young Welcomes Second Child appeared first on Soompi.",
+    "published_at": "0911soompi",
+    "published_ts": 1789119971.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "李裕英喜得二胎女儿 所属社宣布母女健康",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "时间：9月11日，李裕英所属社ACE FACTORY发布官方声明",
+      "事件：李裕英于本月早些时候诞下第二个女儿",
+      "后续：母女二人目前均健康，在家人温暖关怀与祝福下休养"
+    ],
+    "summary_zh": "9月11日，演员李裕英所属社ACE FACTORY宣布，李裕英于本月早些时候生下第二个女儿。所属社表示母女二人目前均健康，正在家人的温暖关怀与祝福下休养。李裕英由此成为两个孩子的母亲。",
+    "extracted_at": "2026-09-11T23:46:36.933287+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "MAMAMOO’s Concert In Jakarta Cancelled",
+    "url": "https://www.soompi.com/article/1869788wpp/mamamoos-concert-in-jakarta-cancelled",
+    "content": "MAMAMOO’s upcoming concert in Jakarta has been canceled. The group’s “4WARD” concert in Jakarta, which was scheduled to take place at NICE PIK 2 on September 19, 2026, has been canceled due to ongoing unpredictable circumstances following recent volcanic activity in Indonesia. Read RBW’s full statement below: Hello, this is RBW. We regret to inform&#8230; Continue reading MAMAMOO’s Concert In Jakarta Cancelled\nThe post MAMAMOO’s Concert In Jakarta Cancelled appeared first on Soompi.",
+    "published_at": "0911soompi",
+    "published_ts": 1789115851.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "MAMAMOO雅加达演唱会因印尼火山活动取消",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "MAMAMOO原定于2026年9月19日在雅加达NICE PIK 2举办“4WARD”演唱会",
+      "取消原因为印尼近期火山活动导致持续不可预测的状况",
+      "所属社RBW发布官方声明宣布取消，声明开头为“大家好，这里是RBW。我们遗憾地通知……”"
+    ],
+    "summary_zh": "MAMAMOO原定于2026年9月19日在雅加达NICE PIK 2举行的“4WARD”演唱会已被取消。所属社RBW表示，取消原因是印尼近期火山活动导致持续不可预测的状况。RBW发布官方声明称：“大家好，这里是RBW。我们遗憾地通知……”",
+    "extracted_at": "2026-09-11T23:46:38.820319+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -12,17 +234,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "乐天Viki国际韩剧日推出15+部精选韩剧主题片单",
+    "title_zh": "乐天Viki国际韩剧日推出15+部精选剧集主题片单",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
       "乐天Viki举办国际韩剧日庆祝活动，推出主题与类型各异的精选韩剧合集",
-      "片单包含15部以上韩剧，涵盖浪漫喜剧与惊悚等类型",
+      "片单包含15部以上韩剧，涵盖浪漫喜剧、惊悚等类型",
       "原文未列出具体剧名、演员或播出数据"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：通过观看全球粉丝喜爱的韩剧来庆祝今年的韩剧日，乐天Viki国际韩剧日庆祝活动推出精选合集，涵盖不同主题和类型，从心动浪漫喜剧到惊悚剧，方便粉丝发现新剧。]",
-    "extracted_at": "2026-09-11T16:31:00.266722+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：通过观看全球粉丝喜爱的韩剧来庆祝今年的韩剧日，乐天Viki国际韩剧日庆祝活动提供不同主题和类型的精选剧集合集，从心动浪漫喜剧到惊悚剧集，方便粉丝发现新内容。]",
+    "extracted_at": "2026-09-11T23:46:40.643250+08:00"
   },
   {
     "source_id": "soompi",
@@ -42,38 +264,36 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "9月11日，据News1报道，崔允智决定退出tvN新剧《Iseop's Romance》",
-      "退出原因为制作日程变动，导致无法协调其此前已安排的活动",
-      "tvN相关人士已就该报道作出回应确认",
+      "9月11日，News1报道崔允智决定退出tvN新剧《Iseop's Romance》",
+      "退出原因为制作日程变动，难以协调其此前已安排的活动",
+      "tvN相关人士已就报道作出回应确认",
       "此前李钟硕已辞演该剧"
     ],
-    "summary_zh": "9月11日，据News1报道，演员崔允智决定退出tvN新剧《Iseop's Romance》。原因是该剧制作日程发生变动，难以与其此前已安排的活动进行协调。tvN相关人士已就报道作出回应确认。此前，李钟硕已辞演该剧。",
-    "extracted_at": "2026-09-11T16:31:02.177254+08:00"
+    "summary_zh": "9月11日，据News1报道，演员崔允智决定退出tvN新剧《Iseop's Romance》。原因是该剧制作日程发生变动，难以与她此前已安排的活动行程进行协调。tvN相关人士已就此事作出回应确认。此前，该剧原定主演李钟硕已宣布辞演。",
+    "extracted_at": "2026-09-11T23:46:42.595995+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "K-pop idol Lisa, athlete Rick Hansen to hit the red carpet at TIFF on Day 2 - The Lethbridge Herald",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQek14SDg4MW90aXJ2Tlc3amJobUVNZ3ViRm5oWTczWEFKVWVWSmR1Q0xEZk5pdExqX3FhSGF3SDhhb3ozQkdJbDRTZmVSYVBjdk9CbXlldGNJeXhLSnJaeHpLU3dMN3NtTjNKOVV0Z1RpQTRFNHhDekpLakoyTTNDM1lwU3dNSEt5REE0M0JveVJwejJBRDVwZEhyclFJbkZmWVA0TU9TOXY0bDRnWk8zZGVaWmJNNE1pWlNwRDR0Tm81STVBcUd3Y2VCUThZLVRzNUJoa1BXWTg5c2dMVWplYmRn?oc=5",
-    "content": "K-pop idol Lisa, athlete Rick Hansen to hit the red carpet at TIFF on Day 2 The Lethbridge Herald",
+    "title": "'KPop Demon Hunters' fans get big news as Netflix plans next chapter - ABC News - Breaking News, Latest News and Videos",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWUg0MXFuaER4Z2V3bTBTcnFuUW1xREstdTNfalIyX0JYazlvN1ByZ1FJQ2duNllyTm94MThvLVI0TG5QeFRoNmlaV0JiSk5QS2ItYzhRLXhhcU1RckZfb3VCeFpvUExDdmlob3pEb1dCZXRqb0x3NlJtaUNmdS1XN202dEN6TlZsRU92WVlVdWFLZnRXUlRSTW9RZXlTcGVzVHlseHFVRHlnU0kzME5EeXFB0gG3AUFVX3lxTFBDUEthRzFiVHZMQzJ6ZzBLRVVGMWUtMzBPLVgwZmlwc0w2Z0hTMDNJQW1MSHlKSE5KMzdpaU1pLXFsU2JNSDF4X0hJY1NaV2lvZC0wLXJGU25JeEhUMEhXRTF5THlhVV9EWV9Ic1U3NHhVdHNtdFNnVHBqdXlDWnRvY2RNTWhqNmxkUVVFNXZLNU8wY1ZBRjBycm9WMkUzTGI5X3dXOVJaTXVqUXlidjBSQ1ZtQzd0MA?oc=5",
+    "content": "'KPop Demon Hunters' fans get big news as Netflix plans next chapter ABC News - Breaking News, Latest News and Videos",
     "published_at": "0911google-kpop",
-    "published_ts": 1789114009.0,
+    "published_ts": 1789113459.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "K-pop偶像Lisa与运动员Rick Hansen将亮相TIFF第二日红毯",
+    "title_zh": "Netflix 宣布《KPop Demon Hunters》将推出新篇章",
     "source_type": "韩娱",
     "risk_level": "低",
-    "is_blurred": false,
+    "is_blurred": true,
     "facts_list": [
-      "K-pop偶像Lisa将出席多伦多国际电影节（TIFF）第二日活动",
-      "运动员Rick Hansen将出席多伦多国际电影节（TIFF）第二日活动",
-      "两人将亮相红毯"
+      "Netflix 计划为《KPop Demon Hunters》推出下一篇章"
     ],
-    "summary_zh": "据《The Lethbridge Herald》报道，K-pop偶像Lisa与运动员Rick Hansen将于多伦多国际电影节（TIFF）第二日亮相红毯。原文未提供更多活动细节。",
-    "extracted_at": "2026-09-11T16:31:03.691334+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：Netflix 计划推出《KPop Demon Hunters》的下一篇章]",
+    "extracted_at": "2026-09-11T23:46:43.748925+08:00"
   },
   {
     "source_id": "soompi",
@@ -88,17 +308,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "朴宝剑金裕贞等《云画的月光》主演10周年重聚综艺发第二版预告",
+    "title_zh": "朴宝剑、金裕贞等《云画的月光》主演10周年重聚综艺发布第二支预告",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "综艺《Love Again in the Moonlight》（直译）为纪念韩剧《云画的月光》播出10周年而制作",
-      "节目记录朴宝剑、金裕贞、Jin Young、蔡秀彬、郭东延五位演员共同进行两天一夜旅行",
-      "该综艺第二版预告片已公开"
+      "《云画的月光》10周年纪念综艺《Love Again in the Moonlight》（直译）公开第二支预告",
+      "节目记录朴宝剑、金裕贞、Jin Young（振永）、蔡秀彬、郭东延五位演员共同进行两天一夜旅行",
+      "第二支预告展示五位演员在旅行中放松互动的画面"
     ],
-    "summary_zh": "纪念韩剧《云画的月光》播出10周年的特别综艺《Love Again in the Moonlight》（直译）公开第二版预告。朴宝剑、金裕贞、Jin Young、蔡秀彬、郭东延五位原剧演员共同参与两天一夜的旅行，预告片中展现了五人放松游玩的状态。",
-    "extracted_at": "2026-09-11T16:31:05.983814+08:00"
+    "summary_zh": "为纪念韩剧《云画的月光》播出10周年，特别综艺节目《Love Again in the Moonlight》（直译）公开第二支预告。该节目由原剧五位主演朴宝剑、金裕贞、Jin Young（振永）、蔡秀彬、郭东延共同出演，记录他们一起进行两天一夜旅行的过程。新预告中展现了五人放松自在的互动场面。",
+    "extracted_at": "2026-09-11T23:46:45.898744+08:00"
   },
   {
     "source_id": "soompi",
@@ -113,18 +333,18 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "李准赫新剧《平凡的彩票》公开海报，中奖13亿韩元后从容上班",
+    "title_zh": "李准赫新剧《平凡的彩票》海报公开 中奖13亿韩元后从容上班",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "《平凡的彩票》改编自网络漫画，讲述普通销售职员孔恩泰（李准赫饰）中彩票头奖的故事",
-      "奖金金额为13亿韩元（约合95万美元）",
-      "该奖金不足以一夜之间彻底改变人生，但这段经历最终促使他改变自己",
+      "中奖金额为13亿韩元（约合95万美元）",
+      "该奖金不足以让主角一夜之间彻底改变人生，但这段经历最终促使他改变自己",
       "剧方公开了新海报"
     ],
-    "summary_zh": "韩剧《平凡的彩票》公开新海报。该剧改编自网络漫画，由李准赫饰演普通销售职员孔恩泰，讲述他中得13亿韩元（约95万美元）彩票头奖的故事。虽然这笔奖金不足以让他的人生一夜之间发生巨变，但中奖经历最终促使他选择改变自己。",
-    "extracted_at": "2026-09-11T16:31:08.118868+08:00"
+    "summary_zh": "改编自网络漫画的韩剧《平凡的彩票》公开新海报。该剧讲述普通销售职员孔恩泰（李准赫饰）中得彩票头奖的故事，奖金为13亿韩元（约合95万美元）。虽然这笔钱不足以让他一夜之间彻底改变人生，但中奖经历最终促使他选择改变自己。",
+    "extracted_at": "2026-09-11T23:46:47.836469+08:00"
   },
   {
     "source_id": "soompi",
@@ -139,17 +359,18 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《Love on the Menu》河锡辰代Hani敲开尹河彬封闭的心扉",
+    "title_zh": "《Love on the Menu》河锡辰代Hani敲开尹河彬封闭的心",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "KBS 2TV 剧集《Love on the Menu》公开了即将播出剧集的抢先片段",
+      "KBS 2TV 剧集《Love on the Menu》公开了即将播出剧集的预告片段",
       "该剧讲述金武镇（河锡辰 饰）与韩圭林（Hani 饰）这对昔日恋人在痛苦分手八年后重逢的故事",
-      "最新剧情中，河锡辰饰演的角色代Hani饰演的角色去敲开尹河彬所饰角色封闭的心扉"
+      "预告内容为河锡辰饰演的角色代替Hani饰演的角色去敲开尹河彬所饰角色封闭的心",
+      "消息来源为 Soompi"
     ],
-    "summary_zh": "KBS 2TV 剧集《Love on the Menu》公开了即将播出剧集的抢先片段。该剧讲述金武镇（河锡辰 饰）与韩圭林（Hani 饰）这对昔日恋人在痛苦分手八年后重逢的故事。在最新剧情中，河锡辰饰演的角色代Hani饰演的角色去敲开尹河彬所饰角色封闭的心扉。",
-    "extracted_at": "2026-09-11T16:31:10.278276+08:00"
+    "summary_zh": "KBS 2TV 剧集《Love on the Menu》公开了即将播出剧集的预告片段。该剧讲述金武镇（河锡辰 饰）与韩圭林（Hani 饰）这对昔日恋人在痛苦分手八年后重逢的故事。此次预告显示，河锡辰饰演的角色将代替Hani饰演的角色，去敲开尹河彬所饰角色封闭的心。",
+    "extracted_at": "2026-09-11T23:46:49.969690+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -169,35 +390,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "华莎（Hwasa）将参加Rock in Rio音乐节演出",
-      "华莎是首位在Rock in Rio音乐节表演的K-pop女性solo歌手",
+      "华莎（Hwasa）将登上Rock in Rio音乐节舞台",
+      "华莎是首位在Rock in Rio演出的K-pop女性solo歌手",
       "消息来源为韩国中央日报英文版（Korea JoongAng Daily）"
     ],
-    "summary_zh": "据韩国中央日报英文版报道，华莎（Hwasa）将成为首位在Rock in Rio音乐节上演出的K-pop女性solo歌手。原文未提及具体演出日期、地点及曲目等细节。",
-    "extracted_at": "2026-09-11T16:31:12.100804+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "KPop Demon Hunters Rumi and Jinu Action Figure 2-Pack: How Much Does It Cost and Where to Buy It? - Revista Merca2.0",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZVZoeV9pLTI5a2FZdWFDRl94Y2d5eXdoaTBXVW9QdmZHNUZoVlRUU21XU2ZBblNmOEt4NWhjWlkzRUhwOE13c1RscTRlenhmWG1BX2lQQ1N6VWMwLU1PamFvVU12TnYtOF9nWUc3SkxPQkhCdVFUZ1JkVHB3cGhOQUFickhmWG1ZOTMwRUZDcEgzQ0F1djRNUlp0cWI0LXZ6OEhvVl9IRjRta054Zl9IT1IzQURaUkZpbnVBYw?oc=5",
-    "content": "KPop Demon Hunters Rumi and Jinu Action Figure 2-Pack: How Much Does It Cost and Where to Buy It? Revista Merca2.0",
-    "published_at": "0911google-kpop",
-    "published_ts": 1789107904.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "《KPop Demon Hunters》Rumi与Jinu可动人偶双人套装售价及购买渠道公布",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "原文仅提及《KPop Demon Hunters》Rumi与Jinu可动人偶双人套装，未提供具体售价、购买渠道、发售日期等任何具体信息"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters》Rumi与Jinu可动人偶双人套装售价多少、在哪里购买？]",
-    "extracted_at": "2026-09-11T16:31:14.174277+08:00"
+    "summary_zh": "据韩国中央日报英文版报道，华莎（Hwasa）将登上Rock in Rio音乐节舞台，成为首位在该音乐节演出的K-pop女性solo歌手。原文未提及具体演出日期、场次安排及演出曲目等细节。",
+    "extracted_at": "2026-09-11T23:46:51.780819+08:00"
   },
   {
     "source_id": "soompi",
@@ -212,18 +410,18 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "孔晓振新剧《A Bona Fide Killer》揭露俄罗斯过往，团队追查模仿犯阻止新受害者",
+    "title_zh": "孔晓振《A Bona Fide Killer》新剧情：团队追查Kingfisher模仿犯，俄罗斯过往将揭晓",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "孔晓振主演的《A Bona Fide Killer》改编自热门网络漫画，是一部动作剧，讲述一位拥有致命职业的职场母亲努力平衡工作与生活。",
-      "孔晓振饰演 Yu Bo Na，表面看似普通。",
-      "剧情将揭露孔晓振角色在俄罗斯的过往。",
-      "孔晓振与团队追查 Kingfisher 的模仿犯，以防止出现新的受害者。"
+      "孔晓振主演的韩剧《A Bona Fide Killer》改编自热门网络漫画，是一部动作剧，讲述一位拥有致命职业的职场母亲为保护工作与生活平衡而奋斗的故事。",
+      "孔晓振在剧中饰演Yu Bo Na，表面上看似普通。",
+      "最新剧情中，孔晓振的团队在另一名受害者出现前追查Kingfisher的模仿犯。",
+      "孔晓振在俄罗斯的过往将在剧中揭晓。"
     ],
-    "summary_zh": "孔晓振主演的《A Bona Fide Killer》改编自热门网络漫画，是一部动作剧，讲述一位拥有致命职业的职场母亲为保护工作与生活平衡而奋斗。孔晓振饰演表面普通的 Yu Bo Na。最新剧情将揭露其在俄罗斯的过往，同时其团队追查 Kingfisher 的模仿犯，以阻止新受害者出现。",
-    "extracted_at": "2026-09-11T16:31:16.039516+08:00"
+    "summary_zh": "韩剧《A Bona Fide Killer》改编自热门网络漫画，由孔晓振主演，饰演看似普通的职场母亲Yu Bo Na。最新剧情中，孔晓振的团队在另一名受害者出现前追查Kingfisher的模仿犯，同时孔晓振在俄罗斯的过往也将揭晓。",
+    "extracted_at": "2026-09-11T23:46:53.832753+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -238,17 +436,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "LE SSERAFIM 与《守望先锋》时隔三年再合作，新曲《Made My Night》歌词与含义公开",
+    "title_zh": "LE SSERAFIM 与《守望先锋》时隔三年再合作，发布新曲《Made My Night》",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "LE SSERAFIM 与游戏《守望先锋》再次合作，距离上次合作曲《Perfect Night》已过去三年",
       "新合作曲名为《Made My Night》",
-      "原文提及歌词与含义，但未提供具体歌词内容或含义细节"
+      "原文未提及歌曲发行日期、具体成绩或歌词内容"
     ],
-    "summary_zh": "LE SSERAFIM 与《守望先锋》时隔三年再次合作，推出新曲《Made My Night》。此次合作是继《Perfect Night》后的又一次联动，但原文未透露歌词具体内容及含义细节。",
-    "extracted_at": "2026-09-11T16:31:17.979926+08:00"
+    "summary_zh": "LE SSERAFIM 与《守望先锋》时隔三年再次合作，推出新曲《Made My Night》。这是继《Perfect Night》之后的又一次联动。原文未提供更多细节。",
+    "extracted_at": "2026-09-11T23:46:55.344148+08:00"
   },
   {
     "source_id": "soompi",
@@ -263,17 +461,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《出轨只是开始》大结局三大反转事件：金惠秀等主演命运走向揭晓",
+    "title_zh": "《出轨只是开始》大结局：三起意外事件颠覆京熙、在洪、秀贞与宝成的生活",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "剧集《出轨只是开始》迎来大结局",
-      "剧中角色庆熙（金惠秀饰）、在洪（金智勋饰）、秀贞（曹汝贞饰）、宝成（金在哲饰）的生活被彻底颠覆",
-      "女儿艺智和敏瑞撞见父母的不当场面"
+      "剧集《出轨只是开始》大结局中，京熙（金惠秀饰）、在洪（金智勋饰）、秀贞（曹汝贞饰）与宝成（金在哲饰）的生活被彻底颠覆",
+      "女儿艺智与敏瑞撞见父母的不当场面",
+      "原文未提及具体事件细节、时间、数据或官方声明"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：混乱完全吞噬并颠覆了庆熙、在洪、秀贞和宝成的生活，他们的女儿艺智和敏瑞撞见了父母的不当场面，绳索正在收紧……]",
-    "extracted_at": "2026-09-11T16:31:20.079884+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：混乱完全吞噬并颠覆了京熙、在洪、秀贞与宝成的生活，他们的女儿艺智和敏瑞撞见了父母的不当场面，而绞索正在收紧……]",
+    "extracted_at": "2026-09-11T23:46:57.121995+08:00"
   },
   {
     "source_id": "soompi",
@@ -294,12 +492,12 @@
     "is_blurred": false,
     "facts_list": [
       "JTBC 新周末剧《Final Table》正在为首播做准备",
-      "剧情围绕来自世界各地的韩国料理厨师展开，他们齐聚参加名为“The Table: K-Chef 2026”的高风险生存竞赛，以决出最佳韩国厨师",
-      "导演金道勋（Kim Do Hoon）参与该剧",
-      "演员安孝燮、洪华妍等出席了剧本围读"
+      "剧情围绕来自世界各地的韩国厨师齐聚参加《The Table: K-Chef 2026》生存竞赛，角逐最佳韩国厨师",
+      "导演为金道勋（Kim Do Hoon）",
+      "演员安孝燮、洪华妍等参与了剧本围读"
     ],
-    "summary_zh": "JTBC 新周末剧《Final Table》即将首播。该剧讲述来自世界各地的韩国料理厨师齐聚参加“The Table: K-Chef 2026”生存竞赛，角逐最佳韩国厨师。导演金道勋与演员安孝燮、洪华妍等出席了剧本围读。",
-    "extracted_at": "2026-09-11T16:31:22.243474+08:00"
+    "summary_zh": "JTBC 新周末剧《Final Table》公开剧本围读现场，导演金道勋与演员安孝燮、洪华妍等出席。该剧讲述来自世界各地的韩国厨师齐聚参加《The Table: K-Chef 2026》生存竞赛，争夺最佳韩国厨师称号。目前剧集正在为首播做准备。",
+    "extracted_at": "2026-09-11T23:46:59.028255+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -320,10 +518,11 @@
     "is_blurred": false,
     "facts_list": [
       "华莎（Hwasa）将登上Rock in Rio音乐节舞台",
-      "华莎是首位在该音乐节演出的K-pop女性solo歌手"
+      "华莎是首位在该音乐节演出的K-pop女性solo歌手",
+      "消息来源为韩国媒体The Korea Herald"
     ],
-    "summary_zh": "据《The Korea Herald》报道，华莎将登上Rock in Rio音乐节舞台，成为首位在该音乐节演出的K-pop女性solo歌手。",
-    "extracted_at": "2026-09-11T16:31:23.858863+08:00"
+    "summary_zh": "据The Korea Herald报道，华莎（Hwasa）将登上Rock in Rio音乐节舞台，成为首位在该音乐节演出的K-pop女性solo歌手。",
+    "extracted_at": "2026-09-11T23:47:00.519692+08:00"
   },
   {
     "source_id": "soompi",
@@ -338,18 +537,18 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《新兵4：破坏》公开幕后花絮照，金民浩与李元贞等主演展现实拍默契",
+    "title_zh": "《新兵4：破坏》公开幕后花絮照 金民浩与李元正等主演展现实拍默契",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "ENA 剧集《新兵4：破坏》公开了拍摄幕后花絮照",
-      "公开的照片展示了主演们现实生活中的亲密默契",
-      "其中一张照片捕捉到金民浩与李元贞在片场一同大笑的画面",
-      "该剧主演们凭借在镜头前的完美化学反应吸引了观众"
+      "ENA 剧集《新兵4：破坏》公开了拍摄幕后花絮照片",
+      "照片展示了主演们在片场的真实默契与互动",
+      "其中一张照片捕捉到金民浩与李元正（暂译）在片场一同大笑的画面",
+      "该剧主演们凭借在镜头前的默契配合吸引了观众"
     ],
-    "summary_zh": "ENA 剧集《新兵4：破坏》公开了一组拍摄幕后花絮照。照片展示了主演们在现实生活中的温暖情谊，他们此前凭借在镜头前的完美默契吸引了观众。其中一张照片捕捉到金民浩与李元贞在片场一同大笑的画面。",
-    "extracted_at": "2026-09-11T16:31:26.123734+08:00"
+    "summary_zh": "ENA 剧集《新兵4：破坏》公开了一组拍摄幕后花絮照，展示了主演们在片场的真实互动与默契。其中一张照片捕捉到金民浩与李元正（暂译）在片场一同大笑的画面。该剧主演们凭借在镜头前的出色化学反应吸引了观众，此次公开的幕后照进一步展现了他们私下的融洽关系。",
+    "extracted_at": "2026-09-11T23:47:02.659454+08:00"
   },
   {
     "source_id": "soompi",
@@ -364,7 +563,7 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "秋英宇与金所泫主演新剧《Between Steps》公开甜蜜对视剧照",
+    "title_zh": "秋英宇与金所泫新剧《Between Steps》公开甜蜜对视剧照",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
@@ -372,10 +571,10 @@
       "新剧《Between Steps》由已故导演安畔锡执导，其代表作包括《经常请吃饭的漂亮姐姐》《春夜》《毕业》",
       "该剧为爱情题材，由秋英宇与金所泫主演",
       "制作方公开了两位主演甜蜜对视的剧照",
-      "剧集讲述一段爱情故事"
+      "剧集讲述一段爱情故事（原文未展开具体情节）"
     ],
-    "summary_zh": "秋英宇与金所泫主演的新爱情剧《Between Steps》公开了甜蜜对视剧照。该剧由已故导演安畔锡执导，他曾执导《经常请吃饭的漂亮姐姐》《春夜》《毕业》等热门作品。剧集讲述一段爱情故事，更多细节尚未披露。",
-    "extracted_at": "2026-09-11T16:31:27.787682+08:00"
+    "summary_zh": "秋英宇与金所泫主演的新爱情剧《Between Steps》公开了甜蜜对视剧照。该剧由已故导演安畔锡执导，他曾执导《经常请吃饭的漂亮姐姐》《春夜》《毕业》等热门剧集。剧集讲述一段爱情故事，更多细节尚未披露。",
+    "extracted_at": "2026-09-11T23:47:04.601460+08:00"
   },
   {
     "source_id": "soompi",
@@ -390,18 +589,18 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《A Bona Fide Killer》郑俊元因妻子孔晓振的秘密陷入矛盾",
+    "title_zh": "《A Bona Fide Killer》公开新剧照 郑俊元因妻子孔晓振的秘密陷入矛盾",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "MBC 剧集《A Bona Fide Killer》在即将播出的新一集前公开了新剧照",
-      "该剧改编自热门网络漫画，是一部动作剧，讲述一位拥有致命职业的职场母亲努力平衡工作与生活",
+      "该剧改编自热门网络漫画，是一部动作剧，讲述一位职场母亲从事致命工作并努力维持工作与生活平衡的故事",
       "孔晓振饰演 Yu Bo Na，表面上是一位普通经理",
-      "郑俊元饰演的角色因妻子孔晓振所饰角色的秘密而陷入矛盾"
+      "郑俊元在剧中因妻子孔晓振的秘密而感到矛盾"
     ],
-    "summary_zh": "MBC 剧集《A Bona Fide Killer》在即将播出的新一集前公开了新剧照。该剧改编自热门网络漫画，是一部动作剧，讲述一位拥有致命职业的职场母亲为保护工作与生活平衡而奋斗。孔晓振饰演表面普通的经理 Yu Bo Na，郑俊元饰演的角色因妻子的秘密而陷入矛盾。",
-    "extracted_at": "2026-09-11T16:31:29.954227+08:00"
+    "summary_zh": "MBC 剧集《A Bona Fide Killer》改编自热门网络漫画，是一部动作剧，讲述一位从事致命工作的职场母亲努力平衡工作与生活的故事。孔晓振饰演表面普通的经理 Yu Bo Na。在新一集播出前，制作方公开了新剧照，画面中郑俊元因妻子的秘密而陷入矛盾。",
+    "extracted_at": "2026-09-11T23:47:06.499993+08:00"
   },
   {
     "source_id": "soompi",
@@ -416,17 +615,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "徐康俊出演KBS 2TV新剧《A Love Other Than Yours》饰演隐忍型男友",
+    "title_zh": "徐康俊出演KBS 2TV新剧《A Love Other Than Yours》饰演隐忍付出的男友",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "KBS 2TV 即将播出的新剧《A Love Other Than Yours》公开了徐康俊所饰角色的新剧照",
+      "KBS 2TV 即将播出新剧《A Love Other Than Yours》",
       "该剧为现实向爱情剧，讲述一对交往第10年的情侣在原本熟悉的关系中经历意想不到的情感变化",
-      "徐康俊担任该剧主演"
+      "徐康俊在剧中饰演一名自我牺牲型男友，内心有难以言说的情感"
     ],
-    "summary_zh": "KBS 2TV 新剧《A Love Other Than Yours》公开了主演徐康俊的角色新剧照。该剧是一部现实向爱情剧，讲述一对交往进入第10年的情侣，在原本熟悉的关系中经历意想不到的情感变化。徐康俊在剧中饰演一位自我牺牲型男友，内心怀有难以言说的情感。",
-    "extracted_at": "2026-09-11T16:31:32.060847+08:00"
+    "summary_zh": "KBS 2TV 新剧《A Love Other Than Yours》公开了徐康俊所饰角色的新剧照。该剧是一部现实向爱情剧，讲述一对交往进入第10年的情侣，在原本熟悉的关系中经历意想不到的情感变化。徐康俊在剧中饰演一位自我牺牲型男友，内心怀有难以说出口的情感。",
+    "extracted_at": "2026-09-11T23:47:08.029650+08:00"
   },
   {
     "source_id": "soompi",
@@ -441,19 +640,19 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "金智媛主演SBS新剧《Doctor X》主海报公开，化身医疗暗黑英雄",
+    "title_zh": "金智媛主演SBS新剧《Doctor X》主海报公开，化身医学暗黑英雄",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "SBS 公开了新剧《Doctor X》的主海报",
       "《Doctor X》改编自同名热门日剧",
-      "该剧为医疗黑色题材剧（medical noir drama）",
+      "该剧为医学黑色题材（medical noir）",
       "金智媛饰演主角桂秀贞（Gye Soo Jung），代号“Doctor X”",
       "角色设定为仅凭纯粹技术实力证明医生真正意义的天才外科医生"
     ],
-    "summary_zh": "SBS 新剧《Doctor X》公开主海报，金智媛饰演天才外科医生桂秀贞。该剧改编自同名热门日剧，定位为医疗黑色题材，讲述代号“Doctor X”的主角仅凭精湛技术实力证明医生真正意义的故事。",
-    "extracted_at": "2026-09-11T16:31:34.107328+08:00"
+    "summary_zh": "SBS 新剧《Doctor X》公开主海报，主演金智媛在剧中饰演天才外科医生桂秀贞（代号“Doctor X”）。该剧改编自同名热门日剧，定位为医学黑色题材，讲述主角仅凭纯粹技术实力证明医生真正意义的故事。",
+    "extracted_at": "2026-09-11T23:47:09.696703+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -468,16 +667,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "aespa将发行数字单曲 收录各成员全新个人曲目",
+    "title_zh": "aespa将发行数字单曲 收录每位成员全新个人曲目",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "K-pop女团aespa将发行一首数字单曲",
+      "韩国女团aespa将发行一首数字单曲",
       "该数字单曲将收录每位成员的全新个人曲目"
     ],
     "summary_zh": "据《韩国时报》报道，K-pop女团aespa将发行一首数字单曲，其中将收录每位成员的全新个人曲目。",
-    "extracted_at": "2026-09-11T16:31:36.448448+08:00"
+    "extracted_at": "2026-09-11T23:47:11.267721+08:00"
   },
   {
     "source_id": "soompi",
@@ -497,11 +696,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "SBS剧集《Flex X Cop 2》下一集中，郑恩彩将出面证明安普贤的清白",
-      "安普贤在第二季中继续饰演第三代财阀继承人陈伊秀，利用财富和人脉像开外挂一样破案"
+      "SBS《Flex X Cop》第二季中，安普贤继续饰演第三代财阀继承人陈伊秀，利用财富和人脉像开外挂一样破案",
+      "下一集中，郑恩彩将出面证明安普贤的清白"
     ],
-    "summary_zh": "SBS《Flex X Cop 2》下一集预告：郑恩彩将出面为安普贤洗清嫌疑。安普贤在第二季中继续饰演第三代财阀继承人陈伊秀，利用财富与人脉像开外挂一样解决案件。",
-    "extracted_at": "2026-09-11T16:31:38.496038+08:00"
+    "summary_zh": "SBS《Flex X Cop》第二季公开最新剧照，郑恩彩将在下一集中为安普贤饰演的陈伊秀洗清嫌疑。安普贤在第二季继续出演第三代财阀继承人陈伊秀，利用财富与人脉如开外挂般解决案件。",
+    "extracted_at": "2026-09-11T23:47:13.098042+08:00"
   },
   {
     "source_id": "soompi",
@@ -516,18 +715,18 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "柳演锡徐玄振新剧《The Perfect Lie》首发预告，MBC心理惊悚剧揭开悬念",
+    "title_zh": "刘延锡徐玄振新剧《The Perfect Lie》首发预告，MBC心理惊悚剧揭开悬念",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "MBC 新剧《The Perfect Lie》发布首支预告",
       "该剧由《You and Everything Else》导演赵英民执导",
-      "剧情为心理惊悚类型，讲述一男一女对同一段记忆给出完全相反的陈述，在追寻真相过程中激烈冲突",
-      "主演为柳演锡与徐玄振"
+      "剧情为心理惊悚类型，讲述一名男子与一名女子对同一段记忆给出完全相反的陈述，在追寻真相过程中激烈冲突",
+      "主演为刘延锡与徐玄振"
     ],
-    "summary_zh": "MBC 新剧《The Perfect Lie》公开首支预告。该剧由《You and Everything Else》导演赵英民执导，柳演锡与徐玄振主演，是一部心理惊悚剧，讲述一男一女对同一段记忆给出截然相反的陈述，并在追寻真相的过程中激烈碰撞。",
-    "extracted_at": "2026-09-11T16:31:40.247168+08:00"
+    "summary_zh": "MBC 新剧《The Perfect Lie》公开首支预告。该剧由《You and Everything Else》导演赵英民执导，刘延锡与徐玄振主演，是一部心理惊悚剧。剧情围绕一名男子与一名女子对同一段记忆给出完全相反的说法展开，两人在追寻真相的过程中激烈碰撞。",
+    "extracted_at": "2026-09-11T23:47:14.667723+08:00"
   },
   {
     "source_id": "soompi",
@@ -547,11 +746,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "9月11日韩国时间，Netflix官方宣布柳俊烈、郑浩妍、洪京、元智安、Justin Min确认出演新剧《Outback》（暂定名）",
+      "9月11日韩国时间，Netflix官方宣布柳俊烈、郑浩妍、洪京、元志安、Justin Min确认出演新剧《Outback》（暂定名）",
       "《Outback》改编自网络漫画《G'Day》，是一部悬疑惊悚剧"
     ],
-    "summary_zh": "9月11日，Netflix正式公布新剧《Outback》（暂定名）的主演阵容，确认由柳俊烈、郑浩妍、洪京、元智安及Justin Min共同出演。该剧改编自网络漫画《G'Day》，定位为悬疑惊悚题材。",
-    "extracted_at": "2026-09-11T16:31:42.321317+08:00"
+    "summary_zh": "9月11日，Netflix正式公布新剧《Outback》（暂定名）的主演阵容，确认由柳俊烈、郑浩妍、洪京、元志安及Justin Min共同出演。该剧改编自网络漫画《G'Day》，定位为悬疑惊悚题材。",
+    "extracted_at": "2026-09-11T23:47:16.242773+08:00"
   },
   {
     "source_id": "soompi",
@@ -572,36 +771,36 @@
     "is_blurred": false,
     "facts_list": [
       "tvN新剧《100天的谎言》发布新预告",
-      "导演为由《非常律师禹英禑》及《浪漫医生》系列导演刘仁植执导",
+      "导演为由《非常律师禹英禑》和《浪漫医生金师傅》系列导演刘仁植执导",
       "该剧为日据时期背景的间谍爱情剧，故事跨度100天",
       "预告中金裕贞向GOT7朴珍荣做出虚假爱情告白"
     ],
-    "summary_zh": "tvN新剧《100天的谎言》公开新预告，由《非常律师禹英禑》及《浪漫医生》系列导演刘仁植执导。该剧为日据时期背景的间谍爱情剧，故事围绕100天内发生的事件展开。预告中金裕贞向GOT7成员朴珍荣做出虚假爱情告白。",
-    "extracted_at": "2026-09-11T16:31:44.128066+08:00"
+    "summary_zh": "tvN新剧《100天的谎言》公开新预告，由《非常律师禹英禑》及《浪漫医生金师傅》系列导演刘仁植执导。该剧为日据时期背景的间谍爱情剧，故事围绕100天内发生的事件展开。预告中金裕贞向GOT7成员朴珍荣做出虚假爱情告白。",
+    "extracted_at": "2026-09-11T23:47:18.319848+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "‘KPop Demon Hunters’: Streak On Netflix’s Global Top 10 Movies Chart Ends After 63 Weeks - Forbes",
+    "title": "‘KPop Demon Hunters’: Streak On Netflix’s Global Top 10 Movies Chart Ends After 63 Weeks - forbes.com",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQV1ZPRDc4WUk3WFlDd00tZE8xWG4tNy1NdGVRaHAzZUxsNUoya1ktVy1OUTNseUlPc2U5ZWpHTU92eE9vZ0VETlVaU3lxa1JRR3ZVQjNtNS04ZXQyd1EwM00wVG1zdHRWU2R4Y3dNMXJCRW50UzFyRzVDYlNXRHlLOTBjSlhCUmdPNG1ITHBPcXd5WnJLVlhINWlQNldUMEZSaGFjcnNHcGJPSzRycDMwNGhGU2NiUW5DaFpxb2RxYldEbmRQTmVKeDZWeFpIakgwbkE?oc=5",
-    "content": "‘KPop Demon Hunters’: Streak On Netflix’s Global Top 10 Movies Chart Ends After 63 Weeks Forbes",
+    "content": "‘KPop Demon Hunters’: Streak On Netflix’s Global Top 10 Movies Chart Ends After 63 Weeks forbes.com",
     "published_at": "0911google-kpop",
     "published_ts": 1789084700.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《KPop Demon Hunters》结束Netflix全球电影榜连续63周在榜纪录",
+    "title_zh": "《KPop Demon Hunters》结束Netflix全球电影榜前十连续63周在榜纪录",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "Netflix动画电影《KPop Demon Hunters》在Netflix全球Top 10电影榜连续在榜63周后，本周跌出榜单，连续在榜纪录就此终结",
-      "该消息由《福布斯》（Forbes）报道"
+      "《KPop Demon Hunters》在Netflix全球Top 10电影榜的连续在榜纪录于第63周结束",
+      "该片此前连续63周位列Netflix全球Top 10电影榜"
     ],
-    "summary_zh": "据《福布斯》报道，Netflix动画电影《KPop Demon Hunters》在Netflix全球Top 10电影榜连续上榜63周后，本周正式跌出该榜单，其连续在榜纪录就此结束。原文未披露该片此前在榜的具体排名变化及跌出榜单的具体原因。",
-    "extracted_at": "2026-09-11T16:31:46.064889+08:00"
+    "summary_zh": "据Forbes报道，《KPop Demon Hunters》在Netflix全球Top 10电影榜的连续在榜纪录已结束，持续时间为63周。该片此前连续63周进入该榜单，此次为该连续纪录的终结。",
+    "extracted_at": "2026-09-11T23:47:19.577113+08:00"
   },
   {
     "source_id": "soompi",
@@ -625,8 +824,8 @@
       "取消原因为“当地情况”（due to local circumstances）",
       "该消息由Soompi报道"
     ],
-    "summary_zh": "9月10日，TONZ Entertainment宣布，T.O.P原定于9月19日在雅加达举办的“T.O.P PRE-STUDIO 2026”粉丝见面会因“当地情况”取消。主办方发布了英文公告，活动在临近举办前被叫停。",
-    "extracted_at": "2026-09-11T16:31:48.302291+08:00"
+    "summary_zh": "TONZ Entertainment于9月10日宣布，T.O.P原定9月19日在雅加达举办的“T.O.P PRE-STUDIO 2026”粉丝见面会因当地情况取消。主办方发布了英文公告，未透露更多具体原因。",
+    "extracted_at": "2026-09-11T23:47:20.898184+08:00"
   },
   {
     "source_id": "soompi",
@@ -641,17 +840,40 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "安普贤在《Flex x Cop 2》中因涉嫌谋杀被拘留",
+    "title_zh": "安普贤在《Flex x Cop 2》中因谋杀嫌疑被拘留",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "安普贤在SBS剧集《Flex x Cop 2》中继续饰演第三代财阀继承人陈伊秀，该角色在调查陷入僵局时利用财富和人脉作为‘作弊码’。",
-      "在第二季中，安普贤面临迄今为止最大的危机，被作为谋杀嫌疑人拘留。",
-      "原文未提及具体拘留时间、地点或案件细节。"
+      "安普贤在SBS电视剧《Flex x Cop 2》中继续饰演第三代财阀继承人陈伊秀",
+      "剧中陈伊秀在调查陷入僵局时利用财富和人脉作为作弊码",
+      "第二季中安普贤面临最大危机，因谋杀嫌疑被拘留"
     ],
-    "summary_zh": "在SBS剧集《Flex x Cop 2》中，安普贤饰演的第三代财阀继承人陈伊秀在调查中利用财富和人脉破解僵局。第二季中，他面临最大危机，因涉嫌谋杀被拘留。原文未提供具体时间、地点或案件细节。",
-    "extracted_at": "2026-09-11T16:31:50.757514+08:00"
+    "summary_zh": "安普贤在SBS电视剧《Flex x Cop 2》第二季中再次饰演第三代财阀继承人陈伊秀，该角色在调查陷入僵局时利用财富和人脉作为作弊码。在第二季中，安普贤面临迄今为止最大的危机，因谋杀嫌疑被拘留。",
+    "extracted_at": "2026-09-11T23:47:22.690972+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "McDonald's and Netflix team up for all-new 'KPop Demon Hunters'-inspired meals - ABC News - Breaking News, Latest News and Videos",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ3ZfME9wMEpib2FLSXRJcEhMMTVNSUdqQUhuMlYzNmRMVlNBWGdjVlIwMVJlSDJUMkZpa2wyOE1rdE8tSDNIZFl5RXRKTVRWUTNqeDNRZXowakpMcjRId1FpLVpKTjY4clRSeF9NeTZFcENQMzdNMWh0NWRYZGplMDk2SDJoYlpnbkIzU2thaHF0LXo1LUU3WkZneThKN0syV3gwQzhHSFA5T1Yz0gGyAUFVX3lxTE9oYW81Y3BYSlV5NXljZmx1SHc3WjZ2R1VnZEdtNzBKSF9BS0tVbkpsMXpRTm1rUldaaGg4ellhV1FGSG5FQkxKNi10SklFSnpBQ0VRdi1SQ19Mb2FQLTZJOE1HR2twN0RNOXU3MHFYVjFsXzNNaTZ2ek9ZYzExN0NGVDFhYkt0ZWdWQ0gyVE1RVTVnV2s0cFhhclpyZVh0eU14Nm11ODliSkVjNF91dU9IeVE?oc=5",
+    "content": "McDonald's and Netflix team up for all-new 'KPop Demon Hunters'-inspired meals ABC News - Breaking News, Latest News and Videos",
+    "published_at": "0911google-kpop",
+    "published_ts": 1789078106.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "麦当劳与Netflix联手推出《KPop Demon Hunters》主题套餐",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "麦当劳与Netflix宣布合作，推出以《KPop Demon Hunters》为灵感的主题套餐。"
+    ],
+    "summary_zh": "麦当劳与Netflix达成合作，将推出以《KPop Demon Hunters》为灵感的全新主题套餐。目前官方仅公布合作消息，具体套餐内容、上市时间及参与地区尚未披露。",
+    "extracted_at": "2026-09-11T23:47:24.229771+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -666,7 +888,7 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《KPop Demon Hunters》与 Vans 2026 秋季联名系列定于 9 月 21 日发售",
+    "title_zh": "《KPop Demon Hunters》×Vans 2026秋季联名系列9月21日发售",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
@@ -675,39 +897,16 @@
       "该系列发售日期为 9 月 21 日",
       "信息来源为 House of Heat°"
     ],
-    "summary_zh": "据 House of Heat° 报道，《KPop Demon Hunters》与 Vans 的 2026 秋季联名系列将于 9 月 21 日发售。原文未披露具体单品、价格或发售渠道等更多细节。",
-    "extracted_at": "2026-09-11T16:31:52.801919+08:00"
+    "summary_zh": "据 House of Heat° 消息，《KPop Demon Hunters》与 Vans 合作的 2026 秋季联名系列将于 9 月 21 日正式发售。原文未披露具体单品、价格或发售渠道等更多细节。",
+    "extracted_at": "2026-09-11T23:47:25.384362+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "MND Local: Earthquake drills, K-pop and El Grito in CDMX - Mexico News Daily",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdWFXSjYzbkY2TkRHT3dtX0tpSXNrQl9TZXFheFJiRl9TYVFUQmFKWmlFQ1FXVkZydnFDYlpBZkZjVnFCS0N6V3lDNjlnM0ZUZkhPdWNjTTFZRTF6LVF2NjUtTFlUeDNkRC0zRlljVFlFTUNCQ2RvS1MyQWxlT0swME1XZTBLdERLazBR?oc=5",
-    "content": "MND Local: Earthquake drills, K-pop and El Grito in CDMX Mexico News Daily",
-    "published_at": "0911google-kpop",
-    "published_ts": 1789070409.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "墨西哥城举办地震演习、K-pop演出与独立日庆典活动",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "原文仅提及墨西哥城（CDMX）发生地震演习、K-pop演出和El Grito（墨西哥独立日庆典）三项活动，未提供具体时间、地点、艺人或数据"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：墨西哥城举办地震演习、K-pop演出与独立日庆典活动]",
-    "extracted_at": "2026-09-11T16:31:54.386392+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Epik High Is In Their K-Pop Content Era -- And Having Fun With It - Forbes",
+    "title": "Epik High Is In Their K-Pop Content Era -- And Having Fun With It - forbes.com",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZGtYOC1NYlBEZnZSaFBjMVVabzd1SzFzeWJWcl8zNGRUeWx5a3Zwc1BNYXVlaXd1UjJNQkVYOWh5X1FPV0l3cm1SR0RlbTcyN1JzZWl5OGhRcXpUdXBldWFKYW9YZE5sRGZFZ0Jyc2VVcU94REtCMWYwOEJzY0FiWHJFbHRiTEV1MUNZN2NrSER2WWptWDNqb05uRXZTQVV5WE9XNklPVVpIMFY5MHBnYXZPd3p5Zw?oc=5",
-    "content": "Epik High Is In Their K-Pop Content Era -- And Having Fun With It Forbes",
+    "content": "Epik High Is In Their K-Pop Content Era -- And Having Fun With It forbes.com",
     "published_at": "0911google-kpop",
     "published_ts": 1789069911.0,
     "category": "韩娱",
@@ -722,7 +921,7 @@
       "原文仅提及 Epik High 进入 K-Pop 内容时代并乐在其中，未提供具体时间、地点、数据或具名来源"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：Epik High 进入 K-Pop 内容时代并乐在其中]",
-    "extracted_at": "2026-09-11T16:31:55.903005+08:00"
+    "extracted_at": "2026-09-11T23:47:26.338868+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -742,82 +941,34 @@
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "Eggo推出与《KPop Demon Hunters》联名的华夫饼产品"
+      "Eggo推出了一款与《KPop Demon Hunters》联名的华夫饼产品"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：Eggo刚刚推出了《KPop Demon Hunters》华夫饼]",
-    "extracted_at": "2026-09-11T16:31:57.478135+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：Eggo刚推出了一款《KPop Demon Hunters》华夫饼]",
+    "extracted_at": "2026-09-11T23:47:27.460311+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "This weekend in Clarksville: a tribute to KPOP Demon Hunters, library story time, arts festival - Clarksville Now",
+    "title": "This weekend in Clarksville: a tribute to KPOP Demon Hunters, library story time, arts festival - clarksvillenow.com",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaW1JemxYYlN5ck9NRkNhQmpiRUg5ZWRQQi1JV00xczRvRmVvbVhFcVl5YnBoY3JrN1A4b04xQVFGQ2RqV0t2RzBYRkNLamRpY3BVZ2JvczZraThFa3p5dFN1RnNEcnJrWWV1U2ptNWdwSmxXVUduN3ZTbnVJNVdjTnhRM2l0SG9kTjBucEpqTXpaVnNDWXBFaV80WUNibVdDU3hsWUpPNks0enpJTXdBdG9JNnFPdFNaM25UTFZtT2tFd2Zu?oc=5",
-    "content": "This weekend in Clarksville: a tribute to KPOP Demon Hunters, library story time, arts festival Clarksville Now",
+    "content": "This weekend in Clarksville: a tribute to KPOP Demon Hunters, library story time, arts festival clarksvillenow.com",
     "published_at": "0911google-kpop",
     "published_ts": 1789061940.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "克拉克斯维尔本周末活动：K-POP恶魔猎人致敬演出、图书馆故事会与艺术节",
+    "title_zh": "克拉克斯维尔周末活动：K-POP恶魔猎人致敬演出、图书馆故事会与艺术节",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅提及克拉克斯维尔本周末有三项活动：K-POP恶魔猎人致敬演出、图书馆故事会、艺术节",
+      "原文仅提及克拉克斯维尔本周末将举办三项活动：K-POP恶魔猎人致敬演出、图书馆故事会、艺术节",
       "原文未提供具体时间、地点、参与人员或活动细节"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：克拉克斯维尔本周末活动包括K-POP恶魔猎人致敬演出、图书馆故事会和艺术节]",
-    "extracted_at": "2026-09-11T16:31:59.203792+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "It’s Officially the End of an Era for Netflix’s Most Popular Movie of All Time - Collider",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT1FkTmF1c0xCWVhZcUNZbnVqazJWSFhlUTJVSERaTFcxRHQzQnJ1QktjNjAweUk0V1A1aDhGQ2UyeXRiOFRvMDNsZkhWcDFkdHJNRm51RHUzbnpqMlhJN0hzcFk1R2w4SHhvSWV3aHdETUJwWEFJUUdfREw2amxRd2tKbw?oc=5",
-    "content": "It’s Officially the End of an Era for Netflix’s Most Popular Movie of All Time Collider",
-    "published_at": "0911google-kpop",
-    "published_ts": 1789060272.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Netflix 史上最受欢迎电影时代正式落幕",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "原文仅称 Netflix 史上最受欢迎电影的一个时代正式结束",
-      "原文未提及具体电影名称、时间、地点、数据或具名来源"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：Netflix 史上最受欢迎电影的时代正式落幕]",
-    "extracted_at": "2026-09-11T16:32:00.732412+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Rei Ami Interview on '2LOUD,' 'KPop Demon Hunters' & Her Come-Up Era - Billboard",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX09JbEVFYjB2cTNHcjZYRlRPVWZ1RV9DVUdQQ2QwRGttbUVGOERlQjB0WUI2Yk8wZmlTNzdfVkhsdjJHblpUM0xEN081aUFsbkxHbkJLVDdwUlUxX3hDZndieTY1a0wybHA1X0NYS3g5aDlYZ1JpaVppcHZlOEJReQ?oc=5",
-    "content": "Rei Ami Interview on '2LOUD,' 'KPop Demon Hunters' & Her Come-Up Era Billboard",
-    "published_at": "0911google-kpop",
-    "published_ts": 1789056042.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Rei Ami 专访：谈《2LOUD》《KPop Demon Hunters》与崛起时期",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "原文仅提供标题，未提及具体采访内容、时间、地点或数据",
-      "标题提及 Rei Ami 接受 Billboard 采访，话题涉及《2LOUD》《KPop Demon Hunters》及其崛起时期"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：Rei Ami 就《2LOUD》《KPop Demon Hunters》及其崛起时期接受 Billboard 专访]",
-    "extracted_at": "2026-09-11T16:32:02.889705+08:00"
+    "extracted_at": "2026-09-11T23:47:29.001284+08:00"
   },
   {
     "source_id": "asianwiki",
