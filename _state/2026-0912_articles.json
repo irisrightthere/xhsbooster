@@ -1,5 +1,268 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Absolute Batman, KPop Demon Hunters & Doctor Doom Together At NYCC - Bleeding Cool News",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZnhSU0Y1eFdULVFGQ3YySGZwUzM1SVRQUF9vMVRNOHBiRGNmZGxId3NGal9Za1FSZ1gtNTNpTjFXcmVtZnZ4X1pSRmVLejVlaFlLNGNtVFU3alVYeXJwdVBhOGZHYVo5eU8zc3dVMDhMX1llU3pqU1FMNXByYjhXTVZ0N0VfZGVobDIyWnlvUGJPcS1XZkk1WmVuT3I?oc=5",
+    "content": "Absolute Batman, KPop Demon Hunters & Doctor Doom Together At NYCC Bleeding Cool News",
+    "published_at": "0912google-kpop",
+    "published_ts": 1789222794.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《绝对蝙蝠侠》《KPop恶魔猎人》与《毁灭博士》齐聚纽约动漫展",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及《绝对蝙蝠侠》《KPop恶魔猎人》与《毁灭博士》将在纽约动漫展（NYCC）同场出现，未提供具体时间、地点、活动形式或参与人员等细节。"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：Absolute Batman, KPop Demon Hunters & Doctor Doom Together At NYCC]",
+    "extracted_at": "2026-09-12T22:54:25.238351+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "8TURN: A Career In Song Ratings - thebiaslist.com",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBRnpHRTF3YUc4MW0xNUJDemkycVZoUDV1YkNCaFg3R1dKWnlJYTJvSEE2RHFoWERWSFlnV3lzSEljYjFRWmdyS1REMi1KTXN4bEhtNjRXMFFfblpzc3NOeEpPem9mTHpDLWVrSGxqcWFpUTdr?oc=5",
+    "content": "8TURN: A Career In Song Ratings thebiaslist.com",
+    "published_at": "0912google-kpop",
+    "published_ts": 1789221744.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "8TURN 歌曲评分生涯回顾（thebiaslist.com）",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅包含标题“8TURN: A Career In Song Ratings”及来源网站 thebiaslist.com，未提供任何具体评分数据、歌曲名称、时间或事件细节"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：8TURN 的歌曲评分生涯回顾（来源 thebiaslist.com）]",
+    "extracted_at": "2026-09-12T22:54:26.947806+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Buried Treasure: &TEAM – Night To Howl! - thebiaslist.com",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0tNEs1U0NpWmdkeE9xUHU1LWlodHVBMS1NRFJvWEFjWTczNzB2R3c0SUtxMEFTQ0RmVmNwaXBidVZlS0k5NTdrbjVFT3ExNmtZNXB3cGI1WDdLUHVZMTJSaVptUGNXMS12LU1Vek5lRks5bG5uclV0MTZn?oc=5",
+    "content": "Buried Treasure: &TEAM – Night To Howl! thebiaslist.com",
+    "published_at": "0912google-kpop",
+    "published_ts": 1789221634.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "&TEAM 新曲《Night To Howl!》获乐评网站推荐",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "thebiaslist.com 将 &TEAM 的歌曲《Night To Howl!》列入其“Buried Treasure”推荐栏目",
+      "原文未提及歌曲发行时间、榜单成绩、销量数据或任何具名来源的具体评价内容"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：thebiaslist.com 将 &TEAM 的《Night To Howl!》列为“Buried Treasure”推荐曲目]",
+    "extracted_at": "2026-09-12T22:54:28.618515+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Buried Treasure: VERIVERY – Way To Zero - thebiaslist.com",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42TWpvY2dCRjJyaDBsUVBoMVZLUE85eFcxMkxVMGpmQWVENWNuVW83dHJlNVM1YTJYbFNOVU9IdjVCaVFONmVqTVdUVGJwams5TFk1b0ppR1ZkZjhFaEd6WFRvMEloNy15eUlnSjVQdlBWOG55b255RkE5QmI?oc=5",
+    "content": "Buried Treasure: VERIVERY – Way To Zero thebiaslist.com",
+    "published_at": "0912google-kpop",
+    "published_ts": 1789221465.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "VERIVERY 收录曲《Way To Zero》获乐评网站 thebiaslist 推荐",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "thebiaslist.com 将 VERIVERY 的歌曲《Way To Zero》列入其“Buried Treasure”（遗珠推荐）栏目",
+      "原文未提及该曲的发行时间、专辑名称、榜单成绩或任何具体数据"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：VERIVERY 的《Way To Zero》被 thebiaslist.com 列为“Buried Treasure”推荐曲目]",
+    "extracted_at": "2026-09-12T22:54:30.430570+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "KPOP Princesses brings music, dancing and interactive performances to F&M Bank Arena | PHOTOS - Clarksville Now",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSWM1b1d4SHNoTjJEUFEweVRPcGMwZzVoSDNReWpINGJSYzZhUWYwZks4TDVZYmk4S09oUUZITnpfZkQtcmtKWlV0dFEwWXcyQVlScUphQV83WEk5a3ZjZkdhbGM3Rk8waUl5Tm5DUVI0d0QxUktWaTFyNzJteElzNW5LZDRwT2xTVkdwbEVBQ2VjMF9SWldKZ3NiOFZLMnlFZnE3T3l1YUVzNzdndGpNeDZyRzM0Ylc1VjJId0EwRWc?oc=5",
+    "content": "KPOP Princesses brings music, dancing and interactive performances to F&M Bank Arena | PHOTOS Clarksville Now",
+    "published_at": "0912google-kpop",
+    "published_ts": 1789219620.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "KPOP Princesses 登陆 F&M Bank Arena 带来音乐舞蹈互动演出",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "演出团体 KPOP Princesses 在 F&M Bank Arena 举办演出",
+      "演出内容包含音乐、舞蹈和互动表演",
+      "原文附有现场照片（PHOTOS）"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：KPOP Princesses 在 F&M Bank Arena 带来音乐、舞蹈和互动表演]",
+    "extracted_at": "2026-09-12T22:54:32.079073+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Rei Ami Interview on '2LOUD,' 'KPop Demon Hunters' & Her Come-Up Era - Billboard",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX09JbEVFYjB2cTNHcjZYRlRPVWZ1RV9DVUdQQ2QwRGttbUVGOERlQjB0WUI2Yk8wZmlTNzdfVkhsdjJHblpUM0xEN081aUFsbkxHbkJLVDdwUlUxX3hDZndieTY1a0wybHA1X0NYS3g5aDlYZ1JpaVppcHZlOEJReQ?oc=5",
+    "content": "Rei Ami Interview on '2LOUD,' 'KPop Demon Hunters' & Her Come-Up Era Billboard",
+    "published_at": "0912google-kpop",
+    "published_ts": 1789219546.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Rei Ami 专访：谈《2LOUD》《KPop Demon Hunters》与崛起时期",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提供标题：Rei Ami 接受 Billboard 专访，谈及《2LOUD》《KPop Demon Hunters》及其崛起时期",
+      "原文未提及专访具体时间、地点、对话内容或任何数据"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：Rei Ami 就《2LOUD》《KPop Demon Hunters》及其崛起时期接受 Billboard 专访]",
+    "extracted_at": "2026-09-12T22:54:33.760227+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-pop Performance Directors Redefined Choreography at \"Street World Fighter: Directors' War\" - Daily Music Roll",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOV0JNdVBrdWF0Zlp5R21LemhVM1lVVjAtUVZ5aFVUdExNX2NjeElONkJYN056WU41c2Z0ZUVGdUNfc3g1WHljM0ZwejZaNDhFVzRxTU1YMTNBZllrbVpneHF6THZ6Z3A0Y2p5Y01leHBYZ2FSMDdQTlNfSlhPeGhZMzNjNUprOXREZno3VWsybFVYRVR5MGszT1U0cGpIY3dXT0EwLUdoRFNuS0dTWWkyYmVvamlBMUI0NGJpcXVReVdoUU1XaXN2ZXZ6ZHFyRU9iSzJyTQ?oc=5",
+    "content": "K-pop Performance Directors Redefined Choreography at \"Street World Fighter: Directors' War\" Daily Music Roll",
+    "published_at": "0912google-kpop",
+    "published_ts": 1789214257.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "K-pop表演总监在《街头世界斗士：总监之战》中重新定义编舞",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及K-pop表演总监在《街头世界斗士：总监之战》中重新定义编舞，未提供具体总监姓名、编舞细节、播出时间或平台等具体信息"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：K-pop表演总监在《街头世界斗士：总监之战》中重新定义了编舞]",
+    "extracted_at": "2026-09-12T22:54:35.000995+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Who is Nana, star of Netflix K-dramas The Scandal and Mask Girl? - South China Morning Post",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVjdsS2xRX0d3eHNmRVQ5UUhNVDA1UjgtRXExcjZuWUt1aWx3a2l4WGVnUEJ0NkZTc1FQR2JRSVZYWUtWQ3NWR1ppUzBmcXZISUROeGpEWmZ0UW84aU8yaVF4RGpsMWpoRWppaFJ1WUVBN1kwX1dlNHBINkRpcEM2ZmtBeWRfSzRSYURPc2I4NmdKQlRTSzU3dEFlSHdnTnVvWkp0QVhPdWlnVTQxV0tuN21BQnMzQUtrYjdJZmhvQ1gxb0RpNVI2THdB0gHKAUFVX3lxTE9KQVBSbThmMjd1OWtvRmNaSVg2MlVoSnptaHJhVlNLWHdETDlvSHZBR2FwYmwxN0Q2STZ4Y1RIN2taVnozRUpzb2I3SjZLMXQ0dlFraEY1b1lTMWRDVkdxdGNTVFFobE9hMk5wcy1HeWNaTWdxcmVzRFhiRklhV1Z0azIzMlo5T21xRzFyV25BU0NJUm5FX3FqMHlscHI5M1MxVjk5VlJkeEUyVFlsREF1TVJVcXVOb1NBR29KOTVvRnBiTWRZcHNEMFE?oc=5",
+    "content": "Who is Nana, star of Netflix K-dramas The Scandal and Mask Girl? South China Morning Post",
+    "published_at": "0912google-kpop",
+    "published_ts": 1789208105.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《丑闻》与《假面女郎》主演Nana是谁？南华早报人物介绍",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及Nana是Netflix韩剧《The Scandal》和《Mask Girl》的主演",
+      "原文未提供Nana的年龄、出道经历、代表作品等具体信息"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：Who is Nana, star of Netflix K-dramas The Scandal and Mask Girl?]",
+    "extracted_at": "2026-09-12T22:54:36.358506+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Seo Kang Jun, Ahn Eun Jin, And More Discuss Who Should Tune In To Tonight’s Premiere Of “A Love Other Than Yours”",
+    "url": "https://www.soompi.com/article/1869975wpp/seo-kang-jun-ahn-eun-jin-and-more-discuss-who-should-tune-in-to-tonights-premiere-of-a-love-other-than-yours",
+    "content": "The stars of KBS’s “A Love Other Than Yours” have shared their thoughts on who should tune in to the drama! “A Love Other Than Yours” is a realistic romance drama that follows a couple in their 10th year of dating as they experience unexpected emotional changes in a relationship that once felt familiar. Seo&#8230; Continue reading Seo Kang Jun, Ahn Eun Jin, And More Discuss Who Should Tune In To Tonight&#8217;s Premiere Of &#8220;A Love Other Than Yours&#8221;\nThe post Seo Kang Jun, Ahn Eun Jin, And More Discuss Who Should Tune In To Tonight&#8217;s Premiere Of &#8220;A Love Other Than Yours&#8221; appeared first on Soompi.",
+    "published_at": "0912soompi",
+    "published_ts": 1789203985.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "徐康俊、安恩真等主演《除了你之外的恋爱》今晚首播，分享观剧推荐",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "KBS新剧《除了你之外的恋爱》于今晚首播",
+      "主演徐康俊、安恩真等分享了谁应该收看该剧的想法",
+      "该剧是一部现实爱情剧，讲述一对交往10年的情侣在熟悉的关系中经历意想不到的情感变化"
+    ],
+    "summary_zh": "KBS新剧《除了你之外的恋爱》主演徐康俊、安恩真等分享了谁应该收看今晚首播的想法。该剧是一部现实爱情剧，讲述一对交往10年的情侣在曾经熟悉的关系中经历意想不到的情感变化。",
+    "extracted_at": "2026-09-12T22:54:38.244089+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-Pop Group Pentagon Is Ready To Return To Their ‘Universe’ - forbes.com",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTVZaZmw4UGNRd0NLaWJuQVJDZW9oYTYxMDNNNkNUYTd4cmdCbXFMNi1XeTZsMVJVdW9EVTIzUExxSS01cnFNV0VHM1AwbTVwcUxpYUNQaXRLeVpUZzNhcDFEVllEOTdyYmZ1bHMzX1QzTGZSeHpzVzNHNmQxYkdfMlZEN1VFSVhHZnA5Q0xScUVqYlFfakI3bVZTUGVVNzdSX0xhLWFwQTZnMHN4dl9WVA?oc=5",
+    "content": "K-Pop Group Pentagon Is Ready To Return To Their ‘Universe’ forbes.com",
+    "published_at": "0912google-kpop",
+    "published_ts": 1789202780.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "PENTAGON 宣布回归，重返《Universe》企划",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及 PENTAGON 准备回归其《Universe》企划，未提供具体日期、地点、数据或具名来源"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：K-Pop 组合 PENTAGON 准备回归他们的《Universe》企划]",
+    "extracted_at": "2026-09-12T22:54:39.682504+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Lee Jun Young Is Kidnapped Right Before The Performance Of His Dreams In “Four Hands, Two Sonatas”",
+    "url": "https://www.soompi.com/article/1869971wpp/lee-jun-young-is-kidnapped-right-before-the-performance-of-his-dreams-in-four-hands-two-sonatas",
+    "content": "On the next episode of “Four Hands, Two Sonatas,” Lee Jun Young will go missing right before the performance of his dreams. tvN’s “Four Hands, Two Sonatas” is a new drama that follows the friendship, love, rivalry, and growth of two students who meet at an arts high school, tracing their journey from adolescence to&#8230; Continue reading Lee Jun Young Is Kidnapped Right Before The Performance Of His Dreams In &#8220;Four Hands, Two Sonatas&#8221;\nThe post Lee Jun Young Is Kidnapped Right Before The Performance Of His Dreams In &#8220;Four Hands, Two Sonatas&#8221; appeared first on Soompi.",
+    "published_at": "0912soompi",
+    "published_ts": 1789201628.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "李准英新剧《四手联弹，两首奏鸣曲》下集预告：梦想演出前夕遭绑架",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "tvN新剧《四手联弹，两首奏鸣曲》讲述两名艺术高中学生在校园中相遇后，经历友情、爱情、竞争与成长的故事，时间跨度从青少年时期展开",
+      "在下集预告中，李准英饰演的角色在梦想中的演出即将开始前失踪（被绑架）",
+      "该剧由李准英出演，播出平台为tvN"
+    ],
+    "summary_zh": "tvN新剧《四手联弹，两首奏鸣曲》发布下集预告，李准英饰演的角色在梦想演出即将开始前遭绑架失踪。该剧讲述两名艺术高中学生在校园相遇后，从青少年时期开始经历的友情、爱情、竞争与成长故事。",
+    "extracted_at": "2026-09-12T22:54:41.822501+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -12,43 +275,42 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "孔晓振《正牌杀手》大结局前瞻：为保护家人与李伊利雅正面对峙",
+    "title_zh": "孔晓振《正牌杀手》大结局前瞻：为守护家人与李伊莉雅正面对峙",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "MBC 剧集《正牌杀手》（A Bona Fide Killer）公开了大结局的悬念预告",
-      "该剧改编自同名热门网络漫画，是一部动作剧，讲述一位从事致命职业的职场母亲努力平衡工作与生活",
-      "孔晓振（Kong Hyo Jin）担任主演，饰演角色 Yu（原文此处截断）",
-      "大结局中孔晓振饰演的角色为保护家人与李伊利雅（Lee Elijah）饰演的角色正面对峙"
+      "该剧改编自同名热门网漫，是一部动作剧，讲述一位从事致命职业的职场母亲努力平衡工作与生活",
+      "孔晓振（Kong Hyo Jin）担任主演，饰演角色 Yu…（原文此处截断）",
+      "大结局中孔晓振饰演的角色为守护家人与李伊莉雅（Lee Elijah）正面对峙"
     ],
-    "summary_zh": "MBC 剧集《正牌杀手》发布大结局预告。该剧改编自同名热门网漫，是一部动作剧，讲述一位从事致命职业的职场母亲为平衡工作与生活而奋斗的故事，由孔晓振主演。在大结局中，孔晓振饰演的角色为保护家人，与李伊利雅饰演的角色展开正面对峙。",
-    "extracted_at": "2026-09-12T16:19:24.755623+08:00"
+    "summary_zh": "MBC 剧集《正牌杀手》发布大结局悬念预告。该剧改编自同名热门网漫，为动作题材，讲述一位从事致命职业的职场母亲为兼顾工作与生活而奋斗的故事，由孔晓振主演。在大结局中，孔晓振饰演的角色为守护家人与李伊莉雅正面对峙。",
+    "extracted_at": "2026-09-12T22:54:44.429374+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "Netflix’s 'Kpop Demon Hunters' Replacement Reimagines a Classic Disney Princess - Polygon.com",
+    "title": "Netflix’s 'Kpop Demon Hunters' Replacement Reimagines a Classic Disney Princess - polygon.com",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSdjBTb1hNLVlWZzJpaFIxWlN2bVV0bEhXMGotYUY2ZjB5cjc5a2gxSzJQRkZjNGlMbXJEYzVxakd6TWtvcnlvV0NpSWszdHFLa2VPYzJPeV8tWWxO?oc=5",
-    "content": "Netflix’s 'Kpop Demon Hunters' Replacement Reimagines a Classic Disney Princess Polygon.com",
+    "content": "Netflix’s 'Kpop Demon Hunters' Replacement Reimagines a Classic Disney Princess polygon.com",
     "published_at": "0912google-kpop",
     "published_ts": 1789200014.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Netflix《Kpop 恶魔猎人》接档作品改编经典迪士尼公主",
+    "title_zh": "Netflix新动画接棒《Kpop Demon Hunters》，重新演绎经典迪士尼公主",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "Polygon.com 报道称 Netflix 将推出《Kpop 恶魔猎人》的接档作品",
-      "该作品被描述为对一位经典迪士尼公主的重新想象",
-      "原文未提及具体作品名称、主创、上线时间或任何具体数据"
+      "原文仅提及Netflix将推出《Kpop Demon Hunters》的接替作品，并重新构想一位经典迪士尼公主",
+      "原文未提供具体作品名称、制作团队、上线时间或任何其他细节"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：Netflix《Kpop 恶魔猎人》的接档作品重新想象了一位经典迪士尼公主]",
-    "extracted_at": "2026-09-12T16:19:26.262974+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：Netflix的《Kpop Demon Hunters》接替作品重新构想了一位经典迪士尼公主]",
+    "extracted_at": "2026-09-12T22:54:46.078191+08:00"
   },
   {
     "source_id": "soompi",
@@ -68,36 +330,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "SBS剧集《Flex X Cop 2》下一集将出现尸体被送到警察局的惊悚情节",
+      "SBS剧集《Flex X Cop 2》下一集将出现尸体被送到警局的惊悚情节",
       "安普贤在第二季中继续饰演财阀三世陈伊秀，利用财富和人脉作为作弊码",
       "郑恩彩与安普贤一同在警局收到尸体配送，两人表现出震惊"
     ],
-    "summary_zh": "SBS《Flex X Cop 2》下一集预告显示，安普贤饰演的财阀三世陈伊秀与郑恩彩在警察局收到一具尸体配送，两人大为震惊。第二季中安普贤继续利用财富和人脉破案。",
-    "extracted_at": "2026-09-12T16:19:28.763247+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Rei Ami Interview on '2LOUD,' 'KPop Demon Hunters' & Her Come-Up Era - Billboard",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX09JbEVFYjB2cTNHcjZYRlRPVWZ1RV9DVUdQQ2QwRGttbUVGOERlQjB0WUI2Yk8wZmlTNzdfVkhsdjJHblpUM0xEN081aUFsbkxHbkJLVDdwUlUxX3hDZndieTY1a0wybHA1X0NYS3g5aDlYZ1JpaVppcHZlOEJReQ?oc=5",
-    "content": "Rei Ami Interview on '2LOUD,' 'KPop Demon Hunters' & Her Come-Up Era Billboard",
-    "published_at": "0912google-kpop",
-    "published_ts": 1789197946.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Rei Ami 专访：谈《2LOUD》《KPop Demon Hunters》与崛起时期",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "原文仅提供标题：Rei Ami 接受 Billboard 专访，谈及《2LOUD》《KPop Demon Hunters》及其崛起时期",
-      "原文未提及采访具体时间、地点、对话内容或任何数据"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：Rei Ami 就《2LOUD》《KPop Demon Hunters》及其崛起时期接受 Billboard 专访]",
-    "extracted_at": "2026-09-12T16:19:30.861408+08:00"
+    "summary_zh": "SBS电视剧《Flex X Cop 2》下一集预告显示，安普贤饰演的财阀三世陈伊秀与郑恩彩饰演的角色在警局收到一具尸体配送，两人大为震惊。第二季中，安普贤继续利用财富和人脉作为破案作弊码。该剧由SBS播出。",
+    "extracted_at": "2026-09-12T22:54:48.120613+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -112,15 +350,15 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "All'N以小提琴与个人厂牌开拓K-pop新路径",
+    "title_zh": "All’N以小提琴与个人厂牌开拓K-pop新路径",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅提及All'N以小提琴和个人厂牌发展K-pop，未提供具体时间、地点、数据或具名来源"
+      "原文仅提及 All’N 以小提琴和个人厂牌发展 K-pop，未提供具体时间、地点、数据或具名来源"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：All'N以小提琴和自己的厂牌发展K-pop]",
-    "extracted_at": "2026-09-12T16:19:32.306876+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：All’N 以小提琴和自己的厂牌发展 K-pop]",
+    "extracted_at": "2026-09-12T22:54:49.583456+08:00"
   },
   {
     "source_id": "soompi",
@@ -140,12 +378,13 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "tvN新剧《四手联弹，两首奏鸣曲》讲述两名艺术高中学生在友情、爱情、竞争与成长中的故事，时间跨度从青少年到成年成为职业人士",
-      "宋江与李准英在剧中饰演的角色将从朋友变为竞争对手",
+      "tvN新剧《四手联弹，两首奏鸣曲》讲述两名艺术高中学生在友情、爱情、竞争与成长中的故事",
+      "宋江与李准英在剧中饰演的角色从朋友变为竞争对手",
+      "剧情时间线从两人的青少年时期延伸至成年后成为职业人士",
       "两人将在国际比赛中展开对决"
     ],
-    "summary_zh": "tvN新剧《四手联弹，两首奏鸣曲》中，宋江与李准英饰演的角色将从朋友变为竞争对手，在国际比赛中展开对决。该剧讲述两名在艺术高中相遇的学生的友情、爱情、竞争与成长，描绘他们从青少年到成年成为职业人士的旅程。",
-    "extracted_at": "2026-09-12T16:19:35.143137+08:00"
+    "summary_zh": "tvN新剧《四手联弹，两首奏鸣曲》中，宋江与李准英饰演的角色将从朋友变为竞争对手。该剧讲述两名在艺术高中相遇的学生的友情、爱情、竞争与成长，时间线从青少年时期延伸至成年后成为职业人士。最新剧情中，两人将在国际比赛中展开对决。",
+    "extracted_at": "2026-09-12T22:54:51.581251+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -160,15 +399,15 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "All'N 全力打造个人 K-pop 发展路径",
+    "title_zh": "All'N 独立打造个人 K-pop 发展路径",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅提及 All'N 正在全力打造个人 K-pop 发展路径，未提供具体时间、地点、数据或具名来源"
+      "原文仅提及 All'N 正在打造自己的 K-pop 路径，未提供具体时间、地点、数据或具名来源"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：All'N 全力打造个人 K-pop 发展路径]",
-    "extracted_at": "2026-09-12T16:19:36.552862+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：All'N goes 'all in' on building his own K-pop path]",
+    "extracted_at": "2026-09-12T22:54:53.164313+08:00"
   },
   {
     "source_id": "soompi",
@@ -183,41 +422,41 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "徐康俊安恩真新剧《除了你以外的爱》公开过去与现在对比剧照",
+    "title_zh": "徐康俊安恩真新剧《除了你之外的爱》公开过去与现在对比剧照",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "KBS 2TV 即将播出的新剧《除了你以外的爱》（A Love Other Than Yours）公开了徐康俊与安恩真的过去与现在对比剧照",
-      "该剧是一部现实主义爱情剧，讲述一对交往第10年的情侣在关系中经历意想不到的情感变化"
+      "KBS 2TV 即将播出的新剧《除了你之外的爱》（A Love Other Than Yours）公开了徐康俊与安恩真的过去与现在对比剧照",
+      "该剧是一部现实主义浪漫剧，讲述一对交往第10年的情侣在关系中经历意想不到的情感变化",
+      "徐康俊与安恩真在剧中的过去与现在呈现截然不同的状态"
     ],
-    "summary_zh": "KBS 2TV 新剧《除了你以外的爱》公开了徐康俊与安恩真的过去与现在对比剧照。该剧为现实主义爱情剧，讲述一对交往进入第10年的情侣，在感情中经历意想不到的情绪变化。",
-    "extracted_at": "2026-09-12T16:19:38.287699+08:00"
+    "summary_zh": "KBS 2TV 新剧《除了你之外的爱》公开了徐康俊与安恩真的过去与现在对比剧照。该剧为现实主义浪漫剧，讲述一对交往进入第10年的情侣，在长期关系中经历意想不到的情感变化。此次公开的剧照展现了两人过去与现在的不同状态。",
+    "extracted_at": "2026-09-12T22:54:55.072031+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "The Guide #260: From Oasis to K-pop, music is going mad for the big-screen documentary - theguardian.com",
+    "title": "The Guide #260: From Oasis to K-pop, music is going mad for the big-screen documentary - The Guardian",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdS1xRy1VMVJpUzlScnc1OXhjSW12V0MyZkFWRXEwUTZVWXZ2STF4NEFDU2NBcUdBTTZqYTZVU2loenFpOFlmeTRxeV9wOUNGOUY0bGpvS2V1NkxvT2ZidzdvODlQZ2tVd08yQXhOaUs3X2VnTmsxaXdGanQxczhhWTdKUVpuUzNVYnp4OV9HMFJ4Y3VhbUsyZDVRaVg5Vl9lQkVJQnZvSVFacVZqd3dNb3BDRXl5Y2U5?oc=5",
-    "content": "The Guide #260: From Oasis to K-pop, music is going mad for the big-screen documentary theguardian.com",
+    "content": "The Guide #260: From Oasis to K-pop, music is going mad for the big-screen documentary The Guardian",
     "published_at": "0912google-kpop",
     "published_ts": 1789192800.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《卫报》指南第260期：从绿洲到K-pop，音乐纪录片扎堆登陆大银幕",
+    "title_zh": "《卫报》指南第260期：从绿洲到K-pop，音乐纪录片席卷大银幕",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "《卫报》指南第260期主题为音乐纪录片趋势",
-      "提及英国乐队绿洲（Oasis）和K-pop作为案例",
-      "指出音乐纪录片正大量进入院线"
+      "《卫报》发布《指南》第260期，主题为音乐纪录片趋势",
+      "文章提及英国乐队绿洲（Oasis）和K-pop作为案例"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：从绿洲到K-pop，音乐正为 big-screen 纪录片疯狂]",
-    "extracted_at": "2026-09-12T16:19:40.033513+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：从绿洲到K-pop，音乐产业正疯狂涌向大银幕纪录片]",
+    "extracted_at": "2026-09-12T22:54:57.132421+08:00"
   },
   {
     "source_id": "soompi",
@@ -232,17 +471,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《Love on the Menu》河锡镇在家庭矛盾中安慰Hani",
+    "title_zh": "河锡辰在《Love on the Menu》中安慰身处家庭风波中的Hani",
     "source_type": "韩剧",
     "risk_level": "低",
-    "is_blurred": false,
+    "is_blurred": true,
     "facts_list": [
-      "KBS 2TV 剧集《Love on the Menu》讲述金武镇（河锡镇 饰）与韩圭林（Hani 饰）这对昔日恋人在痛苦分手八年后重逢的故事",
-      "剧方发布新剧照，画面为河锡镇在家庭矛盾中安慰Hani的场景",
-      "该剧由河锡镇与EXID成员Hani主演"
+      "KBS 2TV 剧集《Love on the Menu》讲述金武镇（河锡辰饰）与韩圭林（Hani饰）这对昔日恋人在痛苦分手八年后重逢的故事",
+      "原文未提及河锡辰安慰Hani的具体情节、时间、地点或任何具体行为细节"
     ],
-    "summary_zh": "KBS 2TV 剧集《Love on the Menu》公开新剧照，河锡镇饰演的金武镇在家庭矛盾中安慰Hani饰演的韩圭林。该剧讲述两人饰演的昔日恋人在痛苦分手八年后重逢的故事。",
-    "extracted_at": "2026-09-12T16:19:42.110815+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：河锡辰在《Love on the Menu》中于家庭风波中安慰Hani]",
+    "extracted_at": "2026-09-12T22:54:58.861694+08:00"
   },
   {
     "source_id": "soompi",
@@ -257,18 +495,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "徐康俊安恩真新剧《除了你之外的爱》首集预告公开 两人斗嘴互动",
+    "title_zh": "徐康俊安恩真主演KBS新剧《除了你以外的爱》首集预告公开 两人斗嘴互动",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "KBS 2TV 新剧《除了你之外的爱》（A Love Other Than Yours）公开了第一集预告",
-      "该剧是一部现实主义爱情剧，讲述一对交往第10年的情侣在原本熟悉的关系中经历意想不到的情感变化",
-      "预告片中徐康俊与安恩真互相斗嘴、打趣互动",
-      "消息来源为 Soompi"
+      "KBS 2TV 即将播出的新剧《除了你以外的爱》（A Love Other Than Yours）公开了第一集预告",
+      "该剧是一部现实爱情剧，讲述一对交往第10年的情侣在原本熟悉的关系中经历意想不到的情感变化",
+      "预告片中徐康俊与安恩真展现了斗嘴与调侃的互动"
     ],
-    "summary_zh": "KBS 2TV 新剧《除了你之外的爱》发布首集预告。该剧为现实主义爱情题材，讲述一对交往进入第10年的情侣，在原本熟悉的关系中经历意想不到的情感变化。预告片中，主演徐康俊与安恩真展开斗嘴与打趣互动。",
-    "extracted_at": "2026-09-12T16:19:44.084166+08:00"
+    "summary_zh": "KBS 2TV 新剧《除了你以外的爱》公开首集预告。该剧为现实爱情题材，讲述一对交往进入第10年的情侣，在原本熟悉的关系中经历意想不到的情感变化。预告片中，主演徐康俊与安恩真展现了互相斗嘴与调侃的互动场面。",
+    "extracted_at": "2026-09-12T22:55:00.981021+08:00"
   },
   {
     "source_id": "soompi",
@@ -283,7 +520,7 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "MBC《A Bona Fide Killer》收官在即 9月11日收视率9.6%蝉联同时段第一",
+    "title_zh": "MBC《A Bona Fide Killer》收官在即，9月11日全国收视率9.6%蝉联同时段第一",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
@@ -292,57 +529,8 @@
       "据Nielsen Korea数据，9月11日该剧全国平均收视率为9.6%",
       "该剧成功守住同时段收视率第一的位置"
     ],
-    "summary_zh": "MBC电视剧《A Bona Fide Killer》即将播出大结局，目前仅剩最后一集。据Nielsen Korea统计，9月11日该剧全国平均收视率达到9.6%，继续稳居同时段收视率榜首。",
-    "extracted_at": "2026-09-12T16:19:45.867041+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "K-pop idol Lisa, athlete Rick Hansen hit the red carpet at TIFF on Day 2 - thecanadianpressnews.ca",
-    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNTDFFRmlYVG9Yc1lzeUJEdDNOWkFuUS1QS091WTBjV19tTkM2N0RlQ0V0XzFtbTV2SDlVa01ONENDNzM2STk0UGpiOEZfVFZqTkJxMTlxQmIyVEp5VlBNNk5IS3pCcU9qRUJRYUxhNnJNUk1kSWZzbmh0WWduQV9XYWNVenlFS3dLSkVDVnpzb1hkZW1GWGFtVWJ6WnF6MUI5RzRwa1hIQlNaU2tiMk52d0dYQ0xocGQ5YWNpcGU1YnVvVGwzQnhCZ3ZJQzRvV21oWjc3TkZ6Z2FLN0FJeTBITk0wMjdhX2F2LTl3cVpSSzBmbC1qVkUwLVhYMm1tQQ?oc=5",
-    "content": "K-pop idol Lisa, athlete Rick Hansen hit the red carpet at TIFF on Day 2 thecanadianpressnews.ca",
-    "published_at": "0912google-kpop",
-    "published_ts": 1789186326.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "BLACKPINK Lisa与运动员里克·汉森亮相多伦多电影节第二日红毯",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "K-pop偶像Lisa（BLACKPINK成员）出席多伦多国际电影节（TIFF）第二日活动",
-      "加拿大运动员里克·汉森（Rick Hansen）同日亮相TIFF红毯",
-      "消息来源为thecanadianpressnews.ca"
-    ],
-    "summary_zh": "据thecanadianpressnews.ca报道，K-pop偶像Lisa与加拿大运动员里克·汉森于多伦多国际电影节（TIFF）第二日亮相红毯。原文仅提及两人出席红毯活动，未提供更多细节。",
-    "extracted_at": "2026-09-12T16:19:47.522344+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "'Always Lalisa' director says K-pop star immersed herself in process - Yahoo News Canada",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1NdjJtMTUzR3VTZVVEWlU5M3dWS0xhY1preUhPNGZyRHkxYkFhcEh1SkY1dVA3SmhQX01BVkpMZUQ3eW9uYk8tX01KRFU1dk0xUUdXY2x3dTVrZ0lYZ04tcUhBUWlsV01KN2JEeU0ybGJHVTVINmg4TmdB?oc=5",
-    "content": "'Always Lalisa' director says K-pop star immersed herself in process Yahoo News Canada",
-    "published_at": "0912google-kpop",
-    "published_ts": 1789186320.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "《Always Lalisa》导演称Lisa全身心投入拍摄过程",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "原文仅提及《Always Lalisa》导演表示K-pop明星Lisa在拍摄过程中全身心投入",
-      "原文未提供具体时间、地点、数据或导演姓名等细节"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：'Always Lalisa'导演表示K-pop明星Lisa在拍摄过程中全身心投入]",
-    "extracted_at": "2026-09-12T16:19:49.050662+08:00"
+    "summary_zh": "MBC剧集《A Bona Fide Killer》即将播出大结局，目前仅剩最后一集。据Nielsen Korea统计，9月11日该剧全国平均收视率达到9.6%，继续稳居同时段收视率第一。",
+    "extracted_at": "2026-09-12T22:55:02.785255+08:00"
   },
   {
     "source_id": "soompi",
@@ -366,8 +554,8 @@
       "《SaWaDiKa》将收录于Lisa即将发行的个人EP《PRESS PLAY》",
       "该视频展示了Lisa为《SaWaDiKa》编排的舞蹈细节"
     ],
-    "summary_zh": "BLACKPINK成员Lisa于9月12日KST发布了新单曲《SaWaDiKa》的舞蹈表演视频。该曲目将收录在她即将推出的个人EP《PRESS PLAY》中。视频为粉丝呈现了Lisa在这首歌中的编舞细节。",
-    "extracted_at": "2026-09-12T16:19:51.268858+08:00"
+    "summary_zh": "BLACKPINK成员Lisa于9月12日KST发布了新单曲《SaWaDiKa》的舞蹈表演视频。该曲目将收录在她即将推出的个人EP《PRESS PLAY》中。视频为粉丝呈现了Lisa为这首歌编排的舞蹈全貌。",
+    "extracted_at": "2026-09-12T22:55:04.573801+08:00"
   },
   {
     "source_id": "soompi",
@@ -391,8 +579,8 @@
       "Hoshi 表示将在手术后专注于康复",
       "Hoshi 目前正在服兵役期间"
     ],
-    "summary_zh": "SEVENTEEN 成员 Hoshi 在服兵役期间膝盖严重受伤。9月12日韩国时间，他通过 Weverse 亲自告知粉丝，自己被诊断为前十字韧带完全撕裂，将在接受手术后集中精力进行康复。",
-    "extracted_at": "2026-09-12T16:19:53.130158+08:00"
+    "summary_zh": "SEVENTEEN 成员 Hoshi 在服兵役期间膝盖严重受伤。9月12日韩国时间，他通过 Weverse 亲自透露被诊断为前十字韧带完全撕裂，将在手术后专注康复。原文未提及具体受伤时间、地点及手术日程等细节。",
+    "extracted_at": "2026-09-12T22:55:06.363884+08:00"
   },
   {
     "source_id": "soompi",
@@ -407,17 +595,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "9月男团品牌声誉排名公布：BTS继续位居榜首",
+    "title_zh": "9月男团品牌评价排名公布：防弹少年团继续位居榜首",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "韩国企业评价研究所公布了9月男团品牌声誉排名",
+      "韩国企业评价研究所公布了9月男团品牌评价排名",
       "排名基于8月12日至9月12日期间收集的大数据，分析消费者参与、媒体报道、互动和社区指数",
-      "BTS继续位居榜首"
+      "防弹少年团（BTS）继续位居榜首"
     ],
-    "summary_zh": "韩国企业评价研究所公布了9月男团品牌声誉排名。该排名通过分析8月12日至9月12日期间收集的大数据，综合消费者参与、媒体报道、互动和社区指数得出。BTS继续位居榜首。",
-    "extracted_at": "2026-09-12T16:19:54.572429+08:00"
+    "summary_zh": "韩国企业评价研究所公布了9月男团品牌评价排名。该排名通过分析8月12日至9月12日期间收集的大数据，综合消费者参与、媒体报道、互动和社区指数得出。防弹少年团（BTS）继续位居榜首。",
+    "extracted_at": "2026-09-12T22:55:08.079851+08:00"
   },
   {
     "source_id": "soompi",
@@ -432,18 +620,43 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "5部你可能还没看过的被低估韩剧，值得一看",
+    "title_zh": "5部你可能还没看过的冷门韩剧，值得一看",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "文章列举了5部被低估的韩剧，但原文仅详细介绍了其中一部《Serendipity's Embrace》",
+      "原文列举了5部冷门韩剧，但仅详细描述了其中一部《Serendipity's Embrace》",
       "《Serendipity's Embrace》中，李洪珠（金所泫饰）的初恋以心碎告终，使她对爱情持怀疑态度",
-      "10年后，她与初恋姜厚英（蔡钟协饰）在咖啡馆意外重逢",
+      "10年后，她在咖啡馆与初恋姜厚英（蔡钟协饰）意外重逢",
       "厚英现在是一名财务规划师，可能是她最不想见到的人"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：5部你可能还没看过的被低估韩剧，值得一看]",
-    "extracted_at": "2026-09-12T16:19:56.454904+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：5部你可能还没看过的冷门韩剧，值得一看]",
+    "extracted_at": "2026-09-12T22:55:09.978808+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Beyond choreography: K-pop performance directors step into spotlight - koreatimes.co.kr",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeEVRUXd5U0o3S2w4U3VEVVh1elBOMURwVkszNmh1bV9iMVdsaXJ3d19fUW5UU0VCVXFaOVVRMnNCTkJBN25YQmZ6Y0NDZEo4T1RhVXNjbmR3LVlGOURrT1lCNFFqQlBUM0tGU1RzQWpBczB2dzZoTVFoME9SYjRkcGhQZ1VZUE81dDNoc3czMjdZVWwzNkIyZ1NEV19lVnBHOFVVa2lKZUdyWERmckJ4N05xa1RXVXdKNEduN0hTRTR6OW_SAcgBQVVfeXFMT01GZGs0OWhKNmMtV1hjNlBPaEZIcG9EU3kzb2F3bHRzNXlBQUh4MF9FY0hrd2NnSTdyTVF6Rzlnckt4SUtQNHF4UmhUcTRUclM2UEJDYVFIMlhESnI2eHFJY0VGeUVSMFpmNXE5aUNiQTdXZ2ctMkNIYWVmOE9rRkJGLTExaW1OVDRaUUdSZG1CYVZWXy0zOU9PZDVodEFqdjNRVk9qbW4zMkxZc2ZGWnVjXzhTaE9QS1FJLVNPbjB0cmpBbS04a2k?oc=5",
+    "content": "Beyond choreography: K-pop performance directors step into spotlight koreatimes.co.kr",
+    "published_at": "0912google-kpop",
+    "published_ts": 1789164000.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "韩娱编舞导演从幕后走向台前 表演指导成行业焦点",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及K-pop表演导演（performance directors）正从编舞幕后走向聚光灯下",
+      "原文来源为韩国媒体koreatimes.co.kr",
+      "原文未提及具体人物姓名、所属组合、时间、地点或任何数据"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：K-pop表演导演正走出编舞幕后、步入聚光灯下]",
+    "extracted_at": "2026-09-12T22:55:11.726687+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -458,39 +671,15 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "加州州立大学富勒顿分校ASI举办K-pop之夜，学生以音乐舞蹈共融文化",
+    "title_zh": "加州州立大学富勒顿分校举办K-pop之夜 以音乐舞蹈促进文化交流",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅提及加州州立大学富勒顿分校（CSUF）的ASI举办K-pop之夜活动，未提供具体时间、地点、参与人数或活动细节"
+      "原文仅提及加州州立大学富勒顿分校（CSUF）学生会ASI举办K-pop之夜活动，未提供具体时间、地点、参与人数或活动细节"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：ASI的K-pop之夜通过音乐、舞蹈和文化将CSUF学生聚集在一起]",
-    "extracted_at": "2026-09-12T16:19:58.041333+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Sony Boss Says KPOP DEMON HUNTERS Wouldn’t Have Been as Big in Theaters, But I’m Not Buying It - GeekTyrant",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYXhpY1NYVEtVdVQzSWp4d2dHYXpHRVVhU0NVd0otZF9DZEZTQlQtSnR6RnlleDRZek5sUENIeXF5SVR2OTlpaUNfZEdNNHd5NWo1Tk1vNWF2X1F0dWxNaTk4ZEhaTkx4S0lkU09JNGNGTV9oakFSSlJqeWlwWXhGc0JZdTRiLTV1OHhfcFA5TWo4RzY3R3B4SW9zYU1fSkpqbEVMZVkzTmh3d1JQZUZSUGhEcndKejhLa2g0?oc=5",
-    "content": "Sony Boss Says KPOP DEMON HUNTERS Wouldn’t Have Been as Big in Theaters, But I’m Not Buying It GeekTyrant",
-    "published_at": "0912google-kpop",
-    "published_ts": 1789147740.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "索尼高管称《KPOP DEMON HUNTERS》若上院线不会这么火，GeekTyrant 反驳",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "索尼高管表示《KPOP DEMON HUNTERS》若在影院上映不会取得如此大的成功",
-      "GeekTyrant 发文反驳索尼高管的观点"
-    ],
-    "summary_zh": "索尼高管称《KPOP DEMON HUNTERS》若走院线发行不会像现在这样火爆，但 GeekTyrant 对此表示不认同。原文未提供更多具体细节。",
-    "extracted_at": "2026-09-12T16:20:00.266895+08:00"
+    "extracted_at": "2026-09-12T22:55:13.428391+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -505,16 +694,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "韩流偶像组合Big Ocean到访纽约哈德逊城市广场Edge观景台",
+    "title_zh": "韩娱组合Big Ocean到访纽约哈德逊城市广场Edge观景台",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "韩流偶像组合Big Ocean到访纽约哈德逊城市广场的Edge观景台",
+      "韩娱偶像组合Big Ocean到访纽约哈德逊城市广场（Hudson Yards）的Edge观景台",
       "信息来源为V13 Media"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：韩流偶像组合Big Ocean到访纽约哈德逊城市广场Edge观景台]",
-    "extracted_at": "2026-09-12T16:20:01.767542+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：韩娱偶像组合Big Ocean到访纽约哈德逊城市广场Edge观景台]",
+    "extracted_at": "2026-09-12T22:55:14.891760+08:00"
   },
   {
     "source_id": "asianwiki",
