@@ -1,5 +1,505 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "The 36 Best KPop Demon Hunter Toys for Kids of All Ages - Parents",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TWXJXdVhZcWticHZSWGpna096ZFBfSVBaTThORnBza1FLUFBFZ2t6YWEtbWQ2R0E3aXVZTk5KUERYdmYyZEcwU2trUE1LTjhsNXlPWElaS25iUVF0Tlh1clhXTXNfa2pfbXVwcw?oc=5",
+    "content": "The 36 Best KPop Demon Hunter Toys for Kids of All Ages Parents",
+    "published_at": "0918google-kpop",
+    "published_ts": 1789718400.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《KPop Demon Hunter》周边玩具盘点：Parents 推荐 36 款全年龄玩具",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文标题为《The 36 Best KPop Demon Hunter Toys for Kids of All Ages - Parents》",
+      "原文正文仅重复标题内容，未提供任何具体玩具名称、价格、发售时间或来源信息"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：Parents 推荐 36 款适合各年龄段儿童的《KPop Demon Hunter》玩具]",
+    "extracted_at": "2026-09-18T16:41:51.301216+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "RESCENE Announces Comeback Date",
+    "url": "https://www.soompi.com/article/1871680wpp/rescene-announces-comeback-date",
+    "content": "RESCENE is set to return with a new album this November! On September 18, a media outlet reported that RESCENE has finalized their comeback date and is currently accelerating preparations for the release. In response to the report, their agency THE MUZE Entertainment confirmed, &#8220;It is true that RESCENE will be releasing a new album&#8230; Continue reading RESCENE Announces Comeback Date\nThe post RESCENE Announces Comeback Date appeared first on Soompi.",
+    "published_at": "0918soompi",
+    "published_ts": 1789717995.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "RESCENE 确定11月携新专辑回归，所属社确认正在加速筹备",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "9月18日，有媒体报导 RESCENE 已确定回归日期，正在加速筹备新专辑发行",
+      "所属社 THE MUZE Entertainment 回应确认：RESCENE 将发行新专辑属实",
+      "回归时间为今年11月"
+    ],
+    "summary_zh": "9月18日，有媒体报导 RESCENE 已确定回归日期，目前正在加速筹备新专辑。所属社 THE MUZE Entertainment 对此回应称，RESCENE 将发行新专辑属实。据报导，RESCENE 计划于今年11月携新专辑回归。",
+    "extracted_at": "2026-09-18T16:41:53.326243+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "“Undercover Chef” Announces New Spin-Off To Air Later This Year",
+    "url": "https://www.soompi.com/article/1871684wpp/undercover-chef-announces-new-spin-off-to-air-later-this-year",
+    "content": "Variety show “Undercover Chef” is getting a new spin-off later this year! On September 18, tvN announced “Undercover Chef: Friends Who Came From Afar” (literal title), a spin-off that brings the local chefs from the original series to Korea, where they will experience unfamiliar Korean kitchens firsthand. “Undercover Chef,” which concluded in July, follows Korea’s&#8230; Continue reading “Undercover Chef” Announces New Spin-Off To Air Later This Year\nThe post “Undercover Chef” Announces New Spin-Off To Air Later This Year appeared first on Soompi.",
+    "published_at": "0918soompi",
+    "published_ts": 1789717980.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "tvN《卧底厨师》推出衍生综艺《远道而来的朋友们》，年内在韩播出",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "9月18日，tvN官方宣布将推出《卧底厨师》衍生综艺，暂定名为《卧底厨师：远道而来的朋友们》（直译）",
+      "该衍生节目将把原系列中的当地厨师带到韩国，让他们亲身体验陌生的韩国厨房",
+      "原节目《卧底厨师》已于今年7月收官",
+      "衍生节目预计今年晚些时候播出"
+    ],
+    "summary_zh": "9月18日，tvN宣布将推出综艺《卧底厨师》的衍生节目，暂定名为《卧底厨师：远道而来的朋友们》。该衍生节目将把原系列中的当地厨师带到韩国，让他们亲身体验陌生的韩国厨房。原节目《卧底厨师》已于今年7月收官，衍生节目预计今年晚些时候播出。",
+    "extracted_at": "2026-09-18T16:41:55.171870+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Most Rewatched K-Dramas: 45+ Shows To Watch For Viki’s K-Drama Day",
+    "url": "https://www.soompi.com/article/1866211wpp/most-rewatched-k-dramas-45-shows-to-watch-for-k-drama-day",
+    "content": "Celebrate this year&#8217;s K-Drama Day by rewatching your favorite shows! As part of Rakuten Viki’s International K-Drama Day celebration—which is set to take place on September 25—fans can explore curated drama collections featuring different themes and genres, making it easy to find something new to watch. For those who are avid K-drama fans and have&#8230; Continue reading Most Rewatched K-Dramas: 45+ Shows To Watch For Viki&#8217;s K-Drama Day\nThe post Most Rewatched K-Dramas: 45+ Shows To Watch For Viki&#8217;s K-Drama Day appeared first on Soompi.",
+    "published_at": "0918soompi",
+    "published_ts": 1789717207.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Viki国际韩剧日9月25日举行，推出45部以上主题剧集片单",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Rakuten Viki 将举办国际韩剧日（International K-Drama Day）庆祝活动，日期定于9月25日",
+      "活动期间粉丝可浏览按不同主题和类型策划的剧集合集",
+      "活动提供45部以上剧集供观众选择观看"
+    ],
+    "summary_zh": "Rakuten Viki 将于9月25日举办国际韩剧日庆祝活动。活动期间，粉丝可以浏览按不同主题和类型策划的剧集合集，方便找到新剧观看。活动提供45部以上剧集供选择，鼓励韩剧粉丝重温喜爱的作品。",
+    "extracted_at": "2026-09-18T16:41:56.935731+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "“Fresh Off The Sea 3” To Not Air Next Week",
+    "url": "https://www.soompi.com/article/1871682wpp/fresh-off-the-sea-3-to-not-air-next-week",
+    "content": "“Fresh Off The Sea 3” will be taking a one-week break. On September 18, tvN announced that the show will not air on September 24 in observance of South Korea’s Chuseok holiday. “Fresh Off The Sea 3” will return on October 1 at 8:40 p.m. KST. “Fresh Off The Sea” is a reality show that&#8230; Continue reading “Fresh Off The Sea 3” To Not Air Next Week\nThe post “Fresh Off The Sea 3” To Not Air Next Week appeared first on Soompi.",
+    "published_at": "0918soompi",
+    "published_ts": 1789715436.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "tvN《海边出发3》因中秋假期9月24日停播一周，10月1日复播",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "tvN于9月18日宣布，《海边出发3》将于9月24日停播一周",
+      "停播原因为韩国中秋假期（Chuseok）",
+      "节目将于10月1日晚8点40分（KST）恢复播出",
+      "《海边出发》是一档真人秀节目"
+    ],
+    "summary_zh": "tvN于9月18日宣布，真人秀节目《海边出发3》因韩国中秋假期将于9月24日停播一周，并于10月1日晚8点40分（KST）恢复播出。",
+    "extracted_at": "2026-09-18T16:41:58.586108+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "A+E Backs Lifetime's 'Oh! My Guard' Starring CNBLUE's Jung Yong-hwa - Deadline",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ0FPX3BUc01tVjBKSDlLa1BURzB5YnlrenhqOUdYV3dPaWllSzdZRmNEcWZ5YTdBZlp1cWdBV0hTWGNaNF9TQkQ3Y3dqeHVjSXpqa3B1S3dZdWRyMWFCcnJkbmFpdkZaOC1Wd3JVR1hnNXN0Q1QwOEU3VDJoUS1PcWNxcWZNUjhTT0F0TzRVd1l3QmM?oc=5",
+    "content": "A+E Backs Lifetime's 'Oh! My Guard' Starring CNBLUE's Jung Yong-hwa Deadline",
+    "published_at": "0918google-kpop",
+    "published_ts": 1789714800.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "A+E 投资 Lifetime 新剧《Oh! My Guard》，CNBLUE 郑容和主演",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "A+E 确认投资 Lifetime 剧集《Oh! My Guard》",
+      "该剧由 CNBLUE 成员郑容和主演",
+      "消息来源为 Deadline 报道"
+    ],
+    "summary_zh": "据 Deadline 报道，A+E 已确认投资 Lifetime 新剧《Oh! My Guard》，该剧由 CNBLUE 成员郑容和主演。目前原文未披露剧集播出时间、集数及郑容和所饰角色等具体细节。",
+    "extracted_at": "2026-09-18T16:42:00.347226+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Netflix drops KPop Demon Hunters jewellery collection: Designs, prices and more - IndulgExpress",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWDd4OVJvS29TR1VrdzhUTGhrMFI4TFYtWUhBdGNyTEgwTXVZZENTOWhkR2lXRm1hRGpteTl1SE5DOGhrc2JaajZrMVR1Zi1wYk56VjBSSUlRbGJzazJSNE02UjdNQUlfamRRYTEycmZzRzFVeU1ZSDlQanV3WndsRjcwT1hOLTh4R0t5ajRmaHpDQXUtOFlsSVNYcVpvQmtFbWc0aklkR2JWWWhWMUVRejFwT0RXV3RRc0xQZ1NSU3lERXRBNnV5S3NuMnQtZFBhX280OXQta9IB5AFBVV95cUxPbnlVRzNVVmF1SlZPRzBzOUFmMG82Nm81SjhqUXpOWHRvMWZ0SS13Y1l4ZklIYmo0S3FTc0s5dEdwZTZJcTFtdUd0dE1nbVpMTWdRZmZoTENlMy1xWEJDSk9Xc3ZfOGU1YlJxQ0xiOC1zdVI3ZzVIakJaOWszQTJNLTR3NmFTbGxXM1FEcE5fYkprbDZJM3JBb0ZfM3NHazNxZXRpZXhLbnVRaDA0ckgzMWZOUy1DSXFBQm5ENng3ekRud1M0VWIwNzdzMmdTb1Z3eEtCeVdaNThZeEE4bTBYNWJwc0c?oc=5",
+    "content": "Netflix drops KPop Demon Hunters jewellery collection: Designs, prices and more IndulgExpress",
+    "published_at": "0918google-kpop",
+    "published_ts": 1789714539.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Netflix推出《KPop Demon Hunters》珠宝系列：设计、价格等详情",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "Netflix推出《KPop Demon Hunters》珠宝系列",
+      "原文未提及具体设计、价格等细节"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：Netflix推出《KPop Demon Hunters》珠宝系列，包含设计、价格等更多信息]",
+    "extracted_at": "2026-09-18T16:42:01.795127+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Lee Je Hoon In Talks For New Horror Thriller Film",
+    "url": "https://www.soompi.com/article/1871675wpp/lee-je-hoon-in-talks-for-new-horror-thriller-film",
+    "content": "Lee Je Hoon may be making a comeback to the big screen! On September 18, JTBC Entertainment News reported that Lee Je Hoon had recently been confirmed to star in the upcoming film “Ominous Dream” (literal title). In response to the report, his agency COMPANY ON clarified, “His casting has not been confirmed. He has&#8230; Continue reading Lee Je Hoon In Talks For New Horror Thriller Film\nThe post Lee Je Hoon In Talks For New Horror Thriller Film appeared first on Soompi.",
+    "published_at": "0918soompi",
+    "published_ts": 1789714522.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "李帝勋或出演新恐怖惊悚片《凶梦》，所属社回应称尚未确定",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "9月18日，JTBC娱乐新闻报导称李帝勋已确定出演新片《凶梦》（暂译）",
+      "李帝勋所属社COMPANY ON回应称：选角尚未确定"
+    ],
+    "summary_zh": "9月18日，JTBC娱乐新闻报导称李帝勋已确定出演新片《凶梦》（暂译）。对此，李帝勋所属社COMPANY ON回应表示选角尚未确定，目前仍在讨论中。",
+    "extracted_at": "2026-09-18T16:42:03.267631+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Chungha To Miss University Festival Performance After Being Rushed To ER Due To Health Issue",
+    "url": "https://www.soompi.com/article/1871669wpp/chungha-to-miss-university-festival-performance-after-being-rushed-to-er-due-to-health-issue",
+    "content": "Chungha will be unable to perform at a scheduled university festival after being rushed to the emergency room due to a sudden health issue. On September 18, her agency MORE VISION shared the following statement on its official social media: Hello, this is MORE VISION. Early this morning, our artist Chungha was taken to the&#8230; Continue reading Chungha To Miss University Festival Performance After Being Rushed To ER Due To Health Issue\nThe post Chungha To Miss University Festival Performance After Being Rushed To ER Due To Health Issue appeared first on Soompi.",
+    "published_at": "0918soompi",
+    "published_ts": 1789711531.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "请夏因突发健康问题紧急送医 缺席大学庆典演出",
+    "source_type": "韩娱",
+    "risk_level": "中",
+    "is_blurred": false,
+    "facts_list": [
+      "9月18日，请夏所属社MORE VISION通过官方社交媒体发布声明",
+      "声明称：当天凌晨，旗下艺人请夏因突发健康问题被紧急送往急诊室",
+      "请夏因此无法参加原定的大学庆典演出"
+    ],
+    "summary_zh": "9月18日，请夏所属社MORE VISION通过官方社交媒体发布声明，称请夏当天凌晨因突发健康问题被紧急送往急诊室，因此无法参加原定的大学庆典演出。声明以“大家好，这里是MORE VISION”开头，具体健康问题细节原文未完整披露。",
+    "extracted_at": "2026-09-18T16:42:04.654954+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Rosé Has A “new trick” For Bouncing Back From Heartbreak In New MV",
+    "url": "https://www.soompi.com/article/1871666wpp/watch-rose-has-a-new-trick-for-bouncing-back-from-heartbreak-in-new-mv",
+    "content": "BLACKPINK’s Rosé’s new song is finally out! On September 18 at 8 a.m. KST, Rosé released her new song “new trick” along with its music video. The song was created as part of Apple’s “Shot on iPhone” campaign. “new trick” is about refusing to give up in the face of life’s wounds and hardships caused&#8230; Continue reading Watch: Rosé Has A “new trick” For Bouncing Back From Heartbreak In New MV\nThe post Watch: Rosé Has A “new trick” For Bouncing Back From Heartbreak In New MV appeared first on Soompi.",
+    "published_at": "0918soompi",
+    "published_ts": 1789709426.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "BLACKPINK Rosé 发布新歌《new trick》MV，为 Apple「Shot on iPhone」企划打造",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "发布时间：9月18日上午8点（KST），BLACKPINK 成员 Rosé 公开新歌《new trick》及音乐录影带",
+      "企划背景：该歌曲为 Apple「Shot on iPhone」campaign 打造",
+      "歌曲主题：歌曲内容关于面对生活带来的创伤与磨难时拒绝放弃"
+    ],
+    "summary_zh": "BLACKPINK 成员 Rosé 于9月18日上午8点（KST）发布新歌《new trick》及音乐录影带。该曲为 Apple「Shot on iPhone」企划打造，歌曲主题围绕面对生活创伤与磨难时拒绝放弃。",
+    "extracted_at": "2026-09-18T16:42:06.078793+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Felix named K-pop’s ‘most AI-like visual’ in fan poll - Korea JoongAng Daily",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb282eFNtWlVUamFWWGEzajlvUnRSemxFcmJldU1Pb2MtY2FuQ3gyaUdQOTJIUUl4M0c0R2VMLUVqbjFBRGFfT0lsRS1mQ19tZG5ZVHdNVGM5eF9mbnhfQ2ZEZkhSdk9kQmh1b1phcXZWcUluRENoSlpWb3JIMk9CdXVwOU8yODh3a0xzYmwtdUl2S3IyUXlqTHBNaGhhUnVrTkZGR0UwWmxTQQ?oc=5",
+    "content": "Felix named K-pop’s ‘most AI-like visual’ in fan poll Korea JoongAng Daily",
+    "published_at": "0918google-kpop",
+    "published_ts": 1789708851.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Felix在粉丝投票中获选K-pop“最像AI的视觉”",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Stray Kids成员Felix在粉丝投票中被评为K-pop“最像AI的视觉”。",
+      "该投票由粉丝参与，结果由Korea JoongAng Daily报道。"
+    ],
+    "summary_zh": "据Korea JoongAng Daily报道，Stray Kids成员Felix在粉丝投票中获选为K-pop“最像AI的视觉”。该投票旨在评选具有AI般完美外貌的偶像，Felix凭借其独特视觉获得该称号。",
+    "extracted_at": "2026-09-18T16:42:07.654179+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Le Sserafim Makes History as First K-Pop Girl Group at U.S. iHeartRadio Festival - 조선일보",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMDVnc2x6OU9tbTJ4VHhmbDU5Ri1xY0R4a1NUZFBZRnBqaDAxYlBjRFdLSUMzYzhsaDBGMkMweW45NmNmbXpjeDRIUDM3Qk8wQlRTN19rVTFzaUdCczdfR2o3TURnejVlZVkyMVRZaVRRMHkyQW1FWDFuLXhlbHFpcVNzbXpGNGhvQmtwdjZn?oc=5",
+    "content": "Le Sserafim Makes History as First K-Pop Girl Group at U.S. iHeartRadio Festival 조선일보",
+    "published_at": "0918google-kpop",
+    "published_ts": 1789707996.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "LE SSERAFIM 创历史 成首个登上美国 iHeartRadio 音乐节舞台的 K-Pop 女团",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "LE SSERAFIM 成为首个登上美国 iHeartRadio 音乐节舞台的 K-Pop 女团",
+      "消息来源为韩国《朝鲜日报》（조선일보）"
+    ],
+    "summary_zh": "据韩国《朝鲜日报》报道，LE SSERAFIM 创下历史，成为首个登上美国 iHeartRadio 音乐节舞台的 K-Pop 女团。原文未提供演出日期、地点、曲目等更多具体细节。",
+    "extracted_at": "2026-09-18T16:42:09.236288+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Song Review: Hongjoong (ATEEZ) x Bazzi – ENOuGH - thebiaslist.com",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTmdFOWVwalJhN1VacUpoSEdiLTlaR3dubjRBQUJIRVE1Z1VISHcyMTl6NGxiLXlpZGNYZUZnaThBaUprOTVTZzljN3RHOEd5OWk0eTZZNFltekFqWFA0VzZzUmZ5ZGhOeG5HS0Faa3AyZTdJSU9hd3IzVmQtZkZ1akp4N1M?oc=5",
+    "content": "Song Review: Hongjoong (ATEEZ) x Bazzi – ENOuGH thebiaslist.com",
+    "published_at": "0918google-kpop",
+    "published_ts": 1789705636.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "ATEEZ弘中与Bazzi合作曲《ENOuGH》乐评",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及ATEEZ成员弘中与Bazzi合作歌曲《ENOuGH》的乐评，未提供具体发行时间、榜单数据或歌曲细节"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：ATEEZ弘中与Bazzi合作曲《ENOuGH》乐评]",
+    "extracted_at": "2026-09-18T16:42:10.790672+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Jung Min Ah, Dong Ha, And More Come Together Around Kim Hee Jung’s Restaurant In New Drama “Mission: Mompossible” Poster",
+    "url": "https://www.soompi.com/article/1871326wpp/jung-min-ah-dong-ha-and-more-come-together-around-kim-hee-jungs-restaurant-in-new-drama-mission-mompossible-poster",
+    "content": "KBS has unveiled a new poster for its upcoming drama “Mission: Mompossible”! “Mission: Mompossible” is a new weekday drama about two very different mothers and the entangled lives of their children. One mom has sacrificed everything and devoted herself entirely to her family for a long time, while the other mom has lived her life&#8230; Continue reading Jung Min Ah, Dong Ha, And More Come Together Around Kim Hee Jung’s Restaurant In New Drama “Mission: Mompossible” Poster\nThe post Jung Min Ah, Dong Ha, And More Come Together Around Kim Hee Jung’s Restaurant In New Drama “Mission: Mompossible” Poster appeared first on Soompi.",
+    "published_at": "0918soompi",
+    "published_ts": 1789704288.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "郑敏雅、东河等出演KBS新剧《Mission: Mompossible》海报公开，围绕金喜贞餐厅展开",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "KBS公开了新剧《Mission: Mompossible》的海报",
+      "该剧为KBS工作日剧（weekday drama）",
+      "剧情围绕两位截然不同的母亲及其子女们纠缠的生活展开",
+      "其中一位母亲长期为家庭牺牲奉献一切，另一位母亲的生活方式则有所不同",
+      "出演演员包括郑敏雅、东河、金喜贞等",
+      "海报场景围绕金喜贞所饰演角色经营的餐厅展开"
+    ],
+    "summary_zh": "KBS公开了新工作日剧《Mission: Mompossible》的海报。该剧讲述两位截然不同的母亲以及她们子女之间纠缠的生活——一位母亲长期为家庭牺牲奉献一切，另一位母亲则有着不同的生活方式。海报中郑敏雅、东河等演员聚集在金喜贞所饰演角色经营的餐厅周围。",
+    "extracted_at": "2026-09-18T16:42:12.915077+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "IU Makes Generous Donations On Her 18th Debut Anniversary",
+    "url": "https://www.soompi.com/article/1871612wpp/iu-makes-generous-donations-on-her-18th-debut-anniversary",
+    "content": "Singer and actress IU has celebrated her 18th debut anniversary in the most meaningful way! On September 18, IU donated a total of 200 million won (approximately $144,000) under her fan club name UAENA to mark her 18th debut anniversary. IU contributed 50 million won (approximately $36,000) each to four organizations including the Social Welfare&#8230; Continue reading IU Makes Generous Donations On Her 18th Debut Anniversary\nThe post IU Makes Generous Donations On Her 18th Debut Anniversary appeared first on Soompi.",
+    "published_at": "0918soompi",
+    "published_ts": 1789703184.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "IU出道18周年以粉丝名UAENA捐款2亿韩元",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "时间：9月18日，IU迎来出道18周年纪念日",
+      "行为：IU以粉丝俱乐部名称UAENA的名义捐款总计2亿韩元（约合14.4万美元）",
+      "分配：向包括社会福利机构在内的四家机构各捐款5000万韩元（约合3.6万美元）"
+    ],
+    "summary_zh": "歌手兼演员IU于9月18日迎来出道18周年，以粉丝俱乐部名称UAENA的名义捐款总计2亿韩元（约合14.4万美元）。捐款分别向包括社会福利机构在内的四家机构各捐赠5000万韩元（约合3.6万美元），以纪念出道18周年。",
+    "extracted_at": "2026-09-18T16:42:14.593019+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Song Kang, Lee Jun Young, And Jang Gyuri Dish On Portraying Their Characters As Adults In “Four Hands, Two Sonatas”",
+    "url": "https://www.soompi.com/article/1871591wpp/song-kang-lee-jun-young-and-jang-gyuri-dish-on-portraying-their-characters-as-adults-in-four-hands-two-sonatas",
+    "content": "tvN&#8217;s &#8220;Four Hands, Two Sonatas&#8221; is getting ready for big changes after a time skip! tvN’s “Four Hands, Two Sonatas” is a drama that follows the friendship, love, rivalry, and growth of two students who meet at an arts high school, tracing their journey from adolescence to adulthood as professional pianists. Spoilers The newly released&#8230; Continue reading Song Kang, Lee Jun Young, And Jang Gyuri Dish On Portraying Their Characters As Adults In &#8220;Four Hands, Two Sonatas&#8221;\nThe post Song Kang, Lee Jun Young, And Jang Gyuri Dish On Portraying Their Characters As Adults In &#8220;Four Hands, Two Sonatas&#8221; appeared first on Soompi.",
+    "published_at": "0918soompi",
+    "published_ts": 1789702902.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "宋江、李准英、张圭悧谈《四手联弹，两首奏鸣曲》成年角色演绎",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "tvN 剧集《四手联弹，两首奏鸣曲》即将迎来时间跳跃后的重大变化",
+      "该剧讲述两名在艺术高中相遇的学生的友情、爱情、竞争与成长，追踪他们从青少年到成年成为职业钢琴家的旅程",
+      "宋江、李准英、张圭悧参与访谈，讨论如何演绎角色成年后的阶段",
+      "原文为 Soompi 发布的剧集宣传/采访报道，含剧透提示"
+    ],
+    "summary_zh": "tvN 剧集《四手联弹，两首奏鸣曲》即将进入时间跳跃后的新阶段。该剧讲述宋江、李准英、张圭悧饰演的两名艺术高中学生在友情、爱情与竞争中成长，并一路成为职业钢琴家的故事。三位演员在最新采访中分享了如何演绎角色成年后的变化。原文为 Soompi 报道，含剧透提示。",
+    "extracted_at": "2026-09-18T16:42:16.949560+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Son Ye Jin Makes A Shocking Proposal To Ji Chang Wook In Preview Of New Drama “The Scandal”",
+    "url": "https://www.soompi.com/article/1871626wpp/watch-son-ye-jin-makes-a-shocking-proposal-to-ji-chang-wook-in-preview-of-new-drama-the-scandal",
+    "content": "Netflix’s upcoming drama “The Scandal” has unveiled a new intriguing preview teaser! Based on the 2003 film “Untold Scandal,” “The Scandal” depicts the daring and dangerous love game between Lady Cho (Son Ye Jin), a woman whose exceptional talents far exceed the confines of the women’s quarters, and Cho Won (Ji Chang Wook), the greatest&#8230; Continue reading Watch: Son Ye Jin Makes A Shocking Proposal To Ji Chang Wook In Preview Of New Drama &#8220;The Scandal&#8221;\nThe post Watch: Son Ye Jin Makes A Shocking Proposal To Ji Chang Wook In Preview Of New Drama &#8220;The Scandal&#8221; appeared first on Soompi.",
+    "published_at": "0918soompi",
+    "published_ts": 1789702131.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "孙艺珍新剧《丑闻》预告公开 向池昌旭提出惊人提议",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Netflix 新剧《The Scandal》（丑闻）公开了一支新预告片",
+      "该剧改编自 2003 年电影《Untold Scandal》（丑闻）",
+      "剧情围绕赵夫人（孙艺珍 饰）与赵元（池昌旭 饰）之间大胆而危险的爱情游戏展开",
+      "赵夫人被描述为才华远超闺房局限的女性",
+      "预告中孙艺珍向池昌旭提出了一个惊人提议"
+    ],
+    "summary_zh": "Netflix 新剧《The Scandal》（丑闻）公开新预告片。该剧改编自 2003 年电影《Untold Scandal》，讲述赵夫人（孙艺珍 饰）与赵元（池昌旭 饰）之间大胆而危险的爱情游戏。赵夫人是一位才华远超闺房局限的女性。预告片中，孙艺珍向池昌旭提出了一个惊人提议。",
+    "extracted_at": "2026-09-18T16:42:18.612432+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Lee Jun Hyuk And “The Ordinary Jackpot” Stars Get Playful Behind The Scenes",
+    "url": "https://www.soompi.com/article/1871614wpp/lee-jun-hyuk-and-the-ordinary-jackpot-stars-get-playful-behind-the-scenes",
+    "content": "TVING’s “The Ordinary Jackpot” has shared new photos of its cast behind the scenes of filming! Based on the webtoon of the same name, “The Ordinary Jackpot” tells the story of Gong Eun Tae (Lee Jun Hyuk), an ordinary sales employee who wins the lottery jackpot. Instead of quitting his job, Gong Eun Tae returns&#8230; Continue reading Lee Jun Hyuk And &#8220;The Ordinary Jackpot&#8221; Stars Get Playful Behind The Scenes\nThe post Lee Jun Hyuk And &#8220;The Ordinary Jackpot&#8221; Stars Get Playful Behind The Scenes appeared first on Soompi.",
+    "published_at": "0918soompi",
+    "published_ts": 1789701869.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "李准赫《平凡的彩票》公开片场花絮照 主演互动氛围轻松",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "TVING 公开了《平凡的彩票》（The Ordinary Jackpot）主演片场花絮照",
+      "该剧改编自同名网漫",
+      "剧情讲述普通销售员孔恩泰（李准赫饰）中彩票头奖后没有辞职而是重返职场的故事"
+    ],
+    "summary_zh": "TVING 公开了韩剧《平凡的彩票》主演李准赫等人的片场花絮照。该剧改编自同名网漫，讲述普通销售员孔恩泰（李准赫饰）中彩票头奖后，没有选择辞职而是重返职场的故事。此次公开的照片展现了演员们在拍摄间隙轻松活泼的互动氛围。",
+    "extracted_at": "2026-09-18T16:42:20.391668+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "5 Sun Qian C-Dramas You Don’t Want To Miss",
+    "url": "https://www.soompi.com/article/1869817wpp/5-sun-qian-c-dramas-you-dont-want-to-miss",
+    "content": "Sun Qian&#8217;s turn as Flora has notched up the actress&#8217;s popularity quotient by a few notches. In &#8220;The Early Spring,&#8221; she plays the optimistic and hardworking rookie who steps into the world of advertising, only to get caught up in a steamy romance with her boss, Luke (Jing Bo Ran). However, beyond the drama, the&#8230; Continue reading 5 Sun Qian C-Dramas You Don&#8217;t Want To Miss\nThe post 5 Sun Qian C-Dramas You Don&#8217;t Want To Miss appeared first on Soompi.",
+    "published_at": "0918soompi",
+    "published_ts": 1789701029.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "孙千5部不容错过的国产剧盘点",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文提及孙千在剧中饰演Flora一角，提升了人气",
+      "原文提及孙千在《早春晴朗》中饰演乐观勤奋的广告业新人，与上司Luke（井柏然饰）展开恋情",
+      "原文为Soompi发布的孙千国产剧盘点文章，但正文内容被截断，未提供其余4部剧的具体信息"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：孙千饰演Flora一角提升了人气，她在《早春晴朗》中饰演乐观勤奋的广告业新人，与上司Luke（井柏然饰）展开恋情]",
+    "extracted_at": "2026-09-18T16:42:22.005314+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "These ‘KPop Demon Hunters’ HUNTR/X & Saja Boy Action Figures Let You Swap Faces to Emote Different Expressions - Billboard",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU1Y2cGx3Yjg2XzViaVFFbWY4MFBfTmFKbjdBT01wQ0JoaldOUXNHVzlraTJidGp4bmlXTFdad3Q5el85aEE4REFtVzNRdURHS3BYQ3diMmxfbzkybVVSZzVYbUNhclJwRzRmR1BQaGllbnplUVpEX3RKZ3RvcVhPdWJXVzkyX0ZHWnR0U1Jzc2NsVHNKUGhoLTZpMUxCRmR2SENKUnFvZ3VvQnBRcFNyM0pmckd6VFRvalN3SENNdw?oc=5",
+    "content": "These ‘KPop Demon Hunters’ HUNTR/X & Saja Boy Action Figures Let You Swap Faces to Emote Different Expressions Billboard",
+    "published_at": "0918google-kpop",
+    "published_ts": 1789700405.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《KPop Demon Hunters》HUNTR/X与Saja Boy可换脸表情人偶发售",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "Billboard报道《KPop Demon Hunters》推出HUNTR/X与Saja Boy动作人偶",
+      "人偶支持更换面部配件以呈现不同表情"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：这些《KPop Demon Hunters》HUNTR/X与Saja Boy动作人偶可更换面部以表现不同表情]",
+    "extracted_at": "2026-09-18T16:42:23.356609+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -18,12 +518,13 @@
     "is_blurred": false,
     "facts_list": [
       "KBS 1TV 即将播出新剧《Mission: Mompossible》",
-      "该剧为工作日播出的电视剧，讲述两位截然不同的母亲及其子女们纠缠交织的生活",
-      "其中一位母亲长期为家庭牺牲一切、全身心投入家庭",
-      "郑敏雅与东河在剧中从争吵发展为相爱"
+      "该剧为工作日剧（weekday drama）",
+      "剧情围绕两位截然不同的母亲及其子女们纠缠的生活展开",
+      "其中一位母亲长期为家庭牺牲一切、全身心投入",
+      "郑敏雅（Jung Min Ah）与东河（Dong Ha）在剧中从争吵发展为相爱"
     ],
-    "summary_zh": "KBS 1TV 即将播出的工作日剧《Mission: Mompossible》中，郑敏雅与东河将上演从争吵到相爱的感情线。该剧讲述两位截然不同的母亲以及她们子女之间纠缠交织的生活，其中一位母亲长期为家庭牺牲一切、全身心投入家庭。",
-    "extracted_at": "2026-09-18T10:57:14.094058+08:00"
+    "summary_zh": "KBS 1TV 即将播出的工作日剧《Mission: Mompossible》中，郑敏雅与东河将演绎一段从争吵到相爱的感情线。该剧讲述两位截然不同的母亲以及她们子女之间纠缠的生活，其中一位母亲长期为家庭牺牲一切、全身心投入。",
+    "extracted_at": "2026-09-18T16:42:25.204226+08:00"
   },
   {
     "source_id": "soompi",
@@ -38,7 +539,7 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "金裕贞、朴珍荣主演新剧《100天的谎言》公开角色预告",
+    "title_zh": "金裕贞、朴珍荣主演新剧《100天的谎言》发布角色预告",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
@@ -48,32 +549,32 @@
       "剧集为日据时期背景的间谍爱情剧，故事发生在100天内",
       "主演包括金裕贞、朴珍荣等"
     ],
-    "summary_zh": "新剧《100天的谎言》在首播前公开了角色预告。该剧由《非常律师禹英禑》和《浪漫医生金师傅》系列导演刘仁植执导，是一部以日本殖民统治时期为背景、跨越100天的间谍爱情剧。金裕贞、朴珍荣等演员在预告中展现了各自角色的真实意图。",
-    "extracted_at": "2026-09-18T10:57:15.925858+08:00"
+    "summary_zh": "新剧《100天的谎言》在首播前发布角色预告，主演金裕贞、朴珍荣等亮相。该剧由《非常律师禹英禑》和《浪漫医生金师傅》系列导演刘仁植执导，是一部以日本殖民统治时期为背景、跨越100天的间谍爱情剧。预告中角色们展现了各自的真实意图。",
+    "extracted_at": "2026-09-18T16:42:27.135073+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "K-pop in the City (Exclusive Scene) - imdb.com",
+    "title": "K-pop in the City (Exclusive Scene) - IMDb",
     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9uaUxEczFWZFBfQ3YwcE9zQWt6d292Ti05YXhYRzJFQkc4RWZFQXg2Q1lGaElvY2w5dzF5QWMwNTFNWXhobGpQbDRabk1FLWhY?oc=5",
-    "content": "K-pop in the City (Exclusive Scene) imdb.com",
+    "content": "K-pop in the City (Exclusive Scene) IMDb",
     "published_at": "0918google-kpop",
     "published_ts": 1789699478.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《K-pop in the City》独家片段曝光",
+    "title_zh": "《K-pop in the City》独家片段登陆IMDb",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅提及《K-pop in the City》独家片段，来源为 imdb.com",
-      "原文未提供具体时间、地点、人物或事件细节"
+      "原文仅提及《K-pop in the City》独家片段在IMDb平台发布",
+      "原文未提供具体时间、地点、人物或数据等细节"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：K-pop in the City（独家片段）]",
-    "extracted_at": "2026-09-18T10:57:17.043736+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：K-pop in the City (Exclusive Scene) - IMDb]",
+    "extracted_at": "2026-09-18T16:42:28.392433+08:00"
   },
   {
     "source_id": "soompi",
@@ -98,8 +599,8 @@
       "金载英在剧中饰演成人用品公司CEO独孤达",
       "消息来源为Soompi"
     ],
-    "summary_zh": "即将播出的韩剧《Make Me Tingle》公开了金载英的新剧照。该剧是一部青春浪漫喜剧，讲述相信爱情却从未真正理解爱情意义的孔妍秀（南志铉饰）与独孤达（金载英饰）之间的故事。金载英在剧中饰演成人用品公司CEO独孤达，实现大胆转型。",
-    "extracted_at": "2026-09-18T10:57:18.857180+08:00"
+    "summary_zh": "即将播出的韩剧《Make Me Tingle》公开了金载英的新剧照。该剧是一部青春浪漫喜剧，讲述相信爱情却从未真正理解爱情意义的孔妍秀（南志铉饰）与独孤达（金载英饰）之间的故事。金载英在剧中饰演成人用品公司CEO独孤达，此次角色转型引发关注。",
+    "extracted_at": "2026-09-18T16:42:30.214342+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -109,21 +610,21 @@
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQlN3T2hRcUJscEdUSkRxQWpRcUJCaXR3cW1IQXhyN1FTT2lncWpZX3Yxdl9Rc01sOU10RG1YUFJ5cTBjX01XNDdqYVhHWWZ1Ri1odnA0QnBQNzdQWU53MElNazA3bkZwbkxQVnZHSG53SzA1cnBhMm41ZGF1SEYtZ0MtWQ?oc=5",
     "content": "K-pop scalper busted after allegedly raking in RM7m from 8,967 BTS, Stray Kids, Seventeen tickets Yahoo",
     "published_at": "0918google-kpop",
-    "published_ts": 1789698072.0,
+    "published_ts": 1789698060.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "韩国黄牛倒卖BTS、Stray Kids、Seventeen门票8967张 获利约700万林吉特被抓获",
+    "title_zh": "韩国黄牛倒卖BTS、Stray Kids、Seventeen门票8967张 非法获利约700万林吉特被查",
     "source_type": "韩娱",
     "risk_level": "高",
     "is_blurred": false,
     "facts_list": [
-      "一名K-pop黄牛被抓获，涉嫌倒卖BTS、Stray Kids、Seventeen的演唱会门票共8967张",
-      "该黄牛据称从中获利约700万林吉特（RM7m）"
+      "一名K-pop黄牛被查获，涉嫌倒卖BTS、Stray Kids、Seventeen演唱会门票共8967张",
+      "该黄牛据称非法获利约700万林吉特（RM7m）"
     ],
-    "summary_zh": "据Yahoo报道，一名K-pop黄牛因涉嫌倒卖BTS、Stray Kids和Seventeen的演唱会门票被抓获。该嫌疑人据称共倒卖8967张门票，非法获利约700万林吉特。目前案件正在进一步调查中。",
-    "extracted_at": "2026-09-18T10:57:20.478965+08:00"
+    "summary_zh": "据Yahoo报道，一名K-pop黄牛因涉嫌倒卖BTS、Stray Kids、Seventeen演唱会门票共8967张而被查获，据称非法获利约700万林吉特。目前案件正在进一步调查中。",
+    "extracted_at": "2026-09-18T16:42:31.718305+08:00"
   },
   {
     "source_id": "soompi",
@@ -138,16 +639,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《Flex X Cop 2》主演安普贤、郑恩彩等分享各自最喜爱的剧中场景",
+    "title_zh": "《Flex X Cop 2》主演安普贤、郑恩彩等分享最爱场景",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "SBS剧集《Flex x Cop 2》主演安普贤、郑恩彩、姜相准、金信妃分享各自最喜欢的剧中场景",
-      "安普贤在第二季中继续饰演第三代财阀继承人陈伊秀，在调查陷入僵局时利用财富和人脉像作弊代码一样解决问题"
+      "SBS剧集《Flex x Cop 2》主演安普贤、郑恩彩、姜相准、金信비分享了他们各自最喜欢的场景",
+      "安普贤在第二季中继续饰演财阀三世陈伊秀，利用财富和人脉像作弊码一样破解调查僵局"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：SBS《Flex x Cop 2》主演安普贤、郑恩彩、姜相准、金信妃分享了各自最喜欢的剧中场景]",
-    "extracted_at": "2026-09-18T10:57:22.291503+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：SBS《Flex x Cop 2》主演安普贤、郑恩彩、姜相准、金信비分享了他们最喜欢的场景]",
+    "extracted_at": "2026-09-18T16:42:33.294040+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -162,16 +663,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Kohl's 推出《KPop Demon Hunters》灵感联名系列，产品与发售信息公布",
+    "title_zh": "Kohl's 推出《KPop Demon Hunters》灵感系列，产品与发售信息公布",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "Kohl's 推出以《KPop Demon Hunters》为灵感的联名系列",
-      "原文仅提及产品与发售信息，未列出具体产品名称、价格或发售日期"
+      "Kohl's 推出以《KPop Demon Hunters》为灵感的系列产品",
+      "原文未提及具体产品名称、发售日期或价格等细节"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：Kohl's 推出《KPop Demon Hunters》灵感联名系列，并公布产品与发售信息]",
-    "extracted_at": "2026-09-18T10:57:23.878644+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：Kohl's 推出《KPop Demon Hunters》灵感系列，并介绍产品与发售信息]",
+    "extracted_at": "2026-09-18T16:42:34.686797+08:00"
   },
   {
     "source_id": "soompi",
@@ -191,13 +692,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "ENA 新剧《Between Steps》公开了主演金所泫的新剧照",
+      "ENA 新剧《Between Steps》公开了主演金所泫的最新剧照",
       "该剧由已故导演安畔锡执导，其代表作包括《经常请吃饭的漂亮姐姐》《春夜》《毕业》",
-      "剧照展现金所泫饰演的角色在大学即将毕业之际面临危机",
-      "该剧为浪漫爱情题材"
+      "剧情围绕金所泫饰演的角色在大学毕前前夕面临危机展开"
     ],
-    "summary_zh": "ENA 新剧《Between Steps》公开了主演金所泫的最新剧照。该剧由已故导演安畔锡执导，他曾执导《经常请吃饭的漂亮姐姐》《春夜》《毕业》等热门作品。剧照中，金所泫饰演的角色在大学即将毕业之际面临危机。该剧为浪漫爱情题材，更多剧情细节尚未公开。",
-    "extracted_at": "2026-09-18T10:57:25.766401+08:00"
+    "summary_zh": "ENA 即将播出的新剧《Between Steps》公开了主演金所泫的最新剧照。该剧由已故导演安畔锡执导，他曾执导《经常请吃饭的漂亮姐姐》《春夜》《毕业》等热门剧集。剧情讲述金所泫饰演的角色在大学毕前前夕面临危机。",
+    "extracted_at": "2026-09-18T16:42:36.501209+08:00"
   },
   {
     "source_id": "soompi",
@@ -217,15 +717,13 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "时间：9月18日",
-      "主体：The J's E&M 所属社",
-      "具体动作：The J's E&M 官方宣布与金多顺签订专属合约",
-      "官方声明原文：'We have signed an exclusive contract with Kim Dasom, who possesses solid acting skills and her own unique charm.'（我们已与拥有扎实演技和独特魅力的金多顺签订专属合约）",
-      "官方声明原文：'We will become a dependable partner [for Dasom] so that her charms and talent as an actress can shine'（我们将成为多顺可靠的伙伴，让她的魅力和作为演员的才华得以闪耀）",
-      "后续动作：公开了新简历照"
+      "9月18日，The J's E&M官方宣布与金多顺签订专属合约",
+      "所属社表示金多顺拥有扎实的演技和独特魅力",
+      "所属社称将成为值得信赖的伙伴，让金多顺作为演员的魅力和才能得以发光",
+      "金多顺公开了新简历照"
     ],
-    "summary_zh": "9月18日，The J's E&M 官方宣布与SISTAR出身金多顺签订专属合约。所属社表示：'我们已与拥有扎实演技和独特魅力的金多顺签订专属合约'，并称'我们将成为多顺可靠的伙伴，让她的魅力和作为演员的才华得以闪耀'。同时，金多顺公开了新简历照。",
-    "extracted_at": "2026-09-18T10:57:27.787157+08:00"
+    "summary_zh": "9月18日，The J's E&M正式宣布与SISTAR出身的金多顺签订专属合约。所属社表示：“我们与拥有扎实演技和独特魅力的金多顺签订了专属合约。”并称将作为值得信赖的伙伴，支持她作为演员的魅力和才能得以充分发挥。与此同时，金多顺公开了新简历照。",
+    "extracted_at": "2026-09-18T16:42:38.230743+08:00"
   },
   {
     "source_id": "soompi",
@@ -240,19 +738,19 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "金智媛主演韩版《Doctor X》公开海报，白袍染血化身暗黑英雄",
+    "title_zh": "金智媛主演SBS新剧《Doctor X》公开海报，白袍染血化身暗黑英雄",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "SBS 新剧《Doctor X》公开全新海报",
-      "该剧改编自同名热门日剧，为医疗黑色题材",
-      "金智媛饰演天才外科医生桂秀贞（音译）",
-      "角色设定为仅凭纯粹医术证明医生真正含义的天才外科医生",
+      "SBS 即将播出的新剧《Doctor X》公开了一张新海报",
+      "《Doctor X》改编自同名热门日剧，是一部医疗黑色题材剧",
+      "金智媛在剧中饰演天才外科医生桂秀贞（音译）",
+      "角色设定为仅凭纯粹实力证明医生真正含义的天才外科医生",
       "海报中金智媛身穿染血白袍，呈现暗黑英雄形象"
     ],
-    "summary_zh": "SBS 新剧《Doctor X》公开全新海报，该剧改编自同名热门日剧，是一部医疗黑色题材作品。金智媛在剧中饰演天才外科医生桂秀贞（音译），角色设定为仅凭纯粹医术证明医生真正含义的天才外科医生。海报中金智媛身穿染血白袍，呈现暗黑英雄形象。",
-    "extracted_at": "2026-09-18T10:57:30.060742+08:00"
+    "summary_zh": "SBS 新剧《Doctor X》公开新海报，该剧改编自同名热门日剧，是一部医疗黑色题材剧。金智媛饰演天才外科医生桂秀贞，仅凭纯粹实力证明医生的真正含义。海报中她身穿染血白袍，展现暗黑英雄形象。",
+    "extracted_at": "2026-09-18T16:42:39.975531+08:00"
   },
   {
     "source_id": "soompi",
@@ -273,12 +771,11 @@
     "is_blurred": false,
     "facts_list": [
       "tvN 即将播出的剧集《Love in Disguise》发布了新预告",
-      "《Love in Disguise》是一部浪漫惊悚剧，讲述傲慢的财阀继承人尹伊俊（任时完 饰）成为杀人嫌疑人",
-      "前特种部队军官姜在熙（薛仁雅 饰）为调查而伪装成他的私人秘书",
-      "预告内容为薛仁雅令任时完心跳加速"
+      "《Love in Disguise》是一部浪漫惊悚剧，讲述傲慢的财阀继承人尹伊俊（任时完 饰）成为杀人嫌疑人，以及前特种部队军官姜在熙（薛仁雅 饰）以他私人秘书身份卧底调查的故事",
+      "预告中薛仁雅令任时完心跳加速"
     ],
-    "summary_zh": "tvN 新剧《Love in Disguise》公开新预告。该剧为浪漫惊悚题材，讲述傲慢财阀继承人尹伊俊（任时完 饰）沦为杀人嫌疑人，前特种部队军官姜在熙（薛仁雅 饰）为调查真相而伪装成他的私人秘书。预告中薛仁雅令任时完心跳加速。",
-    "extracted_at": "2026-09-18T10:57:31.968542+08:00"
+    "summary_zh": "tvN 新剧《Love in Disguise》公开新预告。该剧为浪漫惊悚题材，讲述傲慢财阀继承人尹伊俊（任时完 饰）沦为杀人嫌疑人，前特种部队军官姜在熙（薛仁雅 饰）以私人秘书身份卧底调查，预告中薛仁雅令任时完心动。",
+    "extracted_at": "2026-09-18T16:42:41.699300+08:00"
   },
   {
     "source_id": "soompi",
@@ -298,12 +795,13 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "安普贤将在SBS《Flex X Cop 2》下一集中提交辞呈",
+      "安普贤将在SBS剧集《Flex X Cop 2》下一集中提交辞呈",
       "安普贤在第二季中继续饰演第三代财阀继承人陈伊秀",
-      "陈伊秀在调查陷入僵局时利用财富和人脉作为作弊码"
+      "陈伊秀在调查陷入僵局时利用财富和人脉作为'作弊码'",
+      "该剧在SBS播出"
     ],
-    "summary_zh": "据Soompi报道，安普贤将在SBS《Flex X Cop 2》下一集中提交辞呈，离开警队。他在第二季中继续饰演第三代财阀继承人陈伊秀，该角色在调查陷入僵局时利用财富和人脉作为作弊码。",
-    "extracted_at": "2026-09-18T10:57:33.634500+08:00"
+    "summary_zh": "安普贤将在SBS剧集《Flex X Cop 2》的下一集中提交辞呈，离开警队。他在第二季中继续饰演第三代财阀继承人陈伊秀，该角色在调查陷入僵局时利用财富和人脉作为'作弊码'来解决问题。",
+    "extracted_at": "2026-09-18T16:42:43.530690+08:00"
   },
   {
     "source_id": "soompi",
@@ -318,38 +816,18 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "林允儿确认出演韩版《Unnatural》 饰演法医病理学家",
+    "title_zh": "林允儿确认主演韩版《Unnatural》 饰演法医揭开非自然死亡真相",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "少女时代成员林允儿确认出演tvN韩版《Unnatural》（暂定名）",
-      "该剧改编自同名获奖日剧，为医学悬疑题材，讲述法医病理学家揭开非自然死亡案件背后真相的故事",
-      "林允儿将在剧中担任主演，具体角色细节原文未完整披露"
+      "少女时代林允儿确认出演tvN韩版《Unnatural》（暂定名）",
+      "该剧改编自同名获奖日剧，为医学悬疑题材",
+      "剧情围绕法医病理学家揭开非自然死亡案件背后隐藏真相展开",
+      "林允儿将在剧中担任主演"
     ],
-    "summary_zh": "少女时代成员林允儿正式确认出演tvN韩版《Unnatural》（暂定名）。该剧改编自同名获奖日剧，是一部医学悬疑剧，讲述法医病理学家揭开非自然死亡案件背后隐藏真相的故事。林允儿将担任主演，具体角色信息原文尚未完整披露。",
-    "extracted_at": "2026-09-18T10:57:35.332222+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "K-pop exhibitions offer immersive experiences for fans - 동아일보",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xY3lmMVBfUm0tZEdiTWhDRXVtQmVKU1BESjJmMjBzcl9KWmtwNXBPZ1pSMUF1eXVOMUVYb1FOX0pZU1paSmhfTXdpWl8tQTBRcm02blZGWG8zbUgtRllBQUxzUEVIUQ?oc=5",
-    "content": "K-pop exhibitions offer immersive experiences for fans 동아일보",
-    "published_at": "0918google-kpop",
-    "published_ts": 1789688841.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "K-pop展览为粉丝提供沉浸式体验",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [],
-    "summary_zh": "[原文未提及具体行为，仅称：K-pop展览为粉丝提供沉浸式体验]",
-    "extracted_at": "2026-09-18T10:57:36.501647+08:00"
+    "summary_zh": "少女时代成员林允儿正式确认主演tvN韩版《Unnatural》（暂定名）。该剧改编自同名获奖日剧，是一部医学悬疑剧，讲述法医病理学家揭开非自然死亡案件背后隐藏真相的故事。林允儿将担任该剧主演，具体角色细节尚未完全公开。",
+    "extracted_at": "2026-09-18T16:42:45.267674+08:00"
   },
   {
     "source_id": "soompi",
@@ -369,61 +847,37 @@
     "risk_level": "中",
     "is_blurred": false,
     "facts_list": [
-      "9月18日，李青娥所属社Management SOOP确认李青娥遭遇车祸",
-      "所属社表示目前正在商讨是否退出其出演的电视剧"
+      "2025年9月18日，李青娥所属社Management SOOP确认李青娥遭遇车祸",
+      "所属社表示李青娥目前正在商讨退出其出演的电视剧"
     ],
-    "summary_zh": "9月18日，李青娥所属社Management SOOP证实李青娥遭遇车祸受伤。所属社表示，目前正在商讨她是否退出即将出演的电视剧。原文未提及事故具体时间、地点及伤势详情。",
-    "extracted_at": "2026-09-18T10:57:38.323961+08:00"
+    "summary_zh": "9月18日，李青娥所属社Management SOOP证实李青娥遭遇车祸受伤。所属社表示，她目前正在商讨退出其即将出演的电视剧。原文未提及车祸具体时间、地点及伤势详情。",
+    "extracted_at": "2026-09-18T16:42:47.040365+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "Concert Spotlight: Le Sserafim at Dickies Arena Sept. 27 - Dallas News",
+    "title": "Concert Spotlight: Le Sserafim at Dickies Arena Sept. 27 - dallasnews.com",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMXpZVWd6ZldMcmFfYzBsVS1ETm9RWmZsWkJmaDJrSVY2RXAza2U2VWNCYU05RWVGME44R1I3UGhxZ1hRdkVSM1J0WGQ1cW9qczUxcEFud2JqUkk3SlZTOWNGeS1aUnFoR09mZzdWVGsyaE5ET2VnS0NacGlhM1NkUm9WcTZxdjFQOV8xUWlrVE1xQ3lLX2dDY1VWbEFENUEwRW8wOWN2b3NjNnViR0lGcnZOYXh2RE0?oc=5",
-    "content": "Concert Spotlight: Le Sserafim at Dickies Arena Sept. 27 Dallas News",
+    "content": "Concert Spotlight: Le Sserafim at Dickies Arena Sept. 27 dallasnews.com",
     "published_at": "0918google-kpop",
     "published_ts": 1789686923.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "LE SSERAFIM 将于9月27日在美国德州迪基斯竞技场举行演唱会",
+    "title_zh": "LE SSERAFIM 将于9月27日登陆达拉斯 Dickies Arena 开唱",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "演出主体：韩国女团 LE SSERAFIM",
       "演出时间：9月27日",
-      "演出地点：美国德克萨斯州沃思堡 Dickies Arena（迪基斯竞技场）",
-      "信息来源：Dallas News（达拉斯新闻）演唱会聚焦栏目"
+      "演出地点：美国德克萨斯州达拉斯 Dickies Arena",
+      "信息来源：dallasnews.com 演唱会聚焦栏目"
     ],
-    "summary_zh": "据 Dallas News 演唱会聚焦栏目消息，韩国女团 LE SSERAFIM 将于9月27日在美国德克萨斯州沃思堡的 Dickies Arena（迪基斯竞技场）举办演唱会。原文仅提供演出时间与场馆信息，未披露具体场次安排、票务或曲目等细节。",
-    "extracted_at": "2026-09-18T10:57:40.115629+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "These ‘KPop Demon Hunters’ HUNTR/X & Saja Boy Action Figures Let You Swap Faces to Emote Different Expressions - Billboard",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU1Y2cGx3Yjg2XzViaVFFbWY4MFBfTmFKbjdBT01wQ0JoaldOUXNHVzlraTJidGp4bmlXTFdad3Q5el85aEE4REFtVzNRdURHS3BYQ3diMmxfbzkybVVSZzVYbUNhclJwRzRmR1BQaGllbnplUVpEX3RKZ3RvcVhPdWJXVzkyX0ZHWnR0U1Jzc2NsVHNKUGhoLTZpMUxCRmR2SENKUnFvZ3VvQnBRcFNyM0pmckd6VFRvalN3SENNdw?oc=5",
-    "content": "These ‘KPop Demon Hunters’ HUNTR/X & Saja Boy Action Figures Let You Swap Faces to Emote Different Expressions Billboard",
-    "published_at": "0918google-kpop",
-    "published_ts": 1789683869.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "《KPop Demon Hunters》HUNTR/X与Saja Boy可换脸表情人偶发布",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "Billboard报道了《KPop Demon Hunters》中HUNTR/X与Saja Boy角色动作人偶的发售消息",
-      "人偶支持更换面部配件以呈现不同表情"
-    ],
-    "summary_zh": "Billboard报道，《KPop Demon Hunters》中HUNTR/X与Saja Boy角色动作人偶发布，其特色为可更换面部配件，让玩家能够展现不同表情。",
-    "extracted_at": "2026-09-18T10:57:41.431489+08:00"
+    "summary_zh": "据 dallasnews.com 演唱会聚焦栏目消息，韩国女团 LE SSERAFIM 将于9月27日在美国德克萨斯州达拉斯的 Dickies Arena 举办演唱会。原文仅提供演出时间与场馆信息，未披露具体场次安排、票务或曲目等细节。",
+    "extracted_at": "2026-09-18T16:42:48.539858+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -438,7 +892,7 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "剧评：西蒙·斯通将《樱桃园》改编为韩剧风格，TheaterMania 刊文评述",
+    "title_zh": "剧评：西蒙·斯通将《樱桃园》改编为韩剧风格，TheaterMania 刊文评论",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
@@ -446,8 +900,8 @@
       "TheaterMania 发布了一篇剧评，标题为《Review: The Cherry Orchard, Reimagined by Simon Stone as a K-Drama》",
       "该剧评讨论的是西蒙·斯通（Simon Stone）将契诃夫戏剧《樱桃园》重新构想为韩剧（K-Drama）的舞台作品"
     ],
-    "summary_zh": "TheaterMania 发布剧评，评述西蒙·斯通将契诃夫经典戏剧《樱桃园》以韩剧（K-Drama）形式重新演绎的舞台作品。原文仅包含标题，未提供具体演出细节、演员阵容或评价内容。",
-    "extracted_at": "2026-09-18T10:57:43.280286+08:00"
+    "summary_zh": "TheaterMania 发布剧评，评价西蒙·斯通将契诃夫经典戏剧《樱桃园》以韩剧（K-Drama）形式重新演绎的舞台制作。原文仅提供标题，未涉及具体演出细节、演员阵容或评论观点。",
+    "extracted_at": "2026-09-18T16:42:50.319956+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -470,7 +924,7 @@
       "原文仅提及K-pop文化（小卡、免费周边、粉丝交换）出现在VCT美洲联赛中，未提供具体时间、地点、人物或数据"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：小卡、免费周边和粉丝交换——K-pop文化融入VCT美洲联赛]",
-    "extracted_at": "2026-09-18T10:57:44.676631+08:00"
+    "extracted_at": "2026-09-18T16:42:51.892982+08:00"
   },
   {
     "source_id": "asianwiki",
