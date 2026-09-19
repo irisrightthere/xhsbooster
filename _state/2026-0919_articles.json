@@ -1,5 +1,173 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Global Pop Round-Up: September 2026 Edition - thebiaslist.com",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNblpJcnFJT2lvd0F4Q3JwR2lmeG0wdUxmaFEwRHJlMmVKXzNBMGhtZW5Lb3JMUHd4amZwOGU3WUVxTDBGZ3ZxVjZmZUZJN09mRXpJbFNDS1RYRDdJVERIUlRhSE1iS3B2OVhENzBGT0RaWnpwdzQ3X1dvb0V1bHNqLVJVZk0?oc=5",
+    "content": "Global Pop Round-Up: September 2026 Edition thebiaslist.com",
+    "published_at": "0919google-kpop",
+    "published_ts": 1789826169.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "2026年9月全球流行音乐月度盘点",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提供标题《Global Pop Round-Up: September 2026 Edition》及来源网站 thebiaslist.com，未提及任何具体艺人、歌曲、榜单数据或事件细节"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：2026年9月全球流行音乐月度盘点]",
+    "extracted_at": "2026-09-19T23:15:27.085229+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Winners Of 2026 The Fact Music Awards",
+    "url": "https://www.soompi.com/article/1871808wpp/winners-of-2026-the-fact-music-awards",
+    "content": "The winners for this year&#8217;s The Fact Music Awards has been announced! On September 19, the ceremony for the 2026 The Fact Music Awards took place in Busan. The four Daesang (grand prize) awards went to ATEEZ, NMIXX, RIIZE, and CORTIS. ATEEZ took home Icon of the Year along with Artist of the Year, while&#8230; Continue reading Winners Of 2026 The Fact Music Awards\nThe post Winners Of 2026 The Fact Music Awards appeared first on Soompi.",
+    "published_at": "0919soompi",
+    "published_ts": 1789826112.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "2026 The Fact Music Awards获奖名单公布，ATEEZ、NMIXX、RIIZE、CORTIS斩获大赏",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "2026年9月19日，The Fact Music Awards颁奖典礼在釜山举行",
+      "四组大赏（grand prize）获奖者为：ATEEZ、NMIXX、RIIZE、CORTIS",
+      "ATEEZ获得Icon of the Year和Artist of the Year两项大奖"
+    ],
+    "summary_zh": "2026年9月19日，The Fact Music Awards颁奖典礼在釜山举办。本届四组大赏分别由ATEEZ、NMIXX、RIIZE和CORTIS获得。其中ATEEZ除大赏外，还拿下Icon of the Year与Artist of the Year两项奖项。原文其余获奖名单未完整呈现。",
+    "extracted_at": "2026-09-19T23:15:28.948909+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-Pop Stars Who Disappeared Without A Trace - Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUGZUcHBkRVZ2MVl5NVgwb29JZHBic1A4V3JwU0JDS3RzRVE4Zi1USEVqUG5aOElCVGdSVzVNMlVHclE2aXVGQzhSWjVxNFpKZ3g3NTlINnBJMzNXaWZ6VDdYWG5VUml3cmxLd0FaR2Q0LXhEWE95elpEblR2Zk14dGxDbDl3Z3ZNS0ZrSUd5X2RkeHM?oc=5",
+    "content": "K-Pop Stars Who Disappeared Without A Trace Yahoo",
+    "published_at": "0919google-kpop",
+    "published_ts": 1789819200.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "盘点：突然从公众视野消失的K-Pop明星",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅标题提及'K-Pop Stars Who Disappeared Without A Trace'，未列出任何具体艺人姓名、时间、事件或数据"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：突然消失得无影无踪的K-Pop明星]",
+    "extracted_at": "2026-09-19T23:15:30.214789+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Why Collectors Are Obsessed With Funko’s New KPop Demon Hunters Blind Boxes - River 949",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdFUwZFdfRmh0VjRzazRmVUZiWFhrU1lqcXBtVTItazQ0eGktZHZfZ2lkbGh6MmhJNGljS0ZvU3hNV3VOeWhZcHI4N1lCVjdZTzBXWGZmdFlZRjNCWnZwQ1loYWdCNzZENVNGNlUzY1BDLV9jNDlWbTJ1eGdPaFkzSEdlQjQ1MjMtYm8yVUFuWlE1VDBSZWNRdEExRGVRYWdFdXhma2prV0t6dU5ORERLZXFVV3J2VkVvaHQxd2pDZmFSZ3ND?oc=5",
+    "content": "Why Collectors Are Obsessed With Funko’s New KPop Demon Hunters Blind Boxes River 949",
+    "published_at": "0919google-kpop",
+    "published_ts": 1789816998.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Funko推出KPop Demon Hunters盲盒 收藏者热捧",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "Funko推出KPop Demon Hunters主题盲盒",
+      "原文未提及具体发售时间、价格、款式或收藏者具体行为"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：为什么收藏者痴迷于Funko新的KPop Demon Hunters盲盒]",
+    "extracted_at": "2026-09-19T23:15:31.472107+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Park You Na Picks A Fight With Her Family In “Love On The Menu”",
+    "url": "https://www.soompi.com/article/1871795wpp/park-you-na-picks-a-fight-with-her-family-in-love-on-the-menu",
+    "content": "Conflict is brewing in &#8220;Love on the Menu&#8221;! “Love on the Menu” is a drama that tells the story of Kim Moo Jin (Ha Seok Jin) and Han Gyu Rim (Hani), two former lovers who reunite eight years after a painful breakup. As they reconnect, they piece together the fragments of their broken families and&#8230; Continue reading Park You Na Picks A Fight With Her Family In &#8220;Love On The Menu&#8221;\nThe post Park You Na Picks A Fight With Her Family In &#8220;Love On The Menu&#8221; appeared first on Soompi.",
+    "published_at": "0919soompi",
+    "published_ts": 1789816623.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "朴宥娜在《Love on the Menu》中与家人爆发冲突",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "剧集《Love on the Menu》讲述金武镇（河锡辰饰）与韩圭琳（Hani饰）这对昔日恋人在痛苦分手八年后重逢的故事",
+      "两人重新联系后，逐步拼凑起各自破碎家庭的碎片",
+      "朴宥娜在剧中与家人发生冲突"
+    ],
+    "summary_zh": "韩剧《Love on the Menu》剧情出现冲突发展。该剧讲述金武镇（河锡辰饰）与韩圭琳（Hani饰）这对前恋人分手八年后重逢，在重新连接的过程中逐步拼凑各自破碎家庭的故事。朴宥娜在剧中与家人爆发冲突。",
+    "extracted_at": "2026-09-19T23:15:33.281579+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "‘The Scandal’ ending explained: Does Cho-won die? - Lifestyle Asia Hong Kong",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbElrcmljRnVUSFlIdDlZWkdNcjVURTdrQkVZTlFWZVVrSkliUWZYZDZURUlvUkdwWVhoWGdkeHdoUHliVEV4WnBxaEJzNktrb2szNUg0TGRod0N2eGpnNjRiV3M1X2NvalFMRFkteFdCaXBYdTcxajFyYjZWZDRrT0RMbm9HanZZbUlEMkRoeG5EN2hzUVJpaVhxd2JZS21HVUlhX0dUVU1EbWJ2U0RkZks3N1NNWXNXNlY0LW1DRE84YWkzcmJTbWJLSFTSAdIBQVVfeXFMT0JpLU9yNWY5Nmh5aUNUMU9Vak9DVlNwT0Y3ZmtPQWd3S3dEb0xoOVdUZ1lMbFBjVUEwc0NFU18tXzk4NVFTWVVfYUpPMG9aTTRmeGQ1TkpfWm1OZkg2djdTbVVyX2g4Sm1JZjVlbHVsOWhINlNMLURObnVGTVhla1hkaXh2UFlkeEpXbXFCMHRQNGctMnlMbVpqeExjZndRQTdGa011VFNSSnFTNkZQa0JIRkxxM204WHNNb0NRWXdwaWk0TzhKeFlxTmJ3a2UzN2JR?oc=5",
+    "content": "‘The Scandal’ ending explained: Does Cho-won die? Lifestyle Asia Hong Kong",
+    "published_at": "0919google-kpop",
+    "published_ts": 1789811641.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《The Scandal》结局解析：赵元是否死亡？",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及《The Scandal》结局解析，核心问题为赵元是否死亡",
+      "原文未提供具体剧情细节、播出时间、演员信息或结局内容"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：《The Scandal》结局解析——赵元是否死亡？]",
+    "extracted_at": "2026-09-19T23:15:34.560734+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "BTS, BLACKPINK Among K-Pop Groups Nominated for MTV VMA Best Group - 조선일보",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbWM3OEwxMXQ4YjZEZTJ6SmwzTW50T2tZZW50MnhhWVlaTUo0cVI2R1NGNW5qRWRRMnpGUThfOGhJRWxTZWl3NWVyMHFmUlBidm1XaDZJMEZqUWpkMVBKak5uSC0xX2Z2OEVsNll6UmI1SkhhVjBFMjM4ZjlWTEgzdnZBa0k2SFVJNzlIaHhR?oc=5",
+    "content": "BTS, BLACKPINK Among K-Pop Groups Nominated for MTV VMA Best Group 조선일보",
+    "published_at": "0919google-kpop",
+    "published_ts": 1789806492.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "BTS与BLACKPINK入围MTV VMA最佳组合奖提名",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "BTS和BLACKPINK被提名为MTV VMA最佳组合奖候选",
+      "提名由《朝鲜日报》报道"
+    ],
+    "summary_zh": "据《朝鲜日报》报道，BTS和BLACKPINK入围MTV音乐录影带大奖（VMA）最佳组合奖提名。原文未提供更多细节。",
+    "extracted_at": "2026-09-19T23:15:36.127188+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -12,17 +180,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《除了你之外的恋爱》徐康俊与安恩真盛装出席正式约会",
+    "title_zh": "《除了你以外的爱》徐康俊与安恩真盛装出席正式约会",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "KBS 2TV 剧集《除了你之外的恋爱》下一集将播出徐康俊与赵雅兰盛装打扮共度特别夜晚外出的情节",
-      "《除了你之外的恋爱》是一部现实爱情剧，讲述一对交往第10年的情侣经历意想不到的情感变化",
-      "该剧由徐康俊、安恩真主演"
+      "KBS 2TV 剧集《除了你以外的爱》下一集将播出徐康俊与赵雅兰盛装出席特别夜晚外出的场景",
+      "《除了你以外的爱》是一部现实爱情剧，讲述一对交往第10年的情侣经历意想不到的情感变化",
+      "原文标题提及徐康俊与安恩真，正文提及徐康俊与赵雅兰"
     ],
-    "summary_zh": "KBS 2TV 现实爱情剧《除了你之外的恋爱》下一集将播出徐康俊与赵雅兰盛装打扮、共度特别夜晚外出的约会情节。该剧讲述一对交往第10年的情侣经历意想不到的情感变化，由徐康俊、安恩真主演。",
-    "extracted_at": "2026-09-19T16:28:57.537080+08:00"
+    "summary_zh": "KBS 2TV 剧集《除了你以外的爱》下一集将播出徐康俊与赵雅兰盛装打扮、共度特别夜晚外出的约会场景。该剧是一部现实爱情剧，讲述一对交往进入第10年的情侣经历意想不到的情感变化。",
+    "extracted_at": "2026-09-19T23:15:37.834497+08:00"
   },
   {
     "source_id": "soompi",
@@ -40,14 +208,14 @@
     "title_zh": "宋江与李准英在《四手联弹，两首奏鸣曲》中敌对重逢",
     "source_type": "韩剧",
     "risk_level": "低",
-    "is_blurred": false,
+    "is_blurred": true,
     "facts_list": [
-      "tvN 新剧《四手联弹，两首奏鸣曲》公开了宋江与李准英紧张重逢的剧照",
-      "该剧讲述两名在艺术高中相遇的学生之间的友情、爱情、竞争与成长，描绘他们从青少年到成年成为职业钢琴家的旅程",
+      "tvN 剧集《四手联弹，两首奏鸣曲》公开了宋江与李准英紧张重逢的剧照",
+      "该剧讲述两名艺术高中学生在钢琴专业道路上从青少年到成年的友情、爱情、竞争与成长故事",
       "原文标注为剧透内容，但未提供具体情节细节"
     ],
-    "summary_zh": "tvN 电视剧《四手联弹，两首奏鸣曲》公开了宋江与李准英紧张重逢的剧照。该剧讲述两名在艺术高中相遇的学生之间的友情、爱情、竞争与成长，跟随他们从青少年到成年成为职业钢琴家的旅程。原文标注为剧透内容，但未提供具体情节细节。",
-    "extracted_at": "2026-09-19T16:28:59.377449+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：tvN《四手联弹，两首奏鸣曲》公开了宋江与李准英紧张重逢的剧照]",
+    "extracted_at": "2026-09-19T23:15:39.479287+08:00"
   },
   {
     "source_id": "soompi",
@@ -62,18 +230,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "BTS、BLACKPINK、CORTIS、KATSEYE 入围2026 MTV VMAs最佳组合等粉丝投票奖项提名",
+    "title_zh": "BTS、BLACKPINK、CORTIS、KATSEYE 入围2026 MTV VMAs最佳组合等奖项提名",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "2026年MTV音乐录影带大奖（VMAs）于当地时间9月18日由MTV官方公布四个“社交类奖项”提名，获奖者由粉丝投票决定",
+      "2026年MTV音乐录影带大奖（VMAs）于当地时间9月18日由MTV官方公布四个社交类奖项提名，获奖者由粉丝投票决定",
       "BTS、BLACKPINK、CORTIS、KATSEYE 均入围最佳组合（Best Group）提名",
-      "MTV同时公布了夏季歌曲（Song of the Summer）奖项提名",
-      "原文未完整列出最佳组合及夏季歌曲的全部提名名单"
+      "原文同时提及夏季歌曲（Song of the Summer）奖项提名已公布，但未列出具体入围名单"
     ],
-    "summary_zh": "当地时间9月18日，MTV官方公布2026年MTV音乐录影带大奖（VMAs）四个由粉丝投票决定获奖者的“社交类奖项”提名。BTS、BLACKPINK、CORTIS、KATSEYE 均入围最佳组合（Best Group）提名，同时MTV也公布了夏季歌曲（Song of the Summer）奖项提名。原文未完整披露全部提名名单。",
-    "extracted_at": "2026-09-19T16:29:01.122869+08:00"
+    "summary_zh": "当地时间9月18日，MTV官方公布2026年MTV音乐录影带大奖（VMAs）四个社交类奖项提名，包括最佳组合和夏季歌曲，获奖者由粉丝投票产生。BTS、BLACKPINK、CORTIS、KATSEYE 均入围最佳组合提名。原文未完整列出夏季歌曲提名名单及其他入围组合。",
+    "extracted_at": "2026-09-19T23:15:41.251897+08:00"
   },
   {
     "source_id": "soompi",
@@ -98,7 +265,7 @@
       "下一集中两人将分享隐藏的过往经历。"
     ],
     "summary_zh": "KBS 2TV 现实爱情剧《除了你之外的恋爱》讲述一对交往第10年的情侣在熟悉关系中经历意外情感变化。据预告，徐康俊与赵雅兰将在下一集中关系更进一步，并分享彼此隐藏的过往经历。",
-    "extracted_at": "2026-09-19T16:29:03.104421+08:00"
+    "extracted_at": "2026-09-19T23:15:42.937611+08:00"
   },
   {
     "source_id": "soompi",
@@ -118,12 +285,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "李准英在消失九年后重新出现在公众视野中，参演tvN电视剧《四手联弹，两首奏鸣曲》",
-      "该剧讲述两名艺术高中学生在友情、爱情、竞争与成长中的故事，时间跨度从青少年到成年",
-      "李准英在剧中拒绝回答关于自己过去的问题"
+      "李准英在消失九年后重新出现在大众视野中，出演tvN电视剧《四手联弹，两首奏鸣曲》。",
+      "该剧讲述两名在艺术高中相遇的学生之间的友情、爱情、竞争与成长，描绘他们从青少年到成年的旅程。",
+      "李准英在剧中拒绝回答关于他过去的问题。"
     ],
-    "summary_zh": "tvN新剧《四手联弹，两首奏鸣曲》中，李准英饰演消失九年后重新出现的角色，剧情围绕两名艺术高中学生的友情、爱情、竞争与成长展开，从青少年时期延伸至成年。李准英在剧中拒绝回答关于自己过去的问题。",
-    "extracted_at": "2026-09-19T16:29:04.961052+08:00"
+    "summary_zh": "李准英在消失九年后，通过tvN新剧《四手联弹，两首奏鸣曲》回归大众视野。该剧讲述两名艺术高中学生在友情、爱情、竞争与成长中的故事，时间跨度从青少年到成年。在剧中，李准英饰演的角色拒绝回答关于自己过去的问题。",
+    "extracted_at": "2026-09-19T23:15:44.514616+08:00"
   },
   {
     "source_id": "soompi",
@@ -143,12 +310,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "SBS剧集《Flex X Cop 2》于9月18日播出倒数第二集，创下自身最高收视率",
-      "据Nielsen Korea数据，该集全国平均收视率为（原文数据被截断，未完整显示具体数字）",
+      "SBS剧集《Flex X Cop 2》于9月18日播出倒数第二集",
+      "据Nielsen Korea数据，该集创下自身最高收视率",
       "该剧仅剩一集即将迎来大结局"
     ],
-    "summary_zh": "SBS电视剧《Flex X Cop 2》于9月18日播出倒数第二集，在迎来大结局前创下自身最高收视纪录。据Nielsen Korea统计，该集全国平均收视率数据在原文中被截断，未显示完整数字。该剧仅剩最后一集。",
-    "extracted_at": "2026-09-19T16:29:06.432734+08:00"
+    "summary_zh": "SBS剧集《Flex X Cop 2》于9月18日播出倒数第二集，据Nielsen Korea统计，该集创下自身最高收视率。该剧仅剩最后一集即将迎来大结局。",
+    "extracted_at": "2026-09-19T23:15:45.717218+08:00"
   },
   {
     "source_id": "soompi",
@@ -163,17 +330,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "SEVENTEEN Hoshi 前十字韧带完全撕裂 已顺利完成手术",
+    "title_zh": "SEVENTEEN 权顺荣确诊前十字韧带完全撕裂，已顺利完成手术",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "Hoshi 上周在 Weverse 亲自透露自己被诊断为前十字韧带（ACL）完全撕裂，需要接受手术",
-      "9月19日韩国时间，所属社 PLEDIS Entertainment 发布后续公告，宣布 Hoshi 的手术已顺利完成",
-      "PLEDIS Entertainment 同时就 Hoshi 后续日程安排作出说明"
+      "权顺荣（Hoshi）上周在 Weverse 亲自透露，自己被诊断为前十字韧带（ACL）完全撕裂，需要接受手术",
+      "9月19日韩国时间，所属社 PLEDIS Entertainment 发布后续公告，确认权顺荣已顺利完成前十字韧带撕裂手术",
+      "PLEDIS Entertainment 同时就权顺荣的健康状况及后续日程安排作出说明"
     ],
-    "summary_zh": "SEVENTEEN 成员 Hoshi 上周在 Weverse 亲自透露，自己被诊断为前十字韧带（ACL）完全撕裂，需接受手术治疗。9月19日韩国时间，所属社 PLEDIS Entertainment 发布公告，确认 Hoshi 已顺利完成手术，并就其后续日程安排作出说明。",
-    "extracted_at": "2026-09-19T16:29:08.211881+08:00"
+    "summary_zh": "SEVENTEEN 成员权顺荣（Hoshi）上周在 Weverse 亲自透露，自己被诊断为前十字韧带（ACL）完全撕裂，需要接受手术。9月19日韩国时间，所属社 PLEDIS Entertainment 发布公告，确认权顺荣已顺利完成前十字韧带撕裂手术，并就其健康状况及后续日程安排作出说明。",
+    "extracted_at": "2026-09-19T23:15:47.280550+08:00"
   },
   {
     "source_id": "soompi",
@@ -198,32 +365,8 @@
       "意义：这是少女时代第10支播放量破亿的完整组合MV",
       "此前破亿的MV包括：《Gee》、《The Boys》、《Mr. Taxi》、《I Got A Boy》等"
     ],
-    "summary_zh": "9月19日韩国时间上午11:55左右，少女时代2009年发行的歌曲《Genie》MV在YouTube播放量突破1亿次。这是少女时代第10支达成此成绩的完整组合MV，此前已有《Gee》、《The Boys》、《Mr. Taxi》、《I Got A Boy》等9支MV破亿。",
-    "extracted_at": "2026-09-19T16:29:10.019752+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "5 K-Dramas with romance and no love triangles (let people be happy): From Encounter to Doom at Your Service - Gulf News",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTlN5dmJ4a0RKaWU4MUtjdVVRUjd3OC1tMU9uVFYwc2R4T2t6RGxtSGkwVFlyMDZqWHE5STFhb3ZQcEFvT1FCVFljeTVJd29PbzNVN1VqRVRrVC1HVG9FRk5TUG5GbERyekR2UVRWNG1zUDJqY09sUkxVczVnUVhBb1lObWY0blhhT0FRTDVMSDJzSWZzcmFWcGs3Z0VSaEwyeG91YVdIcV92RklBMTVfb25yOGNLc3pQdlR6QkFaSE45bGdWUl9MWGlVcy1HQXVjYlZ2VW8wYWozSUlpT2J0WDIxYWV3QdIB9gFBVV95cUxPUXdIYWtvdU42VFVZWTE2bkxIM0VDVGd1NGF2QXg2d2hFTDc0VUdOUjRadms1NDhwaVo2dUdlekd6VW0wWFJZTE9zMXY5M3NValI3bHk2VkZNeFJrb3RJcjZkdlR3azJNLWtxNkI2MU93aHZwYTBSaHpGMDNpVU8zY1NvaE1kQzN5MHJBZFJyUlJvVWFEOUxmVG52blB2bTVXaktnWGQ3MUJwX19lV1lwZDRXbEpCaFU3bW4tb1E2aF95RFlSd1BQX3hZYkxTTHBsZW0yU2MtYjNGZ3Q3VGxJai0zQXdxemZUWXpCQ29lUG1OMWhGUXc?oc=5",
-    "content": "5 K-Dramas with romance and no love triangles (let people be happy): From Encounter to Doom at Your Service Gulf News",
-    "published_at": "0919google-kpop",
-    "published_ts": 1789786800.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "盘点5部无三角恋的浪漫韩剧：从《男朋友》到《某一天灭亡来到我家门前》",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "原文仅列出文章标题，提及5部无三角恋的浪漫韩剧，并举例《Encounter》（男朋友）和《Doom at Your Service》（某一天灭亡来到我家门前）",
-      "原文未提供具体剧集列表、播出时间、演员阵容或剧情细节"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：5部没有三角恋的浪漫韩剧，从《男朋友》到《某一天灭亡来到我家门前》]",
-    "extracted_at": "2026-09-19T16:29:11.558206+08:00"
+    "summary_zh": "9月19日上午11:55左右（韩国时间），少女时代2009年发行的歌曲《Genie》的MV在YouTube上播放量突破1亿次。这是少女时代第10支播放量破亿的完整组合MV，此前已有《Gee》、《The Boys》、《Mr. Taxi》、《I Got A Boy》等9支MV达成此成绩。",
+    "extracted_at": "2026-09-19T23:15:49.026040+08:00"
   },
   {
     "source_id": "soompi",
@@ -246,10 +389,10 @@
       "韩国企业评价研究所公布了9月男团个人品牌评价排名",
       "排名基于对755名男团成员的大数据分析，涵盖消费者参与、媒体报道、沟通和社区认知指数",
       "数据收集时间为8月19日至9月19日",
-      "BTS成员Jimin（智旻）保持榜首位置"
+      "BTS成员智旻（Jimin）保持榜首位置"
     ],
-    "summary_zh": "韩国企业评价研究所公布了9月男团个人品牌评价排名。该排名通过分析755名男团成员的消费者参与、媒体报道、沟通和社区认知指数得出，大数据收集时间为8月19日至9月19日。BTS成员Jimin（智旻）继续保持榜首位置。",
-    "extracted_at": "2026-09-19T16:29:13.272464+08:00"
+    "summary_zh": "韩国企业评价研究所公布了9月男团个人品牌评价排名。该排名通过分析755名男团成员的消费者参与、媒体报道、沟通和社区认知指数得出，数据收集自8月19日至9月19日。防弹少年团（BTS）成员智旻（Jimin）继续保持榜首位置。",
+    "extracted_at": "2026-09-19T23:15:50.748691+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -264,39 +407,15 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "BTS、Cortis、Katseye 入围 MTV VMA 提名名单扩充",
+    "title_zh": "BTS、Cortis、Katseye 扩大 MTV VMA 提名",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅提及 BTS、Cortis、Katseye 三组艺人的 MTV VMA 提名有所扩充，未提供具体奖项类别、提名数量或扩充细节"
+      "原文仅提及 BTS、Cortis、Katseye 扩大 MTV VMA 提名，未提供具体提名类别、数量或颁奖日期等细节"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：BTS、Cortis、Katseye 入围 MTV VMA 提名名单扩充]",
-    "extracted_at": "2026-09-19T16:29:14.636288+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "KIIRAS Makes History as First K-POP Girl Group at Reeperbahn Festival - 조선일보",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMURkaEhDOGpsOUZKMXlHenNKNGJTa1hHTC1fb1hhT19zVTltNEgzS1R3cXM1cTUtcmZZLVpGN2RVZURqZHMxcHBDbDZhNmFIeDNvSDNDcHU5ZG9JVHd6cmRUMm9WRlpMVXl3cE51bjhoVHdYR0h4dzVtdktuejlNNzdrdHdrTnI4ZEU4ZW9B?oc=5",
-    "content": "KIIRAS Makes History as First K-POP Girl Group at Reeperbahn Festival 조선일보",
-    "published_at": "0919google-kpop",
-    "published_ts": 1789782958.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "KIIRAS 创历史 成为首个登上德国 Reeperbahn 音乐节的 K-POP 女团",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "KIIRAS 成为首个登上德国汉堡 Reeperbahn Festival 舞台的 K-POP 女团",
-      "消息来源为韩国《朝鲜日报》（조선일보）"
-    ],
-    "summary_zh": "据《朝鲜日报》报道，KIIRAS 成为首个登上德国汉堡 Reeperbahn Festival 舞台的 K-POP 女团，创下该音乐节历史。原文未提供演出日期、曲目、场次等更多细节。",
-    "extracted_at": "2026-09-19T16:29:16.341368+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：BTS、Cortis、Katseye 扩大 MTV VMA 提名]",
+    "extracted_at": "2026-09-19T23:15:52.029034+08:00"
   },
   {
     "source_id": "soompi",
@@ -316,59 +435,11 @@
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅泛泛介绍古装华语剧的魅力，未提及任何具体剧名、演员或数据",
-      "原文提到古装剧的看点包括摄影、服装、历史武侠奇幻剧情以及主演间的化学反应",
-      "原文未列出任何一部具体作品或演员姓名"
+      "原文仅提及古装华语剧的吸引力包括精美摄影、服装造型、融合历史武侠奇幻的剧情",
+      "原文称有时最吸引人的是主演之间的化学反应，但未列出任何具体剧名、演员名或具体表现"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：盘点5部主演化学反应完美的古装华语剧]",
-    "extracted_at": "2026-09-19T16:29:17.795472+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "BTS, Cortis land 3rd nomination at 2026 MTV Video Music Awards - The Korea Times",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdDliMVFva0F2MjVuZlVJX25Qc09PVlFKYmdfUDZ5bTVsU2pOOUR3b3R2ZGwyd1hnb2N5UFBlbm1BaWpnSlRSNVRNeDMySGNvNHRDTmZUcm9GWWd3WmJqTDFwYzdtNEZTOUlIeGZUQkxUR0F4YnN6MDJNcEZPOVVScHBFLTFaMlVTM0NET1JEZXpkM3ZlVGNjR3NTRXFXRy1hakZaWTNnU285WktWQVlES1J2d21tVWM0dTI40gHAAUFVX3lxTE5yQ0RsVzcxeV9uZmFNcWlPYnNEdGxzR2hDamN3b3AzQnBkeXprbDF4SWVNLXRJbmk4enNycnBIcm5qZWljRFpfc3JaNmpoU3VoU0ZDMVBRM213SDV6UDNpaUxrS2xNQXcwX3BfSnFkU3QtV1oxRUhnVkNtcUhiVkp4YThmM0tpNW1JOGp0dkhSQ1ZQVjM1N253Vks0NWEwVmRoTk5udEdCUkF4U0VJTFN3WUlPZTVHLUpPUUNvdmRYXw?oc=5",
-    "content": "BTS, Cortis land 3rd nomination at 2026 MTV Video Music Awards The Korea Times",
-    "published_at": "0919google-kpop",
-    "published_ts": 1789780682.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "BTS与Cortis获2026年MTV音乐录影带大奖第三项提名",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "BTS与Cortis获得2026年MTV音乐录影带大奖（MTV Video Music Awards）提名",
-      "原文仅提及这是第三项提名，未说明具体奖项类别、提名作品或其他细节"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：BTS与Cortis获得2026年MTV音乐录影带大奖第三项提名]",
-    "extracted_at": "2026-09-19T16:29:19.069016+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Le Sserafim Enters UK Charts as Top K-pop Girl Group - 조선일보",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcF90Z0RVN1pkUGlZdlhjSzd5T254VGlQUjFaWEpmd3BTMmI4Rzh6YlJGdzRVMFZCQmlLMFJrdzVlLUFlU29mQ0h5YS1UZEhkQ0U5ZDJFOS1DblAtZzd5T1RRc0g2RkY1RUVib1k5YWhFa3VYWVpoa3hRTVFOLXk1Tk1RYlZSUW8zLU8xOGNB?oc=5",
-    "content": "Le Sserafim Enters UK Charts as Top K-pop Girl Group 조선일보",
-    "published_at": "0919google-kpop",
-    "published_ts": 1789779505.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "LE SSERAFIM 打入英国榜单，成为排名最高的 K-pop 女团",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "原文仅提及 LE SSERAFIM 进入英国榜单，并称其为排名最高的 K-pop 女团，未提供具体榜单名称、排名数字、日期或其他细节。"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：LE SSERAFIM 打入英国榜单，成为排名最高的 K-pop 女团]",
-    "extracted_at": "2026-09-19T16:29:20.564636+08:00"
+    "extracted_at": "2026-09-19T23:15:53.479109+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -383,15 +454,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "K-Pop歌手献唱苹果“Shot on iPhone 18 Pro”广告，2025年热曲加持",
+    "title_zh": "K-Pop歌手献唱苹果\"Shot on iPhone 18 Pro\"广告，2025年热单加持",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅提及一位K-Pop明星参与了苹果“Shot on iPhone 18 Pro”广告的演唱，但未透露该明星姓名、具体歌曲名称或广告细节。"
+      "原文仅提及一位K-Pop歌手参与苹果\"Shot on iPhone 18 Pro\"广告并演唱",
+      "原文称该歌手拥有2025年热门单曲，但未提及歌手姓名、歌曲名称或广告具体内容"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：一位拥有2025年热门歌曲的K-Pop明星在苹果“Shot on iPhone 18 Pro”广告中演唱。]",
-    "extracted_at": "2026-09-19T16:29:22.043754+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：一位拥有2025年热门单曲的K-Pop歌手在苹果\"Shot on iPhone 18 Pro\"广告中演唱]",
+    "extracted_at": "2026-09-19T23:15:54.679458+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -406,42 +478,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "K-Pop 登陆佛州米拉马尔：NBC 6 南佛罗里达报道当地 K-Pop 活动",
+    "title_zh": "K-Pop 登陆迈阿密 Miramar：NBC 6 南佛州报道当地 K-Pop 活动",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "NBC 6 南佛罗里达发布标题为《Ignite the Flame: K-Pop Takes Over Miramar》的报道",
-      "报道地点指向美国佛罗里达州米拉马尔市（Miramar）",
-      "原文未提及具体活动名称、时间、参与艺人或主办方"
+      "NBC 6 南佛罗里达频道报道了一场在 Miramar 举办的 K-Pop 主题活动",
+      "活动标题为 'Ignite the Flame: K-Pop Takes Over Miramar'",
+      "原文未提及具体艺人、日期、场地或活动细节"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：K-Pop 登陆米拉马尔（Ignite the Flame: K-Pop Takes Over Miramar）]",
-    "extracted_at": "2026-09-19T16:29:23.504863+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "LE SSERAFIM and Overwatch reunite for a groovy cyber-pop rager in Made My Night - t2ONLINE",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUhJUFZhSTJsNzg5VUlpdDRoRm5BbDF2ei1oeHhVNHlFQXR1OVVnZ2Z4cFBPcWhYcE40Q2tzZlA2UTA2TXcwVW93Z0diSjRWY3NUdllwVF9zV1RCcjJfZ29EX01VempIRzdkWmg0dWtxUllweWZsenpMNVJNX1NJNHRoUUN0NzRwS0ticFdvQXg0WHgyRDlkeGFNeXpSNWRTdWl0UWJtSDhrVjEzSFk1dHNOd1o4MkZIWU9B?oc=5",
-    "content": "LE SSERAFIM and Overwatch reunite for a groovy cyber-pop rager in Made My Night t2ONLINE",
-    "published_at": "0919google-kpop",
-    "published_ts": 1789756200.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "LE SSERAFIM 与《守望先锋》再合作，推出赛博流行新曲《Made My Night》",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "LE SSERAFIM 与游戏《守望先锋》再次展开合作",
-      "合作内容为一首名为《Made My Night》的赛博流行风格歌曲",
-      "该消息由 t2ONLINE 报道"
-    ],
-    "summary_zh": "据 t2ONLINE 报道，LE SSERAFIM 与《守望先锋》再度联手，推出赛博流行风格合作曲《Made My Night》。这是双方继此前合作后的又一次联动。",
-    "extracted_at": "2026-09-19T16:29:25.024387+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：K-Pop 登陆 Miramar，NBC 6 南佛州对此进行了报道]",
+    "extracted_at": "2026-09-19T23:15:56.348766+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -463,32 +510,32 @@
     "facts_list": [
       "原文仅提及圣安东尼奥（S.A.）2026年又一大型音乐节被延期，未提供具体音乐节名称、延期原因、新日期或主办方信息"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：圣安东尼奥2026年又一大型音乐节被延期，具体细节待公布]",
-    "extracted_at": "2026-09-19T16:29:26.486136+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：圣安东尼奥2026年又一大型音乐节被延期，具体细节尚未公布]",
+    "extracted_at": "2026-09-19T23:15:57.766116+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "Big Ocean on ‘Love Sign’ and Making History at NYFW With Andy Yu Collection - Sweety High",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfa21QOEZ5NllfVGlmQlNTSkNIUEZDc1JrV2JnVWdiYmxqWGJOU3QyZm5YMGFfNS1taktvQ1Q5U3BtYVVCdUxlZWVQUUpnb1lyT3k1eWRLOFNDaEJCQ3R5VDljUy0zcUVCcDhmQWpzRmVQUU5FS1VwcXVxU0oyQQ?oc=5",
-    "content": "Big Ocean on ‘Love Sign’ and Making History at NYFW With Andy Yu Collection Sweety High",
+    "title": "K-pop conquered the world by teaching fans how to be fans - Martin Cid Magazine",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS01Vb182cS1YMWxIdXBZZEFHVkJmY1JMOE5BWEVuRjM5VV9BS1U0SlpSZlV1QUFfY3paZ09lbEdKQ1BVM2FucmJ1ZVY5RmV5UGNNdXA2SmJQRE1ON2wtY2tlUGdib3FBcHB2X1A2ZnBONmJTckRSZ1NMeGNKX2t0aDctQlIzaDNlcTBNb0VtM1NxcGpFNlJSRQ?oc=5",
+    "content": "K-pop conquered the world by teaching fans how to be fans Martin Cid Magazine",
     "published_at": "0919google-kpop",
-    "published_ts": 1789754678.0,
+    "published_ts": 1789747861.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Big Ocean 谈《Love Sign》及在纽约时装周 Andy Yu 系列创历史",
+    "title_zh": "Martin Cid Magazine 评 K-pop 全球扩张：靠教会粉丝如何做粉丝",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "Big Ocean 接受 Sweety High 采访，谈及歌曲《Love Sign》",
-      "Big Ocean 与 Andy Yu Collection 合作，在纽约时装周（NYFW）创造历史"
+      "原文仅有一句标题式表述：K-pop 通过教会粉丝如何做粉丝而征服世界",
+      "原文未提及具体组合、艺人、时间、地点、数据或具名来源"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：Big Ocean 谈《Love Sign》及在纽约时装周 Andy Yu 系列创历史]",
-    "extracted_at": "2026-09-19T16:29:27.830230+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：K-pop 通过教会粉丝如何做粉丝而征服世界]",
+    "extracted_at": "2026-09-19T23:15:59.088194+08:00"
   },
   {
     "source_id": "asianwiki",
