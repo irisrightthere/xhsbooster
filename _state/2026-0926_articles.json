@@ -3,25 +3,170 @@
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "President Lee Jae Myung Greets Stray Kids, Thanks K-pop Fans at Mexico Concert - 조선일보",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDdHckZNVnlIZlNNci1oemxlc1EtRjdZcm9mR09TM1Jwa0tqZlEwWGZ5M1FxVDY2T2w3NkV5b3dzdUJhMlVPQUt0RDJQeFdBMEVnbmR0eGFwWUdmUkVEOW1YcnJLbnhwMnNxVENaRUF5RWxLelVfSUVnRmtzaUljR1g5Q2p1TzNf?oc=5",
-    "content": "President Lee Jae Myung Greets Stray Kids, Thanks K-pop Fans at Mexico Concert 조선일보",
+    "title": "K-Pop Risers & Fallers: September 2026 - thebiaslist.com",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9RM3VXNUVHSTFzR0lTM3lkV1Uwb1d4LUZldmk2UzVJeXV3Mlp0ZmRzZU1SRE9md0FXRkhWZ2RpMWo0d0U2b2hhLWRWLTV5Ym84NE9pRkdoLUhHTXpqejROTUlUQTB5b0lvVU8ydEV3eFdVLTZheWVCclg4QQ?oc=5",
+    "content": "K-Pop Risers & Fallers: September 2026 thebiaslist.com",
     "published_at": "0926google-kpop",
-    "published_ts": 1790411850.0,
+    "published_ts": 1790430815.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "韩国总统李在明在墨西哥演唱会问候Stray Kids并感谢K-pop粉丝",
+    "title_zh": "K-Pop 2026年9月涨跌榜：thebiaslist.com 月度盘点",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及 thebiaslist.com 发布《K-Pop Risers & Fallers: September 2026》月度盘点，未提供任何具体艺人、歌曲、榜单数据或事件细节"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：K-Pop Risers & Fallers: September 2026 - thebiaslist.com]",
+    "extracted_at": "2026-09-26T23:39:24.957802+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Meet Hearts2Hearts and the Next Generation of K-Pop - wmagazine.com",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE93TkNhWlFValRFemt2ck05SldRY1FXeE1OdGh5SVkxUUh0SmNDX1F4REdPZzdWUmR6a3YwU3JPdVZVUmJIUzkzX1o0UFBDRkRKYUpqdFdrQ1ZVNHNVcEpQUWJzZVc0Y3Q5RUJHbmdydXY1Z0tCRFI2Y3hERS1udw?oc=5",
+    "content": "Meet Hearts2Hearts and the Next Generation of K-Pop wmagazine.com",
+    "published_at": "0926google-kpop",
+    "published_ts": 1790427624.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "W杂志专题介绍Hearts2Hearts：K-Pop新一代代表",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "W杂志（wmagazine.com）发布了一篇介绍Hearts2Hearts的专题文章",
+      "文章标题将Hearts2Hearts定位为K-Pop新一代代表"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：W杂志发布专题介绍Hearts2Hearts与K-Pop新一代]",
+    "extracted_at": "2026-09-26T23:39:26.384337+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-pop, BTS, and What the Grammys Get Wrong About Asian Music - Time Magazine",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORDRMbVpiU2dPTlRjM0VjdGJ4akt6alZaTk5CNVR3c2xOdTk5X1NVZUZERWd4ZlNsOUlMZ0QtY2dZQjNpSEJKX3B5bU0tR2I3dEhKMUk3SF9fSHdyMm9BbUwxWE4zQno2Y0QxYVVMRll3OFpjQm5DZFVmbEFpNXRGQ0tEV21hUklmRnBjQW94bWxqMDBwWThNYTdRcw?oc=5",
+    "content": "K-pop, BTS, and What the Grammys Get Wrong About Asian Music Time Magazine",
+    "published_at": "0926google-kpop",
+    "published_ts": 1790420405.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《时代》杂志评论：格莱美对亚洲音乐的认知偏差——以K-pop和BTS为例",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "《时代》杂志发布评论文章，标题为'K-pop, BTS, and What the Grammys Get Wrong About Asian Music'",
+      "原文内容仅包含标题和来源，无具体事实细节"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：K-pop、BTS，以及格莱美对亚洲音乐的误解]",
+    "extracted_at": "2026-09-26T23:39:27.716783+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "ATEEZ’s San Shuts Down Dating Rumors",
+    "url": "https://www.soompi.com/article/1873250wpp/ateezs-san-shuts-down-dating-rumors",
+    "content": "Both ATEEZ’s San and his agency have firmly denied the dating rumors that have begun spreading online. Earlier this week, San flew to Italy in order to attend Dolce&#38;Gabbana’s fashion show as a global ambassador for the brand during Milan Fashion Week. While in Milan, San was spotted walking down the street with an unknown&#8230; Continue reading ATEEZ&#8217;s San Shuts Down Dating Rumors\nThe post ATEEZ&#8217;s San Shuts Down Dating Rumors appeared first on Soompi.",
+    "published_at": "0926soompi",
+    "published_ts": 1790413430.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "ATEEZ成员San否认恋爱传闻 所属社同步辟谣",
+    "source_type": "韩娱",
+    "risk_level": "中",
+    "is_blurred": false,
+    "facts_list": [
+      "ATEEZ成员San与所属社均否认了近日在网上流传的恋爱传闻",
+      "本周早些时候，San以Dolce&Gabbana全球大使身份前往意大利参加米兰时装周该品牌时装秀",
+      "在米兰期间，San被拍到与一名身份不明的人士在街上同行"
+    ],
+    "summary_zh": "ATEEZ成员San与所属社已明确否认近日在网上扩散的恋爱传闻。本周早些时候，San以Dolce&Gabbana全球大使身份赴意大利出席米兰时装周品牌大秀，在米兰期间被拍到与一名身份不明的人士在街上同行，随后相关传闻在网络流传，San方面对此予以否认。",
+    "extracted_at": "2026-09-26T23:39:29.228612+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Lee attends Stray Kids' cultural exchange concert in Mexico, hails 'immense power of K-pop' - koreajoongangdaily.com",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRHlPOUc4U3dZSGVPRTloOWhnZGM5UDlWTUY4cEZtMlNNVEl1bmRpNnR4M1F0V3dUMVVsaklHY09wTFhYUFVoQ0NnVUF3c0hOZF9vQ18xbTlVSDRsX1dTUllaOWRBOE9Ic1dRbW9LNWtPOXM3YkVjWjFxcUVROVZtVEV3RVUycUFqbEE1QUlPbEpFUmpBWElTcHB2eEhWNmViMDJOWDBEZDRQSGkzb2NnVHFONFNjNHpZNEhZbUktbGFtMDJJNndSMlhvc1dNMk9SMWc?oc=5",
+    "content": "Lee attends Stray Kids' cultural exchange concert in Mexico, hails 'immense power of K-pop' koreajoongangdaily.com",
+    "published_at": "0926google-kpop",
+    "published_ts": 1790413277.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "李在明出席Stray Kids墨西哥文化交流演唱会 盛赞K-pop巨大力量",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "韩国总统李在明在墨西哥演唱会现场问候了组合Stray Kids",
-      "李在明对K-pop粉丝表达了感谢"
+      "韩国总统李在明出席Stray Kids在墨西哥举办的文化交流演唱会",
+      "李在明在活动上称赞K-pop具有'巨大力量'",
+      "报道来源为韩国中央日报英文版（koreajoongangdaily.com）"
     ],
-    "summary_zh": "据朝鲜日报报道，韩国总统李在明在墨西哥举行的演唱会上问候了韩国组合Stray Kids，并向K-pop粉丝表达了感谢。",
-    "extracted_at": "2026-09-26T17:01:43.322635+08:00"
+    "summary_zh": "据韩国中央日报英文版报道，韩国总统李在明出席了Stray Kids在墨西哥举办的文化交流演唱会，并在活动上盛赞K-pop的'巨大力量'。原文未提及演唱会的具体日期、地点及演出曲目等细节。",
+    "extracted_at": "2026-09-26T23:39:30.644063+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Song Kang Faces Scathing Criticism From Lee Jun Young In “Four Hands, Two Sonatas”",
+    "url": "https://www.soompi.com/article/1873253wpp/song-kang-faces-scathing-criticism-from-lee-jun-young-in-four-hands-two-sonatas",
+    "content": "Get ready for some suffocating tension on the next episode of “Four Hands, Two Sonatas”? tvN’s “Four Hands, Two Sonatas” is a drama that follows the friendship, love, rivalry, and growth of two students who meet at an arts high school, tracing their journey from adolescence to adulthood as professional pianists. Spoilers Previously on “Four&#8230; Continue reading Song Kang Faces Scathing Criticism From Lee Jun Young In &#8220;Four Hands, Two Sonatas&#8221;\nThe post Song Kang Faces Scathing Criticism From Lee Jun Young In &#8220;Four Hands, Two Sonatas&#8221; appeared first on Soompi.",
+    "published_at": "0926soompi",
+    "published_ts": 1790410680.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "宋江在《四手联弹，两首奏鸣曲》中遭李准英严厉批评",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "tvN 剧集《四手联弹，两首奏鸣曲》讲述两名艺术高中学生在钢琴专业道路上从青少年到成年的友情、爱情、竞争与成长故事",
+      "下一集中宋江将面临李准英的严厉批评"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：宋江在《四手联弹，两首奏鸣曲》中遭李准英严厉批评]",
+    "extracted_at": "2026-09-26T23:39:32.187157+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Hulu's Forbidden Love K-Drama 'The Remarried Empress' is For the Romantasy Obsessed - Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdDl0bTBIamRXWE1Ka1hLSjJEQzFIUEc0Z0ZQRDRnRWhoNHhDbDk4UnVnZXhpWXAtNk9zMnA2Q3NyNzNDOVJ3enpFYkxnRU16WTNTNjRqblBOc2I3Qjlod1c3MW1iUXJ3SXE3dlEzSTZnb0RwV2lQNm8zZ1RLaUp6RUg4eVNwUGctTVI1RG93ekJlWnJNV3c?oc=5",
+    "content": "Hulu's Forbidden Love K-Drama 'The Remarried Empress' is For the Romantasy Obsessed Yahoo",
+    "published_at": "0926google-kpop",
+    "published_ts": 1790409604.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Hulu 禁忌之恋韩剧《再婚皇后》瞄准浪漫奇幻爱好者",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "Hulu 将推出韩剧《再婚皇后》（The Remarried Empress）",
+      "该剧被描述为禁忌之恋题材，面向浪漫奇幻（romantasy）爱好者"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：Hulu 的禁忌之恋韩剧《再婚皇后》是为浪漫奇幻爱好者准备的]",
+    "extracted_at": "2026-09-26T23:39:33.274058+08:00"
   },
   {
     "source_id": "soompi",
@@ -36,18 +181,18 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《Dive Into You》首播：金智妍（Bona）面对初恋朴叙含遗体痛哭",
+    "title_zh": "《Dive into You》首播：金智妍目睹初恋朴叙含遗体痛哭",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "《Dive into You》是一部奇幻爱情剧，由宇宙少女成员金智妍（Bona）饰演顶级女演员尹荷娜。",
-      "尹荷娜意外与双胞胎弟弟尹荷鲁（张世赫饰）交换了身体。",
-      "在今晚的首播中，金智妍饰演的角色面对初恋朴叙含的遗体痛哭。",
-      "该剧将于今晚首播。"
+      "《Dive into You》是一部奇幻爱情剧，由宇宙少女成员金智妍（Bona）饰演顶级女演员尹荷娜",
+      "尹荷娜意外与双胞胎弟弟尹荷鲁（张世赫饰）互换身体",
+      "两人得知可以穿越回过去",
+      "首播集中金智妍饰演的角色在初恋朴叙含的遗体前痛哭"
     ],
-    "summary_zh": "即将播出的韩剧《Dive into You》公开了今晚首播中令人心碎的一幕。该剧是一部奇幻爱情剧，由宇宙少女的金智妍（Bona）饰演顶级女演员尹荷娜，她意外与双胞胎弟弟尹荷鲁（张世赫饰）交换了身体。在首播片段中，金智妍面对初恋朴叙含的遗体痛哭。",
-    "extracted_at": "2026-09-26T17:01:45.112348+08:00"
+    "summary_zh": "即将播出的韩剧《Dive into You》公开了今晚首播的揪心片段。该剧为奇幻爱情题材，由宇宙少女金智妍（Bona）饰演顶级女演员尹荷娜，她意外与双胞胎弟弟尹荷鲁（张世赫饰）互换身体，随后得知两人可以穿越回过去。首播集中，金智妍饰演的角色在初恋朴叙含的遗体前失声痛哭。",
+    "extracted_at": "2026-09-26T23:39:35.069856+08:00"
   },
   {
     "source_id": "soompi",
@@ -72,8 +217,8 @@
       "上映后连续三天蝉联韩国单日票房冠军",
       "9月26日，韩国电影振兴委员会宣布该片累计观影人次突破100万"
     ],
-    "summary_zh": "由柳海真、朴海日、李敏镐主演的电影《The Assassin(s)》自9月23日上映后，连续三天稳居韩国单日票房榜首。9月26日，韩国电影振兴委员会公布该片累计观影人次已突破100万，票房开局表现强劲。",
-    "extracted_at": "2026-09-26T17:01:46.614421+08:00"
+    "summary_zh": "由柳海真、朴海日、李敏镐主演的电影《The Assassin(s)》自9月23日上映后，连续三天稳居韩国票房榜首。9月26日，韩国电影振兴委员会宣布该片累计观影人次已突破100万，票房开局表现强劲。",
+    "extracted_at": "2026-09-26T23:39:36.617826+08:00"
   },
   {
     "source_id": "soompi",
@@ -88,25 +233,25 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "受亚运会转播影响，《音乐中心》及两部周末剧今日停播",
+    "title_zh": "MBC《音乐中心》及KBS两部周末剧因亚运会转播今日停播",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "因亚运会持续转播，多档周六播出的电视节目今日停播",
-      "MBC《音乐中心》将停播两周，9月26日和10月3日均不播出新一期",
-      "KBS 2TV周末剧《A Love Other Than Yours》（暂译）与《Love On The Menu》（暂译）今日停播"
+      "因亚洲运动会转播持续进行，多档原定周六播出的电视节目今日停播",
+      "MBC《音乐中心》将停播两周，9月26日和10月3日均不播出新一期节目",
+      "KBS 2TV 周六周日剧《A Love Other Than Yours》（暂译）和《Love On The Menu》（暂译）今日停播"
     ],
-    "summary_zh": "因亚运会转播持续进行，多档原定周六播出的韩国电视节目今日停播。MBC音乐节目《音乐中心》将连续停播两周，9月26日与10月3日均无新一期。KBS 2TV周末剧《A Love Other Than Yours》（暂译）和《Love On The Menu》（暂译）同样于今日停播。",
-    "extracted_at": "2026-09-26T17:01:48.380459+08:00"
+    "summary_zh": "受亚洲运动会转播影响，多档周六播出的韩国电视节目今日停播。MBC音乐节目《音乐中心》将连续停播两周，9月26日与10月3日均无新一期节目。KBS 2TV 周末剧《A Love Other Than Yours》（暂译）和《Love On The Menu》（暂译）今日同样不播出。",
+    "extracted_at": "2026-09-26T23:39:38.565214+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "Presidential couple visits K-culture expo, encourages Korean businesses and K-pop enthusiasts in Mexico - Korea JoongAng Daily",
+    "title": "Presidential couple visits K-culture expo, encourages Korean businesses and K-pop enthusiasts in Mexico - koreajoongangdaily.com",
     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNTlnZGYweHl6UzRES2lEX3E2eUhacFBnMWN3ZGt1UVFTSVpyb2NUZkxNNjhxYW5weng2MVV3OFBMVm9NQzBKMUhLSXduVGsxeFZYNmxtTjBIWWFBR09Qb1pWanlCeHBKSnlLanRRWmNUa3owcXByMmMwY0dNQlNxRVNLT2QzVS1WYmRRS3dGb2R5UXVjQ2lTa0lUeHZhcWo0dzRxSHZfekRKd1NHa1FZRXJ2SHNNQlpvOGpwMG41amxfQWhJd3JOWjFIM1dySGx2c3gtREVNQ1RkQVdCczVMZDJRdkk?oc=5",
-    "content": "Presidential couple visits K-culture expo, encourages Korean businesses and K-pop enthusiasts in Mexico Korea JoongAng Daily",
+    "content": "Presidential couple visits K-culture expo, encourages Korean businesses and K-pop enthusiasts in Mexico koreajoongangdaily.com",
     "published_at": "0926google-kpop",
     "published_ts": 1790403040.0,
     "category": "韩娱",
@@ -116,13 +261,13 @@
     "title_zh": "韩国总统夫妇访问墨西哥K文化博览会，鼓励当地韩企与K-pop粉丝",
     "source_type": "韩娱",
     "risk_level": "低",
-    "is_blurred": false,
+    "is_blurred": true,
     "facts_list": [
-      "韩国总统夫妇访问墨西哥，参观K文化博览会",
+      "韩国总统夫妇访问墨西哥K文化博览会",
       "总统夫妇鼓励在墨西哥的韩国企业和K-pop爱好者"
     ],
-    "summary_zh": "据韩国《中央日报》报道，韩国总统夫妇访问墨西哥期间，参观了K文化博览会，并与当地韩国企业代表及K-pop粉丝进行交流，鼓励他们推广韩国文化。",
-    "extracted_at": "2026-09-26T17:01:49.824692+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：韩国总统夫妇访问墨西哥K文化博览会，鼓励当地韩国企业和K-pop粉丝]",
+    "extracted_at": "2026-09-26T23:39:39.977064+08:00"
   },
   {
     "source_id": "soompi",
@@ -137,17 +282,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "宋江与李准英在《四手联弹，两首奏鸣曲》中再度合作，得知绑架真相后仍携手",
+    "title_zh": "宋江与李准英在《四手联弹，两首奏鸣曲》中得知绑架真相后再度合作",
     "source_type": "韩剧",
     "risk_level": "低",
-    "is_blurred": true,
+    "is_blurred": false,
     "facts_list": [
-      "剧集《四手联弹，两首奏鸣曲》由tvN播出，讲述两名艺术高中学生在钢琴专业道路上从青少年到成年的友情、爱情、竞争与成长故事",
-      "宋江与李准英在剧中再次合作",
-      "剧情涉及李准英角色得知绑架真相后仍与宋江角色联手"
+      "tvN 剧集《四手联弹，两首奏鸣曲》讲述两名在艺术高中相遇的学生之间的友情、爱情、竞争与成长，从青少年时期到成年后成为职业钢琴家的旅程。",
+      "宋江与李准英在剧中再次联手合作。",
+      "剧情涉及宋江角色得知其被绑架的真相后，仍与李准英角色合作。"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：宋江与李准英在《四手联弹，两首奏鸣曲》中再度合作，即使得知绑架真相后仍携手]",
-    "extracted_at": "2026-09-26T17:01:51.378510+08:00"
+    "summary_zh": "tvN 剧集《四手联弹，两首奏鸣曲》讲述两名艺术高中学生在友情、爱情、竞争与成长中从青少年走向职业钢琴家的故事。宋江与李准英在剧中再次合作，剧情中宋江角色在得知自己被绑架的真相后，仍与李准英角色联手。",
+    "extracted_at": "2026-09-26T23:39:42.002431+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -167,10 +312,10 @@
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅提及李（Lee）在墨西哥城观看了Stray Kids演唱会，未提供具体时间、地点细节或更多信息。"
+      "原文仅提及李（Lee）在墨西哥城观看了Stray Kids演唱会，未提供具体时间、身份、行为细节或后续信息。"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：Lee visits Stray Kids concert in Mexico City]",
-    "extracted_at": "2026-09-26T17:01:52.489436+08:00"
+    "extracted_at": "2026-09-26T23:39:43.384204+08:00"
   },
   {
     "source_id": "soompi",
@@ -191,12 +336,12 @@
     "is_blurred": false,
     "facts_list": [
       "宇宙少女成员金智妍（Bona）主演新剧《Dive Into You》于今晚首播",
-      "金智妍在剧中饰演顶级女演员尹荷娜，与双胞胎哥哥尹荷鲁（张世赫饰）意外互换身体",
-      "ZO ZAZZ在该剧首播集中客串出演，与金智妍饰演的角色有交集",
-      "该剧为奇幻爱情题材，讲述兄妹互换身体后发现可以穿越的故事"
+      "该剧为奇幻爱情题材，金智妍饰演顶级女演员尹河娜，与双胞胎哥哥尹河鲁（张世赫饰）意外互换身体",
+      "ZO ZAZZ在首播集中客串出演，与金智妍饰演的角色有交集",
+      "制作方公开了ZO ZAZZ客串的预告片段"
     ],
-    "summary_zh": "宇宙少女成员金智妍（Bona）主演的奇幻爱情剧《Dive Into You》于今晚首播。金智妍在剧中饰演顶级女演员尹荷娜，与张世赫饰演的双胞胎哥哥尹荷鲁意外互换身体，并发现两人可以穿越。ZO ZAZZ在首播集中客串登场，与金智妍饰演的角色有交集。制作方公开了ZO ZAZZ客串的剧照预告。",
-    "extracted_at": "2026-09-26T17:01:54.534468+08:00"
+    "summary_zh": "宇宙少女成员金智妍（Bona）主演的奇幻爱情剧《Dive Into You》今晚首播。该剧讲述顶级女演员尹河娜（金智妍饰）与双胞胎哥哥尹河鲁（张世赫饰）意外互换身体后发生的故事。制作方公开了ZO ZAZZ在首播集中客串的预告片段，ZO ZAZZ将与金智妍饰演的角色在剧中相遇。",
+    "extracted_at": "2026-09-26T23:39:45.089589+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -216,11 +361,11 @@
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "K-pop与文具店10x10在得克萨斯州普莱诺（Plano）开业",
-      "信息来源为Community Impact"
+      "K-pop与文具店10x10在美国得克萨斯州普莱诺（Plano）开业",
+      "信息来源为社区媒体Community Impact"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：K-pop与文具店10x10在得州普莱诺开业]",
-    "extracted_at": "2026-09-26T17:01:55.633786+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：K-pop与文具店10x10在普莱诺开业]",
+    "extracted_at": "2026-09-26T23:39:46.270123+08:00"
   },
   {
     "source_id": "soompi",
@@ -245,7 +390,7 @@
       "RESCENE本月继续位居榜首"
     ],
     "summary_zh": "韩国企业评价研究所公布了9月歌手品牌评价排名。该排名通过分析8月26日至9月26日期间收集的大数据，综合歌手的媒体曝光、消费者参与、互动和社区认知指数得出。RESCENE本月继续位居榜首。",
-    "extracted_at": "2026-09-26T17:01:57.125322+08:00"
+    "extracted_at": "2026-09-26T23:39:47.804897+08:00"
   },
   {
     "source_id": "soompi",
@@ -267,11 +412,11 @@
     "facts_list": [
       "9月25日（当地时间），XLOV 公布了首次美国巡演计划",
       "巡演将于今年12月进行，覆盖美国六座城市",
-      "巡演首站为迈阿密，时间为12月3日",
+      "巡演首站为迈阿密，日期为12月3日",
       "原文未完整列出其余五座城市及对应日期"
     ],
-    "summary_zh": "9月25日，XLOV 宣布将展开出道以来首次美国巡演，计划于今年12月走访美国六座城市。巡演首站定于12月3日在迈阿密举行，其余城市及具体日程原文未完整披露。",
-    "extracted_at": "2026-09-26T17:01:58.913730+08:00"
+    "summary_zh": "9月25日，XLOV 宣布将展开出道以来首次美国巡演，计划于今年12月走访美国六座城市。巡演首站定于12月3日在迈阿密举行，其余城市及日期原文未完整披露。",
+    "extracted_at": "2026-09-26T23:39:49.342234+08:00"
   },
   {
     "source_id": "soompi",
@@ -292,11 +437,12 @@
     "is_blurred": false,
     "facts_list": [
       "当地时间9月25日，Global Citizen官方宣布取消2026年Global Citizen Festival。",
-      "取消原因为纽约市周末极端天气预报，官方称出于安全考虑做出该决定。",
-      "TXT原定担任该音乐节的头牌（headline）表演嘉宾。"
+      "取消原因为纽约市当周末的极端天气预报。",
+      "TXT原定担任该音乐节的头牌（headline）表演嘉宾。",
+      "官方称此为艰难决定，属临时取消。"
     ],
-    "summary_zh": "当地时间9月25日，Global Citizen官方宣布，因纽约市周末极端天气预报带来的安全隐患，2026年Global Citizen Festival在最后一刻被取消。该音乐节原定由TXT担任头牌表演嘉宾。官方表示这是出于安全考虑做出的艰难决定。",
-    "extracted_at": "2026-09-26T17:02:00.498995+08:00"
+    "summary_zh": "当地时间9月25日，Global Citizen官方宣布，因纽约市当周末的极端天气预报，决定取消2026年Global Citizen Festival。该音乐节原定由TXT担任头牌表演嘉宾，此次取消属临时决定，官方称是出于安全考量做出的艰难选择。",
+    "extracted_at": "2026-09-26T23:39:50.827502+08:00"
   },
   {
     "source_id": "soompi",
@@ -320,10 +466,10 @@
       "主体：歌手Young Tak（영탁）",
       "事件：凭借新曲《GOGO》获得本周《Music Bank》第一名",
       "意义：这是Young Tak出道以来首个音乐节目冠军奖杯",
-      "信息来源：KBS 2TV《Music Bank》官方网站公布"
+      "公布方式：因节目停播，获奖结果通过《Music Bank》官方网站公布"
     ],
-    "summary_zh": "歌手Young Tak凭借新曲《GOGO》拿下本周KBS 2TV《Music Bank》第一名，这是他出道以来首次获得音乐节目冠军。由于中秋假期，9月25日《Music Bank》未播出新一期节目，但获奖结果通过官方网站公布。",
-    "extracted_at": "2026-09-26T17:02:02.408157+08:00"
+    "summary_zh": "歌手Young Tak凭借新曲《GOGO》拿下KBS 2TV《Music Bank》本周冠军，这是他出道以来首次在音乐节目中获得第一名。由于中秋假期，《Music Bank》9月25日未播出新一期，但节目组通过官方网站公布了获奖结果。",
+    "extracted_at": "2026-09-26T23:39:52.491874+08:00"
   },
   {
     "source_id": "soompi",
@@ -338,64 +484,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "12部融合黑色幽默与娱乐性的韩剧盘点",
+    "title_zh": "12部韩剧以黑色幽默呈现娱乐盛宴",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文为Soompi发布的韩剧盘点文章，标题为《12 K-Dramas Which Serve Dark Comedy With A Slice Of Entertainment》",
+      "原文为Soompi发布的剧单推荐文章，标题为《12 K-Dramas Which Serve Dark Comedy With A Slice Of Entertainment》",
       "原文提及黑色幽默韩剧涉及的主题包括：功能失调的家庭、婚姻战争、谋杀、复仇、生存挣扎",
-      "原文未列出具体12部韩剧的名称，也未提供任何具体剧集、演员、播出平台或数据信息"
+      "原文未列出具体12部剧名，仅称幽默可以是荒诞、讽刺或病态的"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：12部融合黑色幽默与娱乐性的韩剧盘点]",
-    "extracted_at": "2026-09-26T17:02:04.176295+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "President Lee Jae Myung Engages with K-pop Fans at Mexico K-Expo - 조선일보",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMjFrb0k0QWx3NVBtcDFKRUtmdXRxQkNxeVBiQnRxZGZWTnZEXzZSR2lFaTBLeml4UUR5VGFRTndLc2tYTndLNnh0Rmw5VlNrblVqUWkta2Y1YXlDTUQxbUIza3p4aS1PRmJVem9hZExZNTBVTWF4NlFOUjVBSkdPaGdVYWpPeGlf?oc=5",
-    "content": "President Lee Jae Myung Engages with K-pop Fans at Mexico K-Expo 조선일보",
-    "published_at": "0926google-kpop",
-    "published_ts": 1790385747.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "韩国总统李在明出席墨西哥K-Expo与K-pop粉丝互动",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "韩国总统李在明在墨西哥K-Expo活动中与K-pop粉丝进行互动",
-      "信息来源为朝鲜日报（조선일보）"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：韩国总统李在明在墨西哥K-Expo活动中与K-pop粉丝互动]",
-    "extracted_at": "2026-09-26T17:02:05.365359+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Hanbok for the holidays: The changing trends of traditional dress in K-pop - Korea JoongAng Daily",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNamFlM2FhRXhoSXdYLTNFeVNYanBIdkNQVlI3ZmV1QUxsSHlESU1fWC1PY3lWMkxOZjhwWHBldXBnWGpjVXg4dU9NYmNUN25qNXNDZ1pNY013ZV9TOWFjSUFHX0QzNk9NeTltd0Y4TzdLZFpKdzNQWGl1SHNHc0wyWFBINldEdHFtV2xfNTBBeXgxRkc5bWlzMlRGaXBvRTQzZkZiYUVZUW5xeVVXbjFIY1VvWXk3S2JkNXBXUUh0SHV4WmNT?oc=5",
-    "content": "Hanbok for the holidays: The changing trends of traditional dress in K-pop Korea JoongAng Daily",
-    "published_at": "0926google-kpop",
-    "published_ts": 1790373659.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "K-pop偶像韩服造型变迁：从传统到时尚的节日穿搭趋势",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "原文仅提及K-pop偶像在节日期间穿着韩服的传统服饰趋势变化，未提供具体艺人、时间、地点或数据"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：K-pop偶像节日韩服造型趋势变化]",
-    "extracted_at": "2026-09-26T17:02:06.612149+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：12部韩剧以黑色幽默呈现娱乐盛宴]",
+    "extracted_at": "2026-09-26T23:39:53.993503+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -410,41 +509,18 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "奥巴马基金会讲述1VERSE起源故事：改变与K-pop的意外关联",
+    "title_zh": "奥巴马基金会撰文：奥巴马在1VERSE组合起源故事中的意外角色",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "奥巴马基金会发布内容，标题为《Change, and K-pop: Barack Obama’s Unlikely Role in 1VERSE Origin Story》",
-      "原文正文仅重复标题，未提供1VERSE组合成员、所属社、出道时间、奥巴马具体关联方式等任何具体事实"
+      "奥巴马基金会发布文章，标题为《Change, and K-pop: Barack Obama’s Unlikely Role in 1VERSE Origin Story》",
+      "文章主题涉及K-pop组合1VERSE的起源故事，并提及美国前总统巴拉克·奥巴马在其中扮演了意外角色",
+      "原文未提供1VERSE的成员构成、所属公司、出道时间等具体信息",
+      "原文未说明奥巴马具体以何种方式参与或影响1VERSE的起源"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：奥巴马基金会在1VERSE起源故事中扮演了意想不到的角色，涉及改变与K-pop]",
-    "extracted_at": "2026-09-26T17:02:07.928939+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "New K-drama alert! The new original K-drama \"Dive Into You,\" starring Kim Ji Yeon and Park Seo Ham, is premiering on September 26. See comments section for the full story. - facebook.com",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZmRucDUydmdHRzBqUFYxWkxwc29QV3NSUkNwSHhxeUs3WlctTzJOX25rcmdzLTR5YVU3QkZ3VDBsaHdaMWlsR0lqWHRTYXA4aDNIZ2gtTThrVkZIMXhrcWxiUTExRFVUZzhKM01qZlVadjRzVlhpUlNRY09JbDFfSDUxRWMtV2F2bjF3SzlsZmlDQy0ySUhVZWRJclZsZzlEdmd5dnZTQllEZWY5Zy1aZ0U3NHdvWjh6c1NXS0ZuQmM1eEhrVnA1M2lmdDU0bVlIbUJSbDNONA?oc=5",
-    "content": "New K-drama alert! The new original K-drama \"Dive Into You,\" starring Kim Ji Yeon and Park Seo Ham, is premiering on September 26. See comments section for the full story. facebook.com",
-    "published_at": "0926google-kpop",
-    "published_ts": 1790354628.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "金智妍与朴叙含主演新剧《Dive Into You》9月26日首播",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "新原创韩剧《Dive Into You》由金智妍（Kim Ji Yeon）与朴叙含（Park Seo Ham）主演",
-      "该剧将于9月26日首播",
-      "消息来源为 facebook.com 帖子，完整内容见评论区"
-    ],
-    "summary_zh": "新原创韩剧《Dive Into You》确定由金智妍与朴叙含主演，将于9月26日首播。该消息由 facebook.com 发布，完整内容需查看评论区。",
-    "extracted_at": "2026-09-26T17:02:09.306173+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：奥巴马基金会在题为《Change, and K-pop: Barack Obama’s Unlikely Role in 1VERSE Origin Story》的文章中，讲述了巴拉克·奥巴马在K-pop组合1VERSE起源故事中出人意料的作用。]",
+    "extracted_at": "2026-09-26T23:39:55.655501+08:00"
   },
   {
     "source_id": "soompi",
@@ -466,10 +542,10 @@
     "facts_list": [
       "Rakuten Viki 于9月25日庆祝第四届年度韩剧日（K-Drama Day）",
       "活动内容包括韩剧明星独家内容及特别赠品",
-      "Viki 提供10部韩剧限时免费观看"
+      "Viki 提供10部韩剧免费观看"
     ],
-    "summary_zh": "Rakuten Viki 于9月25日举办第四届年度韩剧日庆祝活动，为全球韩剧粉丝准备了特别活动阵容，包括韩剧明星独家内容与特别赠品。同时，Viki 平台提供10部韩剧供用户免费观看，以庆祝这一属于韩剧粉丝的节日。",
-    "extracted_at": "2026-09-26T17:02:10.777321+08:00"
+    "summary_zh": "Rakuten Viki 于9月25日举办第四届年度韩剧日庆祝活动，为全球韩剧粉丝准备了特别活动阵容，包括韩剧明星独家内容和特别赠品。同时，Viki 平台提供10部韩剧供免费观看，具体剧名原文未逐一列出。",
+    "extracted_at": "2026-09-26T23:39:57.155946+08:00"
   },
   {
     "source_id": "asianwiki",
