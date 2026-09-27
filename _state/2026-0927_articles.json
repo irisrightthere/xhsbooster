@@ -1,26 +1,251 @@
 [
   {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
+    "source_id": "soompi",
+    "source_name": "Soompi",
     "l1_tab": "韩娱",
-    "title": "K-Pop Giants' Stocks Plunge Despite Industry Success - 조선일보",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUE1RODdWdXpRNGc3WmVwQ0htRl96UFhKckVrM21Uay1YT2xORzVKOGxBcG1BSlhXWnoxVmlvVi0zUzNXX3JuOFZTb0NjU0pmQjFEbndQMEg1WUNUOUN5WWZqZTFVZnZkLUE5Yk1aUmIwbnBKVG9OVTZrVjVWM1gxdkxmWWlrLWtuMW1teHpn?oc=5",
-    "content": "K-Pop Giants' Stocks Plunge Despite Industry Success 조선일보",
-    "published_at": "0927google-kpop",
-    "published_ts": 1790476044.0,
+    "title": "2 Pivotal Performances By Song Kang And Lee Jun Young In “Four Hands, Two Sonatas”",
+    "url": "https://www.soompi.com/article/1873331wpp/2-pivotal-performances-by-song-kang-and-lee-jun-young-in-four-hands-two-sonatas",
+    "content": "Song Kang and Lee Jun Young&#8217;s &#8220;Four Hands, Two Sonatas&#8221; continues to captivate viewers with its music and story! “Four Hands, Two Sonatas” is a drama that follows the friendship, love, rivalry, and growth of two students who meet at an arts high school, tracing their journey from adolescence to adulthood as professional pianists. Ahead&#8230; Continue reading 2 Pivotal Performances By Song Kang And Lee Jun Young In &#8220;Four Hands, Two Sonatas&#8221;\nThe post 2 Pivotal Performances By Song Kang And Lee Jun Young In &#8220;Four Hands, Two Sonatas&#8221; appeared first on Soompi.",
+    "published_at": "0927soompi",
+    "published_ts": 1790499375.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "K-Pop巨头股价下跌，行业成功未能提振股市表现",
+    "title_zh": "宋江与李准英在《四手联弹，两首奏鸣曲》中的两场关键演奏",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "剧集《四手联弹，两首奏鸣曲》由宋江与李准英主演",
+      "剧情围绕两名艺术高中学生在钢琴领域的友情、爱情、竞争与成长展开",
+      "故事时间线从青少年时期延伸至成年后成为职业钢琴家"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：宋江与李准英在《四手联弹，两首奏鸣曲》中的两场关键演奏持续吸引观众]",
+    "extracted_at": "2026-09-27T17:46:12.522664+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-pop girl group UNIS officially concluded its activities as a full group after its exclusive contract for nearly three years with F&F Entertainment expired. https://tinyurl.com/5b7c9yuu | via LatestChika.com - facebook.com",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTzFfZFU3SHNHcnpHTmVhRExiM24tVHFxM0x3X2pQNnVxb3lxU0E1U0EtTFpTeUpmM3Z5dVRGLS1PM3FnbjFPSmdrRzdTUFVhdU44QjdsNndQZEJGMGpvN2tfT2xxdGVPN3hmS19TcUlzbWI4M091djZUbkM0RU5rMVE0MGxrZ1lHLUlGd3d3c3BRbURZcmxRTGdXZzZFVXB0YlVVUzNWc1BISkZXVk9pczZEUzRBUFNqWkFpQW1QeWlkU1ZsdDFhaTZBZmVhd0NIU0FvdGVXeUl5UE9E?oc=5",
+    "content": "K-pop girl group UNIS officially concluded its activities as a full group after its exclusive contract for nearly three years with F&F Entertainment expired. https://tinyurl.com/5b7c9yuu | via LatestChika.com facebook.com",
+    "published_at": "0927google-kpop",
+    "published_ts": 1790498646.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "UNIS与F&F娱乐专属合约到期，正式结束完整团体活动",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "UNIS与F&F Entertainment的专属合约到期，合约期近三年",
+      "UNIS正式结束作为完整团体的活动"
+    ],
+    "summary_zh": "K-pop女团UNIS与所属社F&F Entertainment的专属合约到期，合约期近三年。随着合约结束，UNIS正式终止了作为完整团体的活动。",
+    "extracted_at": "2026-09-27T17:46:13.569071+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Soompi’s K-Pop Music Chart 2026, September Week 4",
+    "url": "https://www.soompi.com/article/1873323wpp/soompis-k-pop-music-chart-2026-september-week-4",
+    "content": "Soyeon&#8217;s &#8220;I&#8217;m gonna TOESA&#8221; moves up one spot to take over as the new No. 1 song this week, making it the i-dle member&#8217;s first No. 1 solo track on our chart. Congratulations to Soyeon! Moving back up three spots to No. 2 is CORTIS&#8217;s &#8220;REDRED.&#8221; Holding steady to round up the top three is&#8230; Continue reading Soompi&#8217;s K-Pop Music Chart 2026, September Week 4\nThe post Soompi&#8217;s K-Pop Music Chart 2026, September Week 4 appeared first on Soompi.",
+    "published_at": "0927soompi",
+    "published_ts": 1790492735.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Soompi 2026年9月第4周K-Pop榜单：田小娟《I'm gonna TOESA》登顶，成个人首支冠军单曲",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "田小娟（Soyeon）的《I'm gonna TOESA》本周上升一位，登顶Soompi K-Pop音乐榜，成为她作为i-dle成员的首支个人冠军单曲",
+      "CORTIS的《REDRED》回升三位至第2名",
+      "第3名保持不变（原文未提及具体歌曲名）"
+    ],
+    "summary_zh": "Soompi公布2026年9月第4周K-Pop音乐榜。田小娟（Soyeon）的《I'm gonna TOESA》本周上升一位，登顶榜首，成为她作为i-dle成员的首支个人冠军单曲。CORTIS的《REDRED》回升三位至第2名，第3名保持不变。",
+    "extracted_at": "2026-09-27T17:46:15.088700+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Song Kang Lashes Out At Lee Jun Young In A Fit Of Rage In “Four Hands, Two Sonatas”",
+    "url": "https://www.soompi.com/article/1873316wpp/song-kang-lashes-out-at-lee-jun-young-in-a-fit-of-rage-in-four-hands-two-sonatas",
+    "content": "tvN’s “Four Hands, Two Sonatas” has shared a glimpse of an explosive confrontation between Song Kang and Lee Jun Young! “Four Hands, Two Sonatas” is a drama that follows the friendship, love, rivalry, and growth of two students who meet at an arts high school, tracing their journey from adolescence to adulthood as professional pianists.&#8230; Continue reading Song Kang Lashes Out At Lee Jun Young In A Fit Of Rage In &#8220;Four Hands, Two Sonatas&#8221;\nThe post Song Kang Lashes Out At Lee Jun Young In A Fit Of Rage In &#8220;Four Hands, Two Sonatas&#8221; appeared first on Soompi.",
+    "published_at": "0927soompi",
+    "published_ts": 1790492221.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《四手联弹，两首奏鸣曲》宋康与李准英爆发激烈冲突剧照公开",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "tvN 公开了《四手联弹，两首奏鸣曲》中宋康与李准英激烈对峙的剧照",
+      "该剧讲述两名在艺术高中相遇的学生之间的友情、爱情、竞争与成长，时间跨度从青少年到成年成为职业钢琴家的历程"
+    ],
+    "summary_zh": "tvN 电视剧《四手联弹，两首奏鸣曲》公开了宋康与李准英之间爆发性对峙的剧照。该剧讲述两名在艺术高中相遇的学生之间的友情、爱情、竞争与成长，描绘他们从青少年时期到成年后成为职业钢琴家的旅程。",
+    "extracted_at": "2026-09-27T17:46:16.529181+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Korea-Japan Festival turns 20 in Tokyo with K-pop makeovers, hanbok - The Korea Times",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbUNnRTlCRmVIMXR3NmVNbUdSNmlYUDNrVzMzcmlDQlBPNUpvTDNySk5kUEJObl9fZU9hR3h6N2V6eWF0aHg3bmo4YlNkcU1KMXRHNTlFSmRmQXp1ZGJ5b1FQYVVzNWl2bDRua2RxWnpjZEpSdk4ybFAybzBrU21CSmJoMXBMN05EZ0dJR2V4U2NNNFJzN3lBZldReFJ3aXBscWhoN1dZYkpiREVJdDhQN1R5YnBiOWFleXk00gHAAUFVX3lxTE8wVWtacnRBSUxiTjlDTHhzOUdKMENGR05YeTBTSlp3M0YydEw2bWJ0d1daY1hES2p5RHhaVmlqMWdsMzktMVNaYlJ1dnZwUG1SNHVqVEEwUnhOWkVEalBCTHhEdWJkazl0OWpaX3IwVHN6ajUwOGFTY2Q4Y1VUUWJpajhxWHFlNUpOS2tSdmJxUnlnY3ZjRmJGVExzMXRfbU9paW1Vd0lBenZCR3JFOTdua3BTZzBTekk4RkE4RVAwdQ?oc=5",
+    "content": "Korea-Japan Festival turns 20 in Tokyo with K-pop makeovers, hanbok The Korea Times",
+    "published_at": "0927google-kpop",
+    "published_ts": 1790490662.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "韩日庆典东京迎来20周年，K-pop改编舞台与韩服体验登场",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "《韩国时报》报道，韩日庆典（Korea-Japan Festival）在东京举办，迎来20周年",
+      "活动内容包括K-pop改编舞台（K-pop makeovers）和韩服（hanbok）体验"
+    ],
+    "summary_zh": "据《韩国时报》报道，韩日庆典在东京迎来20周年。活动包含K-pop改编舞台和韩服体验等内容。",
+    "extracted_at": "2026-09-27T17:46:17.937303+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Park Seo Ham Is Confused After Kim Ji Yeon And Jang Se Hyuk Swap Bodies In “Dive Into You”",
+    "url": "https://www.soompi.com/article/1873305wpp/park-seo-ham-is-confused-after-kim-ji-yeon-and-jang-se-hyuk-swap-bodies-in-dive-into-you",
+    "content": "Kim Ji Yeon and Jang Se Hyuk’s body swap will leave Park Seo Ham bewildered on the next episode of “Dive into You”! “Dive into You” is a new fantasy romance drama starring WJSN’s Kim Ji Yeon (Bona) as Yoon Ha Na, an A-list actress who unexpectedly winds up swapping bodies with her twin brother&#8230; Continue reading Park Seo Ham Is Confused After Kim Ji Yeon And Jang Se Hyuk Swap Bodies In &#8220;Dive Into You&#8221;\nThe post Park Seo Ham Is Confused After Kim Ji Yeon And Jang Se Hyuk Swap Bodies In &#8220;Dive Into You&#8221; appeared first on Soompi.",
+    "published_at": "0927soompi",
+    "published_ts": 1790489533.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《Dive Into You》金智妍与张世赫灵魂互换，朴叙含陷入困惑",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "《Dive Into You》是一部新奇幻爱情剧，由宇宙少女成员金智妍（Bona）饰演顶级女演员尹荷娜。",
+      "尹荷娜意外与她的双胞胎兄弟互换身体。",
+      "在下一集中，金智妍与张世赫的身体互换将让朴叙含感到困惑。"
+    ],
+    "summary_zh": "新奇幻爱情剧《Dive Into You》中，宇宙少女金智妍（Bona）饰演的顶级女演员尹荷娜意外与双胞胎兄弟互换身体。在下一集中，金智妍与张世赫的身体互换将导致朴叙含饰演的角色陷入困惑。",
+    "extracted_at": "2026-09-27T17:46:19.447099+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "“Inkigayo,” “Running Man,” And More To Not Air Today",
+    "url": "https://www.soompi.com/article/1873293wpp/inkigayo-running-man-and-more-to-not-air-today",
+    "content": "Due to coverage of the ongoing Asian Games, many Sunday TV shows will not be airing today. SBS’s “Inkigayo” and “Running Man” will both be taking the night off, as will KBS’s “Boss in the Mirror,” “2 Days &#38; 1 Night,” and “Open Concert.” KBS dramas “A Love Other Than Yours” and “Love on the&#8230; Continue reading &#8220;Inkigayo,&#8221; &#8220;Running Man,&#8221; And More To Not Air Today\nThe post &#8220;Inkigayo,&#8221; &#8220;Running Man,&#8221; And More To Not Air Today appeared first on Soompi.",
+    "published_at": "0927soompi",
+    "published_ts": 1790486037.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "受亚运会转播影响，《人气歌谣》《Running Man》等多档周日节目今日停播",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "停播原因：因亚运会（Asian Games）赛事转播覆盖",
+      "SBS停播节目：《人气歌谣》（Inkigayo）、《Running Man》",
+      "KBS停播节目：《社长的耳朵是驴耳朵》（Boss in the Mirror）、《两天一夜》（2 Days & 1 Night）、《开放音乐会》（Open Concert）",
+      "KBS停播剧集：《A Love Other Than Yours》及《Love on the...》（剧名原文截断）",
+      "停播时间：今日（周日）"
+    ],
+    "summary_zh": "因亚运会赛事转播，韩国多档周日电视节目今日停播。SBS方面，《人气歌谣》和《Running Man》将停播一期；KBS方面，《社长的耳朵是驴耳朵》《两天一夜》《开放音乐会》同样停播。此外，KBS两部剧集《A Love Other Than Yours》和《Love on the...》也受到影响。",
+    "extracted_at": "2026-09-27T17:46:20.998707+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-pop moments to watch for at 2026 MTV VMAs - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5SVhVenFJdldEVmY4VUtFMFVUUTZpNHBJQkVoU2hfQnFNOFFIZ2xEX0JycS1leW9JOEV4SE1KSHJOXzhvZVNteEJTMWdYM0hFQURueDNKMA?oc=5",
+    "content": "K-pop moments to watch for at 2026 MTV VMAs The Korea Herald",
+    "published_at": "0927google-kpop",
+    "published_ts": 1790484860.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "2026年MTV VMAs值得关注的K-pop看点",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅提及K-Pop巨头股价下跌，未提供具体公司名称、股价跌幅、时间等细节"
+      "原文仅提及2026年MTV VMAs（MTV音乐录影带大奖）存在值得关注的K-pop相关看点",
+      "原文未提供任何具体艺人、组合、奖项、时间、地点或数据信息"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：K-Pop Giants' Stocks Plunge Despite Industry Success]",
-    "extracted_at": "2026-09-27T11:23:46.964240+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：2026年MTV VMAs值得关注的K-pop看点]",
+    "extracted_at": "2026-09-27T17:46:22.271515+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "“New Recruit 4: Sabotage” Stars Say Goodbye + Promise To Return With Season 5",
+    "url": "https://www.soompi.com/article/1873286wpp/new-recruit-4-sabotage-stars-say-goodbye-promise-to-return-with-season-5",
+    "content": "The cast of ENA’s “New Recruit 4: Sabotage” have shared their final thoughts ahead of the drama’s upcoming finale! With just two episodes left of Season 4, the starring cast looked back on their experience filming the show and thanked viewers for tuning in. Kim Min Ho expressed his deep regret at having to say&#8230; Continue reading &#8220;New Recruit 4: Sabotage&#8221; Stars Say Goodbye + Promise To Return With Season 5\nThe post &#8220;New Recruit 4: Sabotage&#8221; Stars Say Goodbye + Promise To Return With Season 5 appeared first on Soompi.",
+    "published_at": "0927soompi",
+    "published_ts": 1790483772.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《新兵4：破坏》主演收官告别，承诺第五季回归",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "ENA剧集《新兵4：破坏》即将迎来大结局，仅剩两集",
+      "主演阵容在收官前分享了最终感想，回顾拍摄经历并感谢观众收看",
+      "演员金民浩（Kim Min Ho）表达了告别的不舍",
+      "主演们承诺将以第五季回归"
+    ],
+    "summary_zh": "ENA剧集《新兵4：破坏》即将播出最后两集迎来收官，主演阵容在结局前分享了最终感想。演员们回顾了本季的拍摄经历，向观众表达了感谢，其中金民浩（Kim Min Ho）对告别表达了深深的不舍。主演们同时承诺将回归第五季。",
+    "extracted_at": "2026-09-27T17:46:24.017733+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-pop Boom Contrasts With Plunging Entertainment Stocks: HYBE, JYP Lead Declines - 조선일보",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUE1RODdWdXpRNGc3WmVwQ0htRl96UFhKckVrM21Uay1YT2xORzVKOGxBcG1BSlhXWnoxVmlvVi0zUzNXX3JuOFZTb0NjU0pmQjFEbndQMEg1WUNUOUN5WWZqZTFVZnZkLUE5Yk1aUmIwbnBKVG9OVTZrVjVWM1gxdkxmWWlrLWtuMW1teHpn?oc=5",
+    "content": "K-pop Boom Contrasts With Plunging Entertainment Stocks: HYBE, JYP Lead Declines 조선일보",
+    "published_at": "0927google-kpop",
+    "published_ts": 1790481115.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "K-pop热潮下娱乐股集体下挫：HYBE、JYP领跌",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "据朝鲜日报报道，K-pop产业持续火热，但娱乐类股票却出现下跌",
+      "HYBE和JYP在下跌中领跌"
+    ],
+    "summary_zh": "朝鲜日报报道称，K-pop热潮与娱乐股下跌形成反差，HYBE和JYP领跌。原文未提供具体跌幅数据、时间及原因分析。",
+    "extracted_at": "2026-09-27T17:46:25.301283+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -35,16 +260,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "田柾国成首位拥有6首TikTok播放量超300万歌曲的K-pop个人歌手",
+    "title_zh": "田柾国成为首位拥有六首TikTok播放量超300万歌曲的K-pop个人歌手",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "据《韩国先驱报》报道，田柾国成为首位拥有6首TikTok播放量超过300万歌曲的K-pop个人歌手",
-      "原文未提及具体歌曲名称、具体播放量数字及达成时间"
+      "田柾国成为首位拥有六首TikTok播放量超过300万歌曲的K-pop个人歌手",
+      "该消息由《韩国先驱报》报道"
     ],
-    "summary_zh": "据《韩国先驱报》报道，田柾国成为首位拥有6首TikTok播放量超过300万歌曲的K-pop个人歌手。原文未披露这6首歌曲的具体名称、各自播放量及达成时间等细节。",
-    "extracted_at": "2026-09-27T11:23:48.521677+08:00"
+    "summary_zh": "据《韩国先驱报》报道，田柾国成为首位拥有六首TikTok播放量超过300万歌曲的K-pop个人歌手。原文未提供具体歌曲名称、播放量数据或达成时间等进一步细节。",
+    "extracted_at": "2026-09-27T17:46:26.653725+08:00"
   },
   {
     "source_id": "soompi",
@@ -67,10 +292,10 @@
       "当地时间9月25日，iHeartRadio公布了2026年Jingle Ball演唱会巡演的阵容。",
       "TXT（TOMORROW X TOGETHER）将参加今年Jingle Ball巡演在美国的部分场次。",
       "KATSEYE将参加今年Jingle Ball巡演在美国的部分场次。",
-      "Jingle Ball巡演每年在美国多个城市于假日季举行。"
+      "Jingle Ball巡演是iHeartRadio每年在美国多个城市举办的假日季演唱会。"
     ],
-    "summary_zh": "当地时间9月25日，iHeartRadio公布了2026年Jingle Ball演唱会巡演阵容。韩国组合TXT（TOMORROW X TOGETHER）与KATSEYE确认将参加今年Jingle Ball巡演在美国的部分场次。该巡演每年在美国多个城市于假日季举办。",
-    "extracted_at": "2026-09-27T11:23:50.371456+08:00"
+    "summary_zh": "当地时间9月25日，iHeartRadio公布了2026年Jingle Ball演唱会巡演阵容。韩国组合TXT（TOMORROW X TOGETHER）与KATSEYE确认将参加今年Jingle Ball巡演在美国的部分场次。Jingle Ball是iHeartRadio每年在美国多个城市举办的假日季演唱会，具体场次及完整阵容尚未在原文中详细列出。",
+    "extracted_at": "2026-09-27T17:46:28.260583+08:00"
   },
   {
     "source_id": "soompi",
@@ -92,12 +317,11 @@
     "facts_list": [
       "tvN剧集《Four Hands, Two Sonatas》于9月26日播出最新一集，创下该剧周六档最高收视率",
       "该剧周六收视率通常低于周日",
-      "收视数据来源为Nielsen Korea",
-      "该剧已进入最后两周播出期",
-      "《Dive Into You》于同日首播"
+      "新剧《Dive Into You》同日首播",
+      "收视数据来源为Nielsen Korea"
     ],
-    "summary_zh": "tvN剧集《Four Hands, Two Sonatas》于9月26日播出的最新一集创下该剧周六档最高收视率。据Nielsen Korea数据，该剧周六收视通常低于周日，此次表现尤为突出。该剧目前已进入最后两周播出阶段。同日，另一部剧集《Dive Into You》迎来首播。",
-    "extracted_at": "2026-09-27T11:23:51.756898+08:00"
+    "summary_zh": "tvN剧集《Four Hands, Two Sonatas》于9月26日播出的最新一集创下该剧周六档最高收视率。据Nielsen Korea数据，该剧周六收视率通常低于周日。同日，新剧《Dive Into You》迎来首播。该剧目前已进入播出最后两周。",
+    "extracted_at": "2026-09-27T17:46:29.555321+08:00"
   },
   {
     "source_id": "soompi",
@@ -112,39 +336,15 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "6位K-Pop偶像颜值出众，被评有望登时尚杂志封面",
+    "title_zh": "6位K-Pop偶像视觉魅力十足，天生适合登时尚杂志封面",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅称6位K-Pop偶像各自拥有视觉魅力，适合时尚杂志封面",
-      "原文未提及任何具体偶像姓名、杂志名称、时间或数据"
+      "原文仅称6位K-Pop偶像拥有各自视觉魅力，适合时尚杂志封面，未提及具体偶像姓名、杂志名称或任何具体事件"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：6位K-Pop偶像的颜值有望登上时尚杂志封面]",
-    "extracted_at": "2026-09-27T11:23:53.272298+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Choo Young-woo + Kim So-hyun Are Giving Us the Soft K-Drama Romance We’ve Been Waiting For in “Between Steps” - Dojeon Media",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSkFHNUJyanpMZ3pXNTVIVWtwUmd6eHFEUGlaWnF3OGxzcWNKeU11NFR0QmtsUkdfV0RtbGJOYXZzTmlYY0VobV9BdUM0M1ZZSHBFVzlOeU0wdklycGZvaHUwNklobFBmazZiM0dCSWZROE05SnVCTWVMNzJJNUllRFdVNkpFTk5ENWY2WVYxSEdLYzZwRmg5TnV0bHN2aGo0blhrMFQ3UFV6TW5NUHBaWjRQaXhma3hGZkROc3R4d19Lc1pHbDBPLVZR?oc=5",
-    "content": "Choo Young-woo + Kim So-hyun Are Giving Us the Soft K-Drama Romance We’ve Been Waiting For in “Between Steps” Dojeon Media",
-    "published_at": "0927google-kpop",
-    "published_ts": 1790466408.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "秋英宇与金所泫主演新剧《Between Steps》打造温柔浪漫韩剧",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "原文仅提及秋英宇与金所泫将主演韩剧《Between Steps》，未提供具体播出时间、剧情细节或制作信息"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：秋英宇与金所泫在《Between Steps》中呈现我们一直期待的温柔韩剧浪漫]",
-    "extracted_at": "2026-09-27T11:23:54.807214+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：6位K-Pop偶像视觉魅力十足，天生适合登时尚杂志封面]",
+    "extracted_at": "2026-09-27T17:46:30.726219+08:00"
   },
   {
     "source_id": "soompi",
@@ -164,13 +364,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "韩国企业评价研究所公布了9月韩剧品牌声誉排名",
-      "排名基于对21部热门剧集的消费者参与、媒体报道、互动、社区认知和收视指数分析",
-      "数据收集时间为8月10日至9月10日",
+      "韩国企业评价研究所公布了9月电视剧品牌声誉排名",
+      "排名基于8月10日至9月10日期间收集的大数据，对21部热门电视剧的消费者参与、媒体报道、互动、社区认知和收视指数进行分析",
       "《A Bona Fide Killer》位列本月榜单第一"
     ],
-    "summary_zh": "韩国企业评价研究所公布了9月韩剧品牌声誉排名，该排名通过分析21部热门剧集的消费者参与、媒体报道、互动、社区认知和收视指数得出，数据收集自8月10日至9月10日。《A Bona Fide Killer》登顶本月榜单。",
-    "extracted_at": "2026-09-27T11:23:56.361793+08:00"
+    "summary_zh": "韩国企业评价研究所公布了9月电视剧品牌声誉排名。该排名通过分析8月10日至9月10日期间收集的大数据，对21部热门电视剧的消费者参与、媒体报道、互动、社区认知和收视指数进行评估。《A Bona Fide Killer》位居本月榜单首位。",
+    "extracted_at": "2026-09-27T17:46:32.646210+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -192,10 +391,10 @@
     "facts_list": [
       "Stray Kids在墨西哥结束拉丁美洲巡演",
       "巡演收官活动为音乐节STRAYCITY",
-      "现场标语/口号为'Did You Miss Us?'"
+      "Billboard报道标题提及'Did You Miss Us?'"
     ],
-    "summary_zh": "Stray Kids在墨西哥完成拉丁美洲巡演收官站，并以音乐节STRAYCITY作为巡演终点。报道提及现场出现'Did You Miss Us?'相关内容。原文未提供具体演出日期、场馆名称、观众人数或曲目等细节。",
-    "extracted_at": "2026-09-27T11:23:57.879916+08:00"
+    "summary_zh": "据Billboard报道，Stray Kids在墨西哥以音乐节STRAYCITY结束了拉丁美洲巡演，报道标题中引用了'Did You Miss Us?'。",
+    "extracted_at": "2026-09-27T17:46:34.268877+08:00"
   },
   {
     "source_id": "asianwiki",
