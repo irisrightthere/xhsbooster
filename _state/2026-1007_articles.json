@@ -1,5 +1,775 @@
 [
   {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Kim You Jung Steals Park Jinyoung’s Wallet During Their First Encounter In “100 Days Of Deception” Preview",
+    "url": "https://www.soompi.com/article/1876089wpp/watch-kim-you-jung-steals-park-jinyoungs-wallet-during-their-first-encounter-in-100-days-of-deception-preview",
+    "content": "tvN’s upcoming drama “100 Days of Deception” has shared a sneak peek of its premiere! Helmed by director Yoo In Shik of “Extraordinary Attorney Woo” and the “Dr. Romantic” series, “100 Days of Lies” is a period spy romance set over 100 days during the Japanese occupation of Korea. The drama will follow the story&#8230; Continue reading Watch: Kim You Jung Steals Park Jinyoung&#8217;s Wallet During Their First Encounter In &#8220;100 Days Of Deception&#8221; Preview\nThe post Watch: Kim You Jung Steals Park Jinyoung&#8217;s Wallet During Their First Encounter In &#8220;100 Days Of Deception&#8221; Preview appeared first on Soompi.",
+    "published_at": "1007soompi",
+    "published_ts": 1791384325.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "金裕贞朴珍荣新剧《100天的谎言》预告：首遇即偷钱包",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "tvN 新剧《100天的谎言》（100 Days of Deception）公开首播预告",
+      "导演：刘仁植，曾执导《非常律师禹英禑》及《浪漫医生》系列",
+      "类型：以日本殖民朝鲜时期为背景、横跨100天的时代谍战爱情剧",
+      "预告内容：金裕贞与朴珍荣饰演的角色首次相遇时，金裕贞偷走了朴珍荣的钱包"
+    ],
+    "summary_zh": "tvN 新剧《100天的谎言》发布首播预告。该剧由《非常律师禹英禑》及《浪漫医生》系列导演刘仁植执导，是一部以日本殖民朝鲜时期为背景、横跨100天的时代谍战爱情剧。预告片中，金裕贞与朴珍荣饰演的角色首次相遇时，金裕贞偷走了朴珍荣的钱包。",
+    "extracted_at": "2026-10-07T23:01:24.010702+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "HYOYEON: A Career In Song Ratings - thebiaslist.com",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1KNC0tTE9iNkpnNDJzV1ptSjhEd2FEX3Z4VW1vNzBKbmpHbGV2SFpOcGh0ZWNjYVFlUGo0SzMzcU9jcVVfZVZzZ2hIdEw3OHhNNGFtdDJBdjJoWkhIQWdqWEI4Q3F2RGlnbGl5Nm5PeC1XVXBOZndN?oc=5",
+    "content": "HYOYEON: A Career In Song Ratings thebiaslist.com",
+    "published_at": "1007google-kpop",
+    "published_ts": 1791380953.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "孝渊音乐生涯歌曲评分盘点：thebiaslist.com 发布回顾",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "thebiaslist.com 发布了标题为《HYOYEON: A Career In Song Ratings》的内容",
+      "原文仅包含标题和来源网站，未提供具体评分数据、歌曲列表或时间信息"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：HYOYEON: A Career In Song Ratings - thebiaslist.com]",
+    "extracted_at": "2026-10-07T23:01:25.223825+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Hwang Minhyun (Nu’est) – Our - thebiaslist.com",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9MNUNfdGVUY2RuS09sNDFmWVZtV0hjd2I1SGZRZ3RIZUtLZHN6Q19RQk9iSkg4T2F1SWVnc2pDcURMUGE5UHFjNzZfQ2h1bWhLbkwwejQzTXN0ZUVUZEtYYzgwd2hrUDltb3EwdmxzSkxjN3Rkby1mQkpycw?oc=5",
+    "content": "Hwang Minhyun (Nu’est) – Our thebiaslist.com",
+    "published_at": "1007google-kpop",
+    "published_ts": 1791380853.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "黄旼炫（NU'EST）发布新曲《Our》",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及黄旼炫（NU'EST）与歌曲《Our》，未提供发布时间、榜单成绩、官方声明等具体信息"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：黄旼炫（NU'EST） – Our - thebiaslist.com]",
+    "extracted_at": "2026-10-07T23:01:26.265946+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Song Review: Young Posse – Go Ahead - https://thebiaslist.com/",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81NG1MQUlsTV9vREI2RF9UcXRiWk1kdGZnQXN0dWg0RXpLYVRSSnZLWlM0SDJha1ZmdC1oZXdscS1wMHNfZm5DTTB1em5EOUNNdnBzdVJxNEZCZ0VGYW5ja2RDWGFzTHNsY20td2tCMEpoY2hVRUZF?oc=5",
+    "content": "Song Review: Young Posse – Go Ahead https://thebiaslist.com/",
+    "published_at": "1007google-kpop",
+    "published_ts": 1791380785.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Young Posse 新曲《Go Ahead》乐评",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅为乐评网站 thebiaslist.com 的歌曲评论标题，未提供任何具体内容"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：Young Posse – Go Ahead 歌曲评论]",
+    "extracted_at": "2026-10-07T23:01:27.769278+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Kakao Entertainment and Atlantic Music Group announce global K-pop partnership - MusicWeek.com",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMTVHcTUwR1NKRjdtcEQ0dU5ldlZtYXVoek41NmFBbm5sSU1lRjlHTWRZbktjbW9kU3RvWHZRMG5XemV6NXpxNklhZ2RwUnFja1pNakdJVmJsQVZJVkdNYWNkYnJhelJpT2lqMU50YW9jLUxVbTc1VktielEzckNVNTNYSVpsUmZaMS1qaHlUY3I1ekxNWW5qOEVwU1dycUtYaVg0dGdOOWJ2RUVRZV9hMl9ta2NqWlM2VzBUUWd1UEI?oc=5",
+    "content": "Kakao Entertainment and Atlantic Music Group announce global K-pop partnership MusicWeek.com",
+    "published_at": "1007google-kpop",
+    "published_ts": 1791380640.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Kakao娱乐与Atlantic Music Group宣布全球K-pop合作伙伴关系",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "Kakao Entertainment与Atlantic Music Group宣布建立全球K-pop合作伙伴关系",
+      "信息来源为MusicWeek.com"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：Kakao Entertainment与Atlantic Music Group宣布全球K-pop合作伙伴关系]",
+    "extracted_at": "2026-10-07T23:01:29.158750+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "XG Announces Cancellation Of Dallas And Mexico City Concerts",
+    "url": "https://www.soompi.com/article/1876086wpp/xg-announces-cancellation-of-dallas-and-mexico-city-concerts",
+    "content": "XG’s “THE CORE” concerts in Dallas and Mexico City will no longer be taking place. On October 6 KST, XG announced that the Dallas and Mexico City stops of their ongoing “THE CORE” world tour had been “cancelled due to unforeseen circumstances.” The Dallas and Mexico City stops of XG’s tour were originally scheduled to&#8230; Continue reading XG Announces Cancellation Of Dallas And Mexico City Concerts\nThe post XG Announces Cancellation Of Dallas And Mexico City Concerts appeared first on Soompi.",
+    "published_at": "1007soompi",
+    "published_ts": 1791379906.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "XG宣布取消达拉斯和墨西哥城演唱会",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "10月6日韩国时间，XG宣布其'The CORE'世界巡演的达拉斯站和墨西哥城站因'不可预见的情况'取消",
+      "达拉斯和墨西哥城站原定于后续日期举行"
+    ],
+    "summary_zh": "10月6日韩国时间，XG宣布其正在进行中的'The CORE'世界巡演达拉斯站和墨西哥城站因不可预见的情况取消。这两站演出原定于后续日期举行，具体原定日期原文未完整提及。",
+    "extracted_at": "2026-10-07T23:01:30.688708+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Kakao Entertainment strikes K-pop partnership with Warner’s Atlantic Music Group to develop artists ‘from the earliest stages’ - Music Business Worldwide",
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxONmFNOGpFc1VNTmxTVmdxbFdwOVdMNUpvQWVVdng1dW15b210Y2l4dW5CR1R6bFd0d3NBT3VGcjRXa2VIQll1bGYyUkdUYS1yQXFPVUwtamtacDQ2Y0x5VVpzNGhjaXkzWkE4b2NUUUgwZHdxNUljNWdnMnppV2FYZ05aVnkyMENlOWtHeml2REUxWFB5b1VRMUdTRms5dkszaXo2SmN6ZU85dHVkNVBJbUZwYXRGWmRSb2J5dktDUy1vZjdhTlM3Yi1sdUd1RGxORm5qSGJNU3dJSWszUlh5eWtCMTlLelNyQkhPY2l0REsxUFdzZlE?oc=5",
+    "content": "Kakao Entertainment strikes K-pop partnership with Warner’s Atlantic Music Group to develop artists ‘from the earliest stages’ Music Business Worldwide",
+    "published_at": "1007google-kpop",
+    "published_ts": 1791379137.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Kakao娱乐与华纳大西洋音乐集团达成K-pop合作，从早期阶段共同开发艺人",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Kakao Entertainment与华纳音乐集团旗下Atlantic Music Group签署K-pop合作伙伴关系协议",
+      "合作内容为从艺人开发的最早阶段开始共同培养",
+      "消息来源为Music Business Worldwide"
+    ],
+    "summary_zh": "据Music Business Worldwide报道，Kakao Entertainment与华纳音乐集团旗下的Atlantic Music Group达成K-pop合作伙伴关系，双方将从艺人开发的最早阶段开始共同培养。该合作旨在结合Kakao Entertainment在K-pop领域的本土资源与Atlantic Music Group的全球发行及制作能力，具体合作艺人及项目尚未公布。",
+    "extracted_at": "2026-10-07T23:01:32.485585+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "JYP founder denies privilege allegations in mega K-pop project - The Korea Times",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVmZQNDh0WWc4dFBRaHo4cGt4ZVlWNUtyYlN4MnBmdFFVZ1Npa3dXRm5WSHpXdlJ2Nm1TenZ0OGNRd21zY05hTkZaOFFXZVVtQ0J0NENnNDJzMXFfM3hUWnZJT01PbkQwbzhjc09PUzI4bWNsX0dGY1RuRnNHcHNBanlYajJyUUZHaHhPQnFkU2d4X1ZVQVhsZ29uc0pVUjBKLXhpaE9mTHhlV0diZUZGTEtKZGZ5OFZpeTJFZtIBwgFBVV95cUxQXzhXUzZHb1I3cGYtSG96V2h6MkFzakNwOHZ1S1dLM2ZYcm1qVzdPTHIxZFJuc1pORDhWUUktUl9hZVpheVk3bEZrblI4ek1ZUnlBTUd0Sk5ISFpTemZhVGVLV2Q5UHhsVDBiSXhqcU5lbU93dndrb2JrMVpnNTVoekxCSjlzaWtZbjFpYlhJU1h5YUZQWkpOSDBfa29BVGpNQXhvd3ZJZ3A5LXRYZEU3UnppVmdEbzdqbmZ1aUk0b1ZZZw?oc=5",
+    "content": "JYP founder denies privilege allegations in mega K-pop project The Korea Times",
+    "published_at": "1007google-kpop",
+    "published_ts": 1791373143.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "JYP创始人否认大型K-pop项目特权指控",
+    "source_type": "韩娱",
+    "risk_level": "中",
+    "is_blurred": true,
+    "facts_list": [
+      "JYP创始人否认在大型K-pop项目中存在特权指控",
+      "原文未提及具体行为、时间、地点或数据"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：JYP创始人否认大型K-pop项目特权指控]",
+    "extracted_at": "2026-10-07T23:01:33.595658+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "J.Y. Park testifies over controversy surrounding Fanomenon as his K-pop vision faces scrutiny - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5MNzR2UHg3dzVxVlgwX09kdkh3VnJ5UjVyTHBiRmNaQi02R2h5czlqVWVYNnFtYVlOclVmNjAtZk1nRVR4STZQVWQzU3RMcW8zcjlsODRFdw?oc=5",
+    "content": "J.Y. Park testifies over controversy surrounding Fanomenon as his K-pop vision faces scrutiny The Korea Herald",
+    "published_at": "1007google-kpop",
+    "published_ts": 1791372228.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "J.Y. Park 就 Fanomenon 争议出庭作证，K-pop 愿景受审视",
+    "source_type": "韩娱",
+    "risk_level": "中",
+    "is_blurred": true,
+    "facts_list": [
+      "J.Y. Park 就 Fanomenon 相关争议出庭作证",
+      "其 K-pop 愿景受到审视"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：J.Y. Park 就 Fanomenon 争议出庭作证，其 K-pop 愿景受审视]",
+    "extracted_at": "2026-10-07T23:01:35.132813+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: NiziU Takes 1st Win For “Sour Grapes” On “Show Champion”; Performances By CLOSE YOUR EYES, CRAVITY, And More",
+    "url": "https://www.soompi.com/article/1876055wpp/watch-evan-takes-2nd-win-on-show-champion-with-death-of-me-performances-by-verivery-tunexx-and-more-2",
+    "content": "NiziU has won their first music show trophy for “Sour Grapes”! On the October 7 episode of “Show Champion,” the candidates for first place were ALLDAY PROJECT&#8217;s “CRASH,” BOYNEXTDOOR&#8217;s “ANIMAL,” CLOSE YOUR EYES’s “Drop That!,” CRAVITY’s “LOUDER,” and NiziU&#8217;s “Sour Grapes.” NiziU ultimately took the win. Congratulations to NiziU! Watch their win and encore below:&#8230; Continue reading Watch: NiziU Takes 1st Win For “Sour Grapes” On &#8220;Show Champion&#8221;; Performances By CLOSE YOUR EYES, CRAVITY, And More\nThe post Watch: NiziU Takes 1st Win For “Sour Grapes” On &#8220;Show Champion&#8221;; Performances By CLOSE YOUR EYES, CRAVITY, And More appeared first on Soompi.",
+    "published_at": "1007soompi",
+    "published_ts": 1791372173.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "NiziU凭《Sour Grapes》获《Show Champion》首个一位，CLOSE YOUR EYES、CRAVITY等登台表演",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "10月7日播出的《Show Champion》中，一位候选为 ALLDAY PROJECT《CRASH》、BOYNEXTDOOR《ANIMAL》、CLOSE YOUR EYES《Drop That!》、CRAVITY《LOUDER》、NiziU《Sour Grapes》",
+      "NiziU 凭《Sour Grapes》最终拿下该节目一位，为其该曲首个音乐节目奖杯",
+      "节目同场有 CLOSE YOUR EYES、CRAVITY 等艺人表演"
+    ],
+    "summary_zh": "10月7日播出的《Show Champion》中，一位候补包括 ALLDAY PROJECT《CRASH》、BOYNEXTDOOR《ANIMAL》、CLOSE YOUR EYES《Drop That!》、CRAVITY《LOUDER》以及 NiziU《Sour Grapes》。最终 NiziU 凭《Sour Grapes》拿下一位，这是该曲的首个音乐节目奖杯。节目同场还有 CLOSE YOUR EYES、CRAVITY 等艺人登台表演。",
+    "extracted_at": "2026-10-07T23:01:37.167268+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "'KPOP DEMON HUNTERS' SEQUEL? 💖😱 “KPop Demon Hunters” could be headed to the big screen in a much wider release for its upcoming sequel. READ: https://www.gmanetwork.com/news/lifestyle/hobbiesandactivities/1005067/kpop-demon-hunters-seq - Facebook",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSF9LbWtBU3FHeFdkM1JzckYxcmhiaTZ1M3FDMnFid0ZWd2pRWWdycFJaMHVJUE94RlFGckNraHFjQ0VTeEVPM2NMakFTdmtEOTB4TDlqYUVlV1ZObW1talI2YU5HVkJhbGl3dVd6a1BNRjJPc3V2X3lvaUZ5cUZlVzVpd3lfWk1WdXNuTl9lQW1lXzVWQ09HNVVWZzROYzJRTUVRZ3gwTll5STRfTm9XNENvcGtHYmJ6Qi1Hb284TmlXcmswbzJ0ZGM0enFRR09wWE9v?oc=5",
+    "content": "'KPOP DEMON HUNTERS' SEQUEL? 💖😱 “KPop Demon Hunters” could be headed to the big screen in a much wider release for its upcoming sequel. READ: https://www.gmanetwork.com/news/lifestyle/hobbiesandactivities/1005067/kpop-demon-hunters-seq Facebook",
+    "published_at": "1007google-kpop",
+    "published_ts": 1791370861.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《KPop Demon Hunters》续集或扩大院线发行规模",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文提及《KPop Demon Hunters》续集可能以更大规模登陆大银幕",
+      "原文未提供具体上映时间、发行地区、票房数据或官方声明"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters》续集可能以更大规模登陆大银幕]",
+    "extracted_at": "2026-10-07T23:01:38.701727+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Kakao Entertainment plots K-Pop growth with Atlantic Music Group - Music Ally",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVHpCMkNvTGdVbVJNekRNTXh4TzE4WGtzNGdyQ3UwdG85Xy1rTkVNX2NaT1UxWEVKWWdMeEFYMjNFSXUzTEdLN0dUblpWWFNTMVdXaV9vRk1ya1h6MFZaVXJHUVBPdWlUbUpuRUxNOHVvTFFPUEVaTEZsMW15YndsbFI2ZUoxTWk0a2FRbzFtaVFhRXRxTWhIeDN6c1AzeE0?oc=5",
+    "content": "Kakao Entertainment plots K-Pop growth with Atlantic Music Group Music Ally",
+    "published_at": "1007google-kpop",
+    "published_ts": 1791370676.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Kakao娱乐与Atlantic Music Group合作，布局K-Pop全球增长",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "Kakao Entertainment与Atlantic Music Group达成合作，共同策划K-Pop增长计划"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：Kakao Entertainment与Atlantic Music Group合作策划K-Pop增长]",
+    "extracted_at": "2026-10-07T23:01:40.273789+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kang Tae Joo, Park So Jin, And More Shake Up Nam Ji Hyun And Kim Jae Yeong’s Love Story In “Make Me Tingle”",
+    "url": "https://www.soompi.com/article/1876046wpp/kang-tae-joo-park-so-jin-and-more-shake-up-nam-ji-hyun-and-kim-jae-yeongs-love-story-in-make-me-tingle",
+    "content": "TVING’s upcoming drama “Make Me Tingle” has unveiled new stills of its supporting cast! “Make Me Tingle” is a chaotic romantic comedy starring Nam Ji Hyun as Gong Yeon Su, a woman who believes in love but has never truly figured out what it means for her, and Kim Jae Yeong as Dokgo Dal, a&#8230; Continue reading Kang Tae Joo, Park So Jin, And More Shake Up Nam Ji Hyun And Kim Jae Yeong’s Love Story In “Make Me Tingle”\nThe post Kang Tae Joo, Park So Jin, And More Shake Up Nam Ji Hyun And Kim Jae Yeong’s Love Story In “Make Me Tingle” appeared first on Soompi.",
+    "published_at": "1007soompi",
+    "published_ts": 1791368645.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《Make Me Tingle》公开配角剧照：姜泰柱、朴昭珍等加盟搅动南志铉与金宰英爱情线",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "TVING 新剧《Make Me Tingle》公开了配角阵容的新剧照",
+      "该剧为浪漫喜剧，由南志铉饰演相信爱情却始终未真正理解爱情意义的孔妍秀",
+      "金宰英饰演独孤达",
+      "配角阵容包括姜泰柱、朴昭珍等演员"
+    ],
+    "summary_zh": "TVING 即将播出的浪漫喜剧《Make Me Tingle》公开了配角演员的新剧照。该剧由南志铉饰演相信爱情却始终未能真正理解爱情意义的孔妍秀，金宰英饰演独孤达。姜泰柱、朴昭珍等演员加盟，将在剧中搅动两位主角的爱情线。",
+    "extracted_at": "2026-10-07T23:01:42.150563+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Hwang Minhyun Honestly Conveys His Feelings In Sleek MV For “OUR”",
+    "url": "https://www.soompi.com/article/1876035wpp/watch-hwang-minhyun-honestly-conveys-his-feelings-in-sleek-mv-for-our",
+    "content": "Hwang Minhyun is here with new music! On October 7 at 6 p.m. KST, Hwang Minhyun returned with his new digital single &#8220;OUR&#8221; along with a music video for the track. &#8220;OUR&#8221; is a medium tempo pop song with minimalistic composition. The song captures the meaning that even as the seasons change and the familiar&#8230; Continue reading Watch: Hwang Minhyun Honestly Conveys His Feelings In Sleek MV For &#8220;OUR&#8221;\nThe post Watch: Hwang Minhyun Honestly Conveys His Feelings In Sleek MV For &#8220;OUR&#8221; appeared first on Soompi.",
+    "published_at": "1007soompi",
+    "published_ts": 1791364446.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "黄旼炫10月7日发行数字单曲《OUR》并公开MV",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "黄旼炫于10月7日下午6点（KST）发行全新数字单曲《OUR》",
+      "《OUR》的MV同步公开",
+      "《OUR》是一首极简编曲的中速流行歌曲",
+      "歌曲传达了即使季节更替、熟悉的事物变化也不变的含义"
+    ],
+    "summary_zh": "黄旼炫于10月7日下午6点（KST）携全新数字单曲《OUR》回归，并同步公开了该曲MV。《OUR》是一首编曲极简的中速流行歌曲，歌曲传达了即使季节更替、熟悉的事物发生变化也不改变的含义。",
+    "extracted_at": "2026-10-07T23:01:43.926226+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Onew And Zico Play A Game Of “Tic Tac Toe” In New Collab",
+    "url": "https://www.soompi.com/article/1876029wpp/watch-onew-and-zico-play-a-game-of-tic-tac-toe-in-new-collab",
+    "content": "SHINee’s Onew and Zico have dropped their new collab! On October 7 at 6 p.m. KST, Onew released “Tic Tac Toe (feat. Zico),” the second title track from his upcoming single album &#8220;Chakgak&#8221; (romanized title). “Tic Tac Toe” is an R&#38;B hip hop track that cleverly compares the subtle dynamics and emotions between two people&#8230; Continue reading Watch: Onew And Zico Play A Game Of “Tic Tac Toe” In New Collab\nThe post Watch: Onew And Zico Play A Game Of “Tic Tac Toe” In New Collab appeared first on Soompi.",
+    "published_at": "1007soompi",
+    "published_ts": 1791363948.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "SHINee温流携手Zico发布合作曲《Tic Tac Toe》，收录于单曲专辑《Chakgak》",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "时间：10月7日下午6点（韩国时间）",
+      "主体：SHINee成员温流（Onew）与Zico",
+      "事件：温流发布新曲《Tic Tac Toe (feat. Zico)》",
+      "背景：《Tic Tac Toe》是温流即将发行的单曲专辑《Chakgak》（音译）的第二首主打歌",
+      "曲风：R&B hip hop风格，歌词巧妙比喻两人之间微妙的互动与情感"
+    ],
+    "summary_zh": "SHINee成员温流于10月7日下午6点（韩国时间）发布与Zico的合作曲《Tic Tac Toe (feat. Zico)》。该曲是温流即将发行的单曲专辑《Chakgak》（音译）的第二首主打歌，风格为R&B hip hop，歌词以“Tic Tac Toe”游戏为喻，描绘两人之间微妙的互动与情感。",
+    "extracted_at": "2026-10-07T23:01:45.965833+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "6 K-Dramas That You Can Easily Finish In One Sitting",
+    "url": "https://www.soompi.com/article/1875352wpp/6-k-dramas-that-you-can-easily-finish-in-one-sitting",
+    "content": "Not every K-drama needs to take you a week to finish. Sometimes, you want to press play, get completely hooked, and know that you’ll see the ending before the night is over. These shorter K-dramas are perfect for those times when you’re in the mood for romance, angst, or a good dose of drama without&#8230; Continue reading 6 K-Dramas That You Can Easily Finish In One Sitting\nThe post 6 K-Dramas That You Can Easily Finish In One Sitting appeared first on Soompi.",
+    "published_at": "1007soompi",
+    "published_ts": 1791362831.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "6部适合一口气看完的短篇韩剧推荐",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文为Soompi发布的韩剧推荐列表文章，标题为《6 K-Dramas That You Can Easily Finish In One Sitting》",
+      "原文正文仅描述短篇韩剧适合一次性看完，涵盖浪漫、虐心等类型，未提及任何具体剧名、演员、播出平台或数据"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：并非每部韩剧都需要一周才能看完，这些短篇韩剧适合想一口气追完的观众]",
+    "extracted_at": "2026-10-07T23:01:47.778258+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kim Hye Ja And Cha Mi Kyung’s Friendship Remains Unchanged After 60 Years In “Still Shining”",
+    "url": "https://www.soompi.com/article/1876023wpp/kim-hye-ja-and-cha-mi-kyungs-friendship-remains-unchanged-after-60-years-in-still-shining",
+    "content": "The upcoming film “Still Shining” has unveiled two new posters! “Still Shining” depicts the story of Soon Ok (Kim Hye Ja), who reunites with her best friend Jung Im (Cha Mi Kyung) after 60 years—a friend with whom she shared the most brilliant moments of her life. The first poster features Kim Hye Ja as&#8230; Continue reading Kim Hye Ja And Cha Mi Kyung’s Friendship Remains Unchanged After 60 Years In “Still Shining”\nThe post Kim Hye Ja And Cha Mi Kyung’s Friendship Remains Unchanged After 60 Years In “Still Shining” appeared first on Soompi.",
+    "published_at": "1007soompi",
+    "published_ts": 1791361864.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "金惠子与车美京新片《Still Shining》公开海报，演绎60年不变友情",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "电影《Still Shining》讲述顺玉（金惠子 饰）与挚友正任（车美京 饰）时隔60年重逢的故事，两人曾共度人生最灿烂的时光",
+      "影片公开了两张新海报",
+      "首张海报以金惠子饰演的角色为主"
+    ],
+    "summary_zh": "即将上映的电影《Still Shining》公开两张新海报。影片讲述顺玉（金惠子 饰）与挚友正任（车美京 饰）时隔60年重逢的故事，两人曾共度人生中最灿烂的时光。首张海报以金惠子饰演的角色为主。",
+    "extracted_at": "2026-10-07T23:01:49.204827+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Arin And Yoon Chan Young Confirmed For New Horror Film Based On Webtoon",
+    "url": "https://www.soompi.com/article/1876018wpp/arin-and-yoon-chan-young-confirmed-for-new-horror-film-based-on-webtoon",
+    "content": "The upcoming film “Bongcheon-dong Ghost” (literal title) has announced Arin and Yoon Chan Young as its leads and officially begun production! On October 7, the film announced that Arin and Yoon Chan Young will star as its leads, with filming having kicked off on October 5. Based on the webtoon of the same name, “Bongcheon-dong&#8230; Continue reading Arin And Yoon Chan Young Confirmed For New Horror Film Based On Webtoon\nThe post Arin And Yoon Chan Young Confirmed For New Horror Film Based On Webtoon appeared first on Soompi.",
+    "published_at": "1007soompi",
+    "published_ts": 1791360712.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Arin与尹灿荣确认主演网漫改编恐怖片《奉天洞Ghost》，10月5日已开拍",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "10月7日，电影《奉天洞Ghost》（直译名）宣布Arin与尹灿荣担任主演",
+      "该片改编自同名网漫",
+      "影片已于10月5日正式开拍"
+    ],
+    "summary_zh": "10月7日，电影《奉天洞Ghost》（直译名）正式宣布由Arin与尹灿荣担任主演，该片改编自同名网漫，并已于10月5日投入拍摄。",
+    "extracted_at": "2026-10-07T23:01:50.780827+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "7 K-pop comebacks to have on your radar this October, from Yuqi to JxJ - Hashtag Legend Hong Kong",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObTVpaXpVTHBubm5LbHplQnZ4R1kxZUNZSjdDOFNZX0lsWVhsbHhRZEhPMVBwcWNlbnE5X3FjQ1IxNExYZU0waG5JaDV1NTgyeEl2d1U2ZmtyM25OYzkwSFdUemlITFRJaWE2TnlzcEFGUFJEampGd3NuQ1NvTmdFV2F2eEg4cWVlXzFfTGZDYU4tQWU5S2JxYmVUa3M?oc=5",
+    "content": "7 K-pop comebacks to have on your radar this October, from Yuqi to JxJ Hashtag Legend Hong Kong",
+    "published_at": "1007google-kpop",
+    "published_ts": 1791360518.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "10月K-pop回归前瞻：宋雨琦与JxJ等7组艺人回归日程",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅列出10月K-pop回归艺人名单，包括宋雨琦（Yuqi）与JxJ等7组，未提供具体回归日期、作品名称或任何其他细节"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：10月值得关注的7组K-pop回归，从宋雨琦到JxJ]",
+    "extracted_at": "2026-10-07T23:01:52.061034+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Boy band Riize's Sohee tops poll for best thick-rimmed glasses look - Korea JoongAng Daily",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRmlyUGlGNkFPU3hBUUFKdXJXRThnLUEyYWRVZldjMHI1S2pjdVpjLUhYX0ZrSEpsbmRmRXBxSU9rRWlJN2g1dHU2czItVEtmdV9XRkxOREk1LWhqRVpaSHZsNGxKZC1KOVFubm50ZURLU0tjejY3c3ZYQ0pRMXZNa2QyQ05samk5MWVjLUZyZ2dCZDBXZmRYcFA4U3MyR2JsU1lBMWpFdk1MX0xBN19leW9kZ1YzaXhQTHVPSTRtOXU?oc=5",
+    "content": "Boy band Riize's Sohee tops poll for best thick-rimmed glasses look Korea JoongAng Daily",
+    "published_at": "1007google-kpop",
+    "published_ts": 1791359534.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Riize成员昭熙获评最适合粗框眼镜造型第一名",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Riize成员昭熙在粗框眼镜造型投票中排名第一",
+      "该投票由韩国媒体Korea JoongAng Daily报道"
+    ],
+    "summary_zh": "韩国男团Riize成员昭熙在一项关于最适合粗框眼镜造型的投票中位列第一。该投票结果由韩国媒体Korea JoongAng Daily报道。",
+    "extracted_at": "2026-10-07T23:01:53.351795+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Chun Woo Hee, EXO’s Kai, Sehun, And More Join “World Dice Tour 4” As New Travel Partners",
+    "url": "https://www.soompi.com/article/1876008wpp/chun-woo-hee-exos-kai-sehun-and-more-join-world-dice-tour-4-as-new-travel-partners",
+    "content": "“World Dice Tour 4” has unveiled its lineup of travel partners who will join Pani Bottle, Kwaktube, and 1G on adventures around the world! ENA’s variety show “World Dice Tour 4” follows travel creators Pani Bottle, Kwaktube, and 1G as they roll the dice to determine their destinations and embark on journeys across the globe.&#8230; Continue reading Chun Woo Hee, EXO’s Kai, Sehun, And More Join “World Dice Tour 4” As New Travel Partners\nThe post Chun Woo Hee, EXO’s Kai, Sehun, And More Join “World Dice Tour 4” As New Travel Partners appeared first on Soompi.",
+    "published_at": "1007soompi",
+    "published_ts": 1791359005.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "千玗嬉、EXO KAI与世勋等加盟《World Dice Tour 4》担任新旅行伙伴",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "ENA综艺节目《World Dice Tour 4》公布新旅行伙伴阵容",
+      "加盟艺人包括千玗嬉、EXO成员KAI与世勋等",
+      "节目固定成员为旅行创作者Pani Bottle、Kwaktube和1G",
+      "节目形式为通过掷骰子决定旅行目的地并展开环球旅行"
+    ],
+    "summary_zh": "ENA综艺节目《World Dice Tour 4》公开新加盟的旅行伙伴阵容，千玗嬉、EXO成员KAI与世勋等艺人将加入节目。该节目由旅行创作者Pani Bottle、Kwaktube和1G担任固定成员，通过掷骰子随机决定旅行目的地，展开环球冒险。新伙伴将与原有成员一同参与旅程。",
+    "extracted_at": "2026-10-07T23:01:55.188641+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Lee Ki Young, Choi Duk Moon, Seo Jeong Yeon, And More Bring Diverse Charms To New Drama “100 Days Of Deception”",
+    "url": "https://www.soompi.com/article/1875944wpp/lee-ki-young-choi-duk-moon-seo-jeong-yeon-and-more-bring-diverse-charms-to-new-drama-100-days-of-deception",
+    "content": "tvN’s upcoming drama “100 Days of Deception” has unveiled new stills featuring its supporting characters! Helmed by director Yoo In Shik of “Extraordinary Attorney Woo” and the “Dr. Romantic” series, “100 Days of Lies” is a period spy romance set over 100 days during the Japanese occupation of Korea. In the drama, Lee Ki Young&#8230; Continue reading Lee Ki Young, Choi Duk Moon, Seo Jeong Yeon, And More Bring Diverse Charms To New Drama “100 Days Of Deception”\nThe post Lee Ki Young, Choi Duk Moon, Seo Jeong Yeon, And More Bring Diverse Charms To New Drama “100 Days Of Deception” appeared first on Soompi.",
+    "published_at": "1007soompi",
+    "published_ts": 1791357882.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "李基英、崔德文、徐正妍等加盟tvN新剧《100天的谎言》公开配角剧照",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "tvN新剧《100天的谎言》（100 Days of Deception）公开了配角阵容的剧照",
+      "该剧由《非常律师禹英禑》及《浪漫医生》系列导演刘仁植执导",
+      "剧集背景设定为日本殖民朝鲜时期，是一部为期100天的时代间谍爱情剧",
+      "公开剧照的配角演员包括李基英、崔德文、徐正妍等"
+    ],
+    "summary_zh": "tvN新剧《100天的谎言》公开了李基英、崔德文、徐正妍等配角的剧照。该剧由曾执导《非常律师禹英禑》和《浪漫医生》系列的刘仁植担任导演，是一部以日本殖民朝鲜时期为背景、围绕100天展开的时代间谍爱情剧。此次公开的剧照展示了多位配角演员在剧中的不同魅力。",
+    "extracted_at": "2026-10-07T23:01:57.403631+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Billboard Top Soundtracks: 'KPop Demon Hunters' Sets All-Time Record With 63 Weeks at No. 1 - Rockum",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTFVieFVZOFFobC1jWU5xVzVNcXlOd3hIMmZSTXhFb2otc2JSX21nV3B0LVZRVFVHbFc2dXlDZzN2SHc2UkUxU0dpa0J4RU1IeXVUc3ZMa2lHOFplTmJhMDJDM2I0bXUxZG5NMzUyeTcySVd5dm5LVVY5SkNTU3NUTGowcVdEdG5DZldvZ3hDMFFkb3JrUXd0ekNSSUpjcFcxU2lKZF9FZ0dQSF9lR2pqM1VnUzNxbjFYQ2VwZHhybXN1VW9XbHc?oc=5",
+    "content": "Billboard Top Soundtracks: 'KPop Demon Hunters' Sets All-Time Record With 63 Weeks at No. 1 Rockum",
+    "published_at": "1007google-kpop",
+    "published_ts": 1791357342.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《KPop Demon Hunters》原声带登顶Billboard原声带榜63周，创历史最长纪录",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "《KPop Demon Hunters》原声带在Billboard Top Soundtracks榜单排名第1，累计63周",
+      "该成绩刷新了Billboard Top Soundtracks榜单历史最长夺冠周数纪录",
+      "信息来源为Rockum"
+    ],
+    "summary_zh": "据Rockum报道，Billboard Top Soundtracks榜单显示，《KPop Demon Hunters》原声带以63周排名第1的成绩，创下该榜单历史最长夺冠纪录。",
+    "extracted_at": "2026-10-07T23:01:58.997576+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Jang Young Nam And Cha Ji Yeon Are Powerful Half Sisters With Conflicting Goals In New Drama “Final Table”",
+    "url": "https://www.soompi.com/article/1875908wpp/jang-young-nam-and-cha-ji-yeon-are-powerful-half-sisters-with-conflicting-goals-in-new-drama-final-table",
+    "content": "The upcoming cooking drama “Final Table” has unveiled new stills featuring Jang Young Nam and Cha Ji Yeon in character! “Final Table” follows talented Korean chefs from around the world as they gather to compete in “The Table: K-Chef 2026,” a high-stakes survival competition to determine the best Korean chef. Jang Young Nam and Cha&#8230; Continue reading Jang Young Nam And Cha Ji Yeon Are Powerful Half Sisters With Conflicting Goals In New Drama “Final Table”\nThe post Jang Young Nam And Cha Ji Yeon Are Powerful Half Sisters With Conflicting Goals In New Drama “Final Table” appeared first on Soompi.",
+    "published_at": "1007soompi",
+    "published_ts": 1791357294.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "张英南与车智妍出演新剧《Final Table》，饰演目标冲突的强势异母姐妹",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "新剧《Final Table》公开了张英南与车智妍的角色剧照",
+      "《Final Table》剧情围绕来自世界各地的韩国厨师展开，他们齐聚参加名为'The Table: K-Chef 2026'的高风险生存竞赛，以决出最佳韩国厨师",
+      "张英南与车智妍在剧中饰演强势的异母姐妹，两人目标相互冲突"
+    ],
+    "summary_zh": "即将播出的烹饪题材韩剧《Final Table》公开了张英南与车智妍的最新剧照。该剧讲述来自世界各地的优秀韩国厨师齐聚一堂，参加名为'The Table: K-Chef 2026'的高风险生存竞赛，角逐最佳韩国厨师称号。张英南与车智妍在剧中饰演一对强势的异母姐妹，但两人目标相互冲突。",
+    "extracted_at": "2026-10-07T23:02:00.973058+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Usborne expands K-pop range following Sticker Dolly Dressing K-POP success - The Bookseller",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZzRDT1QzQ3U4Zi0xa3IxOFFLMnZHLTNwelNkcENoN21iQUtKQjY4STlzTEpiMzBMaENMSVpIXzR6Nk9CTWNKR3JLT0lJdFEycEdKNnp4QXFiYXBkSFktcmpnZlVpVUJxQU1oSVpTMUE0RU5PWEc4MFNJRzZuOWhpOGhXNW1FNmpLay1iYVZYUUdCMG9XcEZvV0lUY2hCMTR1Z1pwVlZ5eGVELWh0Mmc?oc=5",
+    "content": "Usborne expands K-pop range following Sticker Dolly Dressing K-POP success The Bookseller",
+    "published_at": "1007google-kpop",
+    "published_ts": 1791356899.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Usborne 借《Sticker Dolly Dressing K-POP》成功之势扩展 K-pop 系列图书",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "Usborne 出版社在《Sticker Dolly Dressing K-POP》取得成功后，扩展其 K-pop 相关图书产品线",
+      "原文未提及具体销量数据、扩展书目名称或上市时间"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：Usborne 在《Sticker Dolly Dressing K-POP》成功后扩展 K-pop 系列]",
+    "extracted_at": "2026-10-07T23:02:02.489080+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Oh Se Young Is An Office Employee By Day And Indie Band Singer By Night In “What A Boss Wants”",
+    "url": "https://www.soompi.com/article/1875967wpp/oh-se-young-is-an-office-employee-by-day-and-indie-band-singer-by-night-in-what-a-boss-wants",
+    "content": "The upcoming drama “What a Boss Wants” has shared a glimpse of Oh Se Young’s double life! Based on a web novel of the same name, “What a Boss Wants” is a romance drama about Kwon Do Hyuk (Sung Hoon), a chaebol boss with zero sense of taste who sets out to find the woman&#8230; Continue reading Oh Se Young Is An Office Employee By Day And Indie Band Singer By Night In “What A Boss Wants”\nThe post Oh Se Young Is An Office Employee By Day And Indie Band Singer By Night In “What A Boss Wants” appeared first on Soompi.",
+    "published_at": "1007soompi",
+    "published_ts": 1791356542.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "吴世英新剧《老板想要什么》中白天当职员晚上做独立乐队主唱",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "新剧《What a Boss Wants》（暂译《老板想要什么》）公开了吴世英（Oh Se Young）的双重生活剧照",
+      "该剧改编自同名网络小说，是一部浪漫剧",
+      "剧中男主角权道赫（Kwon Do Hyuk）由成勋（Sung Hoon）饰演，是一位毫无品味的财阀老板，踏上寻找某位女性的旅程",
+      "吴世英在剧中饰演的角色白天是公司职员，晚上是独立乐队主唱"
+    ],
+    "summary_zh": "新剧《What a Boss Wants》（暂译《老板想要什么》）公开了吴世英的剧照，展现其角色白天是公司职员、晚上是独立乐队主唱的双重生活。该剧改编自同名网络小说，是一部浪漫剧，讲述由成勋饰演的毫无品味的财阀老板权道赫寻找某位女性的故事。",
+    "extracted_at": "2026-10-07T23:02:04.286762+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Kakao Entertainment teams up with Atlantic Music Group to expand K-pop globally - Korea JoongAng Daily",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN3Q4dURpWnozZk1nQUJNdUZaWVROcUVkNVZuRGQtN01QYldjV2JPWkJYWUtwYmVoNms4aE1YbmtfYXQ5ZzJrNm9BSEVsd2J3TWZSdkpBeFp4TGFobE94QkVLZThDNzNXWlRzMFJIX0lkYzRuR2J2V0xpRVNQLXhOTXVVUWJfWExTWlJCTFctY2tCYkcxbURHNmhtYk82bnBiSzd5eVdUSHhmVl9XNnVSalBicXY3VS1hNjFjTFF6WXZ2OGFSZFJGc0NiaHlJN01lbVE?oc=5",
+    "content": "Kakao Entertainment teams up with Atlantic Music Group to expand K-pop globally Korea JoongAng Daily",
+    "published_at": "1007google-kpop",
+    "published_ts": 1791355566.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Kakao娱乐与Atlantic Music Group合作，推动K-pop全球化",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Kakao Entertainment与Atlantic Music Group建立合作伙伴关系",
+      "合作目标是扩大K-pop的全球影响力"
+    ],
+    "summary_zh": "Kakao娱乐与Atlantic Music Group宣布合作，旨在推动K-pop的全球化。双方将携手拓展K-pop在国际市场的影响力。",
+    "extracted_at": "2026-10-07T23:02:05.445627+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "KPOP DEMON HUNTERS SEQUEL IS COMING Netflix co-CEO Ted Sarandos has confirmed that KPop Demon Hunters is having its sequel and is expected to receive a wide theatrical release. More details in the comments section. - Facebook",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMkx2UmNVa0hRbGFIUHJRS1h6eEx2MWpFejdzdVlaYlpEcjlyTlM1cUktLUxJZUFLUDRXRzF3UFlpVWRqMnRxMV9FU05PTnQwYlAtQldsZy1SenVwaTUwVnpPb3ZZUUY4N2dGYk1CcXhWYXdMRUdjaTFOSXJ6d2pSRDNWY3QxVFc1QXlOcVdxY1Jld0MwSElXMVptd3lWU0Zpa3UtRnNrcEp4alZHVUZxOWsyUF9NNG9ZeE5jcUNOZHZkMWJ0Z0drYjJvclY4N2cyYlQ5UkJRWQ?oc=5",
+    "content": "KPOP DEMON HUNTERS SEQUEL IS COMING Netflix co-CEO Ted Sarandos has confirmed that KPop Demon Hunters is having its sequel and is expected to receive a wide theatrical release. More details in the comments section. Facebook",
+    "published_at": "1007google-kpop",
+    "published_ts": 1791354607.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Netflix联席CEO确认《KPop Demon Hunters》将拍续集，预计大规模院线上映",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Netflix联席CEO泰德·萨兰多斯（Ted Sarandos）确认《KPop Demon Hunters》将制作续集",
+      "续集预计将获得大规模院线上映（wide theatrical release）",
+      "更多细节位于评论区（原文未提供具体细节）"
+    ],
+    "summary_zh": "Netflix联席CEO泰德·萨兰多斯已确认，动画电影《KPop Demon Hunters》将推出续集，并且续集预计会进行大规模院线上映。原文未透露续集的具体制作时间、上映日期或剧情细节，仅提示更多信息在评论区。",
+    "extracted_at": "2026-10-07T23:02:07.310956+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kim Hyun Joo And Bae Hyeon Seong Convey Complex Emotions In New Film “Paradise Lost” Posters",
+    "url": "https://www.soompi.com/article/1875934wpp/kim-hyun-joo-and-bae-hyeon-seong-convey-complex-emotions-in-new-film-paradise-lost-posters",
+    "content": "Upcoming film “Paradise Lost” has unveiled new posters! “Paradise Lost” is a thriller that follows Sun Woo (Bae Hyeon Seong), a son who returns home after being missing for nine years. While he was gone, his mother So Young (Kim Hyun Joo) had been soothing her pain by interacting with a childhood version of her&#8230; Continue reading Kim Hyun Joo And Bae Hyeon Seong Convey Complex Emotions In New Film “Paradise Lost” Posters\nThe post Kim Hyun Joo And Bae Hyeon Seong Convey Complex Emotions In New Film “Paradise Lost” Posters appeared first on Soompi.",
+    "published_at": "1007soompi",
+    "published_ts": 1791354603.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "金贤珠与裴贤成新片《Paradise Lost》海报公开 演绎复杂情感",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "电影《Paradise Lost》公开了新海报",
+      "《Paradise Lost》是一部惊悚片，讲述失踪九年后归家的儿子Sun Woo（裴贤成 饰）的故事",
+      "儿子失踪期间，母亲So Young（金贤珠 饰）通过与童年版本的儿子互动来抚慰痛苦",
+      "该资讯来源为Soompi"
+    ],
+    "summary_zh": "即将上映的电影《Paradise Lost》公开了新海报。该片为惊悚题材，讲述裴贤成饰演的儿子Sun Woo在失踪九年后回到家中，而金贤珠饰演的母亲So Young在儿子失踪期间，一直通过与童年版本的儿子互动来缓解内心的痛苦。新海报展现了两位主演所传达的复杂情感。",
+    "extracted_at": "2026-10-07T23:02:08.986988+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kim Young Kwang And Chae Soo Bin Go On A Romantic Date In “Take Charge Of My Heart”",
+    "url": "https://www.soompi.com/article/1875958wpp/kim-young-kwang-and-chae-soo-bin-go-on-a-romantic-date-in-take-charge-of-my-heart",
+    "content": "Netflix’s upcoming drama “Take Charge of My Heart” has unveiled new stills! Based on a web novel, “Take Charge of My Heart” is an electrifying romantic comedy about a man whose artificial heart is running out of battery and a woman with the unique power to recharge him. Kim Young Kwang stars as the cool&#8230; Continue reading Kim Young Kwang And Chae Soo Bin Go On A Romantic Date In “Take Charge Of My Heart”\nThe post Kim Young Kwang And Chae Soo Bin Go On A Romantic Date In “Take Charge Of My Heart” appeared first on Soompi.",
+    "published_at": "1007soompi",
+    "published_ts": 1791351017.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "金英光与蔡秀彬《Take Charge of My Heart》浪漫约会剧照公开",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Netflix 新剧《Take Charge of My Heart》公开新剧照",
+      "该剧改编自网络小说，为浪漫喜剧题材",
+      "剧情设定：男主角的人工心脏电量即将耗尽，女主角拥有为其充电的特殊能力",
+      "金英光担任男主角",
+      "蔡秀彬担任女主角",
+      "新剧照内容为金英光与蔡秀彬的浪漫约会场景"
+    ],
+    "summary_zh": "Netflix 新剧《Take Charge of My Heart》公开最新剧照，主演金英光与蔡秀彬的浪漫约会场景曝光。该剧改编自网络小说，是一部浪漫喜剧，讲述一名人工心脏电量即将耗尽的男人，与一位拥有特殊充电能力的女人之间的故事。金英光饰演男主角，蔡秀彬饰演女主角。",
+    "extracted_at": "2026-10-07T23:02:10.510598+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Yoo Yeon Seok Is A Single Dad Who Faces Unexpected Crisis In New Drama “The Perfect Lie”",
+    "url": "https://www.soompi.com/article/1875918wpp/yoo-yeon-seok-is-a-single-dad-who-faces-unexpected-crisis-in-new-drama-the-perfect-lie",
+    "content": "MBC’s upcoming drama “The Perfect Lie” has unveiled new stills featuring Yoo Yeon Seok! Helmed by “You and Everything Else” director Jo Young Min, “The Perfect Lie” is a psychological thriller in which a man and a woman give completely opposite accounts of the same memory, clashing fiercely in their search for the truth. Yoo&#8230; Continue reading Yoo Yeon Seok Is A Single Dad Who Faces Unexpected Crisis In New Drama &#8220;The Perfect Lie&#8221;\nThe post Yoo Yeon Seok Is A Single Dad Who Faces Unexpected Crisis In New Drama &#8220;The Perfect Lie&#8221; appeared first on Soompi.",
+    "published_at": "1007soompi",
+    "published_ts": 1791349773.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "刘延锡新剧《The Perfect Lie》饰演单亲爸爸 遭遇意外危机",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "MBC 即将播出的新剧《The Perfect Lie》公开了刘延锡的新剧照",
+      "该剧由《You and Everything Else》导演赵英民执导",
+      "《The Perfect Lie》是一部心理惊悚剧，讲述一名男子和一名女子对同一段记忆给出完全相反的陈述，在追寻真相的过程中激烈冲突",
+      "刘延锡在剧中饰演一位单亲爸爸，遭遇意外危机"
+    ],
+    "summary_zh": "MBC 新剧《The Perfect Lie》公开刘延锡剧照。该剧由赵英民执导，是一部心理惊悚剧，讲述一名男子和一名女子对同一段记忆给出完全相反的陈述，在追寻真相过程中激烈冲突。刘延锡在剧中饰演一位单亲爸爸，将遭遇意外危机。",
+    "extracted_at": "2026-10-07T23:02:12.404233+08:00"
+  },
+  {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
@@ -15,37 +785,12 @@
     "title_zh": "防弹少年团RM担任旧金山新展览策展人",
     "source_type": "韩娱",
     "risk_level": "低",
-    "is_blurred": false,
+    "is_blurred": true,
     "facts_list": [
-      "防弹少年团（BTS）成员RM被《金融时报》报道为旧金山最新展览的策展人",
-      "报道来源为《金融时报》（Financial Times）"
+      "原文仅提及防弹少年团RM担任旧金山某展览的策展人，未提供展览名称、时间、地点等具体信息"
     ],
-    "summary_zh": "据《金融时报》报道，防弹少年团（BTS）成员RM成为旧金山最新展览的策展人。原文仅提及这一身份信息，未披露展览名称、场馆、展期或具体展品等细节。",
-    "extracted_at": "2026-10-07T12:02:12.361621+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Netflix eyes 'very broad theatrical release' for 'KPop Demon Hunters' sequel - ABS-CBN",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNX252MzB4ZkZjdDN6N3lIS1VweHdvTXM1LWlrOGNzRjZlR0p0Nmc5RF9xYWt0YnExY3VjVjFLMjJfN2c5enlSQWNDVnNPTzU2UEs3bnNTVDJyS1VsOHBBR2t2dU05Vlc3bXBOd2k0OElyOTU0LUdDbllOcUpQVUs4RmFSa1AxYU1yTFVod090X2xBQUEwcEYwRHlZcGtIcXJ3SW9GcEQ2eTVuRThZdE92aV9tOGpFb0M4WF9ENHVJTHZKbERLS2NPS0hzcFRVeEJRT04yZlQ4N19mb080Vm9kRFlB?oc=5",
-    "content": "Netflix eyes 'very broad theatrical release' for 'KPop Demon Hunters' sequel ABS-CBN",
-    "published_at": "1007google-kpop",
-    "published_ts": 1791344340.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Netflix 考虑为《KPop 恶魔猎人》续集安排大规模院线发行",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "Netflix 正考虑为《KPop Demon Hunters》续集安排“非常广泛的院线发行”",
-      "消息来源为 ABS-CBN 报道"
-    ],
-    "summary_zh": "据 ABS-CBN 报道，Netflix 正在考虑为《KPop Demon Hunters》续集安排“非常广泛的院线发行”。目前尚未公布具体上映日期、发行地区或规模等细节。",
-    "extracted_at": "2026-10-07T12:02:13.504533+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：旧金山最新的展览策展人是K-pop巨星RM]",
+    "extracted_at": "2026-10-07T23:02:13.740112+08:00"
   },
   {
     "source_id": "soompi",
@@ -65,12 +810,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "tvN 剧集《四手联弹，两首奏鸣曲》发布终映集幕后花絮视频",
+      "tvN 剧集《四手联弹，两首奏鸣曲》发布终映幕后花絮视频",
       "花絮中李准英向高昌锡表达感谢，因其角色解决了崔正耀（李准英饰）与姜皮奥（宋江饰）之间的误会",
-      "视频包含宋江、李准英、张圭悧等演员在最终拍摄现场的告别内容"
+      "宋江、李准英、张圭悧等演员参与终映拍摄并告别剧组"
     ],
-    "summary_zh": "tvN 剧集《四手联弹，两首奏鸣曲》公开了最终回的幕后花絮视频。视频中，李准英向高昌锡表示感谢，因为高昌锡饰演的角色化解了崔正耀（李准英饰）与姜皮奥（宋江饰）之间的误会。宋江、李准英、张圭悧等演员在最终拍摄现场向剧集告别。",
-    "extracted_at": "2026-10-07T12:02:15.641863+08:00"
+    "summary_zh": "tvN 剧集《四手联弹，两首奏鸣曲》公开了最终回的幕后花絮视频。视频中，李准英向高昌锡表达感谢，因为高昌锡饰演的角色化解了崔正耀（李准英饰）与姜皮奥（宋江饰）之间的误会。宋江、李准英、张圭悧等演员在终映拍摄现场向剧组告别。",
+    "extracted_at": "2026-10-07T23:02:15.803593+08:00"
   },
   {
     "source_id": "soompi",
@@ -92,58 +837,11 @@
     "facts_list": [
       "韩日合拍剧《Merry Berry Love》公开池昌旭角色剧照",
       "池昌旭饰演韩国空间设计师李裕彬（Lee Yu Bin），在韩国取得巨大成功后一夜之间失去一切",
-      "李裕彬为寻求转机前往日本某岛屿",
+      "李裕彬随后前往日本某岛屿，希望扭转局面",
       "该剧为浪漫喜剧类型"
     ],
-    "summary_zh": "韩日合拍浪漫喜剧《Merry Berry Love》公开池昌旭角色剧照。池昌旭在剧中饰演空间设计师李裕彬，该角色在韩国事业取得巨大成功后一夜之间失去一切，随后前往日本一座岛屿，希望迎来人生转机。剧集具体播出时间及平台尚未在原文中提及。",
-    "extracted_at": "2026-10-07T12:02:17.297985+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "BTS to kick off first-ever Peru concerts as Lima rolls out 'BTS Avenue' - The Korea Times",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaEJJbEhWMGVRMDl5WXFvNDdGY0NXRlJnV0RiUVBxd0lPWHNkazNsYmJaeXh5WUw0a2QtZ0xPcVc3UU5JbmRsay1WNXBPUW9hRjNRdmVoM3ZsdllMc1Z2Uzg5YXgtWHhZNjZ2SHpySTJDNDJjUGlkcWVoZ1dYdDhKdFlvZEVXRlpzeVFNZm1sT3dSeTlDeGYzNTQyNmpkSkNpM0psYkVPTGxiQUt3eDJOMWptTmtieno5S1dzM1JqLUVkUFNlM2fSAcsBQVVfeXFMTU9wUVFwNjdDdEk4TFZqWnBtX1hzSWtqUHJ5YkpNN09SLXBaLW9EUmswcVE1dktSclJZUFFucy1vR3FNOGpMU0JIVC1IR1FGZVVOZlFzNV82c29OV2tNVmJOZ3EtVUdlT0FISnBHMUJhOWJINjNNSE5meTRzMkQtWTU3aVo3V05RX1paNWVSUDI1UnYtZzdhWktNRXlnQ3NSLVN0UUtXRHdsVndXbVQ2MnpONVF4Ym9qTXI2dmtYYURuVEdPeFk4NkprODQ?oc=5",
-    "content": "BTS to kick off first-ever Peru concerts as Lima rolls out 'BTS Avenue' The Korea Times",
-    "published_at": "1007google-kpop",
-    "published_ts": 1791339782.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "防弹少年团首次秘鲁开唱 利马设\"BTS大道\"",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "防弹少年团（BTS）将在秘鲁举办首次演唱会",
-      "秘鲁首都利马推出'BTS大道'"
-    ],
-    "summary_zh": "防弹少年团（BTS）将在秘鲁举行首次演唱会，利马市为此推出'BTS大道'。",
-    "extracted_at": "2026-10-07T12:02:18.872076+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Hyun Bin’s “Made in Korea” Season 2 is the Best K-Drama of 2026 - Best of Korea",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVHdsMUU0UjgycEVNcVFYay0ta0tmcVpZWFNqSDZCRXc3bFZfUFd1RXBJbWtEYUpmUXlKUGpmZVV3aTZUU3pfcnVmWUdTVlJPcWMxZkg0amRzUWVLOUdKMVFMNHFvVEs5OS15cEJfaGw0RTFaVmh5SThONkt3c3RQS1ltUnQ3SnBOU2pXcUhB?oc=5",
-    "content": "Hyun Bin’s “Made in Korea” Season 2 is the Best K-Drama of 2026 Best of Korea",
-    "published_at": "1007google-kpop",
-    "published_ts": 1791339551.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "玄彬《Made in Korea》第二季获评Best of Korea 2026年度最佳韩剧",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "Best of Korea 将玄彬主演的《Made in Korea》第二季评为2026年度最佳韩剧"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：玄彬主演的《Made in Korea》第二季是2026年最佳韩剧]",
-    "extracted_at": "2026-10-07T12:02:20.263607+08:00"
+    "summary_zh": "韩日合拍浪漫喜剧《Merry Berry Love》公开池昌旭角色剧照。池昌旭饰演韩国空间设计师李裕彬，该角色在韩国事业取得巨大成功后一夜之间失去一切，随后前往日本一座岛屿，希望借此扭转人生。剧集具体播出时间及平台尚未在原文中提及。",
+    "extracted_at": "2026-10-07T23:02:17.497786+08:00"
   },
   {
     "source_id": "soompi",
@@ -158,67 +856,20 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "高佑丽宣布诞下首胎 宝宝昵称福袋子健康出生",
+    "title_zh": "高佑丽宣布诞下首胎 通过Instagram Story分享喜讯",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "时间：10月7日",
       "主体：高佑丽（Go Woori）",
-      "行为：通过个人Instagram Story发布分娩消息",
-      "原文引述：'福袋子（宝宝昵称）非常强壮健康地出生了'",
+      "行为：通过Instagram Story发布分娩消息",
+      "原文引述：'福袋子（孩子小名）非常强壮健康地出生了'",
       "原文引述：'愿所有为我加油的人都能得到祝福'",
       "背景：高佑丽以组合成员身份出道"
     ],
-    "summary_zh": "高佑丽于10月7日通过Instagram Story宣布自己已分娩，正式成为母亲。她透露宝宝的昵称为'福袋子'，并称孩子'非常强壮健康地出生了'。她还向所有为她加油的人表达感谢，祝愿大家都能得到祝福。高佑丽最初以组合成员身份出道。",
-    "extracted_at": "2026-10-07T12:02:22.054398+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "7 K-pop comebacks to have on your radar this October, from Yuqi to JxJ - Hashtag Legend Hong Kong",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObTVpaXpVTHBubm5LbHplQnZ4R1kxZUNZSjdDOFNZX0lsWVhsbHhRZEhPMVBwcWNlbnE5X3FjQ1IxNExYZU0waG5JaDV1NTgyeEl2d1U2ZmtyM25OYzkwSFdUemlITFRJaWE2TnlzcEFGUFJEampGd3NuQ1NvTmdFV2F2eEg4cWVlXzFfTGZDYU4tQWU5S2JxYmVUa3M?oc=5",
-    "content": "7 K-pop comebacks to have on your radar this October, from Yuqi to JxJ Hashtag Legend Hong Kong",
-    "published_at": "1007google-kpop",
-    "published_ts": 1791339329.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "10月K-pop回归前瞻：宋雨琦与JxJ等7组艺人回归日程",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "原文仅列出10月K-pop回归艺人名单，包括(G)I-DLE成员宋雨琦（Yuqi）与JxJ等共7组",
-      "原文未提及具体回归日期、歌曲名称、专辑信息或任何数据"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：10月值得关注的7组K-pop回归，从宋雨琦到JxJ]",
-    "extracted_at": "2026-10-07T12:02:23.987739+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "‘Dead-End Job’ starring Lee Jae-wook: Everything we know about the Netflix horror K-drama - Lifestyle Asia Hong Kong",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOakNrYzlsc0d2OGNBeU8taUl1T0g5UFpVSWt4Z0FCVWlnbURXdmJDV0NzWWxjYlIxTVp5RENvQXBPVGptRDdyUHdpWVRlSmQta0pMX3R3MUJYM3RNd3c3VVFUZ01DSkhlRHNzczg5NkVzczlMczRab2FBYlJhRmRVMDhtTnNtS2RXQWFPcUtiX1Y5M3hFY2d0a0k0M2JqSDBIcjJFX3R1UmFVQnlfMElKbGl6N2lFUUJFR3lxM3dyR3JuZ3BZdmIxOUk2d9IB0AFBVV95cUxNSGxCNC1QQUptSmsxMi12M1l5eDEwRzE5XzJJZVpFT3Y2cy1Ha0NhaF8tdnVHWURHVUFGMmRteXFBd2hESExVaXJ2anNaNTBLSWR0dmZ6YUxBUlE1YW1qNEtnSUdoMWs4M25ldXprQzBGMjQ0SGl5UlNjVjVNYk5HXzk4bFJFeWF5eE55eTR1Skd3M3BvMm9aZURhOVNJRmM3czIwVE5PUUxCWmhpTzNJazcyLVBXb2duNUlxZ0NDam04XzNkUkZ6WFZPQU92enJY?oc=5",
-    "content": "‘Dead-End Job’ starring Lee Jae-wook: Everything we know about the Netflix horror K-drama Lifestyle Asia Hong Kong",
-    "published_at": "1007google-kpop",
-    "published_ts": 1791339042.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "李宰旭主演Netflix恐怖韩剧《Dead-End Job》已知信息汇总",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "原文仅提及李宰旭主演Netflix恐怖韩剧《Dead-End Job》，未提供具体剧情、播出日期、制作团队等细节"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：李宰旭主演Netflix恐怖韩剧《Dead-End Job》已知信息汇总]",
-    "extracted_at": "2026-10-07T12:02:25.459593+08:00"
+    "summary_zh": "10月7日，高佑丽通过Instagram Story亲自宣布已诞下第一个孩子。她写道：'福袋子（孩子小名）非常强壮健康地出生了。'并表达感谢：'愿所有为我加油的人都能得到祝福。'高佑丽此前以组合成员身份出道。",
+    "extracted_at": "2026-10-07T23:02:19.227248+08:00"
   },
   {
     "source_id": "soompi",
@@ -239,12 +890,12 @@
     "is_blurred": false,
     "facts_list": [
       "韩韶禧、姜有锡、成俊、李星民、Rain确认加盟Netflix真人版剧集《我独自升级》",
-      "边佑锡已确认担任该剧主演，饰演主角成振宇",
-      "《我独自升级》原作最初为网络小说，后被改编为网漫及动画系列",
+      "边佑锡已确认主演该剧，饰演主角成镇宇（Sung Jin Woo）",
+      "《我独自升级》原作最初为网络小说，后改编为网漫及动画系列",
       "该剧为Netflix即将推出的真人版系列"
     ],
-    "summary_zh": "韩韶禧、姜有锡、成俊、李星民、Rain确认加盟Netflix真人版剧集《我独自升级》，与已确定主演的边佑锡共同出演。该剧改编自同名网络小说，原作此前已被改编为网漫和动画系列，讲述主角成振宇（边佑锡饰）的故事。",
-    "extracted_at": "2026-10-07T12:02:27.347050+08:00"
+    "summary_zh": "韩韶禧、姜有锡、成俊、李星民、Rain确认加盟Netflix真人版剧集《我独自升级》，与已确认主演的边佑锡合作。该剧改编自同名网络小说，原作此前已被改编为网漫和动画系列，讲述主角成镇宇（边佑锡饰）的故事。",
+    "extracted_at": "2026-10-07T23:02:20.719267+08:00"
   },
   {
     "source_id": "soompi",
@@ -265,12 +916,12 @@
     "is_blurred": false,
     "facts_list": [
       "tvN 新剧《Love in Disguise》公开新剧照",
-      "该剧为浪漫惊悚题材，讲述傲慢的财阀继承人尹伊俊（任时完 饰）成为杀人嫌疑人",
-      "薛仁雅饰演前特种部队军官姜在熙，伪装成尹伊俊的私人秘书进行调查",
-      "剧照展现薛仁雅应对任时完角色双面性的情节"
+      "该剧为浪漫惊悚题材，讲述傲慢财阀继承人尹伊俊（任时完 饰）成为杀人嫌疑人，前特种兵姜在熙（薛仁雅 饰）伪装成其私人秘书进行调查的故事",
+      "薛仁雅饰演前特种部队军官姜在熙，以私人秘书身份卧底",
+      "任时完饰演财阀继承人尹伊俊，兼具傲慢与嫌疑人双重身份"
     ],
-    "summary_zh": "tvN 新剧《Love in Disguise》公开最新剧照。该剧为浪漫惊悚类型，讲述傲慢的财阀继承人尹伊俊（任时完 饰）沦为杀人嫌疑人，前特种部队军官姜在熙（薛仁雅 饰）伪装成他的私人秘书展开调查。新剧照展现了薛仁雅饰演的姜在熙面对任时完角色双面性时的情节。",
-    "extracted_at": "2026-10-07T12:02:29.401257+08:00"
+    "summary_zh": "tvN 新剧《Love in Disguise》公开最新剧照。该剧为浪漫惊悚类型，讲述傲慢的财阀继承人尹伊俊（任时完 饰）成为杀人嫌疑人，前特种部队军官姜在熙（薛仁雅 饰）伪装成他的私人秘书展开调查的故事。新剧照展现了薛仁雅面对任时完角色双面性的情节。",
+    "extracted_at": "2026-10-07T23:02:22.783969+08:00"
   },
   {
     "source_id": "soompi",
@@ -285,17 +936,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《Between Steps》第2集收视率升至2.4%，《kiDnap GAME》同日首播",
+    "title_zh": "《Between Steps》第2集收视率升至2.4%，《kiDnap GAME》首播",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "10月6日，ENA新剧《Between Steps》播出第2集，由金所泫和秋英宇主演",
-      "据Nielsen Korea数据，《Between Steps》第2集全国平均收视率为2.4%，较第1集有所上升",
+      "10月6日，ENA新剧《Between Steps》播出第2集，主演金所泫、秋英宇",
+      "据Nielsen Korea数据，《Between Steps》第2集全国平均收视率为2.4%，较第1集上升",
       "Channel A的《kiDnap GAME》于同日首播"
     ],
     "summary_zh": "10月6日，ENA浪漫剧《Between Steps》播出第2集，主演金所泫、秋英宇。据Nielsen Korea统计，该集全国平均收视率为2.4%，较首集有所上升。同日，Channel A的《kiDnap GAME》迎来首播。",
-    "extracted_at": "2026-10-07T12:02:30.965628+08:00"
+    "extracted_at": "2026-10-07T23:02:24.554194+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -317,11 +968,11 @@
     "facts_list": [
       "BIGC 获得 A 轮扩展融资（Series A extension）",
       "BIGC 为 K-pop 巡演平台",
-      "BIGC 连续三年营收翻倍（doubles revenue for third year）",
+      "BIGC 连续第三年实现营收翻倍",
       "信息来源为 Dealroom"
     ],
-    "summary_zh": "据 Dealroom 报道，K-pop 巡演平台 BIGC 获得 A 轮扩展融资，并已连续三年实现营收翻倍。原文未披露具体融资金额、投资方、时间节点及营收数字。",
-    "extracted_at": "2026-10-07T12:02:32.239729+08:00"
+    "summary_zh": "据 Dealroom 报道，K-pop 巡演平台 BIGC 获得 A 轮扩展融资。该平台已连续第三年实现营收翻倍。原文未披露具体融资金额、投资方及营收数字。",
+    "extracted_at": "2026-10-07T23:02:25.773406+08:00"
   },
   {
     "source_id": "soompi",
@@ -342,13 +993,13 @@
     "is_blurred": false,
     "facts_list": [
       "SBS 新剧《Doctor X》公开了第一集预告",
-      "该剧改编自同名热门日剧，是一部医疗黑色剧（medical noir）",
-      "金智媛饰演天才外科医生桂秀贞（Gye Soo Jung，音译）",
-      "角色设定为凭借纯粹实力证明真正医生含义的天才外科医生",
-      "剧集背景设定在一家腐败的医院"
+      "该剧改编自同名热门日剧，是一部医疗黑色题材剧",
+      "金智媛饰演天才外科医生桂秀贞（音译）",
+      "角色通过纯粹的医术实力证明什么才是真正的医生",
+      "剧情围绕主角在腐败医院中挑战现有体制展开"
     ],
-    "summary_zh": "SBS 新剧《Doctor X》公开首集预告。该剧改编自同名热门日剧，是一部医疗黑色剧，由金智媛主演，饰演天才外科医生桂秀贞。剧中她在一家腐败的医院中，凭借纯粹的医术实力证明什么才是真正的医生，挑战现有体制。",
-    "extracted_at": "2026-10-07T12:02:34.145723+08:00"
+    "summary_zh": "SBS 新剧《Doctor X》公开首集预告。该剧改编自同名热门日剧，为医疗黑色题材，由金智媛主演，饰演天才外科医生桂秀贞。角色凭借纯粹的医术实力，在腐败的医院环境中挑战现有体制，展现真正医生的含义。",
+    "extracted_at": "2026-10-07T23:02:27.727022+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -369,11 +1020,11 @@
     "is_blurred": false,
     "facts_list": [
       "《KPop Demon Hunters》周边商品在十月Prime Day期间进行促销",
-      "折扣幅度最高接近60%（即近六折优惠）",
+      "折扣幅度最高接近60%（近六折）",
       "信息来源为Billboard"
     ],
     "summary_zh": "据Billboard报道，《KPop Demon Hunters》相关周边商品在十月Prime Day促销活动中开启折扣，最高优惠幅度接近60%。",
-    "extracted_at": "2026-10-07T12:02:35.456456+08:00"
+    "extracted_at": "2026-10-07T23:02:29.288113+08:00"
   },
   {
     "source_id": "soompi",
@@ -394,12 +1045,12 @@
     "is_blurred": false,
     "facts_list": [
       "Netflix新剧《Dead-End Job》公开了介绍主要角色的新海报和剧照",
-      "该剧为悬疑恐怖奇幻题材",
-      "剧情讲述赫俊（李宰旭 饰）遇到一家奇怪的职业介绍所，提供时薪为平常50倍的高薪兼职",
-      "主演阵容包括李宰旭、高旻示、金敏荷、李熙俊"
+      "该剧为悬疑恐怖奇幻题材，讲述赫俊（李宰旭 饰）遇到一家奇怪的职业介绍所，提供时薪为平常50倍的高薪兼职后卷入事件的故事",
+      "主演阵容包括李宰旭、高旻示、金敏荷、李熙俊",
+      "消息来源为Soompi"
     ],
-    "summary_zh": "Netflix新剧《Dead-End Job》发布新海报和剧照，介绍主要角色。该剧为悬疑恐怖奇幻题材，讲述李宰旭饰演的赫俊遇到一家奇怪的职业介绍所，提供时薪为平常50倍的高薪兼职，随后被卷入事件。高旻示、金敏荷、李熙俊共同出演。",
-    "extracted_at": "2026-10-07T12:02:37.092803+08:00"
+    "summary_zh": "Netflix新剧《Dead-End Job》公开新海报与剧照，介绍主要角色。该剧为悬疑恐怖奇幻题材，讲述李宰旭饰演的赫俊遇到一家奇怪的职业介绍所，该机构提供时薪为平常50倍的高薪兼职，随后赫俊被卷入其中。主演阵容包括李宰旭、高旻示、金敏荷、李熙俊。",
+    "extracted_at": "2026-10-07T23:02:31.387228+08:00"
   },
   {
     "source_id": "soompi",
@@ -421,11 +1072,11 @@
     "facts_list": [
       "tvN新剧《100天的谎言》（100 Days of Deception）公开了主要角色的动态海报",
       "该剧由《非常律师禹英禑》及《浪漫医生》系列导演刘仁植执导",
-      "剧集背景设定在日本殖民朝鲜时期，是一部为期100天的谍战爱情剧",
+      "剧集为日据时期背景的间谍爱情剧，故事跨度100天",
       "主演包括金裕贞、朴珍荣等"
     ],
-    "summary_zh": "tvN新剧《100天的谎言》发布主要角色动态海报。该剧由《非常律师禹英禑》和《浪漫医生》系列导演刘仁植执导，是一部以日本殖民朝鲜时期为背景、跨越100天的谍战爱情剧，由金裕贞、朴珍荣等主演。海报展现角色在谎言背后隐藏真实面目。",
-    "extracted_at": "2026-10-07T12:02:38.596066+08:00"
+    "summary_zh": "tvN新剧《100天的谎言》公开主要角色动态海报。该剧由执导过《非常律师禹英禑》和《浪漫医生》系列的刘仁植担任导演，是一部以日本殖民统治时期为背景的间谍爱情剧，故事围绕100天内发生的事件展开，主演包括金裕贞、朴珍荣等。",
+    "extracted_at": "2026-10-07T23:02:33.258344+08:00"
   },
   {
     "source_id": "soompi",
@@ -440,42 +1091,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "MODYSSEY公开七位成员专属\"MODITTO\"卡通形象",
+    "title_zh": "MODYSSEY公开七位成员专属“MODITTO”卡通形象",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "10月7日韩国时间零点，MODYSSEY通过官方渠道发布视频，公开了代表每位成员的\"MODITTO\"卡通角色",
-      "七位成员对应的\"MODITTO\"角色名分别为：Baemmeoru、Pangpangyi、Bambamliz、Meoguya、Ssudidi、Chensuni、Anchuu",
-      "MODYSSEY将以EP《2.Multitude:...》进行出道后的首次回归"
+      "10月7日韩国时间零点，MODYSSEY通过官方渠道发布视频，公开了代表每位成员的“MODITTO”卡通形象。",
+      "七位成员的“MODITTO”角色名分别为：Baemmeoru、Pangpangyi、Bambamliz、Meoguya、Ssudidi、Chensuni、Anchuu。",
+      "MODYSSEY将发行EP《2.Multitude:...》，这是组合的首次回归。"
     ],
-    "summary_zh": "10月7日韩国时间零点，MODYSSEY公开了每位成员的专属卡通形象\"MODITTO\"，并发布介绍视频。七位成员对应的角色名分别为Baemmeoru、Pangpangyi、Bambamliz、Meoguya、Ssudidi、Chensuni和Anchuu。此外，MODYSSEY即将以EP《2.Multitude:...》展开出道以来的首次回归。",
-    "extracted_at": "2026-10-07T12:02:40.254136+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Netflix’s Kpop Demon Hunters and Walmart Bring a Huntr/x-Inspired Night Market to Life in New York City - City Guide New York",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tLWhYNDZPOE1RT3VxRmVYSlV5UzYyOWNpdVNIU1ROQzY0RVNHODFMSTMyZE42YUFBQ09ROEE1Qm9ZV1p6WlFSLTRXdUtMTjZ1S1hickkwUE1Tc0JBU0dMX3FKeXFmNUphWVlxdWwxaEx0QQ?oc=5",
-    "content": "Netflix’s Kpop Demon Hunters and Walmart Bring a Huntr/x-Inspired Night Market to Life in New York City City Guide New York",
-    "published_at": "1007google-kpop",
-    "published_ts": 1791313270.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Netflix《Kpop 恶魔猎人》携手沃尔玛在纽约打造 Huntr/x 主题夜市",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "Netflix 的《Kpop Demon Hunters》与沃尔玛合作",
-      "在纽约市打造以 Huntr/x 为灵感的夜市活动",
-      "活动地点为纽约市"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：Netflix 的《Kpop Demon Hunters》和沃尔玛在纽约市将 Huntr/x 主题夜市变为现实]",
-    "extracted_at": "2026-10-07T12:02:41.492259+08:00"
+    "summary_zh": "10月7日韩国时间零点，MODYSSEY公开了七位成员的专属卡通形象“MODITTO”，并发布介绍视频。角色名依次为Baemmeoru、Pangpangyi、Bambamliz、Meoguya、Ssudidi、Chensuni、Anchuu。此外，MODYSSEY即将发行EP《2.Multitude:...》，这将是组合的首次回归。",
+    "extracted_at": "2026-10-07T23:02:35.403273+08:00"
   },
   {
     "source_id": "soompi",
@@ -500,7 +1126,7 @@
       "同时公开了相关预告图片。"
     ],
     "summary_zh": "10月6日，&TEAM 通过官方渠道发布了一段视频，正式公开了名为“TEAMILY”的官方角色。这些角色分别代表组合中的每一位成员，视频中逐一展示了各成员对应的角色形象。此外，还一同释出了预告图片。",
-    "extracted_at": "2026-10-07T12:02:43.065079+08:00"
+    "extracted_at": "2026-10-07T23:02:37.192178+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -515,15 +1141,15 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《万智牌》推出KPop Demon Hunters联动卡牌 获取方式一览",
+    "title_zh": "《万智牌》推出KPop Demon Hunters主题卡牌 获取方式一览",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅提及《万智牌》与KPop Demon Hunters联动卡牌及获取方式，未提供具体卡牌名称、数量、获取途径等细节"
+      "原文仅提及《万智牌》与KPop Demon Hunters联动的卡牌及获取方式，未提供具体卡牌名称、数量、获取途径或时间等细节"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：Magic: The Gathering – Every KPop Demon Hunters Card And How To Get Them]",
-    "extracted_at": "2026-10-07T12:02:44.426404+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：Magic: The Gathering – Every KPop Demon Hunters Card And How To Get Them - VICE]",
+    "extracted_at": "2026-10-07T23:02:38.725635+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -543,33 +1169,10 @@
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅提及K-pop组合One Pact与纳什维尔News Channel 5，未提供具体节目内容、播出时间或任何其他细节"
+      "原文仅提及K-pop组合One Pact与纳什维尔News Channel 5，未提供具体节目内容、时间或成员信息"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：了解K-pop组合One Pact——纳什维尔News Channel 5]",
-    "extracted_at": "2026-10-07T12:02:45.651047+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "WAYF BOYS Bring the Fun With 'A4M' - Sweety High",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91eUNMV2RYQjNYUGJ4TWpfME9hSC1MdUFVYWRrRkI3SWlhUVZ3R04wRGZQazhuazN1T3FLU3RtS3NGTEIxZnhSTzNvY1lCaGNmczlrb1c5amUzQl9ONUNsRHhB?oc=5",
-    "content": "WAYF BOYS Bring the Fun With 'A4M' Sweety High",
-    "published_at": "1007google-kpop",
-    "published_ts": 1791309125.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "WAYF BOYS 发布新曲《A4M》，Sweety High 报道",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "原文仅提及 WAYF BOYS 与歌曲《A4M》及来源 Sweety High，无具体时间、地点、数据或具名来源"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：WAYF BOYS 通过《A4M》带来乐趣，来源为 Sweety High]",
-    "extracted_at": "2026-10-07T12:02:46.874579+08:00"
+    "extracted_at": "2026-10-07T23:02:39.964290+08:00"
   },
   {
     "source_id": "soompi",
@@ -584,17 +1187,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "TWS 官宣 11 月 2 日携第二张单曲专辑《TO US》回归并公开预告",
+    "title_zh": "TWS 宣布 11 月 2 日携第二张单曲专辑《TO US》回归并公开预告",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "10 月 7 日午夜（KST），PLEDIS Entertainment 官方公布 TWS 回归日期与详情",
       "TWS 将于 11 月 2 日下午 6 点（KST）发行第二张单曲专辑《TO US》",
-      "官方同步公开了名为“Being Together : TO US”的预告片及预览内容"
+      "官方同步公开名为“Being Together : TO US”的预告片及预览内容"
     ],
-    "summary_zh": "10 月 7 日午夜（KST），PLEDIS Entertainment 正式宣布 TWS 将于 11 月 2 日下午 6 点（KST）携第二张单曲专辑《TO US》回归。官方同时公开了“Being Together : TO US”预告片及预览内容。",
-    "extracted_at": "2026-10-07T12:02:48.272625+08:00"
+    "summary_zh": "10 月 7 日午夜（KST），PLEDIS Entertainment 正式宣布 TWS 将于 11 月 2 日下午 6 点（KST）携第二张单曲专辑《TO US》回归。官方同时公开了名为“Being Together : TO US”的预告片及相关预览内容。",
+    "extracted_at": "2026-10-07T23:02:41.721568+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -617,8 +1220,8 @@
       "Record Store Day 公布黑色星期五独家黑胶唱片企划，参与艺人包括 Noah Kahan、Katseye 等共 180 余组",
       "消息来源为 Variety"
     ],
-    "summary_zh": "据 Variety 报道，Record Store Day 公布黑色星期五独家黑胶唱片企划，参与艺人包括 Noah Kahan、Katseye 等共 180 余组。原文未提及具体发行日期、曲目或售价等细节。",
-    "extracted_at": "2026-10-07T12:02:49.861791+08:00"
+    "summary_zh": "据 Variety 报道，Record Store Day 公布黑色星期五独家黑胶唱片企划，参与艺人包括 Noah Kahan、Katseye 等共 180 余组。原文未提供更多具体发行细节。",
+    "extracted_at": "2026-10-07T23:02:43.306756+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -633,16 +1236,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《K-POP：猎魔女团》凭\"澡堂大战\"片段入选 VFX Voice 获奖者圈",
+    "title_zh": "《KPOP DEMON HUNTERS》凭“澡堂大战”片段入围获奖圈",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅提及《K-POP：猎魔女团》（KPop Demon Hunters）凭借\"澡堂大战\"（The Bathhouse Battle）片段进入 VFX Voice 的\"获奖者圈\"（Winner's Circle）",
-      "原文未提供具体获奖名称、颁奖机构、时间、地点或任何数据"
+      "原文仅提及《KPOP DEMON HUNTERS》凭借“澡堂大战”（The Bathhouse Battle）片段进入获奖圈（Winner's Circle）",
+      "原文来源为 VFX Voice",
+      "原文未提及具体奖项名称、获奖时间、获奖主体或任何数据"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：《K-POP：猎魔女团》凭借\"澡堂大战\"片段进入 VFX Voice 的获奖者圈。]",
-    "extracted_at": "2026-10-07T12:02:51.428837+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：《KPOP DEMON HUNTERS》凭借“澡堂大战”片段进入获奖圈]",
+    "extracted_at": "2026-10-07T23:02:44.865750+08:00"
   },
   {
     "source_id": "asianwiki",
