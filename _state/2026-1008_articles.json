@@ -1,5 +1,581 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Step onto the stage: K-POP Rising – Dream to Shine reveals its first gameplay trailer! - Microids",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTGY0MTF4SV94WHVRRUZMbnMtY2hoTG83ckI2MkZ2TzdsRTJSMElqU2I5ZzVMUk5VbU8weXRUWGdsNFlrWWJSdEJ1bE9ST09GM082bmJlR2FrM2xSUUxjQTdLam1mc05Odm1sYkM2TFVRTU53V2NXMDBKcDJfSmd2SW9wNFRMblhCVVJNamJtVG5ma0dISHMxWVlXV1dMV1YtOHEzeGFZUDRWODFS?oc=5",
+    "content": "Step onto the stage: K-POP Rising – Dream to Shine reveals its first gameplay trailer! Microids",
+    "published_at": "1008google-kpop",
+    "published_ts": 1791471716.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "K-POP Rising – Dream to Shine 首曝实机预告片",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "游戏《K-POP Rising – Dream to Shine》发布首支实机玩法预告片",
+      "发行商为 Microids"
+    ],
+    "summary_zh": "发行商 Microids 公开了游戏《K-POP Rising – Dream to Shine》的首支实机玩法预告片，玩家将登上舞台体验 K-POP 主题内容。",
+    "extracted_at": "2026-10-08T23:09:49.533398+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "NOWZ: A Career In Song Ratings - thebiaslist.com",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5LQkZnNzRpQ1FXZ003NGdGN1J4bm40WEdLMjBFTDBnU3BJZTBwVmJfSXJidG5Dd0ZsSm1VNUxMMEdGQmNaeGhjaHYzWEtmS2RVYVFJaVNsa1luWlRmb3JwZjE3MHdjVEc4VndJb1M2Tm9XYzQ?oc=5",
+    "content": "NOWZ: A Career In Song Ratings thebiaslist.com",
+    "published_at": "1008google-kpop",
+    "published_ts": 1791467596.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "NOWZ 歌曲评分生涯回顾（thebiaslist.com）",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及 NOWZ 的歌曲评分生涯回顾，来源为 thebiaslist.com",
+      "原文未提供任何具体歌曲名称、评分数字、时间或事件细节"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：NOWZ 的歌曲评分生涯回顾，来源为 thebiaslist.com]",
+    "extracted_at": "2026-10-08T23:09:50.714474+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Song Review: N.Flying – Still - https://thebiaslist.com/",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VVGstYlZUQkdaNUJpMFBiZnBfUF9PQXpUUmZRUXdTSnBIQl9FWWVkN0ctRE5FSk96VWpoM1N4eGwzZWlfc0FKYmNNVnZmaWlibW51QjdRcmQ3NWZTeG41WUpCbUhCeHk2WG5JYW9mYw?oc=5",
+    "content": "Song Review: N.Flying – Still https://thebiaslist.com/",
+    "published_at": "1008google-kpop",
+    "published_ts": 1791467481.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "N.Flying 新曲《Still》乐评：乐队回归曲目获评",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅为乐评网站 thebiaslist.com 对 N.Flying 歌曲《Still》的评论标题，未提供具体评论内容、发行日期、榜单数据或官方信息"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：N.Flying 发布歌曲《Still》并获乐评网站 thebiaslist.com 评论]",
+    "extracted_at": "2026-10-08T23:09:52.196053+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "THE FULL ENGENE EXPERIENCE K-pop group ENHYPEN gave Filipino ENGENES a night they will never forget during the \"Endless Dunkin' | ENHYPEN Fun Meet.\" Full story link in the comments section. - Facebook",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYWhXeS0wMkdaYjhuTEdaTHNaN2ZlSk9tUi10VE1aT1gwV3cyVExYQ1JjOEJPbVhhdEtMRm56V3VYQVI5bkRVeXFwNmRCWlJ3d3ozVlAxdzRiTk51T2dEOHBYWmhvWTlYZ3ptRDFuUDdadFBXaU5oaTFYNnhpVzBlaGlheUN5Z1FGbm1pX195QVRqWWduRC03bUdfdGhUT3FLd3QtRzRqQlhvdGprTF9YUU1jbG5XUERIejN0eW8tWF9IV2FBVGlzeTE4WFE5cDIyR2JtSWhGUQ?oc=5",
+    "content": "THE FULL ENGENE EXPERIENCE K-pop group ENHYPEN gave Filipino ENGENES a night they will never forget during the \"Endless Dunkin' | ENHYPEN Fun Meet.\" Full story link in the comments section. Facebook",
+    "published_at": "1008google-kpop",
+    "published_ts": 1791465516.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "ENHYPEN 菲律宾举办 Endless Dunkin' 粉丝见面会，与 ENGENE 共度一夜",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "主体：K-pop 组合 ENHYPEN",
+      "活动：举办名为 'Endless Dunkin' | ENHYPEN Fun Meet' 的粉丝见面会",
+      "对象：菲律宾粉丝 ENGENE",
+      "原文称 ENHYPEN 为菲律宾 ENGENE 带来了一个难忘的夜晚",
+      "原文未提及具体日期、地点、表演曲目或参与人数"
+    ],
+    "summary_zh": "K-pop 组合 ENHYPEN 在菲律宾举办了名为 'Endless Dunkin' | ENHYPEN Fun Meet' 的粉丝见面会，与当地粉丝 ENGENE 共度一夜。原文称这场活动为菲律宾 ENGENE 带来了难忘的夜晚，但未披露具体日期、场地、活动环节或参与人数等细节。",
+    "extracted_at": "2026-10-08T23:09:54.066319+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Dead-End Job: Squid Game meets supernatural horror in new Netflix K-drama - South China Morning Post",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWTdQTWVHYU4yUVdxOFEyZHZuWkxmcU4wWl9nWHJQU3N1NUJ5cFA4QkhLTzdYVkw5N0drRnNJczd1ZldVOGVjUlljSjFkN3ladTl2N284dlJ0TjdrNFpJM2Mzd1FmNV90UVZJdnBtQ1VVVWY4UlBsb0E1RV9lM3djWllIUUtUU1ZJRTdZcUtSQmZzZ2ktTGNYMEpuQ1dWMVh1Vm5IQ1hNYmw1VWo3MGN4TngxSGJnT1ZUVzd2bEJ6SHAxT1g1V0Q0czJoZ2lEMFVKc21hN0xQQXdSMVRlNGV3V9IB4AFBVV95cUxQVGh6YUlXOXoxbnVqbjU1NlJ6bVJ3WUhMdF8xOUF3NDlnazJZZlRraDI3RDFqY0pjY3pLclF2Q2FwVEUxWUxNdVJKOURJa1RadEs3bnZqNllNb3BWNHFTaEF1Q1h6cFJqbFhRTkI4U3hDUGh6TE43ZHg1ZVBlSEJCNHNxanRxZ3gxdWxQRW9IU2Q5bExoemJNY3d0anFNemtNblJvclc2N0wwOWdzUlRNVWxya0QwTWVMMF9ad0U0TmNCU2dvamVJakxBczBoeHR1OGN1SDEyTVJaN1JBV1F0NQ?oc=5",
+    "content": "Dead-End Job: Squid Game meets supernatural horror in new Netflix K-drama South China Morning Post",
+    "published_at": "1008google-kpop",
+    "published_ts": 1791465305.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Netflix新韩剧《Dead-End Job》将《鱿鱼游戏》与超自然恐怖元素结合",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "Netflix将推出新韩剧《Dead-End Job》",
+      "该剧被描述为结合《鱿鱼游戏》与超自然恐怖元素",
+      "来源：南华早报"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：Netflix新韩剧《Dead-End Job》将《鱿鱼游戏》与超自然恐怖元素结合]",
+    "extracted_at": "2026-10-08T23:09:55.076835+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "위버스 빌리 Media - [BecOrd] EP.120 | 'SPOTV K-POP AWARDS' Behind - Weverse",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1ZFg0Q010RXh3Mk9hTktWRHkwOV9xYVFIVnRFTnY1VlF3NlJmeU5Ja2dMU2FpeDJZclA2RHBBaVg3RVFqYzdkTEFjZWhKQlVlQ1VzendScjlxUmhuUGJV?oc=5",
+    "content": "위버스 빌리 Media - [BecOrd] EP.120 | 'SPOTV K-POP AWARDS' Behind Weverse",
+    "published_at": "1008google-kpop",
+    "published_ts": 1791463376.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Weverse Billlie Media 发布《BecOrd》第120集 SPOTV K-POP AWARDS 幕后花絮",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Weverse Billlie Media 发布《BecOrd》第120集",
+      "该集内容为 'SPOTV K-POP AWARDS' 幕后花絮",
+      "发布平台为 Weverse"
+    ],
+    "summary_zh": "Weverse Billlie Media 公开了《BecOrd》第120集，本期节目为 'SPOTV K-POP AWARDS' 的幕后花絮内容，通过 Weverse 平台发布。",
+    "extracted_at": "2026-10-08T23:09:56.257999+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Multimedia de Billlie de Weverse - [BecO - Weverse",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wTFFlVmlTSVNWcFRrdnFod1c4bkZ2QjE0Qk0wYlZlOFlZTWV2dTlOSVpnbXhKLXRjN0Q2cWJTSHR1dXh2OEFfLWx1Q1A1Q3dmdG00YUdJUllFMk5rclNj?oc=5",
+    "content": "Multimedia de Billlie de Weverse - [BecO Weverse",
+    "published_at": "1008google-kpop",
+    "published_ts": 1791463373.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Billlie 入驻 Weverse 平台，开设官方社区",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及 Billlie 在 Weverse 平台的多媒体内容，未提供具体时间、活动或数据"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：Billlie 的 Weverse 多媒体内容]",
+    "extracted_at": "2026-10-08T23:09:57.452419+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: BOYNEXTDOOR Takes 1st Win For “ANIMAL” On “M Countdown”; Performances By KickFlip, Hwang Minhyun, And More",
+    "url": "https://www.soompi.com/article/1876441wpp/watch-boynextdoor-takes-1st-win-for-animal-on-m-countdown-performances-by-kickflip-hwang-minhyun-and-more",
+    "content": "BOYNEXTDOOR has won their first music show trophy for “ANIMAL”! On the October 8 episode of &#8220;M Countdown,&#8221; the candidates for first place were BOYNEXTDOOR&#8217;s &#8220;ANIMAL&#8221; and i-dle’s Soyeon’s “I’m gonna TOESA.” BOYNEXTDOOR ultimately took the prize with a total of 6,453 points. Congratulations to BOYNEXTDOOR! Watch the winner announcement and encore below: Today&#8217;s performers&#8230; Continue reading Watch: BOYNEXTDOOR Takes 1st Win For &#8220;ANIMAL&#8221; On &#8220;M Countdown&#8221;; Performances By KickFlip, Hwang Minhyun, And More\nThe post Watch: BOYNEXTDOOR Takes 1st Win For &#8220;ANIMAL&#8221; On &#8220;M Countdown&#8221;; Performances By KickFlip, Hwang Minhyun, And More appeared first on Soompi.",
+    "published_at": "1008soompi",
+    "published_ts": 1791462958.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "BOYNEXTDOOR凭《ANIMAL》获《M Countdown》首个一位，KickFlip、黄旼炫等登台表演",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "10月8日播出的《M Countdown》中，一位候补为BOYNEXTDOOR的《ANIMAL》与i-dle成员昭妍的《I'm gonna TOESA》",
+      "BOYNEXTDOOR最终以总分6,453分获得《ANIMAL》的首个音乐节目一位",
+      "当日节目表演嘉宾包括KickFlip、黄旼炫等"
+    ],
+    "summary_zh": "10月8日播出的《M Countdown》中，BOYNEXTDOOR凭借《ANIMAL》与i-dle成员昭妍的《I'm gonna TOESA》共同成为一位候补，最终BOYNEXTDOOR以6,453分拿下该曲首个音乐节目一位。当天节目还有KickFlip、黄旼炫等多组艺人登台表演。",
+    "extracted_at": "2026-10-08T23:09:59.220488+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: “The Devil’s Plan Season 3” Reveals 16 Contestants For Its Strongest Lineup Yet",
+    "url": "https://www.soompi.com/article/1876436wpp/watch-the-devils-plan-season-3-reveals-16-contestants-for-its-strongest-lineup-yet",
+    "content": "“The Devil’s Plan Season 3” has announced its strongest lineup yet! On October 8, Netflix announced the lineup for “The Devil’s Plan Season 3,” featuring 16 contestants, including some of the biggest names in brain survival shows. Helmed by PD Jung Jong Yeon of “The Genius,” “The Great Escape,” and “Girls’ High School Mystery Class,”&#8230; Continue reading Watch: “The Devil’s Plan Season 3” Reveals 16 Contestants For Its Strongest Lineup Yet\nThe post Watch: “The Devil’s Plan Season 3” Reveals 16 Contestants For Its Strongest Lineup Yet appeared first on Soompi.",
+    "published_at": "1008soompi",
+    "published_ts": 1791460760.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《魔鬼的计谋》第三季公布16人出演阵容，号称历代最强",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "10月8日，Netflix公布了《魔鬼的计谋》第三季的出演阵容，共16名参赛者",
+      "节目由曾执导《The Genius》《大逃脱》《女高推理班》的郑钟延PD担任导演",
+      "Netflix称本季阵容为历代最强，包含多位脑力生存类节目的知名选手"
+    ],
+    "summary_zh": "10月8日，Netflix正式公布《魔鬼的计谋》第三季出演阵容，共16名参赛者，被官方称为历代最强阵容。节目由曾执导《The Genius》《大逃脱》《女高推理班》的郑钟延PD担任导演。本季集结了多位脑力生存类节目的知名选手，具体名单及播出日期原文未完整披露。",
+    "extracted_at": "2026-10-08T23:10:00.830503+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Ryu Seung Ryong, Park Hae Joon, And Ong Seong Wu’s Film “Cattle Run” Sets Release Date After 5 Years",
+    "url": "https://www.soompi.com/article/1876430wpp/ryu-seung-ryong-park-hae-joon-and-ong-seong-wus-film-cattle-run-sets-release-date-after-5-years",
+    "content": "The film “Cattle Run” has finally confirmed its theatrical release date five years after wrapping production in 2021! A remake of Grímur Hákonarson’s film “Rams,” “Cattle Run” follows two estranged brothers who have not spoken a word to each other in 30 years. When a crisis strikes their village, the brothers put aside their differences&#8230; Continue reading Ryu Seung Ryong, Park Hae Joon, And Ong Seong Wu’s Film “Cattle Run” Sets Release Date After 5 Years\nThe post Ryu Seung Ryong, Park Hae Joon, And Ong Seong Wu’s Film “Cattle Run” Sets Release Date After 5 Years appeared first on Soompi.",
+    "published_at": "1008soompi",
+    "published_ts": 1791455442.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "柳承龙、朴海俊、邕圣祐主演电影《Cattle Run》杀青五年后定档",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "电影《Cattle Run》于2021年杀青，时隔五年后确认院线上映日期",
+      "该片翻拍自Grímur Hákonarson执导的电影《Rams》（公羊）",
+      "剧情讲述两兄弟已30年互不交谈，村庄遭遇危机后两人放下分歧",
+      "主演包括柳承龙、朴海俊、邕圣祐"
+    ],
+    "summary_zh": "柳承龙、朴海俊、邕圣祐主演的电影《Cattle Run》在2021年杀青后，时隔五年终于确认院线上映日期。该片翻拍自Grímur Hákonarson的作品《Rams》，讲述一对30年未曾交谈的疏远兄弟，在村庄遭遇危机时放下分歧的故事。",
+    "extracted_at": "2026-10-08T23:10:02.620660+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Seo Kang Jun’s Once-Warm Gaze Turns Cold Toward Ahn Eun Jin In “A Love Other Than Yours”",
+    "url": "https://www.soompi.com/article/1876425wpp/seo-kang-juns-once-warm-gaze-turns-cold-toward-ahn-eun-jin-in-a-love-other-than-yours",
+    "content": "“A Love Other Than Yours” has unveiled a glimpse of the changed atmosphere between longtime couple Seo Kang Jun and Ahn Eun Jin! KBS 2TV’s “A Love Other Than Yours” is a realistic romance drama that follows a couple in their 10th year of dating as they experience unexpected emotional changes in a relationship that&#8230; Continue reading Seo Kang Jun’s Once-Warm Gaze Turns Cold Toward Ahn Eun Jin In “A Love Other Than Yours”\nThe post Seo Kang Jun’s Once-Warm Gaze Turns Cold Toward Ahn Eun Jin In “A Love Other Than Yours” appeared first on Soompi.",
+    "published_at": "1008soompi",
+    "published_ts": 1791453595.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "徐康俊《除了你以外的爱》剧照公开 十年情侣眼神由暖转冷",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "KBS 2TV 剧集《除了你以外的爱》（A Love Other Than Yours）公开了徐康俊与安恩真之间的氛围变化剧照",
+      "该剧为现实主义爱情剧，讲述一对交往第10年的情侣经历意想不到的情感变化",
+      "公开的剧照中，徐康俊望向安恩真的眼神从曾经的温暖转为冷淡"
+    ],
+    "summary_zh": "KBS 2TV 爱情剧《除了你以外的爱》公开了一组新剧照，展示了徐康俊与安恩真这对交往十年的情侣之间氛围的转变。该剧以现实主义手法描绘长期恋爱关系中的情感波动，新剧照中徐康俊望向安恩真的目光由昔日的温暖变为冷淡，暗示两人关系出现裂痕。",
+    "extracted_at": "2026-10-08T23:10:04.229435+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "LABOUM’s Yujeong Announces Marriage With Heartfelt Letter",
+    "url": "https://www.soompi.com/article/1876322wpp/laboums-yujeong-announces-marriage-with-heartfelt-letter",
+    "content": "LABOUM&#8217;s Yujeong is tying the knot this coming winter! On October 8, Yujeong announced the happy news by posting a photo of a handwritten letter on her social media. In the letter, she wrote: Hello, this is Yujeong 🙂 Back in September 2021, I left you a handwritten letter after wrapping up my seven-year contract&#8230; Continue reading LABOUM&#8217;s Yujeong Announces Marriage With Heartfelt Letter\nThe post LABOUM&#8217;s Yujeong Announces Marriage With Heartfelt Letter appeared first on Soompi.",
+    "published_at": "1008soompi",
+    "published_ts": 1791451213.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "LABOUM俞正宣布结婚 手写信分享喜讯",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "时间：10月8日，LABOUM成员俞正通过个人社交媒体发布手写信照片宣布结婚喜讯",
+      "背景：俞正于2021年9月结束七年合约后曾发布手写信，此次再次以手写信形式公布婚讯",
+      "婚期：俞正将于今年冬天结婚"
+    ],
+    "summary_zh": "LABOUM成员俞正于10月8日在个人社交媒体上发布手写信照片，宣布将于今年冬天结婚。信中她以“大家好，我是俞正”开头，并提及2021年9月结束七年合约后也曾以手写信与粉丝沟通。此次她再次通过手写信分享结婚喜讯。",
+    "extracted_at": "2026-10-08T23:10:05.589233+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kim Yun Seok’s Final Shift Handover To Koo Kyo Hwan Takes A Dark Turn In New Film “White Blast”",
+    "url": "https://www.soompi.com/article/1876237wpp/kim-yun-seoks-final-shift-handover-to-koo-kyo-hwan-takes-a-dark-turn-in-new-film-white-blast",
+    "content": "The upcoming film “White Blast” has unveiled new stills featuring Kim Yun Seok and Koo Kyo Hwan! “White Blast” is a mystery thriller film that follows the story of Gap Soo (Kim Yun Seok), a station master nearing retirement, and his newly appointed successor Hyun Taek (Koo Kyo Hwan), after they discover a mysterious body&#8230; Continue reading Kim Yun Seok’s Final Shift Handover To Koo Kyo Hwan Takes A Dark Turn In New Film “White Blast”\nThe post Kim Yun Seok’s Final Shift Handover To Koo Kyo Hwan Takes A Dark Turn In New Film “White Blast” appeared first on Soompi.",
+    "published_at": "1008soompi",
+    "published_ts": 1791449899.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "金允石新片《White Blast》剧照公开 与具教焕交接班暗藏凶险",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "电影《White Blast》公开了金允石与具教焕的新剧照",
+      "《White Blast》是一部悬疑惊悚片，讲述即将退休的站长甲洙（金允石 饰）与新任接班人贤泽（具教焕 饰）发现一具神秘尸体后发生的故事",
+      "该资讯来源为 Soompi"
+    ],
+    "summary_zh": "即将上映的电影《White Blast》公开了金允石与具教焕的新剧照。该片为悬疑惊悚题材，讲述即将退休的站长甲洙（金允石 饰）与其新上任的接班人贤泽（具教焕 饰）在发现一具神秘尸体后，交接班过程走向黑暗的故事。",
+    "extracted_at": "2026-10-08T23:10:07.417235+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kang You Seok Is A Friendly Applicant Who Hides His Anxiety Behind A Smile In “Final Interview”",
+    "url": "https://www.soompi.com/article/1876398wpp/kang-you-seok-is-a-friendly-applicant-who-hides-his-anxiety-behind-a-smile-in-final-interview",
+    "content": "The upcoming film “Final Interview” has unveiled new stills featuring Kang You Seok! “Final Interview” follows six applicants who make it to the final round of interviews at a global IT company amid an intensely competitive job market. After discovering mysterious envelopes containing exposés about each of them at the final interview venue, the six&#8230; Continue reading Kang You Seok Is A Friendly Applicant Who Hides His Anxiety Behind A Smile In “Final Interview”\nThe post Kang You Seok Is A Friendly Applicant Who Hides His Anxiety Behind A Smile In “Final Interview” appeared first on Soompi.",
+    "published_at": "1008soompi",
+    "published_ts": 1791449889.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "姜有锡出演电影《Final Interview》 新剧照展现微笑背后隐藏的不安",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "电影《Final Interview》公开了姜有锡（Kang You Seok）的新剧照",
+      "影片讲述六名求职者在激烈就业市场中进入一家全球IT公司最终面试环节的故事",
+      "六人在最终面试场所发现装有各自黑料的神秘信封"
+    ],
+    "summary_zh": "即将上映的电影《Final Interview》公开了姜有锡的新剧照。该片讲述六名求职者在竞争激烈的就业市场中闯入一家全球IT公司的最终面试，却在面试现场发现装有各自被曝光信息的神秘信封。新剧照中，姜有锡饰演一名友善的求职者，面带微笑却隐藏着内心的不安。",
+    "extracted_at": "2026-10-08T23:10:09.195288+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Lee Jun Hyuk, Seo Hyun Woo, And Oh Dae Hwan Share Key Points To Watch In The Final Episodes Of “The Ordinary Jackpot”",
+    "url": "https://www.soompi.com/article/1876261wpp/lee-jun-hyuk-seo-hyun-woo-and-oh-dae-hwan-share-key-points-to-watch-in-the-final-episodes-of-the-ordinary-jackpot",
+    "content": "Lee Jun Hyuk, Seo Hyun Woo, and Oh Dae Hwan have shared key viewing points ahead of the finale of “The Ordinary Jackpot”! Based on a webtoon, “The Ordinary Jackpot” follows Gong Eun Tae (Lee Jun Hyuk), an ordinary sales employee who wins the lottery jackpot. Though the prize—1.3 billion won (approximately $950,000)—isn’t quite enough&#8230; Continue reading Lee Jun Hyuk, Seo Hyun Woo, And Oh Dae Hwan Share Key Points To Watch In The Final Episodes Of “The Ordinary Jackpot”\nThe post Lee Jun Hyuk, Seo Hyun Woo, And Oh Dae Hwan Share Key Points To Watch In The Final Episodes Of “The Ordinary Jackpot” appeared first on Soompi.",
+    "published_at": "1008soompi",
+    "published_ts": 1791447484.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "李准赫、徐贤宇、吴大焕分享《平凡的彩票》大结局看点",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "李准赫、徐贤宇、吴大焕在《平凡的彩票》大结局前分享了关键观看点",
+      "《平凡的彩票》改编自网络漫画，讲述普通销售员孔恩泰（李准赫饰）中彩票头奖的故事",
+      "奖金为13亿韩元（约95万美元），但奖金并不够……"
+    ],
+    "summary_zh": "李准赫、徐贤宇和吴大焕在《平凡的彩票》大结局播出前分享了关键观看点。该剧改编自网络漫画，讲述普通销售员孔恩泰（李准赫饰）中得13亿韩元（约95万美元）彩票头奖的故事，但奖金并不足够。",
+    "extracted_at": "2026-10-08T23:10:11.002882+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Seo Hyun Jin’s World Comes Crashing Down Amid A Downpour In “The Perfect Lie”",
+    "url": "https://www.soompi.com/article/1876380wpp/seo-hyun-jins-world-comes-crashing-down-amid-a-downpour-in-the-perfect-lie",
+    "content": "MBC’s upcoming drama “The Perfect Lie” has unveiled new stills featuring Seo Hyun Jin in character! Helmed by “You and Everything Else” director Jo Young Min, “The Perfect Lie” is a psychological thriller in which a man and a woman give completely opposite accounts of the same memory, clashing fiercely in their search for the&#8230; Continue reading Seo Hyun Jin’s World Comes Crashing Down Amid A Downpour In “The Perfect Lie”\nThe post Seo Hyun Jin’s World Comes Crashing Down Amid A Downpour In “The Perfect Lie” appeared first on Soompi.",
+    "published_at": "1008soompi",
+    "published_ts": 1791446481.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "徐玄振新剧《The Perfect Lie》剧照公开 雨中崩溃场景曝光",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "MBC 新剧《The Perfect Lie》公开徐玄振角色剧照",
+      "该剧由《You and Everything Else》导演赵英民执导",
+      "《The Perfect Lie》为心理惊悚题材，讲述一对男女对同一段记忆给出完全相反的陈述，在追寻真相过程中激烈冲突",
+      "公开剧照中徐玄振在倾盆大雨中世界崩塌的场景"
+    ],
+    "summary_zh": "MBC 新剧《The Perfect Lie》公开徐玄振角色剧照。该剧由《You and Everything Else》导演赵英民执导，为心理惊悚题材，讲述一对男女对同一段记忆给出完全相反的陈述，在追寻真相过程中激烈冲突。此次公开的剧照展现了徐玄振在倾盆大雨中世界崩塌的场景。",
+    "extracted_at": "2026-10-08T23:10:12.380514+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "MBN K-MUSIC AWARDS Launches Mobile Voting for Global K-POP Fans - 조선일보",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWmFDOHBENjZ4NlZQUFFVVmtvTnNyaUdYV0I1OGkwc1kydVMwenVUQ18zM09TMTlPV3pyQWtta05meVhGaXcwbFp0eHpjWUNsaXdzcnMzVDZ3eExBR3Y4VElmVGU0Vlduc0tWWHdxVWlscldtd1o3ejkyR3Btd3pQamNIaGZqRzVRX1g5SEVR?oc=5",
+    "content": "MBN K-MUSIC AWARDS Launches Mobile Voting for Global K-POP Fans 조선일보",
+    "published_at": "1008google-kpop",
+    "published_ts": 1791446083.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "MBN K-MUSIC AWARDS 面向全球K-POP粉丝开启手机投票",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "MBN K-MUSIC AWARDS 开启手机投票",
+      "投票面向全球K-POP粉丝"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：MBN K-MUSIC AWARDS 面向全球K-POP粉丝开启手机投票]",
+    "extracted_at": "2026-10-08T23:10:13.344933+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "3 Situations That Felt Like A Battlefield In Episodes 7-8 Of “The Ordinary Jackpot”",
+    "url": "https://www.soompi.com/article/1875969wpp/3-situations-that-felt-like-a-battlefield-in-episodes-7-8-of-the-ordinary-jackpot",
+    "content": "Some people might believe that money is the solution to every problem; however, it hasn’t been like that for Gong Eun Tae (Lee Jun Hyuk). After winning nearly one million dollars in the lottery, one might assume his life will be completely changed; only it wasn’t like that. As it turns out, securing a hefty&#8230; Continue reading 3 Situations That Felt Like A Battlefield In Episodes 7-8 Of “The Ordinary Jackpot” \nThe post 3 Situations That Felt Like A Battlefield In Episodes 7-8 Of “The Ordinary Jackpot”  appeared first on Soompi.",
+    "published_at": "1008soompi",
+    "published_ts": 1791444200.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《The Ordinary Jackpot》第7-8集：李准赫中彩票近百万美元后，三个如战场般的局面",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "剧集《The Ordinary Jackpot》第7-8集中，主角孔恩泰（李准赫饰）赢得近一百万美元彩票奖金",
+      "中奖后孔恩泰的生活并未如预期般彻底改变",
+      "原文列举了三个如战场般的局面，但具体内容未在摘要中展开"
+    ],
+    "summary_zh": "《The Ordinary Jackpot》第7-8集剧情中，孔恩泰（李准赫饰）赢得近一百万美元彩票奖金，但生活并未因此彻底改变。原文指出，获得巨额奖金后，他面临三个如战场般的局面。文章来自Soompi，具体三个局面的细节需阅读全文。",
+    "extracted_at": "2026-10-08T23:10:15.100880+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Song Kang, Lee Jun Young, And Jang Gyuri Share Close Chemistry On Set Of “Four Hands, Two Sonatas”",
+    "url": "https://www.soompi.com/article/1876371wpp/watch-song-kang-lee-jun-young-and-jang-gyuri-share-close-chemistry-on-set-of-four-hands-two-sonatas",
+    "content": "&#8220;Four Hands, Two Sonatas&#8221; has shared a new making-of video! On October 7, STUDIO DRAGON, the production company behind &#8220;Four Hands, Two Sonatas,&#8221; released an additional making-of video featuring behind-the-scenes moments from the drama. The new video shows playful moments between the cast members as well as the practice that occurs behind the scenes to&#8230; Continue reading Watch: Song Kang, Lee Jun Young, And Jang Gyuri Share Close Chemistry On Set Of &#8220;Four Hands, Two Sonatas&#8221;\nThe post Watch: Song Kang, Lee Jun Young, And Jang Gyuri Share Close Chemistry On Set Of &#8220;Four Hands, Two Sonatas&#8221; appeared first on Soompi.",
+    "published_at": "1008soompi",
+    "published_ts": 1791443330.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《四手联弹，两首奏鸣曲》公开幕后花絮，宋江、李准英、张圭悧片场互动亲密",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "2025年10月7日，制作公司STUDIO DRAGON发布了《四手联弹，两首奏鸣曲》的幕后花絮视频",
+      "视频展示了宋江、李准英、张圭悧等演员在片场的轻松互动以及幕后练习场景"
+    ],
+    "summary_zh": "10月7日，STUDIO DRAGON公开了韩剧《四手联弹，两首奏鸣曲》的全新幕后花絮视频。视频中记录了宋江、李准英、张圭悧等主演在片场的亲密互动与轻松时刻，同时展现了演员们为拍摄进行的幕后练习过程。",
+    "extracted_at": "2026-10-08T23:10:16.870719+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Genius Surgeon Kim Ji Won And Intern Kim Woo Seok’s Unexpected First Meeting Unfolds At A Billiards Hall In “Doctor X”",
+    "url": "https://www.soompi.com/article/1876335wpp/genius-surgeon-kim-ji-won-and-intern-kim-woo-seoks-unexpected-first-meeting-unfolds-at-a-billiards-hall-in-doctor-x",
+    "content": "“Doctor X” has unveiled stills capturing the tense first encounter between Kim Ji Won and Kim Woo Seok! Based on the hit Japanese series of the same name, “Doctor X” is a medical noir drama starring Kim Ji Won as Gye Soo Jung, a genius surgeon who proves what it truly means to be a&#8230; Continue reading Genius Surgeon Kim Ji Won And Intern Kim Woo Seok&#8217;s Unexpected First Meeting Unfolds At A Billiards Hall In “Doctor X”\nThe post Genius Surgeon Kim Ji Won And Intern Kim Woo Seok&#8217;s Unexpected First Meeting Unfolds At A Billiards Hall In “Doctor X” appeared first on Soompi.",
+    "published_at": "1008soompi",
+    "published_ts": 1791442038.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《Doctor X》金智媛与金宇硕台球厅初遇剧照公开",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "《Doctor X》公开了金智媛与金宇硕首次相遇的剧照",
+      "两人首次相遇的场景设定在台球厅，气氛紧张",
+      "《Doctor X》改编自同名热门日剧，是一部医疗黑色题材剧",
+      "金智媛在剧中饰演天才外科医生桂秀贞（音译）",
+      "金宇硕在剧中饰演实习生"
+    ],
+    "summary_zh": "韩剧《Doctor X》公开了主演金智媛与金宇硕在台球厅首次相遇的剧照，画面捕捉到两人之间紧张的对峙氛围。该剧改编自同名热门日剧，是一部医疗黑色题材作品，金智媛饰演天才外科医生桂秀贞，金宇硕饰演实习生。",
+    "extracted_at": "2026-10-08T23:10:18.504950+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: TWICE Introduces Official Characters TDOONGZ",
+    "url": "https://www.soompi.com/article/1876355wpp/watch-twice-introduces-official-characters-tdoongz",
+    "content": "TWICE has unveiled their official character designs! On October 8, TWICE unveiled their official characters TDOONGZ. The announcement shares a link where fans can visit the &#8220;Dream Attic&#8221; to get to know TDOONGZ in depth. The attic introduces the designs and personalities for each character and shares their names IMNABONG, YUBBUIBBUI, MOKURING, SHYAM SHYAM, PARKZYONI,&#8230; Continue reading Watch: TWICE Introduces Official Characters TDOONGZ\nThe post Watch: TWICE Introduces Official Characters TDOONGZ appeared first on Soompi.",
+    "published_at": "1008soompi",
+    "published_ts": 1791441393.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "TWICE 公开官方角色 TDOONGZ，粉丝可访问“Dream Attic”了解详情",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "10月8日，TWICE 公开了官方角色 TDOONGZ。",
+      "公告中附有链接，粉丝可访问“Dream Attic”深入了解 TDOONGZ。",
+      "“Dream Attic”介绍了每个角色的设计和个性，并公开了角色名称：IMNABONG、YUBBUIBBUI、MOKURING、SHYAM SHYAM、PARKZYONI 等。"
+    ],
+    "summary_zh": "10月8日，TWICE 公开了官方角色 TDOONGZ。公告中附有链接，粉丝可访问“Dream Attic”深入了解这些角色。“Dream Attic”介绍了每个角色的设计和个性，并公开了角色名称，包括 IMNABONG、YUBBUIBBUI、MOKURING、SHYAM SHYAM、PARKZYONI 等。",
+    "extracted_at": "2026-10-08T23:10:19.815253+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Nam Ji Hyun And Kim Jae Yeong Rate Their Chemistry In New Drama “Make Me Tingle”",
+    "url": "https://www.soompi.com/article/1876258wpp/nam-ji-hyun-and-kim-jae-yeong-rate-their-chemistry-in-new-drama-make-me-tingle",
+    "content": "Upcoming drama “Make Me Tingle” cast members Nam Ji Hyun and Kim Jae Yeong have dished on their chemistry! “Make Me Tingle” is a chaotic romantic comedy starring Nam Ji Hyun as Gong Yeon Su, a woman who believes in love but has never truly figured out what it means for her, and Kim Jae&#8230; Continue reading Nam Ji Hyun And Kim Jae Yeong Rate Their Chemistry In New Drama &#8220;Make Me Tingle&#8221;\nThe post Nam Ji Hyun And Kim Jae Yeong Rate Their Chemistry In New Drama &#8220;Make Me Tingle&#8221; appeared first on Soompi.",
+    "published_at": "1008soompi",
+    "published_ts": 1791439577.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "南志铉与金宰英谈新剧《Make Me Tingle》合作默契",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "南志铉与金宰英出演新剧《Make Me Tingle》",
+      "南志铉饰演角色名为 Gong Yeon Su",
+      "该剧被描述为一部混乱的浪漫喜剧",
+      "角色 Gong Yeon Su 相信爱情但从未真正理解爱情对自己的意义",
+      "原文未提及具体播出时间、平台或收视数据"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：南志铉与金宰英谈论新剧《Make Me Tingle》中的化学反应]",
+    "extracted_at": "2026-10-08T23:10:20.931765+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Kang Hoon And Cho Hyun Chul’s New Drama “Happy Anding” Announces Premiere Date",
+    "url": "https://www.soompi.com/article/1876190wpp/watch-kang-hoon-and-cho-hyun-chuls-new-drama-happy-anding-announces-premiere-date",
+    "content": "tvN’s upcoming Friday-Saturday drama “Happy Anding” has shared a glimpse of its first script reading session! “Happy Anding” is a coming-of-age drama about three comedians who have spent 10 years struggling as unknowns and, after encountering a mysterious woman, set out to find new futures for themselves. The script reading brought together director Jung Ji&#8230; Continue reading Watch: Kang Hoon And Cho Hyun Chul&#8217;s New Drama “Happy Anding” Announces Premiere Date\nThe post Watch: Kang Hoon And Cho Hyun Chul&#8217;s New Drama “Happy Anding” Announces Premiere Date appeared first on Soompi.",
+    "published_at": "1008soompi",
+    "published_ts": 1791437773.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "姜勋·赵贤哲新剧《Happy Anding》公开剧本围读并定档",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "tvN 新金土剧《Happy Anding》公开首次剧本围读现场",
+      "剧情设定：三名喜剧演员当了10年无名之辈，遇到一位神秘女子后寻找新未来",
+      "剧本围读由导演郑志（音译）等人参与",
+      "剧集为 tvN 金土档（周五、周六播出）"
+    ],
+    "summary_zh": "tvN 新金土剧《Happy Anding》公开首次剧本围读现场并宣布定档。该剧为青春成长题材，讲述三名当了10年无名喜剧演员的人，在遇到一位神秘女子后，开始为自己寻找新的未来。此次围读由导演郑志（音译）等主创参与。",
+    "extracted_at": "2026-10-08T23:10:22.712938+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -12,43 +588,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "俞承豪与林世珠被曝已分手 结束六年恋情",
+    "title_zh": "俞承豪与林世珠被曝已分手，经纪公司证实结束六年恋情",
     "source_type": "韩娱",
     "risk_level": "中",
     "is_blurred": false,
     "facts_list": [
       "10月8日（韩国时间）更新：俞承豪与林世珠被曝已不再是恋人关系",
-      "林世珠所属社就此前恋爱报道回应称，两人最近在交往六年后分手",
-      "俞承豪所属社也对此发表评论"
+      "林世珠所属社就此前恋爱报道作出回应，澄清两人最近已分手，结束六年恋情",
+      "俞承豪所属社补充表示：'两人……'（原文此处截断）"
     ],
-    "summary_zh": "10月8日（韩国时间），有消息曝出俞承豪与林世珠已不再是恋人关系。针对此前的恋爱报道，林世珠所属社澄清称，她与俞承豪在交往六年后于最近分手。俞承豪所属社也对此作出了回应。",
-    "extracted_at": "2026-10-08T12:14:50.997588+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "ALL'N Drops Violin-Driven K-pop Single \"DING\" Via EMPIRE - Billboard Philippines",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mTXQzeWJsVTlLcTVBVG9nNlV1Nk9FZmp6eFNwc2VUNXNBWTlGcGFwVFJFZ0RmLTJNdkxnMDRxM3JTakt6XzdlVU1xS1NxTU1JbUZJLUJUcU44UHp6aU0xd1VERmwxSm5xYXhkbWNTdG9zVjJSM3JDeThKRXdxSlk?oc=5",
-    "content": "ALL'N Drops Violin-Driven K-pop Single \"DING\" Via EMPIRE Billboard Philippines",
-    "published_at": "1008google-kpop",
-    "published_ts": 1791428678.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "ALL'N 通过 EMPIRE 发行小提琴主导 K-pop 单曲《DING》",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "ALL'N 发行 K-pop 单曲《DING》",
-      "《DING》以小提琴为主导乐器",
-      "发行方为 EMPIRE",
-      "消息来源为 Billboard Philippines"
-    ],
-    "summary_zh": "ALL'N 通过 EMPIRE 发行全新 K-pop 单曲《DING》，该曲以小提琴为主导乐器。消息由 Billboard Philippines 报道。",
-    "extracted_at": "2026-10-08T12:14:52.302657+08:00"
+    "summary_zh": "10月8日（韩国时间），有消息确认演员俞承豪与林世珠已结束恋人关系。针对此前的恋爱报道，林世珠所属社澄清称两人最近已分手，恋情持续约六年。俞承豪所属社也对此作出补充回应，但原文内容在此处被截断。",
+    "extracted_at": "2026-10-08T23:10:24.190108+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -63,16 +613,15 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "HYBE America高管称合作与社群是KPop成功关键",
+    "title_zh": "HYBE America高管称合作与社群是K-Pop成功关键",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "HYBE America高管在Resonate Voices活动上发言",
-      "该高管指出合作与社群是KPop成功的关键"
+      "原文仅提及HYBE America高管在Resonate Voices活动中指出合作与社群是K-Pop成功的关键，未提供具体高管姓名、活动时间、地点或具体言论内容。"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：HYBE America高管指出合作与社群是KPop成功的关键]",
-    "extracted_at": "2026-10-08T12:14:53.387389+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：HYBE America高管指出合作与社群是K-Pop成功的关键]",
+    "extracted_at": "2026-10-08T23:10:25.381442+08:00"
   },
   {
     "source_id": "soompi",
@@ -93,11 +642,11 @@
     "is_blurred": false,
     "facts_list": [
       "第35届釜日电影奖于2026年10月7日在釜山SIGNIEL酒店举行",
-      "金南佶和千玗嬉担任颁奖礼主持人",
+      "颁奖礼由金南佶和千玗嬉担任主持人",
       "电影《HOPE》获得包括最佳导演、最佳男配角在内的五项大奖，为当晚获奖最多的作品"
     ],
-    "summary_zh": "2026年10月7日，第35届釜日电影奖在釜山SIGNIEL酒店举行，由金南佶和千玗嬉担任主持。电影《HOPE》斩获五项大奖，包括最佳导演和最佳男配角，成为当晚最大赢家。",
-    "extracted_at": "2026-10-08T12:14:54.962355+08:00"
+    "summary_zh": "2026年10月7日，第35届釜日电影奖在釜山SIGNIEL酒店举行，由金南佶和千玗嬉担任主持。电影《HOPE》成为最大赢家，共斩获五项大奖，包括最佳导演和最佳男配角等奖项。",
+    "extracted_at": "2026-10-08T23:10:26.791175+08:00"
   },
   {
     "source_id": "soompi",
@@ -112,41 +661,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "BLACKPINK Lisa《SaWaDiKa》MV 破2亿播放，成2026年首位达此成绩K-Pop歌手",
+    "title_zh": "BLACKPINK Lisa《SaWaDiKa》MV 破2亿播放，成2026年首位达此成绩的K-Pop歌手",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "BLACKPINK成员Lisa的先行曲《SaWaDiKa》MV于10月8日上午8时左右（KST）在YouTube突破2亿次播放",
-      "该MV于9月4日上午9时（KST）发布，达成2亿播放用时约34天",
+      "该MV于9月4日上午9时（KST）发布，突破2亿播放用时约34天",
       "《SaWaDiKa》是2026年首支突破2亿播放量的K-Pop歌手MV"
     ],
-    "summary_zh": "BLACKPINK成员Lisa的先行曲《SaWaDiKa》MV于10月8日上午8时左右（KST）在YouTube突破2亿次播放。该MV于9月4日上午9时（KST）发布，用时约34天达成此里程碑，并成为2026年首支突破2亿播放量的K-Pop歌手MV。",
-    "extracted_at": "2026-10-08T12:14:56.856756+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Avex Helped Define J-Pop. Now It Is Borrowing From K-Pop. - Koreabizwire",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbmVvaGVBd0owRkQzS002SXdPSGdfcUxSRndVa1FvUGtrOTBxUUM5UXFnSFM2QzZZbkVKUXBPU3E5bDBRbUlQS0g2dFdkbGI3ZWo0TnFiZFdkLXk5eTJTbVhOaVA5R2xUaHlKaFFRamV0aG1NelEweFdZSkY1MlNoVXFRQ2FDV2JnejMtNzlidw?oc=5",
-    "content": "Avex Helped Define J-Pop. Now It Is Borrowing From K-Pop. Koreabizwire",
-    "published_at": "1008google-kpop",
-    "published_ts": 1791422508.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "日本艾回借鉴K-Pop模式：曾定义J-Pop的巨头转向韩式偶像体系",
-    "source_type": "日剧",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "原文仅提及艾回（Avex）曾参与定义J-Pop，现正借鉴K-Pop模式",
-      "原文未提供具体时间、地点、数据或具名来源"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：曾定义J-Pop的艾回如今正在借鉴K-Pop。]",
-    "extracted_at": "2026-10-08T12:14:58.404999+08:00"
+    "summary_zh": "BLACKPINK成员Lisa的先行曲《SaWaDiKa》MV于10月8日上午8时左右（KST）在YouTube突破2亿次播放。该MV于9月4日上午9时（KST）发布，用时约34天达成此成绩，并成为2026年首支突破2亿播放量的K-Pop歌手MV。",
+    "extracted_at": "2026-10-08T23:10:28.288551+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -166,11 +691,11 @@
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅提及朴振英（Park Jin-young）为K-pop庆典辩护，称其为'国家级牺牲'",
-      "原文未提供具体时间、地点、事件细节或数据"
+      "原文仅提及朴振英为K-pop庆典辩护，称其为国家级牺牲",
+      "原文未提供具体时间、地点、活动名称或具体言论内容"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：朴振英为K-pop庆典辩护，称其为国家级牺牲]",
-    "extracted_at": "2026-10-08T12:14:59.783885+08:00"
+    "extracted_at": "2026-10-08T23:10:29.194777+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -190,10 +715,35 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "防弹少年团成员RM在旧金山现代艺术博物馆（SFMoMA）展示其韩国艺术收藏"
+      "防弹少年团成员RM在旧金山现代艺术博物馆（SFMoMA）展出其韩国艺术收藏",
+      "该展览由《The Art Newspaper》报道"
     ],
-    "summary_zh": "据《艺术新闻》报道，防弹少年团成员RM在旧金山现代艺术博物馆（SFMoMA）展出了他收藏的韩国艺术作品。",
-    "extracted_at": "2026-10-08T12:15:00.916649+08:00"
+    "summary_zh": "据《The Art Newspaper》报道，防弹少年团（BTS）成员RM在旧金山现代艺术博物馆（SFMoMA）展示了他的韩国艺术收藏。报道未提及展览的具体日期、展品清单或更多细节。",
+    "extracted_at": "2026-10-08T23:10:30.423136+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "KPop Demon Hunters Gets An Official New Format Release Next Month - Polygon.com",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd1JGR3F4RWQyaV9XMkdDZmV2VGlYcFJBWExnZHFkWVcxaXhOSzlCNk1iWlBjaU9fU0JDMXNWQlVGRVJGNVVpMmpjOE0wZlJtbXh0TlpzUVQ2SVFtT05LNnBCQWlNMDg5aTdjanFfemRvMlI2c01ZN2RRODB3YnZjMHo5cGc3aTh4cXRZ?oc=5",
+    "content": "KPop Demon Hunters Gets An Official New Format Release Next Month Polygon.com",
+    "published_at": "1008google-kpop",
+    "published_ts": 1791404434.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《KPop Demon Hunters》下月推出官方新格式发行版",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及《KPop Demon Hunters》将于下月推出官方新格式发行版，来源为 Polygon.com",
+      "原文未说明具体发行格式、发行日期、发行平台或发行地区"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters》下月将推出官方新格式发行版]",
+    "extracted_at": "2026-10-08T23:10:31.620886+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -208,15 +758,15 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "K-Pop硬核舞曲时代解析：音乐榜单视角",
+    "title_zh": "K-Pop硬核舞曲时代解析：音乐榜单背后的趋势",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅提及K-Pop硬核舞曲时代与音乐榜单，未提供具体艺人、时间、数据或事件细节"
+      "原文仅提及K-Pop硬核舞曲时代与音乐榜单，未提供具体艺人、时间、数据或事件"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：Inside K-Pop's Hard Dance Era - How Music Charts]",
-    "extracted_at": "2026-10-08T12:15:02.254867+08:00"
+    "extracted_at": "2026-10-08T23:10:32.547194+08:00"
   },
   {
     "source_id": "soompi",
@@ -236,13 +786,13 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "Netflix发布了新剧《掌管我的心》（Take Charge of My Heart）的新预告片段",
+      "Netflix公开了新剧《Take Charge of My Heart》的最新预告片段",
       "该剧改编自网络小说，讲述一名人工心脏电量即将耗尽的男人与一名拥有充电能力的女人之间的浪漫喜剧故事",
-      "预告片段中蔡秀彬触碰金英光后对方没有反应，令她感到困惑",
+      "预告片段中，蔡秀彬触碰金英光后对方没有反应，令她感到困惑",
       "金英光担任该剧主演"
     ],
-    "summary_zh": "Netflix公开了新剧《掌管我的心》的最新预告片段。该剧改编自网络小说，是一部浪漫喜剧，讲述一名人工心脏电量即将耗尽的男人与一名拥有特殊充电能力的女人之间的故事。预告中，蔡秀彬触碰金英光后对方毫无反应，令她感到困惑。金英光担任主演。",
-    "extracted_at": "2026-10-08T12:15:04.111391+08:00"
+    "summary_zh": "Netflix公开了新剧《Take Charge of My Heart》的最新预告。该剧改编自网络小说，是一部浪漫喜剧，讲述一名人工心脏电量即将耗尽的男人，与一名拥有独特充电能力的女人之间的故事。预告片段中，蔡秀彬因触碰金英光后对方毫无反应而感到困惑。该剧由金英光主演。",
+    "extracted_at": "2026-10-08T23:10:34.006324+08:00"
   },
   {
     "source_id": "soompi",
@@ -262,36 +812,37 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "Circle Chart公布9月20日至26日周榜排名",
+      "Circle Chart公布2025年9月20日至26日周榜排名",
       "(G)I-DLE成员田小娟（Soyeon）个人单曲《I'm gonna TOESA》在综合数字榜和流媒体榜双双升至第1位，达成双冠",
-      "CORTIS、ILLIT等艺人进入本周Circle周榜前列"
+      "CORTIS、ILLIT等艺人进入本周Circle周榜前列",
+      "原文未披露各榜单第2至第5位的具体排名及数据"
     ],
-    "summary_zh": "Circle Chart公布9月20日至26日周榜排名。(G)I-DLE成员田小娟（Soyeon）凭借个人单曲《I'm gonna TOESA》在综合数字榜和流媒体榜双双升至第1位，达成双冠。CORTIS、ILLIT等艺人同样进入本周Circle周榜前列。",
-    "extracted_at": "2026-10-08T12:15:05.687094+08:00"
+    "summary_zh": "Circle Chart公布9月20日至26日周榜，(G)I-DLE成员田小娟个人单曲《I'm gonna TOESA》在综合数字榜与流媒体榜均升至第1位，实现双冠。CORTIS、ILLIT等艺人同样进入本周榜单前列。原文未提及具体销量、流媒体数值及第2至第5位排名细节。",
+    "extracted_at": "2026-10-08T23:10:35.742766+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "After Staffing Shakeups, WMG Goes Into Deal Mode with an Atlantic+Kakao K-pop Tie-Up - Digital Music News",
+    "title": "After Some Serious Staffing Shakeups, WMG Goes Into Deal Mode with an Atlantic+Kakao K-pop Tie-Up - Digital Music News",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaEJfd2FCZGV1RXFOWU5NVFAwa2VlTHRpekRBTUxkZkN2cUcwcFpBYlp0XzJEbkdZTW5mUWVINVR2blpOS0FGNVMza3lYNGxyVHh6elVuZy02S2t2MDl1ZE9JcWhRSjkwY2dncE5JN2I1Tjk0dE9UU2l2MHpMVFh1SElaWUd3ZVZY?oc=5",
-    "content": "After Staffing Shakeups, WMG Goes Into Deal Mode with an Atlantic+Kakao K-pop Tie-Up Digital Music News",
+    "content": "After Some Serious Staffing Shakeups, WMG Goes Into Deal Mode with an Atlantic+Kakao K-pop Tie-Up Digital Music News",
     "published_at": "1008google-kpop",
     "published_ts": 1791398418.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "华纳音乐人事调整后与Kakao达成Atlantic+K-pop合作",
+    "title_zh": "华纳音乐与Kakao娱乐达成合作，Atlantic Records联手拓展K-pop业务",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "华纳音乐集团（WMG）在经历人事调整后进入交易模式",
-      "华纳音乐旗下Atlantic与韩国Kakao达成K-pop相关合作"
+      "华纳音乐集团（WMG）在经历重大人事变动后，与Kakao娱乐达成K-pop合作协议",
+      "合作涉及WMG旗下Atlantic Records与Kakao娱乐的联手"
     ],
-    "summary_zh": "据Digital Music News报道，华纳音乐集团（WMG）在经历人员调整后，与韩国Kakao达成一项围绕Atlantic厂牌与K-pop的合作协议。原文未披露合作的具体形式、涉及艺人、时间表或财务条款。",
-    "extracted_at": "2026-10-08T12:15:07.045545+08:00"
+    "summary_zh": "据Digital Music News报道，华纳音乐集团（WMG）在经历一系列重大人事调整后，正式进入合作模式，旗下Atlantic Records与韩国Kakao娱乐达成K-pop相关合作。原文未披露合作的具体形式、时间表或财务细节。",
+    "extracted_at": "2026-10-08T23:10:37.165296+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -311,11 +862,11 @@
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅提及《KPop Demon Hunters》的歌手将在Valkyries比赛中场表演",
-      "原文未提及具体歌手姓名、演出日期、地点或曲目等细节"
+      "原文仅提及《KPop Demon Hunters》歌手将在Valkyries比赛中场表演",
+      "原文未提及具体歌手姓名、演出时间、地点及曲目等细节"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters》歌手将在Valkyries中场秀表演]",
-    "extracted_at": "2026-10-08T12:15:08.117593+08:00"
+    "extracted_at": "2026-10-08T23:10:38.544849+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -336,10 +887,10 @@
     "is_blurred": true,
     "facts_list": [
       "大西洋唱片（Atlantic Records）与Kakao娱乐（Kakao Entertainment）宣布建立合作伙伴关系",
-      "合作目标为创造更多K-pop机会"
+      "合作目标为创造更多K-pop相关机会"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：大西洋唱片与Kakao娱乐建立合作以创造更多K-pop机会]",
-    "extracted_at": "2026-10-08T12:15:09.496938+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：大西洋唱片与Kakao娱乐建立合作伙伴关系，以创造更多K-pop机会]",
+    "extracted_at": "2026-10-08T23:10:39.759348+08:00"
   },
   {
     "source_id": "soompi",
@@ -354,68 +905,19 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "郑容和洪承熙新剧《Oh! My Guard》预告：财阀女坚信自己是剧中角色",
+    "title_zh": "《Oh! My Guard》预告：洪承熙饰财阀千金，坚信自己是郑容和剧中的角色",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "新剧《Oh! My Guard》发布新预告",
-      "该剧为浪漫爱情剧，讲述顶级演员严泰峰（CNBLUE郑容和饰）与神秘女子吴海拉（洪承熙饰）之间不可预测的爱情故事",
+      "该剧为浪漫爱情剧，讲述顶级演员严泰峰（郑容和饰，CNBLUE成员）与神秘女子吴海拉（洪承熙饰）之间不可预测的爱情故事",
       "严泰峰被描述为有致命缺陷的A-list演员",
-      "吴海拉被描述为相信自己就是车洪斗的神秘女子",
-      "洪承熙饰演的吴海拉是财阀继承人，坚信自己是郑容和剧中的角色"
+      "吴海拉相信自己就是车洪斗（Cha Hong Doo）",
+      "洪承熙饰演的吴海拉是财阀千金"
     ],
-    "summary_zh": "新剧《Oh! My Guard》公开新预告。该剧为浪漫爱情剧，讲述顶级演员严泰峰（CNBLUE郑容和饰）与神秘女子吴海拉（洪承熙饰）之间不可预测的爱情故事。严泰峰是有致命缺陷的A-list演员，吴海拉则是相信自己就是车洪斗的神秘女子。洪承熙饰演的吴海拉是财阀继承人，坚信自己是郑容和剧中的角色。",
-    "extracted_at": "2026-10-08T12:15:11.670709+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "The Kult LA, a Downtown Los Angeles Event Venue, Announces Upcoming K-Pop Halloween Experience - WBOC TV",
-    "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNZnN6RmlNZm5sOVRpc0lRWEFuQUZ6LUpJSEw3VmtnYy1HY2VNcFg0ZFlvUnM4amtSdnlPNUgzSk1hSkNLME42dDlRTVUtWnpmMFl3Z0lLcWU1a3ZrY2hoY09pZFV3LVdVMHhSQ3g0cjRUenlaNmV1R1E4ajNCQzcwRXFGMUcxTkJwWUVmY3NlVGZEa2ZnekRvLW94Z1JfQmczeHRDN3ByZU1Cb3JpMlQzSEFZYTBRLVdrdlNJT1hJUjIyTnQ3akdEUHgtWTViTzZkMTBzNnZacEZDMTJqQ05IMjNpT0hIdDRRbzhIdzdNZmlXUDJHZmFWRTNqdHpjdnRMLXN5UEtKaVZDRldJWGhPcDJkSEwzWkNXTjU5T0FmOA?oc=5",
-    "content": "The Kult LA, a Downtown Los Angeles Event Venue, Announces Upcoming K-Pop Halloween Experience WBOC TV",
-    "published_at": "1008google-kpop",
-    "published_ts": 1791395103.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "洛杉矶The Kult LA场馆宣布将举办K-Pop万圣节体验活动",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "洛杉矶市中心活动场馆The Kult LA宣布将举办K-Pop万圣节体验活动",
-      "信息来源为WBOC TV报道"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：洛杉矶市中心活动场馆The Kult LA宣布将举办K-Pop万圣节体验活动]",
-    "extracted_at": "2026-10-08T12:15:12.649199+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Usborne expands K-pop range following Sticker Dolly Dressing K-POP success - The Bookseller",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZzRDT1QzQ3U4Zi0xa3IxOFFLMnZHLTNwelNkcENoN21iQUtKQjY4STlzTEpiMzBMaENMSVpIXzR6Nk9CTWNKR3JLT0lJdFEycEdKNnp4QXFiYXBkSFktcmpnZlVpVUJxQU1oSVpTMUE0RU5PWEc4MFNJRzZuOWhpOGhXNW1FNmpLay1iYVZYUUdCMG9XcEZvV0lUY2hCMTR1Z1pwVlZ5eGVELWh0Mmc?oc=5",
-    "content": "Usborne expands K-pop range following Sticker Dolly Dressing K-POP success The Bookseller",
-    "published_at": "1008google-kpop",
-    "published_ts": 1791393215.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Usborne 借《贴纸换装娃娃：K-POP》成功之势扩展 K-pop 主题书系",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "Usborne 宣布扩展其 K-pop 主题书系",
-      "扩展决定基于《Sticker Dolly Dressing K-POP》一书的成功",
-      "原文未提及具体销量数据、扩展书目名称或上市时间"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：Usborne 在《贴纸换装娃娃：K-POP》取得成功后扩展 K-pop 书系]",
-    "extracted_at": "2026-10-08T12:15:14.037913+08:00"
+    "summary_zh": "新剧《Oh! My Guard》公开新预告。该剧为浪漫爱情剧，讲述顶级演员严泰峰（郑容和饰）与神秘女子吴海拉（洪承熙饰）之间不可预测的爱情故事。严泰峰是有致命缺陷的A-list演员，吴海拉则是坚信自己是车洪斗的财阀千金。",
+    "extracted_at": "2026-10-08T23:10:41.623447+08:00"
   },
   {
     "source_id": "soompi",
@@ -440,8 +942,8 @@
       "时间：2027年3月27日至28日，为期两天",
       "意义：这是Weverse Con Festival首次在韩国以外地区举办"
     ],
-    "summary_zh": "2026年10月7日，HYBE宣布将举办Weverse Con Festival India，这是该音乐节首次走出韩国。活动定于2027年3月27日至28日在印度新德里举行，为期两天。",
-    "extracted_at": "2026-10-08T12:15:15.951755+08:00"
+    "summary_zh": "2026年10月7日，HYBE宣布将举办Weverse Con Festival India，这是该音乐节首次走出韩国。活动定于2027年3月27日至28日在印度新德里举行，为期两天。原文未披露具体出演阵容及票务信息。",
+    "extracted_at": "2026-10-08T23:10:43.169673+08:00"
   },
   {
     "source_id": "asianwiki",
