@@ -1,5 +1,562 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "AI-Assisted Animated K-Drama ‘The Painted Soul’ From ‘Mouse’ Director Sets Rakuten Viki Launch (Exclusive) - IMDb",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TOTNBaEF6V044V09LeVhQdWY3Snh2YW5iTGtFdWRWdklxTmVkV2tweUVCZHRkS0M3WkJyZjU3MlFiZjNEdjNOQjIyeDlBSzg3Q2xUN2NOeVhMWkVVVTFPTklUYnFCUHBjRUE?oc=5",
+    "content": "AI-Assisted Animated K-Drama ‘The Painted Soul’ From ‘Mouse’ Director Sets Rakuten Viki Launch (Exclusive) IMDb",
+    "published_at": "1009google-kpop",
+    "published_ts": 1791557294.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《Mouse》导演AI辅助动画韩剧《The Painted Soul》定档Rakuten Viki",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "剧名：《The Painted Soul》（暂译）",
+      "类型：AI辅助制作的动画韩剧",
+      "导演：曾执导《Mouse》的导演",
+      "上线平台：Rakuten Viki",
+      "消息来源：IMDb 独家报道"
+    ],
+    "summary_zh": "据 IMDb 独家报道，由《Mouse》导演执导的 AI 辅助动画韩剧《The Painted Soul》（暂译）确定将在 Rakuten Viki 平台上线。原文未披露具体上线日期、配音阵容及剧情细节。",
+    "extracted_at": "2026-10-09T22:55:22.283308+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Rakuten Viki and Imaginus to Co-Produce New Animated K-Drama, The Painted Soul - PR Newswire",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbzNyS1YwdFd1Zk9HQWl6X1JUcUdvTDR5ZWh5S0JiY2FrNU1FeTJveHU2U2lNLU5pM1o4SGNEZ3FfR3JYdEtnZUJvTmd6ajlueVBkSGdqZG01Y3hYN0QwN1dCaVpMcXZfTDUyV2xiTWx6allIY210ZUxZcnNJLUUwUXlidHhDcEtPYWhDNjZncXI5b2w1OTBPeTNaRk9sQ1RiQ0xENmtPYW9hMmpDYk9PRWVpTTZ3Tjh5M1dDNUZnY1VKLTh1RDhtd1RHTzFUdw?oc=5",
+    "content": "Rakuten Viki and Imaginus to Co-Produce New Animated K-Drama, The Painted Soul PR Newswire",
+    "published_at": "1009google-kpop",
+    "published_ts": 1791554400.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Rakuten Viki与Imaginus联合制作全新动画韩剧《The Painted Soul》",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "Rakuten Viki与Imaginus宣布联合制作新动画韩剧《The Painted Soul》",
+      "消息来源为PR Newswire"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：Rakuten Viki与Imaginus将联合制作新动画韩剧《The Painted Soul》]",
+    "extracted_at": "2026-10-09T22:55:23.387888+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "NIZIU: A Career In Song Ratings - thebiaslist.com",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByaXJiREFJck5WeldxWHU5SkhEX3hTblAxLVVqY2Y3NnR5U3ByTV9Pc0RDaG1fc0tPSk5lUWc0YndUSnlwQ2h5TXBILXBPME11VHZRRzRFbThHX3JWWlpOb2h0WlNyb09aQlVTNGJMWXJ1RnhX?oc=5",
+    "content": "NIZIU: A Career In Song Ratings thebiaslist.com",
+    "published_at": "1009google-kpop",
+    "published_ts": 1791553035.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "NIZIU 歌曲评分生涯回顾：thebiaslist.com 发布评分汇总",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "来源：thebiaslist.com 发布 NIZIU 歌曲评分生涯回顾",
+      "原文未提及具体评分数据、歌曲名称或时间信息"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：NIZIU 歌曲评分生涯回顾]",
+    "extracted_at": "2026-10-09T22:55:24.402167+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Buried Treasure: KickFlip – Rockin’ - thebiaslist.com",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qVWpiaUxWRDBoempwUHVrYVNmOEFXWFhUWldiSTBPQTdxWk1iOUdjcjBCS0NQbVpkWmREbnBQdnNDdzd1WFVNd2JBVDVYT09JSVlST2IwUEJBMlJ5dUlScDl6UjdTdmoySTBqU1hkck11TUhLWHc?oc=5",
+    "content": "Buried Treasure: KickFlip – Rockin’ thebiaslist.com",
+    "published_at": "1009google-kpop",
+    "published_ts": 1791552896.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "KickFlip 新曲《Rockin'》获 thebiaslist.com 推荐",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "thebiaslist.com 将 KickFlip 的歌曲《Rockin'》列入其“Buried Treasure”（遗珠推荐）栏目"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：thebiaslist.com 将 KickFlip 的《Rockin'》列为“Buried Treasure”推荐曲目]",
+    "extracted_at": "2026-10-09T22:55:25.478342+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "The Blue Road: Son Suk-ku, Eita Nagayama hunt a killer in taut Netflix K-drama - South China Morning Post",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOR0lKNTYyNlo2MnNfMzkzSm1ncU03dGNydmZ0dGRrRUtnZGVSck9pNGlxYkx3VkI0WTRvcUpNeS1QaDViQWFsQTUxX2NVOHI4TXlCWEN3UDNjbldNclVuVzlZS2dpdWNGR0xmTUNRTEtyRUx1LWkyRDhSbkk5QzF6UE5kXzBZVWZDcU0xV1BPZUVuNUFQMmJVd2lXeUNjUFo1SUJSUTQ2dTBsU2hqbHVRbU1KdGVqQkQzNndaSmI5Z0JPSXcyUlg2N3VEZFdEaWNpamc5UGdzWQ?oc=5",
+    "content": "The Blue Road: Son Suk-ku, Eita Nagayama hunt a killer in taut Netflix K-drama South China Morning Post",
+    "published_at": "1009google-kpop",
+    "published_ts": 1791551705.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "孙锡久与永山瑛太主演Netflix韩剧《蓝色公路》追捕连环杀手",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Netflix 韩剧《The Blue Road》（蓝色公路）由孙锡久（Son Suk-ku）与日本演员永山瑛太（Eita Nagayama）主演",
+      "剧情核心为两人追捕一名杀手",
+      "该剧被描述为紧张（taut）的韩剧",
+      "资讯来源为南华早报（South China Morning Post）"
+    ],
+    "summary_zh": "南华早报报道，Netflix 韩剧《The Blue Road》（蓝色公路）由孙锡久与日本演员永山瑛太主演，剧情围绕两人追捕一名杀手展开，被形容为一部紧张刺激的韩剧。",
+    "extracted_at": "2026-10-09T22:55:27.195188+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "AI-Assisted Animated K-Drama ‘The Painted Soul’ From ‘Mouse’ Director Sets Rakuten Viki Launch (EXCLUSIVE) - Variety",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDYtNXJna0JGZmJkdkRMaU1xVWdXZFRsMlNsU2Rkbll3ZUE3d2lWaDV6WUR5azkxSWZCa1o4UlQ2SUh1Q3lVUXVmNkpYVmN2UHFUMmNYZm1EUTBRNXNOcEVMR3p5c2NpbUVOTy1RSU5TcFJXdmJpWUhVWHpGamhEMEVHOTltRVFocWs4YTdKYXJtcWVJbkZaOWRFNlF0TzlwbUxud1dCWl9XTFBKWWc?oc=5",
+    "content": "AI-Assisted Animated K-Drama ‘The Painted Soul’ From ‘Mouse’ Director Sets Rakuten Viki Launch (EXCLUSIVE) Variety",
+    "published_at": "1009google-kpop",
+    "published_ts": 1791550800.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《Mouse》导演AI辅助动画韩剧《The Painted Soul》定档Rakuten Viki上线",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "《Mouse》导演执导的AI辅助动画韩剧《The Painted Soul》确定在Rakuten Viki平台上线",
+      "该消息由Variety独家报道"
+    ],
+    "summary_zh": "据Variety独家报道，由《Mouse》导演执导的AI辅助动画韩剧《The Painted Soul》已确定在Rakuten Viki平台上线。原文未提及具体上线日期、配音阵容及制作细节。",
+    "extracted_at": "2026-10-09T22:55:28.470354+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Cho Chan Hyun And Yoo Dohyun’s Lives Become Entwined Through Music In New BL Drama “The Sound Of Sugar Cubes”",
+    "url": "https://www.soompi.com/article/1876624wpp/watch-cho-chan-hyun-and-yoo-dohyuns-lives-become-entwined-through-music-in-new-bl-drama-the-sound-of-sugar-cubes",
+    "content": "Wavve’s new BL drama “The Sound of Sugar Cubes” has unveiled a new poster and teaser! Based on the popular BL web novel of the same name, “The Sound of Sugar Cubes” follows Han Yul, who has been living in hiding after giving up singing due to past trauma. His life begins to change when&#8230; Continue reading Watch: Cho Chan Hyun And Yoo Dohyun’s Lives Become Entwined Through Music In New BL Drama “The Sound Of Sugar Cubes”\nThe post Watch: Cho Chan Hyun And Yoo Dohyun’s Lives Become Entwined Through Music In New BL Drama “The Sound Of Sugar Cubes” appeared first on Soompi.",
+    "published_at": "1009soompi",
+    "published_ts": 1791547501.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "赵灿贤与柳道贤主演新BL剧《糖块的声音》公开海报与预告",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Wavve 平台将推出新 BL 剧《糖块的声音》（The Sound of Sugar Cubes）",
+      "该剧改编自同名热门 BL 网络小说",
+      "剧情围绕因过去创伤而放弃唱歌、隐居生活的韩律（Han Yul）展开",
+      "韩律的人生因某事开始发生变化",
+      "主演为赵灿贤（Cho Chan Hyun）与柳道贤（Yoo Dohyun）",
+      "制作方公开了新海报与预告片"
+    ],
+    "summary_zh": "Wavve 新 BL 剧《糖块的声音》改编自同名热门网络小说，由赵灿贤与柳道贤主演。剧情讲述因过去创伤放弃唱歌、隐居生活的韩律，其人生因某事开始发生变化。制作方已公开新海报与预告片。",
+    "extracted_at": "2026-10-09T22:55:29.972751+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: CLOSE YOUR EYES Takes 1st Win For “Drop That!” On “Music Bank”; Performances By KO1KEYZ, TUIDE, And More",
+    "url": "https://www.soompi.com/article/1876617wpp/watch-team-takes-1st-win-for-mark-on-me-on-music-bank-performances-by-pentagon-soyeon-and-more-2",
+    "content": "CLOSE YOUR EYES has won their first music show trophy for “Drop That!”! On the October 9 episode of “Music Bank,” the candidates for first place were CLOSE YOUR EYES’s “Drop That!” and BOYNEXTDOOR’s “ANIMAL.” CLOSE YOUR EYES ultimately took the prize with a total of 9.020 points. Congratulations to CLOSE YOUR EYES! Watch the&#8230; Continue reading Watch: CLOSE YOUR EYES Takes 1st Win For “Drop That!” On &#8220;Music Bank&#8221;; Performances By KO1KEYZ, TUIDE, And More\nThe post Watch: CLOSE YOUR EYES Takes 1st Win For “Drop That!” On &#8220;Music Bank&#8221;; Performances By KO1KEYZ, TUIDE, And More appeared first on Soompi.",
+    "published_at": "1009soompi",
+    "published_ts": 1791542791.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "CLOSE YOUR EYES凭《Drop That!》获《Music Bank》首个一位，总分9020分",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "10月9日播出的《Music Bank》中，一位候选为CLOSE YOUR EYES的《Drop That!》与BOYNEXTDOOR的《ANIMAL》",
+      "CLOSE YOUR EYES最终以总分9020分拿下一位，这是他们出道以来首个音乐节目奖杯",
+      "本期节目还有KO1KEYZ、TUIDE等艺人带来表演"
+    ],
+    "summary_zh": "10月9日播出的《Music Bank》中，CLOSE YOUR EYES凭借《Drop That!》与BOYNEXTDOOR的《ANIMAL》共同成为一位候选，最终CLOSE YOUR EYES以总分9020分获得首个音乐节目一位。本期节目还有KO1KEYZ、TUIDE等艺人登台表演。",
+    "extracted_at": "2026-10-09T22:55:31.827893+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Kim Kang Woo Refuses To Die Before Unifying The Three Kingdoms In “Sword & Silence”",
+    "url": "https://www.soompi.com/article/1876610wpp/watch-kim-kang-woo-refuses-to-die-before-unifying-the-three-kingdoms-in-sword-silence",
+    "content": "“Sword &#38; Silence” has unveiled a new character teaser featuring Kim Kang Woo! Directed by Kim Yeong Jo of “Hwarang: The Poet Warrior Youth,” “Sword &#38; Silence” follows the tale of how the small kingdom of Silla overcame the stronger states of Goguryeo, Baekje, and the Tang dynasty of China to unify the Three Kingdoms.&#8230; Continue reading Watch: Kim Kang Woo Refuses To Die Before Unifying The Three Kingdoms In “Sword &#38; Silence”\nThe post Watch: Kim Kang Woo Refuses To Die Before Unifying The Three Kingdoms In “Sword & Silence” appeared first on Soompi.",
+    "published_at": "1009soompi",
+    "published_ts": 1791540734.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《剑与沉默》公开金康宇角色预告，饰演新罗统一三国前誓死不屈的角色",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "《剑与沉默》（Sword & Silence）公开了金康宇的角色预告片",
+      "该剧由《花郎：The Poet Warrior Youth》导演金英祖执导",
+      "剧情讲述小国新罗克服高句丽、百济和中国唐朝等强国，统一三国的故事",
+      "金康宇在剧中饰演一个在统一三国前拒绝死去的角色"
+    ],
+    "summary_zh": "韩剧《剑与沉默》发布金康宇角色预告。该剧由《花郎》导演金英祖执导，讲述新罗克服高句丽、百济及中国唐朝等强国、统一三国的故事。金康宇在剧中饰演在实现三国统一前誓死不屈的角色。",
+    "extracted_at": "2026-10-09T22:55:33.614609+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "'Kenchana' takes hold as Korean reshapes Japan’s television, slang and advertising a century after suppression - Korea JoongAng Daily",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORW0xbXJMSGlhbnFzb29ETVFPdlNhUXFfOGIzVEZ4SFVmR1RGR0FaMjZBZHNabVh2S0VmY0hxcUE0QTlKQ3hQcG5tWXVibG83T1ZTS0diOUFWbTBiWkZjTEFJM2xmdXJranhjVG9FNXVDSU5mWE1vMV9TN0FFRDlxV1gxekp0ZGc4VEVFSDBJSnh3ckd4MmlKWHcwMnJDRmJDNU9YcnY3U2FYX0dzNXJ3d3FlbDRPa24wb01TUEc0dnhPeTAwal9FcnVyR3A4Q1RETlhmdTVTZ2hJUHFTbktxRzJmNGlIUFdzYTFjMERISDhhZw?oc=5",
+    "content": "'Kenchana' takes hold as Korean reshapes Japan’s television, slang and advertising a century after suppression Korea JoongAng Daily",
+    "published_at": "1009google-kpop",
+    "published_ts": 1791537612.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "韩语'Kenchana'渗透日本电视、俚语与广告，百年压制后韩流重塑日本语言文化",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及'Kenchana'（韩语'没关系'）一词在日本电视、俚语和广告中流行",
+      "原文称韩国文化在压制一个世纪后正在重塑日本电视、俚语和广告",
+      "原文未提供具体时间、地点、数据或具名来源"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：'Kenchana'一词正在流行，韩国在压制一个世纪后重塑日本的电视、俚语和广告]",
+    "extracted_at": "2026-10-09T22:55:35.021264+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-pop architect Lee Soo-man returns with double debut - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fb1NqN2VSQkxBdkJ2cHlNR00xZzM2amxMQTd1N2tBeXN0UTRwbGdWbDlfT2JJbm95SlZSeTVLN3V2WUl2bTloRVBtQy0zcGRVU1pGM1RLOA?oc=5",
+    "content": "K-pop architect Lee Soo-man returns with double debut The Korea Herald",
+    "published_at": "1009google-kpop",
+    "published_ts": 1791537592.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "K-pop 教父李秀满回归，推出两组新人组合",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及李秀满（Lee Soo-man）回归并推出双人出道（double debut）",
+      "原文未提供具体出道组合名称、出道日期、所属公司或任何其他细节"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：K-pop 教父李秀满以双人出道形式回归]",
+    "extracted_at": "2026-10-09T22:55:36.446894+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Sung Hoon And Oh Se Young’s Unusual First Meeting Leads To Unexpected Sparks In “What A Boss Wants”",
+    "url": "https://www.soompi.com/article/1876606wpp/watch-sung-hoon-and-oh-se-youngs-unusual-first-meeting-leads-to-unexpected-sparks-in-what-a-boss-wants",
+    "content": "The upcoming drama “What a Boss Wants” has released its first teaser! Based on a web novel of the same name, “What a Boss Wants” is a romance drama about Kwon Do Hyuk (Sung Hoon), a chaebol boss with zero sense of taste who sets out to find the woman whose voice he heard on&#8230; Continue reading Watch: Sung Hoon And Oh Se Young’s Unusual First Meeting Leads To Unexpected Sparks In “What A Boss Wants”\nThe post Watch: Sung Hoon And Oh Se Young’s Unusual First Meeting Leads To Unexpected Sparks In “What A Boss Wants” appeared first on Soompi.",
+    "published_at": "1009soompi",
+    "published_ts": 1791535651.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "成勋与吴世英主演新剧《老板想要什么》首发预告 独特初遇引爆火花",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "新剧《What a Boss Wants》（暂译《老板想要什么》）发布首支预告",
+      "该剧改编自同名网络小说，是一部浪漫爱情剧",
+      "成勋饰演男主角权道赫（Kwon Do Hyuk），是一位零味觉的财阀老板",
+      "剧情围绕权道赫寻找他听过其声音的女人展开",
+      "吴世英（Oh Se Young）出演该剧，与成勋有独特初遇戏份"
+    ],
+    "summary_zh": "新剧《What a Boss Wants》（暂译《老板想要什么》）公开首支预告。该剧改编自同名网络小说，讲述零味觉财阀老板权道赫（成勋 饰）寻找他偶然听到其声音的女人的浪漫故事。吴世英也参演该剧，两人在剧中的独特初遇将引发意想不到的火花。",
+    "extracted_at": "2026-10-09T22:55:38.226838+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Disney’s Jon Wax Says Buzzy K-Drama ‘The Remarried Empress’ Has Substance to Match Its Spectacle - The Hollywood Reporter",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN0NERHBLWVV4OE1kcE9pcFBnaEk1MVpNQ3VhV1gzY21OTVBOYzBFOEFjWC0yekp6YVlPRE5EbG1Hai04bFg1ODVWYmN1QlktS2VMeHVYdkxHRFpzTlZTYTVoYlZ1MldFWmw4MWFHc21ZY2ZxN2xUa0x5Y2xyTWFyTWRIWEFJbG9Lb056SUh2MDNvQm1XdzNPWGFIY0xUS3M3MDBnN3RmQmJKWk4yZUIzOTFiQ2UzMDQ?oc=5",
+    "content": "Disney’s Jon Wax Says Buzzy K-Drama ‘The Remarried Empress’ Has Substance to Match Its Spectacle The Hollywood Reporter",
+    "published_at": "1009google-kpop",
+    "published_ts": 1791534566.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "迪士尼高管乔恩·瓦克斯谈热门韩剧《再婚皇后》：华丽外表下兼具实质内容",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "迪士尼高管乔恩·瓦克斯（Jon Wax）评价韩剧《再婚皇后》（The Remarried Empress）",
+      "瓦克斯称该剧在华丽 spectacle 之外具有 substance（实质内容）",
+      "原文未提及具体播出时间、平台、演员阵容或收视数据"
+    ],
+    "summary_zh": "迪士尼高管乔恩·瓦克斯在采访中谈及热门韩剧《再婚皇后》，表示该剧不仅拥有华丽的视觉效果，其内容本身也具备实质深度。原文未提供更多关于该剧播出信息、演员阵容或具体数据的细节。",
+    "extracted_at": "2026-10-09T22:55:40.047458+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "‘KPop Demon Hunters’ to get Criterion physical home release - The Hollywood News",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOE1IV1hLdEhBb1VlTGlqZGQ3d3NvazVtV19FcUVfZjZCOEc5UFZsQkJ3cDM2SkdjRGdJU1hkRjhuM3gtRGZMYmdyNmp5MlVOZl9FNDNNVXV6eXJVRHFwT0pKcWpxTTVVY2lEbW1MenpWbUtZMC11d2tyVjFfME5aaUctS0RTb05OLTNjVTE2Z0hGYXdqMXRrY3RYWXk1UHM?oc=5",
+    "content": "‘KPop Demon Hunters’ to get Criterion physical home release The Hollywood News",
+    "published_at": "1009google-kpop",
+    "published_ts": 1791533637.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《KPop Demon Hunters》将推出 Criterion 实体家庭影音版",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "《KPop Demon Hunters》将获得 Criterion 实体家庭影音发行",
+      "消息来源为 The Hollywood News"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters》将获得 Criterion 实体家庭影音发行]",
+    "extracted_at": "2026-10-09T22:55:41.481211+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kim Ji Won Boldly Challenges Hospital Director On Her First Day At Work In “Doctor X”",
+    "url": "https://www.soompi.com/article/1876597wpp/kim-ji-won-boldly-challenges-hospital-director-on-her-first-day-at-work-in-doctor-x",
+    "content": "Kim Ji Won will be causing an uproar on her very first day at work in “Doctor X”! Based on the hit Japanese series of the same name, “Doctor X” is a medical noir drama starring Kim Ji Won as Gye Soo Jung, a genius surgeon who proves what it truly means to be a&#8230; Continue reading Kim Ji Won Boldly Challenges Hospital Director On Her First Day At Work In “Doctor X”\nThe post Kim Ji Won Boldly Challenges Hospital Director On Her First Day At Work In “Doctor X” appeared first on Soompi.",
+    "published_at": "1009soompi",
+    "published_ts": 1791533174.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "金智媛《Doctor X》首日上班即正面挑战医院院长",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "金智媛在《Doctor X》中饰演天才外科医生桂秀贞（音译）",
+      "《Doctor X》改编自同名热门日剧，是一部医疗黑色题材剧",
+      "剧情中金智媛在上班第一天就与医院院长发生正面冲突"
+    ],
+    "summary_zh": "金智媛主演的医疗黑色剧《Doctor X》改编自同名热门日剧，她在剧中饰演天才外科医生桂秀贞。剧情中，她在上班第一天就与医院院长发生正面冲突，引发骚动。该剧通过这一角色展现真正医生的含义。",
+    "extracted_at": "2026-10-09T22:55:43.117329+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Alpha Drive One’s Arno tops Picnic poll for most confident K-pop star - Korea JoongAng Daily",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUWNjS2pRcWVnd3ozUG1VSlBVOXUyemFEVEtGakVRdld2WVJLVHBSamJhZlJYb1BMeDBzREp4NDZidmNRdmVhT3RvMFhUMkV2dzBuZ0lOd3NYSmRvU3FIbG5VWlBtbEl5SW1iUGdMY0tDci1xYjBqU2ZJNnUwVHRUS3UxTlIzVlYyZVduaEJpM0lXNTl0cnNka3RwSmpuLXB4dFBqaWhreG16Z3RZa0t4VDVRTVRka1MxOHM1STJ1WTc0QTg?oc=5",
+    "content": "Alpha Drive One’s Arno tops Picnic poll for most confident K-pop star Korea JoongAng Daily",
+    "published_at": "1009google-kpop",
+    "published_ts": 1791529520.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Alpha Drive One成员Arno登顶Picnic票选最自信K-pop明星",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Alpha Drive One成员Arno在Picnic投票中获选为最自信K-pop明星",
+      "该消息由韩国《中央日报》（Korea JoongAng Daily）报道"
+    ],
+    "summary_zh": "据韩国《中央日报》报道，Alpha Drive One成员Arno在Picnic平台举办的投票中位居榜首，被评为最自信的K-pop明星。原文未披露投票具体票数、参与人数及活动时间等细节。",
+    "extracted_at": "2026-10-09T22:55:44.732684+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Park Sung Woong Commands The Battlefield As A Formidable General In “Sword & Silence”",
+    "url": "https://www.soompi.com/article/1876316wpp/park-sung-woong-commands-the-battlefield-as-a-formidable-general-in-sword-silence",
+    "content": "The upcoming drama “Sword &#38; Silence” has unveiled new stills featuring Park Sung Woong! Directed by Kim Yeong Jo of “Hwarang: The Poet Warrior Youth,” “Sword &#38; Silence” follows the tale of how the small kingdom of Silla overcame the stronger states of Goguryeo, Baekje, and the Tang dynasty of China to unify the Three&#8230; Continue reading Park Sung Woong Commands The Battlefield As A Formidable General In “Sword &#38; Silence”\nThe post Park Sung Woong Commands The Battlefield As A Formidable General In “Sword & Silence” appeared first on Soompi.",
+    "published_at": "1009soompi",
+    "published_ts": 1791527925.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "朴成雄新剧《剑与沉默》饰演威严将军，战场剧照公开",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "新剧《剑与沉默》（Sword & Silence）公开了朴成雄的剧照",
+      "朴成雄在剧中饰演一位威严的将军，统领战场",
+      "该剧由《花郎：The Poet Warrior Youth》导演金英祖执导",
+      "剧情讲述小国新罗如何克服更强大的高句丽、百济以及中国唐朝，统一三国"
+    ],
+    "summary_zh": "新剧《剑与沉默》公开了朴成雄的剧照，他在剧中饰演一位威严的将军。该剧由曾执导《花郎：The Poet Warrior Youth》的金英祖担任导演，剧情围绕小国新罗如何战胜高句丽、百济及中国唐朝，最终实现三国统一的故事展开。",
+    "extracted_at": "2026-10-09T22:55:46.206675+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "3 Reasons To Add Kim Young Kwang And Chae Soo Bin’s Rom-Com “Take Charge Of My Heart” To Your Watchlist",
+    "url": "https://www.soompi.com/article/1876580wpp/3-reasons-to-add-kim-young-kwang-and-chae-soo-bins-rom-com-take-charge-of-my-heart-to-your-watchlist",
+    "content": "Netflix’s new series “Take Charge of My Heart” is premiering today! Based on a web novel, “Take Charge of My Heart” is an electrifying romantic comedy about a man whose artificial heart is running out of battery and a woman with the unique power to recharge him. Kim Young Kwang stars as the cool and&#8230; Continue reading 3 Reasons To Add Kim Young Kwang And Chae Soo Bin’s Rom-Com “Take Charge Of My Heart” To Your Watchlist\nThe post 3 Reasons To Add Kim Young Kwang And Chae Soo Bin’s Rom-Com “Take Charge Of My Heart” To Your Watchlist appeared first on Soompi.",
+    "published_at": "1009soompi",
+    "published_ts": 1791527366.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "金英光×蔡秀彬新剧《请照顾我的心》今日首播 三大看点公开",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Netflix 新剧《请照顾我的心》于今日（原文发布日）首播",
+      "该剧改编自网络小说",
+      "剧情设定：男主角的人工心脏电量即将耗尽，女主角拥有为其充电的特殊能力",
+      "金英光饰演男主角，蔡秀彬担任女主角",
+      "剧集类型为浪漫喜剧",
+      "原文来源为 Soompi，文章主题为列举该剧三大看点"
+    ],
+    "summary_zh": "Netflix 新剧《请照顾我的心》于今日首播。该剧改编自网络小说，是一部浪漫喜剧，讲述一名男子的人工心脏电量即将耗尽，而一名拥有特殊充电能力的女子与之相遇的故事。金英光与蔡秀彬分别担任男女主角。原文以“三大看点”形式向观众推荐该剧。",
+    "extracted_at": "2026-10-09T22:55:48.153118+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "The Remarried Empress: Release Date, Cast & More | Explore Disney+ Australia - Disney Plus",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxVG95bGU5MXVyTWxrUzNtVjJpcTRSdzRka28xaHlhb1hISmNXblpJU2R1eG41OEh6MjdEVGVpc18ycEhkVmh6MWZaekZ0eWdrLXFyZS1YWFBnTEtXTFFOTVktc1YwT3NjTDdaYW84bml2VjFBcFJHLU9QNA?oc=5",
+    "content": "The Remarried Empress: Release Date, Cast & More | Explore Disney+ Australia Disney Plus",
+    "published_at": "1009google-kpop",
+    "published_ts": 1791526095.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《再婚皇后》Disney+澳大利亚上线：播出日期与主演阵容公布",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及《再婚皇后》的播出日期、主演阵容等信息可在Disney+澳大利亚页面查看",
+      "原文未提供具体播出日期、主演姓名或任何其他细节"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：《再婚皇后》的播出日期、主演阵容及更多信息可在Disney+澳大利亚页面查看]",
+    "extracted_at": "2026-10-09T22:55:49.351716+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Ryu Hye Young And Nam Yoon Su Face Unknown Danger In New Film “Killing Time”",
+    "url": "https://www.soompi.com/article/1876213wpp/ryu-hye-young-and-nam-yoon-su-face-unknown-danger-in-new-film-killing-time",
+    "content": "The film “Killing Time” has unveiled new stills featuring Ryu Hye Young and Nam Yoon Su! “Killing Time” is a thriller about an internet broadcasting crew called Killing Time that gains popularity with sensational content, only to face a tragic incident when one of its members dies during a live stream. The stills capture Yoo&#8230; Continue reading Ryu Hye Young And Nam Yoon Su Face Unknown Danger In New Film “Killing Time”\nThe post Ryu Hye Young And Nam Yoon Su Face Unknown Danger In New Film “Killing Time” appeared first on Soompi.",
+    "published_at": "1009soompi",
+    "published_ts": 1791523325.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "柳惠英南润寿主演惊悚片《Killing Time》新剧照曝光",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "电影《Killing Time》公开了柳惠英和南润寿的新剧照",
+      "《Killing Time》是一部惊悚片，讲述名为Killing Time的网络直播团队以煽情内容走红",
+      "该团队在直播中因一名成员死亡而遭遇悲剧事件",
+      "剧照捕捉了角色Yoo（柳惠英饰）的画面"
+    ],
+    "summary_zh": "电影《Killing Time》公开了柳惠英和南润寿的新剧照。该片是一部惊悚题材作品，讲述网络直播团队Killing Time凭借煽情内容获得人气，却在一次直播中因一名成员死亡而遭遇悲剧事件。新剧照展现了柳惠英饰演的角色Yoo所面临的未知危险。",
+    "extracted_at": "2026-10-09T22:55:51.092998+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "CLOSE YOUR EYES Smashes Personal First-Week Sales Record With “256th Note”",
+    "url": "https://www.soompi.com/article/1876574wpp/close-your-eyes-smashes-personal-first-week-sales-record-with-256th-note",
+    "content": "CLOSE YOUR EYES has achieved a new career high with their latest release! On September 30, CLOSE YOUR EYES made their return with their fourth mini album “256th Note.” According to Hanteo Chart, the group recorded 711,224 copies in first-week sales with “256th Note,” marking their highest first-week sales to date. This surpasses their previous&#8230; Continue reading CLOSE YOUR EYES Smashes Personal First-Week Sales Record With “256th Note”\nThe post CLOSE YOUR EYES Smashes Personal First-Week Sales Record With “256th Note” appeared first on Soompi.",
+    "published_at": "1009soompi",
+    "published_ts": 1791522824.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "CLOSE YOUR EYES 迷你四辑《256th Note》首周销量 71.1 万张创自身新高",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "9月30日，CLOSE YOUR EYES 发行第四张迷你专辑《256th Note》回归",
+      "据 Hanteo Chart 统计，《256th Note》首周销量为 711,224 张",
+      "该成绩为 CLOSE YOUR EYES 出道以来首周销量最高纪录，超过此前作品"
+    ],
+    "summary_zh": "9月30日，CLOSE YOUR EYES 携第四张迷你专辑《256th Note》回归。据 Hanteo Chart 数据，该专辑首周销量达 711,224 张，刷新组合自身首周销量最高纪录，超过此前发行的作品。",
+    "extracted_at": "2026-10-09T22:55:52.761272+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "4 Reasons To Tune In To Today’s Premiere Of Kim Ji Won’s New Drama “Doctor X”",
+    "url": "https://www.soompi.com/article/1876566wpp/4-reasons-to-tune-in-to-todays-premiere-of-kim-ji-wons-new-drama-doctor-x",
+    "content": "Kim Ji Won’s new drama “Doctor X” is finally premiering today! Based on the hit Japanese series of the same name, “Doctor X” is a medical noir drama starring Kim Ji Won as Gye Soo Jung, a genius surgeon who proves what it truly means to be a doctor through pure skill alone as she&#8230; Continue reading 4 Reasons To Tune In To Today’s Premiere Of Kim Ji Won’s New Drama “Doctor X”\nThe post 4 Reasons To Tune In To Today’s Premiere Of Kim Ji Won’s New Drama “Doctor X” appeared first on Soompi.",
+    "published_at": "1009soompi",
+    "published_ts": 1791520507.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "金智媛新剧《Doctor X》今日首播 四大看点抢先看",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "金智媛主演的新剧《Doctor X》于今日首播",
+      "该剧改编自同名热门日剧",
+      "《Doctor X》是一部医疗黑色题材剧集",
+      "金智媛在剧中饰演天才外科医生桂秀贞（音译）",
+      "角色通过纯粹的医术实力证明什么才是真正的医生"
+    ],
+    "summary_zh": "金智媛主演的新剧《Doctor X》于今日正式首播。该剧改编自同名热门日剧，是一部医疗黑色题材作品。金智媛在剧中饰演天才外科医生桂秀贞，角色凭借纯粹的医术实力，诠释什么才是真正的医生。原文还列出了四个值得关注该剧首播的看点。",
+    "extracted_at": "2026-10-09T22:55:54.263308+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -17,36 +574,13 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "GOT7成员朴珍荣就即将播出的新剧《100天的谎言》分享了自己的想法",
+      "GOT7成员朴珍荣分享了对新剧《100天的谎言》的想法",
       "该剧由《非常律师禹英禑》及《浪漫医生金师傅》系列导演刘仁植执导",
-      "《100天的谎言》为tvN播出的时代间谍爱情剧",
+      "《100天的谎言》是tvN播出的时代间谍爱情剧",
       "剧情背景设定在日据朝鲜时期，时间跨度为100天"
     ],
-    "summary_zh": "GOT7成员朴珍荣就新剧《100天的谎言》发表感想。该剧由执导过《非常律师禹英禑》和《浪漫医生金师傅》系列的刘仁植导演掌镜，为tvN播出的时代间谍爱情剧，故事背景设定在日据朝鲜时期，围绕100天内发生的事件展开。",
-    "extracted_at": "2026-10-09T12:20:46.366100+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "‘KPop Demon Hunters’: Nextwav Reveals His Hopes for Sequel Movie - IMDb",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iWDZVdzdaemtBb3Q1QTZ5dGlIbmh0dWVENUtkSU9mQ2diY3VhR0ROdW50ajIwUFJ6bUQwWFdic19VQy1MRm1qS1VyWnk5Z3RKTU1qX3BvS1llTk5KSnA4Wldnbl9OQQ?oc=5",
-    "content": "‘KPop Demon Hunters’: Nextwav Reveals His Hopes for Sequel Movie IMDb",
-    "published_at": "1009google-kpop",
-    "published_ts": 1791516006.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "《KPop Demon Hunters》Nextwav 透露对续集电影的期望",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "原文仅提及 Nextwav 透露对《KPop Demon Hunters》续集电影的期望，未提供具体期望内容、时间、地点或其他细节"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：Nextwav 透露了他对《KPop Demon Hunters》续集电影的期望]",
-    "extracted_at": "2026-10-09T12:20:47.521551+08:00"
+    "summary_zh": "GOT7成员朴珍荣就即将播出的新剧《100天的谎言》发表感想。该剧由曾执导《非常律师禹英禑》和《浪漫医生金师傅》系列的刘仁植导演掌镜，为tvN制作的时代间谍爱情剧，故事背景设定在日据朝鲜时期，围绕100天内发生的事件展开。",
+    "extracted_at": "2026-10-09T22:55:56.009089+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -61,15 +595,15 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "韩国化妆品股大涨 娱乐股今年损失惨重",
+    "title_zh": "韩国化妆品股大涨 娱乐股今年大幅下跌",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅提及韩国化妆品股票大幅上涨，娱乐类股票今年出现严重亏损，未提供具体公司名称、股价变动数据或时间细节。"
+      "原文仅提及韩国化妆品股大涨、娱乐股大幅下跌，未提供具体公司名称、涨跌幅数据或时间细节"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：韩国化妆品股大涨，娱乐股今年损失惨重]",
-    "extracted_at": "2026-10-09T12:20:49.041008+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：韩国化妆品股大涨，娱乐股今年大幅下跌]",
+    "extracted_at": "2026-10-09T22:55:57.086111+08:00"
   },
   {
     "source_id": "soompi",
@@ -84,19 +618,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《Dive Into You》第3-4集：时间线变动带来2个反转与2个搞笑场面",
+    "title_zh": "《Dive Into You》第3-4集：两个反转与两个搞笑瞬间",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "剧集《Dive Into You》第3-4集播出",
-      "角色尹荷娜由宇宙少女成员金智妍（Bona）饰演",
-      "角色尹荷拉由张世赫饰演",
-      "剧情涉及时间旅行，时间线不断变化",
-      "第3-4集出现一个令人意外的反转"
+      "剧集《Dive Into You》第3-4集包含两个反转和两个搞笑瞬间",
+      "剧中角色尹河娜由宇宙少女成员金智妍（Bona）饰演，尹河鲁由张世赫饰演",
+      "剧情涉及时间线不断变化，两人陷入时间旅行混乱，拯救他人生命带来意外后果"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：随着时间线不断变化，尹荷娜和尹荷拉陷入更深的时间旅行混乱，《Dive Into You》第3-4集带来一个意外反转及2个搞笑场面]",
-    "extracted_at": "2026-10-09T12:20:51.050009+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：第3-4集带来一个令人惊讶的反转]",
+    "extracted_at": "2026-10-09T22:55:58.831192+08:00"
   },
   {
     "source_id": "soompi",
@@ -114,14 +646,14 @@
     "title_zh": "任时完谈新剧《Love in Disguise》角色准备过程",
     "source_type": "韩剧",
     "risk_level": "低",
-    "is_blurred": true,
+    "is_blurred": false,
     "facts_list": [
-      "任时完分享了对新剧《Love in Disguise》的感想",
-      "该剧为tvN播出的浪漫惊悚剧，讲述傲慢的财阀继承人与伪装成其私人秘书的前特种兵之间的故事",
+      "任时完分享了对即将播出的新剧《Love in Disguise》的感想",
+      "该剧为tvN播出的浪漫惊悚剧，讲述一名傲慢的财阀继承人成为杀人嫌疑人，以及一名前特种部队军官伪装成其私人秘书进行调查的故事",
       "任时完将在剧中担任主演"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：任时完分享了对新剧《Love in Disguise》的准备过程和感想]",
-    "extracted_at": "2026-10-09T12:20:52.430560+08:00"
+    "summary_zh": "任时完分享了对即将播出的tvN新剧《Love in Disguise》的准备感想。该剧是一部浪漫惊悚题材作品，讲述一名傲慢的财阀继承人成为杀人嫌疑人，而一名前特种部队军官伪装成他的私人秘书对其进行调查的故事。任时完将在剧中担任主演。",
+    "extracted_at": "2026-10-09T22:56:00.347813+08:00"
   },
   {
     "source_id": "soompi",
@@ -136,17 +668,18 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "安孝燮主演JTBC新剧《Final Table》首曝预告 饰演神秘过往厨师",
+    "title_zh": "安孝燮主演JTBC新剧《Final Table》预告公开 饰演神秘过往厨师",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "JTBC发布了新剧《Final Table》的全新预告片",
-      "《Final Table》剧情讲述来自世界各地的优秀韩国厨师齐聚一堂，参加名为'The Table: K-Chef 2026'的高风险料理大赛，角逐最佳韩国厨师称号",
-      "安孝燮在剧中饰演角色姜汉（Kang Han），该角色拥有神秘的过往"
+      "JTBC发布了新剧《Final Table》的预告片",
+      "《Final Table》讲述来自世界各地的优秀韩国厨师齐聚一堂，参加名为'The Table: K-Chef 2026'的高风险烹饪比赛，角逐最佳韩国厨师",
+      "安孝燮饰演角色名为Kang Han",
+      "角色Kang Han拥有神秘的过往"
     ],
-    "summary_zh": "JTBC公开了新剧《Final Table》的预告片。该剧讲述来自世界各地的优秀韩国厨师齐聚'首尔之桌：K-Chef 2026'料理大赛，争夺最佳韩国厨师头衔。安孝燮出演男主角姜汉，角色设定为一位拥有神秘过往的厨师。",
-    "extracted_at": "2026-10-09T12:20:54.192659+08:00"
+    "summary_zh": "JTBC公开了新剧《Final Table》的预告片。该剧讲述来自世界各地的优秀韩国厨师齐聚一堂，参加名为'The Table: K-Chef 2026'的高风险烹饪比赛，以决出最佳韩国厨师。安孝燮在剧中饰演拥有神秘过往的角色Kang Han。",
+    "extracted_at": "2026-10-09T22:56:02.055375+08:00"
   },
   {
     "source_id": "soompi",
@@ -161,18 +694,18 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "柳演锡徐玄振主演MBC新剧《完美的谎言》首曝预告 同一夜各执一词",
+    "title_zh": "柳演锡徐玄振主演MBC新剧《The Perfect Lie》首曝预告 两人对同一夜各执一词",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "MBC 新剧《The Perfect Lie》（完美的谎言）发布首支预告",
+      "MBC 新剧《The Perfect Lie》发布首支预告",
       "该剧由《You and Everything Else》导演赵英民执导",
-      "剧情为心理惊悚题材：一名男子与一名女子对同一段记忆给出完全相反的陈述，在追寻真相过程中激烈冲突",
+      "剧情为心理惊悚类型，讲述一名男子与一名女子对同一段记忆给出完全相反的说法，在追寻真相过程中激烈冲突",
       "主演为柳演锡与徐玄振"
     ],
-    "summary_zh": "MBC 新剧《The Perfect Lie》（完美的谎言）公开首支预告。该剧由《You and Everything Else》导演赵英民执导，柳演锡与徐玄振主演，是一部心理惊悚剧。剧情围绕一名男子与一名女子对同一段记忆给出完全相反的陈述展开，两人在追寻真相的过程中激烈冲突。预告中呈现了两人对同一夜的不同说法。",
-    "extracted_at": "2026-10-09T12:20:56.132428+08:00"
+    "summary_zh": "MBC 新剧《The Perfect Lie》公开首支预告。该剧由《You and Everything Else》导演赵英民执导，属心理惊悚题材，讲述一名男子与一名女子对同一段记忆给出完全相反的说法，并在追寻真相的过程中激烈冲突。预告中柳演锡与徐玄振对同一夜各执一词。",
+    "extracted_at": "2026-10-09T22:56:03.515469+08:00"
   },
   {
     "source_id": "soompi",
@@ -187,19 +720,19 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《Summer Vacation》公开预告与角色海报，振永、赵怡贤、洪艺智陷三角恋",
+    "title_zh": "《Summer Vacation》发布预告与角色海报：曹怡贤、B1A4振永、洪艺智陷三角恋",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "新剧《Summer Vacation》发布新预告和主演角色海报",
-      "该剧为青少年浪漫题材，赵怡贤饰演普通高中生金荷妍，在暑假经历神秘事件后回归现实",
-      "B1A4成员振永饰演赵裕（Jo Yu，音译）一角",
-      "洪艺智亦为主演之一，三人陷入紧张三角恋关系",
-      "原文来源为Soompi"
+      "《Summer Vacation》是一部青少年浪漫剧，由曹怡贤（Cho Yi Hyun）饰演金荷妍（Kim Ha Yeon），一名普通高中生，在暑假期间经历神秘事件后回归现实",
+      "B1A4成员振永（Jin Young）饰演赵裕（Jo Yu，音译）",
+      "洪艺智（Hong Ye Ji）参演该剧",
+      "该剧发布了新预告和主演角色海报",
+      "预告中三位主演陷入紧张的三角恋关系"
     ],
-    "summary_zh": "即将播出的新剧《Summer Vacation》公开了最新预告和主演角色海报。该剧为青少年浪漫题材，由赵怡贤饰演普通高中生金荷妍，她在暑假经历神秘事件后回归现实。B1A4成员振永饰演赵裕（音译），洪艺智亦参与主演。预告中三人陷入紧张的三角恋关系。",
-    "extracted_at": "2026-10-09T12:20:57.963228+08:00"
+    "summary_zh": "即将播出的青少年浪漫剧《Summer Vacation》公开了新预告和主演角色海报。该剧由曹怡贤饰演普通高中生金荷妍，她在暑假期间经历神秘事件后回归现实；B1A4成员振永饰演赵裕（音译），洪艺智也参演其中。预告中三位主演陷入紧张的三角恋关系。",
+    "extracted_at": "2026-10-09T22:56:05.429009+08:00"
   },
   {
     "source_id": "soompi",
@@ -220,168 +753,68 @@
     "is_blurred": false,
     "facts_list": [
       "tvN公开了新剧《Love in Disguise》的预告片",
-      "该剧为浪漫惊悚题材，讲述一名傲慢的财阀继承人成为杀人嫌疑人，以及一名前特种部队军官以私人秘书身份卧底调查他的故事",
-      "任时完（Yim Si Wan）饰演男主角尹伊（Yoon Yi，音译）",
-      "薛仁雅（Seol In Ah）出演该剧",
-      "预告片中两人互相产生怀疑"
+      "该剧为浪漫惊悚题材，讲述傲慢的财阀继承人成为杀人嫌疑人，以及前特种部队军官伪装成其私人秘书进行调查的故事",
+      "任时完饰演财阀继承人尹伊（Yoon Yi，暂译）",
+      "薛仁雅参演该剧"
     ],
-    "summary_zh": "tvN发布了新剧《Love in Disguise》的最新预告。该剧是一部浪漫惊悚剧，讲述一名傲慢的财阀继承人成为杀人嫌疑人，而一名前特种部队军官以私人秘书身份卧底调查他。任时完饰演男主角尹伊，薛仁雅共同出演。预告片中两人互相猜疑。",
-    "extracted_at": "2026-10-09T12:20:59.865557+08:00"
+    "summary_zh": "tvN公开了新剧《Love in Disguise》的最新预告片。该剧是一部浪漫惊悚剧，讲述一名傲慢的财阀继承人成为杀人嫌疑人，以及一名前特种部队军官伪装成他的私人秘书展开调查的故事。任时完饰演财阀继承人尹伊（暂译），薛仁雅共同出演。预告片中两人互相猜疑。",
+    "extracted_at": "2026-10-09T22:56:07.219297+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "KPop Demon Hunters sings ‘Golden’ at Valkyries’ halftime show - KRON4",
+    "title": "KPop Demon Hunters singer performs ‘Golden’ at Valkyries’ halftime show - KRON4",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUkl2WktUMmtNNkYyb0hBNUZKdmZPaFZSN2VCeHNNLW5rVWMtdzZvcWNkaFZKR2tjYjdVa1l3VEhVUGlvQ3haR3ZYN08yd3BaRnZxaHBjcHRmZTJyUFdtREVFR1BFb1ZYX3JHT1VLb1BYTW1Mby1laUhsSHdfUThLTGx3aUpKRTZTQlN3ckhsWTUtZ9IBlwFBVV95cUxOa2lCNnRHVUpJcHdvdHU5RkNmYTd5Z3hhcnZpWUZOeGNjR0ZXVmZRdkNBMnVhWXZISnZTRW4yZzRyX3hpRVlYeTZmSm5BSGZWYTUyT01rSkl2dzdjbEdlN040blo1YUdPa1V0UmppM19Vci03Q0RILV9pNjEzbHRsVURWTHVvN1RPaWxpZ2luLTV2UllEZjM0?oc=5",
-    "content": "KPop Demon Hunters sings ‘Golden’ at Valkyries’ halftime show KRON4",
+    "content": "KPop Demon Hunters singer performs ‘Golden’ at Valkyries’ halftime show KRON4",
     "published_at": "1009google-kpop",
     "published_ts": 1791494096.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《KPop Demon Hunters》在金州女武神队中场秀演唱《Golden》",
+    "title_zh": "《KPop Demon Hunters》歌手在Valkyries中场秀演唱《Golden》",
     "source_type": "韩娱",
     "risk_level": "低",
-    "is_blurred": false,
+    "is_blurred": true,
     "facts_list": [
-      "《KPop Demon Hunters》在金州女武神队（Valkyries）比赛中场秀演唱歌曲《Golden》",
-      "报道来源为 KRON4"
+      "《KPop Demon Hunters》歌手在Valkyries比赛中场秀表演歌曲《Golden》"
     ],
-    "summary_zh": "据 KRON4 报道，《KPop Demon Hunters》在金州女武神队（Valkyries）比赛的中场秀上演唱了歌曲《Golden》。",
-    "extracted_at": "2026-10-09T12:21:01.218476+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters》歌手在Valkyries中场秀演唱《Golden》]",
+    "extracted_at": "2026-10-09T22:56:08.202135+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "'KPop Demon Hunters': Nextwav Reveals Hopes for Sequel - TV Insider",
+    "title": "‘KPop Demon Hunters’: Nextwav Reveals His Hopes for Sequel Movie - TV Insider",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTHNPWktTZC1Tek9CNjByV0wzRUoxMDlBYWZ2OU40WXZtUjdkOWVwcmJ3QV9tQm9XdkNzbDZLeHVrYUZqRlFVbFRSbTNodks4TDdjbVdudC1XcDVzck1HbENnbHVrTmFiMU8wSUR3bFVlTEtBTEI4dDVzUmUtUzJEUlc2TlJzMm1XVm5r?oc=5",
-    "content": "'KPop Demon Hunters': Nextwav Reveals Hopes for Sequel TV Insider",
+    "content": "‘KPop Demon Hunters’: Nextwav Reveals His Hopes for Sequel Movie TV Insider",
     "published_at": "1009google-kpop",
     "published_ts": 1791493438.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《KPop Demon Hunters》团队 Nextwav 透露续集制作意愿",
+    "title_zh": "《KPop Demon Hunters》Nextwav 透露对续集电影的期望",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "Nextwav 方面表示希望制作《KPop Demon Hunters》续集",
-      "原文未提及具体时间、地点、数据或具名来源"
+      "原文仅提及 Nextwav 对《KPop Demon Hunters》续集电影抱有期望，未提供具体期望内容、时间、地点或数据。"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：Nextwav 透露了对《KPop Demon Hunters》续集的期望]",
-    "extracted_at": "2026-10-09T12:21:02.245389+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：Nextwav 透露了他对《KPop Demon Hunters》续集电影的期望]",
+    "extracted_at": "2026-10-09T22:56:09.752671+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "Galaxy Corporation stages 16-robot K-pop performance in New York - Robotics & Automation News",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZk9hei0teDZZM1J6dmwtTXhVSXYzdHBNa0xELVYtcThZaEEtUGQyZHA1cFh2UkVXMnQtcy1Sa2syQnNyaEdkSDU4V2FyS0U5WHU2aGhvbTFzNUNWa1pvV2RDREp0cGxKaXBETmNrX3lweXVxUDI1dGpCS3hqRkJJLVVGc2pscmdUQno2ZF9oN0hKUzBWdEhQTFM2bndXeWhxUGdyb0NNZlF0dHpHR01MdWhzNHU3X0dlOW1kdVBn?oc=5",
-    "content": "Galaxy Corporation stages 16-robot K-pop performance in New York Robotics & Automation News",
+    "title": "In ‘Always Lalisa,’ K-pop superstar Lisa comes of age and embarks on a new career in acting - AP News",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcm5Bendjbll6UlYtMnA1d1dfZWFQcHVGdWVOODEyeXNfOHpOVXVXZW4xZmJQbElja185ZlVfalVtVWp4Q01CZ0VoaWJFb21mUUNJTjloZm1DNGhzMDJIc29SWWFBVkJ4SWVzbmNTUGphSUNTSUVCNGU0VmdXNzdrSkFLcDNraldnRC16b2hyTEF0NjFWQmZpWFFFTUFIdF9QUnc?oc=5",
+    "content": "In ‘Always Lalisa,’ K-pop superstar Lisa comes of age and embarks on a new career in acting AP News",
     "published_at": "1009google-kpop",
-    "published_ts": 1791492383.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Galaxy Corporation在纽约呈现16台机器人K-pop表演",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "Galaxy Corporation在纽约举办了一场K-pop表演",
-      "表演使用了16台机器人参与演出"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：Galaxy Corporation在纽约呈现16台机器人K-pop表演]",
-    "extracted_at": "2026-10-09T12:21:03.553735+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "‘KPop Demon Hunters’ star Rei Ami showcases new song during WNBA playoff game - Porterville Recorder",
-    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQeVQ2U3hJRGZ0WTZ0Z1pQMlBZN0tqZ0wwSVNHMEtDMVhlQmI5WlBBcTIwYnNHMms4dGNUOGVOMUFkSFh2RGhXVmJDWks3Zk5CUlRqYkxleGtzaFNXY2hTT1E5ZmV0T1BFaHRkdXMtWVp6LVdqeE1oaXNPRHUxWnU4SkFtTFlyODgzTk01YWZSZkRRcmpYWGlHd3hWSXgyZnBDZlVyT2NmaDRQSGdfVDJEaW9ZUmljTFpBX0xfMWlSWHBYeWxhTmdjTUlVVTRKNnZucy1ZMG9lemd6OWJtSzRwaFYxY1ZYcUUtdko0NzNIUDZPOTVNWTRHaU9Rb1VBUmhpN01PT0tINU0yMDExZDdnM0J3?oc=5",
-    "content": "‘KPop Demon Hunters’ star Rei Ami showcases new song during WNBA playoff game Porterville Recorder",
-    "published_at": "1009google-kpop",
-    "published_ts": 1791489540.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "《KPop Demon Hunters》主演Rei Ami在WNBA季后赛表演新歌",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "《KPop Demon Hunters》主演Rei Ami在WNBA季后赛比赛中表演了一首新歌",
-      "该消息由Porterville Recorder报道"
-    ],
-    "summary_zh": "据Porterville Recorder报道，《KPop Demon Hunters》主演Rei Ami在WNBA季后赛的一场比赛中展示了一首新歌。原文未提供更多具体细节。",
-    "extracted_at": "2026-10-09T12:21:04.987962+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "K-POP Rising - Dream to Shine reveals its first gameplay trailer - GoNintendo",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSTVFOS15dkFGMkRoSGRMMWxGQVdtMFNpc1ZGd1FWWktHbmRzU1NobGZuUExJc09Rd251aDJrc1NyQzdlYXNzYnl5SzlEemhRRnNZTWhGaW5teXI2aTNBb3ZXSGc0cWdyaVJfVmI0TEFEbjBkMkFDSG5pMW1HZEVJUkF5RkdGeFhpd0hsRXZDMnZLbkM1cE5kTk9rRms0NHNCOXc?oc=5",
-    "content": "K-POP Rising - Dream to Shine reveals its first gameplay trailer GoNintendo",
-    "published_at": "1009google-kpop",
-    "published_ts": 1791486550.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "K-POP Rising - Dream to Shine 首支实机预告公开",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "游戏《K-POP Rising - Dream to Shine》公开首支实机预告片",
-      "预告片由 GoNintendo 报道"
-    ],
-    "summary_zh": "游戏《K-POP Rising - Dream to Shine》发布了首支实机预告片，该消息由 GoNintendo 报道。",
-    "extracted_at": "2026-10-09T12:21:06.039615+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "In ‘Always Lalisa,’ K-pop superstar Lisa comes of age and embarks on a new career in acting - Bozeman Daily Chronicle",
-    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxObHhsX3FfV3B5SFVibkJvU0FzaGl2MlFLbWZwMGhpTmM5dTJxVjdkTHdaejFTZlA2Sm1JZDhYcTlDX2lxemFpdDNhZ1p2RU5UUmdzRGpPb1l0WnBDQnNQNEpFejlrZ3pCczBRODVQLWVsMFFCVmZHd196cUpXMVpTSHR6NjB2VjQyaVdLYm1Lb2NfaTlMQlBCUjZteDFKcURXR0dhSGZjZFhGY0ZUOWNZaVRfVWJfd2YzYzM1ZVJrNWpLdkRHejBucGR1djBWVVYyVVA4a1BnX0hreGhha1g4STZBN0ZIQlRzZXZyVTd1dVk0MkM5VE1jc1ZnUjFwT1dnZjV1eldR?oc=5",
-    "content": "In ‘Always Lalisa,’ K-pop superstar Lisa comes of age and embarks on a new career in acting Bozeman Daily Chronicle",
-    "published_at": "1009google-kpop",
-    "published_ts": 1791482379.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Lisa纪录片《Always Lalisa》上线，K-pop巨星成年转型进军演员事业",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "Lisa出演纪录片《Always Lalisa》",
-      "纪录片主题为Lisa成年及开启演员新事业",
-      "来源为Bozeman Daily Chronicle报道"
-    ],
-    "summary_zh": "据Bozeman Daily Chronicle报道，K-pop巨星Lisa在纪录片《Always Lalisa》中展现成年时刻，并开启演员事业新篇章。原文未提供纪录片上线时间、平台及具体出演作品等细节。",
-    "extracted_at": "2026-10-09T12:21:07.702385+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "In ‘Always Lalisa,’ K-pop superstar Lisa comes of age and embarks on a new career in acting - tdtnews.com",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaUJHazhweGUyMFZncHE4N29uQXYxV3hWM0xFMEZaNUZyOGdkSVlhUUlTV0JEckZCb3FxcV81N3ZVdjZpSFQ5cUVoWi10QktBLXh3SnNfRnBDN3M1MXpUYnY2ZlNhLVZ6UlBicUhiR2RGWV9kdkpoakZyazFHTjdRcjVBbEtpX2RYN0t4VXljZlg?oc=5",
-    "content": "In ‘Always Lalisa,’ K-pop superstar Lisa comes of age and embarks on a new career in acting tdtnews.com",
-    "published_at": "1009google-kpop",
-    "published_ts": 1791482379.0,
+    "published_ts": 1791482340.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
@@ -389,37 +822,37 @@
     "title_zh": "Lisa 纪录片《Always Lalisa》上线，K-pop 巨星成年转型开启演员生涯",
     "source_type": "韩娱",
     "risk_level": "低",
-    "is_blurred": true,
+    "is_blurred": false,
     "facts_list": [
-      "原文仅提及 Lisa 出演纪录片《Always Lalisa》，并称其成年并开启演员生涯",
-      "原文未提供纪录片上线时间、平台、具体作品名称等细节"
+      "AP News 报道：K-pop 巨星 Lisa 推出纪录片《Always Lalisa》",
+      "纪录片主题为 Lisa 成年（come of age）并开启演员生涯新篇章"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：在《Always Lalisa》中，K-pop 巨星 Lisa 成年并开启演员生涯。]",
-    "extracted_at": "2026-10-09T12:21:08.918599+08:00"
+    "summary_zh": "据 AP News 报道，K-pop 巨星 Lisa 的纪录片《Always Lalisa》正式发布。该片以 Lisa 成年及开启演员生涯新篇章为主题，记录了她从音乐领域向表演领域拓展的转型过程。",
+    "extracted_at": "2026-10-09T22:56:11.301355+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "KCCLA Presents '2026 K-POP Academy' with KAHI - The National Law Review",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeDdnMmhLRzdXdkdoN2treDZsNlAyRWRtMGFkOFFsZXI3U3ZXUXBDVmZJYmZ3TWhiLUxPSlNmXzFHWTViaGJ2VGNEblplZy1LakpNWWVNWkVlanhGaG1GU21PMWdhcm5OT3RkbmJTUGR5Tk1DWlVXZk5yZlVaeHI3dFZnUGw?oc=5",
-    "content": "KCCLA Presents '2026 K-POP Academy' with KAHI The National Law Review",
+    "title": "‘KPop Demon Hunters’ star showcases new song during Valkyries playoff game - The Mercury News",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT1h1MFI0RXdRZGtCby1yb3JSbjRYRm9IVk1xV3AzY1dfM3RVZEtsbWM3V0VVeU1LbnNUYk9MSTNSdlJEUmczdTZxYVBqUU80WU50WW1vQ0pqdWRFWTFrbk9pQ0JzRXlWcThSYjFrZk8zY1FUOVcyc1J4S0xvMUtSQ05BRWh2M0VvdE82MDByeUlMQXdwdGfSAZsBQVVfeXFMTVIyaUJOUHU1bF9aTlhXcVlCbHhzaW1RSms2TUxITXJpbXhxZEM5QVdLY0FvRlBNZ19oVF8zQnJKSFlkUE1mOHpaSU1KUkNEeVA0WUxTWVZjTjJlREw3Q1dZamh0UF9ZamphRXlhLTJIMkR5VHd4QWtXSjBpNjFkWnRoYkVnak01N2lsQTVpektTdFUwTDB1MWFoWWc?oc=5",
+    "content": "‘KPop Demon Hunters’ star showcases new song during Valkyries playoff game The Mercury News",
     "published_at": "1009google-kpop",
-    "published_ts": 1791480766.0,
+    "published_ts": 1791481650.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "KCCLA携手KAHI推出2026 K-POP学院",
+    "title_zh": "《KPop Demon Hunters》主演在Valkyries季后赛表演新歌",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "KCCLA（洛杉矶韩国文化中心）宣布推出'2026 K-POP Academy'项目",
-      "该项目合作方为KAHI"
+      "《KPop Demon Hunters》主演在Valkyries季后赛比赛中展示了一首新歌",
+      "来源：The Mercury News"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：KCCLA携手KAHI推出'2026 K-POP Academy']",
-    "extracted_at": "2026-10-09T12:21:09.950204+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters》主演在Valkyries季后赛比赛中展示了一首新歌]",
+    "extracted_at": "2026-10-09T22:56:12.313027+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -441,10 +874,10 @@
     "facts_list": [
       "Funko 扩展《KPop Demon Hunters》周边产品线",
       "新增恶魔 Saja Boys 主题 Pop! 玩偶",
-      "消息来源为 Forbes 报道"
+      "消息来源为《福布斯》报道"
     ],
-    "summary_zh": "据 Forbes 报道，Funko 扩展了《KPop Demon Hunters》系列周边产品线，推出以恶魔 Saja Boys 为主题的 Pop! 玩偶。原文未提供具体发售日期、价格或更多产品细节。",
-    "extracted_at": "2026-10-09T12:21:11.512977+08:00"
+    "summary_zh": "据《福布斯》报道，Funko 扩展了《KPop Demon Hunters》系列周边产品线，推出以恶魔 Saja Boys 为主题的 Pop! 玩偶。原文未提供发售日期、价格或具体角色款式等更多细节。",
+    "extracted_at": "2026-10-09T22:56:13.607994+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -459,16 +892,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Push Square 编辑评 PS5 新游：爱 K-Pop 但这款游戏不行",
+    "title_zh": "Push Square 评 PS5 新作：爱 K-Pop 但这款游戏不行",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
       "原文仅包含标题：I Love K-Pop, But This New PS5 Game Ain't It - Push Square",
-      "原文未提及具体游戏名称、发行日期、开发商、评测数据或具体批评内容"
+      "原文未提及具体游戏名称、发行日期、开发商、评分数据或具体批评内容"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：I Love K-Pop, But This New PS5 Game Ain't It]",
-    "extracted_at": "2026-10-09T12:21:12.640471+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：我爱 K-Pop，但这款 PS5 新游戏不行]",
+    "extracted_at": "2026-10-09T22:56:14.836474+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -488,11 +921,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "LEGO Kpop Demon Hunters Derpy Tiger and Sussie Bird套装在亚马逊平台达到新的最低价格",
-      "该信息由IGN报道"
+      "LEGO Kpop Demon Hunters Derpy Tiger and Sussie Bird套装在亚马逊达到新的最低价格",
+      "信息来源：IGN"
     ],
-    "summary_zh": "据IGN报道，LEGO Kpop Demon Hunters系列的Derpy Tiger与Sussie Bird套装在亚马逊上已降至新的最低价格。原文未提供具体价格数字或折扣幅度。",
-    "extracted_at": "2026-10-09T12:21:14.207013+08:00"
+    "summary_zh": "据IGN报道，LEGO Kpop Demon Hunters系列的Derpy Tiger和Sussie Bird套装在亚马逊上已降至新的最低价格。",
+    "extracted_at": "2026-10-09T22:56:15.916169+08:00"
   },
   {
     "source_id": "soompi",
@@ -507,16 +940,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "KATSEYE成员Sophia因心理健康暂停活动，确定明年重启行程",
+    "title_zh": "KATSEYE成员Sophia因心理健康暂停活动后，确定明年重启活动",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "8月，KATSEYE成员Sophia因优先考虑心理健康与状态暂停活动，缺席了组合'The Wildworld Tour'欧洲站演出。",
+      "8月，KATSEYE成员Sophia因优先考虑心理健康与福祉而暂停活动，缺席了KATSEYE 'THE WILDWORLD TOUR'欧洲站演出。",
       "10月9日，HYBE x Geffen发布公告，确认Sophia将于明年恢复活动。"
     ],
-    "summary_zh": "HYBE x Geffen于10月9日发布公告，更新了KATSEYE成员Sophia的活动安排。Sophia此前于8月因优先考虑心理健康与状态而暂停活动，并缺席了KATSEYE'The Wildworld Tour'欧洲站的演出。公告确认，Sophia将于明年恢复活动。",
-    "extracted_at": "2026-10-09T12:21:15.699035+08:00"
+    "summary_zh": "HYBE x Geffen于10月9日发布公告，更新了KATSEYE成员Sophia的活动状态。Sophia此前于8月因优先考虑心理健康与福祉而暂停活动，并缺席了KATSEYE 'THE WILDWORLD TOUR'欧洲站演出。公告确认，Sophia将于明年恢复活动。",
+    "extracted_at": "2026-10-09T22:56:17.385273+08:00"
   },
   {
     "source_id": "asianwiki",
