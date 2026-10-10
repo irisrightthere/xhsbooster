@@ -1,11 +1,281 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "D-CRUNCH: A Career In Song Ratings - https://thebiaslist.com/",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vNlhKMUdZdU5zRXFldHNmVzI1czQ2endWTUl0N3Fsdjh0VHA4THlJOTg1Wmo3bTNSSUtnSVltVGtMX3gta21DZmd3Q1Jwd1hSWlBVRWJaSlVRUE5PYk1uTmk3dDNVcmRWV0txczVQNHppTjViQzhCUA?oc=5",
+    "content": "D-CRUNCH: A Career In Song Ratings https://thebiaslist.com/",
+    "published_at": "1010google-kpop",
+    "published_ts": 1791639518.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "D-CRUNCH 歌曲评分生涯回顾：thebiaslist 网站盘点",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文标题为 D-CRUNCH: A Career In Song Ratings，来源为 thebiaslist.com",
+      "原文正文内容缺失，仅包含标题和来源链接，未提供任何具体歌曲名称、评分数据、时间或事件细节"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：D-CRUNCH: A Career In Song Ratings]",
+    "extracted_at": "2026-10-10T22:10:51.441754+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "‘Jelliness is my life motto’: jackpot theatre prize winner Jaha Koo on kimchi, K-pop and his robotic eel - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ045V1NPUmhBaEJxZVdhaEVMdkNickRKeEFKYnFjalQ1MTVsMkJRVEMyd2E0YUVmdV80WG5HRUcxODJRMnFZcXVTVXA4Uk9FNHJQX05vNWV1eVVWaFA3bV9xbHBBTUJBbE5wZnh1SHZwbjZjclc1ZlE3eVdTXzhkc09BOU41NHhGOXF4ZzFHQ09ObEs1a1VzOWFBdFBNRlp0OThyZUZtd2loWVhU?oc=5",
+    "content": "‘Jelliness is my life motto’: jackpot theatre prize winner Jaha Koo on kimchi, K-pop and his robotic eel The Guardian",
+    "published_at": "1010google-kpop",
+    "published_ts": 1791635160.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "剧作家Jaha Koo获大奖：以泡菜、K-pop与机器鳗鱼探讨韩式身份",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Jaha Koo获得一项戏剧大奖（jackpot theatre prize）",
+      "Jaha Koo的个人格言是“Jelliness is my life motto”",
+      "Jaha Koo的作品涉及泡菜、K-pop和机器鳗鱼等元素",
+      "该报道来自《卫报》（The Guardian）"
+    ],
+    "summary_zh": "《卫报》报道，剧作家Jaha Koo获得一项戏剧大奖。他在采访中谈及自己的创作主题，包括泡菜、K-pop以及一个机器鳗鱼装置，并称“Jelliness is my life motto”是他的生活格言。报道围绕其获奖及艺术理念展开。",
+    "extracted_at": "2026-10-10T22:10:53.360427+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Stray Kids Join BTS in Grammy Boycott: Which K-Pop Groups Could Follow Next? - Dojeon Media",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMWpVaGNxRWJEVlZmbG53Z2x1RjZITHVOc1czX1JlRGJSX21ZVWxXVmtGOVZ5bjdqd3V1V2FpbWRDVk15X1U4UmRtQ3ZhM2hvX0x6ckk0VUtRUlFIb05EM0lvZW5ocEo5RU1kd3BSOVBwYUViazhxOUcyOFhBVHpOM1J1VmFzTy12b2xpWEstTVJJeWYwSi0yZW45U1lQRXFOYVFPTGVFeFRoa2M?oc=5",
+    "content": "Stray Kids Join BTS in Grammy Boycott: Which K-Pop Groups Could Follow Next? Dojeon Media",
+    "published_at": "1010google-kpop",
+    "published_ts": 1791629990.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Stray Kids 加入 BTS 抵制格莱美 哪些 K-pop 组合可能跟进",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "Stray Kids 加入 BTS 的格莱美抵制行动",
+      "原文未提及抵制行动的具体原因、时间、方式或官方声明",
+      "原文未提及可能跟进的其他 K-pop 组合具体名称"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：Stray Kids 加入 BTS 抵制格莱美，哪些 K-pop 组合可能跟进]",
+    "extracted_at": "2026-10-10T22:10:54.604376+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Between Steps: Kim So-hyun, Choo Young-woo lead slow-burn romance - South China Morning Post",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaVNlQkpnOVZGaThQbDF2bHFBSWlaa0xYZ2lUSXYwdl9iSWJ2UjExMzJxN2lBVGM3dEFBUHR0T2FSLXZ3WEs5OExfdVVKRnZMTHFTOVdBdkJUdmhQWUNUaURYWTM4YnVJcFVtekJIbW9mSnhHQXNOa2lrQWRDcHdNMXR3aDhXRWotaHBmWWI3Qmx4eGdadmZxdTRHZG0wQldMd3gxTU5WZjRzLXoyZENkNmR0dTdMOVdjU051WmRfZzktWlU0Q3hBc3ltNXRpVVp4NW8zQU01eG9ZbldrWGVn0gHfAUFVX3lxTE5pZU9TSnVXREJKeXY4dHlCamVjWlJpTG9vOXN6WFlqcm1hQjV4WnZJMTlidGZkNWtiMUhWUVR3NGdfNEVGdGcyLVdXeVZPTWlrT3pmUS0yQ2dtN2FJS21PZGRhZzNhNEcwTDRLUktXYjE4aWhZWjBtbFRKSmc4d2pXTjZod2pVMGdEQkZmQ0s3VWh2YTBuNlQyeWRFSzFVQ0hZMm9reTlxZ1ZCeXB5YXdmMGZMZHhsQ3k1YmREa2JxX2Zvd1VHMXZkYnVGOWcxbGxZLXBxaVRQM3JRc05faFU?oc=5",
+    "content": "Between Steps: Kim So-hyun, Choo Young-woo lead slow-burn romance South China Morning Post",
+    "published_at": "1010google-kpop",
+    "published_ts": 1791620106.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "金所泫与秋英宇主演新剧《Between Steps》演绎慢热爱情",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "《南华早报》报道：金所泫与秋英宇将领衔主演剧集《Between Steps》",
+      "该剧被描述为一部慢热爱情题材作品"
+    ],
+    "summary_zh": "据《南华早报》报道，金所泫与秋英宇将主演新剧《Between Steps》，该剧定位为慢热爱情题材。目前原文仅提供主演阵容与剧集类型信息，未披露播出平台、上线日期或剧情细节。",
+    "extracted_at": "2026-10-10T22:10:56.159086+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "SM Shares Update On aespa’s Giselle’s Health After She Leaves Stage Mid-Concert",
+    "url": "https://www.soompi.com/article/1876760wpp/sm-shares-update-on-aespas-giselles-health-after-she-leaves-stage-mid-concert",
+    "content": "SM Entertainment has released a statement on aespa’s Giselle’s health. During aespa’s concert in Seattle on October 9, Giselle unexpectedly left the stage midway through the concert due to her health, and the other members of the group wrapped up the show without her. Shortly afterwards, SM Entertainment released the following statement in English explaining&#8230; Continue reading SM Shares Update On aespa&#8217;s Giselle&#8217;s Health After She Leaves Stage Mid-Concert\nThe post SM Shares Update On aespa&#8217;s Giselle&#8217;s Health After She Leaves Stage Mid-Concert appeared first on Soompi.",
+    "published_at": "1010soompi",
+    "published_ts": 1791617619.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "aespa吉赛尔西雅图演唱会中途因健康问题离场，SM发布声明说明情况",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "10月9日，aespa在西雅图举行演唱会，吉赛尔（Giselle）因健康问题在演出中途突然离开舞台",
+      "其余成员在吉赛尔缺席的情况下完成了演出",
+      "演出结束后不久，SM娱乐发布英文声明，对吉赛尔的健康状况进行说明"
+    ],
+    "summary_zh": "10月9日，aespa在西雅图举办演唱会，成员吉赛尔因健康问题在演出中途突然离场，其余成员完成了剩余表演。随后，SM娱乐发布英文声明，就吉赛尔的健康状况作出说明。原文未披露声明的具体内容及吉赛尔目前的具体状况。",
+    "extracted_at": "2026-10-10T22:10:57.928109+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "SEVENTEEN's Hoshi drops love song 'Boyfriend' during military service - The Korea Times",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZmFRYkpEbnNmZVhzVElGX0pjMXhuMXMzX2w4UVJzSEd3Y1kyUjFZQ1RfUFoxRHlONzFsMUx6dGdYVno1SHgwS0xuN0tDQXoxd09IcWp5SkRFNC1TNGRTS0dvZmYyaEVHQzhrRmg4QWVuUTVKb3NWLXdzamtURGFmT0NUdnlQc3E4M2d5aTBUbi1SZ1kyV3BWS0xuNXczUFdpRVJfaWdQQW11OS0zb09ucXJ6ckQwaVVSNHlDazNjSWtmcHFSTEl4aGRWYWJGTE1uZThUSE5R0gHHAUFVX3lxTE56cnRWbURtcjlqTGVvOGplQjFNZEJXMXdJYWJNcF9BQnhfdk5leXZsQVdOaDI2cDNYUHJYdWdzbnJMdXRkODRjZE4xVDZoM2dENkJ3a3Rkb1ZuUzhBdnR2MGk2RGpzYzZjcnRVOTduemxXZnRkYnN1WUhQNWV5SUJLNEFFa21HNS1oUjk2c2dQYll3LUV4eTNUbG5HSmlMUzVOd0RKZy1fZDFpNjd0SVRuajJoQl85MUhVRzFZV3BPUUZ3UFdDd1k?oc=5",
+    "content": "SEVENTEEN's Hoshi drops love song 'Boyfriend' during military service The Korea Times",
+    "published_at": "1010google-kpop",
+    "published_ts": 1791617582.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "SEVENTEEN 权顺荣服役期间发布情歌《Boyfriend》",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "SEVENTEEN 成员 Hoshi（权顺荣）在服兵役期间发布个人情歌《Boyfriend》",
+      "消息来源为 The Korea Times"
+    ],
+    "summary_zh": "据 The Korea Times 报道，SEVENTEEN 成员 Hoshi（权顺荣）在服兵役期间发布了一首名为《Boyfriend》的情歌。原文未提供歌曲发行日期、榜单成绩或所属社声明等更多细节。",
+    "extracted_at": "2026-10-10T22:10:59.250249+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "100 Days of Deception: Netflix K-drama plants a pickpocket in Japan’s colonial government - Martin Cid Magazine",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JeUZNbjN1WDNlazhja0pRa204dmplTUszX2tuYzdqY1JvYUJRMmh1NkJVbnJlSi1RYnUxZlRPaTMyTDZIb2R6Uzk3MXJWczQzYzJmQnhTVldmVzNHaEtoX0pvZ3kyc3Vi?oc=5",
+    "content": "100 Days of Deception: Netflix K-drama plants a pickpocket in Japan’s colonial government Martin Cid Magazine",
+    "published_at": "1010google-kpop",
+    "published_ts": 1791615600.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Netflix韩剧《100 Days of Deception》设定扒手潜入日本殖民政府",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "Netflix将推出韩剧《100 Days of Deception》（暂译）",
+      "剧情设定为一名扒手潜入日本殖民政府"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：Netflix韩剧《100 Days of Deception》将一名扒手安插进日本殖民政府]",
+    "extracted_at": "2026-10-10T22:11:00.695447+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Seo Kang Jun, Ahn Eun Jin, And Lee Joo Ahn Share A Tense Encounter In “A Love Other Than Yours”",
+    "url": "https://www.soompi.com/article/1876751wpp/seo-kang-jun-ahn-eun-jin-and-lee-joo-ahn-share-a-tense-encounter-in-a-love-other-than-yours",
+    "content": "Get ready for an uncomfortable encounter on the next episode of “A Love Other Than Yours”! KBS 2TV’s “A Love Other Than Yours” is a realistic romance drama that follows a couple in their 10th year of dating as they experience unexpected emotional changes in a relationship that once felt familiar. Spoilers Previously on “A&#8230; Continue reading Seo Kang Jun, Ahn Eun Jin, And Lee Joo Ahn Share A Tense Encounter In &#8220;A Love Other Than Yours&#8221;\nThe post Seo Kang Jun, Ahn Eun Jin, And Lee Joo Ahn Share A Tense Encounter In &#8220;A Love Other Than Yours&#8221; appeared first on Soompi.",
+    "published_at": "1010soompi",
+    "published_ts": 1791615407.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "徐康俊、安恩真、李周安在《除了你之外的恋爱》中上演紧张相遇",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "KBS 2TV 剧集《除了你之外的恋爱》是一部现实爱情剧，讲述一对交往第10年的情侣在原本熟悉的关系中经历意想不到的情感变化。",
+      "徐康俊、安恩真、李周安将在下一集中分享一场令人不适的紧张相遇。",
+      "原文为剧透预告，未提供具体播出日期或收视率数据。"
+    ],
+    "summary_zh": "KBS 2TV 现实爱情剧《除了你之外的恋爱》发布下一集预告，徐康俊、安恩真、李周安将上演一场令人不适的紧张相遇。该剧讲述一对交往10年的情侣在熟悉关系中经历意想不到的情感变化。原文未提及具体播出时间及更多剧情细节。",
+    "extracted_at": "2026-10-10T22:11:02.391310+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "‘KPop Demon Hunters’ Friendship Bracelet Kit: Price, characters and availability - Lifestyle Asia Hong Kong",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTG1OWnFldFcxanZvVnh4WEVyc2ZaaVo3dVo3X3dCWFh1RVR1MktlTHFnTGEzRloyb1hUdmk2RVE4SmFpTENkSF9PVWhReExRZnhXMnpQQzFrckZLTEx6djJWOFF2d1RPVmpKWWQ4TVJUTExmR3NiVUVyZnd5TlVRZEhBNWV0Rm5hSllpU3Q1RVJkdVlvbTMtR1ZFMk9SVFRDXy0wblhMWFYySlYwb2ZXTUF2YWJvSmVtUWxyOVVn0gHDAUFVX3lxTFBfV0ZGaE9MbWpFV2JHUVItRVRocjZGbkpHaFR1YjliYmFfWllpRWJLNVd3TFh3UUdoYW1uZU95cGVoV2Z6bjkyRm9fd1NxTG9yZTNhQzNpcDFwampwMzl0eXpnY1hJR1JKQzBlVEpTZWc4TV9PSmNOSVJKbWRMaEh4emI4WTJwckp2WEJRUHhwMF84cmJYdXVvT3I3WF9NNjdmTlFiOWpnVWFUTm9rTlBUUnZjYkZsNHQ4UXJ3eHBya3FDWQ?oc=5",
+    "content": "‘KPop Demon Hunters’ Friendship Bracelet Kit: Price, characters and availability Lifestyle Asia Hong Kong",
+    "published_at": "1010google-kpop",
+    "published_ts": 1791614036.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《KPop Demon Hunters》友谊手链套装公布价格、角色与购买渠道",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及《KPop Demon Hunters》友谊手链套装，包含价格、角色和购买渠道信息，但未提供具体细节。"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters》友谊手链套装的价格、角色和购买渠道]",
+    "extracted_at": "2026-10-10T22:11:03.562274+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Jang Dong Yoon And Kim Seung Yoon Share Beautiful Wedding Photos",
+    "url": "https://www.soompi.com/article/1876734wpp/jang-dong-yoon-and-kim-seung-yoon-share-beautiful-wedding-photos",
+    "content": "Before tying the knot on October 10, Jang Dong Yoon and Kim Seung Yoon shared a glimpse of their romantic wedding photo shoot! The two actors will be getting married today in a private ceremony—and to celebrate the occasion, Jang Dong Yoon rang in their wedding day by sharing several gorgeous pictures from their photo&#8230; Continue reading Jang Dong Yoon And Kim Seung Yoon Share Beautiful Wedding Photos\nThe post Jang Dong Yoon And Kim Seung Yoon Share Beautiful Wedding Photos appeared first on Soompi.",
+    "published_at": "1010soompi",
+    "published_ts": 1791613222.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "张东润与金承允公开婚纱照，今日举行非公开婚礼",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "张东润与金承允于10月10日举行婚礼",
+      "婚礼以非公开形式进行",
+      "张东润在婚礼当天通过社交平台分享了多张婚纱照"
+    ],
+    "summary_zh": "演员张东润与金承允于10月10日举行非公开婚礼。婚礼当天，张东润公开了多张浪漫婚纱照，与粉丝分享喜悦。两人均为演员，此前已宣布婚讯。",
+    "extracted_at": "2026-10-10T22:11:05.112127+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kim Ji Yeon And Park Seo Ham Live Together As College Students In “Dive Into You”",
+    "url": "https://www.soompi.com/article/1876727wpp/kim-ji-yeon-and-park-seo-ham-live-together-as-college-students-in-dive-into-you",
+    "content": "On the next episode of “Dive into You,” Kim Ji Yeon and Park Seo Ham will reunite as college students! “Dive into You” is a new fantasy romance drama starring WJSN’s Kim Ji Yeon (Bona) as Yoon Ha Na, an A-list actress who unexpectedly winds up swapping bodies with her twin brother Yoon Ha Ru&#8230; Continue reading Kim Ji Yeon And Park Seo Ham Live Together As College Students In &#8220;Dive Into You&#8221;\nThe post Kim Ji Yeon And Park Seo Ham Live Together As College Students In &#8220;Dive Into You&#8221; appeared first on Soompi.",
+    "published_at": "1010soompi",
+    "published_ts": 1791607666.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "金智妍与朴叙含在《Dive Into You》中作为大学生同居",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "《Dive into You》是一部新奇幻爱情剧，由宇宙少女成员金智妍（Bona）饰演顶级女演员尹荷娜。",
+      "尹荷娜意外与双胞胎兄弟尹荷鲁交换了身体。",
+      "在下一集中，金智妍和朴叙含将作为大学生重逢并同居。"
+    ],
+    "summary_zh": "新奇幻爱情剧《Dive into You》中，宇宙少女金智妍（Bona）饰演顶级女演员尹荷娜，她意外与双胞胎兄弟尹荷鲁交换身体。在下一集中，金智妍与朴叙含将作为大学生重逢并同居。",
+    "extracted_at": "2026-10-10T22:11:06.835064+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
     "title": "Watch: Kim You Jung Goes Through Park Jinyoung’s Stolen Wallet In “100 Days Of Deception” Preview",
     "url": "https://www.soompi.com/article/1876715wpp/watch-kim-you-jung-goes-through-park-jinyoungs-stolen-wallet-in-100-days-of-deception-preview",
-    "content": "tvN’s upcoming drama “100 Days of Deception” has shared a new sneak peek of its first episode! Helmed by director Yoo In Shik of “Extraordinary Attorney Woo” and the “Dr. Romantic” series, “100 Days of Lies” is a period spy romance set over 100 days during the Japanese occupation of Korea. The drama will follow&#8230; Continue reading Watch: Kim You Jung Goes Through Park Jinyoung&#8217;s Stolen Wallet In &#8220;100 Days Of Deception&#8221; Preview\nThe post Watch: Kim You Jung Goes Through Park Jinyoung&#8217;s Stolen Wallet In &#8220;100 Days Of Deception&#8221; Preview appeared first on Soompi.",
+    "content": "tvN’s upcoming drama “100 Days of Deception” has shared a new sneak peek of its first episode! Helmed by director Yoo In Shik of “Extraordinary Attorney Woo” and the “Dr. Romantic” series, “100 Days of Deception” is a period spy romance set over 100 days during the Japanese occupation of Korea. The drama will follow&#8230; Continue reading Watch: Kim You Jung Goes Through Park Jinyoung&#8217;s Stolen Wallet In &#8220;100 Days Of Deception&#8221; Preview\nThe post Watch: Kim You Jung Goes Through Park Jinyoung&#8217;s Stolen Wallet In &#8220;100 Days Of Deception&#8221; Preview appeared first on Soompi.",
     "published_at": "1010soompi",
     "published_ts": 1791603605.0,
     "category": "韩娱",
@@ -17,13 +287,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "tvN 新剧《100天的谎言》（100 Days of Deception）公开首集预告片段",
-      "预告内容为金裕贞翻查朴珍荣被盗的钱包",
+      "tvN新剧《100天的谎言》公开首集预告片段，画面中金裕贞翻查朴珍荣被盗的钱包",
       "该剧由《非常律师禹英禑》及《浪漫医生》系列导演刘仁植执导",
-      "剧集为日据时期背景的间谍爱情剧，故事时间跨度为100天"
+      "剧集背景设定为日本殖民朝鲜时期，是一部以100天为时间跨度的时代谍战爱情剧"
     ],
-    "summary_zh": "tvN 新剧《100天的谎言》公开首集预告，片段中金裕贞翻查朴珍荣被盗的钱包。该剧由《非常律师禹英禑》及《浪漫医生》系列导演刘仁植执导，是一部以日本殖民统治时期为背景、时间跨度100天的间谍爱情剧。",
-    "extracted_at": "2026-10-10T12:05:20.412789+08:00"
+    "summary_zh": "tvN新剧《100天的谎言》发布首集预告，片段中金裕贞翻查朴珍荣被盗的钱包。该剧由《非常律师禹英禑》和《浪漫医生》系列导演刘仁植执导，是一部以日本殖民朝鲜时期为背景、跨越100天的时代谍战爱情剧。",
+    "extracted_at": "2026-10-10T22:11:08.674134+08:00"
   },
   {
     "source_id": "soompi",
@@ -43,12 +312,14 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "金智媛主演的SBS医疗黑色剧《Doctor X》于10月9日首播",
-      "该剧第一集收视率已进入两位数区间",
-      "据Nielsen Korea数据，该剧创下2026年所有迷你剧中最高的首播收视率"
+      "SBS新剧《Doctor X》于10月9日首播",
+      "该剧由金智媛主演，类型为医疗黑色剧（medical noir）",
+      "首集收视率已进入两位数（double digits）",
+      "据Nielsen Korea数据，该剧创下2026年所有迷你剧中最高的首播收视率",
+      "原文未披露具体收视率数字"
     ],
-    "summary_zh": "金智媛主演的SBS新剧《Doctor X》于10月9日首播，仅播出第一集收视率便突破两位数。据Nielsen Korea统计，该剧创下2026年所有迷你剧中最高的首播收视率。这是一部医疗黑色题材剧集。",
-    "extracted_at": "2026-10-10T12:05:21.969671+08:00"
+    "summary_zh": "金智媛主演的SBS医疗黑色剧《Doctor X》于10月9日首播，仅播出一集收视率便突破两位数。据Nielsen Korea统计，该剧创下2026年所有迷你剧中最高的首播收视率。原文未提及具体收视率数字及后续剧情细节。",
+    "extracted_at": "2026-10-10T22:11:10.185887+08:00"
   },
   {
     "source_id": "soompi",
@@ -68,12 +339,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "韩国企业评价研究所公布了10月男团品牌声誉排名",
-      "排名基于9月10日至10月10日期间收集的大数据，分析消费者参与、媒体报道、互动和社区指数",
+      "韩国企业评价研究所公布了本月男团品牌声誉排名",
+      "排名基于2025年9月10日至10月10日期间收集的大数据，分析消费者参与、媒体报道、互动和社区指数",
       "防弹少年团（BTS）保持榜首位置"
     ],
-    "summary_zh": "韩国企业评价研究所公布了10月男团品牌声誉排名。该排名通过分析9月10日至10月10日期间收集的大数据，综合消费者参与、媒体报道、互动和社区指数得出。防弹少年团（BTS）蝉联榜首。",
-    "extracted_at": "2026-10-10T12:05:23.230244+08:00"
+    "summary_zh": "韩国企业评价研究所公布了10月男团品牌声誉排名。该排名通过分析2025年9月10日至10月10日期间收集的大数据，综合消费者参与、媒体报道、互动和社区指数得出。防弹少年团（BTS）蝉联榜首。",
+    "extracted_at": "2026-10-10T22:11:11.775266+08:00"
   },
   {
     "source_id": "soompi",
@@ -88,17 +359,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Soompi推荐6部适合秋季氛围的韩剧",
+    "title_zh": "6部让你瞬间入秋的韩剧推荐",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "Soompi发布了一篇题为《6 K-Dramas That Will Immediately Put You In A Fall Mood》的推荐文章",
-      "原文称这些剧集不一定以秋季为背景，但故事和场景具有怀旧、慢热浪漫、治愈散步等秋季氛围特征",
-      "原文未列出具体6部剧集的名称"
+      "原文为Soompi发布的韩剧推荐列表文章，标题为《6 K-Dramas That Will Immediately Put You In A Fall Mood》",
+      "原文正文仅描述秋季氛围（怀旧、慢热爱情、治愈散步等），未列出具体6部剧名",
+      "原文未提及任何具体剧名、演员、播出时间或数据"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：如果秋天是一部韩剧，它可能是怀旧的画卷，包含温馨社区、慢热浪漫、自然中的治愈散步等元素，并推荐6部能带来秋季氛围的韩剧]",
-    "extracted_at": "2026-10-10T12:05:24.871879+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：如果秋天是一部韩剧，它可能是怀旧的织锦——温馨的街区、慢热的爱情、自然中的治愈散步，以及在陌生事物诱惑时寻求熟悉事物的慰藉。]",
+    "extracted_at": "2026-10-10T22:11:13.502990+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -119,10 +390,10 @@
     "is_blurred": true,
     "facts_list": [
       "原文仅提及《KPop Demon Hunters》Little People 玩偶套装及 Saja Boys 系列在美泰（Mattel）的补货问题",
-      "原文未提供具体补货时间、库存数据或官方声明"
+      "原文未提供具体补货时间、销量数据或官方声明"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：KPop Demon Hunters Little People Set: When Will the Saja Boys Collection Be Back in Stock at Mattel?]",
-    "extracted_at": "2026-10-10T12:05:26.126014+08:00"
+    "extracted_at": "2026-10-10T22:11:14.711902+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -142,10 +413,10 @@
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "HYBE America高管在Resonate Voices活动上发言，指出合作与社群是K-Pop成功的关键"
+      "原文仅提及HYBE America高管在Resonate Voices活动中表示合作与社群是K-Pop成功的关键，未提供具体高管姓名、活动时间、地点或具体言论内容。"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：HYBE America高管指出合作与社群是K-Pop成功的关键]",
-    "extracted_at": "2026-10-10T12:05:27.238049+08:00"
+    "extracted_at": "2026-10-10T22:11:15.769029+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -163,13 +434,13 @@
     "title_zh": "Lisa与导演Sue Kim谈纪录片《Always Lalisa》：记录脱离K-pop体系的历程",
     "source_type": "韩娱",
     "risk_level": "低",
-    "is_blurred": true,
+    "is_blurred": false,
     "facts_list": [
       "Lisa与导演Sue Kim接受《好莱坞报道》采访，讨论纪录片《Always Lalisa》",
       "纪录片主题为Lisa脱离K-pop体系的发展历程"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：Lisa与导演Sue Kim谈论纪录片《Always Lalisa》记录她脱离K-pop体系的过程]",
-    "extracted_at": "2026-10-10T12:05:28.293918+08:00"
+    "summary_zh": "Lisa与导演Sue Kim接受《好莱坞报道》采访，讨论纪录片《Always Lalisa》。该片记录了Lisa脱离K-pop体系的过程。",
+    "extracted_at": "2026-10-10T22:11:17.024201+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -184,17 +455,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "奥巴马基金会撰文：奥巴马在1VERSE组合起源故事中的意外角色",
+    "title_zh": "奥巴马基金会讲述与1VERSE起源故事的意外关联",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "奥巴马基金会发布文章，标题为《Change, and K-pop: Barack Obama's Unlikely Role in 1VERSE Origin Story》",
-      "文章涉及K-pop组合1VERSE的起源故事",
-      "原文未提及具体时间、地点、数据或具名来源"
+      "奥巴马基金会发布标题为《Change, and K-pop: Barack Obama’s Unlikely Role in 1VERSE Origin Story》的内容",
+      "原文正文仅重复标题，未提供具体时间、地点、人物动作或数据"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：奥巴马基金会在1VERSE组合起源故事中扮演了意外角色]",
-    "extracted_at": "2026-10-10T12:05:29.606427+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：奥巴马基金会发布标题为《Change, and K-pop: Barack Obama’s Unlikely Role in 1VERSE Origin Story》的内容]",
+    "extracted_at": "2026-10-10T22:11:18.367251+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -215,10 +485,10 @@
     "is_blurred": true,
     "facts_list": [
       "Viki与Imaginus宣布将推出动画韩剧《The Painted Soul》（暂译）",
-      "原文未提及具体播出时间、制作团队、配音阵容或剧情细节"
+      "原文未提及具体播出时间、制作团队、剧情细节等进一步信息"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：Viki与Imaginus宣布推出动画韩剧《The Painted Soul》（暂译）]",
-    "extracted_at": "2026-10-10T12:05:30.692300+08:00"
+    "extracted_at": "2026-10-10T22:11:19.689737+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -238,36 +508,10 @@
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅提及《KPop Demon Hunters》登陆费城 Netflix House，未提供具体活动内容、时间或数据"
+      "原文仅提及《KPop Demon Hunters》接管费城 Netflix House，未提供具体活动内容、时间或数据"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters》登陆费城 Netflix House]",
-    "extracted_at": "2026-10-10T12:05:31.680545+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Despite BTS Boycott, Grammys Double Down on Controversial New Asian Pop Category - The Hollywood Reporter",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa2wxT0ZVRGwyamt1TTBlMTJfY0JUUDJlcWVnY1ItQ1o1VE1wcjZ6aURva0lBcUY4UG9MMHprQW5PUjRGWTdONHNFVVBUakYxRlAzeUozS2JrRy1TU0hpOHM2WWZoeDFrUENOTXVPSFp4RWFjZmcwQTRuMUtvTWI0T0tUdDh2NzhjU3kzQXBaZmNwRHpoWDNMRDZnbFJVbF8yaW9r?oc=5",
-    "content": "Despite BTS Boycott, Grammys Double Down on Controversial New Asian Pop Category The Hollywood Reporter",
-    "published_at": "1010google-kpop",
-    "published_ts": 1791565284.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "格莱美无视BTS抵制，坚持增设亚洲流行音乐奖项类别",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "格莱美奖（Grammys）新增了一个亚洲流行音乐（Asian Pop）奖项类别。",
-      "防弹少年团（BTS）对该奖项类别进行了抵制。",
-      "尽管有抵制，格莱美仍坚持保留该奖项类别。",
-      "该奖项类别被描述为有争议（controversial）。"
-    ],
-    "summary_zh": "据《好莱坞报道者》报道，尽管防弹少年团（BTS）对格莱美奖新设立的亚洲流行音乐奖项类别表示抵制，格莱美方面仍决定坚持保留这一有争议的奖项设置。",
-    "extracted_at": "2026-10-10T12:05:33.252542+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters》接管费城 Netflix House]",
+    "extracted_at": "2026-10-10T22:11:21.097173+08:00"
   },
   {
     "source_id": "asianwiki",
