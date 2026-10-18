@@ -1,5 +1,176 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "A2O May – Bad Habits Tonite - thebiaslist.com",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5taW1VRVRvOFNYVklDTUdXWUxUbGktVVBsbVVfNDcwdFd1SUdKbW5KVDdGTXNlN2hKdTQ0bUNNMVZfcktodEx5UlBfNjh1NFJ4Zk5jN0hnNVJFS3YyZWJPRHdGN21pVlA1RlJSMUlpdTY1cGpSYVlhbVo5RVNFZw?oc=5",
+    "content": "A2O May – Bad Habits Tonite thebiaslist.com",
+    "published_at": "1018google-kpop",
+    "published_ts": 1792331049.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "A2O May 推出新曲《Bad Habits Tonite》",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及 A2O May 与歌曲名《Bad Habits Tonite》，来源为 thebiaslist.com",
+      "原文未提供发布时间、榜单数据、所属社声明或歌曲详情等具体信息"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：A2O May – Bad Habits Tonite]",
+    "extracted_at": "2026-10-18T23:18:18.534755+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "THIS WEEK IN K-POP: Ranking the New Releases from October 11 – 17 - https://thebiaslist.com/",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdGQ2ZGlMU2l3MV82T09rd0M5a3BKMUp4ajRnQ1JHWEVWRkFFVzBSRXUtZnhJenVtQ09laHF6QXc2Q0tnUlo4SGNGc0NZb2cxYzZXWDVRZjRPN29JYXdvdFR0ZGtpaXJtcTA0bXZXYzcxd1J1VXVLYV9vNG1ORUo2NFhlajhDZ0p0R2dfNnRVUm81Vng2LXBqYjkybjFObDQ?oc=5",
+    "content": "THIS WEEK IN K-POP: Ranking the New Releases from October 11 – 17 https://thebiaslist.com/",
+    "published_at": "1018google-kpop",
+    "published_ts": 1792330965.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "K-pop一周新歌盘点：10月11日至17日发行作品排名",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提供标题和来源链接，未提及具体艺人、歌曲名称、榜单数据或排名结果"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：本周K-pop新歌盘点，对10月11日至17日发行的作品进行排名]",
+    "extracted_at": "2026-10-18T23:18:19.899294+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "SABI SA SARILI KO, 'WALA LANG 'TO' 🎶😍 Soobin of K-pop boy group Tomorrow X Together shared glimpses of his return to the Philippines for a vacation. In his latest vlog released Saturday, Soobin was seen visiting a mall in Pasay, playing pickleball, eating - Facebook",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPV3lkREdZTFN5ZWhSdVA0MXBJR0p5M1E4WXJfME1mc2pJLTVFR2VIZkRibUtLVEdGaHBCRzBtRVlxNndOaW5Fbzh4MlBQeDg3LTlNVGhBVV9ZRldzX1lvNUdPUlhoTnMtZXM5QWNTN0NzcllxU3RFemYwQ3IxaTdTMFZfM2pTbEE1dkN3RVBzZUZfa0dOMXFfWFVJUl9od1FUNnd0a3MwX29RamU2ZUpHMmR1YXRxNDJQSEF0N1ZMWUlkcDY0Vi0xZ0xtTXdkWHFmMjhVTTRSOEY2UmRk?oc=5",
+    "content": "SABI SA SARILI KO, 'WALA LANG 'TO' 🎶😍 Soobin of K-pop boy group Tomorrow X Together shared glimpses of his return to the Philippines for a vacation. In his latest vlog released Saturday, Soobin was seen visiting a mall in Pasay, playing pickleball, eating Facebook",
+    "published_at": "1018google-kpop",
+    "published_ts": 1792328846.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "TXT崔秀彬公开菲律宾度假Vlog，逛商场打匹克球",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "TXT成员崔秀彬（Soobin）于周六发布最新Vlog，记录重返菲律宾度假的片段",
+      "Vlog中秀彬被拍到在帕赛市（Pasay）逛商场、打匹克球和用餐"
+    ],
+    "summary_zh": "韩国男团TOMORROW X TOGETHER成员崔秀彬（Soobin）在周六公开的最新Vlog中，分享了他重返菲律宾度假的片段。视频中，秀彬被拍到在帕赛市逛商场、打匹克球以及用餐的画面。",
+    "extracted_at": "2026-10-18T23:18:21.712038+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "From K-pop debut to scandal: A2O Lite's Aijing plagued by accusations against mother - Korea JoongAng Daily",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZUEwbmtjZEtLNTJNMmhmWVhFZ0Nnb1pxVVAxOGdKWmxtMGYwWHE3ZHZNa044S2tEcmZsSlFkZXFndHF0VVBJckFqcGtPRjlXcmRqcWt1RnB5MzdaTmc4dnN5XzVLaHJTOEFHbUlKYTdvSkFVZHpzMy14LWRUMFVERVV2cnRXOFhxQlRJcUV6S2gwSC1YRjdWSnBxQzJBUmtxUEpjNGlwUE5EenZyX2dEeFVpRll1eUJ1RFRfUTI4ZUZoaE1WS0lsVUk0R2ZhWlZOTXNSYkdn?oc=5",
+    "content": "From K-pop debut to scandal: A2O Lite's Aijing plagued by accusations against mother Korea JoongAng Daily",
+    "published_at": "1018google-kpop",
+    "published_ts": 1792316169.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "A2O Lite成员Aijing出道即陷母亲相关指控风波",
+    "source_type": "韩娱",
+    "risk_level": "中",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及A2O Lite成员Aijing从K-pop出道到陷入争议，争议与其母亲受到的指控有关",
+      "原文未提供指控的具体内容、时间、地点、数据或官方回应等可确认细节"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：A2O Lite成员Aijing因针对其母亲的指控而陷入争议]",
+    "extracted_at": "2026-10-18T23:18:23.527172+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "MODHAUS Responds To Allegations Against idntt Candidate Lee YoonSung",
+    "url": "https://www.soompi.com/article/1879283wpp/modhaus-responds-to-allegations-against-idntt-candidate-lee-yoonsung",
+    "content": "MODHAUS has addressed the rumors about Lee YoonSung, one of the nine trainees competing to become a member of idntt. On October 18, MODHAUS officially revealed the nine “find id” candidates who will be competing to become one of the final four members of idntt, along with the voting schedule for the project. One of&#8230; Continue reading MODHAUS Responds To Allegations Against idntt Candidate Lee YoonSung\nThe post MODHAUS Responds To Allegations Against idntt Candidate Lee YoonSung appeared first on Soompi.",
+    "published_at": "1018soompi",
+    "published_ts": 1792316021.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "MODHAUS回应idntt候选练习生李允成相关指控",
+    "source_type": "韩娱",
+    "risk_level": "中",
+    "is_blurred": true,
+    "facts_list": [
+      "2025年10月18日，MODHAUS官方公开了9名“find id”候选练习生，他们将竞争idntt最终4个成员名额，同时公布了项目投票日程",
+      "李允成是这9名候选练习生之一",
+      "MODHAUS针对围绕李允成的传闻作出了回应，但原文未提及传闻的具体内容及官方回应的具体表述"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：MODHAUS就针对idntt候选练习生李允成的相关指控作出回应]",
+    "extracted_at": "2026-10-18T23:18:25.332675+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Son Naeun’s Mother Passes Away",
+    "url": "https://www.soompi.com/article/1879280wpp/son-naeuns-mother-passes-away",
+    "content": "Son Naeun’s mother has passed away. On September 21, Son Naeun’s agency J,WIDE-COMPANY announced that the idol-turned-actress’s mother had passed away earlier that day at the age of 57. Son Naeun and her younger sister, professional golfer Son Sae Eun, are currently mourning their mother at a memorial altar set up at a funeral home&#8230; Continue reading Son Naeun&#8217;s Mother Passes Away\nThe post Son Naeun&#8217;s Mother Passes Away appeared first on Soompi.",
+    "published_at": "1018soompi",
+    "published_ts": 1792313465.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "孙娜恩母亲去世，享年57岁",
+    "source_type": "韩娱",
+    "risk_level": "高",
+    "is_blurred": false,
+    "facts_list": [
+      "2023年9月21日，孙娜恩所属社J,WIDE-COMPANY宣布其母亲于当天早些时候去世，享年57岁。",
+      "孙娜恩与妹妹、职业高尔夫球手孙赛恩目前正在殡仪馆设立的灵堂悼念母亲。"
+    ],
+    "summary_zh": "9月21日，孙娜恩所属社J,WIDE-COMPANY宣布，孙娜恩的母亲于当天早些时候去世，享年57岁。孙娜恩与妹妹、职业高尔夫球手孙赛恩正在殡仪馆设立的灵堂悼念母亲。",
+    "extracted_at": "2026-10-18T23:18:26.728598+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "ILLIT’s Iroha Injures Ankle Ahead Of Tonight’s Concert",
+    "url": "https://www.soompi.com/article/1879277wpp/illits-iroha-injures-ankle-ahead-of-tonights-concert",
+    "content": "With one night left to go in ILLIT’s encore concert, Iroha has sprained her ankle. On October 18, BELIFT LAB announced ahead of the start of Day 2 of ILLIT’s “PRESS START♥“ encore concert in Incheon that Iroha had injured her ankle during rehearsal earlier that day. The agency’s full statement is as follows: Hello.&#8230; Continue reading ILLIT&#8217;s Iroha Injures Ankle Ahead Of Tonight&#8217;s Concert\nThe post ILLIT&#8217;s Iroha Injures Ankle Ahead Of Tonight&#8217;s Concert appeared first on Soompi.",
+    "published_at": "1018soompi",
+    "published_ts": 1792312701.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "ILLIT成员Iroha脚踝受伤，今晚演唱会照常进行",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "时间：2025年10月18日（原文称10月18日）",
+      "地点：仁川",
+      "主体：ILLIT成员Iroha",
+      "事件：在ILLIT“PRESS START♥”安可演唱会第二天演出前的彩排中扭伤脚踝",
+      "官方回应：所属社BELIFT LAB在演出开始前发布声明公布了受伤消息"
+    ],
+    "summary_zh": "10月18日，BELIFT LAB在ILLIT“PRESS START♥”仁川安可演唱会第二场开演前宣布，成员Iroha在当天彩排中扭伤脚踝。所属社随后发布了官方声明，但原文未提及具体伤情及是否调整演出安排。",
+    "extracted_at": "2026-10-18T23:18:28.624064+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -15,13 +186,15 @@
     "title_zh": "《除了你之外的恋爱》徐康俊尴尬加入安恩真家庭露营",
     "source_type": "韩剧",
     "risk_level": "低",
-    "is_blurred": false,
+    "is_blurred": true,
     "facts_list": [
-      "KBS 2TV 剧集《除了你之外的恋爱》讲述一对交往10年的情侣经历意外情感变化的故事",
-      "徐康俊与安恩真在剧中已分手，但徐康俊尴尬地加入了安恩真的家庭露营旅行"
+      "剧集：KBS 2TV《除了你之外的恋爱》",
+      "主演：徐康俊、安恩真",
+      "剧情设定：交往10年的情侣经历意外情感变化",
+      "具体事件：徐康俊尴尬加入安恩真的家庭露营"
     ],
-    "summary_zh": "KBS 2TV 浪漫剧《除了你之外的恋爱》中，徐康俊与安恩真饰演的角色虽已分手，但徐康俊尴尬地加入了安恩真的家庭露营旅行。该剧讲述交往10年的情侣经历意外情感变化的故事。",
-    "extracted_at": "2026-10-18T16:30:17.001018+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：徐康俊尴尬地加入了安恩真的家庭露营。]",
+    "extracted_at": "2026-10-18T23:18:30.108529+08:00"
   },
   {
     "source_id": "soompi",
@@ -36,16 +209,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《Dive Into You》将揭晓朴叙含与金智妍13年分手始末",
+    "title_zh": "《Dive Into You》将揭晓朴叙含与金智妍13年分手内幕",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "《Dive Into You》下一集将揭晓朴叙含与金智妍如何从情侣变成比陌生人更糟的关系，跨度13年。",
-      "《Dive Into You》是一部奇幻爱情剧，由宇宙少女的金智妍（Bona）饰演顶级女演员尹荷娜。"
+      "《Dive Into You》下一集将揭晓朴叙含与金智妍从情侣到比陌生人更糟的13年故事",
+      "《Dive Into You》是一部奇幻爱情剧，由宇宙少女的金智妍（Bona）饰演顶级女演员尹荷娜"
     ],
-    "summary_zh": "《Dive Into You》下一集将揭晓朴叙含与金智妍从情侣到关系恶化的13年历程。该剧是一部奇幻爱情剧，由宇宙少女的金智妍（Bona）饰演顶级女演员尹荷娜。",
-    "extracted_at": "2026-10-18T16:30:18.999496+08:00"
+    "summary_zh": "《Dive Into You》下一集将揭晓朴叙含与金智妍从情侣关系恶化到比陌生人更糟的13年历程。该剧是一部奇幻爱情剧，由宇宙少女成员金智妍（Bona）饰演顶级女演员尹荷娜。",
+    "extracted_at": "2026-10-18T23:18:31.807505+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -60,16 +233,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "金英光谈韩剧浪漫喜剧：不惧尴尬感，坦然面对类型套路",
+    "title_zh": "金英光谈韩剧浪漫喜剧：不惧尴尬桥段，《The Korea Herald》专访",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅提及金英光（Kim Young-kwang）就韩剧浪漫喜剧中的尴尬感表达态度，称其不害怕这类尴尬",
-      "原文来源为《The Korea Herald》，未提供具体时间、地点、作品名称、数据或具名引述"
+      "原文仅提及金英光（Kim Young-kwang）表示不害怕韩剧浪漫喜剧中的尴尬桥段",
+      "原文来源为《The Korea Herald》（韩国先驱报）",
+      "原文未提及具体作品名称、播出时间、收视数据或采访细节"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：金英光不害怕韩剧浪漫喜剧中的一点尴尬感]",
-    "extracted_at": "2026-10-18T16:30:20.763838+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：金英光不害怕韩剧浪漫喜剧中的尴尬桥段]",
+    "extracted_at": "2026-10-18T23:18:33.500762+08:00"
   },
   {
     "source_id": "soompi",
@@ -89,37 +263,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "tvN电视剧《100天的谎言》以日本殖民统治时期为背景，是一部间谍爱情剧。",
-      "金裕贞在剧中饰演李佳景（音译），是一名扒手，后来成为独立运动的卧底间谍。",
+      "剧集《100天的谎言》背景设定在韩国日据时期，是一部间谍爱情剧。",
+      "金裕贞饰演李佳景，是一名扒手，后来成为独立运动的卧底间谍。",
       "朴珍荣在剧中照顾受伤的金裕贞。"
     ],
-    "summary_zh": "tvN电视剧《100天的谎言》以日本殖民统治时期为背景，金裕贞饰演扒手出身的独立运动卧底间谍李佳景，朴珍荣在剧中照顾受伤的金裕贞，引发观众对两人感情线的期待。",
-    "extracted_at": "2026-10-18T16:30:22.828732+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "$(.X-VIDEoS) k-pop trending - Universidad de Córdoba (UCO)",
-    "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQb1BVRHVHREhkSktJTWVqajI2dnZOakFWcXR4d05iSzV0UmFrbnNwY0xfVEdQYkZ2M2tuSEY3bmVVZWk5bVZqc2pVcnV0SE5JeWtqM3BfNkk3eWZYR0s0MnJheHdqaXdvWFlrQjA0NTdwZnZNcF9wT2RCWnNJeG1OVGI5ekl1UUZwajBHQV9PeGduc1hzSGFiaDd1RkpfRkJwSE1WMFJDQ01QSHNPOWV5Zm1vdGxOdUZPX0RhVW85OW9lekNhWHRNaTMtRHRfX0plelZ6cHd3enNzdkRhUGk4cW5nczNQallRdWozOWtxOEQzbFUxZGlCVHp0Zl9kU1F4a09OeTVtbzFCYkx3MjVKdWR1TGdJZkxwUnJTSjVQT09PQWNNMmZIQg?oc=5",
-    "content": "$(.X-VIDEoS) k-pop trending Universidad de Córdoba (UCO)",
-    "published_at": "1018google-kpop",
-    "published_ts": 1792304919.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "标题含乱码占位符，原文仅称K-pop在科尔多瓦大学流行",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "原文标题含未解析的占位符“$(.X-VIDEoS)”，无法确认实际标题内容",
-      "原文正文仅重复标题内容，提及K-pop trending与西班牙科尔多瓦大学（Universidad de Córdoba, UCO）",
-      "原文未提及具体时间、人物、数据或事件细节"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：K-pop trending 科尔多瓦大学（UCO）]",
-    "extracted_at": "2026-10-18T16:30:24.697502+08:00"
+    "summary_zh": "tvN电视剧《100天的谎言》以韩国日据时期为背景，讲述金裕贞饰演的扒手李佳景成为独立运动卧底间谍的故事。在最新剧情中，朴珍荣饰演的角色照顾受伤的金裕贞，引发观众对两人感情线的期待。",
+    "extracted_at": "2026-10-18T23:18:35.216972+08:00"
   },
   {
     "source_id": "soompi",
@@ -139,11 +288,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "10月18日，MODHAUS正式公开9名idntt候选成员，竞争组合最终4个席位。",
-      "投票活动“idntt find id”将于10月19日韩国时间0点开始，11月5日结束。"
+      "10月18日，MODHAUS正式公开9名idntt候选成员，竞争组合最终4个成员名额",
+      "投票活动“idntt find id”将于10月19日韩国时间0点开始，11月5日结束"
     ],
     "summary_zh": "10月18日，MODHAUS公开了9名idntt候选成员，他们将竞争组合最终4个出道位。投票活动“idntt find id”于10月19日韩国时间0点启动，持续至11月5日。",
-    "extracted_at": "2026-10-18T16:30:26.948368+08:00"
+    "extracted_at": "2026-10-18T23:18:36.601534+08:00"
   },
   {
     "source_id": "soompi",
@@ -165,12 +314,12 @@
     "facts_list": [
       "时间：10月17日",
       "主体：赵宝儿所属社",
-      "动作：官方确认赵宝儿加入TVING剧集《顺从的杀手》（The Obedient Killer）的演员阵容",
-      "动作：赵宝儿将从10月17日开始参与拍摄",
+      "动作：官方确认赵宝儿已加入TVING剧集《顺从的杀手》（The Obedient Killer）的演员阵容",
+      "后续：赵宝儿将从10月17日开始参与拍摄",
       "表态：所属社表示赵宝儿将作为优秀剧集的一员竭尽全力"
     ],
-    "summary_zh": "10月17日，赵宝儿所属社正式确认，赵宝儿已加入TVING新剧《顺从的杀手》（The Obedient Killer）的演员阵容，并自当天起开始参与拍摄。所属社还表示，赵宝儿将作为这部优秀剧集的一员竭尽全力。此前，该剧原定由李青娥出演，现由赵宝儿接替。",
-    "extracted_at": "2026-10-18T16:30:30.353783+08:00"
+    "summary_zh": "10月17日，赵宝儿所属社正式确认，赵宝儿已加入TVING新剧《顺从的杀手》（The Obedient Killer）的演员阵容，并自当天起开始参与拍摄。所属社表示，赵宝儿将作为这部优秀剧集的一员竭尽全力。此前，该剧原定演员李青娥已退出，赵宝儿正式接替其角色。",
+    "extracted_at": "2026-10-18T23:18:38.401333+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -185,19 +334,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "izna马尼拉巡演表演《Mamma Mia》，方智玟曾受访推荐该曲",
+    "title_zh": "izna马尼拉巡演表演《Mamma Mia》，方智玟曾受访推荐",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "时间：10月17日（周六）",
-      "地点：菲律宾马尼拉EVM Convention Center",
-      "主体：K-pop女团izna",
-      "事件：在'WHO DAT GIRL?'巡演马尼拉站表演《Mamma Mia》",
-      "背景：成员方智玟（Bang Jee-min）此前接受ABS-CBN News采访时推荐了该曲"
+      "K-pop女团izna于10月17日（周六）在马尼拉EVM会议中心举行《WHO DAT GIRL?》巡演马尼拉站演出",
+      "izna在该场演出中表演了歌曲《Mamma Mia》",
+      "成员方智玟（Bang Jee-min）此前接受ABS-CBN News采访时曾作出推荐"
     ],
-    "summary_zh": "K-pop女团izna于10月17日（周六）在菲律宾马尼拉EVM Convention Center举行'WHO DAT GIRL?'巡演马尼拉站演出，现场表演了《Mamma Mia》。成员方智玟此前接受ABS-CBN News采访时曾推荐过这首歌曲。",
-    "extracted_at": "2026-10-18T16:30:32.419026+08:00"
+    "summary_zh": "K-pop女团izna于10月17日周六在马尼拉EVM会议中心举行《WHO DAT GIRL?》巡演马尼拉站演出，现场表演了歌曲《Mamma Mia》。成员方智玟此前接受ABS-CBN News采访时曾作出相关推荐。",
+    "extracted_at": "2026-10-18T23:18:39.835997+08:00"
   },
   {
     "source_id": "soompi",
@@ -212,17 +359,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "ATEEZ 伞与弘中出演《全知干预视角》预告公开，展现日常与宝可梦爱好",
+    "title_zh": "ATEEZ 山与弘中出演《全知干预视角》预告公开 展现日常与宝可梦爱好",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "MBC《全知干预视角》于10月18日播出预告，ATEEZ 成员伞（San）与弘中（Hongjoong）将作为嘉宾出演。",
-      "预告片中展示了伞在休息日的日常生活片段。",
-      "预告还呈现了两人对宝可梦的喜爱。"
+      "MBC《全知干预视角》于10月18日播出预告，ATEEZ 成员山（San）与弘中（Hongjoong）作为嘉宾出演。",
+      "预告片中展现了山（San）的休息日日常，并提到他放下“Duke of…”（原文截断）的一面。",
+      "预告还展示了两人对宝可梦的喜爱。"
     ],
-    "summary_zh": "MBC 综艺《全知干预视角》10月18日公开预告，ATEEZ 成员伞与弘中将作为嘉宾出演。预告片中，伞展示了休息日的日常生活，两人还展现了对于宝可梦的喜爱。完整节目内容将在后续播出。",
-    "extracted_at": "2026-10-18T16:30:34.548638+08:00"
+    "summary_zh": "MBC《全知干预视角》10月18日公开预告，ATEEZ 成员山（San）与弘中（Hongjoong）将作为嘉宾出演。预告片中，山展示了自己的休息日日常，并提到他放下“Duke of…”（原文截断）的一面，同时两人还展现了对于宝可梦的喜爱。",
+    "extracted_at": "2026-10-18T23:18:41.882291+08:00"
   },
   {
     "source_id": "soompi",
@@ -237,17 +384,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "SBS《人气歌谣》10月18日因转播棒球季后赛停播",
+    "title_zh": "SBS《人气歌谣》10月18日因转播KBO季后赛停播",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "SBS宣布10月18日《人气歌谣》停播",
-      "停播原因为转播2026年KBO联赛半决赛第二场",
-      "替代节目为Kia Tigers对LG Twins的比赛，韩国时间下午1:40开始"
+      "停播原因为转播2026年KBO联赛季后赛半决赛第二场",
+      "替代节目为起亚虎对LG双子队的比赛，韩国时间下午1:40开始"
     ],
-    "summary_zh": "SBS音乐节目《人气歌谣》10月18日将停播，原因是SBS需转播2026年KBO联赛半决赛Kia Tigers与LG Twins的第二场比赛，比赛于韩国时间下午1:40开始，因此《人气歌谣》本周取消播出。",
-    "extracted_at": "2026-10-18T16:30:36.319630+08:00"
+    "summary_zh": "SBS音乐节目《人气歌谣》10月18日将停播，原因是SBS转播2026年KBO联赛季后赛半决赛起亚虎对LG双子队的第二场比赛，比赛于韩国时间下午1:40开始。",
+    "extracted_at": "2026-10-18T23:18:43.493013+08:00"
   },
   {
     "source_id": "soompi",
@@ -262,17 +409,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《Doctor X》收视率升至18.5%创自身新高，《100天谎言》刷新周六最高纪录",
+    "title_zh": "《Doctor X》收视率升至18.5%创自身新高，《100 Days of Deception》创周六档新高",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "10月17日，SBS《Doctor X》播出第4集，全国平均收视率为18.5%，创下自身最高收视纪录，且每集收视率持续上升。",
-      "tvN《100天谎言》在周六时段创下自身最高收视纪录（原文未提供具体数字）。",
-      "收视数据来源为Nielsen Korea。"
+      "10月17日，SBS《Doctor X》播出的第4集全国平均收视率为18.5%（Nielsen Korea数据），创下该剧自身最高收视纪录，且每集收视率持续上升。",
+      "tvN《100 Days of Deception》在周六档收视率创下新高（原文未提供具体数字）。"
     ],
-    "summary_zh": "据Nielsen Korea数据，10月17日播出的SBS医疗黑色剧《Doctor X》第4集全国平均收视率达到18.5%，刷新自身最高纪录，并保持每集收视上升的势头。同时，tvN剧集《100天谎言》也创下了周六时段的最高收视纪录。",
-    "extracted_at": "2026-10-18T16:30:38.529417+08:00"
+    "summary_zh": "10月17日，SBS医疗黑色剧《Doctor X》第4集全国平均收视率达到18.5%，刷新自身最高纪录，并保持每集收视率上升的势头。同时，tvN《100 Days of Deception》在周六档创下新高。",
+    "extracted_at": "2026-10-18T23:18:45.376501+08:00"
   },
   {
     "source_id": "soompi",
@@ -287,17 +433,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "10月女团个人品牌评价排名公布，RESCENE元熙连续居首",
+    "title_zh": "10月女团个人品牌评价排名公布，RESCENE Woni蝉联榜首",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "韩国企业评价研究所公布10月女团个人品牌评价排名",
-      "排名基于9月18日至10月18日收集的大数据，对735名女团成员进行消费者参与、媒体报道、沟通和社区认知指数分析",
-      "RESCENE成员Woni（元熙）保持榜首位置"
+      "韩国企业评价研究所公布了10月女团个人品牌评价排名",
+      "排名基于9月18日至10月18日收集的大数据，对735名女团成员进行了消费者参与、媒体报道、沟通和社区认知指数的分析",
+      "RESCENE的Woni蝉联榜首（原文以省略号结尾，未提及其他具体排名）"
     ],
-    "summary_zh": "韩国企业评价研究所公布了10月女团个人品牌评价排名。该排名通过分析9月18日至10月18日期间收集的大数据，对735名女团成员的消费者参与、媒体报道、沟通和社区认知指数进行评估。RESCENE成员Woni（元熙）连续位居第一。",
-    "extracted_at": "2026-10-18T16:30:40.649987+08:00"
+    "summary_zh": "韩国企业评价研究所公布了10月女团个人品牌评价排名。该排名通过分析9月18日至10月18日期间收集的大数据，对735名女团成员的消费者参与、媒体报道、沟通和社区认知指数进行评定。RESCENE的Woni蝉联榜首。",
+    "extracted_at": "2026-10-18T23:18:47.050656+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -312,16 +458,15 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "K-Pop新团A2O Lite与A2O Soul正式出道",
+    "title_zh": "K-Pop新人组合A2O Lite与A2O Soul正式出道",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅提及K-Pop新组合A2O Lite与A2O Soul出道，未提供出道日期、所属社、成员构成、出道曲目等具体信息",
-      "原文来源标注为Yahoo，正文无其他可确认事实"
+      "原文仅提及K-Pop新人组合A2O Lite和A2O Soul出道，未提供出道日期、所属社、成员构成、出道曲目等具体信息"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：K-Pop新组合A2O Lite与A2O Soul出道]",
-    "extracted_at": "2026-10-18T16:30:42.211695+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：K-Pop新人组合A2O Lite与A2O Soul正式出道]",
+    "extracted_at": "2026-10-18T23:18:48.440317+08:00"
   },
   {
     "source_id": "soompi",
@@ -342,10 +487,10 @@
     "is_blurred": true,
     "facts_list": [
       "原文为Soompi发布的推荐列表文章，标题为《7 K-Dramas To Watch If You Love Kim Young Kwang》",
-      "原文提及金英光饰演过从浪漫男主到暗黑角色的多种类型，但未列出具体剧名"
+      "原文仅提及金英光饰演过从浪漫男主到暗黑角色的多样人物，但未列出具体剧名或细节"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：如果你喜欢金英光，这里有7部韩剧值得一看]",
-    "extracted_at": "2026-10-18T16:30:44.359943+08:00"
+    "extracted_at": "2026-10-18T23:18:49.786074+08:00"
   },
   {
     "source_id": "soompi",
@@ -360,17 +505,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "温流与Zico合作曲《Tic Tac Toe》获《音乐中心》首个一位，NCT WISH、MEOVV等献舞台",
+    "title_zh": "温流与Zico《Tic Tac Toe》获《音乐中心》首个一位，NCT WISH、MEOVV等献舞台",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "10月17日播出的MBC《音乐中心》中，一位候选为i-dle素妍的《I'm gonna TOESA》、IU的《Unknown Planet》以及温流与Zico的《Tic Tac Toe》",
-      "温流（SHINee）与Zico（Block B）最终凭借合作单曲《Tic Tac Toe》获得该节目一位，这是该曲首个音乐节目奖杯",
+      "10月17日播出的MBC《音乐中心》中，一位候选为i-dle素妍的《I'm gonna TOESA》、IU的《Unknown Planet》、温流与Zico的《Tic Tac Toe》",
+      "温流（SHINee）与Zico（Block B）的合作单曲《Tic Tac Toe》最终获得该节目一位，这是他们此次合作的首个音乐节目奖杯",
       "本期节目还有NCT WISH、MEOVV等艺人带来表演"
     ],
-    "summary_zh": "在10月17日播出的MBC《音乐中心》中，SHINee成员温流与Block B成员Zico的合作单曲《Tic Tac Toe》击败i-dle素妍的《I'm gonna TOESA》和IU的《Unknown Planet》，拿下首个音乐节目一位。本期节目同台献艺的还有NCT WISH、MEOVV等艺人。",
-    "extracted_at": "2026-10-18T16:30:47.253215+08:00"
+    "summary_zh": "在10月17日播出的MBC《音乐中心》中，SHINee温流与Block B Zico的合作单曲《Tic Tac Toe》击败i-dle素妍的《I'm gonna TOESA》和IU的《Unknown Planet》，拿下首个音乐节目一位。本期节目还有NCT WISH、MEOVV等艺人登台表演。",
+    "extracted_at": "2026-10-18T23:18:51.807451+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -385,17 +530,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "VICE报道称防弹少年团未提交格莱美报名，K-Pop业界或集体抵制格莱美",
+    "title_zh": "BTS拒绝提交作品后，K-Pop业界或集体抵制格莱美",
     "source_type": "韩娱",
     "risk_level": "中",
     "is_blurred": true,
     "facts_list": [
-      "VICE发布报道，标题称防弹少年团（BTS）拒绝提交其音乐作品参评格莱美",
-      "VICE标题称整个K-Pop产业可能因此抵制格莱美奖",
-      "原文正文未提供具体时间、地点、具名消息源、报名截止日期或业界机构名称等可核实细节"
+      "原文仅称BTS拒绝提交其音乐作品参评格莱美",
+      "原文称K-Pop业界可能因此抵制格莱美颁奖礼",
+      "原文未提及具体时间、涉及公司、抵制方式或官方声明"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：防弹少年团拒绝提交其音乐作品后，整个K-Pop产业可能抵制格莱美奖]",
-    "extracted_at": "2026-10-18T16:30:48.919219+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：BTS拒绝提交其音乐作品后，整个K-Pop业界可能抵制格莱美。]",
+    "extracted_at": "2026-10-18T23:18:53.322641+08:00"
   },
   {
     "source_id": "asianwiki",
