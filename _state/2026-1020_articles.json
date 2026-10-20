@@ -1,5 +1,634 @@
 [
   {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Jang Hyuk Talks About His Character In “Sword & Silence,” Why He Chose To Star In The Drama, And More",
+    "url": "https://www.soompi.com/article/1879981wpp/jang-hyuk-talks-about-his-character-in-sword-silence-why-he-chose-to-star-in-the-drama-and-more",
+    "content": "Jang Hyuk has shared his thoughts on the upcoming historical drama “Sword &#38; Silence”! Directed by Kim Yeong Jo of “Hwarang: The Poet Warrior Youth,” “Sword &#38; Silence” tells the story of how the small kingdom of Silla overcame the more powerful kingdoms of Goguryeo and Baekje as well as China’s Tang dynasty to unify&#8230; Continue reading Jang Hyuk Talks About His Character In “Sword &#038; Silence,” Why He Chose To Star In The Drama, And More\nThe post Jang Hyuk Talks About His Character In “Sword &#038; Silence,” Why He Chose To Star In The Drama, And More appeared first on Soompi.",
+    "published_at": "1020soompi",
+    "published_ts": 1792486479.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "张赫谈新史剧《剑与沉默》角色及出演理由",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "张赫分享了对即将播出的史剧《剑与沉默》的想法",
+      "《剑与沉默》由《花郎：The Poet Warrior Youth》导演金英祖执导",
+      "剧情讲述小国新罗克服高句丽、百济及中国唐朝等强国统一的故事",
+      "张赫谈及自己的角色、选择出演该剧的原因等"
+    ],
+    "summary_zh": "张赫分享了对新史剧《剑与沉默》的感想。该剧由《花郎》导演金英祖执导，讲述新罗克服高句丽、百济及唐朝等强国实现统一的故事。张赫在采访中谈及自己的角色、选择出演该剧的原因等。",
+    "extracted_at": "2026-10-20T17:05:04.828762+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "3 Relatable Office K-Dramas To Watch If You Liked “The Ordinary Jackpot”",
+    "url": "https://www.soompi.com/article/1879124wpp/3-relatable-office-k-dramas-to-watch-if-you-liked-the-ordinary-jackpot",
+    "content": "Office K-dramas might seem dull to some, but they often offer meaningful lessons and a realistic portrayal of modern work life. “The Ordinary Jackpot” is a great example of this. The story shows how a regular man’s life changes overnight after he wins almost a million dollars; however, his true journey of self-discovery comes not&#8230; Continue reading 3 Relatable Office K-Dramas To Watch If You Liked “The Ordinary Jackpot”\nThe post 3 Relatable Office K-Dramas To Watch If You Liked “The Ordinary Jackpot” appeared first on Soompi.",
+    "published_at": "1020soompi",
+    "published_ts": 1792486429.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "喜欢《平凡的彩票》？推荐3部写实职场韩剧",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文推荐3部职场韩剧，但未列出具体剧名",
+      "提及《The Ordinary Jackpot》剧情：普通男子中奖近百万美元后生活改变，踏上自我发现之旅",
+      "原文来源为Soompi"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：推荐3部写实职场韩剧，适合喜欢《The Ordinary Jackpot》的观众]",
+    "extracted_at": "2026-10-20T17:05:06.440213+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "“Crime Scene Zero” Announces Season 2 With All 5 Original Cast Members Returning",
+    "url": "https://www.soompi.com/article/1880036wpp/crime-scene-zero-announces-season-2-with-all-5-original-cast-members-returning",
+    "content": "The stars of “Crime Scene Zero” are reuniting for a second season! On October 20, Netflix announced that Jang Jin, Park Ji Yoon, Jang Dong Min, Kim Ji Hun, and IVE’s An Yu Jin will all return for “Crime Scene Zero Season 2,” which is set to premiere in 2027. “Crime Scene Zero” is a&#8230; Continue reading “Crime Scene Zero” Announces Season 2 With All 5 Original Cast Members Returning\nThe post “Crime Scene Zero” Announces Season 2 With All 5 Original Cast Members Returning appeared first on Soompi.",
+    "published_at": "1020soompi",
+    "published_ts": 1792484329.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《Crime Scene Zero》第二季定档2027年 原班五人全员回归",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "2025年10月20日，Netflix官方宣布《Crime Scene Zero》第二季将于2027年首播",
+      "第二季回归阵容包括张镇、朴智允、张东民、金智勋、IVE成员安宥真，五位原班人马全员到齐"
+    ],
+    "summary_zh": "Netflix于10月20日正式宣布，《Crime Scene Zero》第二季将于2027年上线，张镇、朴智允、张东民、金智勋、IVE安宥真五位原班成员全部回归。该节目是一档推理综艺，第一季曾于此前播出。",
+    "extracted_at": "2026-10-20T17:05:08.226425+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Jang Gyuri, Bae Jong Ok, And Kim Min Chul Find Themselves Caught In A House Of Secrets In New Horror Thriller Film “My Home”",
+    "url": "https://www.soompi.com/article/1879895wpp/jang-gyuri-bae-jong-ok-and-kim-min-chul-find-themselves-caught-in-a-house-of-secrets-in-new-horror-thriller-film-my-home",
+    "content": "Upcoming horror thriller film “My Home” has unveiled new stills featuring its cast! “My Home” follows Gyu Bin (Jang Gyuri), a college student who moves into a luxury apartment under unusually generous terms and begins experiencing strange events while living with her elegant landlady Geum Rim (Bae Jong Ok). The stills capture cracks slowly emerging&#8230; Continue reading Jang Gyuri, Bae Jong Ok, And Kim Min Chul Find Themselves Caught In A House Of Secrets In New Horror Thriller Film “My Home”\nThe post Jang Gyuri, Bae Jong Ok, And Kim Min Chul Find Themselves Caught In A House Of Secrets In New Horror Thriller Film “My Home” appeared first on Soompi.",
+    "published_at": "1020soompi",
+    "published_ts": 1792484294.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "张圭悧、裴宗玉、金敏哲主演恐怖惊悚片《My Home》首曝剧照",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "电影《My Home》发布主演张圭悧、裴宗玉、金敏哲的新剧照",
+      "张圭悧饰演大学生圭彬，以异常优惠条件入住豪华公寓",
+      "裴宗玉饰演优雅房东金琳，与圭彬同住",
+      "圭彬在公寓中开始经历奇怪事件",
+      "剧照捕捉到逐渐出现的裂痕"
+    ],
+    "summary_zh": "即将上映的恐怖惊悚电影《My Home》公开了新剧照，主演张圭悧、裴宗玉和金敏哲亮相。影片讲述大学生圭彬（张圭悧 饰）以异常优惠的条件入住豪华公寓，与优雅的房东金琳（裴宗玉 饰）同住后开始经历奇怪事件。剧照中展现了逐渐出现的裂痕，暗示公寓中隐藏的秘密。",
+    "extracted_at": "2026-10-20T17:05:10.060840+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "\"KPop Demon Hunters\" star EJAE has tied the knot with Samuel Kim in Seoul, South Korea, a report by Vogue confirmed. Link to full story in the comments section. - Facebook",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ0Nsell4Yk8tN0VVcFQxRGNDRkFCZlFEV0wxdUh6S01icjNEZ0w3WkNWbEdIZ2tTM0dUNWFFdFpvUk90UVJNUTU5SGJIeEozU2lLVGRTck9HZ0haZFBLclNqRVdCLTZ4TndpdHNtQ0Y2NFRfZjRVbm5GN3JaZ1RlU05xbk5kTVZQYmYzWHNEZnJVOFZMV2J6SG5qTUdndExQUzVpTmd6WnRFOGNxOE5JX3hBVkc0Mzdmd2xPOC1GaEtVcGdBYmZpUDR5T2JvYmNOb014NTktYw?oc=5",
+    "content": "\"KPop Demon Hunters\" star EJAE has tied the knot with Samuel Kim in Seoul, South Korea, a report by Vogue confirmed. Link to full story in the comments section. Facebook",
+    "published_at": "1020google-kpop",
+    "published_ts": 1792482423.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《KPop Demon Hunters》主演EJAE与Samuel Kim在首尔结婚",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "据《Vogue》报道确认，EJAE与Samuel Kim在韩国首尔举行了婚礼。",
+      "EJAE是《KPop Demon Hunters》的主演。"
+    ],
+    "summary_zh": "据《Vogue》报道确认，《KPop Demon Hunters》主演EJAE与Samuel Kim在韩国首尔结婚。报道未提供婚礼具体日期、地点或其他细节。",
+    "extracted_at": "2026-10-20T17:05:11.410239+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kim So Hyun And Choo Young Woo Struggle To See Eye To Eye In “Between Steps”",
+    "url": "https://www.soompi.com/article/1880016wpp/kim-so-hyun-and-choo-young-woo-struggle-to-see-eye-to-eye-in-between-steps",
+    "content": "“Between Steps” has unveiled new stills ahead of its upcoming episode! “Between Steps” is a romance drama by the late director Ahn Pan Seok, who helmed the hit dramas “Something in the Rain,” “One Spring Night,” and “The Midnight Romance in Hagwon.” The drama tells the love story of Park Min Jae (Choo Young Woo),&#8230; Continue reading Kim So Hyun And Choo Young Woo Struggle To See Eye To Eye In “Between Steps”\nThe post Kim So Hyun And Choo Young Woo Struggle To See Eye To Eye In “Between Steps” appeared first on Soompi.",
+    "published_at": "1020soompi",
+    "published_ts": 1792481026.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "金所泫与秋英宇在《Between Steps》中意见不合，新剧照公开",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "《Between Steps》是一部爱情剧，由已故导演安畔锡执导，他曾执导《经常请吃饭的漂亮姐姐》、《春夜》和《毕业》等热门剧集。",
+      "该剧讲述了朴敏宰（秋英宇 饰）的爱情故事。",
+      "制作方公开了即将播出剧集的新剧照，展示了金所泫和秋英宇角色之间意见不合的场景。"
+    ],
+    "summary_zh": "韩剧《Between Steps》公开了新剧照，主演金所泫和秋英宇在剧中角色出现意见分歧。该剧由已故导演安畔锡执导，他曾执导《经常请吃饭的漂亮姐姐》、《春夜》等作品，剧情围绕朴敏宰（秋英宇 饰）的爱情故事展开。",
+    "extracted_at": "2026-10-20T17:05:13.329540+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Dreamy moments from KPop Demon Hunters hitmaker EJAE's wedding - t2ONLINE",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOERIbWhkUFFfZzhYN0ZLeVZqTFZDZ2VrS09ZLUd2UGFqSmhna1JIZTJUYzd5cEVFVFJ2OG1FZTQwU1VpLTR2aW1FZmpQVW12cXdxVHEtNkdDRUZMX3B3NkExZjVObW9UMHk2cHV1VUNmeE5MR3BiTFlmanpEc3g4TVVUSHFsR215ZzU2R3pqUnFveTdoNThydEZGVE5YWXRwSjE5UA?oc=5",
+    "content": "Dreamy moments from KPop Demon Hunters hitmaker EJAE's wedding t2ONLINE",
+    "published_at": "1020google-kpop",
+    "published_ts": 1792480440.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《KPop Demon Hunters》主创EJAE婚礼梦幻瞬间曝光",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及EJAE为《KPop Demon Hunters》的hitmaker（热门歌曲创作者），并曝光其婚礼的梦幻瞬间",
+      "原文未提及婚礼的具体时间、地点、出席人员或任何其他细节"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：曝光《KPop Demon Hunters》热门歌曲创作者EJAE婚礼的梦幻瞬间]",
+    "extracted_at": "2026-10-20T17:05:14.730597+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Sung Hoon Has A Strained Relationship With His Family In New Drama “What A Boss Wants”",
+    "url": "https://www.soompi.com/article/1879928wpp/sung-hoon-has-a-strained-relationship-with-his-family-in-new-drama-what-a-boss-wants",
+    "content": "“What a Boss Wants” has unveiled new stills featuring its cast! Based on a web novel, “What a Boss Wants” is a romance drama about Kwon Do Hyuk (Sung Hoon), a chaebol boss with no sense of taste who sets out to find the woman whose voice he heard on an album, and Lee Eun&#8230; Continue reading Sung Hoon Has A Strained Relationship With His Family In New Drama “What A Boss Wants”\nThe post Sung Hoon Has A Strained Relationship With His Family In New Drama “What A Boss Wants” appeared first on Soompi.",
+    "published_at": "1020soompi",
+    "published_ts": 1792479258.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "成勋新剧《What A Boss Wants》剧照公开 与家人关系紧张",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "成勋在新剧《What A Boss Wants》中饰演财阀老板权道赫（Kwon Do Hyuk）",
+      "权道赫是一个没有味觉的财阀老板，他寻找在专辑中听到声音的女人",
+      "该剧改编自网络小说，是一部浪漫爱情剧",
+      "新公开的剧照展示了成勋与家人关系紧张的场景"
+    ],
+    "summary_zh": "韩剧《What A Boss Wants》公开了主演成勋的新剧照。该剧改编自网络小说，是一部浪漫爱情剧，成勋饰演财阀老板权道赫，他没有味觉，并寻找在专辑中听到声音的女人。新剧照展示了权道赫与家人关系紧张的情景。",
+    "extracted_at": "2026-10-20T17:05:16.261274+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Seol In Ah Takes On All Sorts Of Peculiar Tasks For Yim Si Wan In “Love In Disguise”",
+    "url": "https://www.soompi.com/article/1879991wpp/seol-in-ah-takes-on-all-sorts-of-peculiar-tasks-for-yim-si-wan-in-love-in-disguise",
+    "content": "Seol In Ah will officially begin her undercover assignment in tonight’s episode of “Love in Disguise”! “Love in Disguise” is a romance thriller drama about Yoon Yi Jun (Yim Si Wan), an arrogant chaebol heir who becomes a murder suspect, and Kang Jae Hee (Seol In Ah), a former special forces officer who goes undercover&#8230; Continue reading Seol In Ah Takes On All Sorts Of Peculiar Tasks For Yim Si Wan In “Love In Disguise”\nThe post Seol In Ah Takes On All Sorts Of Peculiar Tasks For Yim Si Wan In “Love In Disguise” appeared first on Soompi.",
+    "published_at": "1020soompi",
+    "published_ts": 1792478350.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "薛仁雅在《Love in Disguise》中为任时完执行各种奇特任务",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "剧集《Love in Disguise》是一部浪漫惊悚剧，讲述傲慢的财阀继承人尹伊俊（任时完 饰）成为谋杀嫌疑人，以及前特种部队军官姜在熙（薛仁雅 饰）进行卧底的故事。",
+      "薛仁雅将在今晚播出的剧集中正式开始她的卧底任务。"
+    ],
+    "summary_zh": "韩剧《Love in Disguise》今晚播出新一集，薛仁雅饰演的前特种部队军官姜在熙将正式开始卧底任务，为任时完饰演的财阀继承人尹伊俊执行各种奇特任务。该剧是一部浪漫惊悚剧，围绕成为谋杀嫌疑人的尹伊俊和卧底姜在熙展开。",
+    "extracted_at": "2026-10-20T17:05:18.386756+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-pop godfather returns with new idol group A2O LITE, fusing AI with signature style - KED Global",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtWGpZQ09SQ0M4YW8yQTNjcG0yWVJPek1LeFcxcXJCX1UwdUJPVkY5MENUUjByTDhaTFNRaHNWN0lyOExWY3RiU0VJVENnVnpsYkhJRlRxaEo4aEd4Z0J5T1lRblR4S1k?oc=5",
+    "content": "K-pop godfather returns with new idol group A2O LITE, fusing AI with signature style KED Global",
+    "published_at": "1020google-kpop",
+    "published_ts": 1792478301.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "K-pop教父李秀满推出新女团A2O LITE，融合AI与标志性风格",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及K-pop教父（李秀满）回归并推出新偶像组合A2O LITE",
+      "原文称该组合融合AI与（其）标志性风格",
+      "原文未提供出道时间、成员构成、所属公司、具体AI技术应用等细节"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：K-pop教父携新偶像组合A2O LITE回归，将AI与其标志性风格相融合]",
+    "extracted_at": "2026-10-20T17:05:19.930152+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Tempest to end group activities four years after debut - Korea JoongAng Daily",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRl9VV0VfWGVtT18yM1U0WXozVFl4c2dJMUhOcmtRdUpXYk5BeVRmUDRwVkFHSlRzUHlraE93OW5IVXNqRlRPQmlVTEtVMzAwZEFRSkZMa0pub1Y5UmVnNU5RXzRVc0lLVE0yT28xeWRTaEd1dENlb0w1NWx1OHpqSUhGUWlFX2xIRmcyYmZ2M0U0ZDRDczYxQ09Qcl80RU5ZajZ5LWFxbkZENWx1ckNoMWFn?oc=5",
+    "content": "Tempest to end group activities four years after debut Korea JoongAng Daily",
+    "published_at": "1020google-kpop",
+    "published_ts": 1792477985.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "男团Tempest出道四年后宣布结束组合活动",
+    "source_type": "韩娱",
+    "risk_level": "中",
+    "is_blurred": false,
+    "facts_list": [
+      "主体：男团Tempest",
+      "事件：宣布结束组合活动",
+      "时间节点：出道四年后",
+      "消息来源：Korea JoongAng Daily报道"
+    ],
+    "summary_zh": "据Korea JoongAng Daily报道，男团Tempest在出道四年后宣布结束组合活动。原文未提及具体解散原因、所属社官方声明内容及后续成员个人发展安排。",
+    "extracted_at": "2026-10-20T17:05:21.155665+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kim Min Ha, Joo Jong Hyuk, Han Sun Hwa, Chang Ryul, And More Cross Paths At A Cafe In New Film “The Table: Day And Night”",
+    "url": "https://www.soompi.com/article/1879959wpp/kim-min-ha-joo-jong-hyuk-han-sun-hwa-chang-ryul-and-more-cross-paths-at-a-cafe-in-new-film-the-table-day-and-night",
+    "content": "Upcoming film &#8220;The Table: Day and Night&#8221; has shared a sneak peek of the characters&#8217; relationships! Set during the transition from summer to fall, “The Table: Day and Night” captures the witty, understated, and charming conversations shared by four pairs of men and women who cross paths at the same cafe. The film follows the&#8230; Continue reading Kim Min Ha, Joo Jong Hyuk, Han Sun Hwa, Chang Ryul, And More Cross Paths At A Cafe In New Film &#8220;The Table: Day And Night&#8221;\nThe post Kim Min Ha, Joo Jong Hyuk, Han Sun Hwa, Chang Ryul, And More Cross Paths At A Cafe In New Film &#8220;The Table: Day And Night&#8221; appeared first on Soompi.",
+    "published_at": "1020soompi",
+    "published_ts": 1792477460.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "金敏荷、朱钟赫、韩善花、张栗等主演新片《The Table: Day and Night》公开剧照",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "电影《The Table: Day and Night》背景设定在夏末秋初",
+      "影片讲述四对男女在同一家咖啡店相遇，展开机智、含蓄而迷人的对话",
+      "主演包括金敏荷、朱钟赫、韩善花、张栗等",
+      "影片公开了角色关系的剧照"
+    ],
+    "summary_zh": "即将上映的电影《The Table: Day and Night》公开了角色剧照。影片以夏末秋初为背景，讲述四对男女在同一家咖啡店相遇，展开机智、含蓄而迷人的对话。主演包括金敏荷、朱钟赫、韩善花、张栗等。",
+    "extracted_at": "2026-10-20T17:05:23.182023+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Lee Joon Gi Refuses To Join Forces With Sakaguchi Kentaro In “kiDnap GAME”",
+    "url": "https://www.soompi.com/article/1879859wpp/lee-joon-gi-refuses-to-join-forces-with-sakaguchi-kentaro-in-kidnap-game",
+    "content": "“kiDnap GAME” has unveiled new stills ahead of its upcoming episode! “kiDnap GAME” is a thriller centered on an unprecedented kidnapping case that unfolds simultaneously across seven Asian cities: Seoul, Tokyo, Taipei, Singapore, Bangkok, Naha, and Manila. The story follows seven individuals who are each given different missions and forced into a deadly survival game,&#8230; Continue reading Lee Joon Gi Refuses To Join Forces With Sakaguchi Kentaro In “kiDnap GAME”\nThe post Lee Joon Gi Refuses To Join Forces With Sakaguchi Kentaro In “kiDnap GAME” appeared first on Soompi.",
+    "published_at": "1020soompi",
+    "published_ts": 1792476471.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "李准基拒绝与坂口健太郎联手 《kiDnap GAME》新剧照曝光",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "剧集《kiDnap GAME》是一部惊悚剧，围绕在首尔、东京、台北、新加坡、曼谷、那霸和马尼拉七个亚洲城市同时发生的前所未有的绑架案展开。",
+      "故事讲述七个人各自被赋予不同任务，被迫参与一场致命的生存游戏。",
+      "李准基在剧中拒绝与坂口健太郎联手。",
+      "制作方公开了即将播出剧集的新剧照。"
+    ],
+    "summary_zh": "《kiDnap GAME》是一部以亚洲七城同步绑架案为背景的惊悚剧，讲述七名角色被赋予不同任务并被迫参与致命生存游戏的故事。最新公开的剧照显示李准基饰演的角色拒绝与坂口健太郎饰演的角色联手，为即将播出的剧情增添紧张感。",
+    "extracted_at": "2026-10-20T17:05:25.146823+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "A2O Lite’s strong start tests whether Lee Soo-man’s K-pop formula still works - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wd0szd1RGSUs3TjRKbk50TlVwZzV3bU1Val9CdWZKUXZaY21sNkZDX0lSVzZHSWZqQUMwZXU2b1p0bzdGZWVMczZ1ZzZJTng4Sm5RWlhXNA?oc=5",
+    "content": "A2O Lite’s strong start tests whether Lee Soo-man’s K-pop formula still works The Korea Herald",
+    "published_at": "1020google-kpop",
+    "published_ts": 1792476268.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "A2O Lite 强势出道，检验李秀满 K-pop 造星公式是否仍奏效",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及 A2O Lite 取得强势开局（strong start），未给出具体榜单排名、销量数字或日期",
+      "原文仅提及该组合与李秀满（Lee Soo-man）的 K-pop 造星公式相关，未说明其所属社、成员构成或出道作品",
+      "原文来源为《The Korea Herald》，正文未提供更多可核实细节"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：A2O Lite 的强势开局正在检验李秀满的 K-pop 造星公式是否仍然奏效]",
+    "extracted_at": "2026-10-20T17:05:27.013335+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Ahn Hyo Seop Is Determined To Help Hong Hwa Yeon Achieve Victory In “Final Table” Teaser",
+    "url": "https://www.soompi.com/article/1879929wpp/watch-ahn-hyo-seop-is-determined-to-help-hong-hwa-yeon-achieve-victory-in-final-table-teaser",
+    "content": "The upcoming drama “Final Table” has released a new teaser! “Final Table” follows talented Korean chefs from around the world as they gather to compete in “The Table: K-Chef 2026,” a high-stakes cooking competition to determine the best Korean chef. The newly released teaser reveals how Kang Han (Ahn Hyo Seop) and Choi Song Yi&#8230; Continue reading Watch: Ahn Hyo Seop Is Determined To Help Hong Hwa Yeon Achieve Victory In “Final Table” Teaser\nThe post Watch: Ahn Hyo Seop Is Determined To Help Hong Hwa Yeon Achieve Victory In “Final Table” Teaser appeared first on Soompi.",
+    "published_at": "1020soompi",
+    "published_ts": 1792475635.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "安孝燮新剧《Final Table》预告：决心助洪华妍取胜",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "新剧《Final Table》发布新预告",
+      "剧情围绕全球韩裔厨师齐聚‘The Table: K-Chef 2026’烹饪大赛争夺最佳韩裔厨师展开",
+      "预告片中揭示了姜汉（安孝燮 饰）与崔松伊（音译）的角色动态",
+      "安孝燮饰演的姜汉决心帮助洪华妍取得胜利"
+    ],
+    "summary_zh": "新剧《Final Table》公开最新预告。该剧讲述全球韩裔厨师齐聚‘The Table: K-Chef 2026’烹饪大赛，角逐最佳韩裔厨师称号。预告片中，安孝燮饰演的姜汉决心帮助洪华妍取得胜利，同时揭示了姜汉与崔松伊（音译）之间的角色互动。",
+    "extracted_at": "2026-10-20T17:05:29.272265+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "KPop Demon Hunters singer EJAE marries longtime partner Sam Kim in Seoul - Kursiv Media Узбекистан",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaTRkSElsWFpoTkhtcElvSUhkMjlUYmE5eW1DN2xpaFZMVkcxVHY1WlRiUVVoVjJkQzJMVFlCcUZvVTgzVkFCUHVMbzFOdjdaTGJNYW52bUN0ai15bDNWU1d4cjdkUWtmYV9yOEl4dUlNU2lvblFmRk01b0tWbkhNWWg0QjdfcHVvSksySXZtZWZfSkZiTEhyc05zZllyZ1BZRzFJLV9PdFNjeTFKcHZQcA?oc=5",
+    "content": "KPop Demon Hunters singer EJAE marries longtime partner Sam Kim in Seoul Kursiv Media Узбекистан",
+    "published_at": "1020google-kpop",
+    "published_ts": 1792475103.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《KPop Demon Hunters》歌手EJAE在首尔与长期伴侣Sam Kim结婚",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "事件主体：歌手EJAE（《KPop Demon Hunters》演唱者）与长期伴侣Sam Kim",
+      "事件动作：两人在首尔举行婚礼",
+      "原文未提及：婚礼具体日期、地点细节、宾客名单及所属社回应"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：歌手EJAE与长期伴侣Sam Kim在首尔结婚]",
+    "extracted_at": "2026-10-20T17:05:30.569183+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-Pop Group Tempest Disbands After Four Years, Several Members Go Solo - Forbes",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTUxUdGVlSlBLODlxMDBjRXItdDJwQS1HREIxeFBsNldiNjdSNmI1c3hVamlaRUoybkJOOFV5MzBfeGswTXNOMzVHN1FWSTBwcDEtTElHRUt4YVlyeVNsbC1oS1NSaHg5c0ZGSXhyc3dwLVlraDVoeUl0ak9UZF9kanJWWERWU3BvM05SSUphbC05d3RnVG54UWlLbGZmLUtJVS01amVtcWY2YnZrTWRXLU5vZWpGNnlPdVRmNkFMRkxvUQ?oc=5",
+    "content": "K-Pop Group Tempest Disbands After Four Years, Several Members Go Solo Forbes",
+    "published_at": "1020google-kpop",
+    "published_ts": 1792475088.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "K-Pop组合TEMPEST出道四年后解散，多名成员转个人发展",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "福布斯报道：K-Pop组合TEMPEST在出道四年后宣布解散",
+      "多名成员将转向个人发展（solo）活动"
+    ],
+    "summary_zh": "据福布斯报道，K-Pop组合TEMPEST在出道四年后解散，多名成员将转为个人发展。原文未提及解散的具体原因、所属社官方声明及成员后续签约细节。",
+    "extracted_at": "2026-10-20T17:05:31.817554+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "EJAE marries music producer Sam Kim in dreamy Korean ceremony; 'KPop Demon Hunters' stars Andrew Choi, Re - The Times of India",
+    "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOcFdieFNHcExERDQ0cHFkdVhBc05YTnRiTmxzQlpZSVY4OGM3djl1MVRsSGVIbHZCbUJzcXFobGFNV0tzTDBVR183d0ZQU3NScmRPUllYWWxGUHFmSTI3WU1BaDFBdkJsR1NtN1FMeE1CWUI2NU9sQ2ZRX21LVXo3eUVVTkFKcEhTOUZITUZLMXhJMUFFTzVGd01IZjY3dVYyQ2xxQUd4dHZLRzZtN3p1OEtXUjVYMEY0bUxyYXUzbmFnWW1LVkFlWnEyZ3B2VkRjbFNUOUNSWE1FbjlGakFWc1UyZ3ZuTU1vRmlDRnRKYkY4dVY0aFRfckw5TnFJQ0dyR3JjSlQ2RW5vLXZEMmlqTTI4QkVkVzkwcDdWOTZlWEN2YUc4VUtDWEhTTkduTEVhdUV4dlRKd0JqVUxjZnVadkJsalZzS19WRFNac3d5aW43TDjSAdgCQVVfeXFMTlM2aER1TXg3b2QzaDQxMTFWX0FXREZKU2lNWU5RTHdvZmxWMWJIQUhTYUptMGc3TnFCUFpUZk9mZUMyVzhqQmdHQURoVXBhRjF5N3NuMGpWYzkyY3VLUzB2Q0xMcjdrcHZfU0ozdEcya3BSU0o3aWt0dmx5WnYxd0xxQTFvUDd0R3ZsTk5mRTZIazh2eGc0MmQyZk5hNHlMUm1vTFgyZnQxTWI0QnZFOVZXRW5mV0FEUklOSGVvc2FXWEtObm9tZmctNWs3TFZ3cnpaRlp1dnFxWUpIRXQ5ZVgxQ2xVM3lyeG83VU5GZzJ5SVRPaVNnaWIxUUNNbU9LTlJRMzZDQTd5cXJzV2tnRm44Vlgzdnk1ZFpoN3lpeXJsZVY4V2F4ajh6cHVESUtnbVByYnJYTFZSazktUkNZSEpGclR4TzdfTVc5cmdmZmx3WEhQRW83VGI?oc=5",
+    "content": "EJAE marries music producer Sam Kim in dreamy Korean ceremony; 'KPop Demon Hunters' stars Andrew Choi, Re The Times of India",
+    "published_at": "1020google-kpop",
+    "published_ts": 1792474560.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "EJAE与音乐制作人Sam Kim举行韩式婚礼，《KPop Demon Hunters》主演Andrew Choi等出席",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "EJAE与音乐制作人Sam Kim举行婚礼，仪式为韩式风格",
+      "《KPop Demon Hunters》主演Andrew Choi出席婚礼",
+      "原文提及另一位出席者Re，但信息不完整"
+    ],
+    "summary_zh": "据《印度时报》报道，EJAE与音乐制作人Sam Kim举行了一场韩式婚礼。《KPop Demon Hunters》主演Andrew Choi等出席。原文仅提供标题信息，未披露婚礼具体日期、地点及更多细节。",
+    "extracted_at": "2026-10-20T17:05:33.432089+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Joo Jong Hyuk, Han Ye Ji, Jung Da Bin, And More To Join 2026 KBS Drama Special “Sound:Track”",
+    "url": "https://www.soompi.com/article/1879870wpp/joo-jong-hyuk-han-ye-ji-jung-da-bin-and-more-to-join-2026-kbs-drama-special-soundtrack",
+    "content": "Joo Jong Hyuk, Park Yu Rim, Seo Su Bin, Han Ye Ji, and Jung Da Bin will star in the 2026 KBS Drama Special “Sound:Track” (literal title)! “Sound:Track” is an anthology project featuring eight standalone dramas that explore love, breakups, and personal growth through music encountered in everyday life. Following the announcement of the casts&#8230; Continue reading Joo Jong Hyuk, Han Ye Ji, Jung Da Bin, And More To Join 2026 KBS Drama Special “Sound:Track”\nThe post Joo Jong Hyuk, Han Ye Ji, Jung Da Bin, And More To Join 2026 KBS Drama Special “Sound:Track” appeared first on Soompi.",
+    "published_at": "1020soompi",
+    "published_ts": 1792473556.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "朱钟赫、韩艺智、郑多彬等确认出演2026年KBS电视剧特辑《Sound:Track》",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "朱钟赫、朴裕林、徐秀彬、韩艺智、郑多彬将出演2026年KBS电视剧特辑《Sound:Track》（直译名）。",
+      "《Sound:Track》是一个选集项目，包含八部独立剧集，通过日常生活中遇到的音乐探索爱情、分手和个人成长。",
+      "该剧集的演员阵容在公告后陆续公布。"
+    ],
+    "summary_zh": "朱钟赫、朴裕林、徐秀彬、韩艺智、郑多彬确认出演2026年KBS电视剧特辑《Sound:Track》。该剧为选集项目，由八部独立剧集组成，以音乐为线索探讨爱情、分手与个人成长。更多演员阵容将陆续公开。",
+    "extracted_at": "2026-10-20T17:05:35.368125+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Illit's 'Magnetic' becomes fastest debut song by K-pop group to reach 900 mil. streams - The Korea Times",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRjd6M0FSZ0pxYUQtQWY2S1dncVVZRGpPcHRrekJYRmRXNi1lQlZBM2tLTGJfQW1laG1EWHZ1Y1RtVUprME93enlfOFUzMS11bEhTOHdJXzE5QVNwU0VDM1J6ZUxOdlljN1NPbEpHUy1sSUNSNVVaMDZESFAxWno2c2ZYVmY5RmhfVk45cXhZbHoyYjBjZXJGeFhncE1xMlhXYTBHUzJOUjFtSU1VWlp5Um9jZElxdTNZcGJVYVZRSTR3NE5tVWNUdklKSW9DSk0tNlRLUUVja9IB3AFBVV95cUxPbUc3WmRRYk50ZjFXM0FSWHl6YmhCd2ItRk5KVUZyQ3JFTFpESkk1WEQ1d0RIWVZOY21oLVd5YjVVNUFzd0IzZEFyTjFUQkVHclMwcDhhVzNNc3dfX1pGTGVSNXRnbmtsOENicE1OdkJsS3JLS3VLbGdad0hSNG02MGxXOUdCTmZ2U1BFV2lwVkc3OFFOZTNkTUJSLTYwZE93UFhjSEhGQkZLQVBhUTJmMklJTG83aTVfek9nYmpRY1VoN1FSZWVsYkY2WHV1dmFhNXNNOGMwbjRVWWRI?oc=5",
+    "content": "Illit's 'Magnetic' becomes fastest debut song by K-pop group to reach 900 mil. streams The Korea Times",
+    "published_at": "1020google-kpop",
+    "published_ts": 1792473486.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Illit《Magnetic》创K-pop组合出道曲最快破9亿流媒体纪录",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Illit的出道曲《Magnetic》在流媒体平台累计播放量突破9亿次",
+      "《Magnetic》成为K-pop组合出道曲中达到9亿流媒体播放量速度最快的一首",
+      "消息来源为《The Korea Times》报道"
+    ],
+    "summary_zh": "据《The Korea Times》报道，Illit的出道曲《Magnetic》流媒体累计播放量已突破9亿次，成为K-pop组合出道曲中达到该播放量速度最快的一首。",
+    "extracted_at": "2026-10-20T17:05:36.971233+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kim Hee Sun And Go Soo In Talks To Reunite In New Drama",
+    "url": "https://www.soompi.com/article/1879889wpp/kim-hee-sun-and-go-soo-in-talks-to-reunite-in-new-drama",
+    "content": "Kim Hee Sun and Go Soo may be reuniting for the first time in 23 years in a new drama! On October 20, a media outlet reported that Kim Hee Sun and Go Soo will star in the new MBC drama &#8220;The Wife&#8221; (literal title). In response to the report, Kim Hee Sun&#8217;s agency Hinge&#8230; Continue reading Kim Hee Sun And Go Soo In Talks To Reunite In New Drama\nThe post Kim Hee Sun And Go Soo In Talks To Reunite In New Drama appeared first on Soompi.",
+    "published_at": "1020soompi",
+    "published_ts": 1792472561.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "金喜善与高洙洽谈出演MBC新剧《The Wife》，时隔23年再合作",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "2025年10月20日，有媒体报道金喜善与高洙将出演MBC新剧《The Wife》（直译名）",
+      "金喜善所属社Hinge娱乐回应称正在洽谈中",
+      "若确定出演，这将是两人继2002年《纯真年代》后时隔23年再次合作"
+    ],
+    "summary_zh": "10月20日有媒体报道，金喜善与高洙将共同出演MBC新剧《The Wife》（直译名）。金喜善所属社Hinge娱乐随后回应称，正在就出演事宜进行洽谈。若最终确定，这将是两人自2002年《纯真年代》后时隔23年再度合作。",
+    "extracted_at": "2026-10-20T17:05:38.876017+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "“Happy Anding” Announces Broadcast Schedule Change With New Poster",
+    "url": "https://www.soompi.com/article/1879923wpp/happy-anding-announces-broadcast-schedule-change-with-new-poster",
+    "content": "tvN’s upcoming drama “Happy Anding” has unveiled a new broadcast date with a new poster! On October 20, tvN released a poster and announced that the drama, originally scheduled to premiere on November 6 in the Friday-Saturday time slot, has been moved to the Wednesday-Thursday time slot. It will premiere on November 11 at 10:50&#8230; Continue reading “Happy Anding” Announces Broadcast Schedule Change With New Poster\nThe post “Happy Anding” Announces Broadcast Schedule Change With New Poster appeared first on Soompi.",
+    "published_at": "1020soompi",
+    "published_ts": 1792472188.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "tvN新剧《Happy Anding》改档：11月11日周三周四首播",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "时间：10月20日",
+      "主体：tvN",
+      "动作：发布新海报并宣布播出档期调整",
+      "原定档期：11月6日周五周六档首播",
+      "调整后档期：改为周三周四档，11月11日22:50首播"
+    ],
+    "summary_zh": "tvN于10月20日发布新海报，并宣布原定11月6日在周五周六档首播的电视剧《Happy Anding》调整至周三周四档，将于11月11日22:50首播。",
+    "extracted_at": "2026-10-20T17:05:40.595831+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Inside EJAE's Seoul wedding: 'KPop Demon Hunters' singer unveils bridal photos - The Korea Times",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTGZpNDgyUWFUYkRXczNtcTlGQjlCc200ZG9JNkw4MlA1a2JHRVEwRk1FcGdnZ0psN3g4UDZxU0E2UEo1N0UxMkZYUmRyVFliOHNPdGNFMlZHYUo2OEp1YTVaZmNrNWFyMnVLbEszSEdObmxPQlNBakNzNmVWSUtRZzJFZXVSVTR3WkFFOUdUUFlHYzNEWDBvLXJVWlowc2FTUTU4aVlPc1ZFMjFnU3FXTWgwek9Tdks3ZlFlczBFckxFMmJJ0gHKAUFVX3lxTE80dUNobHRJeDlySnRXeTd6NkNJaGI3X1NoMm5TQUpBdlJ5ZlE2UUlYd0xzNUFkVTlpUUhmUUd3VExPbWV4Z01ob2pwNmxDbXRkTEJPenJUVy1kOURqYTlyazFVR3hTd2tkcDlILVd2X2llLUc4eE9lbHVITjNGZGhndU8xZmVDZUpSX1hiT2RwWWtBVXdheXo4bjBfZFhMOGVkem1jVllDQlVCbGp5aERBcXd0QXF2ZU13SUZJdWxxVUxyT3N0SkJkV1E?oc=5",
+    "content": "Inside EJAE's Seoul wedding: 'KPop Demon Hunters' singer unveils bridal photos The Korea Times",
+    "published_at": "1020google-kpop",
+    "published_ts": 1792471262.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《KPop Demon Hunters》歌手EJAE公开首尔婚礼婚纱照",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及EJAE为《KPop Demon Hunters》歌手，并公开了在首尔举行的婚礼的婚纱照",
+      "原文未提及婚礼具体日期、地点细节、宾客名单或其他具体事实"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：EJAE公开了其在首尔举行婚礼的婚纱照]",
+    "extracted_at": "2026-10-20T17:05:42.205252+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "‘KPop Demon Hunters’ Star EJAE Marries Longtime Fiancé Sam Kim - People.com",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZGV4Z2ptVW9TY19NS1FmMTRxcnN0VWxZcXQwVnZRMjQ1QjdBTExERmV1Z0tZNWhuYTBOMWN6dF9EWlpfOUdKZzlkSFdLenVuMHpNQ25kTU1OTlprMjZUTXpnQW1jakRlUGtmenRPUnZZRGl2NEhwOEFJdmhjY3htU2hlMnhVbWQzLUVKejRnMzBrdw?oc=5",
+    "content": "‘KPop Demon Hunters’ Star EJAE Marries Longtime Fiancé Sam Kim People.com",
+    "published_at": "1020google-kpop",
+    "published_ts": 1792470255.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《KPop Demon Hunters》主演EJAE与长期未婚夫Sam Kim结婚",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及EJAE与长期未婚夫Sam Kim结婚，未提供婚礼时间、地点、出席人员等具体细节",
+      "原文来源为People.com"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：EJAE与长期未婚夫Sam Kim结婚]",
+    "extracted_at": "2026-10-20T17:05:43.473728+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "TEMPEST Announces Disbandment",
+    "url": "https://www.soompi.com/article/1879908wpp/tempest-announces-disbandment",
+    "content": "TEMPEST is ending their activities as a group. On October 20, the group&#8217;s agency YH Entertainment announced that Hyuk will be enlisting in the military, while Lew is leaving the agency. Hanbin, Hyeongseop, Eunchan, and Taerae will continue together with the agency but pursue individual activities. Read the full statement: Hello. This is YH Entertainment.&#8230; Continue reading TEMPEST Announces Disbandment\nThe post TEMPEST Announces Disbandment appeared first on Soompi.",
+    "published_at": "1020soompi",
+    "published_ts": 1792466332.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "TEMPEST宣布解散：赫入伍、Lew解约，其余四人留社发展个人活动",
+    "source_type": "韩娱",
+    "risk_level": "中",
+    "is_blurred": false,
+    "facts_list": [
+      "2025年10月20日，TEMPEST所属社YH Entertainment发布官方声明宣布组合解散。",
+      "成员赫（Hyuk）将入伍服役。",
+      "成员Lew将离开YH Entertainment。",
+      "成员Hanbin、Hyeongseop、Eunchan、Taerae将继续留在YH Entertainment，但转为个人活动。"
+    ],
+    "summary_zh": "10月20日，YH Entertainment通过官方声明宣布旗下男团TEMPEST解散。声明指出，成员赫将入伍服役，Lew将离开公司，而Hanbin、Hyeongseop、Eunchan、Taerae四人将继续留在公司，但各自开展个人活动。",
+    "extracted_at": "2026-10-20T17:05:45.511911+08:00"
+  },
+  {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
@@ -18,11 +647,11 @@
     "is_blurred": false,
     "facts_list": [
       "歌手EJAE因参与《KPop Demon Hunters》而为人所知",
-      "EJAE与制作人Samuel Kim结婚",
+      "EJAE与制作人Samuel Kim举行婚礼",
       "婚礼地点为EJAE祖父位于首尔的旧居"
     ],
-    "summary_zh": "据Resonate Voices报道，参与《KPop Demon Hunters》的歌手EJAE与制作人Samuel Kim举行婚礼，婚礼地点选在EJAE祖父位于首尔的旧居。原文未提及婚礼具体日期、出席嘉宾及其他细节。",
-    "extracted_at": "2026-10-20T11:11:23.724712+08:00"
+    "summary_zh": "据Resonate Voices报道，参与《KPop Demon Hunters》的歌手EJAE与制作人Samuel Kim举行婚礼，婚礼地点选在EJAE祖父位于首尔的旧居。原文仅提及婚礼与场地信息，未披露婚礼日期、出席嘉宾或其他细节。",
+    "extracted_at": "2026-10-20T17:05:47.248816+08:00"
   },
   {
     "source_id": "soompi",
@@ -44,11 +673,11 @@
     "facts_list": [
       "时间：10月20日",
       "主体：金唱片奖主办方HLL",
-      "动作：宣布成始璄和文佳煐被选为第41届金唱片奖MC",
+      "动作：宣布成始璄与文佳煐被选为第41届金唱片奖MC",
       "补充：两人将再次展现默契配合"
     ],
-    "summary_zh": "10月20日，金唱片奖主办方HLL宣布，歌手成始璄和演员文佳煐将担任第41届金唱片奖的主持人。两人此前曾合作主持，此次将再次展现默契配合。",
-    "extracted_at": "2026-10-20T11:11:25.276098+08:00"
+    "summary_zh": "10月20日，金唱片奖主办方HLL宣布，歌手成始璄与演员文佳煐将担任第41届金唱片奖的主持人。两人此前曾合作主持，此次将再次展现默契配合。",
+    "extracted_at": "2026-10-20T17:05:48.895289+08:00"
   },
   {
     "source_id": "soompi",
@@ -63,17 +692,41 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《与神同行》确认制作第三部，金容华导演执导2027年下半年开拍",
-    "source_type": "韩剧",
+    "title_zh": "《与神同行》确认制作第三部《与神同行：生死》",
+    "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "时间：10月20日，制作团队宣布导演金容华已确认《与神同行：生死》（直译）为下一部项目。",
-      "进展：目前正在筹备中，目标是在2027年下半年开始拍摄。",
-      "背景：故事设定在‘九泉’（原文未完整描述）。"
+      "2025年10月20日，制作团队宣布导演金容华已确认《与神同行：生死》（直译）为下一部作品。",
+      "目前正在筹备中，目标是在2027年下半年开始拍摄。",
+      "影片背景设定在阴间世界“九泉”。"
     ],
-    "summary_zh": "10月20日，制作团队宣布导演金容华已确认将《与神同行：生死》（直译）作为下一部作品，目前正在筹备中，目标2027年下半年开拍。影片背景设定在‘九泉’。",
-    "extracted_at": "2026-10-20T11:11:27.044457+08:00"
+    "summary_zh": "10月20日，制作团队宣布导演金容华已确定将《与神同行：生死》（直译）作为下一部作品，目前正在筹备中，目标2027年下半年开拍。影片背景设定在阴间世界“九泉”。",
+    "extracted_at": "2026-10-20T17:05:50.555948+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "KPop Demon Hunters singer Ejae marries longtime boyfriend Sam Kim in South Korea - CNA Lifestyle",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa3dzcEJJWmhyM0FvajJyaHlGeGdIWnZSOVk4RFA3VHhnYXNyMVJqNWhMRGRjb3AxUHYycEVYeWZ1Z3RIVkZxbHZLOHdobTNNWlJwd1hBMEsxdm1zLUpVMjZtWVNYX0sxSTBSTkpNdkM5Skk0QlIwbVpiby1BMW5zMmZiTktMVFlVQlE?oc=5",
+    "content": "KPop Demon Hunters singer Ejae marries longtime boyfriend Sam Kim in South Korea CNA Lifestyle",
+    "published_at": "1020google-kpop",
+    "published_ts": 1792462260.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《KPop Demon Hunters》歌手Ejae在韩国与长期男友Sam Kim结婚",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "歌手Ejae（《KPop Demon Hunters》演唱者）与长期交往的男友Sam Kim在韩国举行婚礼",
+      "报道来源为CNA Lifestyle"
+    ],
+    "summary_zh": "据CNA Lifestyle报道，曾为《KPop Demon Hunters》献唱的歌手Ejae与长期交往的男友Sam Kim在韩国结婚。原文未提及婚礼具体日期、地点及更多细节。",
+    "extracted_at": "2026-10-20T17:05:52.379750+08:00"
   },
   {
     "source_id": "soompi",
@@ -88,41 +741,18 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "tvN新剧《Love In Disguise》首播收视5.6% 接档《The Ordinary Jackpot》",
+    "title_zh": "tvN新剧《Love In Disguise》首播收视率5.6%",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "tvN剧集《Love In Disguise》于近期首播，全国平均收视率为5.6%（尼尔森韩国数据）。",
-      "该剧是《The Ordinary Jackpot》的后续作品，后者大结局创下自身最高收视率6.2%。",
-      "主演包括Yim（原文未提供全名）。"
+      "播出平台：tvN",
+      "首播收视率：根据Nielsen Korea数据，全国平均收视率为5.6%",
+      "接档剧集：前作《The Ordinary Jackpot》大结局收视率为6.2%，创下自身最高纪录",
+      "主演：Yim（原文未提供全名）"
     ],
-    "summary_zh": "据尼尔森韩国数据，tvN新剧《Love In Disguise》首播全国平均收视率为5.6%，作为《The Ordinary Jackpot》（大结局收视6.2%，创自身最高）的接档剧，开局表现良好。该剧由Yim主演。",
-    "extracted_at": "2026-10-20T11:11:28.875984+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "CONGRATULATIONS TO THE NEWLYWEDS! 🤍💍 Ejae of “KPop Demon Hunters” has married her longtime partner, former producer Samuel Kim. Read more: https://www.gmanetwork.com/news/showbiz/showbizabroad/1006483/ejae-of-kpop-demon-hunters- - Facebook",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOXhCaDFYQ01uMGYxSXB6YTBOam5YalZ0VnVyUExPeEM5WnRIdkNFY09ZZkZwcm9CRXI4SlRTMXZkNGhNeTZUVE5PNHJnal9tVkIyYVFwWENXT2lueElkWk1BZEVoanFrRkZLaGtKVU1aNUVoWkdzd05uWTlSVUxsNmZabnlHVWgxMkdDQzhOM3lTdllqZlZUbUwtUUFCelhqamRkWHA1UkhHbFdzbGZqb3FHUzhwemVhTnNmYWR5VzdOM2hLTEh0X1NuZTV5eFQzbC1V?oc=5",
-    "content": "CONGRATULATIONS TO THE NEWLYWEDS! 🤍💍 Ejae of “KPop Demon Hunters” has married her longtime partner, former producer Samuel Kim. Read more: https://www.gmanetwork.com/news/showbiz/showbizabroad/1006483/ejae-of-kpop-demon-hunters- Facebook",
-    "published_at": "1020google-kpop",
-    "published_ts": 1792460717.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "《KPop Demon Hunters》Ejae与长期伴侣、前制作人Samuel Kim结婚",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "《KPop Demon Hunters》成员Ejae与长期伴侣、前制作人Samuel Kim结婚",
-      "消息来源为GMA Network娱乐新闻Facebook帖文"
-    ],
-    "summary_zh": "《KPop Demon Hunters》成员Ejae与长期伴侣、前制作人Samuel Kim结婚。GMA Network娱乐新闻Facebook账号发文祝贺新人，并附上报道链接。原文未提及婚礼日期、地点等具体细节。",
-    "extracted_at": "2026-10-20T11:11:30.488625+08:00"
+    "summary_zh": "tvN新剧《Love In Disguise》于首播获得全国平均5.6%的收视率（Nielsen Korea数据），作为《The Ordinary Jackpot》的接档剧，前作大结局收视率为6.2%创自身最高。该剧由Yim主演。",
+    "extracted_at": "2026-10-20T17:05:54.193904+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -137,16 +767,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《英雄联盟》虚拟K-pop组合K/DA携新单曲《Firestarter》回归",
+    "title_zh": "《英雄联盟》虚拟女团K/DA携新单曲《Firestarter》回归",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "《英雄联盟》虚拟K-pop组合K/DA发布新单曲《Firestarter》并回归",
-      "原文仅提及回归与单曲名称，未提供发布时间、参与成员、榜单数据或官方声明等具体信息"
+      "《英雄联盟》衍生虚拟K-Pop女团K/DA发布新单曲《Firestarter》并回归",
+      "原文来源为Bleeding Cool News，未提供发布时间、榜单数据、成员构成或官方声明等具体信息"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：《英雄联盟》K-pop组合K/DA携单曲《Firestarter》回归]",
-    "extracted_at": "2026-10-20T11:11:31.881822+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：《英雄联盟》K-Pop虚拟女团K/DA携单曲《Firestarter》回归]",
+    "extracted_at": "2026-10-20T17:05:55.699616+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -166,10 +796,10 @@
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅提及EJAE在首尔结婚，未提供具体日期、地点、配偶身份或婚礼细节"
+      "原文仅提及EJAE在首尔结婚，未提供具体日期、地点或配偶信息"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：'KPop Demon Hunters' EJAE在首尔举行婚礼]",
-    "extracted_at": "2026-10-20T11:11:32.899022+08:00"
+    "extracted_at": "2026-10-20T17:05:56.972595+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -184,40 +814,41 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《KPop Demon Hunters》Ejae 宣布已婚",
+    "title_zh": "《KPop Demon Hunters》Ejae 已结婚",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅称《KPop Demon Hunters》相关人物 Ejae 已婚，未提及配偶身份、结婚时间、地点或任何具体细节",
-      "原文来源标注为 Facebook，无进一步可核实信息"
+      "原文仅称《KPop Demon Hunters》相关人物 Ejae 已结婚，未提及配偶身份、结婚时间、地点或所属社回应等具体信息"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：Ejae of 'KPop Demon Hunters' is married!]",
-    "extracted_at": "2026-10-20T11:11:34.307977+08:00"
+    "extracted_at": "2026-10-20T17:05:58.560555+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "'KPop Demon Hunters' singer-songwriter Ejae ties knot with producer Sam Kim - The Korea Times",
+    "title": "'KPop Demon Hunters' singer-songwriter EJAE ties knot with producer Sam Kim - The Korea Times",
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOX0k5dTlLZWdGRXRJREpXUmVfMl9LcldjSkVMNWoyRTRQeTRjN0F5QTAxU1BRRkRlQV9fY21yaERLemtrNW45b1NyeldRQl9qVFJ6SmhEZnNwUk5uczY4ZHdwM0NaejEtY29mdzgzTTU4SFU5QV82NjVkM0RHLVBuZ2t5NGZKR3VpcE5JMU5saUtGMERING1DdEZuZEJvcWJYOWtDdGNyY1JsX2JmTUhjUHFCRy1hR3ZrQmVvOGdaemltOW9GdVd5cUFoc9IB0AFBVV95cUxPSUpUWGhURldTWXpNbi1xTHp2S3kwR0xSbVhmOTYzQU1hd1ljTkQzQlNlUlZjSUNNeHQ2RHpqd0NXajI0bUQyM3dJczZKd1BkTFRVV0NGODdicktqMmIyZXlNREpGZGh4TWJrM0JJMnAwbzNfakpKWC1mb1hqS0xIYmpMdDQ4akx4Z3o3ZUhfMVVvX01hWGI1LUNWQzQ5OTgyS1JaZ2NYRmVmdTRfUk9qaC1mTElXYzhOejg3b0dkYzkyMktDWnUxNURNR0hweGY0?oc=5",
-    "content": "'KPop Demon Hunters' singer-songwriter Ejae ties knot with producer Sam Kim The Korea Times",
+    "content": "'KPop Demon Hunters' singer-songwriter EJAE ties knot with producer Sam Kim The Korea Times",
     "published_at": "1020google-kpop",
     "published_ts": 1792459204.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《KPop Demon Hunters》唱作人Ejae与制作人Sam Kim结婚",
+    "title_zh": "《KPop Demon Hunters》唱作人EJAE与制作人Sam Kim结婚",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅提及Ejae与制作人Sam Kim结婚，未提供婚礼时间、地点等具体细节",
-      "原文未提及两人交往经过或其他背景信息"
+      "原文仅提及EJAE与制作人Sam Kim结婚，未提供婚礼日期、地点、交往经过等具体细节",
+      "EJAE的身份为《KPop Demon Hunters》的唱作人（singer-songwriter）",
+      "Sam Kim的身份为制作人（producer）",
+      "消息来源为《The Korea Times》"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：'KPop Demon Hunters'唱作人Ejae与制作人Sam Kim结婚]",
-    "extracted_at": "2026-10-20T11:11:35.693768+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：'KPop Demon Hunters' singer-songwriter EJAE ties knot with producer Sam Kim]",
+    "extracted_at": "2026-10-20T17:06:00.195904+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -240,31 +871,7 @@
       "原文仅提及《KPop Demon Hunters》相关艺人 Ejae 已婚，未提供配偶身份、结婚时间、地点等具体信息"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：Ejae of 'KPop Demon Hunters' is married!]",
-    "extracted_at": "2026-10-20T11:11:37.011129+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "KPop Demon Hunters gets $20 Target tech accessories - ContentGrip",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LcXhCMm9mVkdvejF0Q2RNSktsYTBqaDVOVUMtX0FfZ0dIVEVLNWRwd3dMcl8tQ0hYX0lPS0xfOU5id1FBZ1RrTE1hSTJablRZdERKaVhuQXZoVHVDbFZMWl96UTNqUldveWpj?oc=5",
-    "content": "KPop Demon Hunters gets $20 Target tech accessories ContentGrip",
-    "published_at": "1020google-kpop",
-    "published_ts": 1792457775.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "《KPop Demon Hunters》推出Target独家科技配件，售价20美元",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "《KPop Demon Hunters》与Target合作推出科技配件产品",
-      "产品定价为20美元"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters》推出售价20美元的Target科技配件]",
-    "extracted_at": "2026-10-20T11:11:38.398219+08:00"
+    "extracted_at": "2026-10-20T17:06:01.547531+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -284,11 +891,11 @@
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅提及《福布斯》发布文章，回顾82WORLD LA首届K-Pop音乐节的11个亮点",
-      "原文未提及具体艺人、演出曲目、举办日期、场地名称或观众数据"
+      "原文仅提及《福布斯》发布文章，标题为《82WORLD LA首届K-Pop音乐节11大亮点》",
+      "原文未提供音乐节的具体举办时间、地点、出演艺人、演出曲目或任何数据"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：福布斯盘点82WORLD LA首届K-Pop音乐节的11个亮点]",
-    "extracted_at": "2026-10-20T11:11:39.641412+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：福布斯发布文章，回顾82WORLD LA首届K-Pop音乐节的11个亮点]",
+    "extracted_at": "2026-10-20T17:06:03.332053+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -298,7 +905,7 @@
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcHQwcjVTT0pBUXpneHR5WDRnaWFJQUxqVTZNcEMxRkE3UFBjMkJKNUIwLWswdmg2Y1lTY2JyOFUxeHZ0WWhmNVhlX2p3ZUVISTBZeEppM1pPRjhHTGk0d2NZMkJMNkltQVQyZHUwNzdORk5rNnlsVEVmUDA2cFA0X3MwbmlnSXhrOWtCXzF3OUxFTUV5a3hybFhvV2dzME1LSGtGRFlYQQ?oc=5",
     "content": "Netflix and Spin Master team up to bring KPop Demon Hunters to Toca Boca Brands Untapped",
     "published_at": "1020google-kpop",
-    "published_ts": 1792448277.0,
+    "published_ts": 1792448860.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
@@ -308,11 +915,11 @@
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "Netflix与Spin Master宣布合作，将《KPop Demon Hunters》相关内容引入Toca Boca平台",
+      "Netflix与Spin Master宣布合作，将《KPop Demon Hunters》相关内容引入Toca Boca",
       "原文未提及合作的具体形式、时间、地区或产品细节"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：Netflix与Spin Master合作，将《KPop Demon Hunters》引入Toca Boca]",
-    "extracted_at": "2026-10-20T11:11:40.941035+08:00"
+    "extracted_at": "2026-10-20T17:06:04.882141+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -327,16 +934,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "82WORLD LA 2026音乐节回顾：K-Pop拼盘演出可行性的实证",
+    "title_zh": "82WORLD LA 2026音乐节回顾：K-Pop音乐节可行性的证明",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅为一篇评论文章标题，未提及具体演出阵容、日期、场地、票房或观众数据",
-      "原文未提及任何具名艺人、所属社或主办方信息"
+      "原文仅为一篇评论文章标题，未提及具体演出阵容、日期、场地或票房数据",
+      "原文称该音乐节证明K-Pop音乐节模式可行，但未给出具体论据或数据"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：82WORLD LA 2026音乐节证明K-Pop音乐节模式可以行得通]",
-    "extracted_at": "2026-10-20T11:11:42.303779+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：82WORLD LA 2026音乐节证明K-Pop音乐节可以成功举办]",
+    "extracted_at": "2026-10-20T17:06:06.264022+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -359,33 +966,32 @@
       "原文仅提及Palmerton游行中K Pop与Minions首次亮相，未提供具体时间、地点细节、参与主体或数据"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：K Pop与Minions在Palmerton游行中首次亮相]",
-    "extracted_at": "2026-10-20T11:11:43.575669+08:00"
+    "extracted_at": "2026-10-20T17:06:07.557011+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "A Professional LEGO Designer Made a Giant Kpop Demon Hunters Build Using Almost 37,000 Individual Bricks - IGN",
+    "title": "LEGO and Netflix Team Up for 37,000-Piece Kpop Demon Hunters Build - IGN",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMWVFOGRfYTdESXV1b0xwX1l3NVBucGxWQVBNSk9Pa2ZnV3BKZXhyeC15RkdTcE40SnktTFA0eVU2bl9hU0k2d2E0eWczd3hOSU5ObXlicDh1YlhkTUcyT3JrbkNkMFNzR0ppaVhyQUFreGZtbTA0MEtPUXRIRW5KSmFBVUlhMGdIbnJGVFJWMWZCbXN1R1dKaWx3?oc=5",
-    "content": "A Professional LEGO Designer Made a Giant Kpop Demon Hunters Build Using Almost 37,000 Individual Bricks IGN",
+    "content": "LEGO and Netflix Team Up for 37,000-Piece Kpop Demon Hunters Build IGN",
     "published_at": "1020google-kpop",
     "published_ts": 1792433380.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "乐高专业设计师用近3.7万块积木打造巨型Kpop Demon Hunters作品",
+    "title_zh": "乐高与Netflix合作推出3.7万块Kpop Demon Hunters积木套装",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "主体：一名专业乐高设计师",
-      "作品：Kpop Demon Hunters主题巨型乐高拼搭作品",
-      "数据：使用近37,000块独立乐高积木",
-      "来源：IGN报道"
+      "乐高（LEGO）与Netflix宣布合作推出《Kpop Demon Hunters》主题积木套装",
+      "该套装共含37,000块积木",
+      "消息来源为IGN的报道"
     ],
-    "summary_zh": "据IGN报道，一名专业乐高设计师以Kpop Demon Hunters为主题，使用近37,000块独立乐高积木打造了一件巨型拼搭作品。原文未提及该设计师姓名、作品完成时间、展示地点及具体尺寸等进一步细节。",
-    "extracted_at": "2026-10-20T11:11:45.099785+08:00"
+    "summary_zh": "据IGN报道，乐高与Netflix达成合作，将推出以《Kpop Demon Hunters》为主题的积木套装，该套装由37,000块积木组成。原文未提及具体发售日期、价格及设计细节。",
+    "extracted_at": "2026-10-20T17:06:09.181374+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -400,40 +1006,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "SANTOS BRAVOS在K-Pop Nara庆祝成立一周年，为纽约首秀预热",
+    "title_zh": "SANTOS BRAVOS在K-Pop Nara庆祝成立一周年，纽约首秀在即",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅提及SANTOS BRAVOS在K-Pop Nara庆祝成立一周年，并将在纽约首次亮相",
-      "原文未提供具体日期、地点、数据或具名来源"
+      "原文仅提及SANTOS BRAVOS在K-Pop Nara庆祝成立一周年，并即将在纽约首次亮相",
+      "原文未提供具体日期、地点、成员信息或活动细节"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：SANTOS BRAVOS在K-Pop Nara庆祝成立一周年，为纽约首秀预热]",
-    "extracted_at": "2026-10-20T11:11:46.508745+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "KPop Demon Hunters Mira Action Figure: When Will It Be Back in Stock at Mattel? - Revista Merca2.0",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMVVxcDItazFYSkF6Nm1PcGpmQXg4QmFrYXpRUGxQUUh3VjBmbjV3RXZSZ3Y3UFRZTlQ0NllJSi1pdDFZVTMwR3o1bDNlTDdPUjFWUjFYcGpMNVNTbEN2TXlqRndCSi1WTWxMSUYwUkdERnJzUWJvc3hreEpZQUI3Uk9fbEdfckpFTnA2aFctRUEwMVBuVGppNVMwXzFXQktTcUJBOA?oc=5",
-    "content": "KPop Demon Hunters Mira Action Figure: When Will It Be Back in Stock at Mattel? Revista Merca2.0",
-    "published_at": "1020google-kpop",
-    "published_ts": 1792427582.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "《KPop Demon Hunters》Mira 可动人偶在 Mattel 售罄，补货时间未公布",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "原文仅提及《KPop Demon Hunters》Mira 可动人偶在 Mattel 缺货，并询问何时补货",
-      "原文未提供具体补货日期、销量数据或官方声明"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：KPop Demon Hunters Mira 可动人偶何时在 Mattel 补货？]",
-    "extracted_at": "2026-10-20T11:11:47.775157+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：SANTOS BRAVOS在K-Pop Nara庆祝成立一周年，并即将在纽约首次亮相]",
+    "extracted_at": "2026-10-20T17:06:10.697880+08:00"
   },
   {
     "source_id": "asianwiki",
