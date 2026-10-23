@@ -1,5 +1,401 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "I-Pop meets K-Pop in the Weverse Con Festival India line-up - Music Ally",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSUViTkFfblVneGRhdTd4M1Q5aUZqUWJVZkQ0b3N0c0J6UG1rZEpLbjRQcGhINE9IUjZFX2RRbTFabVF6dl9NUGRWQlZnNjFnd3pZdG1LU2VldFpRaGxSLVVpdVdFQ1plZXJhOTlONWl4aWlDeHJvRHpaTUNfYmt5NDljdWptTk1rX1RiWU1ER2NEMUtMc0V6NQ?oc=5",
+    "content": "I-Pop meets K-Pop in the Weverse Con Festival India line-up Music Ally",
+    "published_at": "1023google-kpop",
+    "published_ts": 1792745115.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Weverse Con Festival印度站阵容公开，I-Pop与K-Pop同台",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及Weverse Con Festival印度站阵容将呈现I-Pop与K-Pop的结合",
+      "原文未列出具体参演艺人、举办时间、地点或任何数据"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：Weverse Con Festival印度站阵容体现I-Pop与K-Pop的相遇]",
+    "extracted_at": "2026-10-23T17:02:52.676920+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kim Ji Won Faces A Life-Threatening Situation As Her Past Comes Into Focus In “Doctor X”",
+    "url": "https://www.soompi.com/article/1881002wpp/kim-ji-won-faces-a-life-threatening-situation-as-her-past-comes-into-focus-in-doctor-x",
+    "content": "“Doctor X” will shed more light on Kim Ji Won’s mysterious past in tonight’s episode! Based on the hit Japanese series of the same name, SBS’s “Doctor X” is a medical noir drama starring Kim Ji Won as Gye Soo Jung, a genius surgeon who proves what it truly means to be a doctor through&#8230; Continue reading Kim Ji Won Faces A Life-Threatening Situation As Her Past Comes Into Focus In “Doctor X”\nThe post Kim Ji Won Faces A Life-Threatening Situation As Her Past Comes Into Focus In “Doctor X” appeared first on Soompi.",
+    "published_at": "1023soompi",
+    "published_ts": 1792744152.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《Doctor X》金智媛今晚揭晓神秘过去，面临生命威胁",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "SBS医疗黑色剧《Doctor X》改编自同名热门日剧，由金智媛主演，饰演天才外科医生桂秀晶。",
+      "今晚播出的剧集中，将进一步揭示金智媛所饰角色的神秘过去。",
+      "金智媛在剧中面临生命威胁。"
+    ],
+    "summary_zh": "SBS医疗黑色剧《Doctor X》改编自同名热门日剧，由金智媛饰演天才外科医生桂秀晶。在今晚播出的剧集中，将进一步揭示角色的神秘过去，同时金智媛面临生命威胁。",
+    "extracted_at": "2026-10-23T17:02:54.438136+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "First Love Never Fades: 2PM, Girls' Generation and Other Second-Generation K-POP Idols Still Going Strong - Hanteo News",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41Y2tTaUQ2eXcwOTlsWmx1YVpub2o4RXNKTFdLdGRfRlBkT2htX1VoUzFDdDZmTlRGNTlObUJibENVQzBKdk5nenZGN0t4ZHhBa0dJN2dn?oc=5",
+    "content": "First Love Never Fades: 2PM, Girls' Generation and Other Second-Generation K-POP Idols Still Going Strong Hanteo News",
+    "published_at": "1023google-kpop",
+    "published_ts": 1792743596.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "二代K-POP偶像长青：2PM、少女时代等仍活跃于歌坛",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及2PM、少女时代等二代K-POP偶像仍保持活动，未提供具体时间、地点、数据或具名来源"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：2PM、少女时代等二代K-POP偶像仍保持强劲势头]",
+    "extracted_at": "2026-10-23T17:02:55.875720+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "XLOV Aims to Redefine K-pop With Third Mini Album 'i=!' - 조선일보",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOS1lRjdwdzVvWUk2YXRJb1FMU1ppZDIySlhJYjlma1BlUVVHbUZUU0J2WVA3NUdOS0xPQV9SdzdMVXd5NnFPOWtSWHU1T1Vvdm5xYVZtUk56Z1VIZ0R4Qk9fbS1HLVpTYm01TUtTU2RhODdXb1B6ZXVkNDRDVzN6T0hiSTJPZXFRS3FOUVRR?oc=5",
+    "content": "XLOV Aims to Redefine K-pop With Third Mini Album 'i=!' 조선일보",
+    "published_at": "1023google-kpop",
+    "published_ts": 1792740806.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "XLOV发行第三张迷你专辑《i=!》，宣称要重新定义K-pop",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及XLOV发行第三张迷你专辑《i=!》，并称其目标是重新定义K-pop",
+      "原文来源标注为《朝鲜日报》（조선일보）",
+      "原文未提及发行日期、收录曲目、制作人、销量或榜单成绩等具体信息"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：XLOV发行第三张迷你专辑《i=!》，并宣称要重新定义K-pop]",
+    "extracted_at": "2026-10-23T17:02:57.746482+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kim Han Young And Kang Hyung Suk Emerge As Suspects In The Murder Of Park Seo Ham In “Dive Into You”",
+    "url": "https://www.soompi.com/article/1880978wpp/kim-han-young-and-kang-hyung-suk-emerge-as-suspects-in-the-murder-of-park-seo-ham-in-dive-into-you",
+    "content": "&#8220;Dive into You&#8221; has previewed an analysis of two prime suspects in Park Seo Ham&#8217;s murder case! “Dive into You” is a fantasy romance drama starring WJSN’s Kim Ji Yeon (Bona) as Yoon Ha Na, an A-list actress who unexpectedly winds up swapping bodies with her twin brother Yoon Ha Ru (Jang Se Hyuk). After&#8230; Continue reading Kim Han Young And Kang Hyung Suk Emerge As Suspects In The Murder Of Park Seo Ham In &#8220;Dive Into You&#8221;\nThe post Kim Han Young And Kang Hyung Suk Emerge As Suspects In The Murder Of Park Seo Ham In &#8220;Dive Into You&#8221; appeared first on Soompi.",
+    "published_at": "1023soompi",
+    "published_ts": 1792740615.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《Dive Into You》朴叙涵谋杀案：金韩英与姜亨锡成嫌疑人",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "《Dive Into You》是一部奇幻爱情剧，由宇宙少女成员金智妍（Bona）饰演顶级女演员尹荷娜，她意外与双胞胎弟弟尹荷鲁（张世赫饰）交换身体。",
+      "剧集预告了朴叙涵谋杀案中两名主要嫌疑人的分析，金韩英和姜亨锡成为嫌疑人。"
+    ],
+    "summary_zh": "《Dive Into You》是一部由宇宙少女金智妍（Bona）主演的奇幻爱情剧，她饰演的顶级女演员尹荷娜与双胞胎弟弟尹荷鲁（张世赫饰）意外交换身体。剧集最新预告聚焦朴叙涵谋杀案，金韩英和姜亨锡被列为嫌疑人，但原文未提供具体嫌疑依据或案件细节。",
+    "extracted_at": "2026-10-23T17:03:00.193888+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-pop’s ambition should supersede the Grammys - Daily Trojan",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOUZjaTI3cjNnUXJsa2xIWFB0UXgzXy1HVVdXTTNLWVYwOFVNSUZGMzdhQnFVejhSanVCQ0t0cnVib1lhN1dVeW94M3VYRlowR0NhcnpMdDY4TmZ1eXRvYm94aVFPOU9aZE9wb244dVpBOXVOZkU3N096Z0VhazA4M0RPLXBoLU0?oc=5",
+    "content": "K-pop’s ambition should supersede the Grammys Daily Trojan",
+    "published_at": "1023google-kpop",
+    "published_ts": 1792740589.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "韩媒评论：K-pop 的野心不应止步于格莱美奖",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅为评论文章标题，未提及具体艺人、组合、时间、地点或数据",
+      "原文核心观点：K-pop 的野心应超越格莱美奖这一目标"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：K-pop 的野心应超越格莱美奖]",
+    "extracted_at": "2026-10-23T17:03:02.018452+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Ahn Eun Jin, Seo Kang Jun, And Jo Aram Sit Down For An Awkward Meal In “A Love Other Than Yours”",
+    "url": "https://www.soompi.com/article/1880986wpp/ahn-eun-jin-seo-kang-jun-and-jo-aram-sit-down-for-an-awkward-meal-in-a-love-other-than-yours",
+    "content": "“A Love Other Than Yours” has unveiled new stills ahead of its upcoming episode! “A Love Other Than Yours” is a romance drama that follows a couple in their 10th year of dating as they experience unexpected emotional changes in a relationship that once felt familiar. Spoilers The previous episode ended with Lee Mi Do&#8230; Continue reading Ahn Eun Jin, Seo Kang Jun, And Jo Aram Sit Down For An Awkward Meal In “A Love Other Than Yours”\nThe post Ahn Eun Jin, Seo Kang Jun, And Jo Aram Sit Down For An Awkward Meal In “A Love Other Than Yours” appeared first on Soompi.",
+    "published_at": "1023soompi",
+    "published_ts": 1792740426.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《除了你之外的恋爱》安恩真、徐康俊、赵雅岚尴尬共餐剧照公开",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "韩剧《除了你之外的恋爱》在即将播出的剧集前公开了新剧照",
+      "剧照中安恩真、徐康俊、赵雅岚三人坐在一起吃饭，气氛尴尬",
+      "该剧是一部浪漫爱情剧，讲述一对交往10年的情侣在熟悉的关系中经历意想不到的情感变化",
+      "上一集以李美度（角色名）的剧情结束"
+    ],
+    "summary_zh": "韩剧《除了你之外的恋爱》公开了最新剧照，主演安恩真、徐康俊、赵雅岚在剧照中尴尬地坐在一起吃饭。该剧讲述一对交往10年的情侣在熟悉的关系中经历意想不到的情感变化。上一集以李美度（角色名）的剧情结束，新一集将延续这一故事。",
+    "extracted_at": "2026-10-23T17:03:04.370443+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Exclusive: Typhoon champi postpones k-pop concerts in taiwan - 조선일보",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONkJLQWtXRnd1SVFNX3ZxelZvR2VjM0JkVzZIeFhtaXBCLXcyVzVXdDNicC1YMlVSTEFfMHpFUlBpcFMyS0dkOFBhQzdNMzN1VHYyblhmRU1FZjhqeVo5MlBNYk04a3VlN3V3OXdNLTd5bTB0WWJwY0Vyc2lHcVlGZnk5RnU2WDIyQk41Zk1n?oc=5",
+    "content": "Exclusive: Typhoon champi postpones k-pop concerts in taiwan 조선일보",
+    "published_at": "1023google-kpop",
+    "published_ts": 1792739934.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "台风“查帕卡”致台湾K-pop演唱会延期（独家）",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及台风“查帕卡”（Typhoon champi）导致台湾K-pop演唱会延期",
+      "原文未提及具体艺人、组合名称、演出场地、原定日期或延期后日期"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：台风“查帕卡”导致台湾K-pop演唱会延期]",
+    "extracted_at": "2026-10-23T17:03:06.244485+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "2026 SBS Gayo Daejeon Announces 1st Lineup",
+    "url": "https://www.soompi.com/article/1880971wpp/2026-sbs-gayo-daejeon-announces-1st-lineup",
+    "content": "The 2026 SBS Gayo Daejeon has unveiled its first lineup of performers! On October 23, SBS unveiled the first lineup for the 2026 SBS Gayo Daejeon. Celebrating its 30th anniversary this year, the annual music festival will be held over two days for the first time, on December 24 and 25 at KINTEX in Ilsan,&#8230; Continue reading 2026 SBS Gayo Daejeon Announces 1st Lineup\nThe post 2026 SBS Gayo Daejeon Announces 1st Lineup appeared first on Soompi.",
+    "published_at": "1023soompi",
+    "published_ts": 1792736982.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "2026 SBS 歌谣大战公开首轮阵容，30周年首次分两日举行",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "2026年10月23日，SBS公开了2026 SBS 歌谣大战的首轮表演阵容。",
+      "2026年SBS歌谣大战迎来30周年，首次分为两天举行，日期为12月24日和25日。",
+      "举办地点为一山KINTEX。"
+    ],
+    "summary_zh": "2026年10月23日，SBS公开了2026 SBS 歌谣大战的首轮表演阵容。该年度音乐节今年迎来30周年，首次分为两天举行，定于12月24日和25日在一山KINTEX举办。",
+    "extracted_at": "2026-10-23T17:03:09.327531+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Hwang Chan Sung Confirmed To Star In Korea-Vietnam Joint Production “Saigon Oppa”",
+    "url": "https://www.soompi.com/article/1880936wpp/hwang-chan-sung-confirmed-to-star-in-korea-vietnam-joint-production-saigon-oppa",
+    "content": "Hwang Chan Sung is expanding his acting horizons through the upcoming film &#8220;Saigon Oppa&#8221;! On October 23, Hwang Chan Sung&#8217;s agency L&#8217;July Entertainment announced, &#8220;Hwang Chan Sung has been cast as Min Ho, a K-pop star, in the film &#8216;Saigon Oppa.'&#8221; The film &#8220;Saigon Oppa&#8221; is a comedy road movie that depicts the turbulent journey&#8230; Continue reading Hwang Chan Sung Confirmed To Star In Korea-Vietnam Joint Production &#8220;Saigon Oppa&#8221;\nThe post Hwang Chan Sung Confirmed To Star In Korea-Vietnam Joint Production &#8220;Saigon Oppa&#8221; appeared first on Soompi.",
+    "published_at": "1023soompi",
+    "published_ts": 1792736627.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "黄灿盛确认主演韩越合拍片《西贡欧巴》 饰演K-pop明星",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "2025年10月23日，黄灿盛所属社L'July Entertainment宣布，黄灿盛已确定出演电影《西贡欧巴》，饰演K-pop明星敏浩（Min Ho）。",
+      "《西贡欧巴》是一部喜剧公路电影，描绘一段跌宕起伏的旅程。",
+      "该片为韩国与越南联合制作。"
+    ],
+    "summary_zh": "黄灿盛所属社L'July Entertainment于10月23日宣布，黄灿盛确定出演韩越合拍电影《西贡欧巴》，在片中饰演K-pop明星敏浩。该片是一部喜剧公路电影，讲述一段跌宕起伏的旅程。",
+    "extracted_at": "2026-10-23T17:03:11.213399+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Song Hye Kyo Signs With New Agency + Stuns In New Profile Photos",
+    "url": "https://www.soompi.com/article/1880965wpp/song-hye-kyo-signs-with-new-agency-stuns-in-new-profile-photos",
+    "content": "Actress Song Hye Kyo has found a new agency to call home! On October 23, her new agency STAND announced that it had signed an exclusive contract with the actress. The agency stated, “We are honored to be working with Song Hye Kyo. We will provide our full support so that she can focus on&#8230; Continue reading Song Hye Kyo Signs With New Agency + Stuns In New Profile Photos\nThe post Song Hye Kyo Signs With New Agency + Stuns In New Profile Photos appeared first on Soompi.",
+    "published_at": "1023soompi",
+    "published_ts": 1792735121.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "宋慧乔签约新所属社STAND 全新简介照公开",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "2025年10月23日，宋慧乔的新所属社STAND宣布与演员宋慧乔签订专属合约。",
+      "STAND表示：“能与宋慧乔合作深感荣幸，将全力支持她专注于……”（原文截断）。",
+      "原文标题提及宋慧乔在新简介照中惊艳亮相。"
+    ],
+    "summary_zh": "10月23日，宋慧乔的新所属社STAND宣布与其签订专属合约。所属社表示：“能与宋慧乔合作深感荣幸，将全力支持她专注于……”（原文截断）。同时，宋慧乔的全新简介照公开，引发关注。",
+    "extracted_at": "2026-10-23T17:03:13.365909+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Song Review: Lisa (BLACKPINK) – Tarantino - https://thebiaslist.com/",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kX3JycVRFQ0RuUlQtbmc4VmZkTmhoc0tjRTRjRk12bXJVMU9HZ0stTDdlYVpfMmVFamlXWFZaamNCbF9WZkRxMGk0SkJZVEgwdm83TUpBTFJwWlNabWVVV1ZHcWk5RThZN0NMZkdtYmxrXzVQeElBc3c5VEk?oc=5",
+    "content": "Song Review: Lisa (BLACKPINK) – Tarantino https://thebiaslist.com/",
+    "published_at": "1023google-kpop",
+    "published_ts": 1792729645.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "BLACKPINK Lisa 新单曲《Tarantino》歌曲评论",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文为音乐博客 thebiaslist.com 发布的歌曲评论，评论对象为 BLACKPINK 成员 Lisa 的单曲《Tarantino》",
+      "原文未提供评论正文内容，未提及发行日期、制作人、榜单数据或评分等具体信息"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：这是一篇针对 BLACKPINK 成员 Lisa 单曲《Tarantino》的歌曲评论]",
+    "extracted_at": "2026-10-23T17:03:15.341132+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Song Review: BABYMONSTER – Deserve - https://thebiaslist.com/",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WdG5ibnFNSHhHRFJHNzBUbVFFZmQySFB6NlJ3bGxZNlRabEJrVnVDQkt6cXFiYU1CVzBNQk5UaUVrQlp3bUhoQ1ZBRHJWWTV1eEZMa1lFanhndTgxc3VHYU9QQTlfdkVMUHluelBTLXA3Zm1PelE?oc=5",
+    "content": "Song Review: BABYMONSTER – Deserve https://thebiaslist.com/",
+    "published_at": "1023google-kpop",
+    "published_ts": 1792729468.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "BABYMONSTER 新曲《Deserve》乐评：The Bias List 发布单曲评论",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "The Bias List 网站发布了对 BABYMONSTER 歌曲《Deserve》的乐评文章",
+      "原文仅提供标题与链接，未提及发布时间、评分、具体评价内容或榜单数据"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：The Bias List 发布了对 BABYMONSTER 歌曲《Deserve》的乐评]",
+    "extracted_at": "2026-10-23T17:03:17.078579+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Son Suk Ku And Nagayama Eita Team Up To Catch A Serial Killer In “The Blue Road” Trailer",
+    "url": "https://www.soompi.com/article/1880952wpp/watch-son-suk-ku-and-nagayama-eita-team-up-to-catch-a-serial-killer-in-the-blue-road-trailer",
+    "content": "Netflix’s upcoming series “The Blue Road” has released a teaser trailer! Helmed by director Han Jun Hee of the “D.P.” series and the film “Coin Locker Girl,” “The Blue Road” is a new drama about two detectives tracking a series of murders that occur across Korea and Japan. Son Suk Ku plays Kim Seok, a&#8230; Continue reading Watch: Son Suk Ku And Nagayama Eita Team Up To Catch A Serial Killer In &#8220;The Blue Road&#8221; Trailer\nThe post Watch: Son Suk Ku And Nagayama Eita Team Up To Catch A Serial Killer In &#8220;The Blue Road&#8221; Trailer appeared first on Soompi.",
+    "published_at": "1023soompi",
+    "published_ts": 1792728686.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "孙锡久与永山瑛太联手追捕连环杀手，《The Blue Road》预告公开",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Netflix 新剧《The Blue Road》发布 teaser 预告",
+      "导演：韩俊熙（《D.P.》系列、《Coin Locker Girl》导演）",
+      "剧情：两名刑警追踪横跨韩国和日本发生的连环杀人案",
+      "孙锡久饰演角色金锡（Kim Seok）",
+      "永山瑛太参演，与孙锡久合作"
+    ],
+    "summary_zh": "Netflix 新剧《The Blue Road》公开 teaser 预告。该剧由《D.P.》系列和电影《Coin Locker Girl》导演韩俊熙执导，讲述两名刑警追踪在韩国和日本发生的连环杀人案。孙锡久饰演金锡，与日本演员永山瑛太联手追捕连环杀手。",
+    "extracted_at": "2026-10-23T17:03:19.277121+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Park Bo Gum Returns As A Licensed Hairdresser In First Teaser For “The Village Barber 2”",
+    "url": "https://www.soompi.com/article/1880935wpp/watch-park-bo-gum-returns-as-a-licensed-hairdresser-in-first-teaser-for-the-village-barber-2",
+    "content": "Park Bo Gum is making his return as a barber! “The Village Barber,” which aired earlier this year, is a variety show in which Park Bo Gum ran a barbershop in a remote rural village together with his close friends Lee Sang Yi and Kwak Dong Yeon. On October 23, &#8220;The Village Barber&#8221; released a&#8230; Continue reading Watch: Park Bo Gum Returns As A Licensed Hairdresser In First Teaser For &#8220;The Village Barber 2&#8221;\nThe post Watch: Park Bo Gum Returns As A Licensed Hairdresser In First Teaser For &#8220;The Village Barber 2&#8221; appeared first on Soompi.",
+    "published_at": "1023soompi",
+    "published_ts": 1792727907.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "朴宝剑《乡村理发师2》首支预告公开 持证理发师回归",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "朴宝剑在综艺《乡村理发师》中与好友李相二、郭东延一起在偏远乡村经营理发店。",
+      "《乡村理发师》于今年早些时候播出。",
+      "10月23日，《乡村理发师》方面发布了《乡村理发师2》的首支预告。",
+      "朴宝剑在《乡村理发师2》中以持证理发师身份回归。"
+    ],
+    "summary_zh": "朴宝剑将以持证理发师身份回归综艺《乡村理发师2》。该节目第一季于今年早些时候播出，由朴宝剑与好友李相二、郭东延在偏远乡村共同经营理发店。10月23日，节目方面公开了第二季的首支预告片。",
+    "extracted_at": "2026-10-23T17:03:21.354982+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "3 Times Episodes 7-8 Of “Dive Into You” Broke Our Hearts & 1 Time It Gave Us A Heart Attack",
+    "url": "https://www.soompi.com/article/1880659wpp/3-times-episodes-7-8-of-dive-into-you-broke-our-hearts-1-time-it-gave-us-a-heart-attack",
+    "content": "Finally, Yoon Ha Na (Kim Ji Yeon) and Yoon Ha Ru (Jang Se Hyuk) have succeeded in saving Jung Woo Jae (Park Seo Ham), giving him the chance to build a successful acting career where he is protected rather than spending his life protecting others. But at what cost? As episodes 7 and 8 of&#8230; Continue reading 3 Times Episodes 7-8 Of &#8220;Dive Into You&#8221; Broke Our Hearts &#38; 1 Time It Gave Us A Heart Attack\nThe post 3 Times Episodes 7-8 Of &#8220;Dive Into You&#8221; Broke Our Hearts & 1 Time It Gave Us A Heart Attack appeared first on Soompi.",
+    "published_at": "1023soompi",
+    "published_ts": 1792726258.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《Dive Into You》第7-8集：3个心碎瞬间与1个惊险时刻",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "剧集《Dive Into You》第7-8集播出",
+      "角色尹河娜（金智妍饰）与尹河鲁（张世赫饰）成功救出郑宇宰（朴叙浩饰）",
+      "郑宇宰获得在受保护环境下发展演艺事业的机会"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：尹河娜和尹河鲁成功救出郑宇宰，使他能在受保护的环境下发展演艺事业，但代价未知。]",
+    "extracted_at": "2026-10-23T17:03:23.536423+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -12,17 +408,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "金裕贞新剧《100天的谎言》特别海报公开，变身卧底间谍执行危险任务",
+    "title_zh": "金裕贞新剧《100天的谎言》特别海报公开 饰卧底间谍执行危险任务",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "tvN 公开了《100天的谎言》的特别海报",
-      "该剧以日本殖民统治时期为背景，是一部时代间谍爱情剧",
-      "金裕贞饰演李佳景（音译），原本是扒手，后成为独立运动的卧底间谍"
+      "tvN 公开了《100天的谎言》的特别海报，暗示剧情悬念",
+      "《100天的谎言》以日本殖民朝鲜时期为背景，是一部时代间谍爱情剧",
+      "金裕贞饰演李佳景（Lee Ga Kyeong），角色身份为扒手，后成为独立运动的卧底间谍"
     ],
-    "summary_zh": "tvN 新剧《100天的谎言》公开特别海报，暗示剧情悬念。该剧以日本殖民统治时期为背景，是一部时代间谍爱情剧，由金裕贞主演，她饰演的李佳景（音译）原本是扒手，后来成为独立运动的卧底间谍。",
-    "extracted_at": "2026-10-23T11:09:10.315705+08:00"
+    "summary_zh": "tvN 新剧《100天的谎言》发布特别海报，暗示剧情悬念。该剧以日本殖民朝鲜时期为背景，是一部时代间谍爱情剧，由金裕贞主演。她饰演的李佳景原本是扒手，后来成为独立运动的卧底间谍，执行危险任务。",
+    "extracted_at": "2026-10-23T17:03:25.673331+08:00"
   },
   {
     "source_id": "soompi",
@@ -43,10 +439,10 @@
     "is_blurred": true,
     "facts_list": [
       "原文仅提及推荐5部BL剧，未列出具体剧名",
-      "原文未提及具体播出时间、平台或演员信息"
+      "原文未提及具体时间、地点、数据或具名来源"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：5部适合暗恋中的人观看的BL剧]",
-    "extracted_at": "2026-10-23T11:09:11.627298+08:00"
+    "extracted_at": "2026-10-23T17:03:27.272237+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -61,40 +457,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Disney+公开《再婚皇后》剧照 申敏儿朱智勋李钟硕李圣经主演",
+    "title_zh": "Disney+公开《再婚皇后》剧照 申敏儿朱智勋李钟硕李世荣主演",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "Disney+菲律宾于周四发布新剧《再婚皇后》（The Remarried Empress）剧照",
-      "该剧主演为申敏儿、朱智勋、李钟硕、李圣经",
-      "剧集改编自人气原作（原文仅称Based on the hit，未说明具体原作类型）"
+      "Disney+菲律宾于周四发布新剧《再婚皇后》的剧照",
+      "该剧主演包括申敏儿、朱智勋、李钟硕、李世荣",
+      "剧集改编自热门网络小说/漫画（原文仅称'based on the hit'，未提供完整信息）"
     ],
-    "summary_zh": "Disney+菲律宾于周四公开了新剧《再婚皇后》的剧照，为韩剧粉丝带来期待。该剧由申敏儿、朱智勋、李钟硕、李圣经主演，改编自人气原作。原文未提及剧集上线日期、制作团队及更多剧情细节。",
-    "extracted_at": "2026-10-23T11:09:13.658082+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "MMA2026 Presenters Unite Global K-Pop Fans - 조선일보",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQkg0R1BpamxLLWpnUl9jWVhmQWlaVGdQU19VNHgzYXZlbTBpMmsxRHVxazFUbVJuUWNnd1JwRFgwaFRTQXpMajN0b2dqNGlMSTNRRTNfWEFBbjdqQzFzV2xnZ1l3SXdnblFfMUppY2lkRkZraE9XV2EyTkl6cXgyczhTNDZvVmFIeUpSN3d3?oc=5",
-    "content": "MMA2026 Presenters Unite Global K-Pop Fans 조선일보",
-    "published_at": "1023google-kpop",
-    "published_ts": 1792721687.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "MMA2026主持人阵容集结全球K-Pop粉丝",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "原文仅提及MMA2026主持人（Presenters）将集结全球K-Pop粉丝，未提供具体主持人姓名、举办时间、地点或任何数据"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：MMA2026主持人阵容集结全球K-Pop粉丝]",
-    "extracted_at": "2026-10-23T11:09:14.786147+08:00"
+    "summary_zh": "Disney+菲律宾于周四发布了新剧《再婚皇后》的剧照，引发韩剧粉丝期待。该剧由申敏儿、朱智勋、李钟硕、李世荣主演，改编自热门原作（原文未完整说明原作类型）。",
+    "extracted_at": "2026-10-23T17:03:29.410472+08:00"
   },
   {
     "source_id": "soompi",
@@ -117,10 +490,11 @@
       "《好搭档2》发布首支预告片",
       "第二季延续第一季的成功，继续讲述离婚题材故事",
       "张娜拉饰演明星律师车恩京，离婚是她的天职",
-      "金惠奫饰演经验丰富的律师姜惠星"
+      "金惠奫饰演经验丰富的律师姜惠星",
+      "预告片中张娜拉激励金惠奫争取胜利"
     ],
-    "summary_zh": "《好搭档2》公开首支预告。第二季延续第一季的成功，继续呈现离婚题材的法庭故事。张娜拉饰演将离婚视为天职的明星律师车恩京，金惠奫饰演经验丰富的律师姜惠星。预告中张娜拉激励金惠奫争取胜利。",
-    "extracted_at": "2026-10-23T11:09:16.642247+08:00"
+    "summary_zh": "《好搭档2》公开首支预告片。第二季延续第一季的成功，继续呈现离婚题材故事。张娜拉饰演将离婚视为天职的明星律师车恩京，金惠奫饰演经验丰富的律师姜惠星。预告片中，张娜拉激励金惠奫全力求胜。",
+    "extracted_at": "2026-10-23T17:03:31.672474+08:00"
   },
   {
     "source_id": "soompi",
@@ -142,10 +516,10 @@
     "facts_list": [
       "2026年10月23日，第18届Melon音乐大奖（MMA 2026）公布颁奖嘉宾阵容",
       "颁奖嘉宾共37人，横跨多个世代与音乐类型",
-      "活动分为两天，DAY 1为11月14日"
+      "活动分为两天，DAY 1定于11月14日举行"
     ],
-    "summary_zh": "第18届Melon音乐大奖（MMA 2026）于10月23日公布颁奖嘉宾阵容，共37人，涵盖多个世代与音乐类型。活动分两日举行，DAY 1定于11月14日。原文未披露具体嘉宾姓名及DAY 2日期。",
-    "extracted_at": "2026-10-23T11:09:18.476710+08:00"
+    "summary_zh": "第18届Melon音乐大奖（MMA 2026）于10月23日公布颁奖嘉宾阵容，共37人，涵盖多个世代与音乐类型。活动分两日举行，其中DAY 1定于11月14日。原文未披露具体嘉宾姓名及DAY 2日期。",
+    "extracted_at": "2026-10-23T17:03:33.642701+08:00"
   },
   {
     "source_id": "soompi",
@@ -160,17 +534,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "陆星材出演SBS新剧《Nine to Six》 饰演改变朴敏英生活的新员工",
+    "title_zh": "陆星材出演SBS新剧《Nine to Six》饰演改变朴敏英生活的新员工",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "SBS 新剧《Nine to Six》公开了 BTOB 成员陆星材主演角色的新剧照",
-      "该剧是一部浪漫爱情剧，由朴敏英饰演姜智怡（音译），一个因专注工作而长期忽视感情生活的职场狂人",
-      "陆星材在剧中饰演一名新入职员工，他的出现将改变朴敏英饰演的女主角的生活"
+      "该剧是一部浪漫爱情剧，朴敏英饰演姜智怡（音译），一个因专注工作而长期忽视恋爱的工作狂",
+      "陆星材在剧中饰演一名新员工，他的出现改变了朴敏英饰演角色的生活"
     ],
-    "summary_zh": "SBS 新剧《Nine to Six》公开了 BTOB 陆星材的主演剧照。该剧由朴敏英饰演工作狂姜智怡，她因长期专注工作而忽视感情生活。陆星材饰演的新员工将改变她的生活。",
-    "extracted_at": "2026-10-23T11:09:20.738474+08:00"
+    "summary_zh": "SBS 新剧《Nine to Six》公开了 BTOB 陆星材的主演剧照。该剧由朴敏英饰演工作狂姜智怡，她因长期专注工作而忽视恋爱。陆星材饰演的新员工将改变她的生活。",
+    "extracted_at": "2026-10-23T17:03:35.738489+08:00"
   },
   {
     "source_id": "soompi",
@@ -185,18 +559,18 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "刘延锡新剧《完美的谎言》饰演外科医生，令徐玄振心动",
+    "title_zh": "刘延锡《完美的谎言》演外科医生，令徐玄振心动",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "MBC 新剧《完美的谎言》由导演赵英民（曾执导《你和其余的一切》）执导。",
-      "该剧为心理惊悚题材，讲述一对男女对同一段记忆给出完全相反的陈述，在寻找真相过程中激烈冲突。",
+      "MBC 新剧《The Perfect Lie》由导演赵英民（Jo Young Min）执导，他曾执导《你和其余的一切》（You and Everything Else）。",
+      "该剧为心理惊悚题材，讲述一对男女对同一段记忆给出完全相反的说法，并在追寻真相过程中激烈冲突。",
       "刘延锡在剧中饰演一名外科医生，角色难以捉摸，令徐玄振饰演的角色心动。",
-      "剧方公开了刘延锡角色的一组新剧照。"
+      "原文未提及具体播出日期、收视率或更多演员阵容细节。"
     ],
-    "summary_zh": "MBC 新剧《完美的谎言》公开了刘延锡的角色剧照。该剧由《你和其余的一切》导演赵英民执导，是一部心理惊悚剧，讲述一对男女对同一段记忆各执一词、在追寻真相中激烈对峙的故事。刘延锡在剧中饰演一名难以捉摸的外科医生，令徐玄振饰演的角色怦然心动。",
-    "extracted_at": "2026-10-23T11:09:23.005901+08:00"
+    "summary_zh": "MBC 新剧《The Perfect Lie》公开刘延锡角色新剧照。该剧由《你和其余的一切》导演赵英民执导，是一部心理惊悚剧，讲述一对男女对同一段记忆各执一词、在追寻真相中激烈冲突的故事。刘延锡饰演一名难以捉摸的外科医生，令徐玄振饰演的角色心动。",
+    "extracted_at": "2026-10-23T17:03:38.390026+08:00"
   },
   {
     "source_id": "soompi",
@@ -211,16 +585,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "金智媛《Doctor X》对峙失控张胜祖，新剧照曝光",
+    "title_zh": "金智媛《Doctor X》对峙失控张胜祖，新集剧情公开",
     "source_type": "韩剧",
     "risk_level": "低",
-    "is_blurred": true,
+    "is_blurred": false,
     "facts_list": [
-      "SBS新剧《Doctor X》翻拍自同名日剧，由金智媛主演，饰演天才外科医生桂秀晶",
-      "张胜祖将在下一集中有失控行为，与金智媛角色正面交锋"
+      "SBS医疗黑色剧《Doctor X》翻拍自同名热门日剧，由金智媛主演，饰演天才外科医生桂秀晶",
+      "下一集中，张胜祖将上演失控暴走戏码",
+      "金智媛饰演的桂秀晶将在剧中与张胜祖角色正面对峙"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：张胜祖将在下一集《Doctor X》中失控，与金智媛对峙]",
-    "extracted_at": "2026-10-23T11:09:24.697183+08:00"
+    "summary_zh": "SBS医疗黑色剧《Doctor X》翻拍自同名热门日剧，由金智媛饰演天才外科医生桂秀晶。在即将播出的下一集中，张胜祖的角色将失控暴走，金智媛饰演的桂秀晶将与其正面对峙。",
+    "extracted_at": "2026-10-23T17:03:40.947841+08:00"
   },
   {
     "source_id": "soompi",
@@ -235,19 +610,19 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "金宇彬新剧《GIFT》预告公开 饰演全国垫底高中棒球队教练",
+    "title_zh": "金宇彬新剧《GIFT》预告公开 执掌全国垫底高中棒球队",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "tvN 公开了新剧《GIFT》的预告片",
       "《GIFT》改编自人气网络漫画，是一部体育题材剧集",
-      "金宇彬在剧中饰演前职业棒球投手教练郑敏勇（音译）",
-      "郑敏勇因一场意外事故获得特殊能力，随后成为高中棒球队主教练",
+      "金宇彬在剧中饰演郑敏勇（音译），曾是职业棒球投手教练",
+      "郑敏勇因一场意外事故获得特殊能力，随后成为高中棒球队的主教练",
       "该高中棒球队在全国排名垫底"
     ],
-    "summary_zh": "tvN 公开了新剧《GIFT》的预告片。该剧改编自人气网络漫画，是一部体育题材剧集，由金宇彬主演。他饰演前职业棒球投手教练郑敏勇，因一场意外事故获得特殊能力，随后成为全国垫底高中棒球队的主教练。",
-    "extracted_at": "2026-10-23T11:09:26.602672+08:00"
+    "summary_zh": "tvN 公开了新剧《GIFT》的预告片。该剧改编自人气网络漫画，是一部体育题材剧集，由金宇彬主演。他饰演的郑敏勇曾是职业棒球投手教练，因一场意外事故获得特殊能力，随后成为全国排名垫底的高中棒球队主教练。",
+    "extracted_at": "2026-10-23T17:03:43.133443+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -262,41 +637,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《KPop Demon Hunters》演员签名卡领衔2026 Skybox Metal Universe SE系列",
+    "title_zh": "《KPop Demon Hunters》演员签名卡领衔2026 Skybox Metal Universe SE 收藏卡系列",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅提及《KPop Demon Hunters》演员签名卡（Cast Autos）是2026年Skybox Metal Universe SE系列的亮点",
-      "原文来源为Sole Retriever，未提供具体演员名单、发行日期、卡片数量或价格等信息"
+      "原文仅提及《KPop Demon Hunters》演员签名卡（Cast Autos）将出现在2026年Skybox Metal Universe SE收藏卡系列中",
+      "原文来源为Sole Retriever，未提供具体演员名单、发行日期、卡种数量或价格等细节"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters》演员签名卡成为2026年Skybox Metal Universe SE系列的亮点]",
-    "extracted_at": "2026-10-23T11:09:28.213077+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "ILLIT's 'BREAK EVEN' Tops K-Pop Girl Group Pre-Saves Over 500,000 - 조선일보",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVkxneEw4dGVjZkVhUEhOR0lncDJkUkhtdl95TkdyOWV6SlZYODBkSWI0bUkya214eVhOc2ZUREgzWHJDV2dxcUtNakNydm9CVE0yNzZ2TXlSaXpSLXdxMWl1c1FCX0lUajc4SmNzTEc0QzM5NWtwUVVIa1B3SjYxYW53WDFpUG9Dd3dhWkRn?oc=5",
-    "content": "ILLIT's 'BREAK EVEN' Tops K-Pop Girl Group Pre-Saves Over 500,000 조선일보",
-    "published_at": "1023google-kpop",
-    "published_ts": 1792710764.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "ILLIT《BREAK EVEN》预存突破50万，居K-Pop女团之首",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "ILLIT 的《BREAK EVEN》预存量突破 50 万",
-      "该预存量在 K-Pop 女团中排名第一",
-      "消息来源为朝鲜日报（조선일보）"
-    ],
-    "summary_zh": "据朝鲜日报报道，ILLIT 的《BREAK EVEN》预存量突破 50 万，在 K-Pop 女团中位居第一。原文仅提供上述统计，未提及具体预存平台、统计时间范围或各国家/地区分布数据。",
-    "extracted_at": "2026-10-23T11:09:30.126722+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters》演员签名卡将作为2026年Skybox Metal Universe SE收藏卡系列的亮点]",
+    "extracted_at": "2026-10-23T17:03:45.130297+08:00"
   },
   {
     "source_id": "soompi",
@@ -317,10 +667,10 @@
     "is_blurred": false,
     "facts_list": [
       "时间：10月22日，主体：徐玄振所属社Management SOOP，动作：发布官方声明",
-      "声明内容：徐玄振的父亲最近去世，目前她和家人正在准备葬礼，因此尚未设置灵堂"
+      "声明内容：徐玄振父亲最近去世，家人正在准备葬礼，因此尚未设置灵堂"
     ],
-    "summary_zh": "10月22日，徐玄振所属社Management SOOP发布官方声明，宣布徐玄振的父亲最近去世。声明中提到，徐玄振和家人目前正在准备葬礼，因此尚未设置灵堂。",
-    "extracted_at": "2026-10-23T11:09:31.855979+08:00"
+    "summary_zh": "10月22日，徐玄振所属社Management SOOP发布声明，宣布徐玄振父亲最近去世。声明中提到，徐玄振和家人目前正在准备葬礼，因此尚未设置灵堂。",
+    "extracted_at": "2026-10-23T17:03:47.052259+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -340,11 +690,11 @@
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅列出标题：5 Animated Netflix Movies Better Than Kpop Demon Hunters，来源为 Comic Book Resources",
-      "原文正文仅重复标题，未提及具体片名、上映时间、评分或任何数据"
+      "原文仅列出标题：5 Animated Netflix Movies Better Than Kpop Demon Hunters - Comic Book Resources",
+      "原文正文仅重复标题内容，未提及具体片名、上映时间、评分数据或具名来源"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：盘点五部优于《Kpop 恶魔猎人》的 Netflix 动画电影]",
-    "extracted_at": "2026-10-23T11:09:33.513244+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：5 Animated Netflix Movies Better Than Kpop Demon Hunters]",
+    "extracted_at": "2026-10-23T17:03:48.526437+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -364,12 +714,12 @@
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "Complex 发布盘点文章，主题为 K-Pop 偶像喜爱的体育队伍",
-      "文中提及的偶像包括 BTS 的 Suga 与 Stray Kids 的 Seungmin",
-      "原文未提供具体队伍名称、时间、数据或其他具名细节"
+      "Complex发布盘点文章，主题为K-Pop偶像喜爱的体育队伍",
+      "文中提及的偶像包括BTS成员Suga与Stray Kids成员Seungmin",
+      "原文未提供具体队伍名称、时间、数据或其他具名来源"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：Complex 盘点了从 BTS Suga 到 Stray Kids Seungmin 等 K-Pop 偶像喜爱的体育队伍。]",
-    "extracted_at": "2026-10-23T11:09:35.258097+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：Complex盘点了从BTS Suga到Stray Kids Seungmin等K-Pop偶像喜爱的体育队伍。]",
+    "extracted_at": "2026-10-23T17:03:50.038594+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -389,10 +739,10 @@
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅提及墨西哥韩流从K-pop粉丝圈延伸至贸易与外交领域，未提供具体时间、地点、数据或具名来源"
+      "原文仅提及墨西哥韩流从K-pop粉丝圈延伸至贸易和外交领域，未提供具体时间、地点、数据或具名来源"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：墨西哥的韩流已从K-pop粉丝圈扩展至贸易与外交领域]",
-    "extracted_at": "2026-10-23T11:09:36.644387+08:00"
+    "extracted_at": "2026-10-23T17:03:51.592535+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -407,15 +757,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "AI韩团虚拟成员被设定“怀孕” 粉丝困惑不解",
+    "title_zh": "AI韩流组合虚拟成员被设定为“怀孕”引粉丝困惑",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅称AI K-pop组合的粉丝被告知其中一名虚拟成员“怀孕”，未提及组合名称、成员名称、消息来源或具体时间地点"
+      "原文仅称AI K-pop组合的粉丝被告知其中一名虚拟成员“怀孕”，未提及组合名称、成员名称、消息来源或具体时间地点",
+      "原文未说明该设定由谁发布、通过何种渠道发布，也未提及所属社回应或后续进展"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：AI K-pop组合的粉丝在被告知其中一名虚拟成员“怀孕”后感到困惑不解]",
-    "extracted_at": "2026-10-23T11:09:38.220909+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：AI韩流组合的粉丝在被告知其中一名虚拟成员“怀孕”后感到困惑]",
+    "extracted_at": "2026-10-23T17:03:53.563582+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -430,16 +781,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "首届82WORLD韩流音乐节洛杉矶举行 主办方就入场问题承诺改进",
+    "title_zh": "首届82WORLD韩流音乐节洛杉矶举行，主办方就入场问题承诺改进",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "首届82WORLD K-Pop音乐节在美国洛杉矶举办，吸引人群到场",
-      "主办方就入场/通行（access）问题表态，承诺“做得更好”"
+      "原文仅提及首届82WORLD K-Pop音乐节在洛杉矶举办并吸引人群到场",
+      "主办方就入场/通行问题表示将“做得更好”，未说明具体问题细节"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：首届82WORLD K-Pop音乐节在洛杉矶吸引人群到场，主办方就入场通行问题承诺“做得更好”。]",
-    "extracted_at": "2026-10-23T11:09:39.980121+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：首届82WORLD K-Pop音乐节在洛杉矶吸引人群到场，主办方就入场问题承诺“做得更好”。]",
+    "extracted_at": "2026-10-23T17:03:55.361529+08:00"
   },
   {
     "source_id": "soompi",
@@ -459,12 +810,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "田柾国《3D》MV于2025年10月23日下午2点左右（KST）在YouTube突破3亿次播放",
-      "该MV于2023年9月29日下午1点（KST）发布，历时约3年23天13小时达成此里程碑",
+      "田柾国《3D》MV于2025年10月23日下午2点左右（韩国时间）在YouTube突破3亿次播放",
+      "该MV于2023年9月29日下午1点（韩国时间）发布，历时约3年23天13小时达成此里程碑",
       "这是田柾国第三支播放量破3亿的个人MV"
     ],
-    "summary_zh": "防弹少年团成员田柾国的个人单曲《3D》MV在YouTube上的播放量已突破3亿次。该MV于2023年9月29日发布，在2025年10月23日下午2点左右（KST）达成这一里程碑，耗时约3年23天13小时。这是田柾国第三支播放量超过3亿的个人音乐视频。",
-    "extracted_at": "2026-10-23T11:09:41.872786+08:00"
+    "summary_zh": "防弹少年团成员田柾国的个人单曲《3D》MV在YouTube上的播放量于10月23日下午2点左右（韩国时间）突破3亿次。该MV于2023年9月29日发布，历时约3年23天13小时达成这一成绩，成为田柾国第三支播放量超过3亿的个人MV。",
+    "extracted_at": "2026-10-23T17:03:57.467267+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -479,16 +830,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《KPop Demon Hunters 2》被IMDb称为Netflix颠覆性之作",
+    "title_zh": "《KPop Demon Hunters 2》将成Netflix变革之作，IMDb解析原因",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅称《KPop Demon Hunters 2》将成为Netflix的一部颠覆性电影，未提供具体上映时间、制作团队、演员阵容或剧情细节",
-      "原文来源标注为IMDb，但正文内容未展开任何可核实的具体事实"
+      "原文仅提及《KPop Demon Hunters 2》将是一部对Netflix具有变革意义的电影，来源标注为IMDb",
+      "原文未提供影片上映时间、制作阵容、剧情内容或具体数据等可确认信息"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters 2》将成为Netflix的一部颠覆性电影]",
-    "extracted_at": "2026-10-23T11:09:43.557657+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters 2》将成为一部对Netflix具有变革意义的电影]",
+    "extracted_at": "2026-10-23T17:03:59.384685+08:00"
   },
   {
     "source_id": "asianwiki",
