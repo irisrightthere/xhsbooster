@@ -1,5 +1,155 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-Pop Risers & Fallers: October 2026 - https://thebiaslist.com/",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9fOFhWU2cwY2VHU3FCV2k1ZGdqcTdVLVl6b2dlc015djE3Vlo0eUVqRWc5OGhReGlMMlFVWW5xMzRValZaTklweDdqSG5tdTBOS0p1TW9ITWpNTU9KaUtPVEhycWdiamxIeWw2US1wVUlQT2gyRHZwWQ?oc=5",
+    "content": "K-Pop Risers & Fallers: October 2026 https://thebiaslist.com/",
+    "published_at": "1024google-kpop",
+    "published_ts": 1792849532.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "K-Pop 2026年10月榜单升降盘点（原文未提供具体内容）",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅包含标题“K-Pop Risers & Fallers: October 2026”及来源网址 thebiaslist.com，未提供任何具体艺人、歌曲、榜单数据或升降细节"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：K-Pop 2026年10月榜单升降盘点]",
+    "extracted_at": "2026-10-24T23:18:20.318858+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Weekend Planner: Pink Dress Run, Harvest Festival and K-Pop Ice Bears game - WBIR",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUUtuVlBIeXQ0UlR3ZG1OSDBNZVhsMktvZGRZQXRSUmIxejZkdUNqT1hUYTlIOVVJVTJtTXlvcVFUTURIV08xZU1KOVFPVV9LVHRraHNjTEoxWHBoSF8xWkxvSUNzcnVJcTdHWFV4dzdvR3N0VFNoeERRd3E3Q0xTLU85UWtQOG1EZ0poZUxUTU83MzhQNkcyT0xYOGU0NXVGV2xkZ05LMG11dXNEeGdxczdXQ3JOYWt6ODdDS2xobS1zOXpicm9OYVhMYnpFakRHeVZfRW8yVmRSdEtVakszZ2hRUTJ5QXprekJHdlh2UnNHQQ?oc=5",
+    "content": "Weekend Planner: Pink Dress Run, Harvest Festival and K-Pop Ice Bears game WBIR",
+    "published_at": "1024google-kpop",
+    "published_ts": 1792839540.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "周末活动指南：粉裙跑、丰收节与K-Pop冰熊队比赛",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅列出三项周末活动名称：Pink Dress Run（粉裙跑）、Harvest Festival（丰收节）、K-Pop Ice Bears game（K-Pop冰熊队比赛）",
+      "原文来源为美国田纳西州诺克斯维尔当地媒体WBIR",
+      "原文未提及具体时间、地点、参与主体或任何数据细节"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：周末活动指南包括粉裙跑、丰收节和K-Pop冰熊队比赛]",
+    "extracted_at": "2026-10-24T23:18:21.759554+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kim Ji Yeon And Jang Se Hyuk Are Chased By A Knife-Wielding Kang Hyung Suk In “Dive Into You”",
+    "url": "https://www.soompi.com/article/1881127wpp/kim-ji-yeon-and-jang-se-hyuk-are-chased-by-a-knife-wielding-kang-hyung-suk-in-dive-into-you",
+    "content": "Get ready for a suspenseful chase on the next episode of “Dive into You”! “Dive into You” is a fantasy romance drama starring WJSN’s Kim Ji Yeon (Bona) as Yoon Ha Na, an A-list actress who unexpectedly winds up swapping bodies with her twin brother Yoon Ha Ru (Jang Se Hyuk). After traveling back in&#8230; Continue reading Kim Ji Yeon And Jang Se Hyuk Are Chased By A Knife-Wielding Kang Hyung Suk In &#8220;Dive Into You&#8221;\nThe post Kim Ji Yeon And Jang Se Hyuk Are Chased By A Knife-Wielding Kang Hyung Suk In &#8220;Dive Into You&#8221; appeared first on Soompi.",
+    "published_at": "1024soompi",
+    "published_ts": 1792838718.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《Dive Into You》金智妍与张世赫遭持刀姜亨锡追击",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "剧集：《Dive into You》是一部奇幻爱情剧。",
+      "主演：宇宙少女成员金智妍（Bona）饰演顶级女演员尹荷娜，张世赫饰演她的双胞胎弟弟尹荷鲁。",
+      "剧情设定：尹荷娜意外与双胞胎弟弟尹荷鲁交换了身体。",
+      "最新情节：在下一集中，金智妍和张世赫饰演的角色遭到姜亨锡饰演的角色持刀追击。"
+    ],
+    "summary_zh": "奇幻爱情剧《Dive into You》下一集将上演紧张追击戏码：宇宙少女金智妍（Bona）饰演的顶级女演员尹荷娜与张世赫饰演的双胞胎弟弟尹荷鲁，遭到姜亨锡饰演的角色持刀追赶。该剧讲述尹荷娜意外与弟弟交换身体后发生的故事。",
+    "extracted_at": "2026-10-24T23:18:24.195885+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "BLACKPINK’s Jisoo Reveals Adorable Solo Light Stick",
+    "url": "https://www.soompi.com/article/1881122wpp/blackpinks-jisoo-reveals-adorable-solo-light-stick",
+    "content": "BLACKPINK’s Jisoo is launching a new solo light stick! On October 24, Jisoo revealed the first glimpse of her adorable official light stick, which is designed to look like an ice cream cone. Jisoo’s solo light stick will be available starting on October 26 KST. Check out the sneak peek of Jisoo’s new light stick&#8230; Continue reading BLACKPINK&#8217;s Jisoo Reveals Adorable Solo Light Stick\nThe post BLACKPINK&#8217;s Jisoo Reveals Adorable Solo Light Stick appeared first on Soompi.",
+    "published_at": "1024soompi",
+    "published_ts": 1792836393.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "BLACKPINK金智秀公开个人应援棒 冰淇淋造型10月26日开售",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "10月24日，BLACKPINK成员金智秀首次公开个人官方应援棒，设计为冰淇淋甜筒造型",
+      "该应援棒将于10月26日韩国时间开始发售"
+    ],
+    "summary_zh": "BLACKPINK成员金智秀于10月24日通过社交媒体首次公开个人官方应援棒，造型为可爱的冰淇淋甜筒。该应援棒将于10月26日韩国时间正式开售。原文未提及具体售价及购买渠道。",
+    "extracted_at": "2026-10-24T23:18:26.327956+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Ahn Hyo Seop Makes Hong Hwa Yeon Burst Into Tears In “Final Table” Premiere",
+    "url": "https://www.soompi.com/article/1881115wpp/ahn-hyo-seop-makes-hong-hwa-yeon-burst-into-tears-in-final-table-premiere",
+    "content": "In tonight’s premiere of “Final Table,” Hong Hwa Yeon will break down sobbing because of Ahn Hyo Seop! JTBC’s “Final Table” is an upcoming drama that tells the story of talented Korean chefs from around the world who gather to compete in “The Table: K-Chef 2026,” a high-stakes cooking competition to determine the best Korean&#8230; Continue reading Ahn Hyo Seop Makes Hong Hwa Yeon Burst Into Tears In &#8220;Final Table&#8221; Premiere\nThe post Ahn Hyo Seop Makes Hong Hwa Yeon Burst Into Tears In &#8220;Final Table&#8221; Premiere appeared first on Soompi.",
+    "published_at": "1024soompi",
+    "published_ts": 1792834568.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "安孝燮令洪华妍在《Final Table》首播中泪崩",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "JTBC新剧《Final Table》于今晚首播",
+      "剧中洪华妍因安孝燮而痛哭",
+      "剧情围绕全球韩裔厨师齐聚‘The Table: K-Chef 2026’展开激烈厨艺竞争"
+    ],
+    "summary_zh": "JTBC新剧《Final Table》今晚首播，剧中洪华妍因安孝燮而痛哭。该剧讲述全球韩裔厨师齐聚‘The Table: K-Chef 2026’展开激烈厨艺竞争的故事。",
+    "extracted_at": "2026-10-24T23:18:28.358342+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Jung Yong Hwa Ends Up In Hong Seung Hee’s Hospital Room In “Oh! My Guard” Premiere",
+    "url": "https://www.soompi.com/article/1881108wpp/jung-yong-hwa-ends-up-in-hong-seung-hees-hospital-room-in-oh-my-guard-premiere",
+    "content": "Upcoming drama “Oh! My Guard” has shared an intriguing sneak peek of tonight’s premiere! “Oh! My Guard” is a new romance drama that tells the unpredictable love story of Uhm Tae Bong (CNBLUE’s Jung Yong Hwa), an A-list actor with a fatal flaw, and Oh Hae Ra (Hong Seung Hee), a mysterious woman who believes&#8230; Continue reading Jung Yong Hwa Ends Up In Hong Seung Hee&#8217;s Hospital Room In &#8220;Oh! My Guard&#8221; Premiere\nThe post Jung Yong Hwa Ends Up In Hong Seung Hee&#8217;s Hospital Room In &#8220;Oh! My Guard&#8221; Premiere appeared first on Soompi.",
+    "published_at": "1024soompi",
+    "published_ts": 1792832539.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "郑容和主演新剧《Oh! My Guard》首播 剧照曝光医院场景",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "剧名：《Oh! My Guard》",
+      "主演：郑容和（CNBLUE）、洪承熙",
+      "角色：郑容和饰严泰峰（A-list演员），洪承熙饰吴海拉（神秘女子）",
+      "首播时间：今晚（原文未提具体日期）",
+      "公开内容：首播剧照，郑容和出现在洪承熙的医院病房"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：新剧《Oh! My Guard》公开了今晚首播的剧照，郑容和饰演的严泰峰出现在洪承熙饰演的吴海拉的医院病房。]",
+    "extracted_at": "2026-10-24T23:18:30.224907+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -15,13 +165,13 @@
     "title_zh": "《除了你之外的恋爱》安恩真与李周安约会剧照公开，感情升温",
     "source_type": "韩剧",
     "risk_level": "低",
-    "is_blurred": false,
+    "is_blurred": true,
     "facts_list": [
       "KBS 2TV 剧集《除了你之外的恋爱》公开了安恩真与李周安浪漫约会的剧照。",
-      "该剧是一部讲述交往10年的情侣在感情中经历意外变化的爱情剧。"
+      "该剧是一部浪漫爱情剧，讲述一对交往10年的情侣在感情中经历意想不到的情感变化。"
     ],
-    "summary_zh": "KBS 2TV 爱情剧《除了你之外的恋爱》公开了主演安恩真与李周安的约会剧照，两人在剧中感情逐渐升温。该剧讲述一对交往10年的情侣在关系中经历意想不到的情感变化。",
-    "extracted_at": "2026-10-24T16:35:28.299201+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：KBS 2TV 剧集《除了你之外的恋爱》公开了安恩真与李周安浪漫约会的剧照，该剧讲述交往10年的情侣经历情感变化。]",
+    "extracted_at": "2026-10-24T23:18:32.207149+08:00"
   },
   {
     "source_id": "soompi",
@@ -43,10 +193,10 @@
     "facts_list": [
       "剧集《100天的谎言》背景设定在日本殖民时期的朝鲜",
       "金裕贞饰演李佳景，角色身份为扒手，后成为卧底间谍",
-      "原文仅称金裕贞的间谍任务将迎来转折点，未提及具体行为或事件"
+      "原文仅提及下一集金裕贞的间谍任务将迎来转折点，未说明具体情节"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：金裕贞在《100天的谎言》中的间谍任务将迎来转折点]",
-    "extracted_at": "2026-10-24T16:35:30.215491+08:00"
+    "extracted_at": "2026-10-24T23:18:34.249529+08:00"
   },
   {
     "source_id": "soompi",
@@ -67,10 +217,10 @@
     "is_blurred": false,
     "facts_list": [
       "2025年10月24日韩国时间，RESCENE公开官方应援棒第二版设计，并预告即将推出",
-      "RESCENE新版应援棒预购将于2025年10月26日韩国时间中午12点开启"
+      "RESCENE新应援棒预售将于2025年10月26日韩国时间中午12点开启"
     ],
-    "summary_zh": "RESCENE于10月24日韩国时间公开官方应援棒第二版的设计，并预告即将推出。新版应援棒的预购将于10月26日韩国时间中午12点正式开启。",
-    "extracted_at": "2026-10-24T16:35:32.037936+08:00"
+    "summary_zh": "RESCENE于10月24日韩国时间公开官方应援棒第二版设计，并预告即将推出。新应援棒预售将于10月26日韩国时间中午12点开启，官方同步释出设计首图。",
+    "extracted_at": "2026-10-24T23:18:35.926768+08:00"
   },
   {
     "source_id": "soompi",
@@ -85,18 +235,19 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "CRAVITY北京粉丝会当天取消，所属社称因当地情况",
+    "title_zh": "CRAVITY北京粉丝见面会当天临时取消，所属社称因当地情况",
     "source_type": "韩娱",
-    "risk_level": "低",
+    "risk_level": "中",
     "is_blurred": false,
     "facts_list": [
-      "时间：10月24日当天",
-      "主体：CRAVITY（韩国男团）",
-      "事件：原定于当天晚些时候举行的北京粉丝见面会取消",
-      "官方回应：所属社STARSHIP Entertainment发布声明称取消原因为“由于当地情况”"
+      "时间：2025年10月24日（原文称“On October 24”）",
+      "主体：韩国组合CRAVITY",
+      "事件：原定于当天晚些时候举行的北京粉丝见面会，在活动当天被取消",
+      "官方回应：所属社STARSHIP Entertainment发布声明，称取消原因为“due to local circumstances”（因当地情况）",
+      "声明形式：STARSHIP Entertainment以官方立场文形式告知，原文仅展示开头部分"
     ],
-    "summary_zh": "10月24日，STARSHIP Entertainment宣布，旗下男团CRAVITY原定于当天晚些时候在北京举行的粉丝见面会取消，理由为“由于当地情况”。所属社发布了官方声明公布这一消息，但声明全文未在原文中完整呈现。",
-    "extracted_at": "2026-10-24T16:35:33.939720+08:00"
+    "summary_zh": "据Soompi报道，CRAVITY原定于10月24日当天在北京举行的粉丝见面会，在活动当天被临时取消。所属社STARSHIP Entertainment于当日发布官方声明，称取消原因是“因当地情况”，但未进一步说明具体细节。声明以官方立场文形式公开，原文仅展示开头部分。",
+    "extracted_at": "2026-10-24T23:18:38.520087+08:00"
   },
   {
     "source_id": "soompi",
@@ -117,10 +268,10 @@
     "is_blurred": false,
     "facts_list": [
       "10月24日，BLACKPINK成员Jisoo正式宣布将回归，发行新数字单曲《ADDICTED》。",
-      "Jisoo同时公开了新单曲的首波预告，发行日期定为10月30日（韩国时间）。"
+      "Jisoo同时公开了新单曲的首波预告，单曲定于10月30日（韩国时间）发行。"
     ],
-    "summary_zh": "BLACKPINK成员Jisoo于10月24日宣布，将于10月30日韩国时间发行全新数字单曲《ADDICTED》，并同步公开了首波预告。",
-    "extracted_at": "2026-10-24T16:35:35.472808+08:00"
+    "summary_zh": "BLACKPINK成员Jisoo于10月24日宣布，将于10月30日（韩国时间）发行全新数字单曲《ADDICTED》，并同步公开了首波预告。",
+    "extracted_at": "2026-10-24T23:18:40.229566+08:00"
   },
   {
     "source_id": "soompi",
@@ -135,18 +286,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "安孝燮《Final Table》首播在即 为特别之人倾心准备料理",
+    "title_zh": "安孝燮在《Final Table》中为特别之人倾注心血准备餐食",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "JTBC新剧《Final Table》于今晚首播",
-      "该剧讲述来自世界各地的韩国厨师齐聚‘The Table: K-Chef 2026’烹饪大赛，角逐最佳韩国厨师称号",
-      "安孝燮饰演角色Kang（姓氏姜，名字未公开）",
-      "安孝燮在剧中为一位特别之人倾注心血准备餐食"
+      "JTBC新剧《Final Table》公开了今晚首播的新片段",
+      "《Final Table》讲述来自世界各地的才华横溢的韩国厨师齐聚一堂，参加‘The Table: K-Chef 2026’高风险烹饪比赛，以决出最佳韩国厨师的故事",
+      "安孝燮饰演姜（Kang）一角"
     ],
-    "summary_zh": "JTBC新剧《Final Table》公开了今晚首播的抢先看片段。该剧以‘The Table: K-Chef 2026’烹饪大赛为背景，讲述全球韩国厨师展开激烈厨艺对决的故事。安孝燮饰演的Kang在剧中为一位特别之人精心准备料理，倾注真心。",
-    "extracted_at": "2026-10-24T16:35:38.031428+08:00"
+    "summary_zh": "JTBC新剧《Final Table》公开了今晚首播的新片段，安孝燮在剧中饰演姜一角，为特别之人倾注心血准备餐食。该剧讲述来自世界各地的韩国厨师齐聚‘The Table: K-Chef 2026’烹饪比赛，争夺最佳韩国厨师称号。",
+    "extracted_at": "2026-10-24T23:18:42.479226+08:00"
   },
   {
     "source_id": "soompi",
@@ -161,15 +311,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "7位K-Pop舞者以流畅优雅舞姿俘获人心",
+    "title_zh": "盘点7位舞姿流畅优雅的K-Pop舞者",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅称7位K-Pop偶像展示了流畅优雅的舞蹈风格，未列出具体名单。"
+      "原文为Soompi发布的榜单类文章，主题为7位以流畅优雅风格著称的K-Pop舞者",
+      "原文正文仅提供导语，未列出具体7位艺人姓名",
+      "原文未提及具体时间、数据或具名来源"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：7位K-Pop舞者以流畅优雅的舞蹈风格俘获人心]",
-    "extracted_at": "2026-10-24T16:35:39.425742+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：这七位K-Pop偶像展现了更流畅、更优雅的舞蹈技巧]",
+    "extracted_at": "2026-10-24T23:18:44.413653+08:00"
   },
   {
     "source_id": "soompi",
@@ -184,18 +336,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《Doctor X》创周五最高收视，成整周最热门剧集",
+    "title_zh": "《Doctor X》创周五最高收视，成一周全频道收视冠军",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "10月23日，SBS新医疗黑色剧《Doctor X》第五集播出，由金智媛主演。",
-      "该集创下《Doctor X》周五播出的最高收视率（具体数字原文未完整提供）。",
-      "该剧成为整周收视率最高的节目。",
-      "收视数据来源为Nielsen Korea。"
+      "SBS新医疗黑色剧《Doctor X》由金智媛主演，10月23日播出的第5集创下该剧周五最高收视率",
+      "据Nielsen Korea数据，第5集平均收视率具体数值原文未完整显示（原文截断于“scored an average…”）",
+      "该剧本周成为全频道一周内收视率最高的节目"
     ],
-    "summary_zh": "SBS新剧《Doctor X》于10月23日播出的第五集创下该剧周五最高收视率，并成为整周最热门节目。该剧由金智媛主演，是一部医疗黑色剧，收视数据由Nielsen Korea提供。",
-    "extracted_at": "2026-10-24T16:35:41.649528+08:00"
+    "summary_zh": "SBS医疗黑色剧《Doctor X》（金智媛主演）于10月23日播出第5集，创下该剧周五档最高收视率。据Nielsen Korea统计，该集平均收视率具体数值原文未完整呈现，但该剧成为本周全频道收视最高的节目。原文指出，该剧周五收视通常低于周六。",
+    "extracted_at": "2026-10-24T23:18:46.818421+08:00"
   },
   {
     "source_id": "soompi",
@@ -210,39 +361,18 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "10月歌手品牌评价排名公布 RESCENE蝉联榜首",
+    "title_zh": "10月歌手品牌评价排名公布，RESCENE蝉联榜首",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "韩国企业评价研究所公布了10月歌手品牌评价排名",
-      "排名基于9月24日至10月24日期间的大数据，综合分析歌手的媒体曝光、消费者参与、互动和社区认知指数",
+      "排名基于对歌手媒体曝光、消费者参与、互动和社区认知指数的分析",
+      "分析使用的大数据采集自9月24日至10月24日",
       "RESCENE在本月榜单中蝉联第一"
     ],
-    "summary_zh": "韩国企业评价研究所公布了10月歌手品牌评价排名，该排名通过分析9月24日至10月24日期间的大数据得出，综合考量了歌手的媒体曝光、消费者参与、互动和社区认知等指数。RESCENE在本月榜单中蝉联第一。",
-    "extracted_at": "2026-10-24T16:35:43.634137+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "A2O Lite's Siri: 'K-Pop Not My Genre' Amid High-Difficulty Choreography - 조선일보",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRTFOdnlqUHB4N1hPZHEyWTBQWTh1bFNXY2hmV1pWN3BHc01acEhNWXVtR2pNN25Qc2FXaVVUMGhJN2hpZFBJQl9keGZyUFRHdkVaX0ZjVlFyQjRUN18tNWdVWlA4bWVKVE5lcmJnVXY4VnRYaUkyRDhHelNYd0hudVF1U1l1MU1TUmVjX2dn?oc=5",
-    "content": "A2O Lite's Siri: 'K-Pop Not My Genre' Amid High-Difficulty Choreography 조선일보",
-    "published_at": "1024google-kpop",
-    "published_ts": 1792807769.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "A2O Lite's Siri: 'K-Pop Not My Genre' Amid High-Difficulty Choreography - 조선일보",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [],
-    "summary_zh": "A2O Lite's Siri: 'K-Pop Not My Genre' Amid High-Difficulty Choreography 조선일보",
-    "extracted_at": "2026-10-24T16:35:45.697819+08:00",
-    "extraction_failed": true
+    "summary_zh": "韩国企业评价研究所公布了10月歌手品牌评价排名，该排名通过分析9月24日至10月24日期间的大数据，综合媒体曝光、消费者参与、互动和社区认知等指数得出。RESCENE在本月榜单中蝉联榜首。",
+    "extracted_at": "2026-10-24T23:18:48.966495+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -262,12 +392,12 @@
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文标题称：受超强台风“蔷薇”（Champi）登陆台湾影响，K-Pop演唱会延期",
-      "原文未提及具体延期的演唱会名称、艺人、原定日期及改期安排",
-      "原文未提及主办方或所属社的具体声明内容"
+      "原文仅提及超强台风“蔷薇”（Super Typhoon Champi）袭击台湾，导致K-Pop演唱会延期",
+      "原文未提及具体延期的演唱会名称、艺人、原定日期或延期后日期",
+      "原文未提及主办方或官方声明内容"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：受超强台风“蔷薇”袭击台湾影响，K-Pop演唱会延期]",
-    "extracted_at": "2026-10-24T16:35:47.319390+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：超强台风“蔷薇”袭击台湾，K-Pop演唱会因此延期]",
+    "extracted_at": "2026-10-24T23:18:50.640626+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -282,17 +412,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "脱北艺术团歌手观K-pop直播秀：韩国变得\"更真实\"",
+    "title_zh": "前朝鲜艺术团歌手：K-pop现场演出让韩国更真实",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "报道来源：自由亚洲电台（Radio Free Asia）",
-      "报道主题：一名前朝鲜艺术团歌手观看韩国K-pop现场演出后的感受",
-      "原文未提及该歌手的姓名、演出具体时间、地点、演出团体及曲目等细节"
+      "原文来源为自由亚洲电台（Radio Free Asia），报道对象为一名前朝鲜艺术团歌手",
+      "该歌手表示，观看K-pop现场演出让她对韩国的感受更真实",
+      "原文未提及该歌手姓名、演出具体时间、地点、组合名称及任何数据"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：一场K-pop现场演出让一名前朝鲜艺术团歌手觉得韩国\"更真实\"。]",
-    "extracted_at": "2026-10-24T16:35:48.817445+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：K-pop现场演出让一名前朝鲜艺术团歌手觉得韩国更真实]",
+    "extracted_at": "2026-10-24T23:18:52.307009+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -307,17 +437,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《KPop Demon Hunters》登陆Immersive Gamebox推出全新互动体验",
+    "title_zh": "《KPop Demon Hunters》登陆Immersive Gamebox推出全新沉浸式体验",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
       "《KPop Demon Hunters》将登陆 Immersive Gamebox 平台",
-      "该项目为 Immersive Gamebox 的一项全新体验内容",
-      "信息来源为 Bleeding Cool News 的报道"
+      "将推出全新沉浸式体验项目",
+      "信息来源：Bleeding Cool News"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters》将登陆 Immersive Gamebox 并推出全新体验]",
-    "extracted_at": "2026-10-24T16:35:50.211778+08:00"
+    "extracted_at": "2026-10-24T23:18:53.800544+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -338,10 +468,11 @@
     "is_blurred": true,
     "facts_list": [
       "IGN 报道：《KPop Demon Hunters》将推出沉浸式游戏体验",
-      "玩家可在该体验中创建自己的“超级粉丝”（Superfan）虚拟形象"
+      "玩家可在该体验中创建自己的“超级粉丝”（Superfan）虚拟形象",
+      "原文未提及上线时间、平台、开发商、价格等具体信息"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：新的《KPop Demon Hunters》沉浸式游戏体验将让玩家创建自己的“超级粉丝”虚拟形象]",
-    "extracted_at": "2026-10-24T16:35:51.730715+08:00"
+    "extracted_at": "2026-10-24T23:18:55.511105+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -361,10 +492,11 @@
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅提及《KPop Demon Hunters》万圣节儿童装扮需注意相关指南，未提供具体指南内容、发布时间、发布主体或其他细节"
+      "原文仅提及儿童可在万圣节装扮成《KPop Demon Hunters》角色，并需留意相关指南",
+      "原文未提供指南的具体条款、发布方、时间或地点等细节"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：孩子们可以在万圣节装扮成《KPop Demon Hunters》角色，但需留意相关指南]",
-    "extracted_at": "2026-10-24T16:35:53.322923+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：孩子们可以在万圣节装扮成《KPop Demon Hunters》角色，但需留意相关指南。]",
+    "extracted_at": "2026-10-24T23:18:57.045369+08:00"
   },
   {
     "source_id": "soompi",
@@ -387,10 +519,10 @@
       "ZEROBASEONE小分队EMP由成员Seok Matthew和Park Gunwook组成",
       "EMP于9月发行了首张混音带《EMP Mixtape Vol.1: We the Extra》",
       "10月24日，EMP首支数码单曲《RUN》的预告公开",
-      "该单曲是与Dynamicduo的合作曲"
+      "《RUN》是与Dynamicduo的合作曲"
     ],
-    "summary_zh": "ZEROBASEONE小分队EMP（由Seok Matthew和Park Gunwook组成）将于10月24日公开首支数码单曲《RUN》的预告，该单曲与Dynamicduo合作。EMP曾于9月发行首张混音带《EMP Mixtape Vol.1: We the Extra》。",
-    "extracted_at": "2026-10-24T16:35:55.399915+08:00"
+    "summary_zh": "ZEROBASEONE小分队EMP（由Seok Matthew和Park Gunwook组成）将于10月24日公开首支数码单曲《RUN》的预告，该曲与Dynamicduo合作。此前，EMP于9月发行了首张混音带《EMP Mixtape Vol.1: We the Extra》。",
+    "extracted_at": "2026-10-24T23:18:59.150523+08:00"
   },
   {
     "source_id": "asianwiki",
