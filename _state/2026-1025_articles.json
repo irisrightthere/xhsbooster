@@ -1,5 +1,128 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "RIIZE – Insomnia - https://thebiaslist.com/",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQbm5KTzBreVhmaGpTX1B0S2dfN2EwVVpmOFpQajN3amtxX2tLLXJObmZ2SWRVMm1LczFIVEVPWW84VTVTZUM5ZnVYRDRGcjJjS2xEZXJFSTBxOEdWbXVQRkNxT2ZoVFFKaUY2ZXE4RQ?oc=5",
+    "content": "RIIZE – Insomnia https://thebiaslist.com/",
+    "published_at": "1025google-kpop",
+    "published_ts": 1792941640.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "RIIZE 新曲《Insomnia》获音乐博客 The Bias List 报道",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅包含标题“RIIZE – Insomnia”及来源链接 thebiaslist.com，未提供发布时间、榜单数据、制作信息或官方声明等具体事实"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：RIIZE – Insomnia]",
+    "extracted_at": "2026-10-25T23:28:14.466644+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: A2O LITE Takes 4th Win For “NEON” On “Inkigayo”; Performances By IVE, BABYMONSTER, NMIXX, And More",
+    "url": "https://www.soompi.com/article/1881316wpp/watch-a2o-lite-takes-4th-win-for-neon-on-inkigayo-performances-by-ive-babymonster-nmixx-and-more",
+    "content": "A2O LITE has won a fourth music show trophy for their debut track “NEON”! On the October 25 episode of SBS’s “Inkigayo,” the candidates for first place were i-dle’s Soyeon’s “I’m gonna TOESA,” NCT WISH’s “I SPY,” and A2O LITE’s “NEON.” A2O LITE ultimately took the win with a total of 6,060 points. Congratulations to&#8230; Continue reading Watch: A2O LITE Takes 4th Win For &#8220;NEON&#8221; On &#8220;Inkigayo&#8221;; Performances By IVE, BABYMONSTER, NMIXX, And More\nThe post Watch: A2O LITE Takes 4th Win For &#8220;NEON&#8221; On &#8220;Inkigayo&#8221;; Performances By IVE, BABYMONSTER, NMIXX, And More appeared first on Soompi.",
+    "published_at": "1025soompi",
+    "published_ts": 1792939781.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "A2O LITE凭《NEON》获《人气歌谣》第四个音乐节目冠军",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "10月25日播出的SBS《人气歌谣》中，一位候补为i-dle素妍的《I'm gonna TOESA》、NCT WISH的《I SPY》和A2O LITE的《NEON》",
+      "A2O LITE最终以总分6,060分获得第一名",
+      "这是A2O LITE出道曲《NEON》拿下的第四个音乐节目冠军奖杯",
+      "本期节目还有IVE、BABYMONSTER、NMIXX等艺人带来表演"
+    ],
+    "summary_zh": "10月25日播出的SBS《人气歌谣》中，A2O LITE凭借出道曲《NEON》获得音乐节目第四个冠军。当日一位候补为i-dle素妍的《I'm gonna TOESA》、NCT WISH的《I SPY》和A2O LITE的《NEON》，A2O LITE最终以总分6,060分胜出。本期节目同台表演的还有IVE、BABYMONSTER、NMIXX等。",
+    "extracted_at": "2026-10-25T23:28:16.690048+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "THIS WEEK IN K-POP: Ranking the New Releases from October 18 – 24 - thebiaslist.com",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQlc1U3QwcTJsMlZKd3RQRGlka0swVGY5S25mX1lUR3VZWnZBMmc4Rkp3MjMwZVFNM0JDWGZkVG5wWmpTMnlJcjQ3RkZEZEJUVmNnVEplVmZoZnF2bUFUeEVCclN5M1V3cVB1ZXBMeUtWalo3LVk4cTNBeEhvcnJQa3ppYW1TVUZjNm0ycTRaTXR0ZHhXZzBYTVBlY0pyTWs?oc=5",
+    "content": "THIS WEEK IN K-POP: Ranking the New Releases from October 18 – 24 thebiaslist.com",
+    "published_at": "1025google-kpop",
+    "published_ts": 1792936156.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "K-Pop本周新歌盘点：10月18日至24日发行作品排名",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及thebiaslist.com对10月18日至24日期间K-Pop新发行作品进行排名",
+      "原文未列出任何具体歌手、歌曲名称、排名顺序或数据"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：thebiaslist.com对10月18日至24日这一周发布的K-Pop新歌进行了排名]",
+    "extracted_at": "2026-10-25T23:28:18.559025+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "KPop Demon Hunters In The Daily LITG, 25th October 2026 - Bleeding Cool News",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMUpydVlRVXp0MjExazFqaThKNGN3dzRseFhib3lnX0Jvek05dHJQSTN2aEFzWnB4b0g2ZEhaQlh2RGVueXI2MmVvRjNlV2dzLS03VXJjYVlhenF6bnZwNm02VVl0S0NyTmVMYkhPcjRKUkZvd28xbVJkQzRXSmt5bGhJU1RsaW1nbldZN091dw?oc=5",
+    "content": "KPop Demon Hunters In The Daily LITG, 25th October 2026 Bleeding Cool News",
+    "published_at": "1025google-kpop",
+    "published_ts": 1792919289.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《KPop Demon Hunters》登上2026年10月25日《每日LITG》",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及《KPop Demon Hunters》出现在2026年10月25日的《The Daily LITG》栏目中",
+      "原文来源为Bleeding Cool News",
+      "原文未提供具体事件、数据或具名细节"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters》登上2026年10月25日《The Daily LITG》栏目]",
+    "extracted_at": "2026-10-25T23:28:20.277141+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kim Ji Yeon And Jang Se Hyuk Take Their Final Journey Into The Past In “Dive Into You”",
+    "url": "https://www.soompi.com/article/1881284wpp/kim-ji-yeon-and-jang-se-hyuk-take-their-final-journey-into-the-past-in-dive-into-you",
+    "content": "Kim Ji Yeon and Jang Se Hyuk have only one chance left to set things right on “Dive into You”! “Dive into You” is a fantasy romance drama starring WJSN’s Kim Ji Yeon (Bona) as Yoon Ha Na, an A-list actress who unexpectedly winds up swapping bodies with her twin brother Yoon Ha Ru (Jang&#8230; Continue reading Kim Ji Yeon And Jang Se Hyuk Take Their Final Journey Into The Past In &#8220;Dive Into You&#8221;\nThe post Kim Ji Yeon And Jang Se Hyuk Take Their Final Journey Into The Past In &#8220;Dive Into You&#8221; appeared first on Soompi.",
+    "published_at": "1025soompi",
+    "published_ts": 1792918902.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "金智妍与张世赫在《Dive into You》中踏上最后一次回溯过去的旅程",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "《Dive into You》是一部奇幻爱情剧，由宇宙少女成员金智妍（Bona）饰演顶级女演员尹河娜，她意外与双胞胎弟弟尹河鲁（张世赫饰）交换了身体。",
+      "金智妍与张世赫在剧中只剩下最后一次机会来纠正错误。",
+      "该剧的最新剧情涉及两人最后一次回溯过去的旅程。"
+    ],
+    "summary_zh": "《Dive into You》是一部奇幻爱情剧，主演金智妍（宇宙少女Bona）饰演顶级女演员尹河娜，她意外与双胞胎弟弟尹河鲁（张世赫饰）交换身体。最新剧情中，金智妍与张世赫的角色只剩下最后一次机会来纠正错误，两人踏上了最后一次回溯过去的旅程。",
+    "extracted_at": "2026-10-25T23:28:22.759623+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -12,17 +135,42 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《Oh! My Guard》郑容和与洪承熙“死而复生”后冲突",
+    "title_zh": "郑容和与洪承熙在《Oh! My Guard》中因复活归来起冲突",
     "source_type": "韩剧",
     "risk_level": "低",
-    "is_blurred": false,
+    "is_blurred": true,
     "facts_list": [
-      "郑容和在《Oh! My Guard》中饰演有致命缺陷的顶级演员严泰峰",
-      "洪承熙饰演神秘女子吴海拉，在“死而复生”后与严泰峰发生冲突",
-      "该剧是一部浪漫爱情剧，讲述严泰峰和吴海拉之间不可预测的爱情故事"
+      "郑容和在剧中饰演顶级演员严泰峰（音译），洪承熙饰演神秘女子吴海拉（音译）",
+      "剧情涉及吴海拉从死亡中归来后与严泰峰发生冲突",
+      "该剧为爱情剧，讲述严泰峰与吴海拉之间不可预测的爱情故事"
     ],
-    "summary_zh": "郑容和在《Oh! My Guard》中饰演有致命缺陷的顶级演员严泰峰，洪承熙饰演神秘女子吴海拉。在吴海拉“死而复生”回归后，两人之间发生了冲突。该剧是一部讲述两人不可预测爱情故事的浪漫剧。",
-    "extracted_at": "2026-10-25T16:54:35.450799+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：郑容和在《Oh! My Guard》中对洪承熙感到困惑]",
+    "extracted_at": "2026-10-25T23:28:24.701680+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "AIA Life Korea hosts K-pop concert for customers, employees - The Korea Times",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcy1GeUtybmhyMTZQMGhtVWRKc0NjQVQ1SUMyRUxhT2pzZEdlcERiVEJXQmVYa0JCZktROS1ucjdhWHVrcFdhWmowNFZCZmk0MTBaNkY0NWdyclRmNkZyRm45SUdHbE1JeVhPemlsTHozVlViQ1dYU0pfVndCZzdrRDB4NFBHeVluTjRjY0tMcEVqZFVybjRqU0huak9HZ2FKd0tjaFVpRV9EcnFjOXZqa1N1NExFdndkelVfdGxB0gHDAUFVX3lxTFBuV1dRRWYzUWtsVmQ2czBPTzVrY2RnOGI5UXJFUUZPNmZxWWpKR0F1U09EaFlzNEhTNWJvWFBEUjhzRjhlTDlEV1ZlUE84aTZmcF9aYzdVTDYwbEE2WlNHZVQySnBKOXAwRmI1TUZpWTN0S2diWjlMcWI2TFRqUmtZZ2dLVjZFZUVFdmprajR4YkR0aU5mRDVHNV9talc5a2YtMjJNVXkwVVphNWZMeDA2Q0dxbWtBa2t4TzF1bXV5X3VjTQ?oc=5",
+    "content": "AIA Life Korea hosts K-pop concert for customers, employees The Korea Times",
+    "published_at": "1025google-kpop",
+    "published_ts": 1792912503.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "友邦保险韩国举办K-pop演唱会，面向客户与员工",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "事件主体：友邦保险韩国（AIA Life Korea）",
+      "事件内容：举办K-pop演唱会，面向客户与员工",
+      "信息来源：The Korea Times"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：友邦保险韩国为客户和员工举办K-pop演唱会]",
+    "extracted_at": "2026-10-25T23:28:25.834917+08:00"
   },
   {
     "source_id": "soompi",
@@ -37,19 +185,19 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "金裕贞与朴珍荣在《100天的谎言》中各自接到任务要赢得对方的心",
+    "title_zh": "《100天的谎言》金裕贞与朴珍荣双双接到任务：赢得对方的心",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "剧集《100天的谎言》背景设定在日据时期的朝鲜",
-      "该剧为tvN的间谍爱情古装剧",
-      "金裕贞饰演李佳景（音译），是一名扒手，后来成为卧底间谍",
-      "朴珍荣饰演的角色与金裕贞的角色关系复杂",
-      "两人各自接到任务要赢得对方的心"
+      "剧集《100天的谎言》背景设定在日本殖民时期的朝鲜",
+      "该剧为tvN播出的时代间谍爱情剧",
+      "金裕贞饰演扒手出身的卧底间谍李佳景（音译）",
+      "朴珍荣饰演的角色与金裕贞角色关系复杂",
+      "最新剧情中，两人均接到任务要赢得对方的心"
     ],
-    "summary_zh": "tvN新剧《100天的谎言》以日据时期朝鲜为背景，讲述间谍爱情故事。金裕贞饰演扒手出身的卧底间谍李佳景，与朴珍荣饰演的角色关系复杂。最新剧情中，两人各自接到任务，需要赢得对方的心，关系将更加纠葛。",
-    "extracted_at": "2026-10-25T16:54:37.787917+08:00"
+    "summary_zh": "tvN新剧《100天的谎言》以日本殖民时期朝鲜为背景，金裕贞饰演扒手出身的卧底间谍李佳景，与朴珍荣饰演的角色展开复杂关系。最新剧情中，两人双双接到任务，需赢得对方的心，关系进一步复杂化。",
+    "extracted_at": "2026-10-25T23:28:27.946771+08:00"
   },
   {
     "source_id": "soompi",
@@ -64,16 +212,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《Final Table》洪华妍追至机场恳求安孝燮",
+    "title_zh": "《Final Table》洪华妍追至机场 恳求安孝燮",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "JTBC新剧《Final Table》讲述来自世界各地的天才韩国厨师齐聚一堂，参加高风险烹饪比赛“The Table: K-Chef 2026”的故事。",
-      "在下一集中，洪华妍将一路追到机场，恳求安孝燮。"
+      "JTBC新剧《Final Table》讲述来自世界各地的韩国厨师齐聚‘The Table: K-Chef 2026’烹饪大赛展开激烈竞争的故事",
+      "下一集中，洪华妍将追安孝燮到机场并恳求他"
     ],
-    "summary_zh": "JTBC新剧《Final Table》即将播出下一集，洪华妍饰演的角色将追到机场，向安孝燮饰演的角色恳求。该剧讲述全球天才韩国厨师参加“The Table: K-Chef 2026”烹饪比赛的故事。",
-    "extracted_at": "2026-10-25T16:54:39.689798+08:00"
+    "summary_zh": "JTBC新剧《Final Table》即将播出下一集，洪华妍饰演的角色将追安孝燮到机场并恳求他。该剧讲述世界各地韩国厨师参加‘The Table: K-Chef 2026’烹饪大赛的故事。",
+    "extracted_at": "2026-10-25T23:28:29.864643+08:00"
   },
   {
     "source_id": "soompi",
@@ -88,17 +236,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Red Velvet《Russian Roulette》MV播放量破3亿，成组合第三支破3亿MV",
+    "title_zh": "Red Velvet《Russian Roulette》MV播放量破3亿，成组合第三支达此里程碑MV",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "时间：2023年10月25日韩国时间凌晨6点左右",
+      "时间：10月25日韩国时间凌晨6点左右",
       "事件：Red Velvet《Russian Roulette》MV在YouTube播放量突破3亿次",
       "里程碑：这是Red Velvet第三支播放量破3亿的MV，前两支为《Bad Boy》和《Psycho》"
     ],
-    "summary_zh": "Red Velvet的《Russian Roulette》音乐视频在YouTube上的播放量已超过3亿次。截至10月25日韩国时间凌晨6点左右，该MV达到了这一里程碑，成为Red Velvet继《Bad Boy》和《Psycho》之后第三支播放量破3亿的MV。",
-    "extracted_at": "2026-10-25T16:54:41.536911+08:00"
+    "summary_zh": "Red Velvet的《Russian Roulette》音乐视频在10月25日韩国时间凌晨6点左右于YouTube突破3亿次播放量，成为组合继《Bad Boy》和《Psycho》之后第三支达到此里程碑的MV。",
+    "extracted_at": "2026-10-25T23:28:31.350152+08:00"
   },
   {
     "source_id": "soompi",
@@ -119,12 +267,12 @@
     "is_blurred": false,
     "facts_list": [
       "时间：10月24日",
-      "主体：演员金佳恩与尹善宇",
+      "主体：演员金佳恩和尹善宇",
       "动作：通过Instagram宣布怀上第一个孩子",
       "背景：两人因2014年合作电视剧《相爱的蒲公英》相识，交往10年后结婚"
     ],
-    "summary_zh": "10月24日，演员金佳恩与尹善宇通过Instagram宣布怀孕喜讯，将迎来第一个孩子。两人因2014年合作电视剧《相爱的蒲公英》结缘，交往10年后结婚。",
-    "extracted_at": "2026-10-25T16:54:43.105604+08:00"
+    "summary_zh": "10月24日，演员金佳恩和尹善宇通过Instagram宣布怀孕喜讯，将迎来他们的第一个孩子。两人因2014年合作电视剧《相爱的蒲公英》结缘，交往10年后结婚。",
+    "extracted_at": "2026-10-25T23:28:33.161391+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -144,10 +292,11 @@
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅提及Yoplait品牌将《KPop Demon Hunters》相关内容带到伦敦一家沙龙，未说明具体时间、地点名称、活动形式或参与人员"
+      "品牌方Yoplait在伦敦一家沙龙举办《KPop Demon Hunters》相关主题活动",
+      "原文仅提及活动地点为伦敦沙龙，未披露具体日期、参与艺人、活动形式或数据"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：Yoplait将《KPop Demon Hunters》带到伦敦一家沙龙]",
-    "extracted_at": "2026-10-25T16:54:44.537376+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：Yoplait brings KPop Demon Hunters to a London salon]",
+    "extracted_at": "2026-10-25T23:28:34.871102+08:00"
   },
   {
     "source_id": "soompi",
@@ -165,13 +314,13 @@
     "title_zh": "ALPHA DRIVE ONE所属社就建宇诉讼及未来活动发表新声明",
     "source_type": "韩娱",
     "risk_level": "中",
-    "is_blurred": true,
+    "is_blurred": false,
     "facts_list": [
       "10月25日，ALPHA DRIVE ONE成员建宇（Geonwoo）自4月起暂停活动，并对所属社WAKEONE提起诉讼，要求裁定专属合同效力及艺人合同状态。",
       "WAKEONE已就建宇的诉讼及未来活动发表正式声明。"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：WAKEONE就ALPHA DRIVE ONE建宇的诉讼及未来活动发表正式声明]",
-    "extracted_at": "2026-10-25T16:54:46.573983+08:00"
+    "summary_zh": "WAKEONE于10月25日就旗下组合ALPHA DRIVE ONE成员建宇的诉讼及未来活动发表正式声明。建宇自今年4月起暂停活动，并对WAKEONE提起诉讼，要求法院裁定其专属合同的有效性及艺人合同状态。声明具体内容未在原文中详细说明。",
+    "extracted_at": "2026-10-25T23:28:37.015418+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -192,10 +341,10 @@
     "is_blurred": true,
     "facts_list": [
       "原文仅提及《KPop Demon Hunters》与《鱿鱼游戏》的演员出席Netflix韩国十周年纪念活动",
-      "原文未提及活动具体时间、地点、出席艺人姓名及活动细节"
+      "原文未提及活动具体时间、地点、出席者姓名及活动细节"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters》与《鱿鱼游戏》主演出席Netflix韩国十周年纪念活动]",
-    "extracted_at": "2026-10-25T16:54:48.000227+08:00"
+    "extracted_at": "2026-10-25T23:28:38.591753+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -215,12 +364,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "Netflix在韩国举办活动庆祝进军韩国市场十周年，泰德·萨兰多斯出席",
-      "《KPop Demon Hunters》和《鱿鱼游戏》的明星们参加了庆典",
-      "萨兰多斯在活动上预告了《Tantara》和《僵尸校园》第二季"
+      "Netflix在韩国举办活动庆祝进军韩国市场十周年",
+      "《KPop Demon Hunters》和《鱿鱼游戏》的明星们出席了该活动",
+      "Netflix CEO泰德·萨兰多斯在活动上预告了新项目《Tantara》和《僵尸校园》第二季"
     ],
-    "summary_zh": "Netflix在韩国举行活动庆祝进入韩国市场十周年，CEO泰德·萨兰多斯出席。《KPop Demon Hunters》和《鱿鱼游戏》的明星们到场助阵。萨兰多斯在活动上预告了《Tantara》和《僵尸校园》第二季。",
-    "extracted_at": "2026-10-25T16:54:50.001004+08:00"
+    "summary_zh": "Netflix在韩国举行十周年庆典活动，《KPop Demon Hunters》和《鱿鱼游戏》的演员们到场助阵。Netflix CEO泰德·萨兰多斯在活动上透露了即将推出的新项目《Tantara》以及《僵尸校园》第二季的相关信息。",
+    "extracted_at": "2026-10-25T23:28:40.398732+08:00"
   },
   {
     "source_id": "soompi",
@@ -242,11 +391,11 @@
     "facts_list": [
       "《Doctor X》10月24日播出的最新一集全国平均收视率达19.5%，创自身最高收视",
       "该剧成为SBS历史上周五周六剧收视率第五高的作品",
-      "《Doctor X》前半部分播出结束，收视率逼近20%",
+      "《Doctor X》前半部分以最高收视率收官",
       "《Final Table》于同日首播"
     ],
-    "summary_zh": "据Nielsen Korea数据，SBS医疗剧《Doctor X》10月24日播出的最新一集全国平均收视率为19.5%，刷新自身最高纪录，并成为SBS周五周六剧历史收视率第五高的作品。该剧前半部分已完结，收视逼近20%。同日，新剧《Final Table》首播。",
-    "extracted_at": "2026-10-25T16:54:51.679102+08:00"
+    "summary_zh": "据Nielsen Korea数据，10月24日播出的《Doctor X》最新一集全国平均收视率为19.5%，刷新自身最高纪录，并成为SBS周五周六剧历史收视率第五高的作品。该剧前半部分以最高收视率收官，同时《Final Table》于同日首播。",
+    "extracted_at": "2026-10-25T23:28:42.211336+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -269,11 +418,11 @@
       "主体：K-pop组合TWICE",
       "事件：迎来出道11周年",
       "动作：推出特别黑胶唱片《TWICE World Tour Finale In Seoul - Live》",
-      "唱片内容：记录TWICE首尔世界巡演终场演出实况",
+      "唱片内容：记录首尔世界巡演终场演出实况",
       "消息来源：V13 Media报道"
     ],
     "summary_zh": "据V13 Media报道，全球K-pop组合TWICE迎来出道11周年，为此推出特别黑胶唱片《TWICE World Tour Finale In Seoul - Live》，收录首尔世界巡演终场演出实况。原文未提及唱片发行日期、曲目数量及销量等具体数据。",
-    "extracted_at": "2026-10-25T16:54:53.473047+08:00"
+    "extracted_at": "2026-10-25T23:28:44.009895+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -294,10 +443,10 @@
     "is_blurred": true,
     "facts_list": [
       "原文仅提及AIA Life Korea成功举办名为“K-Pop Together, Give Together”的演唱会",
-      "原文未提及具体举办时间、地点、出演艺人及活动数据"
+      "原文未提及具体日期、地点、出演艺人、观众人数或活动细节"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：AIA Life Korea成功举办了“K-Pop Together, Give Together”演唱会]",
-    "extracted_at": "2026-10-25T16:54:54.929060+08:00"
+    "extracted_at": "2026-10-25T23:28:45.387710+08:00"
   },
   {
     "source_id": "soompi",
@@ -319,33 +468,10 @@
     "facts_list": [
       "2025年10月25日，韩国媒体MyDaily报道称《Signal》第二季《The Second Signal》将于12月7日首播。",
       "tvN针对该报道作出了简短回应。",
-      "《Signal》第一季于2016年播出。"
+      "报道提及该剧原定计划（原文截断，未提供具体细节）。"
     ],
-    "summary_zh": "10月25日，MyDaily报道称2016年热门韩剧《Signal》的第二季《The Second Signal》将于12月7日首播。对此，tvN作出了简短回应。报道还提到该剧原定……（原文在此处截断）。",
-    "extracted_at": "2026-10-25T16:54:56.779321+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "YOUNG POSSE — K-Pop Group Kicks Off First European Tour in London - The Korea Daily",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPbFZ4V1lac3hyZ3d1alVjazhBWXhHbkxRTjFwTk9rYnpnVFIwTW1MZTlOWTFwU1ZTc3lveDl5WExaVDhNV0czMUtvVmJidzZvN0E5SFkwbnRpc1lTMG8xcUpUVGgxTjRsXzFj?oc=5",
-    "content": "YOUNG POSSE — K-Pop Group Kicks Off First European Tour in London The Korea Daily",
-    "published_at": "1025google-kpop",
-    "published_ts": 1792890564.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "YOUNG POSSE 伦敦启程首次欧洲巡演",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "原文仅提及 YOUNG POSSE 在伦敦开启首次欧洲巡演，未提供具体日期、场馆名称、场次数量或其他巡演城市信息"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：YOUNG POSSE 在伦敦开启首次欧洲巡演]",
-    "extracted_at": "2026-10-25T16:54:58.351344+08:00"
+    "summary_zh": "10月25日，MyDaily报道称2016年热门韩剧《Signal》的第二季《The Second Signal》将于12月7日首播。对此，tvN作出了简短回应，但未透露具体立场。报道还提到该剧原定计划，但原文内容不完整。",
+    "extracted_at": "2026-10-25T23:28:47.490912+08:00"
   },
   {
     "source_id": "soompi",
@@ -362,16 +488,16 @@
     "is_new": true,
     "title_zh": "ALPHA DRIVE ONE建宇起诉所属社WAKEONE，WAKEONE简短回应",
     "source_type": "韩娱",
-    "risk_level": "中",
+    "risk_level": "高",
     "is_blurred": false,
     "facts_list": [
-      "10月25日有报道称，ALPHA DRIVE ONE成员建宇已对所属社WAKEONE提起诉讼，寻求确认其专属合约效力的判决。",
-      "建宇自4月起暂停组合活动。",
-      "WAKEONE对此事发表了简短评论。",
-      "后续更新：ALPHA DRIVE ONE所属社就建宇的诉讼及未来活动发表了新声明。"
+      "ALPHA DRIVE ONE成员建宇（Geonwoo）自4月起暂停组合活动",
+      "10月25日报道称，建宇已对所属社WAKEONE提起诉讼，要求裁定合约效力",
+      "WAKEONE方面简短回应了此事",
+      "后续更新：ALPHA DRIVE ONE所属社就建宇诉讼及未来活动发表新声明"
     ],
-    "summary_zh": "据10月25日报道，ALPHA DRIVE ONE成员建宇已向所属社WAKEONE提起诉讼，要求确认专属合约的有效性。建宇自今年4月起便中断了组合活动。WAKEONE方面对此作出了简短回应。随后，ALPHA DRIVE ONE所属社就建宇的诉讼及未来活动安排发布了新的官方声明。",
-    "extracted_at": "2026-10-25T16:55:00.547513+08:00"
+    "summary_zh": "据10月25日报道，ALPHA DRIVE ONE成员建宇（Geonwoo）已向所属社WAKEONE提起诉讼，要求裁定合约效力。建宇自今年4月起暂停组合活动。WAKEONE方面简短回应了此事。随后，ALPHA DRIVE ONE所属社就建宇的诉讼及未来活动发表了新声明。",
+    "extracted_at": "2026-10-25T23:28:49.700895+08:00"
   },
   {
     "source_id": "soompi",
@@ -386,19 +512,18 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "PLAVE凭《Star Trace》摘得《音乐中心》首个一位，总分8299",
+    "title_zh": "PLAVE凭《Star Trace》获《音乐中心》首个一位，总分8299",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "时间：10月24日播出的MBC《音乐中心》",
       "一位候补：A2O LITE《NEON》、NCT WISH《I SPY》、PLAVE《Star Trace》",
-      "结果：PLAVE《Star Trace》以总分8299分获得第一名",
-      "该一位是PLAVE新主打曲《Star Trace》的首个音乐节目一位",
-      "同场出演歌手包括IVE、BABYMONSTER等"
+      "结果：PLAVE《Star Trace》以总分8299分获得第一个音乐节目一位",
+      "其他表演嘉宾：IVE、BABYMONSTER等"
     ],
-    "summary_zh": "在10月24日播出的MBC《音乐中心》中，PLAVE凭借新曲《Star Trace》获得音乐节目首个一位。当天一位候补为A2O LITE《NEON》、NCT WISH《I SPY》和PLAVE《Star Trace》，最终PLAVE以总分8299分胜出。节目同场还有IVE、BABYMONSTER等歌手带来表演。",
-    "extracted_at": "2026-10-25T16:55:02.836569+08:00"
+    "summary_zh": "在10月24日播出的MBC《音乐中心》中，PLAVE凭借新曲《Star Trace》获得音乐节目首个一位。一位候补为A2O LITE《NEON》、NCT WISH《I SPY》和PLAVE《Star Trace》，最终PLAVE以总分8299分夺冠。本期节目还有IVE、BABYMONSTER等艺人带来表演。",
+    "extracted_at": "2026-10-25T23:28:51.674576+08:00"
   },
   {
     "source_id": "soompi",
@@ -419,11 +544,11 @@
     "is_blurred": true,
     "facts_list": [
       "原文为Soompi发布的C剧入门推荐片单，标题称包含15部以上作品",
-      "原文仅泛泛提及类型涵盖初恋、暗恋、复杂关系、年代剧等，未列出任何具体剧名",
+      "原文仅笼统提及类型涵盖初恋、暗恋、复杂关系、年代传奇等，未列出任何具体剧名",
       "原文未提及具体播出时间、平台、演员或数据"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：如果你想探索C剧但不知从何入手，这份入门片单涵盖初恋、暗恋、复杂关系、年代剧等多种类型]",
-    "extracted_at": "2026-10-25T16:55:04.774787+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：如果你想探索C剧但不知从何入手，这份入门片单为你准备，涵盖初恋、暗恋、复杂关系、年代传奇等多种类型]",
+    "extracted_at": "2026-10-25T23:28:53.734079+08:00"
   },
   {
     "source_id": "asianwiki",
