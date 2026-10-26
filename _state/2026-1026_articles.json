@@ -1,5 +1,424 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Netflix announces K-Pop audition series - Advanced Television",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMTRDbG5hU0l4ZnlFMWdBU0lfaE1qSVNKVEMxQUVQX0ctcy1sempNNWxDbXVVRDU2Q2tiNjNxdG1wcEM4V0E3dUY2c3dPVW9OT2hIQ20zWURUa243QTAzc0w2WlVERHJuMWJ3anZWeVF3U1JPMEhhSmJDV2VYN2N2eXoyVWUtS0hUazdjRGRrelk?oc=5",
+    "content": "Netflix announces K-Pop audition series Advanced Television",
+    "published_at": "1026google-kpop",
+    "published_ts": 1793006054.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Netflix宣布推出K-Pop选秀系列节目",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "Netflix宣布将推出K-Pop选秀系列节目",
+      "原文来源为Advanced Television，未提供节目名称、播出时间、评委阵容等具体信息"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：Netflix宣布推出K-Pop选秀系列节目]",
+    "extracted_at": "2026-10-26T17:37:22.488722+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Yim Si Wan And Seol In Ah Spend An Unexpected Late Night Together In “Love In Disguise”",
+    "url": "https://www.soompi.com/article/1881546wpp/yim-si-wan-and-seol-in-ah-spend-an-unexpected-late-night-together-in-love-in-disguise",
+    "content": "“Love in Disguise” has dropped more stills ahead of its upcoming episode! “Love in Disguise” is a romance thriller drama about Yoon Yi Jun (Yim Si Wan), an arrogant chaebol heir who becomes a murder suspect, and Kang Jae Hee (Seol In Ah), a former special forces officer who goes undercover as his personal secretary&#8230; Continue reading Yim Si Wan And Seol In Ah Spend An Unexpected Late Night Together In &#8220;Love In Disguise&#8221;\nThe post Yim Si Wan And Seol In Ah Spend An Unexpected Late Night Together In &#8220;Love In Disguise&#8221; appeared first on Soompi.",
+    "published_at": "1026soompi",
+    "published_ts": 1793004325.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "任时完与薛仁雅在《Love in Disguise》中意外共度深夜",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "剧集《Love in Disguise》是一部浪漫惊悚剧，讲述傲慢的财阀继承人尹怡俊（任时完 饰）成为谋杀嫌疑人，以及前特种部队军官姜在熙（薛仁雅 饰）伪装成他的私人秘书的故事。",
+      "制作方在即将播出的剧集前发布了新的剧照，展示了任时完和薛仁雅饰演的角色意外共度深夜的场景。"
+    ],
+    "summary_zh": "韩剧《Love in Disguise》公开了新剧照，主演任时完和薛仁雅在剧中意外共度深夜。该剧是一部浪漫惊悚剧，讲述财阀继承人尹怡俊（任时完 饰）成为谋杀嫌疑人，前特种部队军官姜在熙（薛仁雅 饰）伪装成他的私人秘书，两人之间发生的故事。",
+    "extracted_at": "2026-10-26T17:37:24.683712+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "LE SSERAFIM — BBC and France 5 Spotlight K-Pop Group - The Korea Daily",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9haHRGejdBak9vV3RqWjdEdjlaLVNHZFhKdVpLTUZTQS1EZzUxZU1OZGpiVHRKTjFYcFhtM1hkeWRQcHl0d3NiUjJ3bHA0aGsyUzlCTDRuaUt6OVJndFRGc2poOFYtcDlERTNVaFdB?oc=5",
+    "content": "LE SSERAFIM — BBC and France 5 Spotlight K-Pop Group The Korea Daily",
+    "published_at": "1026google-kpop",
+    "published_ts": 1793002216.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "LE SSERAFIM获BBC与法国5台专题报道",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及BBC与法国5台对LE SSERAFIM进行专题报道，未提供报道时间、节目名称、具体内容或播出日期等细节"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：BBC与法国5台对K-pop组合LE SSERAFIM进行专题报道]",
+    "extracted_at": "2026-10-26T17:37:26.214205+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Jang Gyuri And Kim Min Chul Talk About Their New Horror Thriller Film “My Home”",
+    "url": "https://www.soompi.com/article/1881514wpp/jang-gyuri-and-kim-min-chul-talk-about-their-new-horror-thriller-film-my-home",
+    "content": "Jang Gyuri and Kim Min Chul have shared their thoughts on their upcoming film “My Home”! “My Home” follows Gyu Bin (Jang Gyuri), a college student who moves into a luxury apartment under unusually generous terms and begins experiencing strange events while living with her elegant landlady, Geum Rim (Bae Jong Ok). Jang Gyuri leads&#8230; Continue reading Jang Gyuri And Kim Min Chul Talk About Their New Horror Thriller Film “My Home”\nThe post Jang Gyuri And Kim Min Chul Talk About Their New Horror Thriller Film “My Home” appeared first on Soompi.",
+    "published_at": "1026soompi",
+    "published_ts": 1793001909.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "张圭悧与金敏哲谈新恐怖惊悚片《My Home》",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "张圭悧与金敏哲分享了他们对新片《My Home》的看法",
+      "《My Home》剧情：大学生圭彬（张圭悧饰）以异常优厚的条件搬进豪华公寓，与优雅房东金琳（裴宗玉饰）同住后开始经历奇怪事件",
+      "张圭悧担任主演"
+    ],
+    "summary_zh": "张圭悧与金敏哲就新片《My Home》分享感想。该片讲述大学生圭彬（张圭悧饰）以异常优厚条件入住豪华公寓，与优雅房东金琳（裴宗玉饰）同住后经历奇怪事件的恐怖惊悚故事。张圭悧担任主演。",
+    "extracted_at": "2026-10-26T17:37:28.291449+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "CJ OLIVE YOUNG launches ‘GREEN ROOM’ to bridge K-pop content with live commerce - marketech apac",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ3hGZTYzMTdYM0pSVDhxb0pNYnNZT1dmZ0xtaWhsVWtjMVc1YTRFQ0I1WlhhTldBYzhCODNCbFdLRC1YaUFMXzF6bTQyeE1feEp2cG8zNWpITlZKVjZ2RzJKRXc3M2k5VjhheTUzUHFNSG9OVDBTX25wZjRPQzBlZzg4clliaG14cEYtbnF4UFNYdFdQOXB3b1FzRXB4SGhkbUxacjJSLWw?oc=5",
+    "content": "CJ OLIVE YOUNG launches ‘GREEN ROOM’ to bridge K-pop content with live commerce marketech apac",
+    "published_at": "1026google-kpop",
+    "published_ts": 1793001168.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "CJ Olive Young推出\"GREEN ROOM\"，连接K-pop内容与直播电商",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "CJ Olive Young推出名为\"GREEN ROOM\"的新项目",
+      "该项目定位为连接K-pop内容与直播电商"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：CJ Olive Young推出\"GREEN ROOM\"，以连接K-pop内容与直播电商]",
+    "extracted_at": "2026-10-26T17:37:29.591057+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Park Bo Gum, Lee Sang Yi, And Ko Kyung Pyo Can’t Understand A Word Of Local Dialect In “The Village Barber 2”",
+    "url": "https://www.soompi.com/article/1881534wpp/watch-park-bo-gum-lee-sang-yi-and-ko-kyung-pyo-cant-understand-a-word-of-local-dialect-in-the-village-barber-2",
+    "content": "Park Bo Gum, Lee Sang Yi, and Ko Kyung Pyo face an unexpected “language barrier” in their new barbershop in “The Village Barber 2”! “The Village Barber 2” is a variety show in which Park Bo Gum runs a barbershop in a small seaside village together with his close friends Lee Sang Yi and Ko&#8230; Continue reading Watch: Park Bo Gum, Lee Sang Yi, And Ko Kyung Pyo Can’t Understand A Word Of Local Dialect In “The Village Barber 2”\nThe post Watch: Park Bo Gum, Lee Sang Yi, And Ko Kyung Pyo Can’t Understand A Word Of Local Dialect In “The Village Barber 2” appeared first on Soompi.",
+    "published_at": "1026soompi",
+    "published_ts": 1792999585.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "朴宝剑、李相二、高庚杓在《乡村理发店2》因方言不通陷入沟通困境",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "朴宝剑、李相二、高庚杓出演综艺《乡村理发店2》",
+      "节目设定为朴宝剑与好友李相二、高庚杓在海边小村共同经营理发店",
+      "三人因听不懂当地方言而遭遇语言障碍"
+    ],
+    "summary_zh": "朴宝剑、李相二、高庚杓在综艺《乡村理发店2》中于海边小村经营理发店，节目预告显示三人因完全听不懂当地方言而陷入沟通困境，形成意外的“语言壁垒”。",
+    "extracted_at": "2026-10-26T17:37:31.639630+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Netflix Confirms New K-Pop Audition Series ‘We Go High’ and Opens Casting for Arts High School’s Brightest Stars - About Netflix",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ES2N4LVBkT2FIVlFvMFFVQmEyTEtfaTJQUHdJTkZtY2poQWxjMUd6R2loMEJENmdrZWUtdzhLeHRkdzk5QS1femNIdUtDaHdfaDBjLVAzRnFDVEFuOTdRSFp3?oc=5",
+    "content": "Netflix Confirms New K-Pop Audition Series ‘We Go High’ and Opens Casting for Arts High School’s Brightest Stars About Netflix",
+    "published_at": "1026google-kpop",
+    "published_ts": 1792998583.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Netflix官宣新K-pop选秀《We Go High》 面向艺术高中招募选手",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Netflix确认制作新K-pop选秀节目《We Go High》",
+      "节目面向艺术高中学生开放 casting，招募对象为艺术高中最耀眼的明星"
+    ],
+    "summary_zh": "Netflix正式宣布推出全新K-pop选秀系列《We Go High》，并启动选手招募，目标锁定艺术高中里最具潜力的新星。节目旨在从艺术高中选拔人才，具体播出时间和评委阵容尚未公布。",
+    "extracted_at": "2026-10-26T17:37:33.603009+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Bae Hyeon Seong, Cha Kang Yoon, And Park Yoon Ho Get Caught Up In A Dangerous Deal In “The Substitute” Teaser",
+    "url": "https://www.soompi.com/article/1881499wpp/watch-bae-hyeon-seong-cha-kang-yoon-and-park-yoon-ho-get-caught-up-in-a-dangerous-deal-in-the-substitute-teaser",
+    "content": "Upcoming series “The Substitute” has unveiled its first teaser! “The Substitute” is a crime thriller about three young men whose conflicting desires and personal struggles lead them toward an irreversible crime on the day of the college entrance exam. At the center is a top-ranking student from a low-income family who attends a prestigious private&#8230; Continue reading Watch: Bae Hyeon Seong, Cha Kang Yoon, And Park Yoon Ho Get Caught Up In A Dangerous Deal In “The Substitute” Teaser\nThe post Watch: Bae Hyeon Seong, Cha Kang Yoon, And Park Yoon Ho Get Caught Up In A Dangerous Deal In “The Substitute” Teaser appeared first on Soompi.",
+    "published_at": "1026soompi",
+    "published_ts": 1792997641.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "裴贤圣、车康允、朴允浩新剧《替身》首曝预告，卷入危险交易",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "新剧《The Substitute》（暂译《替身》）发布首支预告片",
+      "该剧为犯罪惊悚题材，讲述三名青年在高考当天因欲望冲突与个人挣扎卷入不可挽回的犯罪",
+      "主角之一为就读名校的低收入家庭优等生",
+      "主演包括裴贤圣、车康允、朴允浩"
+    ],
+    "summary_zh": "新剧《The Substitute》（暂译《替身》）公开首支预告。该剧为犯罪惊悚题材，围绕三名青年展开，讲述他们在高考当天因各自冲突的欲望与个人挣扎而卷入一场不可挽回的犯罪。故事核心人物是一名就读于名校的低收入家庭优等生。主演包括裴贤圣、车康允和朴允浩。",
+    "extracted_at": "2026-10-26T17:37:35.899344+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Im Jin Hyo Stirs Things Up Between Kim So Hyun And Choo Young Woo In “Between Steps”",
+    "url": "https://www.soompi.com/article/1881479wpp/im-jin-hyo-stirs-things-up-between-kim-so-hyun-and-choo-young-woo-in-between-steps",
+    "content": "“Between Steps” has unveiled new stills ahead of its upcoming episode! “Between Steps” is a romance drama by the late director Ahn Pan Seok, who helmed the hit dramas “Something in the Rain,” “One Spring Night,” and “The Midnight Romance in Hagwon.” The drama tells the love story of Park Min Jae (Choo Young Woo),&#8230; Continue reading Im Jin Hyo Stirs Things Up Between Kim So Hyun And Choo Young Woo In “Between Steps”\nThe post Im Jin Hyo Stirs Things Up Between Kim So Hyun And Choo Young Woo In “Between Steps” appeared first on Soompi.",
+    "published_at": "1026soompi",
+    "published_ts": 1792996875.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "林珍孝在《Between Steps》中搅动金所泫与秋英宇关系",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "《Between Steps》是一部爱情剧，由已故导演安畔锡执导，他曾执导《经常请吃饭的漂亮姐姐》、《春夜》和《毕业》等热门剧集。",
+      "该剧讲述了朴敏宰（秋英宇 饰）的爱情故事。",
+      "林珍孝在剧中介入金所泫与秋英宇的角色关系。",
+      "制作方在即将播出的剧集前公开了新剧照。"
+    ],
+    "summary_zh": "韩剧《Between Steps》在即将播出新一集前公开了新剧照。该剧由已故导演安畔锡执导，他曾执导《经常请吃饭的漂亮姐姐》、《春夜》和《毕业》。剧集讲述朴敏宰（秋英宇 饰）的爱情故事，林珍孝在剧中搅动金所泫与秋英宇的角色关系。",
+    "extracted_at": "2026-10-26T17:37:39.355517+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Seol In Ah Is Left Bewildered By Yim Si Wan’s Visit To His Alleged Victim In “Love In Disguise”",
+    "url": "https://www.soompi.com/article/1881454wpp/seol-in-ah-is-left-bewildered-by-yim-si-wans-visit-to-his-alleged-victim-in-love-in-disguise",
+    "content": "“Love in Disguise” has unveiled new stills ahead of its upcoming episode! “Love in Disguise” is a romance thriller drama about Yoon Yi Jun (Yim Si Wan), an arrogant chaebol heir who becomes a murder suspect, and Kang Jae Hee (Seol In Ah), a former special forces officer who goes undercover as his personal secretary&#8230; Continue reading Seol In Ah Is Left Bewildered By Yim Si Wan’s Visit To His Alleged Victim In “Love In Disguise”\nThe post Seol In Ah Is Left Bewildered By Yim Si Wan’s Visit To His Alleged Victim In “Love In Disguise” appeared first on Soompi.",
+    "published_at": "1026soompi",
+    "published_ts": 1792996429.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《Love in Disguise》新剧照：任时完探望 alleged 受害者，薛仁雅困惑",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "剧集《Love in Disguise》是一部浪漫惊悚剧，讲述傲慢的财阀继承人尹伊俊（任时完 饰）成为谋杀嫌疑人，以及前特种部队军官姜在熙（薛仁雅 饰）伪装成他的私人秘书的故事。",
+      "制作方发布了新剧照，展示薛仁雅饰演的角色对任时完饰演的角色探望其 alleged 受害者一事感到困惑。",
+      "该剧照在即将播出的剧集之前公开。"
+    ],
+    "summary_zh": "韩剧《Love in Disguise》公开了新剧照，剧中任时完饰演的财阀继承人尹伊俊因涉嫌谋杀而接受调查，薛仁雅饰演的姜在熙则伪装成他的秘书。新剧照显示，姜在熙对尹伊俊探望其 alleged 受害者感到困惑。该剧是一部浪漫惊悚剧，即将播出新一集。",
+    "extracted_at": "2026-10-26T17:37:42.093601+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Breakout K-drama ‘Doctor X’ faces calls to halt broadcast over Gwangju episode - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kZlJGZ3drNFRSc0JGM1JSWFNkNHE4UXBtZW5vUzRCX0NiNU0xZWt0UGFQcHI3SXVZYS1ic2U3OHRXTktrNWJJSzVVWFhkSVdJZEJ3cVcxVQ?oc=5",
+    "content": "Breakout K-drama ‘Doctor X’ faces calls to halt broadcast over Gwangju episode The Korea Herald",
+    "published_at": "1026google-kpop",
+    "published_ts": 1792994136.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "韩剧《Doctor X》光州篇播出引停播呼声",
+    "source_type": "韩剧",
+    "risk_level": "中",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及剧名《Doctor X》及争议围绕'光州篇'（Gwangju episode）展开，未说明具体争议行为或诉求方身份",
+      "原文未提及播出平台、播出日期、收视数据、制作方或所属社回应等具体信息"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：热门韩剧《Doctor X》因光州篇内容面临停播呼声]",
+    "extracted_at": "2026-10-26T17:37:43.932653+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "7 K-Dramas Where He Has Secretly Loved Her For Years",
+    "url": "https://www.soompi.com/article/1879170wpp/7-k-dramas-where-he-has-secretly-loved-her-for-years",
+    "content": "There’s just something about a male lead who has been secretly in love with the same woman for years. The way he quietly cares for her, remembers the little things, and keeps his feelings hidden make the eventual romance that much more satisfying. These K-dramas have some of the best pining male leads who will&#8230; Continue reading 7 K-Dramas Where He Has Secretly Loved Her For Years\nThe post 7 K-Dramas Where He Has Secretly Loved Her For Years appeared first on Soompi.",
+    "published_at": "1026soompi",
+    "published_ts": 1792993721.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "盘点7部男主暗恋女主多年的韩剧",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文为Soompi发布的韩剧盘点文章，主题为男主多年暗恋女主的7部韩剧",
+      "原文未列出具体剧名、演员、播出时间或收视数据",
+      "原文仅描述此类男主默默关心、记住细节、隐藏感情的特点"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：盘点7部男主多年来暗恋女主的韩剧，并称这类默默关心、记住细节、隐藏感情的男主让最终的爱情更令人满足]",
+    "extracted_at": "2026-10-26T17:37:45.697717+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Vietnam Emerges as Key K-pop Market - 조선일보",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVFNWanN0dVBsY2dCSjFycFlpQUo2ejZheUM0WF9YSlhpekJkczl3MnUwM0ZnSTBqaTV4VXhqTGNqSVdKVWFMcEhGcmlheERueGVQMVg1alVmNmIyUDNNaGZmdWpWczhLdkJoUW91alpaTXNsZTZvMFQ3NDhXRUtXNlNIUWc?oc=5",
+    "content": "Vietnam Emerges as Key K-pop Market 조선일보",
+    "published_at": "1026google-kpop",
+    "published_ts": 1792992754.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "越南崛起为K-pop重要市场，朝鲜日报报道",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及越南成为K-pop重要市场，未提供具体数据、时间、地点或具名来源"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：越南崛起为K-pop重要市场]",
+    "extracted_at": "2026-10-26T17:37:47.048460+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "ENHYPEN to close 'THE SIN' series with spinoff single in November - The Korea Times",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPS2RMc0xXX250eEJpOG1lNTdYQndQcFFKNUhNLTVXZURwSzljZjIwdG9HaUprVi0zanl2RXBGQzYzWHNXNExydjZPYnlLRTc1WTg3elVmNDdVeHZQdEVjSmNMUlp5cm1PWGd0eFdOZ1FDRVFVYWNQc0xrQUVlSVVQR0s3STZxWktFNDJQMVBlcWV2dGszRnNJNV9nXzNOZGRoSFJBTmIyd3NHUURDd1g1Z3dkb1FDSEJvcXB2YW1n0gHDAUFVX3lxTFBQMG5CMnRnZ0tqM25aTnMwUVFsZjBPSFRPQV92cjFpdGlwVWpDdHJuZFlpaGF1UEtuY0hVX1BZMWR6X242ZmV5c1JFb0wyVjUwV3lQQnBFMlVBZlVYYjBIRmVFR2xfV0pUbzRNaXJZcHJUTllJUG1Pc2hLcmJCZFVRbmJTNDBkYXQ1NmR1YlpCLWd5OWJPVk1vQ19PWVBvWWxMeF9HRE56RWx5TXAtaHdWbVY3QTJnbi13T3Z1VmVacHBBdw?oc=5",
+    "content": "ENHYPEN to close 'THE SIN' series with spinoff single in November The Korea Times",
+    "published_at": "1026google-kpop",
+    "published_ts": 1792992302.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "ENHYPEN将于11月发行衍生单曲，为《THE SIN》系列收官",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及ENHYPEN将于11月发行衍生单曲（spinoff single），以此结束《THE SIN》系列",
+      "消息来源为《The Korea Times》（韩国时报）"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：ENHYPEN将于11月发行衍生单曲，为《THE SIN》系列收官]",
+    "extracted_at": "2026-10-26T17:37:48.769214+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kim Soo Hyun’s Agency Releases Update On Legal Proceedings",
+    "url": "https://www.soompi.com/article/1881501wpp/kim-soo-hyuns-agency-releases-update-on-legal-proceedings",
+    "content": "Kim Soo Hyun&#8217;s agency has revealed the result of legal actions against individuals linked to the late Kim Sae Ron. On October 26, GOLDMEDALIST released an official statement informing that accomplices of Kim Se Eui of YouTube channel HoverLab Inc., including the deceased&#8217;s mother and an individual impersonating the aunt, have had criminal charges confirmed&#8230; Continue reading Kim Soo Hyun&#8217;s Agency Releases Update On Legal Proceedings\nThe post Kim Soo Hyun&#8217;s Agency Releases Update On Legal Proceedings appeared first on Soompi.",
+    "published_at": "1026soompi",
+    "published_ts": 1792991158.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "金秀贤所属社GOLDMEDALIST公布法律诉讼进展：已故金赛纶相关人士罪名成立",
+    "source_type": "韩娱",
+    "risk_level": "高",
+    "is_blurred": false,
+    "facts_list": [
+      "2025年10月26日，GOLDMEDALIST发布官方声明，通报针对与已故金赛纶相关人士的法律诉讼结果。",
+      "声明指出，YouTube频道HoverLab Inc.的金世义（音译）的共犯——包括已故金赛纶的母亲及一名冒充姨妈的人——刑事指控已获确认。",
+      "原文未提及具体罪名、刑期或罚款金额。"
+    ],
+    "summary_zh": "金秀贤所属社GOLDMEDALIST于10月26日发布官方声明，公布针对与已故金赛纶相关人士的法律诉讼进展。声明称，YouTube频道HoverLab Inc.的金世义的共犯，包括已故金赛纶的母亲及一名冒充姨妈的人，其刑事指控已得到确认。原文未披露具体罪名及量刑细节。",
+    "extracted_at": "2026-10-26T17:37:50.845809+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Cho Yi Hyun And Jin Young Share An Unexpected Encounter In New Drama “Summer Vacation”",
+    "url": "https://www.soompi.com/article/1881467wpp/cho-yi-hyun-and-jin-young-share-an-unexpected-encounter-in-new-drama-summer-vacation",
+    "content": "Upcoming drama “Summer Vacation” has unveiled a sneak peek of its first episode! “Summer Vacation” is a teen romance drama starring Cho Yi Hyun as Kim Ha Yeon, an ordinary high school student who has a mysterious experience during her summer vacation before returning to reality. Jin Young stars as Jo Yu Gyeom, a boy&#8230; Continue reading Cho Yi Hyun And Jin Young Share An Unexpected Encounter In New Drama “Summer Vacation”\nThe post Cho Yi Hyun And Jin Young Share An Unexpected Encounter In New Drama “Summer Vacation” appeared first on Soompi.",
+    "published_at": "1026soompi",
+    "published_ts": 1792987728.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "赵怡贤与珍荣在新剧《暑假》中意外相遇",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "剧名：《Summer Vacation》（暂译《暑假》）",
+      "主演：赵怡贤饰演金荷妍，珍荣饰演赵裕谦",
+      "剧情：金荷妍是普通高中生，在暑假经历神秘事件后回归现实",
+      "公开内容：第一集抢先看片段，展示赵怡贤与珍荣的意外相遇"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：赵怡贤与珍荣在新剧《暑假》中分享意外相遇]",
+    "extracted_at": "2026-10-26T17:37:52.699780+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Jang Nara Embraces A New Chapter As A Law Firm CEO In “Good Partner 2”",
+    "url": "https://www.soompi.com/article/1881430wpp/jang-nara-embraces-a-new-chapter-as-a-law-firm-ceo-in-good-partner-2",
+    "content": "“Good Partner 2” has unveiled the first glimpse of Jang Nara in character! Following the success of Season 1, the new season of “Good Partner” will depict the cathartic divorce show that unfolds as Cha Eun Kyung (Jang Nara), a star lawyer for whom divorce is her calling, and Kang Hye Sung (Kim Hye Yoon),&#8230; Continue reading Jang Nara Embraces A New Chapter As A Law Firm CEO In “Good Partner 2”\nThe post Jang Nara Embraces A New Chapter As A Law Firm CEO In “Good Partner 2” appeared first on Soompi.",
+    "published_at": "1026soompi",
+    "published_ts": 1792986198.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "张娜拉《好搭档2》首曝剧照 变身律所CEO开启新篇章",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "《好搭档2》公开了张娜拉的角色剧照，首次曝光她在新一季中的形象",
+      "张娜拉饰演的离婚专门律师车恩京在新一季中成为律所CEO",
+      "金惠允饰演姜惠星，与张娜拉的角色共同展开剧情",
+      "《好搭档》第一季播出后获得成功，第二季将继续呈现离婚题材的法庭剧"
+    ],
+    "summary_zh": "韩剧《好搭档2》首次公开张娜拉的角色剧照。张娜拉在剧中饰演明星离婚律师车恩京，新一季中她将迎来新身份——律所CEO。该剧第一季播出后获得成功，第二季将继续讲述车恩京与姜惠星（金惠允饰）之间展开的离婚法庭故事。",
+    "extracted_at": "2026-10-26T17:37:55.069257+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -12,40 +431,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《老千4：别西卜之歌》累计观影人次突破200万",
+    "title_zh": "《老千4：别西卜之歌》累计观影人次突破200万，成今年首部19禁达此成绩影片",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "据韩国电影振兴委员会统计，截至10月26日，《老千4：别西卜之歌》累计观影人次突破200万。",
-      "《老千4》是今年上映的影片中唯一一部达到200万观影人次的19禁电影。"
+      "《老千4》是今年上映影片中唯一一部19岁以上可观看且观影人次达到200万的电影。"
     ],
-    "summary_zh": "据韩国电影振兴委员会10月26日数据，电影《老千4：别西卜之歌》累计观影人次已突破200万。该片是今年上映的19禁影片中唯一一部达到此票房成绩的作品。",
-    "extracted_at": "2026-10-26T10:57:49.419038+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "5 K-Pop Stars Who Launched Their Own Entertainment Agencies - Preview.ph",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNclRCd1lfUWFJYmptSG8zV2RzUXVrdlJRVHFCRXhDaGdBZ0tvUE5KY2E4VUluQTdVVWVjM3dxa3RtYThDTWhmWWVrWHlxVmxORzZDZEptcjR3dDJOS3lnUGtuWkt1LTBMWUt3b01BV09FeUd4R3dhS3ZFczJpcENMWGppMWJFc3M2QzdTZVZRd2x6QQ?oc=5",
-    "content": "5 K-Pop Stars Who Launched Their Own Entertainment Agencies Preview.ph",
-    "published_at": "1026google-kpop",
-    "published_ts": 1792982811.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "5位自立门户创办娱乐公司的K-Pop明星",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "原文仅列出标题《5 K-Pop Stars Who Launched Their Own Entertainment Agencies》，来源为 Preview.ph",
-      "原文未提及具体艺人姓名、公司名称、成立时间或任何数据"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：5位创办了自己娱乐公司的K-Pop明星]",
-    "extracted_at": "2026-10-26T10:57:50.772252+08:00"
+    "summary_zh": "据韩国电影振兴委员会10月26日数据，电影《老千4：别西卜之歌》累计观影人次已突破200万。该片是今年上映的影片中唯一一部19岁以上可观看且达到200万观影人次的电影。",
+    "extracted_at": "2026-10-26T17:37:56.974514+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -55,12 +450,12 @@
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaG9qS3dzeUFIaFFHc2QwMFBfcGpuRldSQ0ViQ2RzcWlnX3dCSE92ZFFrVFB2Umw5SnlzS2U2VGpDUzFZQ0Q0MUlYSnhhdmJBSm10QTUzTlUxUzNCZVhNWUFZNHF4cTZHbmthMEVudk5STTE2RWF2LWJtZTdLaXF4WF91dm5FNkRGcVV1TDVYMTdqZ1VqaDIxWXF3?oc=5",
     "content": "KPop Demon Hunters Baby Action Figure: Where to Buy the Saja Boys Doll Revista Merca2.0",
     "published_at": "1026google-kpop",
-    "published_ts": 1792982791.0,
+    "published_ts": 1792982639.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《KPop Demon Hunters》Saja Boys 婴儿版可动人偶开售，购买渠道公布",
+    "title_zh": "《KPop Demon Hunters》Saja Boys 婴儿版可动人偶购买渠道公布",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
@@ -68,7 +463,7 @@
       "原文仅提及《KPop Demon Hunters》Saja Boys 婴儿版可动人偶（Baby Action Figure）的购买渠道话题，未给出具体发售日期、价格、零售商名称或产品细节"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：KPop Demon Hunters Baby Action Figure: Where to Buy the Saja Boys Doll]",
-    "extracted_at": "2026-10-26T10:57:52.426602+08:00"
+    "extracted_at": "2026-10-26T17:37:58.487429+08:00"
   },
   {
     "source_id": "soompi",
@@ -88,12 +483,36 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "10月25日，tvN剧集《100天的谎言》创下自身最高收视率。",
-      "据尼尔森韩国数据，该剧最新一集全国平均收视率为9.5%，在同时段所有频道中排名第一。",
-      "《Final Table》第二集收视率较前一集有所上升。"
+      "10月25日，tvN剧集《100天的谎言》播出最新一集，根据Nielsen Korea数据，其全国平均收视率为9.5%，创下该剧自身最高收视纪录。",
+      "该剧在同时段所有频道中收视率排名第一。",
+      "《Final Table》第二集收视率较第一集有所上升（原文未提供具体数字）。"
     ],
-    "summary_zh": "10月25日，tvN剧集《100天的谎言》播出最新一集，全国平均收视率达到9.5%，创下该剧自身最高收视纪录，并在同时段所有频道中位居第一。另一部剧《Final Table》第二集收视率也较上一集有所上升。",
-    "extracted_at": "2026-10-26T10:57:54.073934+08:00"
+    "summary_zh": "10月25日，tvN剧集《100天的谎言》播出最新一集，全国平均收视率达到9.5%，刷新自身最高纪录，并在同时段所有频道中位居收视第一。此外，《Final Table》第二集收视率也较前一集上升。",
+    "extracted_at": "2026-10-26T17:38:00.522220+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "RIIZE releases emotional acoustic single 'Insomnia' - The Korea Times",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOekphbWE0cmhmYktPQzVlbnpMQVNrdWt1LVhGTzdyLXdfNUdqVkhvYjM3QS1IWXNVUW1mcTVXQmwtUnVwZWtXenpqcldSWktsUENFazBWeHY2RUFiS2QtWkg5N3A3eFNFYkxIaHNaQ1NXamwyaTl0WlZUN2RyTlR4YjAzTXBJM014UTNwdEttSGtDTk9UdzM4VmlSZTNJei1LSE5VcFNhZEJveDjSAbABQVVfeXFMTnZzdHN6ejlpc3pVbEEzbDhGTE11XzFBNHFMMWhfVVl3ak5VaDZlMG5ZNVhYZXYtWkE3d0Z5eVhUSWE1Y3NPaUlVOURiaXpWT3Y1RURSWE94ZVUtR283N0dtR2xwclo2bEplVS1SNTlsbl9GMl9DTmhhX3lNbjZ0c21VOHJnaGU3T3pkT1ZIZE16d1dNcGRGd2Mxd0NsLUFwTDZRVkNFR29HUk9QT0dFX20?oc=5",
+    "content": "RIIZE releases emotional acoustic single 'Insomnia' The Korea Times",
+    "published_at": "1026google-kpop",
+    "published_ts": 1792979523.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "RIIZE发行抒情原声单曲《Insomnia》",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "RIIZE发行原声单曲《Insomnia》",
+      "歌曲风格被描述为emotional acoustic（抒情原声）"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：RIIZE发行抒情原声单曲《Insomnia》]",
+    "extracted_at": "2026-10-26T17:38:01.904780+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -108,40 +527,40 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "韩媒解析：K-pop自制内容如何成为秘密武器",
+    "title_zh": "韩媒分析：K-pop自制内容如何成为秘密武器",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅提供标题《How K-pop's self-produced content became a secret weapon》，来源为《The Korea Herald》",
-      "原文正文缺失，未提及具体组合、平台、节目名称、播放数据或发布时间"
+      "原文仅提供标题《How K-pop's self-produced content became a secret weapon》及来源《The Korea Herald》，正文内容缺失",
+      "原文未提及具体组合、公司、节目名称、时间、地点或任何数据"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：K-pop自制内容如何成为秘密武器]",
-    "extracted_at": "2026-10-26T10:57:55.651658+08:00"
+    "extracted_at": "2026-10-26T17:38:03.249890+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "Remarried Empress — Will Disney+ K-Drama Hit Bridgerton Status or Surprise? - The Korea Daily",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jdm9qd3JQR09aZGlqVlhONk9YNV9ZSy1JT2xfQ0Jpem9xcEpVUGdrQ2tWYklOZXpKbjJ1REJ5cTB4SDdhZkhfR3A2MElpRUZUbGgwZ2F6dGY2WFFYUlFmX1pZNmViNUNoV1V5MHVTUm1lbk5uNUE?oc=5",
-    "content": "Remarried Empress — Will Disney+ K-Drama Hit Bridgerton Status or Surprise? The Korea Daily",
+    "title": "Toca Boca World x KPop Demon Hunters: Release date, outfits, music - Mashable",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRTRKcUF3ZG5FVk9SR3ZFMDdZLU9TN0hKd2N4eFAxRkdWTElmMlNYY05qNFpVVHJmSDhMUGdSZVp3RE8zdmp1SXhvV0MtYmtJbGU1Y1NSajU4dmY2a2VzVmEydzN1U3RRTnNtWFJROTJ1Vm03ckE4QUh0UVFKSzc0MGV3b1JvX3REcWNz?oc=5",
+    "content": "Toca Boca World x KPop Demon Hunters: Release date, outfits, music Mashable",
     "published_at": "1026google-kpop",
-    "published_ts": 1792978777.0,
+    "published_ts": 1792977953.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Disney+韩剧《再婚皇后》能否达到《布里奇顿》级别热度？",
-    "source_type": "韩剧",
+    "title_zh": "Toca Boca World 与 KPop Demon Hunters 联动：发布日期、服装与音乐",
+    "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅提及Disney+韩剧《再婚皇后》（Remarried Empress）与《布里奇顿》（Bridgerton）的对比讨论",
-      "原文未提供具体播出日期、主演阵容、制作信息或收视数据"
+      "原文仅提及 Toca Boca World 与 KPop Demon Hunters 的联动，涉及发布日期、服装和音乐三项内容",
+      "原文未提供具体发布日期、服装细节或音乐曲目信息"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：Disney+韩剧《再婚皇后》能否达到《布里奇顿》的地位或带来惊喜]",
-    "extracted_at": "2026-10-26T10:57:57.359953+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：Toca Boca World 与 KPop Demon Hunters 联动，涉及发布日期、服装与音乐]",
+    "extracted_at": "2026-10-26T17:38:04.857821+08:00"
   },
   {
     "source_id": "soompi",
@@ -165,8 +584,8 @@
       "《NEON》是2026年第四首达成Perfect All-Kill的歌曲。",
       "A2O LITE出道不到两周便凭借《NEON》在韩国音乐榜单上取得统治级表现。"
     ],
-    "summary_zh": "A2O LITE的出道单曲《NEON》在发行不到两周内，于2026年10月26日上午8:30（韩国时间）由Instiz的iChart官方宣布达成Perfect All-Kill，成为2026年第四首获此成绩的歌曲，展现出强大的榜单统治力。",
-    "extracted_at": "2026-10-26T10:57:59.102900+08:00"
+    "summary_zh": "A2O LITE的出道单曲《NEON》在发行不到两周内，于2026年10月26日上午8:30（韩国时间）由Instiz的iChart宣布达成Perfect All-Kill，成为2026年第四首获此成绩的歌曲，展现出其在韩国音乐榜单上的强势表现。",
+    "extracted_at": "2026-10-26T17:38:06.946883+08:00"
   },
   {
     "source_id": "soompi",
@@ -181,42 +600,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "朴敏英与陆星材新剧《Nine to Six》公开不愉快初遇剧照",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "SBS 新剧《Nine to Six》公开了朴敏英与陆星材角色首次相遇的剧照，描述为“不愉快的初遇”。",
-      "朴敏英在剧中饰演姜智怡（音译），是一个因专注工作而长期将恋爱搁置的工作狂。",
-      "该剧是一部浪漫爱情剧，将在 SBS 播出。"
-    ],
-    "summary_zh": "SBS 新剧《Nine to Six》公开了主演朴敏英与陆星材的首次相遇剧照，场景被描述为“不愉快的初遇”。朴敏英饰演的姜智怡是一个因工作繁忙而放弃恋爱的职场工作狂，该剧将讲述她的浪漫故事。",
-    "extracted_at": "2026-10-26T10:58:01.101174+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Park Min-young Is Caught Between Her Boss and a Younger Intern in New K-Drama 'Nine to Six' - Parade Magazine",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95N3lOeFhUVUlYbUFEaUFYVUUtN2Q0SHdCWk1iUkh2aGpuYnYzYXVkaTNqUkNYb191cEJjQUxRc2hqUGxFUGEyZDVKRUxMQzB5UXU3NVZFUUd2V0JQYlJfMmI1OVlMQV9sTVVR?oc=5",
-    "content": "Park Min-young Is Caught Between Her Boss and a Younger Intern in New K-Drama 'Nine to Six' Parade Magazine",
-    "published_at": "1026google-kpop",
-    "published_ts": 1792972440.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "朴敏英新剧《Nine to Six》陷上司与年下实习生三角关系",
+    "title_zh": "朴敏英与陆星材新剧《Nine to Six》公开尴尬初遇剧照",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "朴敏英出演新韩剧《Nine to Six》（暂译）",
-      "剧中角色夹在上司与年下实习生之间，形成三角关系",
-      "信息来源为 Parade Magazine 报道"
+      "SBS 新剧《Nine to Six》公开了朴敏英与陆星材角色尴尬初遇的剧照",
+      "朴敏英饰演姜智怡（音译），是一个因专注工作而长期忽视恋爱的职场狂人"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：朴敏英在新韩剧《Nine to Six》中夹在上司与年下实习生之间。]",
-    "extracted_at": "2026-10-26T10:58:02.540427+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：SBS 新剧《Nine to Six》公开了朴敏英与陆星材尴尬初遇的剧照]",
+    "extracted_at": "2026-10-26T17:38:08.700798+08:00"
   },
   {
     "source_id": "soompi",
@@ -231,18 +624,18 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "徐恩秀与金宇彬在《GIFT》中因高中棒球队发生冲突",
+    "title_zh": "徐恩秀在《GIFT》中与金宇彬因高中棒球队发生冲突",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "tvN新剧《GIFT》改编自人气网漫，是一部体育题材剧集。",
-      "金宇彬饰演前职业棒球投手教练郑民勇（音译），因意外事故获得特殊能力。",
-      "徐恩秀在剧中饰演的角色与金宇彬饰演的郑民勇因高中棒球队产生冲突。",
-      "该剧通过新剧照首次公开了徐恩秀的角色形象。"
+      "金宇彬饰演前职业棒球投手教练郑民勇（音译）。",
+      "郑民勇因意外事故获得特殊能力。",
+      "徐恩秀在剧中饰演的角色与金宇彬饰演的郑民勇因高中棒球队产生冲突。"
     ],
-    "summary_zh": "tvN新剧《GIFT》改编自人气网漫，由金宇彬饰演前职业棒球投手教练郑民勇，他在经历意外事故后获得特殊能力。徐恩秀在剧中饰演的角色与郑民勇因高中棒球队发生冲突，制作方公开了徐恩秀的角色剧照。",
-    "extracted_at": "2026-10-26T10:58:04.398165+08:00"
+    "summary_zh": "tvN新剧《GIFT》改编自人气网漫，由金宇彬饰演前职业棒球投手教练郑民勇，他在意外事故后获得特殊能力。徐恩秀在剧中饰演的角色与郑民勇因高中棒球队发生冲突，制作方公开了徐恩秀的角色剧照。",
+    "extracted_at": "2026-10-26T17:38:10.870445+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -262,12 +655,12 @@
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "EJAE为《KPop Demon Hunters》担任主唱",
+      "EJAE为《KPop Demon Hunters》的演唱者（vocalist）",
       "EJAE与长期伴侣Sam Kim结婚",
       "消息来源为Yahoo"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：'KPop Demon Hunters' Vocalist EJAE Marries Longtime Partner Sam Kim]",
-    "extracted_at": "2026-10-26T10:58:05.984728+08:00"
+    "extracted_at": "2026-10-26T17:38:12.079552+08:00"
   },
   {
     "source_id": "soompi",
@@ -287,13 +680,13 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "时间：2025年10月26日韩国时间上午7点前",
+      "时间：2023年10月26日韩国时间上午7点前",
       "事件：GOT7《NOT BY THE MOON》MV在YouTube播放量突破1亿次",
       "里程碑：这是GOT7第10支播放量破亿的MV",
       "此前破亿MV包括：《Just Right》《If You Do》《Never Ever》《A》《Lullaby》等"
     ],
-    "summary_zh": "据Soompi报道，截至10月26日韩国时间上午7点前，GOT7的《NOT BY THE MOON》音乐视频在YouTube上的播放量正式突破1亿次。这是GOT7第十支达成此里程碑的MV，此前已有《Just Right》《If You Do》《Never Ever》《A》《Lullaby》等作品播放量破亿。",
-    "extracted_at": "2026-10-26T10:58:07.873516+08:00"
+    "summary_zh": "据Soompi报道，截至10月26日韩国时间上午7点前，GOT7的《NOT BY THE MOON》音乐视频在YouTube上的播放量已突破1亿次。这是GOT7第十支达到1亿播放量的MV，此前已有《Just Right》《If You Do》《Never Ever》《A》《Lullaby》等作品破亿。",
+    "extracted_at": "2026-10-26T17:38:13.812475+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -308,16 +701,15 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "韩媒分析：东南亚艺人借K-pop模式崛起，能否反客为主",
+    "title_zh": "东南亚艺人借K-pop模式崛起，能否反客为主？",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅提供标题：东南亚明星借用了K-pop的运营模式，并提问他们是否会抢走风头",
-      "原文未提及具体艺人姓名、组合名称、时间、地点或任何数据"
+      "原文仅提出东南亚艺人借鉴K-pop模式并可能抢占风头的问题，未提及具体艺人、时间、地点或数据"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：东南亚的明星借用了K-pop的运营模式，他们现在会抢走风头吗？]",
-    "extracted_at": "2026-10-26T10:58:09.361843+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：东南亚明星借用了K-pop的运营模式，他们现在会抢尽风头吗？]",
+    "extracted_at": "2026-10-26T17:38:15.368867+08:00"
   },
   {
     "source_id": "soompi",
@@ -337,37 +729,13 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "韩国企业评价研究所公布了10月新人偶像个人品牌评价排名",
+      "韩国企业评价研究所公布了本月新人偶像个人品牌评价排名",
       "排名基于对消费者参与、媒体报道、互动和社区认知指数的分析",
-      "数据收集时间为9月2日至10月2日",
+      "分析使用的大数据采集自9月2日至10月2日",
       "RESCENE再次占据榜单首位"
     ],
     "summary_zh": "韩国企业评价研究所公布了10月新人偶像个人品牌评价排名，该排名通过分析9月2日至10月2日期间的大数据，综合消费者参与、媒体报道、互动和社区认知等指数得出。RESCENE再次占据榜单首位。",
-    "extracted_at": "2026-10-26T10:58:11.093398+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Vietnam Emerges as Core K-pop Market - 조선일보",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVFNWanN0dVBsY2dCSjFycFlpQUo2ejZheUM0WF9YSlhpekJkczl3MnUwM0ZnSTBqaTV4VXhqTGNqSVdKVWFMcEhGcmlheERueGVQMVg1alVmNmIyUDNNaGZmdWpWczhLdkJoUW91alpaTXNsZTZvMFQ3NDhXRUtXNlNIUWc?oc=5",
-    "content": "Vietnam Emerges as Core K-pop Market 조선일보",
-    "published_at": "1026google-kpop",
-    "published_ts": 1792962172.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "越南崛起为K-pop核心市场，《朝鲜日报》报道",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "《朝鲜日报》报道称越南已成为K-pop核心市场",
-      "原文未提供具体数据、时间、地点或具名来源"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：越南崛起为K-pop核心市场]",
-    "extracted_at": "2026-10-26T10:58:12.339802+08:00"
+    "extracted_at": "2026-10-26T17:38:17.325581+08:00"
   },
   {
     "source_id": "soompi",
@@ -391,8 +759,8 @@
       "嘉宾为NMIXX成员Lily、Sullyoon和ILLIT成员Yunah、Wonhee",
       "预告片中Lily和Sullyoon尝试自我介绍但失败，场面可爱"
     ],
-    "summary_zh": "tvN综艺节目《惊人的星期六》公开了下周节目的预告，NMIXX成员Lily、Sullyoon以及ILLIT成员Yunah、Wonhee将作为嘉宾出演。预告片以Lily和Sullyoon可爱地尝试自我介绍却失败开场。",
-    "extracted_at": "2026-10-26T10:58:14.509042+08:00"
+    "summary_zh": "tvN综艺节目《惊人的星期六》公开了下周节目的预告，NMIXX成员Lily、Sullyoon以及ILLIT成员Yunah、Wonhee将作为嘉宾出演。预告片中，Lily和Sullyoon尝试自我介绍但未能成功，场面十分可爱。",
+    "extracted_at": "2026-10-26T17:38:19.147294+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -413,10 +781,11 @@
     "is_blurred": true,
     "facts_list": [
       "原文仅提及Netflix一部新作将接替《Kpop Demon Hunters》，并重新演绎一位经典迪士尼公主",
-      "原文未提及该作品名称、制作团队、上线时间或具体公主角色等任何细节"
+      "原文未提及该作品名称、制作团队、上线时间、演员阵容或具体公主角色等任何细节",
+      "信息来源标注为IMDb"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：Netflix接替《Kpop Demon Hunters》的新作将重新演绎一位经典迪士尼公主]",
-    "extracted_at": "2026-10-26T10:58:16.130227+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：Netflix接棒《Kpop Demon Hunters》的新作将重新演绎一位经典迪士尼公主]",
+    "extracted_at": "2026-10-26T17:38:20.977637+08:00"
   },
   {
     "source_id": "soompi",
@@ -431,18 +800,18 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Stray Kids等组合横扫公告牌世界专辑榜前列",
+    "title_zh": "Stray Kids等组合占据Billboard世界专辑榜前列",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "公告牌世界专辑榜统计周期截至10月24日",
-      "Stray Kids迷你专辑《THIS & THAT》连续第八周（非连续）位列世界专辑榜第一",
-      "《THIS & THAT》在公告牌200强专辑榜上停留第10周，排名第...（原文截断）",
+      "Billboard世界专辑榜截止日期为10月24日当周",
+      "Stray Kids迷你专辑《THIS & THAT》连续第八周（非连续）位居世界专辑榜第一",
+      "《THIS & THAT》在Billboard 200上榜第10周，排名第...（原文截断）",
       "ENHYPEN、CORTIS、BOYNEXTDOOR、&TEAM、BTS、ILLIT等组合进入榜单前列"
     ],
-    "summary_zh": "公告牌公布截至10月24日的世界专辑榜，Stray Kids迷你专辑《THIS & THAT》连续第八周（非连续）排名第一，并在公告牌200强专辑榜停留第10周。ENHYPEN、CORTIS、BOYNEXTDOOR、&TEAM、BTS、ILLIT等组合也进入榜单前列。",
-    "extracted_at": "2026-10-26T10:58:18.084295+08:00"
+    "summary_zh": "Billboard公布10月24日当周世界专辑榜，Stray Kids迷你专辑《THIS & THAT》连续第八周（非连续）排名第一，并在Billboard 200上榜第10周。ENHYPEN、CORTIS、BOYNEXTDOOR、&TEAM、BTS、ILLIT等组合也进入榜单前列。",
+    "extracted_at": "2026-10-26T17:38:22.809081+08:00"
   },
   {
     "source_id": "soompi",
@@ -457,42 +826,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《Doctor X》与《100天的谎言》登顶话题剧集与演员榜单",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "《Doctor X》连续第二周在Good Data Corporation的每周话题剧集榜单中排名第一",
-      "《100天的谎言》在榜单中占据高位",
-      "Good Data Corporation通过收集数据确定每周排名"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：《Doctor X》和《100天的谎言》横扫话题剧集和演员榜单前列。]",
-    "extracted_at": "2026-10-26T10:58:19.645422+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Kim You-jung plays a street thief drawn into Korea’s independence movement in 100 Days of Deception - t2ONLINE",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQnFVRi15alZlNTNGcGhHNXVxOEZlSXYtaElhTDA0YjBKTldNR1l3Vml5LXdOem9hY2ZsSmdHQ3NuZkk5V1U0T3RFM0k0bld1dG51VHI3MElPSmNTdXRBakVTMHFISTRWcU1Ia0VuN01qOE9DT0dMWUxHOGhuYXlSc1NUVFRBeFRLd1JKbENtdmhpemYwU3pIbWpSRldtYndRNjhTMGFEOTJLbXk2TFRHMzB1dmxJTnc2Sk9XbXV1ZHNNRXduTHpTbElYaEVMdTdobFV6eWstZ0UxUQ?oc=5",
-    "content": "Kim You-jung plays a street thief drawn into Korea’s independence movement in 100 Days of Deception t2ONLINE",
-    "published_at": "1026google-kpop",
-    "published_ts": 1792953000.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "金裕贞新剧《100天的谎言》饰演街头小偷卷入韩国独立运动",
+    "title_zh": "《Doctor X》与《100 Days of Deception》登顶话题剧集与演员排行榜",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "金裕贞出演剧集《100天的谎言》（100 Days of Deception）",
-      "金裕贞在剧中饰演一名街头小偷",
-      "角色被卷入韩国独立运动"
+      "《Doctor X》连续第二周在Good Data Corporation的每周话题剧集榜单中排名第一",
+      "《100 Days of Deception》在剧集和演员排名中占据前列",
+      "Good Data Corporation通过收集数据确定每周排名"
     ],
-    "summary_zh": "据t2ONLINE报道，金裕贞出演剧集《100天的谎言》，在剧中饰演一名街头小偷，该角色被卷入韩国独立运动。原文仅提供角色设定与剧名信息，未提及播出平台、播出时间、其他演员阵容或剧情细节。",
-    "extracted_at": "2026-10-26T10:58:21.247100+08:00"
+    "summary_zh": "《Doctor X》和《100 Days of Deception》在话题剧集和演员排名中占据榜首。其中，《Doctor X》连续第二周在Good Data Corporation的每周话题剧集榜单中排名第一。该榜单由Good Data Corporation通过收集数据确定。",
+    "extracted_at": "2026-10-26T17:38:24.427986+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -512,61 +856,37 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "Netflix在韩国举办活动庆祝进军韩国市场十周年",
-      "《KPop Demon Hunters》和《鱿鱼游戏》的明星们出席了该活动",
-      "Netflix CEO泰德·萨兰多斯在活动上预告了新项目《Tantara》",
-      "萨兰多斯同时确认《僵尸校园》第二季正在推进中"
+      "Netflix在韩国举办活动庆祝进军韩国市场十周年，泰德·萨兰多斯出席",
+      "《KPop Demon Hunters》和《鱿鱼游戏》的明星们参加了庆典",
+      "萨兰多斯在活动上预告了《Tantara》和《僵尸校园》第二季"
     ],
-    "summary_zh": "Netflix在韩国举行十周年庆典活动，《KPop Demon Hunters》和《鱿鱼游戏》的演员们到场助阵。Netflix CEO泰德·萨兰多斯在活动上透露了即将推出的新项目《Tantara》，并提及《僵尸校园》第二季的相关计划。",
-    "extracted_at": "2026-10-26T10:58:23.466994+08:00"
+    "summary_zh": "Netflix在韩国举行十周年庆典活动，泰德·萨兰多斯与《KPop Demon Hunters》《鱿鱼游戏》等剧集的明星们共同出席。萨兰多斯在活动上预告了《Tantara》和《僵尸校园》第二季。",
+    "extracted_at": "2026-10-26T17:38:26.387467+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "Toca Boca World x KPop Demon Hunters: Release date, outfits, music - Mashable",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRTRKcUF3ZG5FVk9SR3ZFMDdZLU9TN0hKd2N4eFAxRkdWTElmMlNYY05qNFpVVHJmSDhMUGdSZVp3RE8zdmp1SXhvV0MtYmtJbGU1Y1NSajU4dmY2a2VzVmEydzN1U3RRTnNtWFJROTJ1Vm03ckE4QUh0UVFKSzc0MGV3b1JvX3REcWNz?oc=5",
-    "content": "Toca Boca World x KPop Demon Hunters: Release date, outfits, music Mashable",
+    "title": "‘Unlike anything we’ve experienced’: fans swarm San Francisco for BTS star’s art exhibition - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbWNkaDZ3eG52VWNvMjk2bzQwMGtQekZ0bGxGNVpqVTA5U0FiR0VJMjQtMUZZYUFkQWh3dE9kaDd1VTl0YnRCX1Z0NUthak5BWVhIQ3lFZ3dNdl9PeHUtaE9ES3A1LW9tZkRHdmVFb1VTSzRIeGdoNkdVMEZ6RG4ybnQ4Yw?oc=5",
+    "content": "‘Unlike anything we’ve experienced’: fans swarm San Francisco for BTS star’s art exhibition The Guardian",
     "published_at": "1026google-kpop",
-    "published_ts": 1792947875.0,
+    "published_ts": 1792948140.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Toca Boca World 与 KPop Demon Hunters 联动：发布日期、服装与音乐",
+    "title_zh": "防弹少年团成员旧金山艺术展粉丝涌入，主办方称盛况空前",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅提及 Toca Boca World 与 KPop Demon Hunters 的联动，涉及发布日期、服装和音乐三个方面",
-      "原文未提供具体发布日期、服装细节或音乐内容"
+      "原文仅提及防弹少年团（BTS）一名成员在旧金山举办艺术展，粉丝蜂拥而至",
+      "原文引述主办方说法称现场盛况“不同于我们以往经历过的任何情况”",
+      "原文未提及该成员具体姓名、展览名称、举办时间、地点细节及参观人数等具体数据"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：Toca Boca World 与 KPop Demon Hunters 联动，涉及发布日期、服装和音乐]",
-    "extracted_at": "2026-10-26T10:58:25.032689+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Weekly K-pop Playlist: Action, girl power and a new duo in the making - t2ONLINE",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNi1RVVU4TTNZamlXd0xWZzUwX2RHYXg1NVdNSk5IVnFNYWQ2ME5HMDRjOFNHSEY5Z1N4b3U5bTJZdE9lU3dSMHE2MG5LQnlhMzkzNXJNOFlFc0p5X0pCUHVRUUVFcmF2aDhZeXhqTDhmbW91N0cxQ3BCaEVrUkl4MC1yNkVaVmFjYjB1X2RHZjhsOGhtcXdOdUtHaUdCMV90Z0ZndGhhM0IxUUN1M3c?oc=5",
-    "content": "Weekly K-pop Playlist: Action, girl power and a new duo in the making t2ONLINE",
-    "published_at": "1026google-kpop",
-    "published_ts": 1792944180.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "本周K-pop歌单：动作风、女力与全新双人组合",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "原文仅提供标题，未提及具体艺人、歌曲、发行日期或榜单数据",
-      "标题提及本周K-pop歌单包含动作风格、女力主题及一组正在成形的新双人组合"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：本周K-pop歌单涵盖动作风、女力与一组正在成形的新双人组合]",
-    "extracted_at": "2026-10-26T10:58:26.777702+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：粉丝为观看防弹少年团（BTS）一名成员的艺术展而涌入旧金山，主办方形容现场盛况“不同于我们以往经历过的任何情况”。]",
+    "extracted_at": "2026-10-26T17:38:28.132112+08:00"
   },
   {
     "source_id": "asianwiki",
