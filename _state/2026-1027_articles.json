@@ -1,29 +1,480 @@
 [
   {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
+    "source_id": "soompi",
+    "source_name": "Soompi",
     "l1_tab": "韩娱",
-    "title": "K-pop dance — High School Students Perform at Buena Park Festival - The Korea Daily",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ObjV4LWI0TDNXa2JnVUdrQ004MllfVVl1QTluVTJKV0V1b1pBeV8wZlh5cnNscUNUUXEyT0ptdWdNSkxzME5LRm5oeWxIZzFXSnJhRzhTb1NaSzNkaktqV28tZGxjMHZyT3c?oc=5",
-    "content": "K-pop dance — High School Students Perform at Buena Park Festival The Korea Daily",
-    "published_at": "1027google-kpop",
-    "published_ts": 1793070573.0,
+    "title": "“The Perfect Lie” Director And Writer Praise Yoo Yeon Seok And Seo Hyun Jin’s Powerful Performances",
+    "url": "https://www.soompi.com/article/1881847wpp/the-perfect-lie-director-and-writer-praise-yoo-yeon-seok-and-seo-hyun-jins-powerful-performances",
+    "content": "The production team of “The Perfect Lie” has dished on the chemistry and acting prowess of Yoo Yeon Seok and Seo Hyun Jin! Helmed by “You and Everything Else” director Jo Young Min, “The Perfect Lie” is a psychological thriller in which a man and a woman offer completely opposite accounts of the same memory,&#8230; Continue reading “The Perfect Lie” Director And Writer Praise Yoo Yeon Seok And Seo Hyun Jin’s Powerful Performances\nThe post “The Perfect Lie” Director And Writer Praise Yoo Yeon Seok And Seo Hyun Jin’s Powerful Performances appeared first on Soompi.",
+    "published_at": "1027soompi",
+    "published_ts": 1793090437.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "美国Buena Park庆典高中生表演K-pop舞蹈",
+    "title_zh": "《The Perfect Lie》导演编剧盛赞刘延锡与徐玄振演技",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "《The Perfect Lie》是一部心理惊悚剧，由《You and Everything Else》导演赵英民执导。",
+      "剧情讲述一对男女对同一段记忆给出完全相反陈述的故事。",
+      "剧集制作团队对刘延锡和徐玄振的化学反应与演技表示赞赏。"
+    ],
+    "summary_zh": "《The Perfect Lie》制作团队近日公开称赞了主演刘延锡和徐玄振的默契与演技。该剧由《You and Everything Else》导演赵英民执导，是一部心理惊悚剧，讲述一对男女对同一段记忆给出完全相反陈述的故事。导演和编剧对两位演员的表现给予了高度评价。",
+    "extracted_at": "2026-10-27T17:33:12.555599+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Kang Hoon, Cho Hyun Chul, And Kim Jung Jin Stumble Into Love In New Drama “Happy Anding” Teaser",
+    "url": "https://www.soompi.com/article/1881750wpp/watch-kang-hoon-cho-hyun-chul-and-kim-jung-jin-stumble-into-love-in-new-drama-happy-anding-teaser",
+    "content": "tvN’s upcoming drama “Happy Anding” has unveiled a new teaser! “Happy Anding” is a coming-of-age drama about three comedians who have spent 10 years struggling to make a name for themselves. After encountering a mysterious woman, they set out to find new paths forward. The teaser depicts the romances of the three couples—Kang Tae Gu&#8230; Continue reading Watch: Kang Hoon, Cho Hyun Chul, And Kim Jung Jin Stumble Into Love In New Drama “Happy Anding” Teaser\nThe post Watch: Kang Hoon, Cho Hyun Chul, And Kim Jung Jin Stumble Into Love In New Drama “Happy Anding” Teaser appeared first on Soompi.",
+    "published_at": "1027soompi",
+    "published_ts": 1793089517.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "姜勋、赵贤哲、金正镇新剧《Happy Anding》预告公开，三对情侣浪漫来袭",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "tvN 新剧《Happy Anding》公开全新预告",
+      "该剧是一部成长剧，讲述三位喜剧演员奋斗10年无名后，遇到神秘女子并寻找新方向的故事",
+      "预告片描绘了三对情侣的浪漫故事，包括姜泰求（姜勋 饰）等角色",
+      "主演包括姜勋、赵贤哲、金正镇"
+    ],
+    "summary_zh": "tvN 新剧《Happy Anding》公开预告片。该剧讲述三位喜剧演员奋斗10年无名后，遇到神秘女子并寻找新方向的故事。预告展现了三对情侣的浪漫互动，主演姜勋、赵贤哲、金正镇悉数亮相。",
+    "extracted_at": "2026-10-27T17:33:14.872077+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Lee Hyun Wook, Jang Hyuk, Kim Kang Woo, And Park Sung Woong Raise Their Swords In “Sword & Silence” Posters",
+    "url": "https://www.soompi.com/article/1881696wpp/lee-hyun-wook-jang-hyuk-kim-kang-woo-and-park-sung-woong-raise-their-swords-in-sword-silence-posters",
+    "content": "“Sword &#38; Silence” has unveiled new posters! Directed by Kim Yeong Jo of “Hwarang: The Poet Warrior Youth,” “Sword &#38; Silence” tells the story of how the small kingdom of Silla overcame the more powerful kingdoms of Goguryeo and Baekje as well as China’s Tang dynasty to unify the Three Kingdoms. The posters capture the&#8230; Continue reading Lee Hyun Wook, Jang Hyuk, Kim Kang Woo, And Park Sung Woong Raise Their Swords In “Sword &#38; Silence” Posters\nThe post Lee Hyun Wook, Jang Hyuk, Kim Kang Woo, And Park Sung Woong Raise Their Swords In “Sword & Silence” Posters appeared first on Soompi.",
+    "published_at": "1027soompi",
+    "published_ts": 1793088823.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "李贤旭、张赫、金康宇、朴成雄新剧《剑与沉默》海报公开",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "《剑与沉默》由《花郎：The Poet Warrior Youth》导演金英祖执导。",
+      "剧情讲述小国新罗克服高句丽、百济及中国唐朝等强国，统一三国。",
+      "海报中李贤旭、张赫、金康宇、朴成雄举剑亮相。"
+    ],
+    "summary_zh": "韩剧《剑与沉默》公开新海报，导演金英祖曾执导《花郎》。该剧讲述新罗克服高句丽、百济及唐朝统一三国的故事。海报中李贤旭、张赫、金康宇、朴成雄举剑出镜。",
+    "extracted_at": "2026-10-27T17:33:17.075389+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "In China, an AI K-pop idol was 'pregnant,' then fans learned it was just an exit stunt - The Cool Down",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSlpJMC1mRHJURk91cThNUFF3WmRiYVp4elZSeEZrZVJFNzRiekI3ZDc3ZGRsY0dQQ2hidGNYYmsxUzBMemkwSWxuQ3dYYWUzSFZ3dzZHc2pFT0YydVV1TTAyWGMzQVZ3M0pRSmw2S2xnUXZzNjhTTk1sXzhSaDBKYjRR?oc=5",
+    "content": "In China, an AI K-pop idol was 'pregnant,' then fans learned it was just an exit stunt The Cool Down",
+    "published_at": "1027google-kpop",
+    "published_ts": 1793088420.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "中国AI韩流偶像\"怀孕\"事件被揭为退团炒作",
+    "source_type": "韩娱",
+    "risk_level": "中",
+    "is_blurred": false,
+    "facts_list": [
+      "事件发生地：中国",
+      "涉事主体：一名AI韩流偶像",
+      "事件经过：该AI偶像被宣布\"怀孕\"，随后粉丝得知这只是退团（exit）的炒作手段",
+      "信息来源：The Cool Down 报道"
+    ],
+    "summary_zh": "据 The Cool Down 报道，中国一名AI韩流偶像被宣布\"怀孕\"，随后粉丝得知这并非真实事件，而是一场退团炒作。原文未提及该AI偶像的具体名称、所属公司、宣布时间及退团后续安排等细节。",
+    "extracted_at": "2026-10-27T17:33:19.104863+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "12 K-Dramas That Serve More Than Just Food",
+    "url": "https://www.soompi.com/article/1878168wpp/12-k-dramas-that-serve-more-than-just-food",
+    "content": "A perfectly plated dish, the sizzle of a wok, or a meal that brings back memories of home—in K-dramas, food is rarely just food—it is an emotion. It becomes a language of love, ambition, rivalry, healing, and even power. From palace kitchens and culinary competitions to neighborhood restaurants and ambitious young chefs chasing their dreams,&#8230; Continue reading 12 K-Dramas That Serve More Than Just Food\nThe post 12 K-Dramas That Serve More Than Just Food appeared first on Soompi.",
+    "published_at": "1027soompi",
+    "published_ts": 1793087953.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "12部韩剧：美食不只是盘中餐，更是情感与权力的语言",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文为Soompi发布的剧单推荐文章，标题为《12 K-Dramas That Serve More Than Just Food》",
+      "原文提及韩剧中食物常象征爱情、野心、竞争、治愈甚至权力",
+      "原文列举场景包括宫廷厨房、烹饪比赛、社区餐厅、年轻厨师追梦",
+      "原文未列出12部剧的具体剧名、演员、播出平台或任何数据"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：12部韩剧证明美食不只是食物，更是情感与权力的语言]",
+    "extracted_at": "2026-10-27T17:33:20.983923+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Choo Young Woo And Kim So Hyun’s Relationship Faces A New Crisis In “Between Steps”",
+    "url": "https://www.soompi.com/article/1881800wpp/choo-young-woo-and-kim-so-hyuns-relationship-faces-a-new-crisis-in-between-steps",
+    "content": "“Between Steps” has unveiled new stills ahead of its upcoming episode! “Between Steps” is a romance drama directed by the late Ahn Pan Seok, who helmed the hit dramas “Something in the Rain,” “One Spring Night,” and “The Midnight Romance in Hagwon.” The drama tells the love story of Park Min Jae (Choo Young Woo),&#8230; Continue reading Choo Young Woo And Kim So Hyun’s Relationship Faces A New Crisis In “Between Steps”\nThe post Choo Young Woo And Kim So Hyun’s Relationship Faces A New Crisis In “Between Steps” appeared first on Soompi.",
+    "published_at": "1027soompi",
+    "published_ts": 1793087349.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《Between Steps》秋英宇与金所泫关系面临新危机，新剧照公开",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "《Between Steps》是一部浪漫爱情剧，由已故导演安畔锡执导。",
+      "安畔锡曾执导《经常请吃饭的漂亮姐姐》、《春夜》、《毕业》等热门剧集。",
+      "该剧讲述了朴敏宰（秋英宇 饰）的爱情故事。",
+      "制作方在即将播出的剧集前公开了新剧照。"
+    ],
+    "summary_zh": "韩剧《Between Steps》在即将播出新一集前公开了新剧照。该剧由已故导演安畔锡执导，他曾执导《经常请吃饭的漂亮姐姐》、《春夜》、《毕业》等作品。剧集讲述了朴敏宰（秋英宇 饰）的爱情故事，新剧照暗示秋英宇与金所泫饰演的角色关系将面临新危机。",
+    "extracted_at": "2026-10-27T17:33:23.348942+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "‘KNOCKING YOU OUT LIKE A LULLABY’ 🎶 Netflix Korea released the choreography version of “How It’s Done,” performed by the fictional K-pop girl group and demon-hunting trio from the 2025 Netflix film KPop Demon Hunters. Courtesy: Netflix Korea/Instagr - Facebook",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTVFFdVRCaFk0ODhxWFlEdzc3c0ZiQkVSbmZxZ0hNWU1kWDBhUV9Fa1RKZHZKVTZicDBrYmpnLV9GZmtfMnMwWlpQaHAtMWU2dHpySGlNTXRBMGJYR1M0cWoyOFRkVHVGd3BodU5WSGpHYW4yM0dZMlU0WF9tOTNsMzM0M3R1aVV4WExLR000SXVoQ3VEWE9RNEktTl9XVFdsVmFFeHZHNHN3NTRycW5QZktQNWdramxmUXdQMHBVcF9wRXhKdG5teWJtclRFSWxCWHd3?oc=5",
+    "content": "‘KNOCKING YOU OUT LIKE A LULLABY’ 🎶 Netflix Korea released the choreography version of “How It’s Done,” performed by the fictional K-pop girl group and demon-hunting trio from the 2025 Netflix film KPop Demon Hunters. Courtesy: Netflix Korea/Instagr Facebook",
+    "published_at": "1027google-kpop",
+    "published_ts": 1793086877.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Netflix韩国发布《KPop Demon Hunters》虚构女团《How It's Done》编舞版",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Netflix韩国于Facebook发布《How It's Done》编舞版视频",
+      "表演者为2025年Netflix电影《KPop Demon Hunters》中的虚构K-pop女团兼猎魔三人组",
+      "视频来源标注为Netflix Korea/Instagram"
+    ],
+    "summary_zh": "Netflix韩国通过Facebook发布了2025年Netflix电影《KPop Demon Hunters》中歌曲《How It's Done》的编舞版视频。该歌曲由电影中的虚构K-pop女团兼猎魔三人组表演，视频来源标注为Netflix Korea/Instagram。",
+    "extracted_at": "2026-10-27T17:33:25.117021+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Sakaguchi Kentaro Clashes With A Determined Lee Joon Gi In “kiDnap GAME”",
+    "url": "https://www.soompi.com/article/1881769wpp/sakaguchi-kentaro-clashes-with-a-determined-lee-joon-gi-in-kidnap-game",
+    "content": "“kiDnap GAME” has unveiled new stills ahead of its upcoming episode! “kiDnap GAME” is a thriller centered on an unprecedented kidnapping case that unfolds simultaneously across seven Asian cities: Seoul, Tokyo, Taipei, Singapore, Bangkok, Naha, and Manila. The story follows seven individuals who are each given different missions and forced into a deadly survival game,&#8230; Continue reading Sakaguchi Kentaro Clashes With A Determined Lee Joon Gi In “kiDnap GAME”\nThe post Sakaguchi Kentaro Clashes With A Determined Lee Joon Gi In “kiDnap GAME” appeared first on Soompi.",
+    "published_at": "1027soompi",
+    "published_ts": 1793086165.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "坂口健太郎与李准基在《kiDnap GAME》中展开对决",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "《kiDnap GAME》是一部以绑架案为题材的惊悚剧，故事在首尔、东京、台北、新加坡、曼谷、那霸、马尼拉七个亚洲城市同时展开。",
+      "剧中七名角色各自被赋予不同任务，被迫参与一场致命的生存游戏。",
+      "制作方公开了新剧照，展示坂口健太郎与李准基的对峙场面。"
+    ],
+    "summary_zh": "《kiDnap GAME》公开了新剧照，坂口健太郎与李准基在剧中展开对决。该剧是一部惊悚题材作品，围绕一起在首尔、东京、台北、新加坡、曼谷、那霸、马尼拉七个亚洲城市同时发生的绑架案展开，讲述七名角色各自接受不同任务、被迫参与致命生存游戏的故事。",
+    "extracted_at": "2026-10-27T17:33:27.377311+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Shin Hyun Soo Supports Joy While Kang Na Eon Pursues Kim Hyun Jin In “One Of A Kind Romance”",
+    "url": "https://www.soompi.com/article/1881712wpp/shin-hyun-soo-supports-joy-while-kang-na-eon-pursues-kim-hyun-jin-in-one-of-a-kind-romance",
+    "content": "The upcoming drama “One of a Kind Romance” has unveiled new stills featuring Shin Hyun Soo and Kang Na Eon! Based on a webtoon, “One of a Kind Romance” follows Gong Yu Il (Red Velvet’s Joy), an ordinary woman on the job hunt who unexpectedly becomes the manager of Tak Mu I (Kim Hyun Jin),&#8230; Continue reading Shin Hyun Soo Supports Joy While Kang Na Eon Pursues Kim Hyun Jin In “One Of A Kind Romance”\nThe post Shin Hyun Soo Supports Joy While Kang Na Eon Pursues Kim Hyun Jin In “One Of A Kind Romance” appeared first on Soompi.",
+    "published_at": "1027soompi",
+    "published_ts": 1793085990.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《独一无二的浪漫》新剧照：申铉秀支持Joy，姜娜言追求金贤镇",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "剧集《独一无二的浪漫》改编自网络漫画，讲述普通求职女性孔柳一（Red Velvet成员Joy饰）意外成为卓武一（金贤镇饰）经纪人的故事。",
+      "申铉秀在剧中饰演支持孔柳一的角色。",
+      "姜娜言在剧中饰演追求卓武一的角色。",
+      "制作方公开了申铉秀和姜娜言的新剧照。"
+    ],
+    "summary_zh": "即将播出的韩剧《独一无二的浪漫》公开了申铉秀和姜娜言的新剧照。该剧改编自网络漫画，讲述Joy饰演的普通求职女性孔柳一意外成为金贤镇饰演的卓武一的经纪人后发生的故事。剧中申铉秀饰演支持孔柳一的角色，姜娜言饰演追求卓武一的角色。",
+    "extracted_at": "2026-10-27T17:33:29.681500+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Seol In Ah Gets A Glimpse Of Yim Si Wan’s Troubled Family Life In “Love In Disguise”",
+    "url": "https://www.soompi.com/article/1881764wpp/seol-in-ah-gets-a-glimpse-of-yim-si-wans-troubled-family-life-in-love-in-disguise",
+    "content": "Yim Si Wan will face another crisis at a family gathering in tonight’s episode of “Love in Disguise”! “Love in Disguise” is a romance thriller drama about Yoon Yi Jun (Yim Si Wan), an arrogant chaebol heir who becomes a murder suspect, and Kang Jae Hee (Seol In Ah), a former special forces officer who&#8230; Continue reading Seol In Ah Gets A Glimpse Of Yim Si Wan’s Troubled Family Life In “Love In Disguise”\nThe post Seol In Ah Gets A Glimpse Of Yim Si Wan’s Troubled Family Life In “Love In Disguise” appeared first on Soompi.",
+    "published_at": "1027soompi",
+    "published_ts": 1793085588.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "薛仁雅《Love in Disguise》中窥见任时完问题家庭生活",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "剧集《Love in Disguise》是一部浪漫惊悚剧，由任时完饰演财阀继承人尹伊俊（音译），薛仁雅饰演前特种部队军官姜在熙（音译）。",
+      "在今晚播出的剧集中，任时完饰演的角色将在家庭聚会上遭遇另一场危机。",
+      "薛仁雅饰演的角色将窥见任时完角色的问题家庭生活。"
+    ],
+    "summary_zh": "韩剧《Love in Disguise》今晚将播出新一集，剧中任时完饰演的财阀继承人尹伊俊在家庭聚会上再次面临危机，薛仁雅饰演的姜在熙将窥见他问题重重的家庭生活。该剧是一部浪漫惊悚剧，讲述尹伊俊成为谋杀嫌疑人后与姜在熙之间的故事。",
+    "extracted_at": "2026-10-27T17:33:31.848325+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "'KPop Demon Hunters' Releases 'How It’s Done' Choreo Video - Sweety High",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb01yT3h6RmpaWV9JV0Jqd3dBei1qdWlkZy1LdE9ZSTVpZVdRMzhFckFnTG1EU0txbUNRaVdXR29oalJES2Znb3VvSU03MEp3ZF8tWXZ0MGtmc05fcW13Y1Z2WFBoTnFwd2hIVDlOYmc2ZjZtZHNzOUppM0UzZ1NxUEl3RWJNS1B0Umc?oc=5",
+    "content": "'KPop Demon Hunters' Releases 'How It’s Done' Choreo Video Sweety High",
+    "published_at": "1027google-kpop",
+    "published_ts": 1793084850.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《KPop Demon Hunters》发布《How It's Done》编舞视频",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "事件主体：高中生",
-      "事件地点：美国加利福尼亚州Buena Park（布埃纳帕克）",
-      "事件内容：在Buena Park庆典上表演K-pop舞蹈",
-      "信息来源：The Korea Daily（韩国日报）"
+      "原文仅提及《KPop Demon Hunters》发布了《How It's Done》的编舞视频，来源为 Sweety High",
+      "原文未提及发布时间、参与艺人、视频平台或具体编舞内容"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：高中生在Buena Park庆典上表演K-pop舞蹈]",
-    "extracted_at": "2026-10-27T11:30:17.158523+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters》发布了《How It's Done》编舞视频]",
+    "extracted_at": "2026-10-27T17:33:33.452266+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Jo Hee Bong, Kim Jae In, And Lee Choong Joo Stand As Pillars Of Support For Oh Se Young In “What A Boss Wants”",
+    "url": "https://www.soompi.com/article/1881735wpp/jo-hee-bong-kim-jae-in-and-lee-choong-joo-stand-as-pillars-of-support-for-oh-se-young-in-what-a-boss-wants",
+    "content": "“What a Boss Wants” has unveiled new stills featuring its supporting cast members surrounding Oh Se Young! Based on a web novel, “What a Boss Wants” is a romance drama about Kwon Do Hyuk (Sung Hoon), a chaebol boss with no sense of taste who sets out to find the woman whose voice he heard&#8230; Continue reading Jo Hee Bong, Kim Jae In, And Lee Choong Joo Stand As Pillars Of Support For Oh Se Young In “What A Boss Wants”\nThe post Jo Hee Bong, Kim Jae In, And Lee Choong Joo Stand As Pillars Of Support For Oh Se Young In “What A Boss Wants” appeared first on Soompi.",
+    "published_at": "1027soompi",
+    "published_ts": 1793084802.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《老板想要什么》公开赵熙奉、金在仁、李忠柱剧照，围绕吴世英饰演角色展开",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "《老板想要什么》改编自网络小说，是一部浪漫爱情剧，讲述没有味觉的财阀老板权道赫（成勋饰）寻找声音主人的故事。",
+      "剧方公开了赵熙奉、金在仁、李忠柱等配角围绕吴世英的新剧照。"
+    ],
+    "summary_zh": "韩剧《老板想要什么》公开了赵熙奉、金在仁、李忠柱等配角围绕吴世英的新剧照。该剧改编自网络小说，讲述没有味觉的财阀老板权道赫（成勋饰）寻找声音主人的浪漫爱情故事。",
+    "extracted_at": "2026-10-27T17:33:35.648517+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kim Myung Min In Talks To Star In New Drama By “The Fiery Priest” Director",
+    "url": "https://www.soompi.com/article/1881780wpp/kim-myung-min-in-talks-to-star-in-new-drama-by-the-fiery-priest-director",
+    "content": "Actor Kim Myung Min may star in the upcoming drama “New Neighborhood” (working title)! On October 27, a media outlet reported that Kim Myung Min will star in the new drama &#8220;New Neighborhood.&#8221; In response to the report, a representative from his agency Starhaus Entertainment shared that Kim Myung Min has received an offer to&#8230; Continue reading Kim Myung Min In Talks To Star In New Drama By “The Fiery Priest” Director\nThe post Kim Myung Min In Talks To Star In New Drama By “The Fiery Priest” Director appeared first on Soompi.",
+    "published_at": "1027soompi",
+    "published_ts": 1793083751.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "金明民有望出演《热血司祭》导演新剧《新街区》",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "时间：10月27日，有媒体报道演员金明民将出演新剧《新街区》（暂定名）。",
+      "官方回应：金明民所属社Starhaus Entertainment相关人士表示，金明民已收到出演提案，正在讨论中。",
+      "导演信息：该剧由《热血司祭》导演执导。"
+    ],
+    "summary_zh": "10月27日，据媒体报道，演员金明民有望出演新剧《新街区》（暂定名）。其所属社Starhaus Entertainment回应称，金明民已收到出演提案，正在积极讨论中。该剧将由《热血司祭》导演执导，播出平台和编制尚未确定。",
+    "extracted_at": "2026-10-27T17:33:37.792385+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kim Yun Seok Stares Intently At An Injured Koo Kyo Hwan In Poster For New Film “White Blast”",
+    "url": "https://www.soompi.com/article/1881738wpp/kim-yun-seok-stares-intently-at-an-injured-koo-kyo-hwan-in-poster-for-new-film-white-blast",
+    "content": "The upcoming film “White Blast” has released a new poster! “White Blast” is a mystery thriller that follows Gap Soo (Kim Yun Seok), a stationmaster nearing retirement, and his newly appointed successor, Hyun Taek (Koo Kyo Hwan), who discover a mysterious body at a rural train station isolated by a heavy snowstorm. The newly released&#8230; Continue reading Kim Yun Seok Stares Intently At An Injured Koo Kyo Hwan In Poster For New Film “White Blast”\nThe post Kim Yun Seok Stares Intently At An Injured Koo Kyo Hwan In Poster For New Film “White Blast” appeared first on Soompi.",
+    "published_at": "1027soompi",
+    "published_ts": 1793082471.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "金允石新片《白色爆炸》海报曝光 凝视受伤的具教焕",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "电影《White Blast》发布新海报，海报中金允石饰演的甲洙凝视受伤的具教焕饰演的贤泽。",
+      "《White Blast》是一部悬疑惊悚片，讲述即将退休的站长甲洙（金允石 饰）和新任接班人贤泽（具教焕 饰）在被暴风雪隔绝的乡村火车站发现一具神秘尸体。"
+    ],
+    "summary_zh": "电影《White Blast》公开新海报，海报中金允石饰演的甲洙凝视受伤的具教焕饰演的贤泽。该片为悬疑惊悚题材，讲述退休站长甲洙与接班人贤泽在暴风雪隔绝的乡村火车站发现神秘尸体的故事。",
+    "extracted_at": "2026-10-27T17:33:39.744785+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Japanese investment group claims JYP takeover, raising questions over credibility - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1TUFtWjZWc0lsaTVKRGZ5bEdNYnpaNVFHMklDRV9ZbGJKS3duMGh2X1R3NE9JcVU5d0ZsRTIxSzVuU21MaVNxTnAtZVpLNU1EQU1tSEZPNA?oc=5",
+    "content": "Japanese investment group claims JYP takeover, raising questions over credibility The Korea Herald",
+    "published_at": "1027google-kpop",
+    "published_ts": 1793081024.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "日本投资集团声称收购JYP，可信度遭质疑",
+    "source_type": "韩娱",
+    "risk_level": "中",
+    "is_blurred": true,
+    "facts_list": [
+      "《韩国先驱报》报道：一家日本投资集团声称已收购JYP娱乐",
+      "报道指出该收购声明的可信度受到质疑",
+      "原文未提及该投资集团名称、收购金额、交易时间及JYP官方回应"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：一家日本投资集团声称收购JYP娱乐，其可信度受到质疑]",
+    "extracted_at": "2026-10-27T17:33:41.353760+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Ahn Bo Hyun Sets Off On A Crucial Mission In New Historical Drama “Sacred Jewel”",
+    "url": "https://www.soompi.com/article/1881731wpp/ahn-bo-hyun-sets-off-on-a-crucial-mission-in-new-historical-drama-sacred-jewel",
+    "content": "Upcoming drama “Sacred Jewel” has shared the first look at Ahn Bo Hyun&#8217;s character! “Sacred Jewel” is set in the year 1258 during the Goryeo Dynasty, when the kingdom is on the brink of defeat after 30 years of war with Mongolia. The story follows the heroic fight of an expedition unit that sets out&#8230; Continue reading Ahn Bo Hyun Sets Off On A Crucial Mission In New Historical Drama &#8220;Sacred Jewel&#8221;\nThe post Ahn Bo Hyun Sets Off On A Crucial Mission In New Historical Drama &#8220;Sacred Jewel&#8221; appeared first on Soompi.",
+    "published_at": "1027soompi",
+    "published_ts": 1793080804.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "安普贤新古装剧《神圣珠宝》首曝角色剧照，踏上关键任务",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "剧名：《神圣珠宝》（Sacred Jewel）",
+      "主演：安普贤（Ahn Bo Hyun）",
+      "背景设定：1258年高丽王朝，与蒙古战争30年后濒临战败",
+      "剧情核心：一支远征队的英勇战斗",
+      "发布内容：安普贤角色的首张剧照"
+    ],
+    "summary_zh": "新剧《神圣珠宝》公开了安普贤的角色首张剧照。该剧以1258年高丽王朝为背景，讲述与蒙古战争30年后王国濒临覆灭之际，一支远征队展开英勇战斗的故事。安普贤在剧中踏上关键任务，剧照首次展现其角色形象。",
+    "extracted_at": "2026-10-27T17:33:43.484461+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "XLOV’s Hyun To Sit Out Comeback Showcase Due To Injury",
+    "url": "https://www.soompi.com/article/1881755wpp/xlovs-hyun-to-sit-out-comeback-showcase-due-to-injury",
+    "content": "XLOV member Hyun will not be attending the showcase for the group&#8217;s new album due to a leg injury. On October 27, XLOV&#8217;s agency StrangeLab released an official statement regarding Hyun&#8217;s absences from scheduled activities. Read the full statement below: Hello. This is StrangeLab. We are writing to inform you that XLOV member Hyun will&#8230; Continue reading XLOV&#8217;s Hyun To Sit Out Comeback Showcase Due To Injury\nThe post XLOV&#8217;s Hyun To Sit Out Comeback Showcase Due To Injury appeared first on Soompi.",
+    "published_at": "1027soompi",
+    "published_ts": 1793079024.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "XLOV成员Hyun因腿伤缺席新专辑回归Showcase",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "时间：10月27日",
+      "主体：XLOV所属社StrangeLab",
+      "动作：发布官方声明，宣布成员Hyun因腿伤缺席新专辑回归Showcase及预定活动"
+    ],
+    "summary_zh": "10月27日，XLOV所属社StrangeLab发布官方声明，宣布成员Hyun因腿部受伤，将缺席组合新专辑的回归Showcase以及相关预定活动。声明中未提及伤势的具体细节或恢复时间。",
+    "extracted_at": "2026-10-27T17:33:45.280661+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "“Kpop Demon Hunters” singer Ejae shared a series of photos online, giving fans a glimpse into her wedding celebration with longtime partner, Sam Kim. Link to full story in the comments section. - Facebook",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYVMwRHJNUHB4Zk5TWk1mdkh3RTZPU0ttcEFYYlRSRVd0QkZMbHpyYzNDUlVIOUFzM3lGR3BhR2w5OG41SGpVckx3T2hMQkdtOUxsZks0ZWZoaEZBTUZYNXlzTGt2MWxfdFI3aXZVSlJERmxYTEc2YktISGhnczhhcXlvVXM2aDhnUXhKY2FIQ2ljOS1xai1tVERPRnVxeW4wSTV2bWJjeUxjS01qbGp5NC1iU2QtVkY0eFVRdk5vUmhtbW9VOUNjV0VwUWVyNXBnaEEzeHJ6VQ?oc=5",
+    "content": "“Kpop Demon Hunters” singer Ejae shared a series of photos online, giving fans a glimpse into her wedding celebration with longtime partner, Sam Kim. Link to full story in the comments section. Facebook",
+    "published_at": "1027google-kpop",
+    "published_ts": 1793077804.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Ejae晒照分享与Sam Kim婚礼庆祝，粉丝一窥幸福时刻",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "歌手Ejae（Kpop Demon Hunters演唱者）在社交平台发布多张照片",
+      "照片内容为Ejae与长期伴侣Sam Kim的婚礼庆祝活动",
+      "帖子引导粉丝通过评论区链接查看完整故事"
+    ],
+    "summary_zh": "歌手Ejae（曾演唱Kpop Demon Hunters）在社交平台分享了一组照片，首次向粉丝展示她与长期伴侣Sam Kim的婚礼庆祝活动。帖子中附有完整故事链接，邀请粉丝通过评论区查看详情。",
+    "extracted_at": "2026-10-27T17:33:46.897033+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Korea's vaccine equity push | Southeast Asia takes leaf from K-pop playbook - Korea JoongAng Daily",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT2ZiRG5EbGk1TzFVRVcwRHdyYkpGb3hHTWlXOERUMDVDSDR4SHhwVE9fVDNOU21XZEtOM09RZWhQZXhaMlJtSmdURlQzVDUyTGdWZHFSLXVYaFNKUkZ5NkU2Rl8taG9rWE9mSU1DY2tac21icVFBemROcjhJSy14X0pYdlN2LUstc3N6M2NDS3BRZG1QdnJPRTEwUFE2NlBoc1BrcFBPLXFQNE1IdHI3X2IzcV9YRTdRa0Z3S2VXTFVwYjFvd2c?oc=5",
+    "content": "Korea's vaccine equity push | Southeast Asia takes leaf from K-pop playbook Korea JoongAng Daily",
+    "published_at": "1027google-kpop",
+    "published_ts": 1793075192.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "韩国推动疫苗公平 东南亚借鉴K-pop策略",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及韩国推动疫苗公平，东南亚借鉴K-pop策略，未提供具体时间、地点、主体动作或数据"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：韩国推动疫苗公平，东南亚借鉴K-pop策略]",
+    "extracted_at": "2026-10-27T17:33:48.166951+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -43,11 +494,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "AOA成员到花（Dohwa）在接受Complex采访时表示希望组合重组。",
-      "到花称：“哪怕一次也好，希望AOA能重组”，“总有一天想再一起活动”。"
+      "AOA成员到花（Dohwa）在采访中表示希望K-Pop组合AOA能够重组“哪怕一次”。",
+      "到花称：“总有一天想再一起活动”（I Want To Do It Again Someday）。"
     ],
-    "summary_zh": "AOA成员到花（Dohwa）近日接受Complex采访时表达了希望组合重组的愿望。她表示：“哪怕一次也好，希望AOA能重组”，“总有一天想再一起活动”。此番言论引发粉丝对AOA完整体回归的期待。",
-    "extracted_at": "2026-10-27T11:30:19.132179+08:00"
+    "summary_zh": "AOA成员到花（Dohwa）在接受Complex采访时表达了希望组合重组的心愿，称“哪怕一次也好”，并坦言“总有一天想再一起活动”。此番言论引发粉丝对AOA完整体回归的期待。",
+    "extracted_at": "2026-10-27T17:33:50.135483+08:00"
   },
   {
     "source_id": "soompi",
@@ -62,18 +513,18 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "朴敏英新剧《Nine to Six》首曝海报，变身工作狂职场女性",
+    "title_zh": "朴敏英新剧《Nine to Six》首曝海报，化身职场女性展自信魅力",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "SBS 新剧《Nine to Six》公开首张海报",
-      "朴敏英饰演女主角姜智怡（音译），是一个因专注工作而长期搁置恋爱的职场工作狂",
-      "剧中姜智怡遇到细心温暖的韩善宇（音译）后展开浪漫故事",
+      "朴敏英饰演女主角姜智怡（Kang Ji Yi），是一个因专注工作而长期忽视恋爱的职场狂人",
+      "剧中姜智怡遇到细心温暖的韩善宇（Han Seon Woo）后展开浪漫故事",
       "海报展现朴敏英作为职场女性的自信面貌"
     ],
-    "summary_zh": "SBS 新剧《Nine to Six》公开首张海报，主演朴敏英饰演工作狂姜智怡，因长期专注工作而将恋爱搁置，直到遇见细心温暖的韩善宇后展开浪漫故事。海报中朴敏英以职场女性形象展现自信魅力。",
-    "extracted_at": "2026-10-27T11:30:21.300671+08:00"
+    "summary_zh": "SBS 新剧《Nine to Six》公开首张海报，主演朴敏英饰演工作狂姜智怡，长期将恋爱置于工作之后，直到遇见温暖细心的韩善宇后展开浪漫故事。海报中朴敏英以职场女性形象展现自信魅力。",
+    "extracted_at": "2026-10-27T17:33:52.235170+08:00"
   },
   {
     "source_id": "soompi",
@@ -94,11 +545,35 @@
     "is_blurred": false,
     "facts_list": [
       "《Love In Disguise》第3集全国平均收视率为4.9%（Nielsen Korea数据）",
-      "该收视率较上一集（第2集）的4.7%上升0.2个百分点",
+      "该剧第3集收视率较上一集4.7%上升0.2个百分点",
       "《Between Steps》第7集播出，标志该剧进入后半程"
     ],
-    "summary_zh": "由任时完和薛仁雅主演的tvN剧集《Love In Disguise》第3集全国平均收视率达到4.9%，较上一集的4.7%上升0.2个百分点。同时，ENA剧集《Between Steps》播出第7集，进入后半程。",
-    "extracted_at": "2026-10-27T11:30:22.997151+08:00"
+    "summary_zh": "由任时完和薛仁雅主演的《Love In Disguise》第3集全国平均收视率为4.9%，较上一集4.7%上升0.2个百分点。同时，ENA剧集《Between Steps》播出第7集，进入后半程。",
+    "extracted_at": "2026-10-27T17:33:54.029863+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Toca Boca World x KPop Demon Hunters: Release date, outfits, music - Mashable",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRTRKcUF3ZG5FVk9SR3ZFMDdZLU9TN0hKd2N4eFAxRkdWTElmMlNYY05qNFpVVHJmSDhMUGdSZVp3RE8zdmp1SXhvV0MtYmtJbGU1Y1NSajU4dmY2a2VzVmEydzN1U3RRTnNtWFJROTJ1Vm03ckE4QUh0UVFKSzc0MGV3b1JvX3REcWNz?oc=5",
+    "content": "Toca Boca World x KPop Demon Hunters: Release date, outfits, music Mashable",
+    "published_at": "1027google-kpop",
+    "published_ts": 1793064681.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Toca Boca World 与 KPop Demon Hunters 联动：发布日期、服装与音乐",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及 Toca Boca World 与 KPop Demon Hunters 的联动，涉及发布日期、服装和音乐三个方面",
+      "原文未提供具体发布日期、服装细节或音乐内容"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：Toca Boca World 与 KPop Demon Hunters 联动，涉及发布日期、服装和音乐]",
+    "extracted_at": "2026-10-27T17:33:55.371853+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -113,16 +588,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Netflix公开《KPop Demon Hunters》歌曲《How It's Done》官方编舞视频",
+    "title_zh": "Netflix公开《KPop Demon Hunters》'How It's Done'官方编舞视频",
     "source_type": "韩娱",
     "risk_level": "低",
-    "is_blurred": false,
+    "is_blurred": true,
     "facts_list": [
-      "Netflix发布《KPop Demon Hunters》中歌曲《How It's Done》的官方编舞视频",
-      "内容形式为官方编舞（Official Choreography）展示视频"
+      "Netflix发布《KPop Demon Hunters》歌曲'How It's Done'的官方编舞视频",
+      "原文未提及编舞师、出演者、发布时间等具体信息"
     ],
-    "summary_zh": "Netflix发布动画电影《KPop Demon Hunters》中歌曲《How It's Done》的官方编舞视频，以官方编舞形式展示该曲舞蹈内容。",
-    "extracted_at": "2026-10-27T11:30:24.714640+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：观看《KPop Demon Hunters》'How It's Done'官方编舞视频]",
+    "extracted_at": "2026-10-27T17:33:56.836157+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -144,8 +619,8 @@
     "facts_list": [
       "原文仅提及《KPop Demon Hunters》女主角们在新动画编舞视频中展示《How It's Done》，未提供具体时间、地点、数据或具名来源"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters》女主角们在新动画编舞视频中展示《How It's Done》]",
-    "extracted_at": "2026-10-27T11:30:26.457674+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters》女主角们在新的动画编舞视频中展示《How It's Done》]",
+    "extracted_at": "2026-10-27T17:33:58.047973+08:00"
   },
   {
     "source_id": "soompi",
@@ -165,12 +640,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "ILLIT《It’s Me》MV于10月27日凌晨约3点（KST）在YouTube突破2亿次播放",
-      "该MV于4月30日下午6点（KST）发布，用时约5个月26天达成2亿播放",
-      "这是ILLIT第二个突破2亿播放的MV，也是最快达成此成绩的MV"
+      "ILLIT《It’s Me》MV于10月27日凌晨3点左右（韩国时间）在YouTube突破2亿次播放",
+      "该MV于4月30日下午6点（韩国时间）发布，用时约5个月26天达成2亿播放",
+      "这是ILLIT第二个突破2亿播放量的MV，也是最快达成此里程碑的MV"
     ],
-    "summary_zh": "ILLIT的《It’s Me》音乐视频在10月27日凌晨约3点（KST）于YouTube突破2亿次播放。该MV于4月30日下午6点（KST）发布，用时约5个月26天达成这一里程碑。这是ILLIT第二个播放量破2亿的MV，也是其最快突破2亿播放的MV。",
-    "extracted_at": "2026-10-27T11:30:28.297639+08:00"
+    "summary_zh": "ILLIT的《It’s Me》音乐视频在10月27日凌晨3点左右（韩国时间）YouTube播放量突破2亿次，成为组合第二个达成此成绩的MV，且用时约5个月26天，创下自身最快破2亿纪录。该MV于4月30日下午6点（韩国时间）发布。",
+    "extracted_at": "2026-10-27T17:34:00.241685+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -185,42 +660,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《KPop Demon Hunters》HUNTR/X《How It's Done》舞蹈排练视频公开",
+    "title_zh": "《KPop Demon Hunters》公开HUNTR/X《How It's Done》舞蹈排练视频",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
       "Bleeding Cool News 报道了《KPop Demon Hunters》中 HUNTR/X 的《How It's Done》舞蹈排练内容",
-      "原文仅提及舞蹈排练与歌曲名，未提供时间、地点、参与人员或具体数据"
+      "原文仅提供标题信息，未提及排练时间、地点、参与成员或具体细节"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：Bleeding Cool News 报道了《KPop Demon Hunters》HUNTR/X 的《How It's Done》舞蹈排练。]",
-    "extracted_at": "2026-10-27T11:30:30.224739+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "K-pop Girl Group Illit on ArtBox Partnership and Meeting Fans in L.A. - IMDb",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GYUFTaUo2SkZsV2hZUVRCTklNN1U2X0h0dUFONFBRbHBpajMySTBfVnlmSmlVcmNBLTZkUDNTYlZ2T09aSy1kV2ZNakNNSU9Ca3FndWcxRXNUV00zYXZleDY1M0RwLV9XWWc?oc=5",
-    "content": "K-pop Girl Group Illit on ArtBox Partnership and Meeting Fans in L.A. IMDb",
-    "published_at": "1027google-kpop",
-    "published_ts": 1793053770.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "ILLIT 与 ArtBox 合作并在洛杉矶与粉丝见面",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "主体：K-pop 女团 ILLIT",
-      "事件：与 ArtBox 建立合作关系",
-      "事件：在洛杉矶与粉丝见面",
-      "信息来源：IMDb"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：K-pop 女团 ILLIT 与 ArtBox 合作并在洛杉矶与粉丝见面]",
-    "extracted_at": "2026-10-27T11:30:31.868607+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters》发布 HUNTR/X《How It's Done》舞蹈排练视频]",
+    "extracted_at": "2026-10-27T17:34:01.968688+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -240,34 +689,10 @@
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅提及ILLIT与ArtBox建立合作，并在洛杉矶与粉丝见面，未提供具体时间、地点、合作内容或活动细节"
+      "原文仅提及ILLIT与ArtBox建立合作并在洛杉矶与粉丝见面，未提供具体时间、地点、合作内容或活动细节"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：K-pop女团ILLIT与ArtBox合作并在洛杉矶与粉丝见面]",
-    "extracted_at": "2026-10-27T11:30:33.352776+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Huntr/x Officially Returns in Surprise New KPop Demon Hunters Short - Polygon.com",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fa3R2NDlNaUZfU3QtUVJScGt6czdJc0YzVE81NXlGbVM0TGN5N3JIZlloWVJtYjBGcnAtNTUtZ1h0RGhIaF96b2VzTU1Ma084dnNMM2FZN18xOVBUWldRRl9xRjF4RDNwZExTa2FhaUcwb1Y0SXE3Z3BKWnlUTlU?oc=5",
-    "content": "Huntr/x Officially Returns in Surprise New KPop Demon Hunters Short Polygon.com",
-    "published_at": "1027google-kpop",
-    "published_ts": 1793047420.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Huntr/x 突袭发布《KPop Demon Hunters》新短片正式回归",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "Huntr/x 通过《KPop Demon Hunters》相关新短片正式回归",
-      "消息来源为 Polygon.com 的报道"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：Huntr/x 在《KPop Demon Hunters》一支突袭发布的新短片中正式回归]",
-    "extracted_at": "2026-10-27T11:30:35.168384+08:00"
+    "extracted_at": "2026-10-27T17:34:03.249842+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -282,16 +707,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《KPop Demon Hunters》公开新舞蹈排练视频，清晰展示编舞细节",
+    "title_zh": "《KPop Demon Hunters》公开舞蹈排练视频，清晰展示编舞细节",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "IMDb 发布消息称《KPop Demon Hunters》有新的舞蹈排练视频公开",
-      "视频内容为展示编舞（choreography）的清晰画面"
+      "IMDb 发布资讯，称《KPop Demon Hunters》的新舞蹈排练视频提供了对编舞的清晰展示",
+      "原文未提及视频数量、发布时间、参与艺人、平台具体信息或编舞细节"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：KPop Demon Hunters 的新舞蹈排练视频清晰展示了编舞]",
-    "extracted_at": "2026-10-27T11:30:36.832542+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters》的新舞蹈排练视频清晰展示了编舞]",
+    "extracted_at": "2026-10-27T17:34:04.696075+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -311,11 +736,11 @@
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅提及《KPop Demon Hunters》公开了HUNTR/X的新舞蹈，面向TikTok用户",
-      "原文未提及舞蹈名称、发布时间、参与成员、编舞细节或任何数据"
+      "Mashable报道：《KPop Demon Hunters》公开了HUNTR/X的新舞蹈",
+      "该舞蹈面向TikTok用户，意在引发模仿与传播"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters》公开了HUNTR/X的新舞蹈，供TikTok用户关注模仿]",
-    "extracted_at": "2026-10-27T11:30:38.634198+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters》公开了HUNTR/X的新舞蹈，供TikTok用户关注和模仿]",
+    "extracted_at": "2026-10-27T17:34:06.414772+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -330,17 +755,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《KPop Demon Hunters》发布新舞蹈排练视频，清晰展示编舞细节",
+    "title_zh": "《KPop Demon Hunters》公开新舞蹈排练视频，清晰展示编舞细节",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "来源为 Consequence of Sound 的报道，标题称《KPop Demon Hunters》发布了新的舞蹈排练视频",
-      "报道称视频清晰展示了编舞内容",
-      "原文未提及视频的具体发布时间、平台、参与艺人姓名或编舞细节"
+      "原文仅提及《KPop Demon Hunters》发布了新的舞蹈排练视频，可清晰看到编舞",
+      "原文未提及具体发布时间、参与艺人姓名、视频数量或平台等细节"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters》的新舞蹈排练视频清晰展示了编舞]",
-    "extracted_at": "2026-10-27T11:30:40.282867+08:00"
+    "extracted_at": "2026-10-27T17:34:07.979134+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -361,11 +785,10 @@
     "is_blurred": true,
     "facts_list": [
       "原文仅提及82WORLD: LA活动在洛杉矶举办，主题为探索K-pop音乐节的两种体验面向",
-      "原文来源为Annenberg Media",
-      "原文未提及具体艺人、日期、场地、票房或曲目等细节"
+      "原文未提供具体时间、地点细节、参演艺人、观众数据或主办方声明"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：82WORLD: LA explores two sides of the K-pop festival experience - Annenberg Media]",
-    "extracted_at": "2026-10-27T11:30:42.158288+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：82WORLD: LA explores two sides of the K-pop festival experience]",
+    "extracted_at": "2026-10-27T17:34:09.748960+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -385,12 +808,12 @@
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "Huntr/x 为《KPop Demon Hunters》相关组合",
+      "Huntr/x 为《KPop Demon Hunters》相关组合/艺人",
       "Huntr/x 公开了歌曲《How It's Done》的舞蹈视频",
       "消息来源为 UPI"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：Huntr/x of 'KPop Demon Hunters' shares 'How It's Done' dance video]",
-    "extracted_at": "2026-10-27T11:30:43.915861+08:00"
+    "extracted_at": "2026-10-27T17:34:11.220608+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -405,16 +828,40 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《Kpop Demon Hunters》发布《How It's Done》官方编舞",
+    "title_zh": "《Kpop Demon Hunters》发布《How It's Done》官方编舞视频",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "《Kpop Demon Hunters》发布了歌曲《How It's Done》的官方编舞",
-      "信息来源为 BroadwayWorld"
+      "BroadwayWorld 报道：《Kpop Demon Hunters》发布了歌曲《How It's Done》的官方编舞内容",
+      "原文未提及编舞视频的发布时间、平台、参与人员或具体编舞细节"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：《Kpop Demon Hunters》发布了《How It's Done》的官方编舞]",
-    "extracted_at": "2026-10-27T11:30:45.489753+08:00"
+    "extracted_at": "2026-10-27T17:34:12.891985+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "McDonald's and Netflix team up for all-new 'KPop Demon Hunters'-inspired meals - ABC News - Breaking News, Latest News and Videos",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ3ZfME9wMEpib2FLSXRJcEhMMTVNSUdqQUhuMlYzNmRMVlNBWGdjVlIwMVJlSDJUMkZpa2wyOE1rdE8tSDNIZFl5RXRKTVRWUTNqeDNRZXowakpMcjRId1FpLVpKTjY4clRSeF9NeTZFcENQMzdNMWh0NWRYZGplMDk2SDJoYlpnbkIzU2thaHF0LXo1LUU3WkZneThKN0syV3gwQzhHSFA5T1Yz0gGyAUFVX3lxTE9oYW81Y3BYSlV5NXljZmx1SHc3WjZ2R1VnZEdtNzBKSF9BS0tVbkpsMXpRTm1rUldaaGg4ellhV1FGSG5FQkxKNi10SklFSnpBQ0VRdi1SQ19Mb2FQLTZJOE1HR2twN0RNOXU3MHFYVjFsXzNNaTZ2ek9ZYzExN0NGVDFhYkt0ZWdWQ0gyVE1RVTVnV2s0cFhhclpyZVh0eU14Nm11ODliSkVjNF91dU9IeVE?oc=5",
+    "content": "McDonald's and Netflix team up for all-new 'KPop Demon Hunters'-inspired meals ABC News - Breaking News, Latest News and Videos",
+    "published_at": "1027google-kpop",
+    "published_ts": 1793036127.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "麦当劳与Netflix联手推出《KPop Demon Hunters》主题套餐",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "麦当劳与Netflix合作推出以《KPop Demon Hunters》为灵感的套餐",
+      "原文未提及具体套餐内容、发布时间或参与地区"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：麦当劳和Netflix联手推出全新《KPop Demon Hunters》主题套餐]",
+    "extracted_at": "2026-10-27T17:34:14.543936+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -435,10 +882,34 @@
     "is_blurred": true,
     "facts_list": [
       "Netflix发布《KPop Demon Hunters》官方编舞视频",
-      "原文称可通过视频学习每一个动作"
+      "视频用途为供观众学习舞蹈动作"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：通过Netflix官方《KPop Demon Hunters》编舞视频学习每一个动作]",
-    "extracted_at": "2026-10-27T11:30:47.004178+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：通过Netflix官方发布的《KPop Demon Hunters》编舞视频学习每一个动作]",
+    "extracted_at": "2026-10-27T17:34:16.008407+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "A Full List of Current 2026 K-Pop Concerts (Updating) - Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVXBZOWlibTVOY2x5aHBYSzBoNXl0Tk92TGowR3djd3F3amthSENMNDc4MmhoY1FaSzd4MGp0SUhhVFhSYWo4VE9pN3pFZzhFbW9yX1N5S2pwQTNlQUJnVkM0ckdrTXgyTHBxQ2tzekIyZFk5MTJRQW9uX3VoOEFSOG83alR4LWhtQm1SajBHZGZyOHFi?oc=5",
+    "content": "A Full List of Current 2026 K-Pop Concerts (Updating) Yahoo",
+    "published_at": "1027google-kpop",
+    "published_ts": 1793031057.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Yahoo 更新 2026 年 K-Pop 演唱会完整清单",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅称 Yahoo 正在更新 2026 年 K-Pop 演唱会完整清单",
+      "原文未提及任何具体艺人、场次、日期、地点或票房数据"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：Yahoo 正在更新 2026 年 K-Pop 演唱会完整清单]",
+    "extracted_at": "2026-10-27T17:34:17.232350+08:00"
   },
   {
     "source_id": "asianwiki",
