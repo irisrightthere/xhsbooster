@@ -3,25 +3,320 @@
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "See the Official KPop Demon Hunters Choreography for ‘Your Idol’ and ‘Soda Pop’ - Netflix",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1fQXhzUFJFVFRQSFJSNDNHNEZGV1lRbG1oQ2JGSVlTdnJ0WXZlZVM2ZGFPLXljQ0QxbWJ2WlpIblZnODlDUFFxYmlvZzhBdW5HUFE1QWdJTHMzNWViYmQydEhhNFZfWHdfb1hXZG8xWlczS0NzVmJvZXVB?oc=5",
-    "content": "See the Official KPop Demon Hunters Choreography for ‘Your Idol’ and ‘Soda Pop’ Netflix",
+    "title": "‘KPop Demon Hunters’ expected to top Halloween costume picks - Florida Politics",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMVUyc1hmQ1JLZ3JWa3Uzb2hxTlVHeVp4eEZEUnowZHhzckFfcVBEam9kb19PWFhtTURaUFprc2cwNEtsOXQxRVRKb0FnaHN3LURWd3JnaWMzVFFELUl4eFJvQWxrRlVzWFhUN1oybk9NbE1uZXFBSjhYLWcyMmRpLVhpN2RkdWppOEdTVkVtRjBBNlB2Z1VESVd3ZnVSdmxxNEtqYkF3?oc=5",
+    "content": "‘KPop Demon Hunters’ expected to top Halloween costume picks Florida Politics",
     "published_at": "1031google-kpop",
-    "published_ts": 1793418471.0,
+    "published_ts": 1793441079.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Netflix公开《KPop Demon Hunters》官方编舞视频，含《Your Idol》《Soda Pop》两曲",
+    "title_zh": "《KPop Demon Hunters》预计登顶万圣节服装选择榜",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及《KPop Demon Hunters》预计成为万圣节服装热门选择，来源为 Florida Politics",
+      "原文未提供具体数据、时间、地点或具名来源"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters》预计将登顶万圣节服装选择榜]",
+    "extracted_at": "2026-10-31T18:08:48.725329+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Yoo Yeon Seok And Seo Hyun Jin Undergo Lie Detector Tests In “The Perfect Lie”",
+    "url": "https://www.soompi.com/article/1883126wpp/yoo-yeon-seok-and-seo-hyun-jin-undergo-lie-detector-tests-in-the-perfect-lie",
+    "content": "What really happened between Yoo Yeon Seok and Seo Hyun Jin on that fateful night in “The Perfect Lie”? On the next episode of the drama, the police will do everything they can to find out. Helmed by “You and Everything Else” director Jo Young Min, “The Perfect Lie” is a psychological thriller in which&#8230; Continue reading Yoo Yeon Seok And Seo Hyun Jin Undergo Lie Detector Tests In &#8220;The Perfect Lie&#8221;\nThe post Yoo Yeon Seok And Seo Hyun Jin Undergo Lie Detector Tests In &#8220;The Perfect Lie&#8221; appeared first on Soompi.",
+    "published_at": "1031soompi",
+    "published_ts": 1793440203.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "刘延锡与徐玄振在《The Perfect Lie》中接受测谎仪测试",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "刘延锡与徐玄振在《The Perfect Lie》中接受测谎仪测试",
+      "该剧由《You and Everything Else》导演Jo Young Min执导",
+      "《The Perfect Lie》是一部心理惊悚剧",
+      "测谎情节发生在下一集，警方将全力调查关键夜晚的真相"
+    ],
+    "summary_zh": "韩剧《The Perfect Lie》下一集将播出刘延锡与徐玄振接受测谎仪测试的情节，警方将全力调查两人在关键夜晚发生的真相。该剧由《You and Everything Else》导演Jo Young Min执导，是一部心理惊悚剧。",
+    "extracted_at": "2026-10-31T18:08:50.301103+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "See the Official KPop Demon Hunters Choreography for ‘Your Idol’ and ‘Soda Pop’ - Netflix",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1fQXhzUFJFVFRQSFJSNDNHNEZGV1lRbG1oQ2JGSVlTdnJ0WXZlZVM2ZGFPLXljQ0QxbWJ2WlpIblZnODlDUFFxYmlvZzhBdW5HUFE1QWdJTHMzNWViYmQydEhhNFZfWHdfb1hXZG8xWlczS0NzVmJvZXVB?oc=5",
+    "content": "See the Official KPop Demon Hunters Choreography for ‘Your Idol’ and ‘Soda Pop’ Netflix",
+    "published_at": "1031google-kpop",
+    "published_ts": 1793440199.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Netflix公开《KPop Demon Hunters》官方编舞视频，含《Your Idol》《Soda Pop》",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
       "Netflix发布《KPop Demon Hunters》官方编舞视频",
-      "视频包含《Your Idol》和《Soda Pop》两首歌曲的编舞"
+      "视频包含歌曲《Your Idol》与《Soda Pop》的编舞内容"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：Netflix公开《KPop Demon Hunters》中《Your Idol》与《Soda Pop》的官方编舞视频]",
-    "extracted_at": "2026-10-31T11:52:13.107147+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：See the Official KPop Demon Hunters Choreography for ‘Your Idol’ and ‘Soda Pop’]",
+    "extracted_at": "2026-10-31T18:08:51.895691+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Kim Rae Won Resolves To Win In “Fullcount” Teaser",
+    "url": "https://www.soompi.com/article/1883127wpp/watch-kim-rae-won-resolves-to-win-in-fullcount-teaser",
+    "content": "SBS&#8217;s &#8220;Fullcount&#8221; has released a new teaser! “Fullcount” is a sports drama that depicts the fierce battle for survival among those who risk everything in a cutthroat baseball world filled with schemes and power struggles, all in pursuit of the coveted position of professional baseball manager. Kim Rae Won plays Hwang Jin Ho, the acting&#8230; Continue reading Watch: Kim Rae Won Resolves To Win In &#8220;Fullcount&#8221; Teaser\nThe post Watch: Kim Rae Won Resolves To Win In &#8220;Fullcount&#8221; Teaser appeared first on Soompi.",
+    "published_at": "1031soompi",
+    "published_ts": 1793437352.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "金来沅主演SBS新剧《Fullcount》预告公开，决心求胜",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "SBS新剧《Fullcount》发布新预告",
+      "剧集类型为体育题材，描绘在充满阴谋与权力斗争的残酷棒球世界中，人们为争夺职业棒球队经理职位而展开的激烈生存竞争",
+      "金来沅饰演代理经理黄镇浩（音译）"
+    ],
+    "summary_zh": "SBS新剧《Fullcount》公开新预告。该剧是一部体育题材剧集，讲述在充满阴谋与权力斗争的残酷棒球世界中，人们为争夺职业棒球队经理职位而展开的激烈生存竞争。金来沅在剧中饰演代理经理黄镇浩，预告中展现了他决心求胜的面貌。",
+    "extracted_at": "2026-10-31T18:08:53.800293+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "ATEEZ’s Hongjoong Sits Out “Music Core” Due To Health",
+    "url": "https://www.soompi.com/article/1883128wpp/ateezs-hongjoong-sits-out-music-core-due-to-health",
+    "content": "ATEEZ’s Hongjoong sat out today’s episode of “Music Core” due to health concerns. On October 31, KQ Entertainment announced that Hongjoong would not be appearing on that day’s episode of “Music Core” with the rest of his group due to “health reasons.” Earlier this week, Hongjoong and Wooyoung were unable to join their bandmates for&#8230; Continue reading ATEEZ&#8217;s Hongjoong Sits Out &#8220;Music Core&#8221; Due To Health\nThe post ATEEZ&#8217;s Hongjoong Sits Out &#8220;Music Core&#8221; Due To Health appeared first on Soompi.",
+    "published_at": "1031soompi",
+    "published_ts": 1793436801.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "ATEEZ弘中因健康原因缺席《音乐中心》行程",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "10月31日，KQ娱乐宣布ATEEZ成员弘中因健康原因不参加当天《音乐中心》的演出。",
+      "本周早些时候，弘中与友荣曾缺席与队友的行程。"
+    ],
+    "summary_zh": "10月31日，KQ娱乐宣布ATEEZ成员弘中因健康原因不参加当天《音乐中心》的演出。本周早些时候，弘中与友荣也曾缺席与队友的行程。",
+    "extracted_at": "2026-10-31T18:08:55.419294+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Yoo Yeon Seok And Seo Hyun Jin Share A Fateful First Kiss In “The Perfect Lie”",
+    "url": "https://www.soompi.com/article/1883118wpp/yoo-yeon-seok-and-seo-hyun-jin-share-a-fateful-first-kiss-in-the-perfect-lie",
+    "content": "MBC’s “The Perfect Lie” has revealed new glimpses of the fateful night that changed Yoo Yeon Seok and Seo Hyun Jin’s lives. Helmed by “You and Everything Else” director Jo Young Min, “The Perfect Lie” is a psychological thriller in which a man and a woman offer completely opposite accounts of the same memory, clashing&#8230; Continue reading Yoo Yeon Seok And Seo Hyun Jin Share A Fateful First Kiss In &#8220;The Perfect Lie&#8221;\nThe post Yoo Yeon Seok And Seo Hyun Jin Share A Fateful First Kiss In &#8220;The Perfect Lie&#8221; appeared first on Soompi.",
+    "published_at": "1031soompi",
+    "published_ts": 1793435683.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《The Perfect Lie》柳演锡徐玄振公开命运般初吻剧照",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "MBC新剧《The Perfect Lie》由《You and Everything Else》导演Jo Young Min执导",
+      "该剧为心理惊悚题材，讲述一对男女对同一段记忆给出完全相反陈述的故事",
+      "制作方公开了柳演锡与徐玄振命运般初吻的剧照"
+    ],
+    "summary_zh": "MBC心理惊悚剧《The Perfect Lie》公开了柳演锡与徐玄振命运般初吻的新剧照。该剧由《You and Everything Else》导演Jo Young Min执导，讲述一对男女对同一段记忆给出完全相反陈述、产生冲突的故事。此次公开的剧照展现了改变两人命运的那一夜。",
+    "extracted_at": "2026-10-31T18:08:57.152482+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-drama's beloved duo Yoo Yeon-seok, Seo Hyeon-jin reunites after 10 years - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56bHd4QWVnMm1ncVhtMlIxOERuSmFubmFqcFEzVG9JeTJueEJlQS1SYTVITTBLMGhqaWJaWFlfNW5pemZtOFl4T0plakpRdkUxQkVNUU5uNA?oc=5",
+    "content": "K-drama's beloved duo Yoo Yeon-seok, Seo Hyeon-jin reunites after 10 years The Korea Herald",
+    "published_at": "1031google-kpop",
+    "published_ts": 1793430005.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "柳演锡徐玄振时隔10年再聚首 韩剧经典搭档重聚",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "《韩国先驱报》报道称柳演锡与徐玄振时隔10年重聚",
+      "原文未提及重聚的具体形式、时间、地点或作品名称"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：韩剧备受喜爱的搭档柳演锡与徐玄振时隔10年重聚]",
+    "extracted_at": "2026-10-31T18:08:58.706547+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "HELLOWORKS brings K-pop shows and audience participation to Japan's Setsunan University festival on Nov. 1 - K-EnterTech Hub",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8telVjUFZSazkxekttR2loc0wtWlZEQlR6RkxPaHhaY1RBYnpwM0xLUFQ3NklXdF9PS1hEczdqci1lUHpKeWxIWTcxMi1ibzQtVWhtVFh3cEFuYmdyaTZHdW5YWQ?oc=5",
+    "content": "HELLOWORKS brings K-pop shows and audience participation to Japan's Setsunan University festival on Nov. 1 K-EnterTech Hub",
+    "published_at": "1031google-kpop",
+    "published_ts": 1793428959.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "HELLOWORKS于11月1日将K-pop演出与观众互动带入日本摄南大学校庆",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "主体：HELLOWORKS",
+      "时间：11月1日",
+      "地点：日本摄南大学校庆",
+      "活动内容：K-pop演出及观众参与环节"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：HELLOWORKS于11月1日将K-pop演出与观众互动带入日本摄南大学校庆]",
+    "extracted_at": "2026-10-31T18:08:59.988453+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Ahn Hyo Seop And Hong Hwa Yeon Search For Team Member Ahead Of Cooking Competition In “Final Table”",
+    "url": "https://www.soompi.com/article/1883107wpp/ahn-hyo-seop-and-hong-hwa-yeon-search-for-team-member-ahead-of-cooking-competition-in-final-table",
+    "content": "Ahn Hyo Seop and Hong Hwa Yeon will search for a chef to join their team on “Final Table’! JTBC’s “Final Table” is a new drama that tells the story of talented Korean chefs from around the world who gather to compete in “The Table: K-Chef 2026,” a high-stakes cooking competition to determine the best&#8230; Continue reading Ahn Hyo Seop And Hong Hwa Yeon Search For Team Member Ahead Of Cooking Competition In &#8220;Final Table&#8221;\nThe post Ahn Hyo Seop And Hong Hwa Yeon Search For Team Member Ahead Of Cooking Competition In &#8220;Final Table&#8221; appeared first on Soompi.",
+    "published_at": "1031soompi",
+    "published_ts": 1793427838.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "安孝燮与洪华妍《Final Table》烹饪大赛前寻找队员",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "安孝燮和洪华妍在JTBC新剧《Final Table》中寻找厨师加入他们的团队",
+      "《Final Table》是一部讲述来自世界各地的才华横溢的韩国厨师聚集参加‘The Table: K-Chef 2026’高风险烹饪比赛，以决出最佳厨师的故事"
+    ],
+    "summary_zh": "安孝燮和洪华妍在JTBC新剧《Final Table》中寻找厨师加入他们的团队。该剧讲述来自世界各地的韩国厨师参加‘The Table: K-Chef 2026’烹饪比赛，争夺最佳厨师称号。",
+    "extracted_at": "2026-10-31T18:09:01.672338+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "‘Final Table’ Review: Is Prime Video’s New K-Drama Worth Watching? - Forbes",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcC1ROVpCbnRsUlZpa2hOOHJnTS1ISDdaelBnMDRwLUM4MUVsN1IzcjdyNVlKVmVGUHRWOWZxUnZpdkNGZlVrOVNNMzdhRmYyMlhTTHVaVXRSbWRLZ3JLUXNBN1g3dzlvOVBMTlZCeG4wSGJJeXNpT29SZXBST0dDcVlRaG1RVlhscTl1cGNDMzk5ZkgzcDhHZ1VUeFZQZjZBaXF5b2NIYnVwNjhKRzlhTHd3?oc=5",
+    "content": "‘Final Table’ Review: Is Prime Video’s New K-Drama Worth Watching? Forbes",
+    "published_at": "1031google-kpop",
+    "published_ts": 1793427312.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Prime Video新韩剧《Final Table》剧评：值得一看吗？",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅为Forbes剧评标题，未提供剧集具体情节、演员阵容、播出日期或评分数据",
+      "原文未提及该剧的制作团队、播出平台具体上线时间等可确认细节"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：这是Forbes对Prime Video新韩剧《Final Table》的一篇剧评，讨论该剧是否值得观看。]",
+    "extracted_at": "2026-10-31T18:09:03.473835+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kim You Jung And Park Jinyoung Go For Drinks After Work In “100 Days Of Deception”",
+    "url": "https://www.soompi.com/article/1883101wpp/kim-you-jung-and-park-jinyoung-go-for-drinks-after-work-in-100-days-of-deception",
+    "content": "Is romance finally blossoming between Kim You Jung and Park Jinyoung in “100 Days of Deception”? Set during the Japanese occupation of Korea, tvN’s “100 Days of Deception” is a period spy romance starring Kim You Jung as Lee Ga Kyeong (Kim You Jung), a pickpocket who becomes an undercover spy for the independence movement&#8230; Continue reading Kim You Jung And Park Jinyoung Go For Drinks After Work In &#8220;100 Days Of Deception&#8221;\nThe post Kim You Jung And Park Jinyoung Go For Drinks After Work In &#8220;100 Days Of Deception&#8221; appeared first on Soompi.",
+    "published_at": "1031soompi",
+    "published_ts": 1793423050.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《100天的谎言》金裕贞与朴珍荣下班后喝酒约会",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "剧集《100天的谎言》背景设定在日据时期的朝鲜",
+      "金裕贞饰演李佳景，原为扒手，后成为独立运动的卧底间谍",
+      "朴珍荣与金裕贞在剧中下班后一起喝酒，暗示感情线发展"
+    ],
+    "summary_zh": "tvN新剧《100天的谎言》以日据时期朝鲜为背景，讲述金裕贞饰演的扒手李佳景成为独立运动卧底间谍的故事。最新剧照显示，金裕贞与朴珍荣饰演的角色在下班后一起喝酒，两人之间的浪漫氛围引发关注。",
+    "extracted_at": "2026-10-31T18:09:05.348369+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "7 K-Drama Couples Who Seem Fated To Be Together",
+    "url": "https://www.soompi.com/article/1880529wpp/7-k-drama-couples-who-seem-fated-to-be-together",
+    "content": "Some K-drama couples make you believe that fate is real. No matter how many times they cross paths, how much time passes, or how many obstacles stand in their way, they always seem to find their way back to each other. Some have been connected since childhood, while others keep finding their way back into&#8230; Continue reading 7 K-Drama Couples Who Seem Fated To Be Together\nThe post 7 K-Drama Couples Who Seem Fated To Be Together appeared first on Soompi.",
+    "published_at": "1031soompi",
+    "published_ts": 1793421000.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "盘点7对命运注定般的韩剧情侣",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅称部分韩剧情侣从童年就有联系，或多次重逢，但未列出任何具体剧名或角色名"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：有些韩剧情侣让人相信命运是真实的，无论跨越多少障碍，他们总能找到彼此。]",
+    "extracted_at": "2026-10-31T18:09:06.793703+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Dead-End Job review: Lee Jae Wook's horror-comedy k-drama turns the gig economy into a supernatural nightmare | Web Series - Hindustan Times",
+    "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNNDN5SThVdDV6dzFncjJqZk5Pa080Vng4M0tHaFJYNkxVeTgtcWN1enFkckNIaWpBY3BDZUVJMWlicy13U0JWUTExMkJVLUlMY1N3NmlxaVdMeGtaQjdTTzBqdVVVOFZLcUwwZmpKYnR1dkJVR3NBWXJRSFR4S0FFdjNRM0pRcmF4LWlpaHg4RlNyNUdvRkpoNHNIWlFUT2ZvYWwzTFQwT2pyRlZQczN3VDRUVVlsQnN2ZnhweFZFcjlYbkt4clNtVHkyUGdqOTNGT3doRV9LalZ4OFlMSUtDZUdLV0pTM0xmT3RJRzE5dUFvLVFCZzVPQUhmMHdIMUw3UElKVl9TZ2I0SEdfMlp1U0dsTlJhZzRoS0tCTVNtZHRTQ0RNX3RKMHptanlNeG1FMjVaVUZkS1ZMaFZEdVNnMkpMMlN1cVJ5NVHSAc8CQVVfeXFMUE0zTGswRl80NUdDMVBQRkRWaXJfSlczVnVGZ2V5eW14bjF5VEJhV0VqeHpXYWhHbHh0Q1dZbGNJVnBqNEdjby1wN3BxNWV0TXBRWXkxeTl5T0pfbWVhUWtvMGxPT1hsdzI0OUNxV1d4emlfV1pUQVF6bHRaby03SVBXX3lVZTlUVmt4YkhzaWtmSzFwQUhSZkllQnk3WEJoaDZKV1Y2bWdtODc3OGRqNktHeTE4WXMzdGxwcnF2dnU3RVRZRGU2QVlTQlNUVExPLU5QWGtMNWVuSnppcjRXeUpjS3YtRTBLVUNqZU9VRko1ekd0ZzBRanhkUHdVbHJDTnVaTE02c3ZCbENKam1VcTB0Z2Uyb0JfNWxSeF8wQUpXR2JqOWx4YmpPdlpQQWJSdm53VDc4MGFfZUo5YzVNRDFjc0tURWtWMjZHWDF4aVk?oc=5",
+    "content": "Dead-End Job review: Lee Jae Wook's horror-comedy k-drama turns the gig economy into a supernatural nightmare | Web Series Hindustan Times",
+    "published_at": "1031google-kpop",
+    "published_ts": 1793419664.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《Dead-End Job》剧评：李宰旭主演恐怖喜剧韩剧，将零工经济变成超自然噩梦",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文为印度媒体 Hindustan Times 发布的《Dead-End Job》剧评，标题称该剧由李宰旭主演，类型为恐怖喜剧",
+      "原文标题称剧情将零工经济（gig economy）转化为超自然噩梦",
+      "原文正文内容缺失，仅重复标题，未提供剧情细节、播出平台、播出日期、收视数据或具体评价内容"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：《Dead-End Job》剧评指出李宰旭主演的恐怖喜剧韩剧将零工经济变成超自然噩梦]",
+    "extracted_at": "2026-10-31T18:09:08.758078+08:00"
   },
   {
     "source_id": "soompi",
@@ -36,18 +331,18 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "李相二特别客串《除了你之外的恋爱》第13集，与安恩真重逢",
+    "title_zh": "李相二特别客串《除了爱你以外的爱》第13集，与安恩真重逢",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "时间：10月31日",
-      "主体：KBS 2TV电视剧《除了你之外的恋爱》制作组",
+      "主体：KBS 2TV电视剧《除了爱你以外的爱》制作组",
       "动作：宣布李相二将特别出演于当天播出的第13集",
-      "原因：原文提及李相二因与安恩真的渊源而促成此次客串，但具体原因未详细说明"
+      "原因：原文未完整说明，仅提及因李相二的……（原文截断）"
     ],
-    "summary_zh": "KBS 2TV电视剧《除了你之外的恋爱》制作组于10月31日宣布，演员李相二将特别客串该剧第13集，该集于当天播出。李相二此次客串是因与安恩真的渊源而促成，但具体原因未详细说明。此次客串将是李相二与安恩真的重逢。",
-    "extracted_at": "2026-10-31T11:52:15.223933+08:00"
+    "summary_zh": "KBS 2TV电视剧《除了爱你以外的爱》制作组于10月31日宣布，演员李相二将在当天播出的第13集中特别客串。李相二此次特别出演的原因尚未完整公开，原文仅提及与李相二有关的某种缘由。此次客串将促成李相二与安恩真的重逢。",
+    "extracted_at": "2026-10-31T18:09:10.806280+08:00"
   },
   {
     "source_id": "soompi",
@@ -69,11 +364,11 @@
     "facts_list": [
       "MBC新剧《The Perfect Lie》于10月30日首播，由刘延锡和徐玄振主演。",
       "该剧与SBS收视强档《Doctor X》同时段竞争。",
-      "据Nielsen Korea数据，该剧第一集平均收视率较低（原文未提供具体数字）。",
+      "据Nielsen Korea数据，该剧第一集平均收视率未具体说明，但被描述为“quiet ratings”（低迷收视）。",
       "《Doctor X》保持同时段收视第一。"
     ],
-    "summary_zh": "MBC新剧《The Perfect Lie》于10月30日首播，由刘延锡和徐玄振主演，与SBS的《Doctor X》同时段竞争。根据Nielsen Korea数据，该剧第一集收视率表现平淡，而《Doctor X》继续位居同时段收视冠军。原文未提及具体收视数字。",
-    "extracted_at": "2026-10-31T11:52:17.059465+08:00"
+    "summary_zh": "MBC新剧《The Perfect Lie》于10月30日首播，由刘延锡和徐玄振主演，与SBS的《Doctor X》同时段竞争。据Nielsen Korea数据，该剧第一集收视率表现平淡，而《Doctor X》继续保持收视冠军。",
+    "extracted_at": "2026-10-31T18:09:12.895958+08:00"
   },
   {
     "source_id": "soompi",
@@ -88,16 +383,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "防弹少年团j-hope《MONA LISA》MV播放量突破1亿次",
+    "title_zh": "BTS j-hope《MONA LISA》MV 播放量突破1亿次",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "据BIGHIT MUSIC，韩国时间10月31日上午约5时50分，j-hope数字单曲《MONA LISA》MV在YouTube播放量突破1亿次。",
-      "该MV最初于2025年3月21日发布。"
+      "据BIGHIT MUSIC，2025年10月31日上午约5:50（KST），j-hope数字单曲《MONA LISA》MV在YouTube播放量突破1亿次",
+      "该MV最初于2025年3月21日发布"
     ],
-    "summary_zh": "据BIGHIT MUSIC消息，防弹少年团成员j-hope的数字单曲《MONA LISA》MV于韩国时间10月31日上午约5时50分在YouTube突破1亿次播放。该MV最初于2025年3月21日发布。",
-    "extracted_at": "2026-10-31T11:52:18.450268+08:00"
+    "summary_zh": "据BIGHIT MUSIC消息，防弹少年团（BTS）成员j-hope的数字单曲《MONA LISA》音乐视频于2025年10月31日上午约5:50（韩国时间）在YouTube突破1亿次播放。该MV最初于2025年3月21日发布。",
+    "extracted_at": "2026-10-31T18:09:14.602027+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -121,31 +416,7 @@
       "原文未提及具体艺人、组合、歌曲名、发行时间、榜单数据或具名来源"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：K-pop 持续把诡异风格的声音做得甜美，且无人抱怨]",
-    "extracted_at": "2026-10-31T11:52:19.904036+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Tom Morello, Annie Lennox, ‘KPop Demon Hunters’ Songwriters Honored at 2026 Sona Awards - IMDb",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4MUl5NGxIVTUzVWhuZTdpTGNsbVVfM3lNOG52Mk9vVXQyaFJWd1Vkc1o0ZnRhVTRlRnlEVUk2dUcyd2VnTVRyMkhzV1BhMnptMmNKeTZEem5DZXM5XzRkVjg3Vy00eHlsSFE?oc=5",
-    "content": "Tom Morello, Annie Lennox, ‘KPop Demon Hunters’ Songwriters Honored at 2026 Sona Awards IMDb",
-    "published_at": "1031google-kpop",
-    "published_ts": 1793400025.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "汤姆·莫雷洛、安妮·蓝妮克丝与《KPop Demon Hunters》词曲作者获2026年Sona Awards表彰",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "原文仅提及汤姆·莫雷洛（Tom Morello）、安妮·蓝妮克丝（Annie Lennox）及《KPop Demon Hunters》的词曲作者将在2026年Sona Awards上获得表彰",
-      "原文未提及颁奖时间、地点、具体奖项名称及获奖理由等细节"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：汤姆·莫雷洛、安妮·蓝妮克丝与《KPop Demon Hunters》词曲作者将在2026年Sona Awards上获得表彰]",
-    "extracted_at": "2026-10-31T11:52:21.456784+08:00"
+    "extracted_at": "2026-10-31T18:09:16.212951+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -165,12 +436,12 @@
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "联名主体：Peach Riot与Netflix动画《KPop Demon Hunters》",
-      "合作渠道：POP MART（泡泡玛特）",
-      "信息来源：Forbes（福布斯）报道"
+      "联名主体：Peach Riot、Netflix《KPop Demon Hunters》与POP MART三方合作",
+      "信息来源：Forbes（福布斯）报道",
+      "原文未提及联名产品的具体发售时间、价格、款式或销售数据"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：Peach Riot与Netflix《KPop Demon Hunters》的联名合作登陆POP MART]",
-    "extracted_at": "2026-10-31T11:52:23.064321+08:00"
+    "extracted_at": "2026-10-31T18:09:17.743636+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -194,7 +465,7 @@
       "信息来源为 IMDb"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters》公开了《Your Idol》《Soda Pop》《Golden》《How It's Done》等曲目的完整编舞]",
-    "extracted_at": "2026-10-31T11:52:24.559737+08:00"
+    "extracted_at": "2026-10-31T18:09:19.116484+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -214,36 +485,11 @@
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "获奖主体：汤姆·莫雷洛（Tom Morello）、安妮·蓝妮克丝（Annie Lennox）、《KPop Demon Hunters》的词曲作者",
-      "事件：三者在2026年SONA Awards上获得表彰",
-      "信息来源：The Hollywood Reporter 报道"
+      "原文仅提及汤姆·莫雷洛（Tom Morello）、安妮·蓝妮克丝（Annie Lennox）及《KPop Demon Hunters》的词曲作者将在2026年SONA Awards上获得表彰",
+      "原文未提及颁奖时间、地点、具体奖项名称及获奖理由等细节"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：汤姆·莫雷洛、安妮·蓝妮克丝与《KPop Demon Hunters》词曲作者在2026年SONA Awards上获得表彰]",
-    "extracted_at": "2026-10-31T11:52:26.492047+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "'Dead-End Job' Netflix K-Drama: Cast and Plot - Sweety High",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZM0RmalVXbGF2ZVVlNmpWZHVjd3dwVlBXRWdEQzN6ZHJRUlJpYktWR190eEx1WGM5bjZTaGFBWmcycGJBU3JyLTFLc2IwR01Uazd3ZThIaTZPTnhUYXhGYngzOXpwaUpGVUFmeQ?oc=5",
-    "content": "'Dead-End Job' Netflix K-Drama: Cast and Plot Sweety High",
-    "published_at": "1031google-kpop",
-    "published_ts": 1793395384.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Netflix韩剧《Dead-End Job》主演阵容与剧情介绍",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "原文仅提及Netflix韩剧《Dead-End Job》的演员阵容与剧情介绍，未给出任何具体演员姓名、角色信息或剧情细节",
-      "原文未提及播出时间、制作团队、平台上线日期等具体信息"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：Netflix韩剧《Dead-End Job》的演员阵容与剧情介绍]",
-    "extracted_at": "2026-10-31T11:52:27.942849+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：汤姆·莫雷洛、安妮·蓝妮克丝与《KPop Demon Hunters》词曲作者将在2026年SONA Awards上获得表彰]",
+    "extracted_at": "2026-10-31T18:09:21.003614+08:00"
   },
   {
     "source_id": "soompi",
@@ -258,17 +504,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《Dive Into You》第9-10集：杨俊模真面目揭晓，尹河娜尹河鲁营救郑宇宰",
+    "title_zh": "《Dive Into You》第9-10集：杨俊模真面目揭晓，尹河娜尹河鲁争分夺秒救郑宇宰",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "《Dive Into You》仅剩两集",
-      "第9-10集揭露杨俊模（姜亨锡饰）的阴险本性",
-      "尹河娜（金智妍饰）和尹河鲁（张世赫饰）争分夺秒营救郑宇宰（朴叙含饰）"
+      "《Dive Into You》第9-10集播出，剧情围绕杨俊模（姜亨锡饰）的阴险本性被揭露展开。",
+      "尹河娜（金智妍饰）和尹河鲁（张世赫饰）为拯救郑宇宰（朴叙翰饰）而争分夺秒。",
+      "该剧仅剩两集。"
     ],
-    "summary_zh": "《Dive Into You》第9-10集播出后，剧情紧张感升级。杨俊模（姜亨锡饰）的阴险本性被揭露，尹河娜（金智妍饰）和尹河鲁（张世赫饰）为营救郑宇宰（朴叙含饰）展开与时间的赛跑。该剧仅剩两集，悬念持续至结局。",
-    "extracted_at": "2026-10-31T11:52:29.721422+08:00"
+    "summary_zh": "韩剧《Dive Into You》第9-10集播出，杨俊模（姜亨锡饰）的阴险真面目被揭开，尹河娜（金智妍饰）与尹河鲁（张世赫饰）为救郑宇宰（朴叙翰饰）展开时间赛跑。剧集仅剩两集，紧张感达到新高。",
+    "extracted_at": "2026-10-31T18:09:22.797267+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -290,8 +536,8 @@
     "facts_list": [
       "原文仅提及K-POP组合BIG OCEAN在音乐产业中崭露头角，未提供具体时间、地点、数据或具名来源"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：K-POP组合BIG OCEAN在音乐产业中崭露头角]",
-    "extracted_at": "2026-10-31T11:52:31.173899+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：K-POP组合BIG OCEAN正在音乐产业中崭露头角]",
+    "extracted_at": "2026-10-31T18:09:24.144425+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -312,10 +558,10 @@
     "is_blurred": false,
     "facts_list": [
       "Netflix 发布动画《KPop Demon Hunters》中歌曲《Your Idol》的官方编舞视频",
-      "原文未提及编舞者、出演者、发布时间等具体细节"
+      "原文未提及具体发布时间、编舞人员姓名或视频时长等细节"
     ],
-    "summary_zh": "Netflix 公开动画《KPop Demon Hunters》中《Your Idol》的官方编舞视频，原文仅提供视频标题信息，未披露编舞者、出演阵容及发布时间等具体内容。",
-    "extracted_at": "2026-10-31T11:52:32.422842+08:00"
+    "summary_zh": "Netflix 公开了动画《KPop Demon Hunters》中歌曲《Your Idol》的官方编舞视频，原文仅提供视频标题信息，未披露编舞者、发布时间或视频时长等具体细节。",
+    "extracted_at": "2026-10-31T18:09:25.524996+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -330,16 +576,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《KPop Demon Hunters》新MV助Netflix再创纪录",
+    "title_zh": "《KPop Demon Hunters》新音乐视频助Netflix再创纪录",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅提及《KPop Demon Hunters》发布新音乐视频，并称其帮助Netflix创下又一项纪录",
-      "原文未说明具体纪录名称、数据、时间或MV曲目名称"
+      "福布斯报道称《KPop Demon Hunters》发布了一支新音乐视频",
+      "该音乐视频帮助Netflix创下又一项纪录，但原文未说明具体纪录名称、数据或时间"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：New ‘KPop Demon Hunters’ Music Video Helps Set Another Netflix Record]",
-    "extracted_at": "2026-10-31T11:52:34.101566+08:00"
+    "extracted_at": "2026-10-31T18:09:26.980916+08:00"
   },
   {
     "source_id": "asianwiki",
