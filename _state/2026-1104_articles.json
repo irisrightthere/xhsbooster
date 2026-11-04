@@ -1,51 +1,607 @@
 [
   {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
+    "source_id": "soompi",
+    "source_name": "Soompi",
     "l1_tab": "韩娱",
-    "title": "$++NEW+VIDEOS] k-pop trending - Anayasa.gov.tr",
-    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPTFNNY251Z09RazNnbTRMdnNMRlFGcUY0Y1ByRmlTdnN3WHhpa3U3bTRQUmM5RHJBUk1yZTVCRXpmS2ZPN2tXTEZOVkVjZmN6S3E4T3RfUWVoenZ1MWMwNmVsNEFLTG9ZeUUyZWZZczFOaHd4NEYxVHc3TTlwYmhaNVJBWEIwVzd4MkhrblZuNjBqTURYQllmZkRwa0tqc3Rva1RERUlfWG90ajRFQ3VObjdHUE5JOWt5VG1PTDdEckM5VzktbXVLREJSYWRiWHJIOVIxOTF4UlBsZ1lkUy1EeFJlWnl4Xy1VRzhSWEwyb0tVVlZ5Rmgzc2ZIYmNyUVdhMWVWLW15bFFDSmlR?oc=5",
-    "content": "$++NEW+VIDEOS] k-pop trending Anayasa.gov.tr",
-    "published_at": "1104google-kpop",
-    "published_ts": 1793751400.0,
+    "title": "Jang Gyuri Steps Into Bae Jong Ok’s Seemingly Perfect Home In New Horror Thriller Film “My Home”",
+    "url": "https://www.soompi.com/article/1884042wpp/jang-gyuri-steps-into-bae-jong-oks-seemingly-perfect-home-in-new-horror-thriller-film-my-home",
+    "content": "Upcoming horror thriller film “My Home” has unveiled new stills featuring Jang Gyuri and Bae Jong Ok! “My Home” follows Gyu Bin (Jang Gyuri), a college student who moves into a luxury apartment under unusually generous terms and begins experiencing strange events while living with her elegant landlady Geum Rim (Bae Jong Ok). The newly&#8230; Continue reading Jang Gyuri Steps Into Bae Jong Ok’s Seemingly Perfect Home In New Horror Thriller Film “My Home”\nThe post Jang Gyuri Steps Into Bae Jong Ok’s Seemingly Perfect Home In New Horror Thriller Film “My Home” appeared first on Soompi.",
+    "published_at": "1104soompi",
+    "published_ts": 1793789208.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "标题仅含K-pop趋势标签与土耳其宪法法院网址，无实质资讯内容",
+    "title_zh": "张圭悳加盟裴宗玉新片《My Home》 恐怖惊悚题材公开剧照",
     "source_type": "韩娱",
     "risk_level": "低",
-    "is_blurred": true,
+    "is_blurred": false,
     "facts_list": [
-      "原文标题为「$++NEW+VIDEOS] k-pop trending - Anayasa.gov.tr」，仅包含K-pop趋势标签及土耳其宪法法院官网域名",
-      "原文正文与标题内容相同，未提及任何艺人、组合、时间、地点或数据"
+      "电影《My Home》为恐怖惊悚类型，由张圭悳、裴宗玉主演",
+      "张圭悳饰演大学生圭彬（Gyu Bin），以异常优厚条件入住豪华公寓",
+      "裴宗玉饰演优雅房东金林（Geum Rim），圭彬与金林同住后开始经历奇怪事件",
+      "影片公开了张圭悳与裴宗玉的新剧照"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：K-pop trending，并附土耳其宪法法院官网域名]",
-    "extracted_at": "2026-11-04T08:20:33.303318+08:00"
+    "summary_zh": "恐怖惊悚电影《My Home》公开张圭悳与裴宗玉的新剧照。影片讲述大学生圭彬（张圭悳 饰）以异常优厚的条件入住豪华公寓，与优雅房东金林（裴宗玉 饰）同住后开始经历奇怪事件的故事。",
+    "extracted_at": "2026-11-04T19:49:21.367392+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "Jisoo to Release Original Song for Upcoming ‘The Angry Birds Movie 3’ (Exclusive) - The Hollywood Reporter",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX2c5RzMwbVQ1THdXNkdnaU5XdE8zT09NdEU1Y3IyU3owc0lmelh0ellIR0J1eEVpZGFRRzVRaHVZRGtRNzFvMmp6Q1pXRUNJMmVSMGV1ZmNnMWFmRUxZcDZxWVN2YzRqSlRUSHRJNXJKYkM5Mkw2bERRWmxIUnhGRVowWHU3NEZZeE1lcEotMjBOZjZ1eDNBU0FPY3IyMzRkMk5MSHpHZHZmUERwdXB5REZRaVdrbm12SjdHM1NENGcxZw?oc=5",
-    "content": "Jisoo to Release Original Song for Upcoming ‘The Angry Birds Movie 3’ (Exclusive) The Hollywood Reporter",
+    "title": "The Perfect Lie: Yoo Yeon-seok, Seo Hyun-jin lead twisty date-rape K-drama - South China Morning Post",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNc0ZRbURKamlUY0VVcFZIR0E4TmZocVpvOUEtVzhLcjJuX0F2ak1NWWsybGdCN2g3QVBvR2V4RHYxWGNKY0ZHc1BFOVM1LWpCYUhTbGI3ZDl3bW9WY3FMQnJNamI3dkd4WTFVRmt6RldEdVpVXy1kSWF1SjRTaGFybXJJM0ZPTnpzWVVRREMzTFhya1NtdFo0Q0theUEteTFvVzJBcW9KbmxyQWo2RHRVMGNLdHg4RF9hNHJVd0swQ1FMMjlkY1B2MVNBRjBmX2N6bTlmNm130gHWAUFVX3lxTFBpSm1kRTRkSllPb1J0U29vbnJtXzRUZ0dQY21XT0pYN0E0RXNvVThDUXFVNW9mcGs0bDhabmsyZFI5QWIxMmNWbURja3ZQR2VQckQwT1gyRGJQUUlnYmwyS1dVRExXWk5ibjNZSUhqS3NnNmdDeWtGTlVZRS1uZ2JYVWlNY0VRQ3k1THZOYzBvRlRpWkJiOC1VTmQ1TVJzVTFCLUJvckc2SkRzTDFaWkhDQ3JGeFJBOVp0cTVEZ2NHSW9rRlo4a213TVByQXkwMjVRWWJKcFE?oc=5",
+    "content": "The Perfect Lie: Yoo Yeon-seok, Seo Hyun-jin lead twisty date-rape K-drama South China Morning Post",
     "published_at": "1104google-kpop",
-    "published_ts": 1793748197.0,
+    "published_ts": 1793787306.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "BLACKPINK金智秀为《愤怒的小鸟3》献唱原创歌曲",
+    "title_zh": "柳演锡、徐玄振主演韩剧《The Perfect Lie》，聚焦约会性侵题材",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "《南华早报》报道韩剧《The Perfect Lie》由柳演锡、徐玄振主演",
+      "该剧题材涉及约会性侵（date-rape），剧情被描述为充满反转（twisty）"
+    ],
+    "summary_zh": "据《南华早报》报道，韩剧《The Perfect Lie》由柳演锡与徐玄振担纲主演，剧情围绕约会性侵事件展开，整体走向充满反转。原文未披露播出平台、播出时间及具体角色设定等进一步信息。",
+    "extracted_at": "2026-11-04T19:49:23.274508+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "SM Announces Comeback Lineup For 1st Quarter Of 2027",
+    "url": "https://www.soompi.com/article/1884192wpp/sm-announces-comeback-lineup-for-1st-quarter-of-2027",
+    "content": "SM Entertainment has unveiled its lineup of upcoming music releases for the first quarter of 2027! On November 4, the agency shared its third-quarter 2026 business results, which included a preview of upcoming releases for the remainder of this year as well as comeback plans for the first quarter of 2027. The first quarter of&#8230; Continue reading SM Announces Comeback Lineup For 1st Quarter Of 2027\nThe post SM Announces Comeback Lineup For 1st Quarter Of 2027 appeared first on Soompi.",
+    "published_at": "1104soompi",
+    "published_ts": 1793787023.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "SM娱乐公布2027年第一季度回归阵容",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "时间：2026年11月4日",
+      "主体：SM娱乐",
+      "动作：在公布2026年第三季度经营业绩时，一并预告了2026年剩余时间及2027年第一季度的发行与回归计划",
+      "原文未列出2027年第一季度具体回归艺人、组合名称或发布日期"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：SM娱乐在2026年11月4日发布第三季度业绩时公开了2027年第一季度的回归阵容预告]",
+    "extracted_at": "2026-11-04T19:49:24.852277+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Best trading card deal: Save $3.81 on Kpop Demon Hunters Collectible Trading Cards - Mashable",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VSW45WS1vYUNFRUJvSjl6OEIzR0toLWoyaTNrYThJVzhPZEVtMDBEaDNQY0QyOE1DLTYtVFo3aGxsNEJ0ZHNva0FCM2h2TVJNTjl0UG9Kdk5aX1BzOGpDYkVvSTZRc3Y4ckNaYnBySTZqNFZBNzJoUQ?oc=5",
+    "content": "Best trading card deal: Save $3.81 on Kpop Demon Hunters Collectible Trading Cards Mashable",
+    "published_at": "1104google-kpop",
+    "published_ts": 1793786429.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Mashable推荐：Kpop Demon Hunters收藏卡优惠3.81美元",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "Mashable发布Kpop Demon Hunters收藏交易卡促销信息",
+      "优惠金额为3.81美元"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：Kpop Demon Hunters收藏交易卡可省3.81美元]",
+    "extracted_at": "2026-11-04T19:49:26.202541+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Seungkwan, Ko Kyung Pyo, And More Learn The Hard Way Not To Break The Rules In “The Great Escape: Urban Legends” Teaser",
+    "url": "https://www.soompi.com/article/1884164wpp/watch-seungkwan-ko-kyung-pyo-and-more-learn-the-hard-way-not-to-break-the-rules-in-the-great-escape-urban-legends-teaser",
+    "content": "“The Great Escape: Urban Legends” has unveiled a new teaser and poster! “The Great Escape” is an adventure variety show where the cast works together to solve elaborate escape room challenges. The new season, “The Great Escape: Urban Legends,” takes place against the backdrop of bizarre urban legends. Kim Jong Min, Kim Dong Hyun, SUPER&#8230; Continue reading Watch: Seungkwan, Ko Kyung Pyo, And More Learn The Hard Way Not To Break The Rules In “The Great Escape: Urban Legends” Teaser\nThe post Watch: Seungkwan, Ko Kyung Pyo, And More Learn The Hard Way Not To Break The Rules In “The Great Escape: Urban Legends” Teaser appeared first on Soompi.",
+    "published_at": "1104soompi",
+    "published_ts": 1793785131.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《大逃脱：都市传说》预告公开 夫胜宽高庚杓等体验违规代价",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "BLACKPINK成员Jisoo（金智秀）将为动画电影《The Angry Birds Movie 3》（愤怒的小鸟3）发行一首原创歌曲",
-      "该消息由《The Hollywood Reporter》独家报道"
+      "节目《大逃脱：都市传说》发布新预告和海报",
+      "《大逃脱》是一档冒险综艺，成员合作解决精心设计的密室逃脱挑战",
+      "新一季《大逃脱：都市传说》以离奇都市传说为背景",
+      "出演者包括金钟民、金东炫、SUPER...（原文截断）",
+      "预告中夫胜宽、高庚杓等人以艰难方式领悟不能违反规则"
     ],
-    "summary_zh": "据《The Hollywood Reporter》独家报道，BLACKPINK成员Jisoo（金智秀）将为即将上映的动画电影《The Angry Birds Movie 3》（愤怒的小鸟3）发行一首原创歌曲。报道未披露歌曲名称、发行日期及影片上映档期等具体信息。",
-    "extracted_at": "2026-11-04T08:20:34.667561+08:00"
+    "summary_zh": "《大逃脱：都市传说》公开新预告和海报。该节目是成员合作解决密室逃脱挑战的冒险综艺，新一季以离奇都市传说为背景。出演者包括金钟民、金东炫、SUPER...（原文截断），预告中夫胜宽、高庚杓等人以艰难方式领悟不能违反规则。",
+    "extracted_at": "2026-11-04T19:49:28.266605+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Ha Yun Kyung Joins Ahn Bo Hyun’s Expedition Team As A Guide In New Drama “Sacred Jewel”",
+    "url": "https://www.soompi.com/article/1884054wpp/ha-yun-kyung-joins-ahn-bo-hyuns-expedition-team-as-a-guide-in-new-drama-sacred-jewel",
+    "content": "JTBC’s upcoming drama “Sacred Jewel” has unveiled new stills featuring Ha Yun Kyung in character! “Sacred Jewel” is set in the year 1258 during the Goryeo Dynasty, when the kingdom is on the brink of defeat after 30 years of war with Mongolia. The story follows the heroic fight of an expedition unit that sets&#8230; Continue reading Ha Yun Kyung Joins Ahn Bo Hyun’s Expedition Team As A Guide In New Drama “Sacred Jewel”\nThe post Ha Yun Kyung Joins Ahn Bo Hyun’s Expedition Team As A Guide In New Drama “Sacred Jewel” appeared first on Soompi.",
+    "published_at": "1104soompi",
+    "published_ts": 1793784121.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "河允庆加盟新剧《神圣珠宝》 饰安普贤远征队向导",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "JTBC 新剧《神圣珠宝》公开河允庆的角色剧照",
+      "该剧背景设定在 1258 年高丽王朝时期，当时高丽与蒙古战争已持续 30 年，王国濒临战败",
+      "故事围绕一支远征队的英勇战斗展开",
+      "河允庆在剧中饰演远征队的向导，与安普贤饰演的角色同属远征队"
+    ],
+    "summary_zh": "JTBC 新剧《神圣珠宝》公开了河允庆的剧照。该剧以 1258 年高丽王朝为背景，讲述与蒙古战争 30 年后王国濒临灭亡时，一支远征队的战斗故事。河允庆在剧中饰演远征队向导，与安普贤合作。",
+    "extracted_at": "2026-11-04T19:49:30.433013+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Jang Nara, Kim Hye Yoon, Park Hae Jin, And P.O Look Invincible As A Team In “Good Partner 2” Poster",
+    "url": "https://www.soompi.com/article/1884052wpp/jang-nara-kim-hye-yoon-park-hae-jin-and-p-o-look-invincible-as-a-team-in-good-partner-2-poster",
+    "content": "“Good Partner 2” has released a new ! Following the success of Season 1, the new season of “Good Partner” depicts the cathartic divorce show that unfolds as Cha Eun Kyung (Jang Nara), a star lawyer for whom divorce is her calling, and Kang Hye Sung (Kim Hye Yoon), an experienced lawyer who is serious&#8230; Continue reading Jang Nara, Kim Hye Yoon, Park Hae Jin, And P.O Look Invincible As A Team In &#8220;Good Partner 2&#8221; Poster\nThe post Jang Nara, Kim Hye Yoon, Park Hae Jin, And P.O Look Invincible As A Team In &#8220;Good Partner 2&#8221; Poster appeared first on Soompi.",
+    "published_at": "1104soompi",
+    "published_ts": 1793782378.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《好搭档2》海报公开：张娜拉、金惠奫、朴海镇、P.O组队亮相",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "《好搭档2》发布新海报，张娜拉、金惠奫、朴海镇、P.O以团队形象亮相。",
+      "第二季延续第一季的成功，继续讲述离婚题材故事。",
+      "张娜拉饰演明星律师车恩京，离婚是她的天职；金惠奫饰演经验丰富的律师姜惠星。"
+    ],
+    "summary_zh": "韩剧《好搭档2》公开新海报，张娜拉、金惠奫、朴海镇、P.O以团队形象亮相。第二季延续第一季的成功，继续讲述离婚题材故事。张娜拉饰演明星律师车恩京，离婚是她的天职；金惠奫饰演经验丰富的律师姜惠星。",
+    "extracted_at": "2026-11-04T19:49:32.419584+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Lee Hyo In’s Arrival Complicates Ji Chang Wook And Imada Mio’s Sweet Romance In “Merry Berry Love”",
+    "url": "https://www.soompi.com/article/1884151wpp/lee-hyo-ins-arrival-complicates-ji-chang-wook-and-imada-mios-sweet-romance-in-merry-berry-love",
+    "content": "“Merry Berry Love” has unveiled new stills ahead of its upcoming episode! “Merry Berry Love” is a romantic comedy about Lee Yu Bin (Ji Chang Wook), a Korean spatial designer who achieved great success in Korea but loses everything overnight and travels to a Japanese island in hopes of turning his life around. There, he&#8230; Continue reading Lee Hyo In’s Arrival Complicates Ji Chang Wook And Imada Mio’s Sweet Romance In “Merry Berry Love”\nThe post Lee Hyo In’s Arrival Complicates Ji Chang Wook And Imada Mio’s Sweet Romance In “Merry Berry Love” appeared first on Soompi.",
+    "published_at": "1104soompi",
+    "published_ts": 1793781839.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "李孝利登场搅局《Merry Berry Love》池昌旭今田美樱甜蜜恋情生变",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "《Merry Berry Love》是一部浪漫喜剧，讲述韩国空间设计师李裕彬（池昌旭 饰）在韩国取得巨大成功后一夜之间失去一切，前往日本岛屿希望扭转人生的故事。",
+      "该剧新剧集播出前公开了新剧照。",
+      "李孝利（Lee Hyo In）的登场使池昌旭和今田美樱（Imada Mio）的甜蜜恋情变得复杂。"
+    ],
+    "summary_zh": "《Merry Berry Love》在即将播出新集前公开了新剧照。该剧是一部浪漫喜剧，讲述池昌旭饰演的韩国空间设计师李裕彬在韩国成功后失去一切，前往日本岛屿寻求人生转机，并与今田美樱饰演的角色展开甜蜜恋情。随着李孝利饰演的角色登场，两人的关系变得复杂。",
+    "extracted_at": "2026-11-04T19:49:34.808072+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Cho Hyun Chul, Moon Hee, Lee Yi Dam, And Yoon Ga Yi Radiate Different Dynamics Of Love In “Happy Anding”",
+    "url": "https://www.soompi.com/article/1884066wpp/cho-hyun-chul-moon-hee-lee-yi-dam-and-yoon-ga-yi-radiate-different-dynamics-of-love-in-happy-anding",
+    "content": "tvN’s upcoming drama “Happy Anding” has offered a glimpse into the dynamics of its characters’ relationships! “Happy Anding” is a coming-of-age drama about three comedians who have spent 10 years struggling to make a name for themselves. After encountering a mysterious woman, they set out to find new paths forward. The newly released stills offer&#8230; Continue reading Cho Hyun Chul, Moon Hee, Lee Yi Dam, And Yoon Ga Yi Radiate Different Dynamics Of Love In “Happy Anding”\nThe post Cho Hyun Chul, Moon Hee, Lee Yi Dam, And Yoon Ga Yi Radiate Different Dynamics Of Love In “Happy Anding” appeared first on Soompi.",
+    "published_at": "1104soompi",
+    "published_ts": 1793781722.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《Happy Anding》公开赵贤哲、文熙、李伊潭、尹佳怡剧照，展现不同爱情动态",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "tvN 新剧《Happy Anding》是一部成长剧，讲述三位喜剧演员奋斗10年无名后，遇到神秘女子并寻找新方向的故事。",
+      "公开的剧照展示了赵贤哲、文熙、李伊潭、尹佳怡四位角色之间不同的爱情动态。"
+    ],
+    "summary_zh": "tvN 新剧《Happy Anding》公开了赵贤哲、文熙、李伊潭、尹佳怡的剧照，展现了角色间不同的爱情动态。该剧讲述三位喜剧演员奋斗10年无名后，遇到神秘女子并寻找新方向的故事。",
+    "extracted_at": "2026-11-04T19:49:36.716261+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "BTS tour fuels record $1.13B quarter for K-pop giant Hybe - Türkiye Today",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZmFSMFM1bS13SXZhWnZDYWJ6RzhMNmJPVEhUWkhzUW10T3FuaDY0MGR1VE5BRFFLLWtoN01JZUtfT0xkbGRaRGNsTndDZzRubGV4MGVCNmUtelM5blBZMmcwZWNRLWxFTFlrNkFqY3VUa2NDbk1uQXd2WGNGR0l0RjFONGQ2LWZiWk94MmVSUmlxSS1OY3FZTVRxZUtpdVRWZFE?oc=5",
+    "content": "BTS tour fuels record $1.13B quarter for K-pop giant Hybe Türkiye Today",
+    "published_at": "1104google-kpop",
+    "published_ts": 1793781405.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "防弹少年团巡演助推HYBE季度营收创纪录达11.3亿美元",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "HYBE在防弹少年团（BTS）巡演带动下，单季度营收达到11.3亿美元，创下纪录",
+      "该数据由土耳其媒体Türkiye Today报道，原文未披露具体季度、巡演场次及各地区收入明细"
+    ],
+    "summary_zh": "据土耳其媒体Türkiye Today报道，K-pop巨头HYBE在防弹少年团（BTS）巡演的带动下，单季度营收达到创纪录的11.3亿美元。原文仅给出这一总体营收数字，未提及具体季度归属、巡演场次、场次分布或各地区收入构成等细节。",
+    "extracted_at": "2026-11-04T19:49:38.370534+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Son Suk Ku And Nagayama Eita Team Up For An Investigation In “The Blue Road”",
+    "url": "https://www.soompi.com/article/1884111wpp/son-suk-ku-and-nagayama-eita-team-up-for-an-investigation-in-the-blue-road",
+    "content": "Netflix’s upcoming series “The Blue Road” has released new stills! Helmed by director Han Jun Hee of the “D.P.” series and the film “Coin Locker Girl,” “The Blue Road” is a new drama about two detectives tracking a series of murders that take place across Korea and Japan. Son Suk Ku plays Kim Seok, a&#8230; Continue reading Son Suk Ku And Nagayama Eita Team Up For An Investigation In “The Blue Road”\nThe post Son Suk Ku And Nagayama Eita Team Up For An Investigation In “The Blue Road” appeared first on Soompi.",
+    "published_at": "1104soompi",
+    "published_ts": 1793778826.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "孙锡久与永山瑛太合作调查Netflix新剧《蓝色公路》",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Netflix新剧《蓝色公路》发布新剧照",
+      "导演：韩俊熙（曾执导《D.P.》系列和电影《Coin Locker Girl》）",
+      "剧情：两名侦探追踪在韩国和日本发生的一系列谋杀案",
+      "孙锡久饰演角色金锡（Kim Seok）",
+      "永山瑛太参演"
+    ],
+    "summary_zh": "Netflix新剧《蓝色公路》发布新剧照，该剧由《D.P.》系列导演韩俊熙执导，讲述两名侦探追踪在韩国和日本发生的一系列谋杀案的故事。孙锡久饰演金锡，永山瑛太也参演。",
+    "extracted_at": "2026-11-04T19:49:40.141873+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Cha Ye Ryun’s Agency Refutes School Bullying Allegations",
+    "url": "https://www.soompi.com/article/1884131wpp/cha-ye-ryuns-agency-refutes-school-bullying-allegations",
+    "content": "Cha Ye Ryun’s agency has released a statement addressing the school bullying allegations against her. Recently, Cha Ye Ryun became embroiled in controversy following allegations of school violence that surfaced on October 29. At the time, a post titled “Please, the school violence perpetrator born in ’85, just stop your activities” was published on an&#8230; Continue reading Cha Ye Ryun&#8217;s Agency Refutes School Bullying Allegations\nThe post Cha Ye Ryun&#8217;s Agency Refutes School Bullying Allegations appeared first on Soompi.",
+    "published_at": "1104soompi",
+    "published_ts": 1793776889.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "车艺莲所属社否认校园暴力指控",
+    "source_type": "韩娱",
+    "risk_level": "高",
+    "is_blurred": false,
+    "facts_list": [
+      "10月29日，某网络社区发布标题为“拜托85年出生的校园暴力加害者停止活动”的帖子，引发对车艺莲的校园暴力指控。",
+      "车艺莲所属社发布声明，否认相关校园暴力指控。"
+    ],
+    "summary_zh": "车艺莲所属社就校园暴力指控发表声明予以否认。此前10月29日，网络社区出现标题为“拜托85年出生的校园暴力加害者停止活动”的帖子，引发争议。所属社在声明中反驳了相关指控。",
+    "extracted_at": "2026-11-04T19:49:41.861251+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Bae Hyeon Seong Talks About Why He Chose To Star In “The Substitute” And His Approach To The Role",
+    "url": "https://www.soompi.com/article/1884089wpp/bae-hyeon-seong-talks-about-why-he-chose-to-star-in-the-substitute-and-his-approach-to-the-role",
+    "content": "Bae Hyeon Seong has shared his thoughts on his upcoming series “The Substitute”! “The Substitute” is a crime thriller about three young men whose conflicting desires and personal struggles lead them toward an irreversible crime on the day of the college entrance exam. At the center is a top-ranking student from a low-income family who&#8230; Continue reading Bae Hyeon Seong Talks About Why He Chose To Star In “The Substitute” And His Approach To The Role\nThe post Bae Hyeon Seong Talks About Why He Chose To Star In “The Substitute” And His Approach To The Role appeared first on Soompi.",
+    "published_at": "1104soompi",
+    "published_ts": 1793775702.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "裴贤成谈出演《替身》原因及角色塑造方法",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "裴贤成分享了对即将播出剧集《替身》的想法",
+      "《替身》是一部犯罪惊悚剧，讲述三名年轻人在高考当天因欲望冲突和个人挣扎走向不可挽回的犯罪",
+      "核心角色是一名来自低收入家庭的优等生"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：裴贤成分享了对即将播出剧集《替身》的想法]",
+    "extracted_at": "2026-11-04T19:49:43.267429+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-Drama Industry Groups Urge Government Support - 조선일보",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd2pVRHVONFF0UWY5WlFHcFFnXzY5dHFOelZKTUc2R2pCQTAwWWZmVzdPSzVMalFDQnNFeEw3TFgxcGdVaVVHUGtKRUZlV3NySTFmYlRjN0p4ZkpvS01VWks4V3A3bnhEWDlsR3VSejBLQUZWTHN5MVdDRFlsX2ppMjBIVkN6X21HQ3YzeA?oc=5",
+    "content": "K-Drama Industry Groups Urge Government Support 조선일보",
+    "published_at": "1104google-kpop",
+    "published_ts": 1793774014.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "韩国电视剧产业团体呼吁政府加大支持力度",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及韩国电视剧产业团体向政府发出支持呼吁，未说明具体团体名称、呼吁时间、诉求内容或政府回应"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：韩国电视剧产业团体呼吁政府支持]",
+    "extracted_at": "2026-11-04T19:49:44.738840+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Former 4Minute Member Jeon Jiyoon Announces Marriage",
+    "url": "https://www.soompi.com/article/1884104wpp/former-4minute-member-jeon-jiyoon-announces-marriage",
+    "content": "Former 4Minute member Jeon Jiyoon is tying the knot! On November 4, Jeon Jiyoon took to Instagram to announce that she will be getting married this month. Along with beautiful wedding photos, she also shared the following message: Everyone, I’m getting married this November! Now that the day has come when I get to say&#8230; Continue reading Former 4Minute Member Jeon Jiyoon Announces Marriage\nThe post Former 4Minute Member Jeon Jiyoon Announces Marriage appeared first on Soompi.",
+    "published_at": "1104soompi",
+    "published_ts": 1793773374.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "前4Minute成员全智允宣布本月结婚 晒婚纱照亲自报喜",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "11月4日，全智允在个人Instagram上发文宣布将于本月结婚",
+      "全智允同时公开了婚纱照，并配文称“大家，我今年11月要结婚了！如今终于到了我说出这句话的日子……”",
+      "全智允曾是女团4Minute成员"
+    ],
+    "summary_zh": "前4Minute成员全智允于11月4日在Instagram上亲自宣布婚讯，表示将于本月结婚，并公开了婚纱照。她在配文中写道：“大家，我今年11月要结婚了！如今终于到了我说出这句话的日子……”",
+    "extracted_at": "2026-11-04T19:49:46.545845+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Ok Ja Yeon Tries To Figure Out Who Is Lying Between Yoo Yeon Seok And Seo Hyun Jin In “The Perfect Lie”",
+    "url": "https://www.soompi.com/article/1884077wpp/ok-ja-yeon-tries-to-figure-out-who-is-lying-between-yoo-yeon-seok-and-seo-hyun-jin-in-the-perfect-lie",
+    "content": "MBC’s “The Perfect Lie” has shared new stills ahead of its upcoming episode! Helmed by “You and Everything Else” director Jo Young Min, “The Perfect Lie” is a psychological thriller in which a man and a woman offer completely opposite accounts of the same memory, clashing fiercely in their search for the truth. Notably, the&#8230; Continue reading Ok Ja Yeon Tries To Figure Out Who Is Lying Between Yoo Yeon Seok And Seo Hyun Jin In “The Perfect Lie”\nThe post Ok Ja Yeon Tries To Figure Out Who Is Lying Between Yoo Yeon Seok And Seo Hyun Jin In “The Perfect Lie” appeared first on Soompi.",
+    "published_at": "1104soompi",
+    "published_ts": 1793772641.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《完美的谎言》玉子妍试图分辨刘延锡与徐玄振谁在说谎",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "MBC剧集《完美的谎言》由《你和其余的一切》导演赵英民执导。",
+      "该剧为心理惊悚题材，讲述一对男女对同一段记忆给出完全相反的陈述，在追寻真相过程中激烈冲突。",
+      "玉子妍在剧中试图分辨刘延锡和徐玄振之间谁在说谎。",
+      "制作方在即将播出的剧集前公开了新剧照。"
+    ],
+    "summary_zh": "MBC心理惊悚剧《完美的谎言》由赵英民执导，讲述一对男女对同一段记忆各执一词、在追寻真相中激烈冲突的故事。在即将播出的剧集前，制作方公开了新剧照，画面中玉子妍试图分辨刘延锡与徐玄振之间谁在说谎。",
+    "extracted_at": "2026-11-04T19:49:48.686321+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "KPop Demon Hunters advent calendars bring 24 fan days - ContentGrip",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5T05FZUpwUVdmQ1hlckhtLW51d0hKQmFuRXdwZ0Q3N2NBRWRoeU1nS1lqc1BBdUk0QU9XWEtEc095M0JjSVhEX2pYazZuUVN3TFRRenR1MGlRVVNhSXczZllFb013aDhObFZGR0pRU084UQ?oc=5",
+    "content": "KPop Demon Hunters advent calendars bring 24 fan days ContentGrip",
+    "published_at": "1104google-kpop",
+    "published_ts": 1793769547.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "KPop Demon Hunters 推出降临节日历，24天粉丝互动企划",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及 KPop Demon Hunters 推出降临节日历（advent calendars），内容为24天粉丝相关企划",
+      "原文未提供具体日期、价格、发售平台、参与艺人或组合名称等细节"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：KPop Demon Hunters 推出降临节日历，带来24天粉丝日]",
+    "extracted_at": "2026-11-04T19:49:50.194740+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kim Woo Bin And Seo Eun Soo Take Different Approaches To Leading Their Baseball Team In New Drama “GIFT”",
+    "url": "https://www.soompi.com/article/1884021wpp/kim-woo-bin-and-seo-eun-soo-take-different-approaches-to-leading-their-baseball-team-in-new-drama-gift",
+    "content": "tvN’s upcoming drama “GIFT” has teased the dynamic between Kim Woo Bin and Seo Eun Soo! Based on a popular webtoon, “GIFT” is a sports drama starring Kim Woo Bin as Jung Min Yong, a former professional baseball pitching coach. After an unexpected accident leads him to gain a special ability, Jung Min Yong winds&#8230; Continue reading Kim Woo Bin And Seo Eun Soo Take Different Approaches To Leading Their Baseball Team In New Drama “GIFT”\nThe post Kim Woo Bin And Seo Eun Soo Take Different Approaches To Leading Their Baseball Team In New Drama “GIFT” appeared first on Soompi.",
+    "published_at": "1104soompi",
+    "published_ts": 1793768154.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "金宇彬徐恩秀新剧《GIFT》公开角色海报 展现不同领导风格",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "tvN新剧《GIFT》改编自人气网络漫画，是一部体育题材电视剧。",
+      "金宇彬饰演前职业棒球投手教练郑敏勇（音译），因意外事故获得特殊能力。",
+      "徐恩秀饰演的角色与金宇彬角色在领导棒球队时采取不同方式。",
+      "该剧通过角色海报/剧照公开了两人之间的动态关系。"
+    ],
+    "summary_zh": "tvN新剧《GIFT》改编自人气网络漫画，由金宇彬饰演前职业棒球投手教练郑敏勇，他在意外事故后获得特殊能力。徐恩秀饰演的角色与金宇彬在领导棒球队时展现出不同的方式。制作方公开了两人之间的动态关系，引发观众期待。",
+    "extracted_at": "2026-11-04T19:49:52.593363+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "BTS's 'Arirang' becomes first K-pop album certified platinum in Italy - Korea JoongAng Daily",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMGJWaHFLSWRTeXNNTzBWenluTGxOZjI0SjMyZDNOLWp6Zkc0clFlN3NHaTZyTThyc2N1U3FQRDV5NTg2c2x4U083dXpkcGlxYnBXNG5ydHVvQjhYWjl6VmpTOEc1cmNpMDJULWJSM1NaTTNWVEFfdGlqSFdERVR4UzJUekFDSjZ4RGlRMTRIRmcwdERvTVktaW56XzFxQWIyM1ZxdU5iYkN4VWFHVDdPN1ZGMm9VUHpXSi1SeXhDUFg?oc=5",
+    "content": "BTS's 'Arirang' becomes first K-pop album certified platinum in Italy Korea JoongAng Daily",
+    "published_at": "1104google-kpop",
+    "published_ts": 1793761243.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "防弹少年团《Arirang》获意大利白金认证，成首张获此认证的K-pop专辑",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "防弹少年团（BTS）专辑《Arirang》获得意大利白金认证",
+      "该专辑是首张在意大利获得白金认证的K-pop专辑",
+      "消息来源为韩国《中央日报》（Korea JoongAng Daily）英文版报道"
+    ],
+    "summary_zh": "据韩国《中央日报》英文版报道，防弹少年团（BTS）的专辑《Arirang》在意大利获得白金认证，成为首张在意大利取得白金认证的K-pop专辑。原文未披露认证机构名称、认证时间及具体销量门槛等细节。",
+    "extracted_at": "2026-11-04T19:49:54.025857+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Seo Yea Ji Confirmed To Star In New Film",
+    "url": "https://www.soompi.com/article/1884003wpp/seo-yea-ji-confirmed-to-star-in-new-film",
+    "content": "Seo Yea Ji is returning to the big screen! On November 4, Seo Yea Ji’s agency B.Wave Entertainment confirmed her casting in the film “Geumwoldo” (romanized title), in which she will play Kim Ji Hoo. “Geumwoldo” is inspired by an actual case of cannibalism recorded in the Veritable Records of the Joseon Dynasty. Set on&#8230; Continue reading Seo Yea Ji Confirmed To Star In New Film\nThe post Seo Yea Ji Confirmed To Star In New Film appeared first on Soompi.",
+    "published_at": "1104soompi",
+    "published_ts": 1793760616.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "徐睿知确认出演新片《金月岛》 饰演金智秀",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "时间：11月4日",
+      "主体：徐睿知所属社B.Wave Entertainment",
+      "动作：官方确认徐睿知将出演电影《金月岛》（音译）",
+      "角色：徐睿知在片中饰演金智秀（Kim Ji Hoo）",
+      "作品背景：《金月岛》灵感源自《朝鲜王朝实录》中记载的一起真实食人事件"
+    ],
+    "summary_zh": "11月4日，徐睿知所属社B.Wave Entertainment确认她将出演电影《金月岛》（音译），在片中饰演金智秀一角。该片灵感来源于《朝鲜王朝实录》中记录的真实食人事件，背景设定在朝鲜王朝时期。",
+    "extracted_at": "2026-11-04T19:49:55.661142+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: BLACKPINK’s Jisoo And TWICE’s Nayeon Show Close Friendship On “Whenever Possible” Preview",
+    "url": "https://www.soompi.com/article/1884023wpp/watch-blackpinks-jisoo-and-twices-nayeon-show-close-friendship-on-whenever-possible-preview",
+    "content": "BLACKPINK&#8217;s Jisoo and TWICE&#8221;s Nayeon will be starring on &#8220;Whenever Possible&#8221;! “Whenever Possible” is a variety show in which the hosts, Yu Jae Seok and Yoo Yeon Seok, visit ordinary people during their brief moments of free time, aiming to sprinkle a bit of luck into their lives. On November 4, &#8220;Whenever Possible&#8221; released a&#8230; Continue reading Watch: BLACKPINK&#8217;s Jisoo And TWICE&#8217;s Nayeon Show Close Friendship On &#8220;Whenever Possible&#8221; Preview\nThe post Watch: BLACKPINK&#8217;s Jisoo And TWICE&#8217;s Nayeon Show Close Friendship On &#8220;Whenever Possible&#8221; Preview appeared first on Soompi.",
+    "published_at": "1104soompi",
+    "published_ts": 1793757618.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "BLACKPINK金智秀与TWICE林娜琏出演《Whenever Possible》预告公开",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "节目《Whenever Possible》由刘在石与柳演锡担任主持，形式为在普通人短暂的闲暇时间登门拜访，为其生活增添一点幸运",
+      "11月4日，《Whenever Possible》公开了BLACKPINK成员金智秀与TWICE成员林娜琏出演的预告",
+      "预告内容展现两人之间的亲密友情"
+    ],
+    "summary_zh": "BLACKPINK成员金智秀与TWICE成员林娜琏将出演综艺节目《Whenever Possible》。该节目由刘在石、柳演锡主持，主持人在普通人短暂的闲暇时间登门拜访，为其生活增添幸运。11月4日节目方公开了两人出演的预告，片中展现了二人的亲密友情。",
+    "extracted_at": "2026-11-04T19:49:57.347087+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "“Between Steps” Heads Into Final Week On Ratings High + “Love In Disguise” Remains No. 1",
+    "url": "https://www.soompi.com/article/1884002wpp/between-steps-heads-into-final-week-on-ratings-high-love-in-disguise-remains-no-1",
+    "content": "Choo Young Woo and Kim So Hyun’s romance drama “Between Steps” is on a roll! Ahead of its final two episodes, ENA&#8217;s &#8220;Between Steps&#8221; soared to its new all-time high ratings. According to Nielsen Korea, episode 10 garnered an average nationwide viewership rating of 2.821 percent, which is slightly higher than the previous episode’s personal&#8230; Continue reading &#8220;Between Steps&#8221; Heads Into Final Week On Ratings High + &#8220;Love In Disguise&#8221; Remains No. 1\nThe post &#8220;Between Steps&#8221; Heads Into Final Week On Ratings High + &#8220;Love In Disguise&#8221; Remains No. 1 appeared first on Soompi.",
+    "published_at": "1104soompi",
+    "published_ts": 1793757050.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《Between Steps》收视创新高迎收官周，《Love In Disguise》蝉联榜首",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "ENA剧集《Between Steps》由秋英宇和金所泫主演，第10集全国平均收视率为2.821%，创下自身最高纪录",
+      "该收视率略高于前一集，剧集即将进入最后两周的播出",
+      "《Love In Disguise》在榜单中保持第一名"
+    ],
+    "summary_zh": "秋英宇和金所泫主演的ENA浪漫剧《Between Steps》在收官周前创下自身最高收视率。据尼尔森韩国数据，第10集全国平均收视率为2.821%，略高于前一集。同时，《Love In Disguise》继续保持榜首位置。",
+    "extracted_at": "2026-11-04T19:49:59.525548+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "'Arirang' becomes first K-pop album to go platinum in Italy - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQQWpwczF3dU8tTHNtbm5WVVhVYVNtSE1Xc1p2a2tGVFJidXBwM0RMRXp2ZU1EbExLN3dyUExCblRac1pZNHJIVWR2VTRmcUNyeEt1Zzcycw?oc=5",
+    "content": "'Arirang' becomes first K-pop album to go platinum in Italy The Korea Herald",
+    "published_at": "1104google-kpop",
+    "published_ts": 1793756029.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "防弹少年团《Arirang》成首张在意大利获白金认证的K-pop专辑",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "《Arirang》成为首张在意大利获得白金认证的K-pop专辑",
+      "消息来源为《The Korea Herald》报道"
+    ],
+    "summary_zh": "据《The Korea Herald》报道，防弹少年团专辑《Arirang》成为首张在意大利获得白金认证的K-pop专辑。原文未提及具体销量数字、认证机构名称及认证时间。",
+    "extracted_at": "2026-11-04T19:50:01.183960+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "BABYMONSTER’s “DESERVE” Breaks Their Own Record For Fastest 2026 K-Pop Group MV To Reach 100 Million Views",
+    "url": "https://www.soompi.com/article/1884004wpp/babymonsters-deserve-breaks-their-own-record-for-fastest-2026-k-pop-group-mv-to-reach-100-million-views",
+    "content": "BABYMONSTER has reached an impressive new YouTube milestone with their latest comeback! According to YG Entertainment, the music video for BABYMONSTER&#8217;s latest digital single &#8220;DESERVE&#8221; surpassed 100 million views on November 4 at approximately 1:57 a.m. KST. This is approximately 11 days and 13 hours since the music video&#8217;s release on October 23 at 1&#8230; Continue reading BABYMONSTER&#8217;s &#8220;DESERVE&#8221; Breaks Their Own Record For Fastest 2026 K-Pop Group MV To Reach 100 Million Views\nThe post BABYMONSTER&#8217;s &#8220;DESERVE&#8221; Breaks Their Own Record For Fastest 2026 K-Pop Group MV To Reach 100 Million Views appeared first on Soompi.",
+    "published_at": "1104soompi",
+    "published_ts": 1793755669.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "BABYMONSTER《DESERVE》MV创2026年K-Pop组合最快破亿纪录",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "BABYMONSTER数字单曲《DESERVE》MV于10月23日发布",
+      "该MV在11月4日凌晨1点57分左右（KST）YouTube播放量突破1亿次",
+      "从发布到破亿用时约11天13小时",
+      "这一成绩刷新了BABYMONSTER自身保持的2026年K-Pop组合MV最快破亿纪录",
+      "数据来源为YG娱乐官方发布"
+    ],
+    "summary_zh": "据YG娱乐消息，BABYMONSTER数字单曲《DESERVE》的MV于11月4日凌晨1点57分左右（KST）在YouTube突破1亿次播放。该MV于10月23日发布，用时约11天13小时达成破亿，刷新了BABYMONSTER自身保持的2026年K-Pop组合MV最快破亿纪录。",
+    "extracted_at": "2026-11-04T19:50:02.868754+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -60,16 +616,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《KPop Demon Hunters》11月回归，IMDb公布确定新发行版",
+    "title_zh": "《KPop Demon Hunters》定档11月回归 将推最终版新作",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅提及《KPop Demon Hunters》将于11月回归并推出确定的新发行版，来源标注为IMDb",
-      "原文未提供具体日期、发行平台、参与艺人或作品形式等细节"
+      "原文仅提及《KPop Demon Hunters》将于11月回归并推出新版本，未提供具体日期、平台、曲目或参与人员等信息",
+      "信息来源标注为IMDb"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters》将于11月回归，推出确定的新发行版]",
-    "extracted_at": "2026-11-04T08:20:36.091944+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters》将于11月以最终版新作回归]",
+    "extracted_at": "2026-11-04T19:50:04.272290+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -84,17 +640,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "NYCC '26座谈：K-POP DEMON HUNTERS如何打破国际与文化壁垒",
+    "title_zh": "纽约漫展2026：K-POP恶魔猎人如何打破国际与文化壁垒",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "活动：NYCC '26（纽约国际动漫展）举办座谈会，主题为K-POP DEMON HUNTERS如何打破国际与文化壁垒",
-      "来源：Comics Beat报道",
-      "原文未提及座谈会具体日期、出席嘉宾、讨论内容细节及任何数据"
+      "活动：NYCC '26（纽约漫展2026）举办了一场以《K-POP DEMON HUNTERS》为主题的座谈，讨论其如何打破国际与文化壁垒",
+      "来源：Comics Beat 报道",
+      "原文未提及座谈具体时间、地点、出席嘉宾及讨论细节"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：NYCC '26座谈会探讨K-POP DEMON HUNTERS如何打破国际与文化壁垒]",
-    "extracted_at": "2026-11-04T08:20:37.395513+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：纽约漫展2026座谈探讨《K-POP DEMON HUNTERS》如何打破国际与文化壁垒]",
+    "extracted_at": "2026-11-04T19:50:06.102366+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -109,16 +665,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《KPop Demon Hunters》标准收藏版4K超高清发行",
+    "title_zh": "《KPop Demon Hunters》标准收藏版4K超高清碟正式发售",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "《KPop Demon Hunters》标准收藏版（The Criterion Collection Edition）已推出4K超高清（4K Ultra HD）版本",
-      "消息来源为 Consequence of Sound"
+      "《KPop Demon Hunters》推出标准收藏版（The Criterion Collection Edition）",
+      "该版本以4K Ultra HD格式发行，现已上市",
+      "消息来源为Consequence of Sound"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters》标准收藏版现已在4K超高清上发行]",
-    "extracted_at": "2026-11-04T08:20:38.639268+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters》标准收藏版4K超高清碟现已发售]",
+    "extracted_at": "2026-11-04T19:50:07.688667+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -139,10 +696,10 @@
     "is_blurred": true,
     "facts_list": [
       "Netflix为《KPop Demon Hunters》追加22集新剧集",
-      "信息来源为Sweety High的报道"
+      "消息来源为娱乐媒体Sweety High的报道"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：Netflix为《KPop Demon Hunters》追加22集新剧集]",
-    "extracted_at": "2026-11-04T08:20:39.933111+08:00"
+    "extracted_at": "2026-11-04T19:50:08.816018+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -163,35 +720,10 @@
     "is_blurred": true,
     "facts_list": [
       "原文仅提及《KPop Demon Hunters: Battle for the Spotlight》是面向粉丝的作品，来源为 The Pop Insider",
-      "原文未提供具体时间、地点、数据或具名来源等可核实细节"
+      "原文未提及具体时间、地点、参与人员、数据或官方声明"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters: Battle for the Spotlight》是献给粉丝的作品]",
-    "extracted_at": "2026-11-04T08:20:41.283327+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Lisa x PlayStation collection: Get exclusive hoodies, hats and more merch from the KPop star - ABC7 Chicago",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY3ZlV245QXgzcWJ6UWFDcmdmaWRnejlNMTR5cmZLTlBiR0Y2dExPdXpILU1Ca2ZCZ1BxMF9iWlF3Mmc4YnlTNG9XS0JIc3o2ZS1rQUxKMzJWY2t1ZThoVno2enNCNFp6SE1fOUphaEFIdTBvZ0wyd2dqc1ZveTAzQ3VJSlk4YlpEZkNRbTJIclNFQ3dKeEZidWdRQkFsM3N2V2EzYU5laFh0NDB2X1loN2Mtc0nSAboBQVVfeXFMUGttM2l0RHNxb2lNNlBPYVRxVlFsam1FUU1Tb0ZoeEo0a3dmZ2ZCWWkwWnFfS3pSTUN2WGt2dGxUU1JXdXJ1dm9SNERyZXZwcnNqc1BxYnQ1ZWpPdS1FWkx2RGJCN2RMaXgxN01OY2pVU3ZNdFdfbUZHOVRaMzBNeUUxQUJUT3g1S1Uwb2ptSnFJaDZqcEFObFdRRWR2R0MwNmduVTBqX1EtN0tKTktFcHIzVHc3NHZOalVR?oc=5",
-    "content": "Lisa x PlayStation collection: Get exclusive hoodies, hats and more merch from the KPop star ABC7 Chicago",
-    "published_at": "1104google-kpop",
-    "published_ts": 1793734406.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Lisa与PlayStation联名系列公开，含连帽衫、帽子等独家周边",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": false,
-    "facts_list": [
-      "BLACKPINK成员Lisa与PlayStation推出联名周边系列",
-      "联名商品包括独家连帽衫、帽子等服饰配件",
-      "消息来源为ABC7 Chicago报道"
-    ],
-    "summary_zh": "据ABC7 Chicago报道，BLACKPINK成员Lisa与PlayStation合作推出联名周边系列，商品包含独家连帽衫、帽子等服饰配件。原文未披露具体发售日期、价格及购买渠道等细节。",
-    "extracted_at": "2026-11-04T08:20:42.681429+08:00"
+    "extracted_at": "2026-11-04T19:50:10.241320+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -212,11 +744,11 @@
     "is_blurred": true,
     "facts_list": [
       "原文仅提及BU-WAN接受V13 Media采访，谈论K-POP IDOL及\"反Kpop\"子类型",
-      "原文引述BU-WAN言论：\"我不信偶像，只信上帝\"",
+      "原文引用BU-WAN言论：\"我不信偶像，只信上帝\"",
       "原文未提及采访时间、地点、具体作品或数据"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：BU-WAN在V13 Media采访中谈及K-POP IDOL与\"反Kpop\"子类型，并表示\"我不信偶像，只信上帝\"。]",
-    "extracted_at": "2026-11-04T08:20:44.153896+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：BU-WAN在V13 Media采访中谈及K-POP IDOL与\"反Kpop\"子类型，并表示\"我不信偶像，只信上帝\"]",
+    "extracted_at": "2026-11-04T19:50:12.241770+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -226,46 +758,45 @@
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUmUtdFdxNEZIRHR0R2hzc29PWTFySFEtU1RGQUVlaDRrR0pmMG1zR2RHaFNndWw4UjdhNElwbWFFZDJhTTR4NUZoaU9GbnFxZW1TNDlIemliSDBod1ZsZVFRNkpsMG0yWlR2NWlucmt2NHdyVWtrZDFuSFRZWHBkcUhrSGo?oc=5",
     "content": "‘Inspired by Mira: The Power of Movement’ | KPop Demon Hunters Netflix",
     "published_at": "1104google-kpop",
-    "published_ts": 1793728800.0,
+    "published_ts": 1793729186.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Netflix发布《KPop Demon Hunters》角色Mira主题短片《动作的力量》",
+    "title_zh": "Netflix 发布《KPop Demon Hunters》Mira 主题特辑《受 Mira 启发：动作的力量》",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "Netflix发布标题为《Inspired by Mira: The Power of Movement》的内容，关联作品为《KPop Demon Hunters》",
-      "原文仅含标题信息，未提及发布时间、具体内容、参与人员或数据"
+      "Netflix 发布标题为《Inspired by Mira: The Power of Movement》的内容，归属作品《KPop Demon Hunters》",
+      "标题指向角色 Mira，主题为“动作的力量”（The Power of Movement）",
+      "原文未提及发布时间、时长、具体画面内容或参与人员等细节"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：Netflix发布《KPop Demon Hunters》相关短片《Inspired by Mira: The Power of Movement》]",
-    "extracted_at": "2026-11-04T08:20:45.381954+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters》的《受 Mira 启发：动作的力量》]",
+    "extracted_at": "2026-11-04T19:50:13.626380+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "KPOP DEMON HUNTERS: THE OFFICIAL SCREEN COMIC BOXED SET Is Totally Golden (Exclusive) - Yahoo",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdnJlUHRsWGF1UWdNVTU1N011V3BvbXhRcEZRSXF2aHFNQTdTd1EwSmcwT2RRT2N3QTUxc0UxUi1NUUh1TjFKanZsbTVGeVFweVR3b0RadjZRTzNWU1ZJQnJJY1h0SFpQWmUtVWtKam0wbEtuTjY2dkZaS2ZNai1zZUdQMUt5aHNvVDRxLWk2QzRxSFhaVEtNWVF3RXY?oc=5",
-    "content": "KPOP DEMON HUNTERS: THE OFFICIAL SCREEN COMIC BOXED SET Is Totally Golden (Exclusive) Yahoo",
+    "title": "KPOP DEMON HUNTERS: THE OFFICIAL SCREEN COMIC BOXED SET Is Totally Golden (Exclusive) - Nerdist",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdXN0U0dpNHBieUlVcERlUGxZbHRCQWFlMi1FNEF2Z3FVU28yMUw4c3RkSjhISWdGOHl5NGlDRHVmWnM5YXFKb2NfSEs4dGxhU3ZxSDdwVnQ3ZHJGeHhFWjY2NlZBM0pybmpBeFNoUElaQl84S2FndE1xQXg5aThLMndjS0JVMnVxbkVsSWxxU29aUGxiT1B3bg?oc=5",
+    "content": "KPOP DEMON HUNTERS: THE OFFICIAL SCREEN COMIC BOXED SET Is Totally Golden (Exclusive) Nerdist",
     "published_at": "1104google-kpop",
     "published_ts": 1793728800.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《K-POP恶魔猎人》官方影视漫画套装盒装版曝光",
+    "title_zh": "《Kpop Demon Hunters》官方漫画套装盒装版将由Nerdist独家发布",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅提及《K-POP恶魔猎人》官方影视漫画套装盒装版（K-POP DEMON HUNTERS: THE OFFICIAL SCREEN COMIC BOXED SET）",
-      "原文来源标注为雅虎（Yahoo），标题含“独家”（Exclusive）字样",
-      "原文未提及具体发售日期、价格、收录内容或出版社等细节"
+      "原文仅提及《KPOP DEMON HUNTERS: THE OFFICIAL SCREEN COMIC BOXED SET》这一产品名称及Nerdist独家报道，未提供发布时间、价格、内容细节或具体数据"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：《K-POP恶魔猎人》官方影视漫画套装盒装版曝光]",
-    "extracted_at": "2026-11-04T08:20:46.976325+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：《Kpop Demon Hunters》官方漫画套装盒装版将推出，Nerdist独家报道]",
+    "extracted_at": "2026-11-04T19:50:15.334394+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -285,13 +816,13 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "主体：K-Pop传奇组合BIGBANG",
+      "主体：K-Pop组合BIGBANG",
       "事件：宣布将在美国洛杉矶SoFi体育场举办演出",
       "时间：2027年3月13日",
       "地点：洛杉矶SoFi体育场"
     ],
-    "summary_zh": "K-Pop传奇组合BIGBANG宣布将于2027年3月13日在美国洛杉矶SoFi体育场举行演出。原文仅提及演出地点与日期，未透露更多细节。",
-    "extracted_at": "2026-11-04T08:20:48.375006+08:00"
+    "summary_zh": "K-Pop传奇组合BIGBANG宣布将在美国洛杉矶SoFi体育场举办演出，演出日期定为2027年3月13日。原文未提及更多演出细节、票务信息或成员阵容。",
+    "extracted_at": "2026-11-04T19:50:17.164603+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -306,41 +837,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《再婚皇后》韩剧开播：TechRadar发布全球在线观看指南",
+    "title_zh": "《再婚皇后》韩剧上线，TechRadar发布全球观看指南",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "TechRadar发布了一篇关于韩剧《再婚皇后》（The Remarried Empress）的在线观看指南文章",
-      "文章标题为《How to watch The Remarried Empress online from anywhere – stream the K-drama now》",
-      "原文未提及该剧的播出平台、上线日期、主演阵容或具体剧情信息"
+      "TechRadar发布文章，介绍韩剧《再婚皇后》（The Remarried Empress）的在线观看方式",
+      "文章标题提及可从任意地点在线观看该剧"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：TechRadar发布指南，介绍如何从任意地点在线观看韩剧《再婚皇后》]",
-    "extracted_at": "2026-11-04T08:20:50.138615+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Song Review: Red Velvet – Irene & Seulgi – Cheetah - https://thebiaslist.com/",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSl9NcHpWLWpYNnctSkhjdFVvTE1uaFJMY21SbUhhcUVtNVVhY0paRG5XOEJfVDJ2Y1ZtQ2p4UWxSQ29XTFh5Y1ROeERSSXhMWk5CcXFZUGhFdVhfRmxVMjdXd1QtSDl0T0JYM1pHWnRRREF4Uzg1ZjNiNHEySmxIdkxpQ0NCdw?oc=5",
-    "content": "Song Review: Red Velvet – Irene & Seulgi – Cheetah https://thebiaslist.com/",
-    "published_at": "1104google-kpop",
-    "published_ts": 1793721996.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Red Velvet – Irene & Seulgi 新曲《Cheetah》乐评出炉",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "原文为 thebiaslist.com 发布的歌曲乐评，评论对象为 Red Velvet – Irene & Seulgi 的歌曲《Cheetah》",
-      "原文未提供乐评正文内容，仅包含标题与链接"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：Red Velvet – Irene & Seulgi 歌曲《Cheetah》乐评]",
-    "extracted_at": "2026-11-04T08:20:51.524009+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：TechRadar发布《再婚皇后》韩剧的在线观看指南，介绍如何从任意地点观看该剧]",
+    "extracted_at": "2026-11-04T19:50:18.824130+08:00"
   },
   {
     "source_id": "asianwiki",
