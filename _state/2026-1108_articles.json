@@ -1,5 +1,278 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-Pop Dance and Photocard Trading Fest - The Boca Raton Tribune",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX2V3NjlfMl96cGF5MWxDUEFER2lBckNFVlNadldIeHNubEJkaUwtVkZERmVXUGJTaHVpR3MyZW52RjE4b00yTzFwR0xNNkNXU0xlQ0tZaFE2UnpOb3FLUFpSM19aME9zM0tTUHJwTm13bEpQbDItaWJkM0NTVUJRRDJJNERTYUVESGtZYVFfdWlaME4tMVNKOGpB?oc=5",
+    "content": "K-Pop Dance and Photocard Trading Fest The Boca Raton Tribune",
+    "published_at": "1108google-kpop",
+    "published_ts": 1794147660.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "博卡拉顿论坛报报道K-Pop舞蹈与小卡交换活动",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及活动名称“K-Pop Dance and Photocard Trading Fest”（K-Pop舞蹈与小卡交换节）",
+      "原文来源为《博卡拉顿论坛报》（The Boca Raton Tribune）",
+      "原文未提及活动时间、地点、主办方、参与艺人或具体数据"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：K-Pop舞蹈与小卡交换节（K-Pop Dance and Photocard Trading Fest）]",
+    "extracted_at": "2026-11-08T22:43:31.621428+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Winners Of 2026 Korea Grand Music Awards – MUSIC DAY",
+    "url": "https://www.soompi.com/article/1885017wpp/winners-of-2026-korea-grand-music-awards-music-day",
+    "content": "The winners for the second day of the 2026 Korea Grand Music Awards (KGMA) have been announced! Hosted by Kim Jae Won and IVE&#8217;s Liz, MUSIC DAY of the 2026 KGMA was held on November 8 at Gocheok Sky Dome. ATEEZ won three awards including Grand Record, Best Music, and Best Stage, making it their&#8230; Continue reading Winners Of 2026 Korea Grand Music Awards &#8211; MUSIC DAY\nThe post Winners Of 2026 Korea Grand Music Awards &#8211; MUSIC DAY appeared first on Soompi.",
+    "published_at": "1108soompi",
+    "published_ts": 1794147279.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "2026 KGMA音乐日获奖名单揭晓 ATEEZ斩获三项大奖",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "2026 Korea Grand Music Awards (KGMA) 第二日 MUSIC DAY 于11月8日在高尺天空巨蛋举行。",
+      "颁奖礼由金在奂和IVE的Liz担任主持。",
+      "ATEEZ获得三个奖项：Grand Record（大赏）、Best Music（最佳音乐）、Best Stage（最佳舞台）。"
+    ],
+    "summary_zh": "2026 Korea Grand Music Awards (KGMA) 第二日 MUSIC DAY 于11月8日在高尺天空巨蛋举行，由金在奂和IVE的Liz主持。ATEEZ斩获三项大奖，包括Grand Record、Best Music和Best Stage。",
+    "extracted_at": "2026-11-08T22:43:33.428952+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Soompi & Viki Staff Talk: What Is Your Favorite Soul Swap K-Drama?",
+    "url": "https://www.soompi.com/article/1884459wpp/soompi-viki-staff-talk-what-is-your-favorite-soul-swap-drama",
+    "content": "For this round of Soompi &#38; Viki Staff Talk, we are discussing another popular trope in K-dramas—soul swap! Here are the picks of some of our staff: Julia: &#8220;Secret Garden&#8221; “Secret Garden” is the most classic soul swap drama you have to watch! In this rom-com, rich and arrogant department store CEO Kim Joo Won&#8230; Continue reading Soompi &#38; Viki Staff Talk: What Is Your Favorite Soul Swap K-Drama?\nThe post Soompi & Viki Staff Talk: What Is Your Favorite Soul Swap K-Drama? appeared first on Soompi.",
+    "published_at": "1108soompi",
+    "published_ts": 1794138867.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Soompi与Viki员工讨论：最爱的灵魂互换韩剧",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "Soompi与Viki员工展开讨论，主题为灵魂互换题材的韩剧",
+      "员工Julia推荐《秘密花园》（Secret Garden），称其为最经典的灵魂互换剧，并提及剧中富有且傲慢的百货公司CEO金洙元（Kim Joo Won）这一角色"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：Soompi与Viki员工讨论各自最爱的灵魂互换韩剧，其中Julia推荐《秘密花园》为最经典之作]",
+    "extracted_at": "2026-11-08T22:43:35.276802+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Kim Ji Won, Kim Woo Seok, Lee Jin Hee, And More Share Laughs And Heartwarming Moments On Set Of “Doctor X”",
+    "url": "https://www.soompi.com/article/1885018wpp/watch-kim-ji-won-kim-woo-seok-lee-jin-hee-and-more-share-laughs-and-heartwarming-moments-on-set-of-doctor-x",
+    "content": "SBS&#8217;s &#8220;Doctor X&#8221; has unveiled a new making-of video! The making-of video shows the actors rehearsing the scene of operating on an adorable teddy bear. The actors recite their lines with a serious attitude, but they eventually burst out laughing at the situation. Kim Woo Seok comments, &#8220;Isn&#8217;t it so cute?&#8221; while Kim Ji Won&#8230; Continue reading Watch: Kim Ji Won, Kim Woo Seok, Lee Jin Hee, And More Share Laughs And Heartwarming Moments On Set Of &#8220;Doctor X&#8221;\nThe post Watch: Kim Ji Won, Kim Woo Seok, Lee Jin Hee, And More Share Laughs And Heartwarming Moments On Set Of &#8220;Doctor X&#8221; appeared first on Soompi.",
+    "published_at": "1108soompi",
+    "published_ts": 1794132122.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "金智媛、金宇硕等《Doctor X》片场花絮：手术泰迪熊引爆笑",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "SBS 公开《Doctor X》幕后花絮视频",
+      "演员们排练为泰迪熊玩偶做手术的场景",
+      "演员们认真念台词，但最终因场景搞笑而大笑",
+      "金宇硕评论道：“这不是很可爱吗？”",
+      "金智媛等其他演员也分享欢笑和温馨时刻"
+    ],
+    "summary_zh": "SBS 公开了《Doctor X》的幕后花絮视频，视频中金智媛、金宇硕、李珍熙等演员排练为泰迪熊玩偶做手术的场景。演员们虽然认真念台词，但最终因场景搞笑而大笑。金宇硕评论道：“这不是很可爱吗？”花絮展现了片场欢乐温馨的氛围。",
+    "extracted_at": "2026-11-08T22:43:37.482567+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Stars Rock The Red Carpet At 2026 Korea Grand Music Awards – MUSIC DAY",
+    "url": "https://www.soompi.com/article/1884993wpp/stars-rock-the-red-carpet-at-2026-korea-grand-music-awards-music-day",
+    "content": "The second day of the Korea Grand Music Awards (KGMA) is here! Named MUSIC DAY, the second day of 2026 KGMA is hosted by Kim Jae Won and IVE&#8217;s Liz. Here are today&#8217;s red carpet looks: Kim Jae Won &#38; Liz ALPHA DRIVE ONE AEN Hearts2Hearts KiiiKiii KickFlip NEXZ AHOF Park Ji Hyeon Billlie TOUCHED&#8230; Continue reading Stars Rock The Red Carpet At 2026 Korea Grand Music Awards &#8211; MUSIC DAY\nThe post Stars Rock The Red Carpet At 2026 Korea Grand Music Awards &#8211; MUSIC DAY appeared first on Soompi.",
+    "published_at": "1108soompi",
+    "published_ts": 1794128572.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "2026 KGMA音乐日红毯：金载沅与IVE Liz主持，多组艺人亮相",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "2026年韩国大音乐奖（KGMA）第二天命名为MUSIC DAY",
+      "MUSIC DAY由金载沅和IVE成员Liz担任主持",
+      "红毯亮相艺人包括：金载沅与Liz、ALPHA DRIVE ONE、AEN、Hearts2Hearts、KiiiKiii、KickFlip、NEXZ、AHOF、朴志炫、Billlie、TOUCHED"
+    ],
+    "summary_zh": "2026年韩国大音乐奖（KGMA）第二日MUSIC DAY红毯活动举行，由金载沅与IVE成员Liz共同主持。红毯亮相的艺人包括金载沅与Liz、ALPHA DRIVE ONE、AEN、Hearts2Hearts、KiiiKiii、KickFlip、NEXZ、AHOF、朴志炫、Billlie、TOUCHED等。",
+    "extracted_at": "2026-11-08T22:43:40.040287+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Jung Yong Hwa And Park You Na’s Fake Date Makes Hong Seung Hee Jealous In “Oh! My Guard”",
+    "url": "https://www.soompi.com/article/1884988wpp/jung-yong-hwa-and-park-you-nas-fake-date-makes-hong-seung-hee-jealous-in-oh-my-guard",
+    "content": "Get ready to see Hong Seung Hee’s jealous side on the next episode of “Oh! My Guard”! “Oh! My Guard” is a romance drama that tells the unpredictable love story of Uhm Tae Bong (CNBLUE’s Jung Yong Hwa), an A-list actor with a fatal flaw, and Oh Hae Ra (Hong Seung Hee), a mysterious woman&#8230; Continue reading Jung Yong Hwa And Park You Na&#8217;s Fake Date Makes Hong Seung Hee Jealous In &#8220;Oh! My Guard&#8221;\nThe post Jung Yong Hwa And Park You Na&#8217;s Fake Date Makes Hong Seung Hee Jealous In &#8220;Oh! My Guard&#8221; appeared first on Soompi.",
+    "published_at": "1108soompi",
+    "published_ts": 1794124842.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《Oh! My Guard》郑容和朴宥娜假约会令洪承熙嫉妒",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "剧集：《Oh! My Guard》",
+      "角色：严泰峰（郑容和饰，CNBLUE成员，顶级演员但有致命缺陷），吴海拉（洪承熙饰，神秘女子）",
+      "事件：下一集中，郑容和与朴宥娜的假约会令洪承熙嫉妒"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：洪承熙在《Oh! My Guard》下一集中展现嫉妒一面]",
+    "extracted_at": "2026-11-08T22:43:41.992140+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Disney+ K-drama The Remarried Empress tops Korean premieres in 50+ markets - PPC Land",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT29uRFN0N3lrYU5uanZUY2xYYVRPcUktWnVRVm9PZWZMYWxGaXVvdVR1UE5KZjZBRFd1ei1UWUZENE1YejhqaEplRE9GRGE5NHRRZW9QLTl6NnpubmxhMHlXR3JqQkZwWFZKUGs2c09xR1BEa1JOMTU2UUhuVkR1Z3ZudVlGNFZuSmhtcy01bjhuZEc3?oc=5",
+    "content": "Disney+ K-drama The Remarried Empress tops Korean premieres in 50+ markets PPC Land",
+    "published_at": "1108google-kpop",
+    "published_ts": 1794121709.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Disney+韩剧《再婚皇后》在50多个市场韩剧首播中登顶",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "Disney+韩剧《再婚皇后》在50多个市场的韩剧首播中排名第一",
+      "原文未提及具体国家或地区名称、具体播放数据及上线日期"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：Disney+韩剧《再婚皇后》在50多个市场的韩剧首播中登顶]",
+    "extracted_at": "2026-11-08T22:43:43.770416+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Ahn Hyo Seop Resorts To Drastic Measures To Help Hong Hwa Yeon Overcome Her Cooking Phobia In “Final Table”",
+    "url": "https://www.soompi.com/article/1884981wpp/ahn-hyo-seop-resorts-to-drastic-measures-to-help-hong-hwa-yeon-overcome-her-cooking-phobia-in-final-table",
+    "content": "Ahn Hyo Seop will put Hong Hwa Yeon through an intensive training regimen on the next episode of “Final Table”! JTBC’s “Final Table” is a drama that tells the story of talented Korean chefs from around the world who gather to compete in “The Table: K-Chef 2026,” a high-stakes cooking competition to determine the best&#8230; Continue reading Ahn Hyo Seop Resorts To Drastic Measures To Help Hong Hwa Yeon Overcome Her Cooking Phobia In &#8220;Final Table&#8221;\nThe post Ahn Hyo Seop Resorts To Drastic Measures To Help Hong Hwa Yeon Overcome Her Cooking Phobia In &#8220;Final Table&#8221; appeared first on Soompi.",
+    "published_at": "1108soompi",
+    "published_ts": 1794120900.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "安孝燮《Final Table》出狠招 助洪华妍克服烹饪恐惧",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "安孝燮将在JTBC电视剧《Final Table》下一集中对洪华妍进行高强度训练",
+      "《Final Table》讲述来自世界各地的韩国厨师齐聚一堂，参加名为'The Table: K-Chef 2026'的高风险烹饪比赛，以决出最佳厨师的故事"
+    ],
+    "summary_zh": "JTBC电视剧《Final Table》下一集预告：安孝燮将采取严厉措施，对洪华妍进行高强度训练，帮助她克服烹饪恐惧症。该剧讲述全球韩裔厨师参加'The Table: K-Chef 2026'烹饪大赛争夺最佳厨师头衔的故事。",
+    "extracted_at": "2026-11-08T22:43:45.869685+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kim You Jung Boards A Train With Park Jinyoung’s Fate Unclear In “100 Days Of Deception”",
+    "url": "https://www.soompi.com/article/1884973wpp/kim-you-jung-boards-a-train-with-park-jinyoungs-fate-unclear-in-100-days-of-deception",
+    "content": "Park Jinyoung’s fate remains shrouded in mystery on tvN’s “100 Days of Deception.” Set during the Japanese occupation of Korea, “100 Days of Deception” is a period spy romance starring Kim You Jung as Lee Ga Kyeong (Kim You Jung), a pickpocket who becomes an undercover spy for the independence movement and infiltrates the Japanese&#8230; Continue reading Kim You Jung Boards A Train With Park Jinyoung&#8217;s Fate Unclear In &#8220;100 Days Of Deception&#8221;\nThe post Kim You Jung Boards A Train With Park Jinyoung&#8217;s Fate Unclear In &#8220;100 Days Of Deception&#8221; appeared first on Soompi.",
+    "published_at": "1108soompi",
+    "published_ts": 1794116141.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "金裕贞《100天的谎言》登火车，朴珍荣命运成谜",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "金裕贞在tvN剧集《100天的谎言》中饰演李佳景，是一名扒手，后成为独立运动卧底间谍。",
+      "剧集背景设定在日本殖民朝鲜时期，是一部时代间谍爱情剧。",
+      "最新剧情中，金裕贞角色登上火车，朴珍荣角色的命运不明。"
+    ],
+    "summary_zh": "tvN剧集《100天的谎言》以日本殖民朝鲜时期为背景，金裕贞饰演扒手李佳景，为独立运动担任卧底间谍。最新剧情中，金裕贞角色登上火车，而朴珍荣角色的命运仍不明朗。",
+    "extracted_at": "2026-11-08T22:43:47.969258+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Reel Talk: Criterion Collection’s 4K release of K-Pop Demon Hunters is golden - KOLD",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRC1qU0dvTVlEOVFha1VCVXFKLWV5MmlNNmExZUgxNkJyUENqZWxDaU1Fb0hlLTlOclNtaWpNMDRaLUVIallrc3FJbDFULVRCdFdDYzlvV3RNZ09DSGc5SzBhNlJ0QjY4WXE2SXp5SFRzZnR5WHNHZ0ctMTgzN2Iwc0QzdE1yeTFSdjUtMzJad0NQRU5VNmRsWGlZRzRqYmZzNFloeFhaNUs?oc=5",
+    "content": "Reel Talk: Criterion Collection’s 4K release of K-Pop Demon Hunters is golden KOLD",
+    "published_at": "1108google-kpop",
+    "published_ts": 1794112980.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "标准收藏推出《K-Pop Demon Hunters》4K版，KOLD称其品质出色",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及标准收藏（Criterion Collection）发行《K-Pop Demon Hunters》4K版本，来源为KOLD",
+      "原文未提及发行日期、具体规格、价格或销量等细节"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：标准收藏（Criterion Collection）发行的《K-Pop Demon Hunters》4K版本品质出色]",
+    "extracted_at": "2026-11-08T22:43:49.684271+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: A2O SOUL Unveils MV Teaser For Debut Track “Dancing In The Dark”",
+    "url": "https://www.soompi.com/article/1884928wpp/watch-a2o-soul-unveils-mv-teaser-for-debut-track-dancing-in-the-dark",
+    "content": "Get ready for the release of A2O SOUL’s debut EP! On November 8 KST, A2O SOUL unveiled a music video teaser for “Dancing in the Dark,” the second of two title tracks from their upcoming EP “SUPERSTAR.” A2O SOUL is a 15-member boy group under A2O Entertainment, a new agency recently established by SM Entertainment&#8230; Continue reading Watch: A2O SOUL Unveils MV Teaser For Debut Track &#8220;Dancing In The Dark&#8221;\nThe post Watch: A2O SOUL Unveils MV Teaser For Debut Track &#8220;Dancing In The Dark&#8221; appeared first on Soompi.",
+    "published_at": "1108soompi",
+    "published_ts": 1794112455.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "A2O SOUL公开出道曲《Dancing in the Dark》MV预告",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "11月8日（韩国时间），A2O SOUL公开了出道EP《SUPERSTAR》中双主打曲之一的《Dancing in the Dark》MV预告。",
+      "A2O SOUL是A2O Entertainment旗下的15人男子组合，该厂牌由SM Entertainment近期成立。",
+      "《Dancing in the Dark》是EP《SUPERSTAR》的两首主打歌中的第二首。"
+    ],
+    "summary_zh": "11月8日，A2O SOUL通过官方渠道发布了出道EP《SUPERSTAR》中第二首主打曲《Dancing in the Dark》的MV预告。该组合是SM Entertainment新成立的厂牌A2O Entertainment推出的15人男子团体，此次预告标志着他们正式出道前的宣传启动。",
+    "extracted_at": "2026-11-08T22:43:51.719544+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -15,14 +288,14 @@
     "title_zh": "《100天的谎言》后半程开播创周六最高收视，《完美的谎言》亦创新高",
     "source_type": "韩剧",
     "risk_level": "低",
-    "is_blurred": false,
+    "is_blurred": true,
     "facts_list": [
-      "11月7日，tvN《100天的谎言》进入后半程，创下该剧周六最高收视率（周六收视通常低于周日）。",
-      "据Nielsen Korea数据，最新一集收视率上升。",
-      "《完美的谎言》收视率也创下新高。"
+      "11月7日，tvN《100天的谎言》进入后半程，创下该剧周六最高收视率（周六收视通常低于周日）",
+      "据Nielsen Korea数据，最新一集收视率上升",
+      "《完美的谎言》收视率也创下新高"
     ],
-    "summary_zh": "11月7日，tvN《100天的谎言》开启后半程，创下自身周六最高收视率。据Nielsen Korea数据，该剧最新一集收视率上升，而《完美的谎言》也创下新高。",
-    "extracted_at": "2026-11-08T12:07:51.349687+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：11月7日tvN《100天的谎言》后半程开播创周六最高收视，《完美的谎言》也创新高]",
+    "extracted_at": "2026-11-08T22:43:53.217953+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -37,19 +310,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "朴智旻连续第8年当选\"K-pop之王\"，Latin Times称无人能及",
+    "title_zh": "智旻连续第8年当选「K-pop之王」，Latin Times称无人能及",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "获奖主体：防弹少年团（BTS）成员朴智旻（Jimin）",
-      "获奖称号：\"K-pop之王\"（King of K-pop）",
-      "获奖次数：连续第8年获得该称号",
-      "信息来源：Latin Times 报道，标题称\"无人能及\"（No One Else Has Come Close）",
-      "原文未提及：投票机构、评选方式、具体票数、颁奖时间与地点等细节"
+      "原文仅提及：防弹少年团成员智旻（Jimin）连续第8年获得「K-pop之王」（King of K-pop）称号",
+      "原文来源为 Latin Times，标题称「无人能及」（No One Else Has Come Close）",
+      "原文未提及该称号的颁发机构、评选方式、投票数据或具体获奖时间"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：朴智旻连续第8年获得\"K-pop之王\"称号，无人能及。]",
-    "extracted_at": "2026-11-08T12:07:53.698802+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：智旻连续第8年获得「K-pop之王」称号，无人能及。]",
+    "extracted_at": "2026-11-08T22:43:54.759725+08:00"
   },
   {
     "source_id": "soompi",
@@ -73,8 +344,8 @@
       "排名基于10月8日至11月8日收集的大数据，分析消费者参与、媒体报道、互动和社区指数",
       "RESCENE蝉联榜首"
     ],
-    "summary_zh": "韩国企业评价研究所公布了11月女团品牌声誉排名，该排名通过对10月8日至11月8日期间的大数据进行分析得出，综合考量了消费者参与、媒体报道、互动和社区等指数。RESCENE蝉联榜首。",
-    "extracted_at": "2026-11-08T12:07:55.834807+08:00"
+    "summary_zh": "韩国企业评价研究所公布了11月女团品牌声誉排名，该排名基于10月8日至11月8日期间的大数据，对消费者参与、媒体报道、互动和社区指数进行分析。RESCENE蝉联榜首。",
+    "extracted_at": "2026-11-08T22:43:56.482922+08:00"
   },
   {
     "source_id": "soompi",
@@ -95,12 +366,12 @@
     "is_blurred": false,
     "facts_list": [
       "11月7日播出的MBC《Music Core》中，一位候补为IVE《Looks Can Kill》、ILLIT《You're Under Arrest》和A2O LITE《NEON》",
-      "A2O LITE凭借《NEON》以总分6593分获得第一名",
+      "A2O LITE凭借《NEON》以总分6,593分获得第一名",
       "这是A2O LITE出道单曲《NEON》拿下的第10个音乐节目冠军",
       "本期节目还有BLACKPINK成员Jisoo、RESCENE、TREASURE等艺人带来表演"
     ],
-    "summary_zh": "11月7日MBC《Music Core》中，A2O LITE出道单曲《NEON》以6593分击败IVE《Looks Can Kill》和ILLIT《You're Under Arrest》，夺得第10个音乐节目冠军。本期节目还有BLACKPINK成员Jisoo、RESCENE、TREASURE等艺人登台表演。",
-    "extracted_at": "2026-11-08T12:07:58.232648+08:00"
+    "summary_zh": "在11月7日播出的MBC《Music Core》中，A2O LITE的出道单曲《NEON》与IVE《Looks Can Kill》、ILLIT《You're Under Arrest》共同入围一位候补，最终以6,593分夺冠，这是该曲的第10个音乐节目冠军。本期节目还有BLACKPINK成员Jisoo、RESCENE、TREASURE等艺人登台表演。",
+    "extracted_at": "2026-11-08T22:43:59.121666+08:00"
   },
   {
     "source_id": "soompi",
@@ -125,8 +396,8 @@
       "意义：这是ILLIT第5支播放量破亿的MV",
       "关联事件：合作单曲《ICONIC BY MISTAKE》MV在几小时前刚突破2亿次播放"
     ],
-    "summary_zh": "据Soompi报道，韩国时间11月8日凌晨2点15分左右，ILLIT的2024年收录曲《Tick-Tack》MV在YouTube上的播放量突破1亿次，成为组合第5支破亿MV。就在几小时前，ILLIT的合作单曲《ICONIC BY MISTAKE》MV刚突破2亿次播放。",
-    "extracted_at": "2026-11-08T12:08:00.792978+08:00"
+    "summary_zh": "据Soompi报道，韩国时间11月8日凌晨约2:15，ILLIT的2024年热门B面曲《Tick-Tack》MV在YouTube播放量突破1亿次，成为组合第5支破亿MV。此前几小时，ILLIT的合作单曲《ICONIC BY MISTAKE》MV刚突破2亿次播放。",
+    "extracted_at": "2026-11-08T22:44:01.293246+08:00"
   },
   {
     "source_id": "soompi",
@@ -146,11 +417,12 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "LE SSERAFIM、ILLIT、KATSEYE三组女团合作的特别数字单曲《ICONIC BY MISTAKE》MV于11月8日午夜左右在YouTube突破2亿次播放。",
-      "该MV最初于6月11日发布。"
+      "LE SSERAFIM、ILLIT、KATSEYE三组女团合作的特别数字单曲《ICONIC BY MISTAKE》MV在YouTube播放量突破2亿次",
+      "突破2亿次的时间点为11月8日午夜前后（韩国时间）",
+      "该MV最初于6月11日发布"
     ],
-    "summary_zh": "LE SSERAFIM、ILLIT和KATSEYE合作演唱的特别数字单曲《ICONIC BY MISTAKE》音乐视频在YouTube上的播放量已超过2亿次。该视频于11月8日午夜左右达成这一里程碑，最初发布于6月11日。",
-    "extracted_at": "2026-11-08T12:08:02.930229+08:00"
+    "summary_zh": "LE SSERAFIM、ILLIT与KATSEYE合作推出的特别数字单曲《ICONIC BY MISTAKE》MV于11月8日午夜前后（韩国时间）在YouTube突破2亿次播放。该MV最初于6月11日发布，此次播放量破2亿标志着三组女团合作曲的又一里程碑。",
+    "extracted_at": "2026-11-08T22:44:03.526785+08:00"
   },
   {
     "source_id": "soompi",
@@ -165,41 +437,41 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《Summer Vacation》第3-4集三大反转剧情前瞻",
+    "title_zh": "《Summer Vacation》第3-4集三大剧情转折：金荷妍与赵裕谦关系走向成焦点",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "剧集《Summer Vacation》第3-4集将出现三个反转情节",
-      "主角为金荷妍（赵怡贤饰）与赵裕谦（陈永饰）",
-      "该剧前几集已介绍两位性格迥异的主角"
+      "剧集《Summer Vacation》第3-4集播出，原文标题称包含三个出人意料的剧情转折",
+      "主角为金荷妍（曹怡贤饰）与赵裕谦（陈永饰），两人性格截然不同",
+      "原文正文仅介绍青春成长主题，未展开具体转折情节"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：在《Summer Vacation》第3-4集中将出现三个令人意外的剧情反转]",
-    "extracted_at": "2026-11-08T12:08:04.708727+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：第3-4集出现三个出人意料的剧情转折，围绕金荷妍与赵裕谦两位性格迥异的角色展开。]",
+    "extracted_at": "2026-11-08T22:44:05.422334+08:00"
   },
   {
     "source_id": "google-kpop",
     "source_name": "Google News",
     "l1_tab": "韩娱",
-    "title": "TXT turned their comeback into a game — and MOA can't stop playing - Latin Times",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVi1LblZ0VjhlcFItdFFoczgyb0NSbm1hdUJuMFNaQmptTDFBRVctaFFpUU5kMTlNbWc1MGFpLUpDX29obUdPdVluQXZCRjNtMnd4ZVlrcy00Rnd3aFl1NmxlblRtLUE5Um9zbnBubWNIRVhrd3QzMHZxdHpXamVXemQwSUZJWTBJaEtSNFBYRDU3MGdSeGt3QjdtZUlVLWtoclI1dUhXckJKbmFRWnRqYlhpc3BJREY1NWc?oc=5",
-    "content": "TXT turned their comeback into a game — and MOA can't stop playing Latin Times",
+    "title": "KPop Demon Hunters Zoey Fashion Doll: Price and Where to Buy the HUNTR/X Figure - Revista Merca2.0",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZUE1OWVmYW5ESlB1Zml1T1MxeW44TjVqblRhTnBNaTE1dTBiZExLd2lQYzhrXzdTcEdoVzhBYTJ0REsweGktYnV6a3lONEc5MkRENU1lS2gwR3c0UE5qVklqMjQxd1hXdzh3VTJoZHRTU01wbW41NUtZd3F6VFB5ZGkySUxMUWxaNmt6ZnJBQjNhOWVLVmJOX3RIc3MtdlQyRVRkQ0VB?oc=5",
+    "content": "KPop Demon Hunters Zoey Fashion Doll: Price and Where to Buy the HUNTR/X Figure Revista Merca2.0",
     "published_at": "1108google-kpop",
-    "published_ts": 1794085126.0,
+    "published_ts": 1794093961.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "TXT将回归企划打造成互动游戏，MOA粉丝热情参与",
+    "title_zh": "《KPop Demon Hunters》Zoey 时尚玩偶公布价格与购买渠道",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅称TXT将回归企划打造成游戏形式，MOA粉丝持续参与",
-      "原文未提及具体回归日期、歌曲名称、榜单数据或互动游戏的具体玩法"
+      "原文仅提及《KPop Demon Hunters》中 HUNTR/X 成员 Zoey 的时尚玩偶，涉及价格与购买渠道信息",
+      "原文未提供具体价格数字、发售日期、销售平台名称或玩偶规格等细节"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：TXT将回归企划打造成游戏形式，MOA粉丝持续参与]",
-    "extracted_at": "2026-11-08T12:08:06.311969+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters》Zoey 时尚玩偶的价格与购买渠道信息已公布]",
+    "extracted_at": "2026-11-08T22:44:07.105784+08:00"
   },
   {
     "source_id": "soompi",
@@ -207,24 +479,24 @@
     "l1_tab": "韩娱",
     "title": "Winners Of 2026 Korea Grand Music Awards – ARTIST DAY",
     "url": "https://www.soompi.com/article/1884897wpp/winners-of-2026-korea-grand-music-awards-artist-day",
-    "content": "The first day of the 2026 Korea Grand Music Awards (KGMA) is complete! Hosted by Nam Ji Hyun and RESCENE&#8217;s Woni, ARTIST DAY of the 2026 KGMA was held on November 8 at Gocheok Sky Dome. DAY6&#8217;s Young K won big with five awards including Grand Artist, while TREASURE won four awards including Grand Song.&#8230; Continue reading Winners Of 2026 Korea Grand Music Awards &#8211; ARTIST DAY\nThe post Winners Of 2026 Korea Grand Music Awards &#8211; ARTIST DAY appeared first on Soompi.",
+    "content": "The first day of the 2026 Korea Grand Music Awards (KGMA) is complete! Hosted by Nam Ji Hyun and RESCENE&#8217;s Woni, ARTIST DAY of the 2026 KGMA was held on November 7 at Gocheok Sky Dome. DAY6&#8217;s Young K won big with five awards including Grand Artist, while TREASURE won four awards including Grand Song.&#8230; Continue reading Winners Of 2026 Korea Grand Music Awards &#8211; ARTIST DAY\nThe post Winners Of 2026 Korea Grand Music Awards &#8211; ARTIST DAY appeared first on Soompi.",
     "published_at": "1108soompi",
     "published_ts": 1794075481.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "2026韩国大音乐奖KGMA首日：Young K获五奖 TREASURE夺四奖",
+    "title_zh": "2026韩国大音乐奖KGMA首日：DAY6英K五冠 TREASURE四冠",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "2026年11月8日，2026韩国大音乐奖（KGMA）ARTIST DAY在首尔高尺天空巨蛋举行，由南志铉与RESCENE成员Woni担任主持。",
-      "DAY6成员Young K获得包括Grand Artist（大赏级艺人奖）在内的五项奖项。",
-      "TREASURE获得包括Grand Song（大赏级歌曲奖）在内的四项奖项。"
+      "2026年11月7日，2026韩国大音乐奖（KGMA）ARTIST DAY在高尺天空巨蛋举行，由南志铉与RESCENE成员Woni担任主持",
+      "DAY6成员Young K获得包括Grand Artist（大赏级艺人奖）在内的五项奖项",
+      "TREASURE获得包括Grand Song（大赏级歌曲奖）在内的四项奖项"
     ],
-    "summary_zh": "2026韩国大音乐奖（KGMA）ARTIST DAY于11月8日在首尔高尺天空巨蛋举行，由南志铉与RESCENE成员Woni主持。DAY6成员Young K拿下包括Grand Artist在内的五项奖项，成为当日获奖最多的艺人；TREASURE则收获包括Grand Song在内的四项奖项。原文仅披露上述获奖概况，其余奖项归属未在摘要中列出。",
-    "extracted_at": "2026-11-08T12:08:08.670185+08:00"
+    "summary_zh": "2026韩国大音乐奖（KGMA）ARTIST DAY于11月7日在高尺天空巨蛋举行，由南志铉与RESCENE成员Woni主持。DAY6成员Young K拿下包括Grand Artist在内的五项奖项，成为当日获奖最多的艺人；TREASURE则收获包括Grand Song在内的四项奖项。原文未披露其余奖项归属及具体获奖名单。",
+    "extracted_at": "2026-11-08T22:44:09.440727+08:00"
   },
   {
     "source_id": "asianwiki",
