@@ -1,5 +1,606 @@
 [
   {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Leaked NewJeans Contract Offers Look At K-Pop's 'Dark Side' - Hypebot",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRXlSU293MFdxSS1ZZ1MybF9wWFRoUUhrWExXQzl0MHJkZkRoSjM1OHpKNW40enUzZVNhbE14RUgzNjNmdHFQU3dSYS04NGNSMWx0UmxEN2I5Nm44T1M1TUR1Wk9RQms1S0JFRGUzR21SUmRyc2JzS1ZRSzh6M1ZxWnkxYWxZcmh3?oc=5",
+    "content": "Leaked NewJeans Contract Offers Look At K-Pop's 'Dark Side' Hypebot",
+    "published_at": "1110google-kpop",
+    "published_ts": 1794311422.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "NewJeans合约内容外泄，曝光K-pop行业'阴暗面'",
+    "source_type": "韩娱",
+    "risk_level": "中",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及NewJeans合约内容被泄露，未说明泄露的具体条款、泄露渠道或涉及金额",
+      "原文未提及任何具名来源、时间、地点或具体数据"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：泄露的NewJeans合约内容揭示了K-pop行业的'阴暗面']",
+    "extracted_at": "2026-11-10T20:01:57.223091+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Hot Toys Character Craze Toy Guide From Kpop Demon Hunters To Paw Patrol And More - News12 | Westchester",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeE9LWlJRTTVEanFYZWRUOC0yWFhMem1DSUo5YWU5a1lnTWhmbkt0OWtNYl9QVmFhZ0owUEdrTFJaZGZqSm10MUJrd2V4OGhaemF5OEVpSTE1YmtFTjczcEx3YkVkZkhaRjN6RzRCa2E1YWFoLUw5WklVUnRaeURRZFU1SVRwOFRMTjBDZmRhOXhxdmNVelNJdDA4RjdOZnF0STBnaFhpZHpyNnJnM1FZQU9ROWtfUUdkV3BUZHJ3N3EzLXpLR0FiU1pxWERvNUVnVTE1MTlzNXBIX1pMOU5Z?oc=5",
+    "content": "Hot Toys Character Craze Toy Guide From Kpop Demon Hunters To Paw Patrol And More News12 | Westchester",
+    "published_at": "1110google-kpop",
+    "published_ts": 1794310744.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Hot Toys角色玩具指南：从Kpop Demon Hunters到Paw Patrol等",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及Hot Toys角色玩具指南涵盖Kpop Demon Hunters、Paw Patrol等作品",
+      "原文未提供具体时间、地点、数据或具名来源"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：Hot Toys角色玩具指南涵盖从Kpop Demon Hunters到Paw Patrol等作品]",
+    "extracted_at": "2026-11-10T20:01:58.450713+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Hot Toys Character Craze Toy Guide From Kpop Demon Hunters To Paw Patrol And More - News 12 - Hudson Valley",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNV3o2SVBZa1VmQzBSUnVvZnA1dU01dWl1bnBqRWxsaUd3RVpQZ3RJLVZYbDJ2c2tqQ2dqZG44akxVa1lnTHpCcktFanNGZkZaMDFfdlhHaUpyd2czUTJVaWlmMHpXcS1CenYxdzh3cTI5azNTalJWTC03N1FocTdSUk9RY21DYUdvaTM5ZkRkTXdwN1lUYTZETUNkSEpWSDNlbndQQWZkZjAtV3c0ZjRHTmRYMGNkdzlKbnY3MC14dHc0bXNYbVJvdEFaUWpINS1xbHRwb0I0c3ZxU1ZCSnlOeQ?oc=5",
+    "content": "Hot Toys Character Craze Toy Guide From Kpop Demon Hunters To Paw Patrol And More News 12 - Hudson Valley",
+    "published_at": "1110google-kpop",
+    "published_ts": 1794310430.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Hot Toys 角色玩具指南：从 Kpop Demon Hunters 到《汪汪队立大功》等",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及 Hot Toys 角色玩具指南，涵盖 Kpop Demon Hunters 与《汪汪队立大功》（Paw Patrol）等作品",
+      "原文来源标注为 News 12 - Hudson Valley",
+      "原文未提供具体玩具名称、发售日期、价格或任何具名数据"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：Hot Toys 角色玩具指南涵盖从 Kpop Demon Hunters 到《汪汪队立大功》等作品]",
+    "extracted_at": "2026-11-10T20:02:00.932575+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: RESCENE Takes 1st Win For “With” On “The Show”",
+    "url": "https://www.soompi.com/article/1885603wpp/watch-rescene-takes-1st-win-for-with-on-the-show",
+    "content": "RESCENE has won their first music show trophy for their new title track “With”! On the November 10 episode of “The Show,” the candidates for first place were P1Harmony&#8217;s “BLOW UP,” RESCENE&#8217;s “With,” and xikers&#8217;s “DIENAMITE.” RESCENE ultimately took home the win with 8,379. Congratulations to RESCENE! Watch their win and full encore below:\nThe post Watch: RESCENE Takes 1st Win For &#8220;With&#8221; On &#8220;The Show&#8221; appeared first on Soompi.",
+    "published_at": "1110soompi",
+    "published_ts": 1794309901.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "RESCENE凭《With》获音乐节目首个一位，击败P1Harmony与xikers",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "时间：11月10日播出的《The Show》",
+      "一位候补：P1Harmony《BLOW UP》、RESCENE《With》、xikers《DIENAMITE》",
+      "结果：RESCENE以8,379分获得出道以来首个音乐节目一位",
+      "后续：节目公开了RESCENE的获奖感言及安可舞台"
+    ],
+    "summary_zh": "11月10日播出的《The Show》中，RESCENE凭借新主打歌《With》获得音乐节目首个一位。当日一位候补为P1Harmony《BLOW UP》、RESCENE《With》和xikers《DIENAMITE》，最终RESCENE以8,379分胜出。节目同时公开了她们的获奖感言和安可舞台。",
+    "extracted_at": "2026-11-10T20:02:02.852670+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Hot Toys Character Craze Toy Guide From Kpop Demon Hunters To Paw Patrol And More - News12 | Bronx",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS2xsOG5nLWRPbzVabmVRNnJtaXRORVU1TEF2dWg5ajE2SHY1SHQ4dC1QTk5iWDhTVmRXekpZWHlwVkVOaTRfR3FvNjlDNXJPdE5NYVhyMmRoQVNZVTVfQmtvMklidFZOQ1FOVXkxZnV5aXdWSnhUeDFuT0ttQ25hVXRIU2l3aTlUaGtyWFV2TGNCNnBaSHhrWUNyOWgxSVM0Q04tRXFNcHhnQQ?oc=5",
+    "content": "Hot Toys Character Craze Toy Guide From Kpop Demon Hunters To Paw Patrol And More News12 | Bronx",
+    "published_at": "1110google-kpop",
+    "published_ts": 1794309394.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Hot Toys 角色玩具指南：从 Kpop Demon Hunters 到汪汪队立大功",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及 Hot Toys 角色玩具指南涵盖 Kpop Demon Hunters 与《汪汪队立大功》（Paw Patrol）等作品",
+      "原文未提供具体玩具名称、发售日期、价格或任何具名来源"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：Hot Toys 角色玩具指南涵盖从 Kpop Demon Hunters 到《汪汪队立大功》等作品]",
+    "extracted_at": "2026-11-10T20:02:04.261783+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "RESCENE Shatters Previous 1st-Week Sales Record By Nearly 6 Times With “PULSE”",
+    "url": "https://www.soompi.com/article/1885599wpp/rescene-shatters-previous-1st-week-sales-record-by-nearly-6-times-with-pulse",
+    "content": "RESCENE has achieved a new career high with their latest release! Last week, RESCENE released their fourth mini album “PULSE.” According to Hanteo Chart, RESCENE’s newest album “PULSE” has sold a total of 602,688 copies during its first week of release (from November 3 to 9), making this their highest first-week sales yet. On its&#8230; Continue reading RESCENE Shatters Previous 1st-Week Sales Record By Nearly 6 Times With “PULSE”\nThe post RESCENE Shatters Previous 1st-Week Sales Record By Nearly 6 Times With “PULSE” appeared first on Soompi.",
+    "published_at": "1110soompi",
+    "published_ts": 1794308831.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "RESCENE 迷你四辑《PULSE》首周销量 60.2 万张，较前作增长近 6 倍创自身新高",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "RESCENE 于上周发行第四张迷你专辑《PULSE》",
+      "据 Hanteo Chart 统计，该专辑在 11 月 3 日至 9 日的首周销量为 602,688 张",
+      "这一数字创下 RESCENE 自身首周销量最高纪录",
+      "新纪录较此前首周销量纪录增长近 6 倍"
+    ],
+    "summary_zh": "RESCENE 上周发行第四张迷你专辑《PULSE》，据 Hanteo Chart 数据，该专辑在 11 月 3 日至 9 日的首周销量达到 602,688 张，刷新组合自身首周销量纪录，且较此前纪录增长近 6 倍。",
+    "extracted_at": "2026-11-10T20:02:06.245291+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Jang Gyuri Moves Into Bae Jong Ok’s Seemingly Perfect Home As Kim Min Chul Grows Suspicious In “My Home”",
+    "url": "https://www.soompi.com/article/1885558wpp/jang-gyuri-moves-into-bae-jong-oks-seemingly-perfect-home-as-kim-min-chul-grows-suspicious-in-my-home",
+    "content": "The upcoming film “My Home” has unveiled new character posters! “My Home” follows Gyu Bin (Jang Gyuri), a college student who moves into a luxury apartment under unusually generous terms and begins experiencing strange events while living with her elegant landlady Geum Rim (Bae Jong Ok). In her poster, Gyu Bin is described as “the&#8230; Continue reading Jang Gyuri Moves Into Bae Jong Ok’s Seemingly Perfect Home As Kim Min Chul Grows Suspicious In “My Home”\nThe post Jang Gyuri Moves Into Bae Jong Ok’s Seemingly Perfect Home As Kim Min Chul Grows Suspicious In “My Home” appeared first on Soompi.",
+    "published_at": "1110soompi",
+    "published_ts": 1794305378.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "张圭利搬入裴宗玉看似完美的家 金民哲在《My Home》中起疑",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "电影《My Home》发布新角色海报",
+      "《My Home》剧情：大学生圭彬（张圭利饰）以异常优惠条件搬入豪华公寓，与优雅房东金琳（裴宗玉饰）同住并经历奇怪事件",
+      "圭彬的海报描述为“the…”（原文截断）",
+      "金民哲在《My Home》中起疑"
+    ],
+    "summary_zh": "电影《My Home》公开新角色海报。该片讲述大学生圭彬（张圭利饰）以异常优惠条件搬入豪华公寓，与优雅房东金琳（裴宗玉饰）同住后经历奇怪事件。海报中圭彬被描述为“the…”（原文截断），同时金民哲在片中起疑。",
+    "extracted_at": "2026-11-10T20:02:08.306316+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "16 Timeless K-Dramas Newly Available On Viki In Southeast Asia",
+    "url": "https://www.soompi.com/article/1884167wpp/16-timeless-k-dramas-newly-available-on-viki-in-southeast-asia",
+    "content": "Looking for new K-dramas to watch? Viki has recently released more classic K-dramas for streaming—now available in Southeast Asia! Check out the list below, and pick your next binge-watch. &#8220;He Is Psychometric&#8221; &#8220;He Is Psychometric&#8221; follows Lee Ahn (Park Jin Young), who possesses a unique psychometric ability that allows him to uncover secrets through touch.&#8230; Continue reading 16 Timeless K-Dramas Newly Available On Viki In Southeast Asia\nThe post 16 Timeless K-Dramas Newly Available On Viki In Southeast Asia appeared first on Soompi.",
+    "published_at": "1110soompi",
+    "published_ts": 1794300943.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Viki东南亚区新上线16部经典韩剧",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "Viki平台在东南亚地区新上线16部经典韩剧供流媒体播放",
+      "其中一部为《He Is Psychometric》，讲述拥有通过触摸读取秘密的心理测量能力的李安（朴珍荣饰）的故事"
+    ],
+    "summary_zh": "Viki平台近期在东南亚地区新上线了16部经典韩剧，供观众流媒体观看。其中一部是《He Is Psychometric》，该剧讲述拥有心理测量能力的李安（朴珍荣饰）通过触摸揭开秘密的故事。",
+    "extracted_at": "2026-11-10T20:02:09.911012+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Lee Hyun Wook, Jang Hyuk, And More Showcase Their Fierce Resolve Amid The Chaos Of War In Poster For “Sword & Silence”",
+    "url": "https://www.soompi.com/article/1885448wpp/lee-hyun-wook-jang-hyuk-and-more-showcase-their-fierce-resolve-amid-the-chaos-of-war-in-poster-for-sword-silence",
+    "content": "The upcoming historical drama “Sword &#38; Silence” has unveiled a new poster! Directed by Kim Yeong Jo of “Hwarang: The Poet Warrior Youth,” “Sword &#38; Silence” tells the story of how the small kingdom of Silla overcame the stronger states of Goguryeo, Baekje, and the Tang dynasty of China to unify the Three Kingdoms. The&#8230; Continue reading Lee Hyun Wook, Jang Hyuk, And More Showcase Their Fierce Resolve Amid The Chaos Of War In Poster For “Sword &#038; Silence”\nThe post Lee Hyun Wook, Jang Hyuk, And More Showcase Their Fierce Resolve Amid The Chaos Of War In Poster For “Sword &#038; Silence” appeared first on Soompi.",
+    "published_at": "1110soompi",
+    "published_ts": 1794299576.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《剑与沉默》公开新海报，李贤旭、张赫等展战争中的决绝",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "剧名：《剑与沉默》（Sword & Silence）",
+      "导演：金荣祖（曾执导《花郎：The Poet Warrior Youth》）",
+      "主演：李贤旭、张赫等",
+      "剧情：讲述小国新罗克服高句丽、百济和中国唐朝等强国，统一三国",
+      "事件：公开了新海报，展示演员在战争混乱中的决绝"
+    ],
+    "summary_zh": "历史剧《剑与沉默》公开新海报，导演金荣祖（《花郎》），主演李贤旭、张赫等。该剧讲述新罗克服高句丽、百济和唐朝统一三国的故事。海报展现战争混乱中人物的决绝。",
+    "extracted_at": "2026-11-10T20:02:11.667483+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "STARSHIP Announces Strong Legal Action Against Malicious Posts Targeting IVE’s Jang Won Young",
+    "url": "https://www.soompi.com/article/1885526wpp/starship-announces-strong-legal-action-against-malicious-posts-targeting-ives-jang-won-young",
+    "content": "STARSHIP Entertainment has announced strong legal action against malicious posts and other acts targeting IVE’s Jang Won Young. On November 10, the agency announced that it is pursuing civil and criminal measures against those responsible for spreading false information, defamation, sexual harassment, and other violations of her rights. Read STARSHIP Entertainment’s full statement below: Hello,&#8230; Continue reading STARSHIP Announces Strong Legal Action Against Malicious Posts Targeting IVE’s Jang Won Young\nThe post STARSHIP Announces Strong Legal Action Against Malicious Posts Targeting IVE’s Jang Won Young appeared first on Soompi.",
+    "published_at": "1110soompi",
+    "published_ts": 1794298102.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "STARSHIP宣布对针对IVE张元英的恶意帖采取法律行动",
+    "source_type": "韩娱",
+    "risk_level": "中",
+    "is_blurred": false,
+    "facts_list": [
+      "时间：11月10日",
+      "主体：STARSHIP Entertainment",
+      "动作：宣布对针对IVE成员张元英的恶意帖及其他行为采取民事和刑事措施",
+      "具体违规行为：散布虚假信息、诽谤、性骚扰及其他侵犯权利的行为"
+    ],
+    "summary_zh": "STARSHIP Entertainment于11月10日宣布，已对针对IVE成员张元英的恶意帖采取民事和刑事法律行动。这些行为包括散布虚假信息、诽谤、性骚扰及其他侵犯权利的行为。公司发布了官方声明，但声明全文未在原文中完整呈现。",
+    "extracted_at": "2026-11-10T20:02:13.294186+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Sho Kasamatsu Challenges Lee Joon Gi And Sakaguchi Kentaro To Solve His Deadly Puzzle In “kiDnap GAME”",
+    "url": "https://www.soompi.com/article/1885515wpp/sho-kasamatsu-challenges-lee-joon-gi-and-sakaguchi-kentaro-to-solve-his-deadly-puzzle-in-kidnap-game",
+    "content": "“kiDnap GAME” has unveiled new stills ahead of its upcoming episode. “kiDnap GAME” is a thriller centered on an unprecedented kidnapping case that unfolds simultaneously across seven Asian cities: Seoul, Tokyo, Taipei, Singapore, Bangkok, Naha, and Manila. The story follows seven individuals who are each given different missions and forced into a deadly survival game,&#8230; Continue reading Sho Kasamatsu Challenges Lee Joon Gi And Sakaguchi Kentaro To Solve His Deadly Puzzle In “kiDnap GAME”\nThe post Sho Kasamatsu Challenges Lee Joon Gi And Sakaguchi Kentaro To Solve His Deadly Puzzle In “kiDnap GAME” appeared first on Soompi.",
+    "published_at": "1110soompi",
+    "published_ts": 1794297056.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《kiDnap GAME》新剧照：笠松将向李准基与坂口健太郎发起致命谜题挑战",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "《kiDnap GAME》是一部以绑架案为题材的惊悚剧，故事在首尔、东京、台北、新加坡、曼谷、那霸、马尼拉七个亚洲城市同步展开。",
+      "剧中七名角色各自被赋予不同任务，被迫参与一场致命的生存游戏。",
+      "制作方公开了新剧照，展示笠松将向李准基和坂口健太郎提出致命谜题挑战的场景。"
+    ],
+    "summary_zh": "《kiDnap GAME》公开了最新剧照，为即将播出的剧集预热。该剧是一部惊悚题材作品，讲述在首尔、东京、台北、新加坡、曼谷、那霸、马尼拉七个亚洲城市同步发生的绑架案，七名角色各自接受不同任务，陷入致命生存游戏。新剧照中，笠松将向李准基和坂口健太郎发起致命谜题挑战。",
+    "extracted_at": "2026-11-10T20:02:15.517042+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "KPop Demon Hunters (The Criterion Collection 4K UHD Blu-ray Review & An afternoon with the Filmmakers at B&N The Grove) - Why So Blu?",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdGpKSEYyOWd4b1hnZTRVdGZsWlNmTnRucFM1MXpQVUo5UTlhQU9MdW5CX0dNR2VnS2tqeHZRR21IX0dVOF9ZZk5pTlV4R2M3SzdVeTZQakRZQkFfVVJjV2NWVFZLSkQ4bFR1dG9fcjRJUzFCRGViUzRaZ2YwUG1fRFdwOFRlaGFYNnhSU0lmVmNoX25HbkszX3N4OEpzMmJ0TXRlRWZLUWs1NWtILTJSUm9XY3R0RUJFTnhHQWxXUmN5U2FFYmJTZ3N6QjFDOEc3dUE?oc=5",
+    "content": "KPop Demon Hunters (The Criterion Collection 4K UHD Blu-ray Review & An afternoon with the Filmmakers at B&N The Grove) Why So Blu?",
+    "published_at": "1110google-kpop",
+    "published_ts": 1794295247.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《KPop Demon Hunters》CC 4K UHD蓝光碟评及导演巴诺书店对谈活动",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及《KPop Demon Hunters》推出The Criterion Collection 4K UHD蓝光碟，并包含一篇碟评",
+      "原文提及在B&N The Grove举办了一场与影片导演共度的下午对谈活动",
+      "原文未提供影片主创姓名、活动具体日期、碟片配置或对谈内容等细节"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：KPop Demon Hunters（The Criterion Collection 4K UHD Blu-ray Review & An afternoon with the Filmmakers at B&N The Grove）]",
+    "extracted_at": "2026-11-10T20:02:17.151489+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Bae Hyeon Seong, Cha Kang Yoon, And Park Yoon Ho Risk It All For A Dangerous Deal In “The Substitute” Teaser",
+    "url": "https://www.soompi.com/article/1885435wpp/watch-bae-hyeon-seong-cha-kang-yoon-and-park-yoon-ho-risk-it-all-for-a-dangerous-deal-in-the-substitute-teaser",
+    "content": "Upcoming series “The Substitute” has released a new teaser! “The Substitute” is a crime thriller about three young men Nam Jae Yeop (Bae Hyeon Seong), Kang Geon Tae (Cha Kang Yoon), and Joo Hee Dong (Park Yoon Ho) whose conflicting desires and personal struggles lead them toward an irreversible crime on the day of the&#8230; Continue reading Watch: Bae Hyeon Seong, Cha Kang Yoon, And Park Yoon Ho Risk It All For A Dangerous Deal In “The Substitute” Teaser\nThe post Watch: Bae Hyeon Seong, Cha Kang Yoon, And Park Yoon Ho Risk It All For A Dangerous Deal In “The Substitute” Teaser appeared first on Soompi.",
+    "published_at": "1110soompi",
+    "published_ts": 1794295121.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "裴贤圣、车康允、朴允浩新剧《The Substitute》预告公开，三人为危险交易孤注一掷",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "新剧《The Substitute》发布新预告",
+      "该剧为犯罪惊悚题材，讲述三位青年南在烨（裴贤圣饰）、姜建泰（车康允饰）、朱熙东（朴允浩饰）的故事",
+      "三人因欲望冲突与个人挣扎，在特定日子走向不可逆转的犯罪"
+    ],
+    "summary_zh": "即将播出的剧集《The Substitute》公开新预告。该剧为犯罪惊悚题材，围绕南在烨（裴贤圣饰）、姜建泰（车康允饰）、朱熙东（朴允浩饰）三位青年展开，他们因欲望冲突与个人挣扎，在特定日子走向不可逆转的犯罪。预告中三人为危险交易孤注一掷。",
+    "extracted_at": "2026-11-10T20:02:19.131440+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Choo Young Woo And Kim So Hyun Receive Shocking News At The Hospital In “Between Steps” Finale",
+    "url": "https://www.soompi.com/article/1885487wpp/choo-young-woo-and-kim-so-hyun-receive-shocking-news-at-the-hospital-in-between-steps-finale",
+    "content": "“Between Steps” has unveiled new stills ahead of its upcoming episode! “Between Steps” is a romance drama directed by the late Ahn Pan Seok, who helmed the hit dramas “Something in the Rain,” “One Spring Night,” and “The Midnight Romance in Hagwon.” The drama tells the love story of Park Min Jae (Choo Young Woo),&#8230; Continue reading Choo Young Woo And Kim So Hyun Receive Shocking News At The Hospital In “Between Steps” Finale\nThe post Choo Young Woo And Kim So Hyun Receive Shocking News At The Hospital In “Between Steps” Finale appeared first on Soompi.",
+    "published_at": "1110soompi",
+    "published_ts": 1794294118.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《Between Steps》大结局剧照：秋英宇与金所泫在医院收到冲击性消息",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "《Between Steps》是一部浪漫爱情剧，由已故导演安畔锡执导，他曾执导《经常请吃饭的漂亮姐姐》、《春夜》、《毕业》等热门剧集。",
+      "该剧讲述了朴敏宰（秋英宇 饰）的爱情故事。",
+      "制作方公开了即将播出剧集的新剧照，剧照中秋英宇与金所泫在医院收到冲击性消息。"
+    ],
+    "summary_zh": "韩剧《Between Steps》在即将播出的大结局前公开了新剧照。该剧由已故导演安畔锡执导，他曾执导《经常请吃饭的漂亮姐姐》、《春夜》等作品。剧照显示，由秋英宇饰演的朴敏宰与金所泫饰演的角色在医院收到了冲击性的消息。",
+    "extracted_at": "2026-11-10T20:02:21.294148+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "How To Dress Kku-An-Kku, According To Your Favourite K-Pop Idols - Vogue Hong Kong",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS2JEU1c2UzdJdXh5SGtoNmZxNGpGdGR3UTVuZjdPQ0dwYzZwYlZhMk9OaC1XbWlaVXpmQVhtd3hQTDNTbXhxdHhOLUpOQWtnSFdIM2FwdXp0d3NmYUZ5enBoVm80UTFzTy1lRFV4VXI0ZlpEMTN6b0JtQ2xZU25qb3VLb2FXWVBpM0JORnphQ0Fic0xkaVpSOXJzSkxUZTNSY3c?oc=5",
+    "content": "How To Dress Kku-An-Kku, According To Your Favourite K-Pop Idols Vogue Hong Kong",
+    "published_at": "1110google-kpop",
+    "published_ts": 1794293675.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Vogue香港教你按K-pop偶像风格穿搭「꾸안꾸」",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提供标题：Vogue Hong Kong 发布一篇关于如何按喜爱的 K-pop 偶像风格穿搭「꾸안꾸」（韩语「꾸민 듯 안 꾸민 듯」，意为精心打扮却看似随意）的时尚文章",
+      "原文未提及具体偶像姓名、具体穿搭单品、发布时间或任何数据"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：Vogue香港教你如何按你喜爱的K-pop偶像风格穿搭「꾸안꾸」]",
+    "extracted_at": "2026-11-10T20:02:23.057519+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kang Hoon, Cho Hyun Chul, And More Talk About The Heart And Humor Of Their Upcoming Drama “Happy Anding”",
+    "url": "https://www.soompi.com/article/1885480wpp/kang-hoon-cho-hyun-chul-and-more-talk-about-the-heart-and-humor-of-their-upcoming-drama-happy-anding",
+    "content": "The six lead actors of “Happy Anding” have shared what viewers can look forward to ahead of the drama’s premiere! “Happy Anding” is a coming-of-age drama about three comedians who have spent 10 years struggling to make a name for themselves. After encountering a mysterious woman, they set out to find new paths forward. Kang&#8230; Continue reading Kang Hoon, Cho Hyun Chul, And More Talk About The Heart And Humor Of Their Upcoming Drama “Happy Anding”\nThe post Kang Hoon, Cho Hyun Chul, And More Talk About The Heart And Humor Of Their Upcoming Drama “Happy Anding” appeared first on Soompi.",
+    "published_at": "1110soompi",
+    "published_ts": 1794293181.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "姜勋、赵显哲等主演新剧《Happy Anding》分享幕后心得与幽默温情",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "剧集《Happy Anding》是一部成长题材电视剧，讲述三位喜剧演员奋斗10年无名后，遇到神秘女子并寻找新方向的故事。",
+      "主演姜勋、赵显哲等六位演员在剧集首播前分享了观众可以期待的内容。",
+      "原文未提及具体播出日期、平台或演员具体言论细节。"
+    ],
+    "summary_zh": "新剧《Happy Anding》的六位主演在首播前分享了剧集的核心与幽默元素。该剧讲述三位喜剧演员历经10年无名奋斗，在遇到一位神秘女子后踏上新旅程的成长故事。演员们表达了观众可以期待的看点，但原文未提供具体言论或播出信息。",
+    "extracted_at": "2026-11-10T20:02:25.144210+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Jang Nara Confidently Draws In Clients In “Good Partner 2” Teaser",
+    "url": "https://www.soompi.com/article/1885462wpp/watch-jang-nara-confidently-draws-in-clients-in-good-partner-2-teaser",
+    "content": "SBS&#8217;s &#8220;Good Partner 2&#8221; has unveiled a new teaser! Following the success of Season 1, the new season of “Good Partner” depicts the cathartic divorce show that unfolds as Cha Eun Kyung (Jang Nara), a star lawyer for whom divorce is her calling, and Kang Hye Sung (Kim Hye Yoon), an experienced lawyer who is&#8230; Continue reading Watch: Jang Nara Confidently Draws In Clients In &#8220;Good Partner 2&#8221; Teaser\nThe post Watch: Jang Nara Confidently Draws In Clients In &#8220;Good Partner 2&#8221; Teaser appeared first on Soompi.",
+    "published_at": "1110soompi",
+    "published_ts": 1794290370.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "张娜拉主演《Good Partner 2》新预告公开，自信吸引客户",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "SBS 公开了《Good Partner 2》的新预告片",
+      "《Good Partner 2》是《Good Partner》第二季，第一季曾取得成功",
+      "张娜拉饰演明星离婚律师车恩京，金惠奫饰演经验丰富的律师姜惠星",
+      "预告片中张娜拉自信地吸引客户"
+    ],
+    "summary_zh": "SBS 电视剧《Good Partner 2》公开新预告片。该剧第一季曾取得成功，第二季继续讲述明星离婚律师车恩京（张娜拉 饰）和经验丰富的律师姜惠星（金惠奫 饰）的故事。预告片中，张娜拉自信地吸引客户。",
+    "extracted_at": "2026-11-10T20:02:27.609676+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Yim Si Wan And Seol In Ah Get Swept Up In An Unexpected Scandal In “Love In Disguise”",
+    "url": "https://www.soompi.com/article/1885449wpp/yim-si-wan-and-seol-in-ah-get-swept-up-in-an-unexpected-scandal-in-love-in-disguise",
+    "content": "tvN’s “Love In Disguise” has shared new stills ahead of its upcoming episode! “Love in Disguise” is a romance thriller drama about Yoon Yi Jun (Yim Si Wan), an arrogant chaebol heir who becomes a murder suspect, and Kang Jae Hee (Seol In Ah), a former special forces officer who goes undercover as his personal&#8230; Continue reading Yim Si Wan And Seol In Ah Get Swept Up In An Unexpected Scandal In &#8220;Love In Disguise&#8221;\nThe post Yim Si Wan And Seol In Ah Get Swept Up In An Unexpected Scandal In &#8220;Love In Disguise&#8221; appeared first on Soompi.",
+    "published_at": "1110soompi",
+    "published_ts": 1794289292.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "任时完与薛仁雅在《Love In Disguise》中卷入意外丑闻",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "tvN 剧集《Love In Disguise》在即将播出的剧集前公开了新剧照",
+      "剧集类型为浪漫惊悚剧，讲述傲慢财阀继承人尹伊俊（任时完 饰）成为谋杀嫌疑人，以及前特种部队军官姜在熙（薛仁雅 饰）以个人身份卧底的故事",
+      "新剧照显示任时完与薛仁雅卷入一场意外丑闻"
+    ],
+    "summary_zh": "tvN 剧集《Love In Disguise》在即将播出的剧集前公开了新剧照。该剧是一部浪漫惊悚剧，讲述傲慢财阀继承人尹伊俊（任时完 饰）成为谋杀嫌疑人，以及前特种部队军官姜在熙（薛仁雅 饰）以个人身份卧底的故事。新剧照显示两人卷入一场意外丑闻。",
+    "extracted_at": "2026-11-10T20:02:29.269400+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "From fangirl to insider: Belgian strategist builds K-pop girl group's online presence long before debut - Korea JoongAng Daily",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdzVkaEtiZXV6LUVEU2FGb0ZBZi1BS3lRb3dsSVgyOVdKZTB2QWk0MVBpa0pwNW1Fa3VocHUzeFNYVEdFSUtMb3Z4LXVWdnhTWkQyYV9oOE1qc1I3Y2pqcVluQTdZNkRpSzhCRU4tOXJMM3BUekViTm9JSnZsNDhvRWxMQnRJNndUX0lzRGRYUTBVdGhEdUMzWHRocDVJVktlQWFOSXFOTXJ0Skx2bDhrVkVaSnhaTmgyU0lqblkyNERDUndadGZ0NnBqVmFDd19FZFk3aGp3Ujl1Qk5BMEY3TVVzakQ?oc=5",
+    "content": "From fangirl to insider: Belgian strategist builds K-pop girl group's online presence long before debut Korea JoongAng Daily",
+    "published_at": "1110google-kpop",
+    "published_ts": 1794287754.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "比利时粉丝转型幕后策划，女团出道前已布局线上运营",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及一名比利时籍策划人从粉丝转为业内人士，为某K-pop女团在出道前构建线上影响力",
+      "原文未提及该女团名称、所属公司、出道时间及具体运营数据"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：一名比利时籍策划人从粉丝转型为业内人士，在某个K-pop女团出道前便为其打造线上影响力。]",
+    "extracted_at": "2026-11-10T20:02:30.705132+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "7 Must-Watch “GOING SEVENTEEN” Episodes For CARATs Who Need More Laughs",
+    "url": "https://www.soompi.com/article/1883069wpp/7-must-watch-going-seventeen-episodes-for-carats-who-need-more-laughs",
+    "content": "Calling all SEVENTEEN fans! It has been over two years since this last “GOING SEVENTEEN” must-watch list, and the group has uploaded plenty of fun and entertaining variety show episodes since then! With SEVENTEEN’s unique chemistry, hilarious antics, and endless creativity, there is no shortage of content to keep fans entertained. Whether you are a&#8230; Continue reading 7 Must-Watch &#8220;GOING SEVENTEEN&#8221; Episodes For CARATs Who Need More Laughs\nThe post 7 Must-Watch &#8220;GOING SEVENTEEN&#8221; Episodes For CARATs Who Need More Laughs appeared first on Soompi.",
+    "published_at": "1110soompi",
+    "published_ts": 1794285640.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "SEVENTEEN团综《GOING SEVENTEEN》7期必看爆笑特辑推荐",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文为Soompi发布的推荐列表文章，推荐7期《GOING SEVENTEEN》节目",
+      "文章称距离上次必看列表已过去两年多，期间SEVENTEEN上传了多期有趣综艺",
+      "原文未列出具体节目期数、播出日期或具体笑点内容"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：为需要更多欢笑的CARAT推荐7期必看《GOING SEVENTEEN》节目]",
+    "extracted_at": "2026-11-10T20:02:32.602950+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-pop glam marries Hollywood nostalgia in Press Play, Lisa’s new solo EP - t2ONLINE",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV1dfQ3ZGZmpRZG5Xb1F5UHZFeGdBZEpFTUFDZGx1NWx6YndhRjNpaUNac0Y5Z1hWVkstcU1lTS1VY2JnYkl6Ty05bXZ5R0cwd0pJcUpqWDdSRmY3U3gxNjB2aXA5X3d2VlV4Nk5TVmh3dGkwaG9HZEpOMlVlZ29Qd2FxWVVMeVIzdXRQYXdqeGFYaHN0UzZNM3BHTWVVZy1SRTBnZkFiT1FjT3RFSW5TNEh3?oc=5",
+    "content": "K-pop glam marries Hollywood nostalgia in Press Play, Lisa’s new solo EP t2ONLINE",
+    "published_at": "1110google-kpop",
+    "published_ts": 1794281400.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Lisa新个人EP《Press Play》融合K-pop魅力与好莱坞怀旧风",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及Lisa发行新个人EP《Press Play》",
+      "原文称该作品将K-pop魅力与好莱坞怀旧风格相结合",
+      "原文未提供发行日期、曲目列表、销量或榜单等具体信息"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：Lisa新个人EP《Press Play》将K-pop魅力与好莱坞怀旧风格相融合]",
+    "extracted_at": "2026-11-10T20:02:34.096964+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Park Min Young, Yook Sungjae, And Go Soo Put Their Heads Together At Work In “Nine To Six” Poster",
+    "url": "https://www.soompi.com/article/1885413wpp/park-min-young-yook-sungjae-and-go-soo-put-their-heads-together-at-work-in-nine-to-six-poster",
+    "content": "&#8220;Nine to Six&#8221; has released a charming new group poster! “Nine to Six” is a romance drama starring Park Min Young as Kang Ji Yi, a workaholic who has long put her love life on the back burner due to her intense focus on work. After meeting the thoughtful and warm-hearted Han Seon Woo (Yook&#8230; Continue reading Park Min Young, Yook Sungjae, And Go Soo Put Their Heads Together At Work In &#8220;Nine To Six&#8221; Poster\nThe post Park Min Young, Yook Sungjae, And Go Soo Put Their Heads Together At Work In &#8220;Nine To Six&#8221; Poster appeared first on Soompi.",
+    "published_at": "1110soompi",
+    "published_ts": 1794279491.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "朴敏英、陆星材、高洙新剧《Nine to Six》公开团体海报",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "朴敏英在剧中饰演姜智怡（Kang Ji Yi），是一个因专注工作而长期搁置感情生活的职场狂人",
+      "陆星材饰演温暖体贴的韩善宇（Han Seon Woo）",
+      "高洙也出演该剧，三人共同出现在公开的团体海报中",
+      "该剧为浪漫爱情题材，剧名为《Nine to Six》"
+    ],
+    "summary_zh": "韩剧《Nine to Six》公开了一张三人团体海报，主演朴敏英、陆星材和高洙一同亮相。朴敏英饰演因工作繁忙而忽视恋爱的职场狂人姜智怡，陆星材饰演温暖体贴的韩善宇，高洙的具体角色未在原文中说明。该剧是一部浪漫爱情剧。",
+    "extracted_at": "2026-11-10T20:02:35.993390+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Sung Hoon And Lee Jung Shin Leave Completely Opposite Impressions On Oh Se Young In “What A Boss Wants”",
+    "url": "https://www.soompi.com/article/1885423wpp/sung-hoon-and-lee-jung-shin-leave-completely-opposite-impressions-on-oh-se-young-in-what-a-boss-wants",
+    "content": "The upcoming drama “What a Boss Wants” has unveiled new stills ahead of its premiere! Based on a web novel, “What a Boss Wants” is a romance drama starring Sung Hoon as Kwon Do Hyuk, a chaebol boss with zero sense of taste who sets out to find a mysterious woman whose voice he heard&#8230; Continue reading Sung Hoon And Lee Jung Shin Leave Completely Opposite Impressions On Oh Se Young In &#8220;What A Boss Wants&#8221;\nThe post Sung Hoon And Lee Jung Shin Leave Completely Opposite Impressions On Oh Se Young In &#8220;What A Boss Wants&#8221; appeared first on Soompi.",
+    "published_at": "1110soompi",
+    "published_ts": 1794279146.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "成勋与李正信在《老板想要什么》中给吴世英留下截然相反的印象",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "成勋在剧中饰演财阀老板权道赫，味觉为零，寻找神秘女子",
+      "李正信饰演的角色与成勋角色形成对比，给吴世英留下相反印象",
+      "该剧改编自网络小说，即将首播"
+    ],
+    "summary_zh": "即将播出的韩剧《老板想要什么》公开了新剧照。该剧改编自网络小说，是一部浪漫爱情剧，成勋饰演味觉为零的财阀老板权道赫，他寻找一位听过其声音的神秘女子。李正信在剧中饰演另一角色，与成勋的角色给吴世英饰演的女主角留下截然相反的印象。",
+    "extracted_at": "2026-11-10T20:02:37.692707+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "P.O Strikes A Balance Between Jang Nara And Kim Hye Yoon In “Good Partner 2”",
+    "url": "https://www.soompi.com/article/1885404wpp/p-o-strikes-a-balance-between-jang-nara-and-kim-hye-yoon-in-good-partner-2",
+    "content": "P.O returns once again as a reliable supporter for Jang Nara in &#8220;Good Partner 2&#8221;! Following the success of Season 1, the new season of “Good Partner” depicts the cathartic divorce show that unfolds as Cha Eun Kyung (Jang Nara), a star lawyer for whom divorce is her calling, and Kang Hye Sung (Kim Hye&#8230; Continue reading P.O Strikes A Balance Between Jang Nara And Kim Hye Yoon In &#8220;Good Partner 2&#8221;\nThe post P.O Strikes A Balance Between Jang Nara And Kim Hye Yoon In &#8220;Good Partner 2&#8221; appeared first on Soompi.",
+    "published_at": "1110soompi",
+    "published_ts": 1794278519.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "P.O 在《好搭档2》中平衡张娜拉与金惠奫关系",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "P.O 在《好搭档2》中再次饰演张娜拉角色的可靠支持者",
+      "《好搭档》第二季讲述离婚专业明星律师车恩京（张娜拉饰）与姜惠星（金惠奫饰）展开的离婚故事"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：P.O 在《好搭档2》中平衡张娜拉与金惠奫的关系]",
+    "extracted_at": "2026-11-10T20:02:39.731251+08:00"
+  },
+  {
     "source_id": "soompi",
     "source_name": "Soompi",
     "l1_tab": "韩娱",
@@ -12,18 +613,18 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "金载英与Fantagio签订专属合约，开启全新出发",
+    "title_zh": "金载英与Fantagio签订专属合约",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
       "时间：11月10日",
       "主体：Fantagio",
-      "动作：Fantagio宣布与金载英签订专属合约",
-      "官方声明原文：'We signed an exclusive contract with Kim Jae Yeong. We will spare no effort in supporting Kim Jae Yeong, who has been building his filmography with stable acting skills and unique charm, so that he can fully showcase his…'"
+      "动作：宣布与金载英签订专属合约",
+      "声明内容：将不遗余力支持金载英，使其充分展现稳定的演技和独特魅力"
     ],
-    "summary_zh": "11月10日，Fantagio官方宣布与演员金载英签订专属合约。Fantagio表示，将不遗余力地支持凭借稳定演技和独特魅力积累作品履历的金载英，让他能够充分展现自己的潜力。",
-    "extracted_at": "2026-11-10T10:31:03.441445+08:00"
+    "summary_zh": "11月10日，Fantagio宣布与演员金载英签订专属合约。Fantagio表示，将不遗余力地支持金载英，让他能够充分展示自己稳定的演技和独特的魅力。金载英此前通过多部作品积累了扎实的影视履历。",
+    "extracted_at": "2026-11-10T20:02:41.130665+08:00"
   },
   {
     "source_id": "soompi",
@@ -38,18 +639,18 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《Between Steps》终映前创自身最高收视 《Love In Disguise》后半程高收视启航",
+    "title_zh": "《Between Steps》大结局前创自身最高收视 《Love In Disguise》后半程收视走高",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "ENA剧集《Between Steps》第11集于韩国播出，全国平均收视率为2.9%。",
-      "该收视率较前一集上升0.06个百分点，且该剧收视率已连续四集呈上升趋势。",
-      "《Between Steps》仅剩一集（第12集）即将终映。",
-      "《Love In Disguise》进入后半程，收视率表现强劲（原文未提供具体数据）。"
+      "《Between Steps》第11集全国平均收视率为2.9%，较前一集上升0.06个百分点",
+      "该剧收视率已连续四集上升",
+      "《Between Steps》仅剩一集（第12集）即将完结",
+      "《Love In Disguise》进入后半程，收视率表现强劲"
     ],
-    "summary_zh": "ENA剧集《Between Steps》在终映前收视持续走高，第11集全国平均收视率达到2.9%，较上一集上升0.06个百分点，实现连续四集上涨。该剧仅剩最后一集。同时，《Love In Disguise》进入后半程，收视率表现强劲。",
-    "extracted_at": "2026-11-10T10:31:05.794541+08:00"
+    "summary_zh": "据Nielsen Korea数据，ENA剧集《Between Steps》第11集全国平均收视率达2.9%，较上一集上升0.06个百分点，实现连续四集收视上涨，并在大结局前创下自身最高收视纪录。该剧仅剩最后一集。同时，《Love In Disguise》进入后半程，收视率保持高位。",
+    "extracted_at": "2026-11-10T20:02:43.020591+08:00"
   },
   {
     "source_id": "soompi",
@@ -64,19 +665,41 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "IU《Unknown Planet》MV创个人最快破亿纪录，用时1个月25天",
+    "title_zh": "IU《Unknown Planet》MV创个人最快破亿纪录",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "时间：2025年11月10日（原文未标注年份，按发布时间推断）",
-      "事件：IU数字单曲《Unknown Planet》MV在YouTube播放量突破1亿次",
-      "用时：约1个月25天（MV于9月16日发布）",
-      "纪录：这是IU第11支破亿MV，也是她最快破亿的MV",
-      "此前破亿MV包括：《Palette》《BBIBBI》等（原文列举部分）"
+      "2025年11月10日，IU数字单曲《Unknown Planet》MV在YouTube播放量突破1亿次",
+      "该MV于2025年9月16日发布，破亿用时约1个月25天",
+      "《Unknown Planet》是IU第11支播放量破亿的MV，此前破亿的MV包括《Palette》《BBIBBI》等"
     ],
-    "summary_zh": "IU的数字单曲《Unknown Planet》MV于11月10日突破1亿次观看，距离9月16日发布仅约1个月25天，成为她个人最快破亿的MV。这也是IU第11支观看量破亿的音乐视频，此前达成此成绩的包括《Palette》《BBIBBI》等。",
-    "extracted_at": "2026-11-10T10:31:08.379028+08:00"
+    "summary_zh": "IU的数字单曲《Unknown Planet》MV于11月10日突破1亿次播放，距离9月16日发布约1个月25天，成为她最快破亿的MV。这是IU第11支播放量破亿的MV，此前《Palette》《BBIBBI》等作品也已达成此里程碑。",
+    "extracted_at": "2026-11-10T20:02:44.679467+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "'Stray Kids' coming to Baltimore's M&T Bank Stadium next summer - WBAL-TV",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc3djX0IybmE2UVN3cU9PVWNCTTBqWGdreWd3Q1BHZ21FV3RHM19ZR2NpdjFoQnhNVjlPbHhyWXpiSE5hV2ttbUp5VzNMOWZjbzg2VTZ0VVA3dkdhVndmeUl2bk82Q0lNUF83Q2ZwM0wwNjUzRnU5RS0yYTlURmYyYS1VTmg2WG1NNUk0a1ZUejRpZw?oc=5",
+    "content": "'Stray Kids' coming to Baltimore's M&T Bank Stadium next summer WBAL-TV",
+    "published_at": "1110google-kpop",
+    "published_ts": 1794266460.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Stray Kids宣布明年夏季登陆巴尔的摩M&T银行体育场开唱",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "组合Stray Kids将于明年夏季在美国马里兰州巴尔的摩的M&T银行体育场（M&T Bank Stadium）举办演出",
+      "消息来源为WBAL-TV（巴尔的摩当地电视台）的报道"
+    ],
+    "summary_zh": "据WBAL-TV报道，韩国组合Stray Kids将于明年夏季在巴尔的摩M&T银行体育场举行演出。原文仅提及演出地点与大致时间，未公布具体日期、场次及票务信息。",
+    "extracted_at": "2026-11-10T20:02:46.866766+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -86,7 +709,7 @@
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdUlKWjF1VTV2dm1qUDRHSWYzb3gxdXVrbEMtNVRYOVRoajVzVW1NYTM1V2pjSkxHaEUzUFhKS2VWVmJsZU41WXFjT0FhcFlzZ3VrNGNYQ1JHYmRNTWZObkU1R0I3RGREcEpvZVVLbXljaGhTT2FaZUhCN0JIUlBxNnpMTlIzWFo4TGx1UzVBNFh0OEcyUlpPbEpnem1kbGVKUXVsbGc4czNIXzgwZmpDOUpNeVltcjAta2R4aTVSakR2S1FGLUZSTzUxNA?oc=5",
     "content": "Universal Pictures Content Group, Crosswalk acquire K-pop doc ‘Twice: This Is For… You’ Screen Daily",
     "published_at": "1110google-kpop",
-    "published_ts": 1794264116.0,
+    "published_ts": 1794265606.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
@@ -96,11 +719,11 @@
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "环球影业内容集团（Universal Pictures Content Group）与Crosswalk共同购得K-pop纪录片《Twice: This Is For… You》",
+      "环球影业内容集团（Universal Pictures Content Group）与Crosswalk共同收购了K-pop纪录片《Twice: This Is For… You》",
       "该消息由影视行业媒体Screen Daily报道"
     ],
-    "summary_zh": "据Screen Daily报道，环球影业内容集团与Crosswalk已共同购得K-pop纪录片《Twice: This Is For… You》的发行权。原文仅披露收购方与片名，未提及交易金额、发行地区、上线时间及纪录片具体内容。",
-    "extracted_at": "2026-11-10T10:31:10.344277+08:00"
+    "summary_zh": "据Screen Daily报道，环球影业内容集团与Crosswalk已共同收购K-pop纪录片《Twice: This Is For… You》。原文未披露交易金额、发行地区及上线时间等具体细节。",
+    "extracted_at": "2026-11-10T20:02:48.189276+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -120,10 +743,11 @@
     "risk_level": "中",
     "is_blurred": true,
     "facts_list": [
-      "原文仅提及韩国音乐产业相关行业组织（K-Pop Trade Org）针对NewJeans合约争议作出回应，未说明该组织具体名称、回应内容、发布时间及争议具体细节"
+      "原文仅提及韩国音乐产业相关行业组织（K-Pop Trade Org）针对NewJeans合约争议作出回应，未说明该组织具体名称、回应内容及发布时间",
+      "原文未提及NewJeans合约争议的具体事由、涉及方立场或任何数据细节"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：韩国音乐产业行业组织在NewJeans合约争议中作出反驳回应]",
-    "extracted_at": "2026-11-10T10:31:12.400756+08:00"
+    "extracted_at": "2026-11-10T20:02:50.467593+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -144,10 +768,10 @@
     "is_blurred": true,
     "facts_list": [
       "原文仅提及一支人气K-pop组合将前往美国奥兰多举办演唱会，并公布门票开售时间",
-      "原文未提及组合名称、具体演出日期、场馆名称及票价等细节"
+      "原文未提及组合名称、具体演出日期、场馆名称及门票价格等细节"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：一支人气K-pop组合将来到奥兰多，并公布了门票开售时间]",
-    "extracted_at": "2026-11-10T10:31:13.928251+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：人气K-pop组合将来到奥兰多，并公布门票开售时间]",
+    "extracted_at": "2026-11-10T20:02:52.024475+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -162,7 +786,7 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《KPop Demon Hunters》导演担任动画短片《Living With a Visionary》执行制片人",
+    "title_zh": "《KPop Demon Hunters》导演任动画短片《Living With a Visionary》执行制片人",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
@@ -171,7 +795,7 @@
       "消息来源为《好莱坞报道者》（The Hollywood Reporter）的独家报道"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters》导演担任动画短片《Living With a Visionary》执行制片人]",
-    "extracted_at": "2026-11-10T10:31:15.676745+08:00"
+    "extracted_at": "2026-11-10T20:02:53.249318+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -186,16 +810,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "克利夫兰艺术博物馆举办K-Pop混搭活动 现场照片公开",
+    "title_zh": "克利夫兰艺术博物馆举办K-Pop主题MIX活动 现场照片公开",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅提及克利夫兰艺术博物馆（CMA）举办名为“MIX: K-Pop Inferno”的活动并发布现场照片",
-      "原文未提及具体艺人、曲目、日期、参与人数或任何数据"
+      "原文仅提及克利夫兰艺术博物馆（CMA）举办名为MIX: K-Pop Inferno的活动并发布现场照片",
+      "原文未提及具体艺人、曲目、日期或参与人数等信息"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：克利夫兰艺术博物馆MIX: K-Pop Inferno活动照片]",
-    "extracted_at": "2026-11-10T10:31:17.261012+08:00"
+    "extracted_at": "2026-11-10T20:02:54.437206+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -210,17 +834,15 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《KPop Demon Hunters》与heyday联名系列Target第二波上新，更多限量周边与科技配件发售",
+    "title_zh": "Target 上架 KPop Demon Hunters x heyday 联名系列第二批限量周边",
     "source_type": "韩娱",
     "risk_level": "低",
-    "is_blurred": false,
+    "is_blurred": true,
     "facts_list": [
-      "《KPop Demon Hunters》与heyday合作推出联名系列，在Target销售",
-      "该联名系列第二波（drop 2）发售，新增更多限量版周边与科技配件",
-      "信息来源为ABC7 Los Angeles"
+      "原文仅提及 Target 上架 KPop Demon Hunters 与 heyday 联名系列第二批限量商品，未提供具体商品名称、价格、发售日期或销量数据"
     ],
-    "summary_zh": "据ABC7 Los Angeles报道，《KPop Demon Hunters》与heyday的联名系列在Target推出第二波（drop 2）发售，新增更多限量版周边商品与科技配件。原文未提及具体商品名称、价格或发售日期。",
-    "extracted_at": "2026-11-10T10:31:19.033906+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：Target 上架 KPop Demon Hunters x heyday 联名系列第二批限量周边与科技产品]",
+    "extracted_at": "2026-11-10T20:02:55.889326+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -235,63 +857,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Target 推出第二波《KPop Demon Hunters》联名系列，含整套游戏桌配置",
+    "title_zh": "Target 推出《KPop Demon Hunters》第二波联名商品，含整套游戏桌套装",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "Target 推出《KPop Demon Hunters》主题的第二波“heyday”联名商品",
-      "该系列商品包含一整套游戏桌配置"
+      "Target 推出《KPop Demon Hunters》第二波联名商品（heyday drop）",
+      "该系列商品包含一整套游戏桌（gaming desk）相关产品",
+      "原文来源为 The Gadgeteer，正文内容未提供更多细节"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：Target 推出第二波《KPop Demon Hunters》联名系列，包含整套游戏桌配置]",
-    "extracted_at": "2026-11-10T10:31:20.363091+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Song Review: KEYVITUP – NAGARI - https://thebiaslist.com/",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wanA1cno2SWsxYzJyZFByOTFuVUFjNVVpVFZ6YVozYWlXZ3o5Vm8waGNYLWxBSmZ1OWt1MDFqTTFyWXdzeE9vVUpkX3duT3lyREF5TWZoam95andJVUdnNU5pb3BHYU9xZGc0UHRYUzA?oc=5",
-    "content": "Song Review: KEYVITUP – NAGARI https://thebiaslist.com/",
-    "published_at": "1110google-kpop",
-    "published_ts": 1794240736.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "KEYVITUP 新曲《NAGARI》乐评",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "原文仅包含标题“Song Review: KEYVITUP – NAGARI”及来源链接 thebiaslist.com，未提供任何关于歌曲风格、发行时间、榜单成绩或艺人背景的具体信息"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：KEYVITUP 新曲《NAGARI》乐评]",
-    "extracted_at": "2026-11-10T10:31:22.039601+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Song Review: NCT Dream – Boogie Woogie - https://thebiaslist.com/",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9KTFZMTXI4WUlSaThwUkI0a0NqMFFCd2ktcG5PSzRRTkI2OU51cldFbmowWVB4YXZJcHRYTi0xMmFobWVockFFbjhtYkl0TDBtbE1QRU92OEg4NlRuUGpWdlNNamxmSWhUMTBsYmJybXo0OGJuVmVCTlVHTQ?oc=5",
-    "content": "Song Review: NCT Dream – Boogie Woogie https://thebiaslist.com/",
-    "published_at": "1110google-kpop",
-    "published_ts": 1794240605.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "NCT Dream 新曲《Boogie Woogie》乐评：The Bias List 发布单曲评测",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "The Bias List 网站发布了一篇针对 NCT Dream 歌曲《Boogie Woogie》的乐评文章",
-      "原文仅包含标题与链接，未提供乐评正文、评分、发行日期或榜单数据等具体信息"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：The Bias List 发布了对 NCT Dream 歌曲《Boogie Woogie》的乐评]",
-    "extracted_at": "2026-11-10T10:31:23.927894+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：Target 推出《KPop Demon Hunters》第二波联名商品，并打造了一整套游戏桌套装]",
+    "extracted_at": "2026-11-10T20:02:57.371642+08:00"
   },
   {
     "source_id": "asianwiki",
