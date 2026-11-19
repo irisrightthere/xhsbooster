@@ -1,26 +1,29 @@
 [
   {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
+    "source_id": "soompi",
+    "source_name": "Soompi",
     "l1_tab": "韩娱",
-    "title": "MoonDust forges dance-based community over K-pop - thewhitonline.com",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORUpNRFhZT3JvUW9BdEJYZUlMQVl2cmJRZ21ROTY5cHdWSE9uRE5PSXdvSDRBTWVsamlZS3BJSGxRajZHb0lfLVV0dnFEMHlNMklackc1d1RQamxHcndiZWdENXRycGZvOFFaVFBKa1dmZDdBemtTQkE0SWN3SmU3NGUtWFpwVGpScG5NS01hYmlEMEZTdlpxbTduOFJyMGpBV2c?oc=5",
-    "content": "MoonDust forges dance-based community over K-pop thewhitonline.com",
-    "published_at": "1119google-kpop",
-    "published_ts": 1795048868.0,
+    "title": "Watch: Joohoney, Jeongyeon, And More Get Lost On Their Way To Their Amsterdam Accommodations In “Just Human Friends”",
+    "url": "https://www.soompi.com/article/1888927wpp/watch-joohoney-jeongyeon-and-more-get-lost-on-their-way-to-their-amsterdam-accommodations-in-just-human-friends",
+    "content": "tvN’s upcoming variety show “Just Human Friends” has released a preview of its first episode! “Just Human Friends” follows three pairs of celebrity friends—Lee Seo Jin and Han Ji Min, Kim Yong Gun and Park Jung Soo, and MONSTA X’s Joohoney and TWICE’s Jeongyeon—as they travel together to celebrate their long-standing friendships. At their destination,&#8230; Continue reading Watch: Joohoney, Jeongyeon, And More Get Lost On Their Way To Their Amsterdam Accommodations In “Just Human Friends”\nThe post Watch: Joohoney, Jeongyeon, And More Get Lost On Their Way To Their Amsterdam Accommodations In “Just Human Friends” appeared first on Soompi.",
+    "published_at": "1119soompi",
+    "published_ts": 1795090226.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "MoonDust以K-pop舞蹈打造社群",
+    "title_zh": "tvN新综艺《Just Human Friends》预告：李瑞镇韩志旼等三对好友阿姆斯特丹迷路",
     "source_type": "韩娱",
     "risk_level": "低",
-    "is_blurred": true,
+    "is_blurred": false,
     "facts_list": [
-      "原文仅提及MoonDust通过K-pop舞蹈建立社群，未提供具体时间、地点、人物或数据"
+      "tvN即将播出的综艺节目《Just Human Friends》发布了首集预告",
+      "节目跟随三对明星好友：李瑞镇和韩志旼、金容建和朴贞秀、MONSTA X的Joohoney和TWICE的定延",
+      "他们一起旅行以庆祝长期友谊",
+      "在目的地阿姆斯特丹，他们迷路了"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：MoonDust通过K-pop舞蹈建立社群]",
-    "extracted_at": "2026-11-19T09:39:39.017894+08:00"
+    "summary_zh": "tvN新综艺《Just Human Friends》公开首集预告，节目记录三对明星好友——李瑞镇与韩志旼、金容建与朴贞秀、MONSTA X周宪与TWICE定延——为庆祝长久友谊而结伴旅行。在目的地阿姆斯特丹，他们寻找住宿时迷路，预告展现了这一过程。",
+    "extracted_at": "2026-11-19T20:26:19.746779+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -30,7 +33,7 @@
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNanJZMDRJdnNyZlR0cFFQQXgzNnNteDlsbUFqS3NOT0Y4aE5JeTNBMFZHV1RfbHR5SWZjaGtPTGw4dzBNNWZqVnVkem5OX1NCM0FEWHJjbU1BTFJmSFBiUjg3VlBnLWN2eDBZcUptcm0yd2VPZjgteVlWTXViX3ZSeDd4bzBUWm5qYUZr?oc=5",
     "content": "KPop Demon Hunters Announces Golden World Tour Dates — Here’s How to Get Tickets Netflix",
     "published_at": "1119google-kpop",
-    "published_ts": 1795047964.0,
+    "published_ts": 1795089424.0,
     "category": "韩娱",
     "source_lang": "en",
     "image_url": "",
@@ -41,10 +44,773 @@
     "is_blurred": true,
     "facts_list": [
       "Netflix 发布消息称《KPop Demon Hunters》公布 Golden 世界巡演日程",
-      "原文提及将说明购票方式，但未给出任何具体城市、日期或票务细节"
+      "原文提及将说明购票方式，但未给出具体场次、城市、日期或票务平台信息"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters》公布 Golden 世界巡演日程，并介绍购票方式]",
-    "extracted_at": "2026-11-19T09:39:41.060201+08:00"
+    "extracted_at": "2026-11-19T20:26:21.177315+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-pop agencies cautious as APEC trade breakthrough revives hopes of easing China curbs - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Gc0JCMWowdDhBWENDSWJsQ25kY3h1bmhoRk1TWnNkTzNzRlBfMjB0VGdTVWxWcnEyMmFwbGRQWjZkOTZkUlMzMlhaV051ZFgwWFdiQWp6cw?oc=5",
+    "content": "K-pop agencies cautious as APEC trade breakthrough revives hopes of easing China curbs The Korea Herald",
+    "published_at": "1119google-kpop",
+    "published_ts": 1795087668.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "APEC贸易突破重燃限韩令松绑希望，K-pop经纪公司持谨慎态度",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及APEC贸易突破重燃中国限制措施松绑的希望，K-pop经纪公司对此持谨慎态度",
+      "原文未提供具体时间、地点、涉及公司名称、数据或具名来源"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：APEC贸易突破重燃中国限制措施松绑的希望，K-pop经纪公司对此持谨慎态度]",
+    "extracted_at": "2026-11-19T20:26:22.826175+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "HUNTR/X announces 2027 ‘KPop Demon Hunters’ Golden World Tour - Big Country News |",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOakVQdnAyZkdjTDN4bmcxNllYenJpR2JvaTE2c3RSNVJWb1h1amJnall1bWFiLVNVeFpTaEV2d3hCbEkzRk5RQlozMkF0Wjl5a2lkN0NBYkJjTkhoT3A3TFl2T09ScnJ1TEJfdllSYWZxa1dnX1N4WXBtVEh4ZnlZekk3bzBkWU1xSlVCMmNWUDBheWRBemF6TEotX0RNaHg3V0JqNi1R?oc=5",
+    "content": "HUNTR/X announces 2027 ‘KPop Demon Hunters’ Golden World Tour Big Country News |",
+    "published_at": "1119google-kpop",
+    "published_ts": 1795087137.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "HUNTR/X 宣布 2027 年《KPop Demon Hunters》Golden 世界巡演",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "HUNTR/X 宣布将于 2027 年举办名为《KPop Demon Hunters》Golden World Tour 的世界巡演",
+      "消息来源为 Big Country News"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：HUNTR/X 宣布 2027 年《KPop Demon Hunters》Golden 世界巡演]",
+    "extracted_at": "2026-11-19T20:26:24.164003+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Crash 2: Fury Road – vehicular action K-drama returns with few surprises - South China Morning Post",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdmRrLUVDdTJ0YWl1NzU3V19ZcXNJdjgza0F2X0V2eTFscFMwTWg4NHFxOVhrVFF5akgyYWYwZjRhajF5RkZHQ3BDRkNTMXh6X3ZOU2ZwQjhBZ0U2MDl2c05KN2NNYkMyOFBzQUVyRkYwaVZQMXJGcnc0dTBIX21xVHRVNU91TWhQeTI2RVR3ZnNxc3JkRWpsVW5GczlzOTd1bmxlNWhJcm5feG5KRHZTOVJBX3BrMzlXVy1QSHhMSXRoZTR2bGc5VUFoeG8td1VheUpPWm1vajhuZw?oc=5",
+    "content": "Crash 2: Fury Road – vehicular action K-drama returns with few surprises South China Morning Post",
+    "published_at": "1119google-kpop",
+    "published_ts": 1795086905.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《Crash 2：愤怒之路》剧评：车辆动作韩剧回归，新意寥寥",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文为《南华早报》对韩剧《Crash 2: Fury Road》的剧评，标题指出该剧作为车辆动作题材韩剧回归，但缺乏新意",
+      "原文未提及具体播出时间、平台、演员阵容、收视数据或剧情细节"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：《Crash 2：愤怒之路》作为车辆动作题材韩剧回归，但新意寥寥]",
+    "extracted_at": "2026-11-19T20:26:25.810706+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Seol In Ah, Keum Sae Rok, Han Ji Hyeon, And Yeonwoo Take On Intense Short Track Speed Skating Training In “Iron Girls 3”",
+    "url": "https://www.soompi.com/article/1888921wpp/watch-seol-in-ah-keum-sae-rok-han-ji-hyeon-and-yeonwoo-take-on-intense-short-track-speed-skating-training-in-iron-girls-3",
+    "content": "With tvN’s “Iron Girls 3” set to premiere soon, the production team has unveiled a preview of the first episode and shared what viewers can look forward to this season! “Iron Girls 3” follows Seol In Ah, Keum Sae Rok, Han Ji Hyeon, and Yeonwoo as they take on the challenge of short track speed&#8230; Continue reading Watch: Seol In Ah, Keum Sae Rok, Han Ji Hyeon, And Yeonwoo Take On Intense Short Track Speed Skating Training In “Iron Girls 3”\nThe post Watch: Seol In Ah, Keum Sae Rok, Han Ji Hyeon, And Yeonwoo Take On Intense Short Track Speed Skating Training In “Iron Girls 3” appeared first on Soompi.",
+    "published_at": "1119soompi",
+    "published_ts": 1795085919.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《Iron Girls 3》公开首集预告 薛仁雅等四人挑战短道速滑训练",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "tvN综艺《Iron Girls 3》即将首播，制作组公开了首集预告",
+      "节目由薛仁雅、金赛纶、韩智贤、妍雨出演",
+      "本季节目中，四人将挑战短道速滑训练"
+    ],
+    "summary_zh": "tvN综艺《Iron Girls 3》即将首播，制作组公开了首集预告片。本季节目由薛仁雅、金赛纶、韩智贤和妍雨出演，她们将接受高强度的短道速滑训练。制作组还分享了本季的看点，引发观众期待。",
+    "extracted_at": "2026-11-19T20:26:27.919716+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "AIA gathers nearly 7,000 people across Asia for an exclusive K-Pop concert in Korea - Inquirer.net",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ1BOWnVuVXVLRVRCUEF6bGcyc05qaS1GNzZHU2l3a0NoRU5IR0hza3lHVVp6RjRqbE5qWnVKamkwTi00WUNzRkdoWkNnSUVuVlVFSlQzZ2QxVUN6dnVSdkc1Y3RabGhBZEJ5MmNTblp4MWlFM19VTG1wdTh3Y24yeU5Va2xEOVlpYU1sYVVnN3NsT0plNDFkaWFOckxxZjhCYm00SVhhY2FtY1luRlBqbkJHa2xsVmVhNXhj0gHAAUFVX3lxTE9BWGQ5Q3NmdFh5SW00YUpjNnl2eFNmUVpPenMxUTQ1UkNlRFVSR1FwX25MMm9Zc05XbUw2R0hVT2NRT2NuLWFNaS04TmhRa2QtMTRoZGtUZTQyMEQ5WGZ2c2JRVm9mMXQtMi1QaDBqT2VjeXNweTJrTW5BMkV0VjctWEJ2ZXRQdjY1amJfRVBiTGhtcGEyejMybHl5UHBYd0tWWUdRQXRVXzE5R3NmWVVjenpoZWxEOHMyaUljOEk4SA?oc=5",
+    "content": "AIA gathers nearly 7,000 people across Asia for an exclusive K-Pop concert in Korea Inquirer.net",
+    "published_at": "1119google-kpop",
+    "published_ts": 1795085700.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "友邦保险集结亚洲近7000人赴韩参加专属K-Pop演唱会",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "友邦保险（AIA）在韩国举办专属K-Pop演唱会",
+      "活动汇集来自亚洲各地近7000人",
+      "信息来源为Inquirer.net"
+    ],
+    "summary_zh": "据Inquirer.net报道，友邦保险（AIA）在韩国举办了一场专属K-Pop演唱会，共集结来自亚洲各地的近7000名参与者。原文未披露具体演出艺人、举办城市、日期及活动细节。",
+    "extracted_at": "2026-11-19T20:26:29.620920+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-pop China ban 2026: Hybe, SM, JYP eye return after thaw - Jing Daily",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaWNZcmV1Mzl2X01GSEU1R09fNlVGZ0RnRTEybTNFZVlZdGNfWlloNFE5b3d6MUFoLXVFYjAwUThzeWRIVHVUTWpkSFhZTndjaEhpZXQ0OWE4R0ZMb0lvNDVhMEZLdTFRcENDUUQ2SFpxQkItY2RmaVBnR2ZPSXNCV1BlVWJxZ2FfRFE?oc=5",
+    "content": "K-pop China ban 2026: Hybe, SM, JYP eye return after thaw Jing Daily",
+    "published_at": "1119google-kpop",
+    "published_ts": 1795085167.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "韩媒报道Hybe、SM、JYP拟借限韩令松动重返中国市场",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "Jing Daily 报道称，随着中韩关系出现缓和迹象，Hybe、SM、JYP 三大韩国娱乐公司正关注重返中国市场的机会",
+      "原文未提及具体回归时间表、演出场次、审批进展或任何官方声明"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：随着限韩令出现松动迹象，Hybe、SM、JYP 正着眼重返中国市场]",
+    "extracted_at": "2026-11-19T20:26:31.430739+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "BTS RM’s New Perm, Cardi B’s Space Bash, and KPop Demon Hunters’ Record-Breaking Chart Run - superhits106.com",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUURpNXEtV3hrV1p3bU5KdmFiWlJ4dkdSWVIyNVhMOE92TGNKajFYTGRGS1M2dDlqeFA4S3RMX3dNZkNrWGNVei02Wld1XzYtWXBna2pvQnhIM0RWalMycHFVRU41TjZsT3pzLXYxYjUzdDl4bmxiUUdUQWU2RlBjbzZDNG56enJyQks1UjVtaDlCYlJoYWRLdk56c1g1QzJLeUpEYUgxSk1talJjaTN4ZVQ4ZnNzQUN1UEFOOGdXSEMxYjVW?oc=5",
+    "content": "BTS RM’s New Perm, Cardi B’s Space Bash, and KPop Demon Hunters’ Record-Breaking Chart Run superhits106.com",
+    "published_at": "1119google-kpop",
+    "published_ts": 1795084875.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "BTS RM新烫发造型、Cardi B太空派对与KPop Demon Hunters破纪录榜单成绩",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及BTS成员RM的新烫发造型，未提供具体时间、地点或细节",
+      "原文仅提及Cardi B的太空主题派对，未提供具体时间、地点或细节",
+      "原文仅提及KPop Demon Hunters的破纪录榜单成绩，未提供具体榜单名称、排名或数据"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：BTS RM新烫发造型、Cardi B太空派对与KPop Demon Hunters破纪录榜单成绩]",
+    "extracted_at": "2026-11-19T20:26:33.182420+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "How to get KPop Demon Hunters tickets as Fan Club pre-sale goes live for Golden UK tour - Radio Times",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1TOHNsZVJ3enV3RjVadmN2ZjJXdkd4WkVyU3dDYnJET3NvYXJ1Vk5MREhQdTZQdUlZb2psMmRIazlfM0dvWVhJSVRuMWtRb0FsdXFGemNkQnZIMldTd1h6TjY5bzNpLS0ybDhwdEQ2d0RtWjRzdzhFVjVBZDQ?oc=5",
+    "content": "How to get KPop Demon Hunters tickets as Fan Club pre-sale goes live for Golden UK tour Radio Times",
+    "published_at": "1119google-kpop",
+    "published_ts": 1795083390.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "KPop Demon Hunters 英国巡演粉丝俱乐部预售开启，购票方式公布",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及 KPop Demon Hunters 的 Golden 英国巡演粉丝俱乐部预售已开启",
+      "原文未提供具体日期、场次、场馆、票价或预售时间等细节"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：KPop Demon Hunters 的 Golden 英国巡演粉丝俱乐部预售已开启，并介绍购票方式]",
+    "extracted_at": "2026-11-19T20:26:34.742314+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Yoon Kyun Sang Talks About His Complex Character, Action Preparations, And What Makes “Sacred Jewel” Special",
+    "url": "https://www.soompi.com/article/1888912wpp/yoon-kyun-sang-talks-about-his-complex-character-action-preparations-and-what-makes-sacred-jewel-special",
+    "content": "Yoon Kyun Sang has shared his thoughts on his upcoming JTBC drama “Sacred Jewel”! “Sacred Jewel” is set in 1258 during the Goryeo Dynasty, when the kingdom is on the brink of defeat after 30 years of war with Mongolia. The story follows the heroic fight of an expedition unit that sets out onto the&#8230; Continue reading Yoon Kyun Sang Talks About His Complex Character, Action Preparations, And What Makes “Sacred Jewel” Special\nThe post Yoon Kyun Sang Talks About His Complex Character, Action Preparations, And What Makes “Sacred Jewel” Special appeared first on Soompi.",
+    "published_at": "1119soompi",
+    "published_ts": 1795081409.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "尹均相谈《神圣的宝石》复杂角色与动作戏准备",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "尹均相分享了对JTBC新剧《神圣的宝石》的想法",
+      "《神圣的宝石》背景设定在1258年高丽王朝时期，当时高丽与蒙古战争30年后濒临战败",
+      "故事讲述了一支远征队的英勇战斗"
+    ],
+    "summary_zh": "尹均相分享了对JTBC新剧《神圣的宝石》的感想。该剧以1258年高丽王朝为背景，讲述高丽与蒙古战争30年后濒临战败，一支远征队展开英勇战斗的故事。尹均相在采访中谈及了自己饰演的复杂角色、动作戏的准备过程以及该剧的独特之处。",
+    "extracted_at": "2026-11-19T20:26:36.686619+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Sung Hoon Follows AI’s Advice To Win Oh Se Young’s Heart In “What A Boss Wants”",
+    "url": "https://www.soompi.com/article/1888838wpp/sung-hoon-follows-ais-advice-to-win-oh-se-youngs-heart-in-what-a-boss-wants",
+    "content": "“What a Boss Wants” has unveiled new stills ahead of its upcoming episode! Based on a web novel, “What a Boss Wants” is a romance drama starring Sung Hoon as Kwon Do Hyuk, a chaebol boss with zero sense of taste who sets out to find a mysterious woman whose voice he heard on an&#8230; Continue reading Sung Hoon Follows AI&#8217;s Advice To Win Oh Se Young&#8217;s Heart In &#8220;What A Boss Wants&#8221;\nThe post Sung Hoon Follows AI&#8217;s Advice To Win Oh Se Young&#8217;s Heart In &#8220;What A Boss Wants&#8221; appeared first on Soompi.",
+    "published_at": "1119soompi",
+    "published_ts": 1795079075.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "成勋《老板想要什么》新剧照：听从AI建议赢取吴世英芳心",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "成勋在《老板想要什么》中饰演权道赫，一个毫无品味、寻找神秘女子的财阀老板",
+      "吴世英饰演女主角，成勋角色将听从AI建议赢取她的心",
+      "该剧改编自网络小说，即将播出新一集，制作方发布了新剧照"
+    ],
+    "summary_zh": "韩剧《老板想要什么》在即将播出的新集前发布了新剧照。该剧改编自网络小说，是一部浪漫爱情剧，由成勋饰演权道赫——一个毫无品味、寻找神秘女子的财阀老板，吴世英饰演女主角。新剧照显示成勋听从AI建议，试图赢取吴世英的心。",
+    "extracted_at": "2026-11-19T20:26:38.854666+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "6 K-Dramas That Read Like A Romantasy Novel",
+    "url": "https://www.soompi.com/article/1887418wpp/6-k-dramas-that-read-like-a-romantasy-novel",
+    "content": "When the “romance” meets the “fantasy” in a show, it creates a whole different genre known as “romantasy.” Oftentimes, these stories take ordinary circumstances and turn them into epic journeys that feel like a defiance of every logical or human boundary, making the power of deities, supernatural beings, or even demons the most remarkable force&#8230; Continue reading 6 K-Dramas That Read Like A Romantasy Novel\nThe post 6 K-Dramas That Read Like A Romantasy Novel appeared first on Soompi.",
+    "published_at": "1119soompi",
+    "published_ts": 1795077313.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "6部如浪漫奇幻小说般的韩剧盘点",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文为Soompi发布的韩剧盘点文章，标题为《6 K-Dramas That Read Like A Romantasy Novel》",
+      "原文正文仅泛泛介绍“romantasy”类型（浪漫+奇幻），未列出具体6部剧名、演员、播出平台或数据"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：当“浪漫”与“奇幻”在剧中相遇，便催生出名为“romantasy”的独特类型，这类故事常将平凡境遇化为史诗旅程，让神明、超自然存在乃至恶魔的力量成为最引人注目的元素。]",
+    "extracted_at": "2026-11-19T20:26:39.974398+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: “New Recruit: Haunted Military Hospital” Soldiers Face Unexpected Horrors During Their Hospital Stay In New Film Teaser",
+    "url": "https://www.soompi.com/article/1888759wpp/watch-new-recruit-haunted-military-hospital-soldiers-face-unexpected-horrors-during-their-hospital-stay-in-new-film-teaser",
+    "content": "The upcoming film “New Recruit: Haunted Military Hospital” has unveiled its first teaser! “New Recruit: Haunted Military Hospital” follows a group of recruits who are admitted to a military hospital dreaming of a sweet respite, only to encounter horrifying rumors about the hospital they believed was paradise and set out to uncover its secrets. The&#8230; Continue reading Watch: “New Recruit: Haunted Military Hospital” Soldiers Face Unexpected Horrors During Their Hospital Stay In New Film Teaser\nThe post Watch: “New Recruit: Haunted Military Hospital” Soldiers Face Unexpected Horrors During Their Hospital Stay In New Film Teaser appeared first on Soompi.",
+    "published_at": "1119soompi",
+    "published_ts": 1795077131.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《新兵：鬼怪军医院》首曝预告：新兵住院遇恐怖传闻",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "电影《新兵：鬼怪军医院》发布首支预告片",
+      "剧情讲述一群新兵为寻求甜蜜休息而住进军医院，却遭遇关于这家被他们视为天堂的医院的恐怖传闻，并着手揭开其秘密"
+    ],
+    "summary_zh": "电影《新兵：鬼怪军医院》公开首支预告片。该片讲述一群新兵住进军医院，本以为能享受甜蜜休息，却遇到关于这家“天堂”医院的恐怖传闻，于是开始调查并揭开其秘密。",
+    "extracted_at": "2026-11-19T20:26:41.711666+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Dance the night away to K-pop hits in Santa Maria - Santa Maria Sun",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbm15X0lWVk1hTGJWUmdLS3dzVVpYb3kxMWYyXy1mMjhpSmwyRl9lUEJtbXFJcE5QV0ZoWFpta1RQRl9YRlJuZW1hSVN2d3VYaUJuc0dTNHdLQ0Z4YUstVmNmQU4wUEZEenByVktjTTF6LUZJazdCWl92SklRd0FKUU04cmFzVjBHd0FLaVZB?oc=5",
+    "content": "Dance the night away to K-pop hits in Santa Maria Santa Maria Sun",
+    "published_at": "1119google-kpop",
+    "published_ts": 1795075548.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "美国圣玛丽亚市举办K-pop热门歌曲舞蹈之夜活动",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "活动地点：美国加利福尼亚州圣玛丽亚市（Santa Maria）",
+      "活动内容：伴随K-pop热门歌曲跳舞的夜间活动",
+      "信息来源：当地媒体《Santa Maria Sun》报道"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：在圣玛丽亚伴随K-pop热门歌曲跳舞度过夜晚]",
+    "extracted_at": "2026-11-19T20:26:43.200050+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Ji Chang Wook And NCT WISH’s Sion Go On A Japan Trip Together In New Variety Show “Ojisan And The Flower Boy”",
+    "url": "https://www.soompi.com/article/1888878wpp/ji-chang-wook-and-nct-wishs-sion-go-on-a-japan-trip-together-in-new-variety-show",
+    "content": "Actor Ji Chang Wook and NCT WISH leader Sion are embarking on a trip to Japan together for a new travel variety show! On November 19, it was announced that “Ojisan and the Flower Boy,” an original travel variety show co-produced by SLL JAPAN and streaming platform TELASA, will premiere exclusively in Japan on December&#8230; Continue reading Ji Chang Wook And NCT WISH’s Sion Go On A Japan Trip Together In New Variety Show &#8220;Ojisan And The Flower Boy&#8221;\nThe post Ji Chang Wook And NCT WISH’s Sion Go On A Japan Trip Together In New Variety Show &#8220;Ojisan And The Flower Boy&#8221; appeared first on Soompi.",
+    "published_at": "1119soompi",
+    "published_ts": 1795075199.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "池昌旭与NCT WISH队长Sion合作新综艺《大叔与花美男》共赴日本旅行",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "2025年11月19日，宣布新旅行综艺《大叔与花美男》由SLL JAPAN与流媒体平台TELASA联合制作。",
+      "节目由演员池昌旭与NCT WISH队长Sion共同出演，两人将一起前往日本旅行。",
+      "该节目将于12月在日本独家首播。"
+    ],
+    "summary_zh": "11月19日，据宣布，由SLL JAPAN与流媒体平台TELASA联合制作的原创旅行综艺《大叔与花美男》将于12月在日本独家首播。演员池昌旭与NCT WISH队长Sion将共同出演，展开一段日本旅行。",
+    "extracted_at": "2026-11-19T20:26:45.276564+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Seo Hyun Jin Discovers A Shocking Secret In “The Perfect Lie”",
+    "url": "https://www.soompi.com/article/1888843wpp/seo-hyun-jin-discovers-a-shocking-secret-in-the-perfect-lie",
+    "content": "MBC’s “The Perfect Lie” has shared new stills from its upcoming episode! Helmed by “You and Everything Else” director Jo Young Min, “The Perfect Lie” is a psychological thriller in which a man and a woman offer completely opposite accounts of the same memory, clashing fiercely in their search for the truth. Notably, the drama&#8230; Continue reading Seo Hyun Jin Discovers A Shocking Secret In “The Perfect Lie”\nThe post Seo Hyun Jin Discovers A Shocking Secret In “The Perfect Lie” appeared first on Soompi.",
+    "published_at": "1119soompi",
+    "published_ts": 1795073879.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "徐玄振在《The Perfect Lie》中发现惊人秘密",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "剧集《The Perfect Lie》为MBC播出的心理惊悚剧，由导演赵英民（Jo Young Min）执导，其曾执导《You and Everything Else》",
+      "剧情设定：一名男子与一名女子对同一段记忆给出完全相反的陈述，在追寻真相的过程中激烈冲突",
+      "徐玄振在剧中发现一个惊人秘密（原文未说明秘密的具体内容）",
+      "原文为剧集新剧照及下集预告报道，未提供具体播出日期、收视率等数据"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：MBC心理惊悚剧《The Perfect Lie》公开下集新剧照，徐玄振在剧中发现一个惊人秘密。]",
+    "extracted_at": "2026-11-19T20:26:46.989554+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-pop dance — Unos Studio Hosts 2026 K-Pop Night in Santa Ana - The Korea Daily",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mY001NzAwN1liU1ZXWVNkUFpxeFRKdm5HT3YwRG55Q0dwVDJ5dUExRHhjeWNfdFZqRTRvbUxqeU5YeTRTVTZuWkt0ZjMxRnRlZkhRZFNlOE1xMzhrYUsyMG80eXRHdw?oc=5",
+    "content": "K-pop dance — Unos Studio Hosts 2026 K-Pop Night in Santa Ana The Korea Daily",
+    "published_at": "1119google-kpop",
+    "published_ts": 1795072535.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Unos Studio 将在圣安娜举办 2026 K-Pop Night 舞蹈活动",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "活动名称：2026 K-Pop Night",
+      "主办方：Unos Studio",
+      "地点：美国加利福尼亚州圣安娜（Santa Ana）",
+      "消息来源：《韩国日报》（The Korea Daily）报道"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：Unos Studio 将在圣安娜举办 2026 K-Pop Night]",
+    "extracted_at": "2026-11-19T20:26:48.658796+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kang Hoon And Lee Yi Dam’s Chemistry Blossoms After An Emotional Heart-To-Heart In “Happy Anding”",
+    "url": "https://www.soompi.com/article/1888834wpp/kang-hoon-and-lee-yi-dams-chemistry-blossoms-after-an-emotional-heart-to-heart-in-happy-anding",
+    "content": "“Happy Anding” has shared new stills ahead of its upcoming episode! “Happy Anding” is a coming-of-age drama about three comedians who have spent 10 years struggling to make a name for themselves. After encountering a mysterious woman, they set out to find new paths forward. Spoilers In the previous episode, Kang Tae Gu (Kang Hoon)&#8230; Continue reading Kang Hoon And Lee Yi Dam’s Chemistry Blossoms After An Emotional Heart-To-Heart In “Happy Anding”\nThe post Kang Hoon And Lee Yi Dam’s Chemistry Blossoms After An Emotional Heart-To-Heart In “Happy Anding” appeared first on Soompi.",
+    "published_at": "1119soompi",
+    "published_ts": 1795071762.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《Happy Anding》姜勋与李伊潭情感对话后默契升温",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "剧集《Happy Anding》是一部成长剧，讲述三位喜剧演员奋斗10年无名后，遇到神秘女子并寻找新方向的故事。",
+      "上一集中，姜泰九（姜勋 饰）……（原文此处截断，未提供具体情节）",
+      "制作方公开了姜勋与李伊潭在情感坦诚对话后的新剧照，展现两人默契互动。"
+    ],
+    "summary_zh": "韩剧《Happy Anding》公开了主演姜勋与李伊潭的最新剧照。该剧讲述三位喜剧演员奋斗十年无名后，因遇到神秘女子而寻找新方向。上一集中姜泰九（姜勋 饰）的故事线有所发展，最新剧照展示了姜勋与李伊潭角色在情感坦诚对话后的默契互动。",
+    "extracted_at": "2026-11-19T20:26:50.625011+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kim Shin Rock Transforms Into A Sports Agency CEO In New Drama “On Your Ground”",
+    "url": "https://www.soompi.com/article/1888776wpp/kim-shin-rock-transforms-into-a-sports-agency-ceo-in-new-drama-on-your-ground",
+    "content": "MBC’s upcoming drama “On Your Ground” has released its first stills of Kim Shin Rock in character! “On Your Ground” is a romance about baseball player Kang Hae Hwan (Gong Myoung) whose career comes to a halt after a single setback. After meeting former lawyer–turned agent Seo Hee Seung (Han Hyo Joo), he begins his&#8230; Continue reading Kim Shin Rock Transforms Into A Sports Agency CEO In New Drama “On Your Ground”\nThe post Kim Shin Rock Transforms Into A Sports Agency CEO In New Drama “On Your Ground” appeared first on Soompi.",
+    "published_at": "1119soompi",
+    "published_ts": 1795071096.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "金信禄新剧《On Your Ground》变身体育经纪公司CEO",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "MBC新剧《On Your Ground》公开金信禄角色剧照",
+      "金信禄在剧中饰演体育经纪公司CEO",
+      "该剧讲述棒球选手姜海焕（孔明饰）受挫后与前律师转行经纪人徐熙胜（韩孝周饰）相遇的故事"
+    ],
+    "summary_zh": "MBC新剧《On Your Ground》首次公开金信禄的剧照，他在剧中饰演体育经纪公司CEO。该剧是一部浪漫爱情剧，讲述棒球选手姜海焕（孔明饰）在经历一次挫折后职业生涯停滞，遇到前律师转行经纪人的徐熙胜（韩孝周饰）后重新开始的故事。",
+    "extracted_at": "2026-11-19T20:26:52.507901+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Riize airport incident reignites controversy over excessive security for K-pop stars - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByUDdkSzQ4Y3lOU0xNSTI4OWk4Tk5LUnNXZnhHX2EzenFSWG13WHJFYWN0WUl3S0pfS2lNcVRwZDhLY01kOGpSOUlRWEI2cjJDdmZKbkhEMA?oc=5",
+    "content": "Riize airport incident reignites controversy over excessive security for K-pop stars The Korea Herald",
+    "published_at": "1119google-kpop",
+    "published_ts": 1795070198.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Riize机场事件再引争议：K-pop明星过度安保问题受关注",
+    "source_type": "韩娱",
+    "risk_level": "中",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及Riize机场事件再次引发关于K-pop明星过度安保的争议，未提供具体时间、地点、涉事人员或事件细节",
+      "原文来源为《The Korea Herald》，未包含任何具体行为描述、官方声明或数据"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：Riize机场事件再次引发关于K-pop明星过度安保的争议]",
+    "extracted_at": "2026-11-19T20:26:54.113709+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "Why South Korea? BTS, skincare and K-drama, tourists say - Asia News Network",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVEc2WlNVVy15bWhZZEplWU1ySXdnMVhOaXZEbnJPRjFhZENoVVhVUmU2UmI3aDJIcUxnXzgzZ3Y1N0xPbENNb1ZHTjRQM2wzWmtBWGEwb3NoSDdlTHZ0aGloQjR5b2VTX21VY2pIRlV1cDdIOGNKQVJuMzEyT19mZnF2cWItZw?oc=5",
+    "content": "Why South Korea? BTS, skincare and K-drama, tourists say Asia News Network",
+    "published_at": "1119google-kpop",
+    "published_ts": 1795068919.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "外国游客赴韩动因调查：防弹少年团、护肤品与韩剧成三大吸引力",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "原文仅提及游客赴韩原因包括防弹少年团（BTS）、护肤品和韩剧三项，未提供调查机构、受访人数、具体数据或时间地点等细节"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：游客表示赴韩旅游的原因是防弹少年团、护肤品和韩剧]",
+    "extracted_at": "2026-11-19T20:26:55.896582+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Jang Nara, Kim Hye Yoon, P.O, And Park Hae Jin Share Key Words To Describe “Good Partner 2”",
+    "url": "https://www.soompi.com/article/1888789wpp/jang-nara-kim-hye-yoon-p-o-and-park-hae-jin-share-key-words-to-describe-good-partner-2",
+    "content": "Jang Nara, Kim Hye Yoon, P.O, and Park Hae Jin have shared what viewers should look forward to in the upcoming season of “Good Partner”! Following the success of Season 1, the new season of “Good Partner” depicts the cathartic divorce show that unfolds as Cha Eun Kyung (Jang Nara), a star lawyer for whom divorce&#8230; Continue reading Jang Nara, Kim Hye Yoon, P.O, And Park Hae Jin Share Key Words To Describe “Good Partner 2”\nThe post Jang Nara, Kim Hye Yoon, P.O, And Park Hae Jin Share Key Words To Describe “Good Partner 2” appeared first on Soompi.",
+    "published_at": "1119soompi",
+    "published_ts": 1795068440.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《好搭档2》主演张娜拉、金惠奫、P.O、朴海镇分享关键词",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "张娜拉、金惠奫、P.O、朴海镇四位演员分享了《好搭档2》的看点关键词",
+      "《好搭档》第一季取得成功后，第二季继续讲述明星离婚律师车恩京（张娜拉饰）的故事"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：张娜拉、金惠奫、P.O和朴海镇分享了观众在《好搭档》新一季中可以期待的内容]",
+    "extracted_at": "2026-11-19T20:26:57.359056+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Ok Ja Yeon Is Determined To Track Down Yoo Yeon Seok In “The Perfect Lie”",
+    "url": "https://www.soompi.com/article/1888777wpp/ok-ja-yeon-is-determined-to-track-down-yoo-yeon-seok-in-the-perfect-lie",
+    "content": "MBC’s “The Perfect Lie” has shared new stills from its upcoming episode! Helmed by “You and Everything Else” director Jo Young Min, “The Perfect Lie” is a psychological thriller in which a man and a woman offer completely opposite accounts of the same memory, clashing fiercely in their search for the truth. Notably, the drama&#8230; Continue reading Ok Ja Yeon Is Determined To Track Down Yoo Yeon Seok In “The Perfect Lie”\nThe post Ok Ja Yeon Is Determined To Track Down Yoo Yeon Seok In “The Perfect Lie” appeared first on Soompi.",
+    "published_at": "1119soompi",
+    "published_ts": 1795067291.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "玉子妍《完美的谎言》新剧照：誓要追查刘延锡",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "MBC 剧集《完美的谎言》发布新剧照，玉子妍饰演的角色决心追查刘延锡饰演的角色",
+      "该剧由《你和其余的一切》导演赵英民执导，是一部心理惊悚剧",
+      "剧情围绕一对男女对同一段记忆给出完全相反的说法，在寻找真相的过程中激烈冲突"
+    ],
+    "summary_zh": "MBC 心理惊悚剧《完美的谎言》发布最新剧照，玉子妍在剧中决心追查刘延锡。该剧由赵英民执导，讲述一对男女对同一段记忆各执一词、在追寻真相过程中激烈对峙的故事。",
+    "extracted_at": "2026-11-19T20:26:59.599500+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Kim Woo Bin Talks About Why He Chose To Star In “GIFT,” Role Preparation, And More",
+    "url": "https://www.soompi.com/article/1888639wpp/kim-woo-bin-talks-about-why-he-chose-to-star-in-gift-role-preparation-and-more",
+    "content": "Kim Woo Bin has shared his thoughts on his upcoming drama “GIFT”! Based on a popular webtoon, “GIFT” is a sports drama starring Kim Woo Bin as Jung Min Yong, a former professional baseball pitching coach. After an unexpected accident leads him to gain a special ability, Jung Min Yong winds up becoming the head&#8230; Continue reading Kim Woo Bin Talks About Why He Chose To Star In “GIFT,” Role Preparation, And More\nThe post Kim Woo Bin Talks About Why He Chose To Star In “GIFT,” Role Preparation, And More appeared first on Soompi.",
+    "published_at": "1119soompi",
+    "published_ts": 1795066611.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "金宇彬谈出演新剧《GIFT》原因及角色准备",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "金宇彬分享了对即将播出剧集《GIFT》的想法",
+      "《GIFT》改编自人气网络漫画，是一部体育题材剧集",
+      "金宇彬饰演前职业棒球投手教练郑敏勇（音译）",
+      "郑敏勇因意外事故获得特殊能力，成为主教练"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：金宇彬分享了对新剧《GIFT》的出演原因和角色准备的想法]",
+    "extracted_at": "2026-11-19T20:27:01.245246+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-pop stocks rally on hopes of China's ease on Hallyu ban - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yaUdRNkxUSURJaVktMHlEMGFCY2RUYlQwT0dmWXRsUE5fY081dE8zdU4wLWpfT3p3UWRfUkhRMW1MYVEzZ244SDZpcHZnQ2J0S3B4elpxUQ?oc=5",
+    "content": "K-pop stocks rally on hopes of China's ease on Hallyu ban The Korea Herald",
+    "published_at": "1119google-kpop",
+    "published_ts": 1795066581.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "韩媒报道K-pop相关股因中国或放宽限韩令预期上涨",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "《韩国先驱报》（The Korea Herald）报道称，K-pop相关股票因市场对中国放宽“限韩令”（Hallyu ban）抱有期待而上涨",
+      "原文未提及具体涨幅数据、涉及的具体公司名称、消息来源或中国官方表态"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：K-pop stocks rally on hopes of China's ease on Hallyu ban（K-pop相关股票因中国放宽限韩令的预期而上涨）]",
+    "extracted_at": "2026-11-19T20:27:03.012590+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Bae Doona, Lomon, And More Welcome Park Byung Eun To The Family In “Family Matters 2”",
+    "url": "https://www.soompi.com/article/1888678wpp/bae-doona-lomon-and-more-welcome-park-byung-eun-to-the-family-in-family-matters-2",
+    "content": "“Family Matters 2” has unveiled the first look at its main cast! “Family Matters” tells the story of a mother with the special ability to freely edit people’s memories. Using her powers, she teams up with her family to wreak havoc on bad guys. In Season 2, Young Soo’s (Bae Doona) family, who moves to&#8230; Continue reading Bae Doona, Lomon, And More Welcome Park Byung Eun To The Family In “Family Matters 2”\nThe post Bae Doona, Lomon, And More Welcome Park Byung Eun To The Family In “Family Matters 2” appeared first on Soompi.",
+    "published_at": "1119soompi",
+    "published_ts": 1795065802.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《家族计划2》首曝主演阵容：裴斗娜、Lomon等欢迎朴炳垠加入",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "剧集《家族计划2》公开了主要演员阵容的首次剧照",
+      "《家族计划》讲述一位拥有自由编辑他人记忆能力的母亲与家人联手对付坏人的故事",
+      "第二季中，裴斗娜饰演的英秀（Young Soo）一家搬迁，具体地点原文未完整提及",
+      "主演包括裴斗娜、Lomon、朴炳垠等"
+    ],
+    "summary_zh": "韩剧《家族计划2》首次公开主演阵容，裴斗娜、Lomon等原班人马回归，朴炳垠新加入。该剧讲述一位能编辑他人记忆的母亲与家人联手打击坏人的故事。第二季中，裴斗娜饰演的英秀一家将搬迁，具体情节尚未披露。",
+    "extracted_at": "2026-11-19T20:27:05.647968+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Lee Jin Uk Finds Himself Confronting His Heartbreak In New Film “Seven O’Clock Breakfast Club For The Brokenhearted”",
+    "url": "https://www.soompi.com/article/1888658wpp/lee-jin-uk-finds-himself-confronting-his-heartbreak-in-new-film-seven-oclock-breakfast-club-for-the-brokenhearted",
+    "content": "Upcoming film “Seven O’Clock Breakfast Club for the Brokenhearted” has unveiled new stills featuring Lee Jin Uk! Based on a 2012 novel, the film tells the story of flight attendant Sa Gang (Suzy) and consultant Ji Hoon (Lee Jin Uk), who come together at a breakfast meeting for people dealing with heartbreak. At this gathering,&#8230; Continue reading Lee Jin Uk Finds Himself Confronting His Heartbreak In New Film “Seven O’Clock Breakfast Club For The Brokenhearted”\nThe post Lee Jin Uk Finds Himself Confronting His Heartbreak In New Film “Seven O’Clock Breakfast Club For The Brokenhearted” appeared first on Soompi.",
+    "published_at": "1119soompi",
+    "published_ts": 1795063479.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "李阵郁新片《七点早餐俱乐部》剧照公开，饰演心碎顾问",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "电影《七点早餐俱乐部》改编自2012年小说，讲述空乘莎江（秀智饰）与顾问智勋（李阵郁饰）在治愈心碎的早餐聚会上相遇的故事",
+      "李阵郁在片中饰演顾问智勋，最新剧照展现其面对心碎的情感"
+    ],
+    "summary_zh": "即将上映的电影《七点早餐俱乐部》公开了李阵郁的新剧照。该片改编自2012年小说，讲述空乘莎江（秀智饰）与顾问智勋（李阵郁饰）在专为心碎人士举办的早餐聚会上相遇的故事。李阵郁饰演的智勋在聚会上直面自己的情感创伤。",
+    "extracted_at": "2026-11-19T20:27:07.939579+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Shin Min Ah, Ju Ji Hoon, Lee Jong Suk, And Lee Se Young Show Playful Chemistry On Set Of “The Remarried Empress”",
+    "url": "https://www.soompi.com/article/1888729wpp/watch-shin-min-ah-ju-ji-hoon-lee-jong-suk-and-lee-se-young-show-playful-chemistry-on-set-of-the-remarried-empress",
+    "content": "&#8220;The Remarried Empress&#8221; has released a new making-of video for episodes 5 and 6! The behind-the-scenes video begins with Lee Jong Suk picking a rose amongst the flower, paying attention to the meaning behind the props. The actor further impresses the set with his horseback riding skills, even stopping and jumping off with ease. He&#8230; Continue reading Watch: Shin Min Ah, Ju Ji Hoon, Lee Jong Suk, And Lee Se Young Show Playful Chemistry On Set Of &#8220;The Remarried Empress&#8221;\nThe post Watch: Shin Min Ah, Ju Ji Hoon, Lee Jong Suk, And Lee Se Young Show Playful Chemistry On Set Of &#8220;The Remarried Empress&#8221; appeared first on Soompi.",
+    "published_at": "1119soompi",
+    "published_ts": 1795057345.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "《再婚皇后》公开李钟硕等主演花絮视频",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "《再婚皇后》第5、6集幕后花絮视频公开",
+      "李钟硕在花丛中挑选玫瑰，并关注道具含义",
+      "李钟硕展示骑马技巧，轻松停下并跳下马"
+    ],
+    "summary_zh": "《再婚皇后》制作方发布了第5、6集的幕后花絮视频。视频中，李钟硕在花丛中挑选玫瑰，并留意道具的象征意义，还展示了娴熟的骑马技术，轻松停下并跳下马背。申敏儿、朱智勋、李钟硕、李世荣等主演在片场展现了愉快的互动。",
+    "extracted_at": "2026-11-19T20:27:10.063891+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Lee Min Ho And Park Gyu Young Confirmed For New Office Rom-Com Drama",
+    "url": "https://www.soompi.com/article/1888641wpp/lee-min-ho-and-park-gyu-young-confirmed-for-new-office-rom-com-drama",
+    "content": "Lee Min Ho and Park Gyu Young will star in a new rom-com drama together! On November 19, SBS announced that Lee Min Ho and Park Gyu Young have been confirmed for the upcoming drama &#8220;Virtual Love&#8221; (working title). &#8220;Virtual Love&#8221; is an office romantic comedy that begins with the bold premise: &#8220;What if the&#8230; Continue reading Lee Min Ho And Park Gyu Young Confirmed For New Office Rom-Com Drama\nThe post Lee Min Ho And Park Gyu Young Confirmed For New Office Rom-Com Drama appeared first on Soompi.",
+    "published_at": "1119soompi",
+    "published_ts": 1795056038.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "李敏镐与朴圭瑛确认出演SBS新办公室浪漫喜剧《Virtual Love》",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "11月19日，SBS官方宣布李敏镐与朴圭瑛确认出演新剧《Virtual Love》（暂定名）。",
+      "《Virtual Love》是一部办公室浪漫喜剧，以‘如果…’的大胆设定展开（原文未完整表述具体设定）。"
+    ],
+    "summary_zh": "11月19日，SBS宣布李敏镐和朴圭瑛确定出演新剧《Virtual Love》（暂定名）。该剧是一部办公室浪漫喜剧，剧情始于一个大胆的假设：‘如果…’（原文未完整说明具体假设内容）。",
+    "extracted_at": "2026-11-19T20:27:11.700381+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "“Physical: Asia” Confirms Plans For Season 2",
+    "url": "https://www.soompi.com/article/1888672wpp/physical-asia-confirms-plans-for-season-2",
+    "content": "Netflix&#8217;s popular variety show &#8220;Physical: Asia&#8221; is returning for a second season! On November 19, Netflix announced that &#8220;Physical: Asia 2 &#8211; Unbroken&#8221; will be released in 2027. Following the format of the first season, it will continue as an international competition where athletes from various Asian countries compete with their nation&#8217;s honor on the&#8230; Continue reading &#8220;Physical: Asia&#8221; Confirms Plans For Season 2\nThe post &#8220;Physical: Asia&#8221; Confirms Plans For Season 2 appeared first on Soompi.",
+    "published_at": "1119soompi",
+    "published_ts": 1795055888.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "Netflix《Physical: Asia》确定制作第二季，2027年上线",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "11月19日，Netflix官方宣布《Physical: Asia 2 – Unbroken》将于2027年上线",
+      "第二季延续第一季模式，为亚洲各国运动员以国家荣誉为赌注展开的国际竞技综艺"
+    ],
+    "summary_zh": "Netflix于11月19日宣布，人气综艺《Physical: Asia》将推出第二季，副标题为“Unbroken”，计划于2027年上线。第二季将延续第一季的形式，继续作为国际竞技节目，由来自亚洲各国的运动员代表本国荣誉展开比拼。",
+    "extracted_at": "2026-11-19T20:27:13.494295+08:00"
+  },
+  {
+    "source_id": "soompi",
+    "source_name": "Soompi",
+    "l1_tab": "韩娱",
+    "title": "Watch: Park Min Young Begins To Rely On Yook Sungjae In “Nine To Six” Teaser",
+    "url": "https://www.soompi.com/article/1888640wpp/watch-park-min-young-begins-to-rely-on-yook-sungjae-in-nine-to-six-teaser",
+    "content": "SBS&#8217;s upcoming drama &#8220;Nine to Six&#8221; has unveiled a new teaser for the first episode! “Nine to Six” is a romance drama starring Park Min Young as Kang Yi Ji, a workaholic who has long put her love life on the back burner due to her intense focus on work. After meeting the thoughtful and&#8230; Continue reading Watch: Park Min Young Begins To Rely On Yook Sungjae In &#8220;Nine To Six&#8221; Teaser\nThe post Watch: Park Min Young Begins To Rely On Yook Sungjae In &#8220;Nine To Six&#8221; Teaser appeared first on Soompi.",
+    "published_at": "1119soompi",
+    "published_ts": 1795054634.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "朴敏英新剧《Nine to Six》首版预告公开 与陆星材依赖关系初现",
+    "source_type": "韩剧",
+    "risk_level": "低",
+    "is_blurred": false,
+    "facts_list": [
+      "SBS 新剧《Nine to Six》公开首集预告",
+      "朴敏英饰演工作狂姜智智（Kang Yi Ji），因专注工作长期搁置恋爱",
+      "陆星材饰演体贴角色，预告中展现姜智智开始依赖他的情节"
+    ],
+    "summary_zh": "SBS 新剧《Nine to Six》公开首集预告。该剧为浪漫爱情剧，朴敏英饰演工作狂姜智智，因长期专注工作而忽视恋爱。在遇到体贴的陆星材角色后，姜智智开始逐渐依赖他。预告片展示了这一关系发展的开端。",
+    "extracted_at": "2026-11-19T20:27:15.370987+08:00"
+  },
+  {
+    "source_id": "google-kpop",
+    "source_name": "Google News",
+    "l1_tab": "韩娱",
+    "title": "K-Pop Giants Position for China Return After Decade-Long Freeze - Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTHlac1BkN2gxdmlUMFlUbGNZTHZwb3pLbWxrYm9obzRvNGZ5UVNKMjlTRlNzUkQ1RU9BeXpzZk95emIycktoVHdIa3BzYTdCMDFZQkIwOWE4YkwxTjlkc3FyVlNDWlBiR1dzZExUWkJQQU0xb1EyUWF4aEZJWFktcXFSdVE4NmhOdXpyZkxmZk1XNldWMU8xS2xfQkVYdUR5dlVFSnVZVTExOTByQjhhLUlrLXc?oc=5",
+    "content": "K-Pop Giants Position for China Return After Decade-Long Freeze Bloomberg.com",
+    "published_at": "1119google-kpop",
+    "published_ts": 1795053720.0,
+    "category": "韩娱",
+    "source_lang": "en",
+    "image_url": "",
+    "is_new": true,
+    "title_zh": "K-Pop巨头布局重返中国市场，结束长达十年冻结期",
+    "source_type": "韩娱",
+    "risk_level": "低",
+    "is_blurred": true,
+    "facts_list": [
+      "彭博社报道称K-Pop巨头正为重返中国市场做准备",
+      "报道提及中国市场经历了长达十年的冻结期"
+    ],
+    "summary_zh": "[原文未提及具体行为，仅称：K-Pop巨头在长达十年的冻结期后正为重返中国市场布局]",
+    "extracted_at": "2026-11-19T20:27:16.812267+08:00"
   },
   {
     "source_id": "soompi",
@@ -59,19 +825,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "《What A Boss Wants》与《Happy Anding》第3集收视率双双下滑",
+    "title_zh": "MBN《What A Boss Wants》与tvN《Happy Anding》第3集收视率双双下滑",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "时间：11月18日（周三）",
-      "主体：MBN《What A Boss Wants》与tvN《Happy Anding》",
-      "事件：两剧第3集收视率均小幅下降",
-      "数据：据Nielsen Korea，《What A Boss Wants》全国平均收视率为0.9%",
-      "数据：《Happy Anding》收视率下降至（原文截断，未提供具体数字）"
+      "11月18日，MBN《What A Boss Wants》第3集全国平均收视率为0.9%，较前集小幅下降",
+      "11月18日，tvN《Happy Anding》第3集收视率亦出现下滑（原文未提供具体数值）",
+      "收视数据来源为尼尔森韩国（Nielsen Korea）"
     ],
-    "summary_zh": "11月18日周三档韩剧收视竞争激烈，MBN《What A Boss Wants》与tvN《Happy Anding》第3集收视率均较前集小幅下滑。据Nielsen Korea数据，《What A Boss Wants》全国平均收视率为0.9%，《Happy Anding》收视率亦下降（原文未给出具体数值）。",
-    "extracted_at": "2026-11-19T09:39:43.907432+08:00"
+    "summary_zh": "11月18日，MBN剧集《What A Boss Wants》与tvN剧集《Happy Anding》第3集收视率均较前集下滑。据尼尔森韩国数据，《What A Boss Wants》全国平均收视率为0.9%，《Happy Anding》收视率亦下降，但原文未给出具体数字。两部剧的周三档收视竞争依然胶着。",
+    "extracted_at": "2026-11-19T20:27:18.606000+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -91,35 +855,10 @@
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅提及《KPop Demon Hunters》粉丝可在巡演中看到HUNTR/X，未提供巡演时间、地点、场次等具体信息"
+      "原文仅提及《KPop Demon Hunters》粉丝可观看HUNTR/X巡演，未提供巡演时间、地点、场次等具体信息"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters》粉丝可在巡演中看到HUNTR/X]",
-    "extracted_at": "2026-11-19T09:39:45.559757+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Chicago woman says she dated a Kpop idol until she discovered his'roster - The Mary Sue",
-    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQRnZhRjlFYS1VT1k1QWlvZXRUR29PcTZBM2R2UVgyU2ZFb3JPeHNnVkNLZHB2U3d0S2xUZXNUSFJzTk52X2YwUlJNaDZ1UXJlbnBLbW9EX1VDSDJaMmU4ZnJrcHJXd1VQYnY3TkRSMGFDLWpuNWRvVkNuUngxNGZMdTVKNEpJTEhqUmIxUWJYcjJhTmxJUUlrTS1zWndVb2FWR2VDS1BXdjFPeXVmVDVYangzWnltalZSV0RDLTlIZFNpR1JvMjUtUnBmMHBjTUJWREVmckdjQV9sbE5ac085clpGYlVTeGJqa0FsX3MyWnZVOTNmTmpVYVQ0bkZjeGJsalNz?oc=5",
-    "content": "Chicago woman says she dated a Kpop idol until she discovered his'roster The Mary Sue",
-    "published_at": "1119google-kpop",
-    "published_ts": 1795041000.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "芝加哥女子称与K-pop偶像交往后发现其“名单”",
-    "source_type": "韩娱",
-    "risk_level": "中",
-    "is_blurred": true,
-    "facts_list": [
-      "原文仅称一名芝加哥女子表示曾与一名K-pop偶像交往，后发现其“名单”（roster）",
-      "原文未提及该偶像姓名、所属组合、交往时间、地点及“名单”具体内容",
-      "原文来源为娱乐媒体The Mary Sue"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：一名芝加哥女子称她曾与一名K-pop偶像交往，直到发现他的“名单”（roster）。]",
-    "extracted_at": "2026-11-19T09:39:47.747563+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：《KPop Demon Hunters》粉丝可以观看HUNTR/X巡演]",
+    "extracted_at": "2026-11-19T20:27:19.982431+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -134,16 +873,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "HYBE与CAA结盟：或将永久改变K-pop在好莱坞的地位",
+    "title_zh": "HYBE与CAA结盟：或将永久改变K-pop在好莱坞地位的联盟",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文仅提及HYBE与CAA（创新艺人经纪公司）结盟，称该合作可能改变K-pop在好莱坞的地位",
-      "原文未提供结盟的具体时间、地点、合作条款、涉及艺人或业务范围等细节"
+      "原文仅提及HYBE与CAA（创新艺人经纪公司）结盟，称该联盟可能改变K-pop在好莱坞的地位",
+      "原文未提供结盟时间、具体合作内容、涉及艺人或交易金额等细节"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：HYBE与CAA的结盟可能永久改变K-pop在好莱坞的地位]",
-    "extracted_at": "2026-11-19T09:39:49.951818+08:00"
+    "extracted_at": "2026-11-19T20:27:21.343613+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -163,11 +902,11 @@
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "《韩国先驱报》报道称，首尔方面认为限韩令出现放宽迹象",
-      "报道指出，K-Pop演唱会相关限制属于另一层面的问题，尚未松动"
+      "《韩国先驱报》报道称，首尔方面认为限韩令（Hallyu ban）出现放宽迹象",
+      "报道指出，K-Pop演唱会相关限制仍属另一回事，未提及具体放宽措施或时间表"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：首尔方面认为限韩令正在放宽，但K-Pop演唱会仍属另一回事]",
-    "extracted_at": "2026-11-19T09:39:52.226673+08:00"
+    "extracted_at": "2026-11-19T20:27:22.973875+08:00"
   },
   {
     "source_id": "soompi",
@@ -182,18 +921,18 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "11月韩剧品牌声誉排名公布，《100天的谎言》登顶",
+    "title_zh": "11月韩剧品牌声誉排行榜公布，《100天的谎言》登顶",
     "source_type": "韩剧",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "韩国企业评价研究所公布了11月韩剧品牌声誉排名",
-      "排名基于对21部热门剧集的大数据分析，分析指标包括消费者参与、媒体报道、互动、社区认知和收视率",
+      "韩国企业声誉研究所公布11月韩剧品牌声誉排行榜",
+      "排名基于对21部热门剧集的消费者参与、媒体报道、互动、社区认知和收视指数分析",
       "数据收集时间为10月12日至11月12日",
       "《100天的谎言》位列本月榜单第一"
     ],
-    "summary_zh": "韩国企业评价研究所公布了11月韩剧品牌声誉排名，该排名通过分析10月12日至11月12日期间收集的大数据，对21部热门剧集的消费者参与、媒体报道、互动、社区认知和收视率等指标进行评估。《100天的谎言》在本月榜单中排名第一。",
-    "extracted_at": "2026-11-19T09:39:54.788228+08:00"
+    "summary_zh": "韩国企业声誉研究所公布了11月韩剧品牌声誉排行榜，该排名通过分析10月12日至11月12日期间收集的大数据，对21部热门剧集的消费者参与、媒体报道、互动、社区认知和收视指数进行评估。《100天的谎言》登顶本月榜单。",
+    "extracted_at": "2026-11-19T20:27:24.618765+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -213,11 +952,11 @@
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "Complex 发布\"历代最佳着装男 K-pop 偶像\"排名榜单",
-      "原文未列出具体上榜艺人姓名、名次或评选标准"
+      "Complex 发布了一份名为“Best Dressed Male K-Pop Idols of All Time, Ranked”的榜单",
+      "原文未提及具体上榜偶像姓名、排名顺序、评选标准或发布时间"
     ],
-    "summary_zh": "[原文未提及具体行为，仅称：Complex 评选出历代最佳着装男 K-pop 偶像并进行了排名]",
-    "extracted_at": "2026-11-19T09:39:56.368242+08:00"
+    "summary_zh": "[原文未提及具体行为，仅称：Complex 评选历代最佳着装男 K-pop 偶像榜单]",
+    "extracted_at": "2026-11-19T20:27:26.057979+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -232,42 +971,17 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "Gap牛仔裤广告播放8000万次的韩女团：成员称“这感觉不对”，试探K-pop机器极限",
+    "title_zh": "Gap牛仔裤广告播放8000万次的韩女团：成员称“这感觉不对”",
     "source_type": "韩娱",
     "risk_level": "中",
     "is_blurred": false,
     "facts_list": [
-      "原文标题提及：某韩国女团为Gap拍摄的牛仔裤广告获得8000万次播放",
-      "原文标题引述该女团成员表态：“This doesn’t feel right to me”（这让我感觉不对）",
-      "原文标题称该事件正在试探K-pop产业机制的极限",
-      "原文正文内容缺失，未提供组合名称、成员姓名、广告发布时间、具体争议行为或所属社回应"
+      "Gap品牌牛仔裤广告累计播放量达8000万次，出镜女团为该广告的表演主体",
+      "该女团成员就相关事件表态称“This doesn’t feel right to me”（这让我感觉不对）",
+      "原文来源为《Fortune》（财富）杂志报道，讨论K-pop产业机制的运作边界"
     ],
-    "summary_zh": "据《Fortune》标题信息，某韩国女团为Gap拍摄的牛仔裤广告累计获得8000万次播放，但组合成员公开表示“这让我感觉不对”，文章称此事正在试探K-pop产业机制的极限。原文正文未提供组合名称、成员身份、具体争议行为及所属社回应等细节。",
-    "extracted_at": "2026-11-19T09:39:59.488502+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "EJAE Talks Life After ‘KPop Demon Hunters’ Success, New Holiday Song and Gap Studio Campaign - Us Weekly",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPS1hfTFh4Sk9nOE1EemlobGRlcUtfM2t1eTY5V2RyS0lOel9Yb010azd6WG1JVmFoZ2hROS1xOWFfX093ZUtSYUd3Rm8tMDN0R1dWcVBxNGtRZ2xzZ0tnWFFEN0J1NkF3c24wdXF1MGpRMU9scXFzS3lxSEZfdlpXWF9CNnAxQnpWcUc2cUFnaWpqZld6NWdMNEwyY3RBWnlaa2w3MWd3?oc=5",
-    "content": "EJAE Talks Life After ‘KPop Demon Hunters’ Success, New Holiday Song and Gap Studio Campaign Us Weekly",
-    "published_at": "1119google-kpop",
-    "published_ts": 1795032222.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "EJAE谈《KPop Demon Hunters》成功后生活、新节日单曲与Gap Studio企划",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "原文仅提及EJAE接受《Us Weekly》采访，谈及《KPop Demon Hunters》成功后的生活、一首新的节日歌曲以及Gap Studio企划",
-      "原文未提及采访具体时间、地点、歌曲名称、企划细节或任何数据"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：EJAE谈《KPop Demon Hunters》成功后的生活、新节日歌曲与Gap Studio企划]",
-    "extracted_at": "2026-11-19T09:40:01.424888+08:00"
+    "summary_zh": "《财富》杂志报道称，为Gap拍摄牛仔裤广告、播放量达8000万次的女团正成为检验K-pop产业机制能推进到何种程度的案例。报道引述该女团成员的表态“这让我感觉不对”，但原文未披露该表态所指的具体事件、时间、地点及后续处理细节。",
+    "extracted_at": "2026-11-19T20:27:28.375150+08:00"
   },
   {
     "source_id": "google-kpop",
@@ -282,16 +996,16 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "彭博社评论：韩国须正视K-Pop产业阴暗面",
+    "title_zh": "彭博社评论：韩国必须正视K-Pop产业的阴暗面",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": true,
     "facts_list": [
-      "原文标题为《South Korea Must Confront K-Pop's Ugly Side》，来源为彭博社（Bloomberg.com）",
-      "原文正文内容缺失，仅提供标题，未提及具体事件、时间、地点、数据或具名来源"
+      "原文仅为彭博社评论文章标题，未提及具体事件、时间、地点、数据或具名来源",
+      "原文核心主张：韩国必须正视K-Pop产业的阴暗面"
     ],
     "summary_zh": "[原文未提及具体行为，仅称：韩国必须正视K-Pop的阴暗面]",
-    "extracted_at": "2026-11-19T09:40:03.465051+08:00"
+    "extracted_at": "2026-11-19T20:27:29.720569+08:00"
   },
   {
     "source_id": "soompi",
@@ -313,11 +1027,11 @@
     "facts_list": [
       "日本唱片协会（RIAJ）公布最新一批官方认证名单",
       "&TEAM的韩国迷你专辑《Mark on Me》获得双白金认证，出货量超过50万张",
-      "RIAJ专辑认证标准：出货10万张为金唱片，25万张为白金唱片",
-      "BOYNEXTDOOR也获得RIAJ白金认证（原文未提及具体作品及出货量）"
+      "RIAJ认证标准：专辑出货量10万张为金唱片，25万张为白金唱片",
+      "BOYNEXTDOOR也获得RIAJ白金认证（原文未提及具体专辑及出货量）"
     ],
-    "summary_zh": "日本唱片协会（RIAJ）公布最新认证名单，&TEAM的韩国迷你专辑《Mark on Me》以超过50万张的出货量获得双白金认证。根据RIAJ标准，专辑出货10万张为金唱片，25万张为白金唱片。BOYNEXTDOOR同样获得白金认证，但原文未披露具体作品及出货量。",
-    "extracted_at": "2026-11-19T09:40:06.326623+08:00"
+    "summary_zh": "日本唱片协会（RIAJ）公布最新认证名单，&TEAM的韩国迷你专辑《Mark on Me》以超过50万张的出货量获得双白金认证。根据RIAJ标准，专辑出货量10万张为金唱片，25万张为白金唱片。BOYNEXTDOOR同样获得白金认证，但原文未披露具体专辑及出货量细节。",
+    "extracted_at": "2026-11-19T20:27:31.815809+08:00"
   },
   {
     "source_id": "soompi",
@@ -332,67 +1046,18 @@
     "source_lang": "en",
     "image_url": "",
     "is_new": true,
-    "title_zh": "NCT WISH登顶Circle十月专辑榜，A2O LITE等歌手领跑周榜",
+    "title_zh": "NCT WISH、TWS、ILLIT等登顶Circle月榜与周榜",
     "source_type": "韩娱",
     "risk_level": "低",
     "is_blurred": false,
     "facts_list": [
-      "NCT WISH凭借最新迷你专辑《I SPY》在Circle Chart十月月度实体专辑榜排名第一，空降冠军。",
-      "PLAVE的迷你专辑《HYPERDRIVE》空降该月榜第二。",
-      "SEVENTEEN小分队JxJ的出道专辑位列该月榜第三。",
-      "A2O LITE、TWS、ILLIT、RESCENE、Onew与Zico在Circle周榜上排名前列。"
+      "NCT WISH 凭借最新迷你专辑《I SPY》登顶 Circle Chart 10月实体专辑月榜",
+      "PLAVE 的迷你专辑《HYPERDRIVE》空降月榜第2位",
+      "SEVENTEEN 小分队 JxJ 的出道专辑位列月榜第3位",
+      "A2O LITE、TWS、ILLIT、RESCENE、Onew 与 Zico 在 Circle 周榜上名列前茅"
     ],
-    "summary_zh": "Circle Chart公布最新月度和周度榜单。NCT WISH以迷你专辑《I SPY》登顶十月实体专辑月榜，PLAVE《HYPERDRIVE》和SEVENTEEN小分队JxJ分列二、三位。周榜方面，A2O LITE、TWS、ILLIT、RESCENE以及Onew与Zico占据前列。",
-    "extracted_at": "2026-11-19T09:40:09.333772+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Upcoming K-Drama ‘Gift’ Brings Supernatural Baseball to Netflix in December 2026 - What's on Netflix",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV2M3Ty1TUGE1bHFSMG5GNTM2NW9lMm05dVBjVjFnQzE2STd1Mk42TmdrZkQtWHAzSWdQMnh6MmdOSnBsc3loRTluUWxKOUdBZjRaaUdhWjdyTXdvOVBTbnRKWnRZZ21IQ2kzZ3NEM2prbE9FSnlkRWtkLWw4Qm9TaFctTkpMTm1pOEotSy1ON2RnTFF5TUNYb2xkRQ?oc=5",
-    "content": "Upcoming K-Drama ‘Gift’ Brings Supernatural Baseball to Netflix in December 2026 What's on Netflix",
-    "published_at": "1119google-kpop",
-    "published_ts": 1795021041.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Netflix韩剧《Gift》定档2026年12月，主打超自然棒球题材",
-    "source_type": "韩剧",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "Netflix原创韩剧《Gift》计划于2026年12月上线",
-      "该剧题材为超自然棒球（supernatural baseball）",
-      "信息来源为What's on Netflix"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：Netflix韩剧《Gift》将于2026年12月上线，题材为超自然棒球]",
-    "extracted_at": "2026-11-19T09:40:11.229034+08:00"
-  },
-  {
-    "source_id": "google-kpop",
-    "source_name": "Google News",
-    "l1_tab": "韩娱",
-    "title": "Abby’s Immersive Experience at Netflix House with K-Pop Demon Hunters - PHL17.com",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT2c1NWVYYloyZ212Z2ZWZXVMOFdJMEYzQk9QYzg0ZmJ6VC02Tjd1ejZmTExhblZGM3JUcFdNZWtaRHBteXRndm5kZlNPMk4xUTdPMUFTYk5EQjdQM29hTThIdkEzNkpiMmdBVmx1VUdwNnh1akxpNVZ3T3RyWWxNSDNjLWVYS1I3LUZoTVJ2VTRSVkZUbmNRSnloSmZGQTN4QVpXRlQ3OU4?oc=5",
-    "content": "Abby’s Immersive Experience at Netflix House with K-Pop Demon Hunters PHL17.com",
-    "published_at": "1119google-kpop",
-    "published_ts": 1795020658.0,
-    "category": "韩娱",
-    "source_lang": "en",
-    "image_url": "",
-    "is_new": true,
-    "title_zh": "Abby体验Netflix House《K-Pop Demon Hunters》沉浸式活动",
-    "source_type": "韩娱",
-    "risk_level": "低",
-    "is_blurred": true,
-    "facts_list": [
-      "原文仅提及Abby在Netflix House体验《K-Pop Demon Hunters》沉浸式活动，来源为PHL17.com",
-      "原文未提供活动时间、地点、具体体验内容或相关数据"
-    ],
-    "summary_zh": "[原文未提及具体行为，仅称：Abby在Netflix House体验《K-Pop Demon Hunters》沉浸式活动]",
-    "extracted_at": "2026-11-19T09:40:13.067767+08:00"
+    "summary_zh": "Circle Chart 公开最新月榜与周榜排名。NCT WISH 以迷你专辑《I SPY》登顶10月实体专辑月榜，PLAVE《HYPERDRIVE》空降第2，SEVENTEEN 小分队 JxJ 的出道专辑位列第3。此外，A2O LITE、TWS、ILLIT、RESCENE 以及 Onew 与 Zico 在周榜上表现突出。",
+    "extracted_at": "2026-11-19T20:27:32.957486+08:00"
   },
   {
     "source_id": "asianwiki",
